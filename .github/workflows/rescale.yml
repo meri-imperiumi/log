@@ -13,10 +13,10 @@ jobs:
     - name: Resize 2021 images
       uses: xprilion/img-resizer-inplace@v1
       with:
-        target: 2021
+        target: '2021'
         dimensions: 1024x
     - name: Resize 2022 images
       uses: xprilion/img-resizer-inplace@v1
       with:
-        target: 2022
+        target: '2022'
         dimensions: 1024x
