@@ -1,0 +1,14 @@
+---
+layout: default
+title: Shakedown cruise on the Baltic Sea
+---
+We bought Lille Oe in May 2021. The summer was spent getting this 42 year old boat ready for the sea again. This included rebuilding the cabin top, replacing the electrical system with a new 12V LiFePO4 setup, and installing a set of modern NMEA2000 navigation instruments powered by Signal K.
+
+With all these changes, we only had a month to actually sail. So this trip should be mostly seen as a "shakedown cruise" to see how the boat and all the new equipment behaves, and figuring out what still needs to be done before a longer cruise next year.
+
+Despite the engine trouble in the beginning, we had a great trip! We found out that the boat sails beautifully even in bigger seas, and visited lots of nice places. Especially the Blekinge archipelago with all its skerries was a memorable one.
+
+The trip also showed us the strength of belonging to an active sailing club. Without the help of friends at the club, we'd likely still be in Henningsdorf waiting for a mechanic!
+
+{% assign log_year = "2021" %}
+{% include logs.html %}

@@ -1,0 +1,12 @@
+<ul>
+  {% assign logs = site.logs | reverse %}
+  {% for post in logs %}
+    {% assign post_year = post.created | slice: 0,4 %}
+    {% if post_year == log_year %}
+  <li>
+    <h2>{{ post.created | date: "%Y-%m-%d" }} {{ post.title }}</h2>
+    {{ post.content }}
+  </li>
+    {% endif %}
+  {% endfor %}
+</ul>

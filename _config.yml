@@ -7,6 +7,6 @@ defaults:
       layout: default
 collections:
   logs:
-    output: true
+    output: false
     permalink: /:year/:month/:day/
     sort_by: created
