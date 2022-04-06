@@ -1,4 +1,4 @@
-<ul>
+<ul class="logs">
   {% assign logs = site.logs | reverse %}
   {% for post in logs %}
     {% assign post_year = post.created | slice: 0,4 %}
