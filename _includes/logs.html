@@ -9,7 +9,7 @@
     {% if post_year == log_year %}
   <li>
     <h2>{{ post.created | date: "%Y-%m-%d" }} {{ post.title }}</h2>
-    {{ post.content }}
+    {{ post.content | replace: 'img src="..', 'img src="https://meri-imperiumi.github.io/log'| replace: 'https://meri-imperiumi.github.io/log',site.baseurl }}
   </li>
     {% endif %}
   {% endfor %}
