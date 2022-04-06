@@ -58,21 +58,25 @@ main img {
 
 ul.years {
   margin: 0;
-  padding: 1em;
-  background-color: #335e6f;
-  color: #ffffff;
-  border-radius: 1em;
+  padding: 0;
+  position: absolute;
+  right: 1em;
+  top: 3em;
 }
 ul.years li {
   list-style: none;
   margin: 0;
-  padding: 1em;
+  padding-left: 1em;
+  padding-right: 0;
   display: inline;;
 }
 ul.years li a {
   color: #ffffff;
   text-decoration: none;
   font-weight: bold;
+}
+ul.years li a:hover {
+  text-decoration: underline;
 }
 
 ul.logs {
@@ -84,8 +88,31 @@ ul.logs > li {
   margin: 0;
   padding: 0;
 }
+p.more a {
+  font-size: 1.2em;
+  text-decoration: none;
+  background-color: #335e6f;
+  color: #ffffff;
+  padding: 4px;
+  border-radius: 4px;
+}
+p.more a:hover {
+  text-decoration: underline;
+}
 @media (max-width: 1024px) {
   main img {
     max-width: 100%;
+  }
+  header {
+    height: 7em;
+  }
+  ul.years {
+    left: 1em;
+    right: auto;
+    top: 5em;
+  }
+  ul.years li {
+    padding-right: 1em;
+    padding-left: 0;
   }
 }
