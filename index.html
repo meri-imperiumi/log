@@ -1,15 +1,12 @@
 ---
 layout: default
 title: Latest logs
-years:
-  - 2022
-  - 2021
 reverse: true
 ---
 <nav>
   <ul class="years">
-    {% for year in page.years %}
-    <li><a href="./{{ year }}/">{{ year }}</a></li>
+    {% for year in site.years %}
+    <li><a href="{{ site.baseurl }}{{ year.url }}">{{ year.year }}</a></li>
     {% endfor %}
   <ul>
 </nav>
