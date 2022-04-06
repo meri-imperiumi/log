@@ -3,13 +3,6 @@ layout: default
 title: Latest logs
 reverse: true
 ---
-<nav>
-  <ul class="years">
-    {% for year in site.years %}
-    <li><a href="{{ site.baseurl }}{{ year.url }}">{{ year.year }}</a></li>
-    {% endfor %}
-  <ul>
-</nav>
 {% assign logs = site.logs | reverse %}
 <ul class="logs">
 {% for post in logs limit:10 %}
@@ -19,3 +12,6 @@ reverse: true
   </li>
 {% endfor %}
 </ul>
+{% if logs[10] %}
+<p class="more"><a href="{{ site.baseurl }}/{{ logs[10].created | date: "%Y" }}/" rel="next">More</a></p>
+{% endif %}
