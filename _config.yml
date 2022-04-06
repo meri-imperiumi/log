@@ -1,1 +1,12 @@
-theme: jekyll-theme-slate
+name: Logbook of Lille Ø
+defaults:
+  - scope:
+      path: ""
+      type: logs
+    values:
+      layout: default
+collections:
+  logs:
+    output: true
+    permalink: /:year/:month/:day/
+    sort_by: created

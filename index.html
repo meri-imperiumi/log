@@ -3,9 +3,11 @@ layout: default
 title: Logbook of Lille Ø
 ---
 <ul>
-  {% for post in site.posts %}
+  {% assign logs = site.logs | reverse %}
+  {% for post in logs %}
   <li>
-    <a href="{{ post.url }}">{{ post.title }}</a>
+    <h2><a href="{{ post.url }}">{{ post.title }}</a></h2>
+    {{ post.content }}
   </li>
   {% endfor %}
 </ul>
