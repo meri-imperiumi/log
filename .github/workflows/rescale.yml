@@ -7,6 +7,8 @@ on:
 
 jobs:
   rescale:
+    name: Resize images
+    runs-on: ubuntu-latest
     steps:
     - name: Resize 2021 images
       uses: xprilion/img-resizer-inplace@v1
