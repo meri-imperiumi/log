@@ -10,6 +10,7 @@ jobs:
     name: Resize images
     runs-on: ubuntu-latest
     steps:
+    - uses: actions/checkout@v2.3.4
     - name: Resize 2021 images
       uses: xprilion/img-resizer-inplace@v1
       with:
