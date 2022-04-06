@@ -3,7 +3,7 @@ name: Rescale images
 on:
   push:
     branches:
-      - master
+      - main
 
 jobs:
   rescale:
