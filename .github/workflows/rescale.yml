@@ -1,0 +1,29 @@
+name: Rescale images
+
+on:
+  push:
+    branches:
+      - main
+
+jobs:
+  rescale:
+    name: Resize images
+    runs-on: ubuntu-latest
+    steps:
+    - uses: actions/checkout@v2.3.4
+    - name: Resize 2021 images
+      uses: sanderbaas/img-resizer-inplace-idempotent@v2
+      with:
+        target: '2021'
+        width: 1024
+        height: 900
+    - name: Commit files
+      run: |
+        git config --local user.email "41898282+github-actions[bot]@users.noreply.github.com"
+        git config --local user.name "github-actions[bot]"
+        git commit -m "Rescaled images" -a
+    - name: Push changes
+      uses: ad-m/github-push-action@master
+      with:
+        github_token: ${{ secrets.GITHUB_TOKEN }}
+        branch: main
