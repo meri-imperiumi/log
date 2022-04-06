@@ -1,0 +1,20 @@
+name: Rescale images
+
+on:
+  push:
+    branches:
+      - master
+
+jobs:
+  rescale:
+    steps:
+    - name: Resize 2021 images
+      uses: xprilion/img-resizer-inplace@v1
+      with:
+        target: 2021
+        dimensions: 1024x
+    - name: Resize 2022 images
+      uses: xprilion/img-resizer-inplace@v1
+      with:
+        target: 2022
+        dimensions: 1024x
