@@ -46,8 +46,12 @@ main {
 }
 
 main img {
-  max-width: 100%;
+  max-width: 90%;
   max-height: 80%;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  border-radius: 1em;
 }
 
 ul.years {
