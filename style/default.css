@@ -11,10 +11,12 @@ h1 {
   font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Oxygen-Sans, Ubuntu, Cantarell, "Helvetica Neue", Helvetica, Arial, sans-serif;
   font-weight: 100;
   text-rendering: optimizeLegibility;
+  line-height:  1.3em;
 }
 h2 {
   font-weight: normal;
   text-rendering: optimizeLegibility;
+  line-height:  1.3em;
 }
 header {
   display: block;
