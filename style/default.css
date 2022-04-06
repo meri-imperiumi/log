@@ -1,0 +1,70 @@
+body {
+  background-color: #e8e8e4;
+  color: #000000;
+  font-family: Palatino, "Palatino Linotype", "Palatino LT STD", "Book Antiqua", Georgia, serif;
+  font-size: 16pt;
+  line-height: 21pt;
+  padding: 0;
+  margin: 0;
+}
+h1 {
+  font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Oxygen-Sans, Ubuntu, Cantarell, "Helvetica Neue", Helvetica, Arial, sans-serif;
+  font-weight: 100;
+  text-rendering: optimizeLegibility;
+}
+h2 {
+  font-weight: normal;
+  text-rendering: optimizeLegibility;
+}
+header {
+  display: block;
+  margin: 0;
+  padding: 0;
+  padding-left: 1em;
+  padding-right: 1em;
+  height: 5em;
+  background-color: #003247;
+  color: #ffffff;
+  border-bottom: 4px #cf1d39 solid;
+}
+header h1 {
+  margin: 0;
+  padding: 0;
+  line-height: 3em;
+}
+main {
+  display: block;
+  margin: 0;
+  padding: 0;
+  padding-left: 1em;
+  padding-right: 1em;
+}
+
+ul.years {
+  margin: 0;
+  padding: 1em;
+  background-color: #335e6f;
+  color: #ffffff;
+  border-radius: 1em;
+}
+ul.years li {
+  list-style: none;
+  margin: 0;
+  padding: 1em;
+  display: inline;;
+}
+ul.years li a {
+  color: #ffffff;
+  text-decoration: none;
+  font-weight: bold;
+}
+
+ul.logs {
+  margin: 0;
+  padding: 0;
+}
+ul.logs > li {
+  list-style: none;
+  margin: 0;
+  padding: 0;
+}
