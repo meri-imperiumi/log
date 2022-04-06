@@ -22,7 +22,7 @@ jobs:
     #    target: '2022'
     #    dimensions: 1024x
     - name: Test
-      uses: DavidS/jekyll-deploy@
+      uses: DavidS/jekyll-deploy@1.1.1
       with:
         build-only: true
       env:
