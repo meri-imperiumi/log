@@ -45,6 +45,11 @@ main {
   max-width: 42em;
 }
 
+main img {
+  max-width: 100%;
+  max-height: 80%;
+}
+
 ul.years {
   margin: 0;
   padding: 1em;
