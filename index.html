@@ -11,5 +11,11 @@ reverse: true
   <ul>
 </nav>
 {% assign logs = site.logs | reverse %}
-{% assign log_year = logs.first.created | slice: 0,4 %}
-{% include logs.html %}
+<ul class="logs">
+{% for post in logs limit:10 %}
+  <li id="{{ post.created | date: "%Y%m%d" }}">
+    <h2>{{ post.created | date: "%Y-%m-%d" }} {{ post.title }}</h2>
+    {{ post.content | replace: 'img src="..', 'img src="https://meri-imperiumi.github.io/log'| replace: 'https://meri-imperiumi.github.io/log',site.baseurl }}
+  </li>
+{% endfor %}
+</ul>
