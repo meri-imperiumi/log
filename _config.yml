@@ -10,3 +10,6 @@ collections:
     output: false
     permalink: /:year/:month/:day/
     sort_by: created
+  years:
+    output: true
+    permalink: /:name/
