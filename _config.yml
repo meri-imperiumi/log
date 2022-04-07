@@ -14,3 +14,11 @@ collections:
   years:
     output: true
     permalink: /:name/
+exclude:
+  - fetchais.mjs
+  - .github
+  - .gitignore
+  - README.md
+  - package.json
+  - package-lock.json
+  - node_modules

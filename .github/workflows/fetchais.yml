@@ -1,0 +1,30 @@
+name: Update data from AIS
+
+on:
+  schedule:
+  - cron: "0 * * * *"
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v2.3.4
+      - uses: actions/setup-node@v2.1.4
+        with:
+          node-version: 16
+      - run: npm install node-fetch
+      - run: node .github/fetchais.mjs
+        env:
+          AISHUB_TOKEN: ${{secrets.AISHUB_TOKEN}}
+    - name: Commit files
+      run: |
+        if [ -z "$(git status --porcelain)" ]; then exit 0;fi
+        git config --local user.email "41898282+github-actions[bot]@users.noreply.github.com"
+        git config --local user.name "github-actions[bot]"
+        git add _data/aishub.json
+        git commit -m "Updated AIS data"
+    - name: Push changes
+      uses: ad-m/github-push-action@master
+      with:
+        github_token: ${{ secrets.GITHUB_TOKEN }}
+        branch: main
