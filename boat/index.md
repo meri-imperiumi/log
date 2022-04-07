@@ -41,6 +41,15 @@ Lille Ø is an [Amigo 40](https://sailboatdata.com/sailboat/amigo-40), a 31ft he
 * 80A alternator on the Diesel engine
 * 12V system monitored by [Victron VRM](https://www.victronenergy.com/panel-systems-remote-monitoring/vrm)
 
+## Electronics
+
+* Raspberry Pi with [Sailor Hat](https://hatlabs.fi/) running [Signal K](http://signalk.org) (see [installation playbook](https://github.com/meri-imperiumi/lille-oe))
+* NMEA 2000 network
+* [Ruuvi](https://ruuvi.com) environmental sensors
+* [LCJ Capteurs](https://lcjcapteurs.com) ultrasonic wind sensor
+* B&G Triton2 instrument displays
+* WideLink B600 AIS transponder
+
 ## Ground tackle
 
 * 15kg Rocna Vulcan with 50m chain as bow anchor
