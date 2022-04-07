@@ -1,6 +1,7 @@
 <aside>
   <h2>{{ site.data.aishub.NAME }} {{ site.data.aishub.CALLSIGN }}</h2>
   <div id="map" style="width: 100%; height: 280px"></div>
+  <img id="boatmarker" src="{{site.baseurl}}/style/boat.png" style="width: 60px; height: 60px">
   <link href="https://unpkg.com/maplibre-gl@2.1.7/dist/maplibre-gl.css" rel="stylesheet" />
   <script src="https://unpkg.com/maplibre-gl@2.1.7/dist/maplibre-gl.js"></script>
 
@@ -12,7 +13,9 @@
       zoom: 8
     });
 
-    const marker = new maplibregl.Marker()
+    const marker = new maplibregl.Marker({
+        element: document.getElementById('boatmarker'),
+      })
       .setLngLat([{{ site.data.aishub.LONGITUDE }}, {{ site.data.aishub.LATITUDE }}])
       .addTo(map);
   </script>
