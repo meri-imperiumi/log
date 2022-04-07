@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: boat
 title: 'Lille Ø - Amigo 40'
 type: Journal
 ---
