@@ -109,6 +109,31 @@ p.more a:hover {
 a {
   color: #003247;
 }
+main aside {
+  float: right;
+  width: 12em;
+  padding: 1em;
+  margin-left: 1em;
+  margin-bottom: 1em;
+  margin-right: -12em;
+  font-size: smaller;
+  background-color: #a75534;
+  color: #ffffff;
+  border-radius: 1em;
+  font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Oxygen-Sans, Ubuntu, Cantarell, "Helvetica Neue", Helvetica, Arial, sans-serif;
+}
+aside h2 {
+  margin-top: 0;
+  padding-top: 0;
+}
+aside p.meta {
+  margin-bottom: 0;
+  padding-bottom: 0;
+}
+.meta {
+  font-style: italic;
+  font-size: smaller;
+}
 @media (max-width: 1024px) {
   main img {
     max-width: 100%;

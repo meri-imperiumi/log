@@ -1,0 +1,27 @@
+<aside>
+  <h2>{{ site.data.aishub.NAME }} {{ site.data.aishub.CALLSIGN }}</h2>
+  <div id="map" style="width: 100%; height: 280px"></div>
+  <link href="https://unpkg.com/maplibre-gl@2.1.7/dist/maplibre-gl.css" rel="stylesheet" />
+  <script src="https://unpkg.com/maplibre-gl@2.1.7/dist/maplibre-gl.js"></script>
+
+  <script>
+    const map = new maplibregl.Map({
+      container: 'map',
+      style: 'https://api.maptiler.com/maps/voyager/style.json?key=get_your_own_OpIi9ZULNHzrESv6T2vL',
+      center: [{{ site.data.aishub.LONGITUDE }}, {{ site.data.aishub.LATITUDE }}],
+      zoom: 8
+    });
+
+    const marker = new maplibregl.Marker()
+      .setLngLat([{{ site.data.aishub.LONGITUDE }}, {{ site.data.aishub.LATITUDE }}])
+      .addTo(map);
+  </script>
+  {% if site.data.aishub.SOG > 0 %}
+  <p>
+    Under way. Speed {{ site.data.aishub.SOG }}kt, heading {{ site.data.aishub.HEADING }}&deg;
+  </p>
+  {% else %}
+  <p>Not under way.</p>
+  {% endif %}
+  <p class="meta">Updated at {{ site.data.aishub.TIME | date: "%b %d %H:%M UTC" }}</p>
+</aside>
