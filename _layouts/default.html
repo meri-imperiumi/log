@@ -13,10 +13,11 @@
     <header>
       <h1><a href="{{ site.baseurl }}/">{{ site.name }}</a></h1>
       <nav>
-        <ul class="years">
+        <ul>
           {% for year in site.years %}
           <li><a href="{{ site.baseurl }}{{ year.url }}">{{ year.year }}</a></li>
           {% endfor %}
+          <li><a href="{{ site.baseurl }}/boat/">Lille Ø</a></li>
         </ul>
       </nav>
     </header>

@@ -56,26 +56,27 @@ main img {
   border-radius: 1em;
 }
 
-ul.years {
+header nav ul {
   margin: 0;
   padding: 0;
   position: absolute;
   right: 1em;
   top: 3em;
 }
-ul.years li {
+header nav ul li {
   list-style: none;
   margin: 0;
   padding-left: 1em;
   padding-right: 0;
   display: inline;;
 }
-ul.years li a {
+header nav ul li a {
   color: #ffffff;
   text-decoration: none;
   font-weight: bold;
 }
-ul.years li a:hover {
+header nav ul li a:hover,
+header nav ul li.active a {
   text-decoration: underline;
 }
 
@@ -98,6 +99,9 @@ p.more a {
 }
 p.more a:hover {
   text-decoration: underline;
+}
+a {
+  color: #003247;
 }
 @media (max-width: 1024px) {
   main img {
