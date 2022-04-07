@@ -8,18 +8,18 @@
     <link>{{ site.url }}</link>
     <language>en</language>
     <lastBuildDate>{{ site.time | date_to_rfc822 }}</lastBuildDate>
+    {% capture site_url %}{{ site.url }}{{ site.baseurl }}{% endcapture %}
     {% assign logs = site.logs | reverse %}
     {% for post in logs limit:10 %}
     <item>
       {% assign post_year = post.created | slice: 0,4 %}
       {% assign post_id = post.created | date: "%Y%m%d" %}
-      {% capture post_url %}{{ site.url }}/{{ post_year}}#{{ post_id }}{% endcapture %}
+      {% capture post_url %}{{ site_url }}/{{ post_year}}#{{ post_id }}{% endcapture %}
       <title>{{ post.created | date: "%Y-%m-%d" }} - {{ post.title }}</title>
-      <description>{{ post.content | replace: 'img src="..', 'img src="https://meri-imperiumi.github.io/log'| replace: 'https://meri-imperiumi.github.io/log',site.url| xml_escape }}</description>
+      <description>{{ post.content | replace: 'img src="..', 'img src="https://meri-imperiumi.github.io/log'| replace: 'https://meri-imperiumi.github.io/log',site_url| xml_escape }}</description>
       <pubDate>{{ post.created | date_to_rfc822 }}</pubDate>
       <link>{{ post_url }}</link>
       <guid isPermaLink="true">{{ post_url }}</guid>
-      <author>{{ site.author }}</author>
     </item>
   {% endfor %}
 </channel>
