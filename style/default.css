@@ -81,6 +81,7 @@ header nav ul li {
   padding-left: 1em;
   padding-right: 0;
   display: inline;;
+  white-space: nowrap;
 }
 header nav ul li a {
   color: #ffffff;
