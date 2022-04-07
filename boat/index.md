@@ -1,5 +1,5 @@
 ---
-layout: boat
+layout: default
 title: 'Lille Ø - Amigo 40'
 type: Journal
 ---
@@ -41,15 +41,6 @@ Lille Ø is an [Amigo 40](https://sailboatdata.com/sailboat/amigo-40), a 31ft he
 * 80A alternator on the Diesel engine
 * 12V system monitored by [Victron VRM](https://www.victronenergy.com/panel-systems-remote-monitoring/vrm)
 
-## Electronics
-
-* Raspberry Pi with [Sailor Hat](https://hatlabs.fi/) running [Signal K](http://signalk.org) (see [installation playbook](https://github.com/meri-imperiumi/lille-oe))
-* NMEA 2000 network
-* [Ruuvi](https://ruuvi.com) environmental sensors
-* [LCJ Capteurs](https://lcjcapteurs.com) ultrasonic wind sensor
-* B&G Triton2 instrument displays
-* WideLink B600 AIS transponder
-
 ## Ground tackle
 
 * 15kg Rocna Vulcan with 50m chain as bow anchor
@@ -57,3 +48,4 @@ Lille Ø is an [Amigo 40](https://sailboatdata.com/sailboat/amigo-40), a 31ft he
 * Fortress Fx-11 kedge anchor
 
 ![Under way](../2021/7143e23ead65021105190ee55bf6d37c.jpg) ![Anchored](../2021/5181076882c1e1b5ed7235d7e9e6edcd.jpg)
+![In the Baltic](../2021/4a3518d2b9cfbd649adeba2eca114f12.jpg) ![Snow](../2021/8f3692736d2de6d3e33d53fb6a040533.jpg)
