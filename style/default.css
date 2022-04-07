@@ -73,6 +73,7 @@ header nav ul {
   right: 1em;
   top: 3em;
   font-family: NotesESA, -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Oxygen-Sans, Ubuntu, Cantarell, "Helvetica Neue", Helvetica, Arial, sans-serif;
+  text-transform: uppercase;
 }
 header nav ul li {
   list-style: none;
@@ -165,5 +166,7 @@ aside p.meta {
     float: none;
     width: 80vw;
     margin: 0;
+    margin-left: auto;
+    margin-right: auto;
   }
 }
