@@ -1,3 +1,7 @@
+@font-face {
+  font-family: 'NotesESA';
+  src: url('./NotesESA.woff');
+}
 body {
   background-color: #e8e8e4;
   color: #000000;
@@ -33,7 +37,7 @@ header {
   background-repeat: no-repeat;
 }
 header h1 {
-  font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Oxygen-Sans, Ubuntu, Cantarell, "Helvetica Neue", Helvetica, Arial, sans-serif;
+  font-family: NotesESA, -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Oxygen-Sans, Ubuntu, Cantarell, "Helvetica Neue", Helvetica, Arial, sans-serif;
   margin: 0;
   padding: 0;
   line-height: 3em;
@@ -68,7 +72,7 @@ header nav ul {
   position: absolute;
   right: 1em;
   top: 3em;
-  font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Oxygen-Sans, Ubuntu, Cantarell, "Helvetica Neue", Helvetica, Arial, sans-serif;
+  font-family: NotesESA, -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Oxygen-Sans, Ubuntu, Cantarell, "Helvetica Neue", Helvetica, Arial, sans-serif;
 }
 header nav ul li {
   list-style: none;
@@ -99,6 +103,7 @@ main img {
   margin: 1px;
 }
 p.more a {
+  font-family: NotesESA, -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Oxygen-Sans, Ubuntu, Cantarell, "Helvetica Neue", Helvetica, Arial, sans-serif;
   font-size: 1.2em;
   text-decoration: none;
   background-color: #335e6f;
@@ -123,7 +128,7 @@ main aside {
   background-color: #335e6f;
   color: #ffffff;
   border-radius: 1em;
-  font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Oxygen-Sans, Ubuntu, Cantarell, "Helvetica Neue", Helvetica, Arial, sans-serif;
+  font-family: NotesESA, -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Oxygen-Sans, Ubuntu, Cantarell, "Helvetica Neue", Helvetica, Arial, sans-serif;
 }
 aside h2 {
   margin-top: 0;
