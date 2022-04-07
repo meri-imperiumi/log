@@ -3,12 +3,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
+    {% capture site_url %}{{ site.url }}{{ site.baseurl }}{% endcapture %}
     <title>{{ site.name }}</title>
     <description>{{ site.description }}</description>
-    <link>{{ site.url }}</link>
+    <link>{{ site_url }}</link>
     <language>en</language>
     <lastBuildDate>{{ site.time | date_to_rfc822 }}</lastBuildDate>
-    {% capture site_url %}{{ site.url }}{{ site.baseurl }}{% endcapture %}
     {% assign logs = site.logs | reverse %}
     {% for post in logs limit:10 %}
     <item>
