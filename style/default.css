@@ -22,17 +22,23 @@ header {
   display: block;
   margin: 0;
   padding: 0;
-  padding-left: 1em;
+  padding-left: 7em;
   padding-right: 1em;
   height: 5em;
   background-color: #003247;
   color: #ffffff;
   border-bottom: 4px #cf1d39 solid;
+  background-image: url(favicon.png);
+  background-size: contain;
+  background-position: -2 -2;
+  background-repeat: no-repeat;
 }
 header h1 {
   margin: 0;
   padding: 0;
   line-height: 3em;
+  overflow: hidden;
+  white-space: nowrap;
 }
 header h1 a {
   text-decoration: none;
@@ -110,13 +116,21 @@ a {
   header {
     height: 7em;
   }
-  ul.years {
-    left: 1em;
+  header h1 {
+    font-size: 1.3em;
+  }
+  header nav ul {
+    left: 7em;
     right: auto;
     top: 5em;
   }
-  ul.years li {
+  header nav ul li {
     padding-right: 1em;
     padding-left: 0;
+  }
+  main aside {
+    float: none;
+    width: 80vw;
+    margin: 0;
   }
 }
