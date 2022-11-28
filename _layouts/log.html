@@ -1,0 +1,12 @@
+---
+layout: default
+---
+<h1>{{ page.title }}</h1>
+{{ content }}
+{% if page.content contains "Distance today" %}
+  {% include timelapse.html %}
+{% endif %}
+{% assign year = page.created | date: "%Y" %}
+<p>
+  This is a log entry from our <a href="{{ site.baseurl }}/{{ year }}/">{{ year }} cruise</a>
+</p>

@@ -14,7 +14,7 @@
     <item>
       {% assign post_year = post.created | slice: 0,4 %}
       {% assign post_id = post.created | date: "%Y%m%d" %}
-      {% capture post_url %}{{ site_url }}/{{ post_year}}#{{ post_id }}{% endcapture %}
+      {% capture post_url %}{{ site_url }}{{ post.url }}{% endcapture %}
       <title>{{ post.created | date: "%Y-%m-%d" }} - {{ post.title }}</title>
       <description>{{ post.content | replace: 'img src="..', 'img src="https://meri-imperiumi.github.io/log'| replace: 'https://meri-imperiumi.github.io/log',site_url| xml_escape }}</description>
       <pubDate>{{ post.created | date_to_rfc822 }}</pubDate>
