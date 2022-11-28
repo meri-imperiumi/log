@@ -163,13 +163,16 @@ main nav.prevnext ul li {
   list-style: none;
   margin: 0;
   padding: 0;
-  max-width: 92vw;
 }
 main nav.prevnext ul li.prev,
 main nav.prevnext ul li.next {
+  width: 33vw;
   overflow: hidden;
   white-space: nowrap;
   text-overflow: ellipsis;
+}
+main nav.prevnext ul li.next {
+  text-align: right;
 }
 main nav.prevnext ul li a {
   text-decoration: none;

@@ -6,6 +6,11 @@ defaults:
       type: logs
     values:
       layout: log
+  - scope:
+      path: ""
+      type: years
+    values:
+      layout: year
 collections:
   logs:
     output: true
