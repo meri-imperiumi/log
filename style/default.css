@@ -143,7 +143,35 @@ main .timelapse iframe {
   height: 80vh;
   border: none;
 }
-p.more a {
+main nav.prevnext {
+  grid-column: 1 / 4;
+  width: 100%;
+  display: block;
+  margin-top: 1em;
+  margin-bottom: 1em;
+}
+main nav.prevnext ul {
+  display: flex;
+  justify-content: space-between;
+  margin: 0;
+  padding: 0;
+  width: 96%;
+  margin-left: auto;
+  margin-right: auto;
+}
+main nav.prevnext ul li {
+  list-style: none;
+  margin: 0;
+  padding: 0;
+  white-space: nowrap;
+}
+main nav.prevnext ul li a {
+  text-decoration: none;
+}
+main nav.prevnext ul li a:focus, main nav.prevnext ul li a:hover {
+  text-decoration: underline;
+}
+p.more a, main nav.prevnext ul li.cruise a {
   font-family: NotesESA, -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Oxygen-Sans, Ubuntu, Cantarell, "Helvetica Neue", Helvetica, Arial, sans-serif;
   font-size: 1.2em;
   text-decoration: none;
@@ -208,5 +236,11 @@ aside p.meta {
     margin: 0;
     margin-left: auto;
     margin-right: auto;
+  }
+  main nav.prevnext ul {
+    flex-direction: column;
+  }
+  main nav.prevnext ul li {
+    text-align: center;
   }
 }
