@@ -126,13 +126,17 @@ main .intro > * {
   margin-right: auto;
 }
 main .intro .copy {
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
   margin-top: 2em;
+  column-gap: 2em;
 }
-main .intro .copy > * {
-  background-color: rgba(232, 232, 228, 0.7);
-  margin-right: 32vw;
-  margin-left: -8px;
+main .intro .copy div > * {
+  background-color: rgba(232, 232, 228, 0.8);
   padding: 8px;
+  margin-left: -8px;
+  margin-right: -8px;
 }
 main .intro h1 {
   margin-top: 0px;
@@ -140,18 +144,15 @@ main .intro h1 {
   padding-top: 0px;
   padding-bottom: 0px;
 }
-main .intro > .copy a {
-  padding: 0px;
-  margin: 0px;
-}
 main .intro img {
   padding: 0px;
   margin: 0px;
   border-radius: 50%;
   width: 30vw;
   height: 30vw;
+  max-width: 30vw;
   object-fit: cover;
-  float: right;
+  display: block;
   z-index: 1;
 }
 main .intro #map {
@@ -167,7 +168,7 @@ main .intro #updated {
   position: absolute;
   right: 1em;
   bottom: 0.5em;
-  background-color: rgba(232, 232, 228, 0.7);
+  background-color: rgba(232, 232, 228, 0.8);
   padding: 4px;
 }
 main .timelapse {
@@ -297,7 +298,6 @@ h2.meta {
     padding-left: 0;
   }
   main .intro {
-    padding: 2%;
     height: 60vh;
   }
   main .intro h1 {
@@ -331,5 +331,27 @@ h2.meta {
   }
   main nav.prevnext ul li .title {
     display: none;
+  }
+}
+@media (min-width: 1600px) {
+  main .intro > * {
+    max-width: min(120ch, 96%);
+  }
+  main .intro .copy h1 {
+    font-size: 1.8em;
+    line-height: 2em;
+  }
+  main .intro .copy p {
+    font-size: 1.4em;
+    line-height: 1.6em;
+  }
+}
+@media (max-height: 700px) {
+  main .intro #updated {
+    display: none;
+  }
+  main .intro .copy p {
+    font-size: 0.8em;
+    line-height: 1em;
   }
 }

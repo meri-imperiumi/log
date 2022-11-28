@@ -16,4 +16,4 @@
       .setLngLat([{{ site.data.aishub.LONGITUDE }}, {{ site.data.aishub.LATITUDE }}])
       .addTo(map);
   </script>
-  <p id="updated" class="meta">Position updated at {{ site.data.aishub.TIME | date: "%A, %B %-d, %Y %H:%M UTC" }}</p>
+  <p id="updated" class="meta">Position updated {{ site.data.aishub.TIME | date: "%A, %B %-d, %Y %H:%M UTC" }}</p>
