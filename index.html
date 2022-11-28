@@ -3,7 +3,16 @@ layout: default
 title: Latest logs
 reverse: true
 ---
-{% include aishub.html %}
+<div class="intro">
+  {% include aishub_background.html %}
+  <div class="copy">
+    <a href="{{ site.baseurl }}/boat/"><img src="{{ site.baseurl }}/2022/lille-oe-in-eko.jpg"></a>
+    <h1>{{ site.name }}</h1>
+    <p>
+    Lille Ø is our cruising sailboat, an <a href="{{ site.baseurl }}/boat/">1979 Amigo 40</a>. A Swedish-built boat with a Danish name, a Finnish crew, and sailing under the German flag. Follow our adventures as we explore the coasts of the Baltic Sea!
+    </p>
+  </div>
+</div>
 {% assign logs = site.logs | reverse %}
 <ul class="logs">
 {% for post in logs limit:10 %}
