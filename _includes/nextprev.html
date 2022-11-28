@@ -3,7 +3,7 @@
 {% endif %}
 
 {% for link in links %}
-  {% if link.title == page.title %}
+  {% if link.created == page.created %}
     {% unless forloop.first %}
       {% assign prev = tmpprev %}
     {% endunless %}
