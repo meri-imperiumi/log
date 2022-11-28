@@ -163,7 +163,13 @@ main nav.prevnext ul li {
   list-style: none;
   margin: 0;
   padding: 0;
+  max-width: 92vw;
+}
+main nav.prevnext ul li.prev,
+main nav.prevnext ul li.next {
+  overflow: hidden;
   white-space: nowrap;
+  text-overflow: ellipsis;
 }
 main nav.prevnext ul li a {
   text-decoration: none;
@@ -203,7 +209,8 @@ aside h2 {
   margin-top: 0;
   padding-top: 0;
 }
-aside p.meta {
+aside p.meta,
+h2.meta {
   margin-bottom: 0;
   padding-bottom: 0;
 }
@@ -237,10 +244,10 @@ aside p.meta {
     margin-left: auto;
     margin-right: auto;
   }
-  main nav.prevnext ul {
-    flex-direction: column;
-  }
   main nav.prevnext ul li {
     text-align: center;
+  }
+  main nav.prevnext ul li .title {
+    display: none;
   }
 }
