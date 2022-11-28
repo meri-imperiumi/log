@@ -21,6 +21,12 @@ h2 {
   text-rendering: optimizeLegibility;
   line-height:  1.3em;
 }
+h2 a {
+  text-decoration: none;
+}
+h2 a:focus, h2 a:hover {
+  text-decoration: underline;
+}
 header {
   display: block;
   margin: 0;
@@ -107,6 +113,35 @@ ul.logs > li {
 }
 main img {
   margin: 1px;
+}
+main .timelapse {
+  width: 100%;
+  grid-column: 1 / 4;
+  position: relative;
+}
+main .blocker {
+  height: 59px;
+  width: 100vw;
+  position: absolute;
+  z-index: 1;
+  top: -1px;
+  background-color: #e8e8e4;
+  display: grid;
+  grid-template-columns:
+    1fr
+    min(70ch, 96%)
+    1fr;
+}
+main .blocker p {
+  grid-column: 2;
+}
+main .timelapse iframe {
+  width: 100%;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  height: 80vh;
+  border: none;
 }
 p.more a {
   font-family: NotesESA, -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Oxygen-Sans, Ubuntu, Cantarell, "Helvetica Neue", Helvetica, Arial, sans-serif;

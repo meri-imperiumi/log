@@ -1,0 +1,11 @@
+{% assign first_day = "2021-08-30" %}
+{% assign this_day = page.created | date: "%Y-%m-%d" %}
+{% assign next_day = page.created | date: "%s" | plus: 86400 | date: "%Y-%m-%d" %}
+{% if this_day >= first_day %}
+<div class="timelapse">
+  <div class="blocker">
+    <p>Time lapse courtesy of <a href="https://saillogger.com">Saillogger</a>:</p>
+  </div>
+  <iframe src="https://saillogger.com/timelapse/143/?color=red&start_date={{ this_day }}&end_date={{ next_day }}&map_type=1&speed=90&delay=5&zoom=11"></iframe>
+</div>
+{% endif %}
