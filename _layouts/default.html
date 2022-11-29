@@ -12,18 +12,18 @@
   </head>
   <body>
     <header>
-      <h1><a href="{{ site.baseurl }}/">{{ site.name }}</a></h1>
       <nav>
+        <h1><a href="{{ site.baseurl }}/">Lille Ø</a></h1>
+        <a href="{{ site.baseurl }}/"><img src="{{ site.baseurl }}/style/favicon.png" alt="Meri-Imperiumi" /></a>
         <ul>
           {% for year in site.years %}
           <li><a href="{{ site.baseurl }}{{ year.url }}">{{ year.year }}</a></li>
           {% endfor %}
-          <li><a href="{{ site.baseurl }}/boat/">Lille Ø</a></li>
+          <li><a href="{{ site.baseurl }}/boat/">Boat</a></li>
         </ul>
       </nav>
     </header>
     <main>
-      <h1>{{ page.title }}</h1>
       {{ content }}
     </main>
   </body>
