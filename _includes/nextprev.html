@@ -17,11 +17,11 @@
 {% assign year = page.created | date: "%Y" %}
 <nav class="prevnext">
   <ul>
-    <li class="prev">{% if prev %}<a href="{{ prev.url}}">&laquo; <span class="title">{{ prev.title }}</span></a>{% endif %}</li>
+    <li class="prev">{% if prev %}<a href="{{ site.baseurl }}{{ prev.url}}">&laquo; <span class="title">{{ prev.title }}</span></a>{% endif %}</li>
     <li class="cruise">
       <a href="{{ site.baseurl }}/{{ year }}/">{{ year }} cruise</a>
     </li>
-    <li class="next">{% if next %}<a href="{{ next.url}}"><span class="title">{{ next.title }}</span> &raquo;</a>{% endif %}</li>
+    <li class="next">{% if next %}<a href="{{ site.baseurl }}{{ next.url}}"><span class="title">{{ next.title }}</span> &raquo;</a>{% endif %}</li>
   </ul>
 </nav>
 
