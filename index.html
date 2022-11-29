@@ -17,12 +17,13 @@ reverse: true
 </div>
 {% assign logs = site.logs | reverse %}
 <ul class="logs">
-{% for post in logs limit:10 %}
+  <a href="{{ site.baseurl }}/rss.xml"><img src="{{ site.baseurl }}/style/rss.svg" alt="RSS feed" title="Subscribe via RSS" id="rss" /></a>
+  {% for post in logs limit:10 %}
   <li id="{{ post.created | date: "%Y%m%d" }}">
     <h2><a href="{{ site.baseurl }}{{ post.url }}">{{ post.created | date: "%Y-%m-%d" }} {{ post.title }}</a></h2>
     {{ post.content | replace: 'img src="..', 'img src="https://meri-imperiumi.github.io/log'| replace: 'https://meri-imperiumi.github.io/log',site.baseurl }}
   </li>
-{% endfor %}
+  {% endfor %}
 </ul>
 {% if logs[10] %}
 <p class="more"><a href="{{ site.baseurl }}/{{ logs[10].created | date: "%Y" }}/" rel="next">More</a></p>
