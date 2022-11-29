@@ -228,14 +228,16 @@ main nav.prevnext ul li {
   list-style: none;
   margin: 0;
   padding: 0;
+  align-self: center;
 }
-main nav.prevnext ul li.prev,
-main nav.prevnext ul li.next {
-  max-width: 30vw;
+main nav.prevnext ul li .title {
+  display: inline-block;
+  max-width: 20vw;
+  height: auto;
   overflow: hidden;
   white-space: nowrap;
   text-overflow: ellipsis;
-  align-self: center;
+  vertical-align: top;
 }
 main nav.prevnext ul li.next {
   text-align: right;
@@ -245,7 +247,9 @@ main nav.prevnext ul li a {
   text-decoration: none;
 }
 main nav.prevnext ul li a:focus,
-main nav.prevnext ul li a:hover {
+main nav.prevnext ul li a:hover,
+main nav.prevnext ul li a .title:hover,
+main nav.prevnext ul li a .title:hover {
   text-decoration: underline;
 }
 p.more a,
