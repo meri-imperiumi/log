@@ -4,7 +4,7 @@ layout: default
 {% include nextprev.html %}
 <h2 class="meta">{{ page.created | date: "%A, %B %-d, %Y" }}</h2>
 <h1>{{ page.title }}</h1>
-{{ content }}
+{{ content | replace: "Lille Ø", "<i>Lille Ø</i>" }}
 
 {% if page.content contains "Distance today" %}
   {% include timelapse.html %}

@@ -152,6 +152,9 @@ main .intro h1 {
   padding-top: 0px;
   padding-bottom: 0px;
 }
+main .intro h1 i {
+  font: normal;
+}
 main .intro img {
   padding: 0px;
   margin: 0px;
