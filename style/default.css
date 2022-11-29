@@ -162,7 +162,8 @@ main .intro img {
   border-radius: 50%;
   width: 30vw;
   height: 30vw;
-  max-width: 30vw;
+  max-width: 300px;
+  max-height: 300px;
   object-fit: cover;
   display: block;
   z-index: 1;
