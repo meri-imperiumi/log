@@ -1,0 +1,19 @@
+  <div id="map"></div>
+  <img id="boatmarker" src="{{site.baseurl}}/style/boat.png" style="width: 60px; height: 60px">
+  <link href="https://unpkg.com/maplibre-gl@2.1.7/dist/maplibre-gl.css" rel="stylesheet" />
+  <script src="https://unpkg.com/maplibre-gl@2.1.7/dist/maplibre-gl.js"></script>
+  <script>
+    const map = new maplibregl.Map({
+      container: 'map',
+      style: 'https://api.maptiler.com/maps/voyager/style.json?key=BgltQL3i6kfpoIy9GMqW',
+      center: [{{ site.data.aishub.LONGITUDE | plus: 0.2 }}, {{ site.data.aishub.LATITUDE | plus: 0.2 }}],
+      zoom: 8,
+    });
+
+    const marker = new maplibregl.Marker({
+        element: document.getElementById('boatmarker'),
+      })
+      .setLngLat([{{ site.data.aishub.LONGITUDE }}, {{ site.data.aishub.LATITUDE }}])
+      .addTo(map);
+  </script>
+  <p id="updated" class="meta">Position updated {{ site.data.aishub.TIME | date: "%A, %B %-d, %Y %H:%M UTC" }}</p>

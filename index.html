@@ -3,16 +3,32 @@ layout: default
 title: Latest logs
 reverse: true
 ---
-{% include aishub.html %}
+<div class="intro">
+  {% include aishub_background.html %}
+  <div class="copy">
+    <div>
+      <h1>{{ site.name }}</h1>
+      <p>
+      Lille Ø is our cruising sailboat, an <a href="{{ site.baseurl }}/boat/">1979 Amigo 40</a>. A Swedish-built boat with a Danish name, a Finnish crew, and sailing under the German flag. Follow our adventures as we explore the coasts of the Baltic Sea!
+      </p>
+    </div>
+    <a href="{{ site.baseurl }}/boat/"><img src="{{ site.baseurl }}/2022/lille-oe-in-eko.jpg"></a>
+  </div>
+</div>
 {% assign logs = site.logs | reverse %}
 <ul class="logs">
-{% for post in logs limit:10 %}
+  {% for post in logs limit:10 %}
   <li id="{{ post.created | date: "%Y%m%d" }}">
-    <h2>{{ post.created | date: "%Y-%m-%d" }} {{ post.title }}</h2>
+    <h2><a href="{{ site.baseurl }}{{ post.url }}">{{ post.created | date: "%Y-%m-%d" }} {{ post.title }}</a></h2>
     {{ post.content | replace: 'img src="..', 'img src="https://meri-imperiumi.github.io/log'| replace: 'https://meri-imperiumi.github.io/log',site.baseurl }}
   </li>
-{% endfor %}
+  {% endfor %}
 </ul>
-{% if logs[10] %}
-<p class="more"><a href="{{ site.baseurl }}/{{ logs[10].created | date: "%Y" }}/" rel="next">More</a></p>
-{% endif %}
+<div>
+  <a href="{{ site.baseurl }}/rss.xml"><img src="{{ site.baseurl }}/style/rss.svg" alt="RSS feed" title="Subscribe via RSS" id="rss" /></a>
+  {% if logs[10] %}
+  <p class="more">
+    <a href="{{ site.baseurl }}/{{ logs[10].created | date: "%Y" }}/" rel="next">More</a>
+  </p>
+  {% endif %}
+</div>

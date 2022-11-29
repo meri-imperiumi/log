@@ -5,11 +5,16 @@ defaults:
       path: ""
       type: logs
     values:
-      layout: default
+      layout: log
+  - scope:
+      path: ""
+      type: years
+    values:
+      layout: year
 collections:
   logs:
-    output: false
-    permalink: /:year/:month/:day/
+    output: true
+    permalink: /:name/
     sort_by: created
   years:
     output: true

@@ -1,15 +1,25 @@
 <ul class="logs">
+  {% assign current_year = page.year | string %}
   {% if page.reverse %}
   {% assign logs = site.logs | reverse %}
   {% else %}
   {% assign logs = site.logs %}
   {% endif %}
   {% for post in logs %}
-    {% assign post_year = post.created | slice: 0,4 %}
-    {% if post_year == log_year %}
+    {% assign post_year = post.created | date: "%Y" %}
+    {% if post_year contains current_year %}
   <li id="{{ post.created | date: "%Y%m%d" }}">
-    <h2>{{ post.created | date: "%Y-%m-%d" }} {{ post.title }}</h2>
-    {{ post.content | replace: 'img src="..', 'img src="https://meri-imperiumi.github.io/log'| replace: 'https://meri-imperiumi.github.io/log',site.baseurl }}
+    <h2><a href="{{ site.baseurl }}{{ post.url }}">{{ post.created | date: "%Y-%m-%d" }} {{ post.title }}</a></h2>
+    {{ post.excerpt | replace: 'img src="..', 'img src="https://meri-imperiumi.github.io/log'| replace: 'https://meri-imperiumi.github.io/log',site.baseurl }}
+    {% assign images = post.content | split:"<img " %}
+    {% for image in images %}
+      {% if image contains 'src' %}
+        {% assign html = image | split:"/>" | first %}
+        <a href="{{ site.baseurl }}{{ post.url }}"><img {{ html }} /></a>
+        {% break %}
+      {% endif %}
+    {% endfor %}
+    <p class="meta"><a href="{{ site.baseurl }}{{ post.url }}">Read more &raquo;</a></p>
   </li>
     {% endif %}
   {% endfor %}

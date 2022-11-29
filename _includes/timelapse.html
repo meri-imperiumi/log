@@ -1,0 +1,30 @@
+{% assign first_day = "2021-08-30" %}
+{% if page.collection %}
+    {% assign links = site[page.collection]  %}
+{% endif %}
+
+{% for link in links %}
+  {% if link.created == page.created %}
+    {% unless forloop.first %}
+      {% assign prev = tmpprev %}
+    {% endunless %}
+    {% unless forloop.last %}
+      {% assign next = links[forloop.index] %}
+    {% endunless %}
+  {% endif %}
+  {% assign tmpprev = link %}
+{% endfor %}
+{% assign this_day = page.created | date: "%Y-%m-%d" %}
+{% assign previous_day = prev.created | date: "%s" | plus: 86400 | date: "%Y-%m-%d" %}
+{% assign next_day = page.created | date: "%s" | plus: 86400 | date: "%Y-%m-%d" %}
+{% if this_day < previous_day %}
+  {% assign previous_day = this_day %}
+{% endif %}
+{% if previous_day >= first_day %}
+<div class="timelapse">
+  <div class="blocker">
+    <p>Time lapse courtesy of <a href="https://saillogger.com">Saillogger</a>:</p>
+  </div>
+  <iframe src="https://saillogger.com/timelapse/143/?color=red&start_date={{ previous_day }}&end_date={{ next_day }}&map_type=1&speed=90&delay=5&zoom=11"></iframe>
+</div>
+{% endif %}

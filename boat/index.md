@@ -8,8 +8,6 @@ Lille Ø is an [Amigo 40](https://sailboatdata.com/sailboat/amigo-40), a 31ft he
 
 ![Lille Ø crew badge](../2021/8eb3e7106ec080cb96bf6c1b514b6a5f.png) 
 
-[See our stats on Saillogger](https://saillogger.com/stats/143/)
-
 ## In numbers
 
 * MMSI: [211692440](https://www.marinetraffic.com/en/ais/details/ships/shipid:6684115/mmsi:211692440/imo:0/vessel:LILLE_OE)
@@ -24,6 +22,8 @@ Lille Ø is an [Amigo 40](https://sailboatdata.com/sailboat/amigo-40), a 31ft he
 * Dinghy: 2.6m [Banana-boot](http://www.banana-boot.de/en/) folding hard dinghy
 * 200l freshwater tank
 * 79l diesel tank
+
+[See our stats on Saillogger](https://saillogger.com/stats/143/)
 
 ## Sail inventory
 
