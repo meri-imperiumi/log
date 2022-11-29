@@ -153,7 +153,8 @@ main .intro h1 {
   padding-bottom: 0px;
 }
 main .intro h1 i {
-  font: normal;
+  font-style: normal;
+  white-space: nowrap;
 }
 main .intro img {
   padding: 0px;
