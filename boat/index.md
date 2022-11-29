@@ -4,7 +4,7 @@ title: 'Lille Ø - Amigo 40'
 type: Journal
 ---
 
-Lille Ø is an [Amigo 40](https://sailboatdata.com/sailboat/amigo-40), a 31ft heavy displacement full-keel "spitzgatter" (canoe stern with transom-hung rudder) built in Sweden in 1979. It was the boatyard's exhibition boat in the Hamburg boat show, and was bought from there to Berlin. We're the fourth owners, having bought the boat in 2021.
+*Lille Ø* is an [Amigo 40](https://sailboatdata.com/sailboat/amigo-40), a 31ft heavy displacement full-keel "spitzgatter" (canoe stern with transom-hung rudder) built in Sweden in 1979. It was the boatyard's exhibition boat in the Hamburg boat show, and was bought from there to Berlin. We're the fourth owners, having bought the boat in 2021.
 
 ![Lille Ø crew badge](../2021/8eb3e7106ec080cb96bf6c1b514b6a5f.png) 
 
