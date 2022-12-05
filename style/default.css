@@ -334,6 +334,9 @@ aside h2 {
 aside a {
   color: #ffffff;
 }
+aside ul {
+  padding-left: 16px;
+}
 aside li {
   font-size: smaller;
 }
