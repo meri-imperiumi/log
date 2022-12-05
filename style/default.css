@@ -196,6 +196,7 @@ main .gallery {
   justify-items: center;
   align-items: center;
   padding: 1em;
+  background-color: rgb(129, 151, 166);
 }
 main .gallery img {
   max-width: 100%;
@@ -210,7 +211,7 @@ main .gallery .lightbox {
   position: fixed;
   top: 0px;
   left: 0px;
-  background-color: rgba(232, 232, 228, 0.95);
+  background-color: rgba(129, 151, 166, 0.9);
 }
 main .gallery .lightbox:target {
   display: block;
