@@ -1,0 +1,9 @@
+<div class="gallery" id="gallery">
+{% for image in page.gallery %}
+  <a href="#gallery-{{ forloop.index }}"><img src="{{ image.url }}" alt="{{ image.title }}" /></a>
+  <a href="#gallery" class="lightbox" id="gallery-{{ forloop.index }}">
+    <div style="background-image: url('{{ image.url }}')"></div>
+  </a>
+     
+{% endfor %}
+</div>
