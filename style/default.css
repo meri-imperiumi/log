@@ -328,6 +328,12 @@ main aside {
   border-radius: 1em;
   font-family: NotesESA, -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Oxygen-Sans, Ubuntu, Cantarell, "Helvetica Neue", Helvetica, Arial, sans-serif;
 }
+aside.image {
+  padding: 0px;
+  border-radius: 0px;
+  background-color: transparent;
+  width: 24em;
+}
 aside h2 {
   margin-top: 0;
   padding-top: 0;
