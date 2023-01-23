@@ -10,6 +10,7 @@
     <link rel="icon" type="image/png" href="{{ site.baseurl }}/style/favicon.png">
     <meta name="google-site-verification" content="Nng4HTYv8aPQTVA-Yf3gMB1uJM5TbJ5EmyBWZFnJE-8">
     <meta property="og:title" content="{{ page.title }}">
+    {% capture site_url %}{{ site.url }}{{ site.baseurl }}{% endcapture %}
     {% if page.created %}
     <meta property="article:published_time" content="{{ page.created | date_to_xmlschema }}">
     <meta property="og:type" content="article">
@@ -21,7 +22,7 @@
         {% assign image_attributes = html | split: '"' %}
         {% assign image_url = image_attributes[1] %}
         {% if image_url %}
-    <meta property="og:image" content="{{ image_url | replace: '..',site_url }}">
+    <meta property="og:image" content="{{ image_url | replace: '..','https://meri-imperiumi.github.io/log' | replace: 'https://meri-imperiumi.github.io/log', site_url }}">
     <meta property="twitter:card" content="summary_large_image">
         {% else %}
     <meta property="twitter:card" content="summary">
@@ -31,7 +32,7 @@
     {% endfor %}
     {% else %}
       {% if page.cover %}
-    <meta property="og:image" content="{{ page.cover | replace: '..',site_url }}">
+    <meta property="og:image" content="{{ page.cover | replace: '..','https://meri-imperiumi.github.io/log' | replace: 'https://meri-imperiumi.github.io/log', site_url }}">
     <meta property="twitter:card" content="summary_large_image">
       {% endif %}
     {% endif %}
