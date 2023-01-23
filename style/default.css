@@ -363,7 +363,7 @@ h2.meta {
   height: calc(1.2em + 16px);
   border-radius: 0px;
 }
-@media (max-width: 1024px) {
+@media (max-width: 760px) {
   main img {
     max-width: 100%;
   }
@@ -385,6 +385,10 @@ h2.meta {
   main .intro .copy > * {
     margin-right: -8px;
   }
+  main .intro .copy p,
+  main .intro #updated {
+    font-size: inherit;
+  }
   main .intro .copy img {
     display: none;
   }
@@ -405,6 +409,18 @@ h2.meta {
   }
   main nav.prevnext ul li .title {
     display: none;
+  }
+}
+@media (max-width: 1024px) {
+  main .intro .copy div p {
+    font-size: smaller;
+  }
+  main .intro #updated {
+    font-size: x-small;
+  }
+  main .intro,
+  main .intro #map {
+    height: 60vh;
   }
 }
 @media (min-width: 1600px) {
