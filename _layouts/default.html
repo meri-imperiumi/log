@@ -15,12 +15,27 @@
       <nav>
         <h1><a href="{{ site.baseurl }}/">Lille Ø</a></h1>
         <a href="{{ site.baseurl }}/"><img src="{{ site.baseurl }}/style/favicon.png" alt="Meri-Imperiumi" /></a>
-        <ul>
-          {% for year in site.years %}
-          <li><a href="{{ site.baseurl }}{{ year.url }}">{{ year.year }}</a></li>
-          {% endfor %}
-          <li><a href="{{ site.baseurl }}/boat/">Boat</a></li>
-        </ul>
+        <div>
+          <ul id="menu">
+            {% for year in site.years %}
+            <li><a href="{{ site.baseurl }}{{ year.url }}">{{ year.year }}</a></li>
+            {% endfor %}
+            <li><a href="{{ site.baseurl }}/boat/">Boat</a></li>
+          </ul>
+          <input type="checkbox" id="hamburger-state" class="burger">
+          <label id="hamburger" for="hamburger-state">
+            <nav id="sidebar">
+              <h2>Menu</h2>
+              <ul>
+                {% for year in site.years %}
+                <li><a href="{{ site.baseurl }}{{ year.url }}">{{ year.year }}</a></li>
+                {% endfor %}
+                <li><a href="{{ site.baseurl }}/boat/">Boat</a></li>
+              </ul>
+            </nav>
+          </label>
+          <div id="overlay"></div>
+        </div>
       </nav>
     </header>
     <main>
