@@ -1,11 +1,9 @@
 .flags{
-    text-align: center;
+   
 }
 
 .flags ul{
-    white-space: nowrap;
-    list-style: none;
-    display: inline-block;
+    padding-left: unset;
 }
 
 .flags ul li{
