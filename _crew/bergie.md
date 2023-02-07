@@ -2,7 +2,7 @@
 name: Bergie
 position: owner
 crew-order: 1
-photo: /2022/02868bc1271b4224ced2c84bb018151e.jpg
+photo: '/2022/PXL_20221226_101623380.jpg'
 certifications: [SBF Binnen, SBF See, UBI, SRC]
 logged-miles: 9214
 logged-year: 2001
