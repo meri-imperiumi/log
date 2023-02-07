@@ -191,6 +191,7 @@ main .intro.boat img {
 }
 main .intro #map {
   position: absolute;
+  background-color: rgba(232, 232, 228, 0.8);
   top: 0;
   left: 0;
   width: 100vw;
