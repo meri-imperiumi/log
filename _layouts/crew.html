@@ -1,0 +1,33 @@
+---
+layout: default
+---
+{{ content }}
+
+{% assign sorted_crew = site.crew | sort: "crew-order"%}
+{% for crew in sorted_crew %}
+<div>
+  <h2>{{ crew.name }} - {{ crew.position }}</h2>
+  <div>
+  <div>
+    <p>{{ crew.content | markdownify }}</p>
+
+  </div>
+  
+  <div>
+    <img src="{{ crew.photo }}" alt="{{ crew.name }}" />
+  </div>
+</div>
+<div> 
+    Sailed {{ crew.logged-miles}} nm since {{ crew.logged-year}}
+</div>
+  <div class="flags">
+    <ul>
+        {% for country_code in  crew.countries-sailed %}
+            <li>
+                <img src="/style/flags/iso/{{ country_code | downcase }}.png" alt="{{ country_code }}"/> <!--/*https://countryflagsapi.com/png/{{country_code }} */ -->
+            </li>
+        {% endfor %}
+    </ul>
+  </div>
+</div>
+{% endfor %}
