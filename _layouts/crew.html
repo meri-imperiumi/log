@@ -22,7 +22,7 @@ layout: default
         <ul>
             {% for country_code in  crew.countries-sailed %}
                 <li>
-                  <img src="/style/flags/iso/{{ country_code | downcase }}.png" alt="{{ country_code }}" title="{{ country_code }}" />
+                  <a href="https://countrycode.org/{{ country_code }}"><img src="/style/flags/iso/{{ country_code | downcase }}.png" alt="{{ country_code }}" title="{{ country_code }}" /></a>
                 </li>
             {% endfor %}
         </ul>
