@@ -17,12 +17,12 @@ layout: default
                 {% for certification in  crew.certifications %}<li>{{ certification }}</li>{% endfor %}
             </ul>
         </div>
-    {% endif %} 
+    {% endif %}
     <div class="flags">
         <ul>
             {% for country_code in  crew.countries-sailed %}
                 <li>
-                    <img src="/style/flags/iso/{{ country_code | downcase }}.png" alt="{{ country_code }}"/> <!--/*https://countryflagsapi.com/png/{{country_code }} */ -->
+                  <img src="/style/flags/iso/{{ country_code | downcase }}.png" alt="{{ country_code }}" title="{{ country_code }}" />
                 </li>
             {% endfor %}
         </ul>
