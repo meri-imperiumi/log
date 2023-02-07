@@ -4,7 +4,7 @@ layout: default
 {{ content }}
 {% assign sorted_crew = site.crew | sort: "crew-order"%}
 {% for crew in sorted_crew %}
-    <h2>{{ crew.name }} - {{ crew.position }}</h2>
+    <h2 id="{{ crew.name  | downcase | url_encode }}">{{ crew.name }} - {{ crew.position }}</h2>
     {{ crew.content }}
     <img src="{{ crew.photo }}" alt="{{ crew.name }}" />
     {% if crew.logged-miles %}
