@@ -6,6 +6,9 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <meta name="theme-color" content="#003247">
     <link rel="stylesheet" href="{{site.baseurl}}/style/default.css">
+    {% if page.layout == "crew" %}
+      <link rel="stylesheet" href="{{site.baseurl}}/style/crew.css">
+    {% endif %}
     <link rel="alternate" type="application/rss+xml" href="{{ site.baseurl }}/rss.xml" title="{{ site.name }} feed">
     <link rel="icon" type="image/png" href="{{ site.baseurl }}/style/favicon.png">
     <meta name="google-site-verification" content="Nng4HTYv8aPQTVA-Yf3gMB1uJM5TbJ5EmyBWZFnJE-8">

@@ -1,0 +1,18 @@
+.flags{
+    text-align: center;
+}
+
+.flags ul{
+    white-space: nowrap;
+    list-style: none;
+    display: inline-block;
+}
+
+.flags ul li{
+   display: inline-block;
+}
+
+.flags ul li img{
+    width: 30px;
+    border-radius: 0px;
+}
