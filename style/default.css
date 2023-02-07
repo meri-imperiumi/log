@@ -1,6 +1,7 @@
 @font-face {
   font-family: 'NotesESA';
   src: url('./NotesESA.woff');
+  font-display: swap;
 }
 body {
   background-color: #e8e8e4;
