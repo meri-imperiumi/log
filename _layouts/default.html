@@ -41,6 +41,7 @@
     {% endif %}
     <meta property="og:site_name" content="{{ site.name }}">
     <meta property="og:locale" content="en_US">
+    <meta name="description" content="{{ page.excerpt | strip_html | strip_newlines | strip }}">
   </head>
   <body>
     <header>
