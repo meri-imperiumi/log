@@ -19,6 +19,8 @@ collections:
   years:
     output: true
     permalink: /:name/
+  crew:
+    permalink: /:name/
 exclude:
   - fetchais.mjs
   - .github
