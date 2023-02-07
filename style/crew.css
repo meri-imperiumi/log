@@ -11,6 +11,23 @@
 }
 
 .flags ul li img{
-    width: 30px;
+    height: 20px;
     border-radius: 0px;
 }
+
+.certifications{
+   
+}
+
+.certifications ul{
+   list-style: none;
+   padding-left: unset;
+}
+
+.certifications ul li{
+    display: inline;
+}
+
+.certifications ul li ~ li::before {
+    content: ', '; 
+  }
