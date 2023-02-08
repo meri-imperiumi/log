@@ -34,8 +34,27 @@ main .gallery .lightbox div {
   background-repeat: no-repeat;
   background-size: contain;
 }
+div.details {
+  column-count: 2;
+  column-fill: balance;
+  column-gap: 1em;
+  padding-top: 1em;
+}
+div.details h2 {
+  margin: 0px;
+}
+div.details > ul {
+  margin-top: 0px;
+  margin-bottom: 1em;
+}
+div.details li {
+  break-inside: avoid-column;
+}
 @media (max-width: 760px) {
   main .gallery {
     grid-template-columns: repeat(auto-fit, minmax(40vw, 1fr));
+  }
+  div.details {
+    column-count: 1;
   }
 }
