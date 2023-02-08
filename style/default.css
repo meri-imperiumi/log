@@ -134,6 +134,10 @@ ul.logs article h1 {
   font-size: 22pt;
   margin-top: 0.2em;
 }
+ul.logs article img {
+  margin-left: auto;
+  margin-right: auto;
+}
 ul.logs article h1 a {
   text-decoration: none;
 }
