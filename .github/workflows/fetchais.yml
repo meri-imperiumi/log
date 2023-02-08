@@ -2,7 +2,7 @@ name: Update data from AIS
 
 on:
   schedule:
-  - cron: "0 */4 * * *"
+  - cron: "0 */1 * * *"
 
 jobs:
   fetch:
@@ -13,7 +13,7 @@ jobs:
     - uses: actions/setup-node@v2.1.4
       with:
         node-version: 16
-    - run: npm install node-fetch
+    - run: npm install node-fetch where
     - run: node .github/fetchais.mjs
       env:
         AISHUB_TOKEN: ${{secrets.AISHUB_TOKEN}}
