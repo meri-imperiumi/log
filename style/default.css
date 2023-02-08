@@ -206,42 +206,6 @@ main .intro #updated {
   background-color: rgba(232, 232, 228, 0.8);
   padding: 4px;
 }
-main .gallery {
-  grid-column: 1 / 4;
-  display: grid;
-  grid-template-columns: repeat(auto-fit, minmax(22vw, 1fr));
-  grid-gap: 1em;
-  justify-items: center;
-  align-items: center;
-  padding: 1em;
-  background-color: rgb(129, 151, 166);
-}
-main .gallery img {
-  max-width: 100%;
-  max-height: 100%;
-  object-fit: contain;
-  display: block;
-}
-main .gallery .lightbox {
-  display: none;
-  width: 100vw;
-  height: 100vh;
-  position: fixed;
-  top: 0px;
-  left: 0px;
-  background-color: rgba(129, 151, 166, 0.9);
-}
-main .gallery .lightbox:target {
-  display: block;
-}
-main .gallery .lightbox div {
-  display: block;
-  width: 100%;
-  height: 100%;
-  background-position: center;
-  background-repeat: no-repeat;
-  background-size: contain;
-}
 main .timelapse {
   width: 100%;
   grid-column: 1 / 4;
@@ -463,9 +427,6 @@ h2.meta {
     margin-top: 1em;
     margin-left: auto;
     margin-right: auto;
-  }
-  main .gallery {
-    grid-template-columns: repeat(auto-fit, minmax(40vw, 1fr));
   }
   main nav.prevnext ul li .title {
     display: none;
