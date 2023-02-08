@@ -61,11 +61,19 @@
             <nav id="sidebar">
               <h2>Menu</h2>
               <ul>
-                {% for year in site.years %}
-                <li><a href="{{ site.baseurl }}{{ year.url }}">{{ year.year }}</a></li>
-                {% endfor %}
-                <li><a href="{{ site.baseurl }}/boat/">Boat</a></li>
-                <li><a href="{{ site.baseurl }}/crew/">Crew</a></li>
+                <li><h3 class="meta">Journeys</h3>
+                  <ul>
+                    {% for year in site.years %}
+                    <li><a href="{{ site.baseurl }}{{ year.url }}">{{ year.year }}</a></li>
+                    {% endfor %}
+                  </ul>
+                </li>
+                <li><h3 class="meta">About</h3>
+                  <ul>
+                    <li><a href="{{ site.baseurl }}/boat/">Boat</a></li>
+                    <li><a href="{{ site.baseurl }}/crew/">Crew</a></li>
+                  </ul>
+                </li>
               </ul>
             </nav>
           </label>
