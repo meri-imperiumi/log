@@ -22,12 +22,6 @@ h2 {
   text-rendering: optimizeLegibility;
   line-height:  1.3em;
 }
-h2 a {
-  text-decoration: none;
-}
-h2 a:focus, h2 a:hover {
-  text-decoration: underline;
-}
 header {
   display: block;
   width: 100vw;
@@ -135,6 +129,17 @@ ul.logs > li {
   list-style: none;
   margin: 0;
   padding: 0;
+}
+ul.logs article h1 {
+  font-size: 22pt;
+  margin-top: 0.2em;
+}
+ul.logs article h1 a {
+  text-decoration: none;
+}
+ul.logs article h1 a:focus,
+ul.logs article h1 a:hover {
+  text-decoration: underline;
 }
 main img {
   margin: 1px;
