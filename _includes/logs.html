@@ -9,21 +9,23 @@
     {% assign post_year = post.created | date: "%Y" %}
     {% if post_year contains current_year %}
   <li id="{{ post.created | date: "%Y%m%d" }}">
-    <h2 class="meta">{{ post.created | date: "%A, %B %-d, %Y" }}</h2>
-    <h2><a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a></h2>
-    {{ post.excerpt | replace: 'img src="..', 'img src="https://meri-imperiumi.github.io/log'| replace: 'https://meri-imperiumi.github.io/log',site.baseurl | replace: "Lille Ø", "<i>Lille Ø</i>" }}
-    {% assign images = post.content | split:"<img " %}
-    {% for image in images %}
-      {% if image contains 'src' %}
-        {% assign html = image | split:"/>" | first %}
-        <a href="{{ site.baseurl }}{{ post.url }}"><img {{ html }} /></a>
-        {% break %}
+    <article>
+      <h2 class="meta">{{ post.created | date: "%A, %B %-d, %Y" }}</h2>
+      <h1><a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a></h1>
+      {{ post.excerpt | replace: 'img src="..', 'img src="https://meri-imperiumi.github.io/log'| replace: 'https://meri-imperiumi.github.io/log',site.baseurl | replace: "Lille Ø", "<i>Lille Ø</i>" }}
+      {% assign images = post.content | split:"<img " %}
+      {% for image in images %}
+        {% if image contains 'src' %}
+          {% assign html = image | split:"/>" | first %}
+          <a href="{{ site.baseurl }}{{ post.url }}"><img {{ html }} /></a>
+          {% break %}
+        {% endif %}
+      {% endfor %}
+      <p class="meta"><a href="{{ site.baseurl }}{{ post.url }}">Read more &raquo;</a></p>
+      {% if forloop.last == false %}
+        <hr>
       {% endif %}
-    {% endfor %}
-    <p class="meta"><a href="{{ site.baseurl }}{{ post.url }}">Read more &raquo;</a></p>
-    {% if forloop.last == false %}
-      <hr>
-    {% endif %}
+    </article>
   </li>
     {% endif %}
   {% endfor %}
