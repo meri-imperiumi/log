@@ -447,7 +447,8 @@ h2.meta {
     height: 50px;
     box-sizing: border-box;
     border: 15px solid #003247;
-    margin-right: -15px;
+    border-right: 0px;
+    border-left: 30px solid #003247;
     background: linear-gradient(
       to bottom,
       white, white 20%,
