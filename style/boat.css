@@ -37,11 +37,12 @@ main .gallery .lightbox div {
 div.details {
   column-count: 2;
   column-fill: balance;
-  column-gap: 1em;
+  column-gap: 2em;
   padding-top: 1em;
 }
 div.details h2 {
   margin: 0px;
+  break-after: avoid-column;
 }
 div.details > ul {
   margin-top: 0px;
