@@ -7,8 +7,10 @@ layout: default
     <h2 id="{{ crew.name  | downcase | url_encode }}">{{ crew.name }} - {{ crew.position }}</h2>
     {{ crew.content }}
     <img src="{{ crew.photo }}" alt="{{ crew.name }}" />
-    {% if crew.logged-miles %}
-        <p> Sailed {{ crew.logged-miles}} NM since {{ crew.logged-year}} </p>
+    {% if site.data.crew_miles %}
+        {% assign name = crew.username %}
+        {% assign total = site.data.crew_miles[name].miles | plus: site.data.crew_miles[name].miles_from_logger %}
+        <p> Sailed  {{ name }}  {{ total }} NM since {{ crew.logged-year}} </p>
     {% endif %}
     {% if crew.certifications %}
         <div class="certifications">
