@@ -1,9 +1,9 @@
 ---
 name: Assistentti Nissinen
+username: nissinen
 position: autopilot
 crew-order: 3
 photo: /2022/50aec8c361d1eb9365e6ad8f4b3fab3a.jpg
-logged-miles: 2777
 logged-year: 2021
 countries-sailed: [DE, POL, DK, SWE, FI, EST]
 certifications: [CE]
