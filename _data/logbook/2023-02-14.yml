@@ -1,0 +1,64 @@
+- datetime: 2023-02-14T11:52:34.400Z
+  text: Motor started
+  author: ""
+  position:
+    longitude: 13.1931296
+    latitude: 52.5096001
+    source: GPS
+  heading: 174
+  speed:
+    stw: 4.1
+    sog: 4.1
+  log: 2
+  barometer: 1034.4
+  wind:
+    speed: 3.6
+    direction: 170
+- datetime: 2023-02-14T12:00:30.400Z
+  text: ""
+  author: ""
+  position:
+    longitude: 13.1914076
+    latitude: 52.5006418
+    source: GPS
+  heading: 190
+  speed:
+    stw: 4.1
+    sog: 4.1
+  log: 0.5
+  barometer: 1034.31
+  wind:
+    speed: 6.1
+    direction: 186
+- datetime: 2023-02-14T12:33:26.400Z
+  text: Anchored
+  author: ""
+  position:
+    longitude: 13.193044328689576
+    latitude: 52.46870101292928
+    source: GPS
+  heading: 263
+  speed:
+    stw: 0.4
+    sog: 0.4
+  log: 2.6
+  barometer: 1033.92
+  wind:
+    speed: 4.5
+    direction: 134
+- datetime: 2023-02-14T13:21:10.400Z
+  text: Filled up 35l. Added a cap of biocide.
+  author: bergie
+  position:
+    longitude: 13.192826334635416
+    latitude: 52.4687881787618
+    source: GPS
+  heading: 211
+  speed:
+    stw: 0
+    sog: 0
+  log: 2.6
+  barometer: 1033.51
+  wind:
+    speed: 4
+    direction: 132
