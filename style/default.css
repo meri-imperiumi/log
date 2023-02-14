@@ -22,6 +22,20 @@ h2 {
   text-rendering: optimizeLegibility;
   line-height:  1.3em;
 }
+#beer-us {
+  position: fixed;
+  top: 5.5em;
+  right: 0;
+  background-color: #fbab18;
+  z-index: 1;
+}
+#beer-us a {
+  width: 4em;
+  padding: 0.5em;
+  height: 40px;
+  text-decoration: none;
+  font-family: NotesESA, -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Oxygen-Sans, Ubuntu, Cantarell, "Helvetica Neue", Helvetica, Arial, sans-serif;
+}
 header {
   display: block;
   width: 100vw;
@@ -467,6 +481,23 @@ h2.meta {
     visibility: visible;
     right: 0px;
   }
+  header {
+    margin-top: 40px;
+  } 
+  #beer-us {
+    top: 0;
+    right: 0;
+    width: 100vw;
+    height: 40px;
+    position: absolute;
+    text-align: center;
+  }
+  #beer-us a {
+    vertical-align: middle;
+    vertical-align: -webkit-baseline-middle;
+    vertical-align: -moz-middle-with-baseline;
+  }
+
 }
 @media (max-width: 1024px) {
   main .intro .copy div p {
