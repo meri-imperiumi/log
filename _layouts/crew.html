@@ -1,7 +1,7 @@
 ---
 layout: default
 unlinked_countries:
-  - AX
+   - AX
 ---
 {{ content }}
 {% assign sorted_crew = site.crew | sort: "crew-order"%}
@@ -9,8 +9,10 @@ unlinked_countries:
     <h2 id="{{ crew.name  | downcase | url_encode }}">{{ crew.name }} - {{ crew.position }}</h2>
     {{ crew.content }}
     <img src="{{ crew.photo }}" alt="{{ crew.name }}" />
-    {% if crew.logged-miles %}
-        <p> Sailed {{ crew.logged-miles}} NM since {{ crew.logged-year}} </p>
+    {% if site.data.crew_miles %}
+        {% assign name = crew.username %}
+        {% assign total = site.data.crew_miles[name].miles | plus: site.data.crew_miles[name].miles_from_logger %}
+        <p> Sailed {{ total }} NM since {{ crew.logged-year}} </p>
     {% endif %}
     {% if crew.certifications %}
         <div class="certifications">
@@ -19,18 +21,18 @@ unlinked_countries:
                 {% for certification in  crew.certifications %}<li>{{ certification }}</li>{% endfor %}
             </ul>
         </div>
-    {% endif %}
+    {% endif %} 
     <div class="flags">
         <ul>
             {% for country_code in  crew.countries-sailed %}
                 <li>
-                  {% unless layout.unlinked_countries contains country_code %}
-                  <a href="https://countrycode.org/{{ country_code }}">
-                    <img src="/style/flags/iso/{{ country_code | downcase }}.png" alt="{{ country_code }}" title="{{ country_code }}" />
-                  </a>
-                  {% else %}
-                    <img src="/style/flags/iso/{{ country_code | downcase }}.png" alt="{{ country_code }}" title="{{ country_code }}" />
-                  {% endunless %}
+                    {% unless layout.unlinked_countries contains country_code %}
+                    <a href="https://countrycode.org/{{ country_code }}">
+                      <img src="/style/flags/iso/{{ country_code | downcase }}.png" alt="{{ country_code }}" title="{{ country_code }}" />
+                    </a>
+                    {% else %}
+                      <img src="/style/flags/iso/{{ country_code | downcase }}.png" alt="{{ country_code }}" title="{{ country_code }}" />
+                    {% endunless %}
                 </li>
             {% endfor %}
         </ul>
