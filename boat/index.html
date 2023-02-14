@@ -27,6 +27,7 @@ gallery:
     url: '../2022/f8a30b7c49ccbe38245f8db7ffb2c68f.jpg'
   - title: "After a storm"
     url: '../2022/f9a9cc4c353f7ef7c06f7cdb41857eab.jpg'
+excerpt: Lille Ø is an Amigo 40, a 31ft heavy displacement full-keel “spitzgatter” (canoe stern with transom-hung rudder) built in Sweden in 1979. It was the boatyard's exhibition boat in the Hamburg boat show, and was bought from there to Berlin. We're the fourth owners, having bought the boat in 2021.
 ---
 <div class="intro boat">
   {% include aishub_background.html %}
@@ -67,10 +68,12 @@ gallery:
     <li>Hull speed: 6.9kt</li>
     <li>Engine: 27hp Yanmar 3GM30F </li>
     <li>Dinghy: 2.6m <a href="http://www.banana-boot.de/en/">Banana-boot</a> folding hard dinghy</li>
-    <li>200l freshwater tank</li>
-    <li>79l diesel tank</li>
   </ul>
+</div>
 
+{% include gallery.html %}
+
+<div class="details">
   <h2 id="sail-inventory">Sail inventory</h2>
   <ul>
     <li>21m<sup>2</sup> full battened main sail with two reefing points</li>
@@ -80,21 +83,23 @@ gallery:
 
   <h2 id="energy">Energy</h2>
   <ul>
-    <li>5kWh of Victron LiFePO4 batteries</li>
-    <li>510W of solar panels
+    <li>5kWh (400Ah) of Victron LiFePO4 batteries</li>
+    <li>660W of solar panels
       <ul>
-        <li>150W fixed panel on the stern arch</li>
-        <li>60W fixed panel on cabin top</li>
+        <li>240W (2&times;120W) fixed array on the stern arch</li>
+        <li>120W fixed panel on cabin top</li>
         <li>300W <a href="https://flin-solar.com/flinsail">FLINsail</a> that can be hoisted up the mast when anchored</li>
       </ul>
     </li>
-    <li>80A alternator on the Diesel engine</li>
+    <li>80A alternator on the Diesel engine charging the LiFePO4 bank via 30A DC-DC charger</li>
     <li>12V system monitored by <a href="https://www.victronenergy.com/panel-systems-remote-monitoring/vrm">Victron VRM</a></li>
   </ul>
 
   <h2 id="electronics">Electronics</h2>
   <ul>
     <li>Raspberry Pi with <a href="https://hatlabs.fi/">Sailor Hat</a> running <a href="http://signalk.org">Signal K</a> (see <a href="https://github.com/meri-imperiumi/lille-oe">installation playbook</a>)</li>
+    <li>Waterproof Android tablet running <a href="https://getorca.com">Orca</a> chartplotter software</li>
+    <li><a href="{{site.baseurl}}/crew/#assistentti+nissinen">Raymarine ST4000+</a> autopilot</li>
     <li>NMEA 2000 network</li>
     <li><a href="https://ruuvi.com">Ruuvi</a> environmental sensors</li>
     <li><a href="https://lcjcapteurs.com">LCJ Capteurs</a> ultrasonic wind sensor</li>
@@ -108,4 +113,12 @@ gallery:
     <li>15kg Bruce with 5m chain and 45m line as stern anchor</li>
     <li>Fortress Fx-11 kedge anchor</li>
   </ul>
+
+  <h2 id="tankage">Tankage</h2>
+  <ul>
+    <li>200l freshwater tank</li>
+    <li>79l diesel tank</li>
+    <li><a href="https://www.katadyngroup.com/de/en/8013438-Katadyn-PowerSurvivor-40E~p6702">Katadyn PowerSurvivor 40E</a> watermaker</li>
+  </ul>
 </div>
+<hr>

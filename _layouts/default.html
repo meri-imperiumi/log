@@ -9,6 +9,9 @@
     {% if page.layout == "crew" %}
       <link rel="stylesheet" href="{{site.baseurl}}/style/crew.css">
     {% endif %}
+    {% if page.layout == "boat" %}
+      <link rel="stylesheet" href="{{site.baseurl}}/style/boat.css">
+    {% endif %}
     <link rel="alternate" type="application/rss+xml" href="{{ site.baseurl }}/rss.xml" title="{{ site.name }} feed">
     <link rel="icon" type="image/png" href="{{ site.baseurl }}/style/favicon.png">
     <meta name="google-site-verification" content="Nng4HTYv8aPQTVA-Yf3gMB1uJM5TbJ5EmyBWZFnJE-8">
@@ -17,7 +20,6 @@
     {% if page.created %}
     <meta property="article:published_time" content="{{ page.created | date_to_xmlschema }}">
     <meta property="og:type" content="article">
-    <meta property="og:description" content="{{ page.excerpt | strip_html | strip_newlines | strip }}">
     {% assign images = page.content | split:"<img " %}
     {% for image in images %}
       {% if image contains 'src' %}
@@ -41,6 +43,8 @@
     {% endif %}
     <meta property="og:site_name" content="{{ site.name }}">
     <meta property="og:locale" content="en_US">
+    <meta property="og:description" content="{{ page.excerpt | strip_html | strip_newlines | strip }}">
+    <meta name="description" content="{{ page.excerpt | strip_html | strip_newlines | strip }}">
   </head>
   <body>
     <header>
@@ -60,11 +64,19 @@
             <nav id="sidebar">
               <h2>Menu</h2>
               <ul>
-                {% for year in site.years %}
-                <li><a href="{{ site.baseurl }}{{ year.url }}">{{ year.year }}</a></li>
-                {% endfor %}
-                <li><a href="{{ site.baseurl }}/boat/">Boat</a></li>
-                <li><a href="{{ site.baseurl }}/crew/">Crew</a></li>
+                <li><h3 class="meta">Journeys</h3>
+                  <ul>
+                    {% for year in site.years %}
+                    <li><a href="{{ site.baseurl }}{{ year.url }}">{{ year.year }}</a></li>
+                    {% endfor %}
+                  </ul>
+                </li>
+                <li><h3 class="meta">About</h3>
+                  <ul>
+                    <li><a href="{{ site.baseurl }}/boat/">Boat</a></li>
+                    <li><a href="{{ site.baseurl }}/crew/">Crew</a></li>
+                  </ul>
+                </li>
               </ul>
             </nav>
           </label>
