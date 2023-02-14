@@ -1,5 +1,7 @@
 ---
 layout: default
+unlinked_countries:
+   - AX
 ---
 {{ content }}
 {% assign sorted_crew = site.crew | sort: "crew-order"%}
@@ -24,9 +26,18 @@ layout: default
         <ul>
             {% for country_code in  crew.countries-sailed %}
                 <li>
-                    <img src="/style/flags/iso/{{ country_code | downcase }}.png" alt="{{ country_code }}"/> <!--/*https://countryflagsapi.com/png/{{country_code }} */ -->
+                    {% unless layout.unlinked_countries contains country_code %}
+                    <a href="https://countrycode.org/{{ country_code }}">
+                      <img src="/style/flags/iso/{{ country_code | downcase }}.png" alt="{{ country_code }}" title="{{ country_code }}" />
+                    </a>
+                    {% else %}
+                      <img src="/style/flags/iso/{{ country_code | downcase }}.png" alt="{{ country_code }}" title="{{ country_code }}" />
+                    {% endunless %}
                 </li>
             {% endfor %}
         </ul>
     </div>
+    {% if forloop.last == false %}
+    <hr>
+    {% endif %}
 {% endfor %}
