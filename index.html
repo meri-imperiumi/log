@@ -3,6 +3,7 @@ layout: default
 title: Latest logs
 reverse: true
 cover: '../2022/lille-oe-in-eko.jpg'
+excerpt: Lille Ø is our cruising sailboat, a 1979 Amigo 40. A Swedish-built boat with a Danish name, a Finnish crew, and sailing under the German flag. Follow our adventures as we explore the coasts of the Baltic Sea!
 ---
 <div class="intro">
   {% include aishub_background.html %}
@@ -10,18 +11,24 @@ cover: '../2022/lille-oe-in-eko.jpg'
     <div>
       <h1>{{ site.name | replace: "Lille Ø", "<i>Lille Ø</i>" }}</h1>
       <p>
-      <i>Lille Ø</i> is our cruising sailboat, a <a href="{{ site.baseurl }}/boat/">1979 Amigo 40</a>. A Swedish-built boat with a Danish name, a Finnish crew, and sailing under the German flag. Follow our adventures as we explore the coasts of the Baltic Sea!
+      <i>Lille Ø</i> is our cruising sailboat, a <a href="{{ site.baseurl }}/boat/">1979 Amigo 40</a>. A Swedish-built boat with a Danish name, a <a href="{{ site.baseurl }}/crew/">Finnish crew</a>, and sailing under the German flag. Follow our adventures as we explore the coasts of the Baltic Sea!
       </p>
     </div>
-    <a href="{{ site.baseurl }}/boat/"><img src="{{ site.baseurl }}/2022/lille-oe-in-eko.jpg"></a>
+    <a href="{{ site.baseurl }}/boat/"><img src="{{ site.baseurl }}/2022/lille-oe-in-eko.jpg" alt="Lille Ø"></a>
   </div>
 </div>
 {% assign logs = site.logs | reverse %}
 <ul class="logs">
   {% for post in logs limit:10 %}
   <li id="{{ post.created | date: "%Y%m%d" }}">
-    <h2><a href="{{ site.baseurl }}{{ post.url }}">{{ post.created | date: "%Y-%m-%d" }} {{ post.title }}</a></h2>
-    {{ post.content | replace: 'img src="..', 'img src="https://meri-imperiumi.github.io/log'| replace: 'https://meri-imperiumi.github.io/log',site.baseurl | replace: "Lille Ø", "<i>Lille Ø</i>" }}
+    <article>
+      <h2 class="meta">{{ post.created | date: "%A, %B %-d, %Y" }}</h2>
+      <h1><a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a></h1>
+      {{ post.content | replace: 'img src="..', 'img src="https://meri-imperiumi.github.io/log'| replace: 'https://meri-imperiumi.github.io/log',site.baseurl | replace: "Lille Ø", "<i>Lille Ø</i>" }}
+      {% if forloop.last == false %}
+        <hr>
+      {% endif %}
+    </article>
   </li>
   {% endfor %}
 </ul>

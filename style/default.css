@@ -1,6 +1,7 @@
 @font-face {
   font-family: 'NotesESA';
   src: url('./NotesESA.woff');
+  font-display: swap;
 }
 body {
   background-color: #e8e8e4;
@@ -20,12 +21,6 @@ h2 {
   font-weight: normal;
   text-rendering: optimizeLegibility;
   line-height:  1.3em;
-}
-h2 a {
-  text-decoration: none;
-}
-h2 a:focus, h2 a:hover {
-  text-decoration: underline;
 }
 header {
   display: block;
@@ -105,6 +100,17 @@ main > * {
   grid-column: 2;
 }
 
+main hr {
+  height: 80px;
+  background-image: url('./boat.png');
+  background-size: 89px 80px;
+  background-position: center;
+  background-repeat: no-repeat;
+  margin: 0;
+  margin-bottom: 1em;
+  border: none;
+}
+
 main img {
   max-width: 100%;
   max-height: 90vh;
@@ -123,6 +129,21 @@ ul.logs > li {
   list-style: none;
   margin: 0;
   padding: 0;
+}
+ul.logs article h1 {
+  font-size: 22pt;
+  margin-top: 0.2em;
+}
+ul.logs article img {
+  margin-left: auto;
+  margin-right: auto;
+}
+ul.logs article h1 a {
+  text-decoration: none;
+}
+ul.logs article h1 a:focus,
+ul.logs article h1 a:hover {
+  text-decoration: underline;
 }
 main img {
   margin: 1px;
@@ -179,6 +200,7 @@ main .intro.boat img {
 }
 main .intro #map {
   position: absolute;
+  background-color: rgba(232, 232, 228, 0.8);
   top: 0;
   left: 0;
   width: 100vw;
@@ -192,42 +214,6 @@ main .intro #updated {
   bottom: 0.5em;
   background-color: rgba(232, 232, 228, 0.8);
   padding: 4px;
-}
-main .gallery {
-  grid-column: 1 / 4;
-  display: grid;
-  grid-template-columns: repeat(auto-fit, minmax(22vw, 1fr));
-  grid-gap: 1em;
-  justify-items: center;
-  align-items: center;
-  padding: 1em;
-  background-color: rgb(129, 151, 166);
-}
-main .gallery img {
-  max-width: 100%;
-  max-height: 100%;
-  object-fit: contain;
-  display: block;
-}
-main .gallery .lightbox {
-  display: none;
-  width: 100vw;
-  height: 100vh;
-  position: fixed;
-  top: 0px;
-  left: 0px;
-  background-color: rgba(129, 151, 166, 0.9);
-}
-main .gallery .lightbox:target {
-  display: block;
-}
-main .gallery .lightbox div {
-  display: block;
-  width: 100%;
-  height: 100%;
-  background-position: center;
-  background-repeat: no-repeat;
-  background-size: contain;
 }
 main .timelapse {
   width: 100%;
@@ -451,9 +437,6 @@ h2.meta {
     margin-left: auto;
     margin-right: auto;
   }
-  main .gallery {
-    grid-template-columns: repeat(auto-fit, minmax(40vw, 1fr));
-  }
   main nav.prevnext ul li .title {
     display: none;
   }
@@ -466,7 +449,10 @@ h2.meta {
     display: block;
     width: 50px;
     height: 50px;
-    border: none;
+    box-sizing: border-box;
+    border: 15px solid #003247;
+    border-right: 0px;
+    border-left: 30px solid #003247;
     background: linear-gradient(
       to bottom,
       white, white 20%,
