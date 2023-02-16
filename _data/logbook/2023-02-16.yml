@@ -98,3 +98,44 @@
     hours: 502.3
   vhf: "10"
   category: navigation
+- datetime: 2023-02-16T12:13:19.500Z
+  text: Stopped main engine
+  author: bergie
+  position:
+    longitude: 13.193659830093384
+    latitude: 52.510995165507
+    source: GPS
+  heading: 1
+  speed:
+    stw: 0
+    sog: 0
+  log: 1.3
+  barometer: 1019.95
+  wind:
+    speed: 9.4
+    direction: 225
+  engine:
+    hours: 502.5
+  vhf: "10"
+  category: navigation
+- datetime: 2023-02-16T12:20:35.398Z
+  text: Stopped
+  author: ""
+  position:
+    longitude: 13.1936596
+    latitude: 52.5110103
+    source: GPS
+  heading: 2
+  speed:
+    stw: 0
+    sog: 0
+  log: 1.4
+  barometer: 1019.86
+  wind:
+    speed: 4.1
+    direction: 220
+  engine:
+    hours: 502.5
+  vhf: "10"
+  end: true
+  category: navigation
