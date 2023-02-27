@@ -1,0 +1,300 @@
+- datetime: 2023-02-27T13:03:44.899Z
+  text: Started main engine
+  author: ""
+  position:
+    longitude: 13.193637005488078
+    latitude: 52.511052831014
+    source: GPS
+  heading: 4
+  speed:
+    stw: 0
+    sog: 0
+  log: 1.4
+  barometer: 1027.21
+  wind:
+    speed: 7.1
+    direction: 67
+  engine:
+    hours: 502.5
+  vhf: "10"
+  category: navigation
+- datetime: 2023-02-27T13:12:29.900Z
+  text: Stopped main engine
+  author: ""
+  position:
+    longitude: 13.1936286
+    latitude: 52.511034
+    source: GPS
+  heading: 4
+  speed:
+    stw: 0
+    sog: 0
+  log: 1.4
+  barometer: 1027.27
+  wind:
+    speed: 7.7
+    direction: 90
+  engine:
+    hours: 502.6
+  vhf: "10"
+  category: navigation
+- datetime: 2023-02-27T13:12:37.900Z
+  text: Started main engine
+  author: ""
+  position:
+    longitude: 13.1936341
+    latitude: 52.5110311
+    source: GPS
+  heading: 6
+  speed:
+    stw: 0
+    sog: 0
+  log: 1.4
+  barometer: 1027.28
+  wind:
+    speed: 6.6
+    direction: 86
+  engine:
+    hours: 502.6
+  vhf: "10"
+  category: navigation
+- datetime: 2023-02-27T13:12:39.900Z
+  text: Stopped main engine
+  author: ""
+  position:
+    longitude: 13.1936351
+    latitude: 52.5110306
+    source: GPS
+  heading: 8
+  speed:
+    stw: 0
+    sog: 0
+  log: 1.4
+  barometer: 1027.28
+  wind:
+    speed: 5.7
+    direction: 94
+  engine:
+    hours: 502.6
+  vhf: "10"
+  category: navigation
+- datetime: 2023-02-27T13:12:53.900Z
+  text: Started main engine
+  author: ""
+  position:
+    longitude: 13.1936254
+    latitude: 52.5110208
+    source: GPS
+  heading: 8
+  speed:
+    stw: 0
+    sog: 0
+  log: 1.4
+  barometer: 1027.29
+  wind:
+    speed: 5.7
+    direction: 80
+  engine:
+    hours: 502.6
+  vhf: "10"
+  category: navigation
+- datetime: 2023-02-27T13:13:01.900Z
+  text: Stopped main engine
+  author: ""
+  position:
+    longitude: 13.1936258
+    latitude: 52.5110168
+    source: GPS
+  heading: 2
+  speed:
+    stw: 0
+    sog: 0
+  log: 1.4
+  barometer: 1027.3
+  wind:
+    speed: 8
+    direction: 93
+  engine:
+    hours: 502.6
+  vhf: "10"
+  category: navigation
+- datetime: 2023-02-27T13:13:05.900Z
+  text: Started main engine
+  author: ""
+  position:
+    longitude: 13.1936268
+    latitude: 52.5110151
+    source: GPS
+  heading: 357
+  speed:
+    stw: 0
+    sog: 0
+  log: 1.4
+  barometer: 1027.3
+  wind:
+    speed: 6.8
+    direction: 86
+  engine:
+    hours: 502.6
+  vhf: "10"
+  category: navigation
+- datetime: 2023-02-27T13:13:29.900Z
+  text: Stopped main engine
+  author: ""
+  position:
+    longitude: 13.1936548
+    latitude: 52.5108653
+    source: GPS
+  heading: 347
+  speed:
+    stw: 2
+    sog: 2
+  log: 1.4
+  barometer: 1027.31
+  wind:
+    speed: 6.6
+    direction: 85
+  engine:
+    hours: 502.6
+  vhf: "10"
+  category: navigation
+- datetime: 2023-02-27T13:15:29.900Z
+  text: Sailing
+  author: ""
+  position:
+    longitude: 13.1934743
+    latitude: 52.5100225
+    source: GPS
+  heading: 202
+  speed:
+    stw: 3
+    sog: 3
+  log: 1.4
+  barometer: 1027.29
+  wind:
+    speed: 6.8
+    direction: 109
+  engine:
+    hours: 502.6
+  vhf: "10"
+  category: navigation
+- datetime: 2023-02-27T13:15:30.899Z
+  text: Started main engine
+  author: ""
+  position:
+    longitude: 13.1934676
+    latitude: 52.5100121
+    source: GPS
+  heading: 203
+  speed:
+    stw: 3.1
+    sog: 3.1
+  log: 0
+  barometer: 1027.29
+  wind:
+    speed: 6.5
+    direction: 114
+  engine:
+    hours: 502.7
+  vhf: "10"
+  category: navigation
+- datetime: 2023-02-27T13:15:36.899Z
+  text: Sails down, motoring
+  author: ""
+  position:
+    longitude: 13.1934078
+    latitude: 52.5099494
+    source: GPS
+  heading: 207
+  speed:
+    stw: 3.2
+    sog: 3.2
+  log: 0
+  barometer: 1027.27
+  wind:
+    speed: 7.8
+    direction: 101
+  engine:
+    hours: 502.7
+  vhf: "10"
+  category: navigation
+- datetime: 2023-02-27T13:16:35.900Z
+  text: Stopped main engine
+  author: ""
+  position:
+    longitude: 13.1923618
+    latitude: 52.5092761
+    source: GPS
+  heading: 230
+  speed:
+    stw: 3.5
+    sog: 3.5
+  log: 0.1
+  barometer: 1027.32
+  wind:
+    speed: 6.3
+    direction: 123
+  engine:
+    hours: 502.7
+  vhf: "10"
+  category: navigation
+- datetime: 2023-02-27T13:16:42.899Z
+  text: Motor stopped, sailing
+  author: ""
+  position:
+    longitude: 13.192225329081218
+    latitude: 52.50920483271281
+    source: GPS
+  heading: 229
+  speed:
+    stw: 3.5
+    sog: 3.5
+  log: 0.1
+  barometer: 1027.31
+  wind:
+    speed: 6.9
+    direction: 119
+  engine:
+    hours: 502.7
+  vhf: "10"
+  category: navigation
+- datetime: 2023-02-27T13:17:57.900Z
+  text: Started main engine
+  author: ""
+  position:
+    longitude: 13.1921478
+    latitude: 52.5084821
+    source: GPS
+  heading: 106
+  speed:
+    stw: 3
+    sog: 3
+  log: 0.1
+  barometer: 1027.33
+  wind:
+    speed: 5.1
+    direction: 83
+  engine:
+    hours: 502.7
+  vhf: "10"
+  category: navigation
+- datetime: 2023-02-27T13:18:01.900Z
+  text: Sails down, motoring
+  author: ""
+  position:
+    longitude: 13.1922281
+    latitude: 52.5084679
+    source: GPS
+  heading: 114
+  speed:
+    stw: 2.9
+    sog: 2.9
+  log: 0.1
+  barometer: 1027.33
+  wind:
+    speed: 7.3
+    direction: 83
+  engine:
+    hours: 502.7
+  vhf: "10"
+  category: navigation
