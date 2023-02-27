@@ -298,3 +298,123 @@
     hours: 502.7
   vhf: "10"
   category: navigation
+- datetime: 2023-02-27T13:20:45.900Z
+  text: Stopped main engine
+  author: ""
+  position:
+    longitude: 13.1926271
+    latitude: 52.5066239
+    source: GPS
+  heading: 173
+  speed:
+    stw: 2
+    sog: 2
+  log: 0.3
+  barometer: 1027.34
+  wind:
+    speed: 4.3
+    direction: 19
+  engine:
+    hours: 502.7
+  vhf: "10"
+  category: navigation
+- datetime: 2023-02-27T13:20:50.899Z
+  text: Motor stopped, sailing
+  author: ""
+  position:
+    longitude: 13.1926341
+    latitude: 52.5065774
+    source: GPS
+  heading: 172
+  speed:
+    stw: 1.9
+    sog: 1.9
+  log: 0.3
+  barometer: 1027.33
+  wind:
+    speed: 4.2
+    direction: 47
+  engine:
+    hours: 502.7
+  vhf: "10"
+  category: navigation
+- datetime: 2023-02-27T13:45:22.899Z
+  text: Autopilot activated
+  author: ""
+  position:
+    longitude: 13.1887201
+    latitude: 52.4832688
+    source: GPS
+  heading: 177
+  speed:
+    stw: 3.5
+    sog: 3.5
+  log: 1.7
+  barometer: 1027.21
+  wind:
+    speed: 6.2
+    direction: 20
+  engine:
+    hours: 502.7
+  vhf: "10"
+  category: navigation
+- datetime: 2023-02-27T14:00:12.899Z
+  text: ""
+  author: ""
+  position:
+    longitude: 13.1889365
+    latitude: 52.472338
+    source: GPS
+  heading: 155
+  speed:
+    stw: 1.2
+    sog: 1.2
+  log: 2.3
+  barometer: 1027.25
+  wind:
+    speed: 3.4
+    direction: 97
+  engine:
+    hours: 502.7
+  vhf: "10"
+  category: navigation
+- datetime: 2023-02-27T14:03:06.899Z
+  text: Started main engine
+  author: ""
+  position:
+    longitude: 13.189235003789266
+    latitude: 52.471590995788574
+    source: GPS
+  heading: 153
+  speed:
+    stw: 1
+    sog: 1
+  log: 2.4
+  barometer: 1027.27
+  wind:
+    speed: 4.8
+    direction: 108
+  engine:
+    hours: 502.7
+  vhf: "10"
+  category: navigation
+- datetime: 2023-02-27T14:03:06.899Z
+  text: Sails down, motoring
+  author: ""
+  position:
+    longitude: 13.189235003789266
+    latitude: 52.471590995788574
+    source: GPS
+  heading: 153
+  speed:
+    stw: 1
+    sog: 1
+  log: 2.4
+  barometer: 1027.27
+  wind:
+    speed: 4.8
+    direction: 108
+  engine:
+    hours: 502.7
+  vhf: "10"
+  category: navigation
