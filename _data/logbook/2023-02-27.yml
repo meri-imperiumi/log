@@ -359,7 +359,7 @@
   vhf: "10"
   category: navigation
 - datetime: 2023-02-27T14:18:15.900Z
-  text: Stopped main engine
+  text: Anchored
   author: ""
   position:
     longitude: 13.1959513
@@ -378,3 +378,4 @@
     hours: 503
   vhf: "10"
   category: navigation
+  end: true
