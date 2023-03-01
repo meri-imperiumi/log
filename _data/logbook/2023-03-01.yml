@@ -1,0 +1,60 @@
+- datetime: 2023-03-01T09:56:51.001Z
+  text: Started main engine
+  author: ""
+  position:
+    longitude: 13.1963091
+    latitude: 52.4702164
+    source: GPS
+  heading: 262
+  speed:
+    stw: 0
+    sog: 0
+  log: 2.8
+  barometer: 1027.5
+  wind:
+    speed: 2.2
+    direction: 292
+  engine:
+    hours: 503
+  vhf: "10"
+  category: navigation
+- datetime: 2023-03-01T10:01:12.000Z
+  text: Anchor up, motoring
+  author: ""
+  position:
+    longitude: 13.1963156
+    latitude: 52.4701863
+    source: GPS
+  heading: 324
+  speed:
+    stw: 0
+    sog: 0
+  log: 2.8
+  barometer: 1027.52
+  wind:
+    speed: 2.9
+    direction: 195
+  engine:
+    hours: 503.1
+  vhf: "10"
+  category: navigation
+- datetime: 2023-03-01T10:10:39.001Z
+  text: Autopilot activated
+  author: ""
+  position:
+    longitude: 13.1912936
+    latitude: 52.4691393
+    source: GPS
+  heading: 326
+  speed:
+    stw: 2.9
+    sog: 2.9
+  log: 0.2
+  barometer: 1027.58
+  wind:
+    speed: 2.5
+    direction: 328
+  engine:
+    hours: 503.2
+  vhf: "10"
+  category: navigation
