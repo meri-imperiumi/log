@@ -58,3 +58,64 @@
     hours: 503.2
   vhf: "10"
   category: navigation
+- datetime: 2023-03-01T10:39:32.000Z
+  text: Autopilot deactivated
+  author: ""
+  position:
+    longitude: 13.1921431
+    latitude: 52.5045724
+    source: GPS
+  heading: 14
+  speed:
+    stw: 4.1
+    sog: 4.1
+  log: 2.4
+  barometer: 1027.48
+  wind:
+    speed: 0.9
+    direction: 296
+  engine:
+    hours: 503.7
+  vhf: "10"
+  category: navigation
+- datetime: 2023-03-01T10:56:52.000Z
+  text: Stopped main engine
+  author: ""
+  position:
+    longitude: 13.193282
+    latitude: 52.5111691
+    source: GPS
+  heading: 98
+  speed:
+    stw: 0
+    sog: 0
+  log: 3
+  barometer: 1027.28
+  wind:
+    speed: 3.1
+    direction: 54
+  engine:
+    hours: 504
+  vhf: "10"
+  category: navigation
+- datetime: 2023-03-01T10:56:52.998Z
+  text: Stopped
+  author: ""
+  position:
+    longitude: 13.1932805
+    latitude: 52.5111688
+    source: GPS
+  heading: 98
+  speed:
+    stw: 0
+    sog: 0
+  log: 3
+  barometer: 1027.28
+  wind:
+    speed: 3
+    direction: 58
+  engine:
+    hours: 504
+  vhf: "10"
+  end: true
+  category: navigation
