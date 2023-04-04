@@ -1,0 +1,114 @@
+- datetime: 2023-04-04T09:20:38.201Z
+  text: Started main engine
+  author: ""
+  position:
+    longitude: 13.193461
+    latitude: 52.5109994
+    source: GPS
+  heading: 278
+  speed:
+    stw: 0
+    sog: 0
+  log: 0.2
+  barometer: 1027.21
+  engine:
+    hours: 506.9
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: navigation
+- datetime: 2023-04-04T09:20:47.200Z
+  text: Stopped main engine
+  author: ""
+  position:
+    longitude: 13.1934633
+    latitude: 52.5110013
+    source: GPS
+  heading: 279
+  speed:
+    stw: 0
+    sog: 0
+  log: 0.2
+  barometer: 1027.21
+  engine:
+    hours: 506.9
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: navigation
+- datetime: 2023-04-04T09:24:46.201Z
+  text: Started main engine
+  author: ""
+  position:
+    longitude: 13.1934583346049
+    latitude: 52.510983848571776
+    source: GPS
+  heading: 278
+  speed:
+    stw: 0
+    sog: 0
+  log: 0.2
+  barometer: 1027.19
+  engine:
+    hours: 506.9
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: navigation
+- datetime: 2023-04-04T09:25:28.198Z
+  text: Stopped main engine
+  author: ""
+  position:
+    longitude: 13.1934665
+    latitude: 52.5109856
+    source: GPS
+  heading: 278
+  speed:
+    stw: 0
+    sog: 0
+  log: 0.2
+  barometer: 1027.17
+  engine:
+    hours: 506.9
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: navigation
+- datetime: 2023-04-04T09:26:19.200Z
+  text: Started main engine
+  author: ""
+  position:
+    longitude: 13.1934759
+    latitude: 52.5109831
+    source: GPS
+  heading: 277
+  speed:
+    stw: 0
+    sog: 0
+  log: 0.2
+  barometer: 1027.15
+  engine:
+    hours: 507
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: navigation
+- datetime: 2023-04-04T09:37:02.201Z
+  text: Stopped main engine
+  author: ""
+  position:
+    longitude: 13.1934811
+    latitude: 52.5109926
+    source: GPS
+  heading: 267
+  speed:
+    stw: 0
+    sog: 0
+  log: 0.2
+  barometer: 1027.11
+  engine:
+    hours: 507.1
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: navigation
