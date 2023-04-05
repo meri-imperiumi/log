@@ -42,28 +42,6 @@
     - ihmis-suski
     - bergie
   category: navigation
-- datetime: 2023-04-02T09:26:31.001Z
-  text: Stopped main engine
-  author: ""
-  position:
-    longitude: 13.1907653
-    latitude: 52.4715361
-    source: GPS
-  heading: 349
-  speed:
-    stw: 2.7
-    sog: 2.6
-  log: 0.3
-  barometer: 1018.61
-  wind:
-    speed: 7.4
-    direction: 54
-  engine:
-    hours: 505.9
-  crewNames:
-    - ihmis-suski
-    - bergie
-  category: navigation
 - datetime: 2023-04-02T09:26:32.000Z
   text: Motor stopped, sailing with Main, Staysail
   author: bergie
@@ -109,29 +87,6 @@
     - ihmis-suski
     - bergie
   category: navigation
-- datetime: 2023-04-02T10:17:16.998Z
-  text: Started main engine
-  author: ""
-  position:
-    longitude: 13.191116333007812
-    latitude: 52.50811882019043
-    source: GPS
-  heading: 354
-  speed:
-    stw: 4.2
-    sog: 3.9
-  log: 3.3
-  barometer: 1019.29
-  wind:
-    speed: 6.7
-    direction: 20
-  engine:
-    hours: 506
-  vhf: "10"
-  crewNames:
-    - ihmis-suski
-    - bergie
-  category: navigation
 - datetime: 2023-04-02T10:17:22.000Z
   text: Sails down, motoring
   author: ""
@@ -150,29 +105,6 @@
     direction: 28
   engine:
     hours: 506
-  vhf: "10"
-  crewNames:
-    - ihmis-suski
-    - bergie
-  category: navigation
-- datetime: 2023-04-02T10:26:39.001Z
-  text: Stopped main engine
-  author: ""
-  position:
-    longitude: 13.1934626
-    latitude: 52.5110068
-    source: GPS
-  heading: 280
-  speed:
-    stw: 0
-    sog: 0
-  log: 3.6
-  barometer: 1019.45
-  wind:
-    speed: 5.2
-    direction: 48
-  engine:
-    hours: 506.1
   vhf: "10"
   crewNames:
     - ihmis-suski
@@ -239,25 +171,6 @@
     - ihmis-suski
     - bergie
   category: navigation
-- datetime: 2023-04-02T13:39:31.299Z
-  text: Stopped main engine
-  author: ""
-  position:
-    longitude: 13.1940128
-    latitude: 52.5113325
-    source: GPS
-  heading: 25
-  speed:
-    stw: 0
-    sog: 0
-  log: 1.6
-  barometer: 1021.14
-  engine:
-    hours: 506.7
-  crewNames:
-    - ihmis-suski
-    - bergie
-  category: navigation
 - datetime: 2023-04-02T13:39:33.299Z
   text: Stopped
   author: ""
@@ -271,26 +184,6 @@
     sog: 0
   log: 1.6
   barometer: 1021.14
-  engine:
-    hours: 506.7
-  crewNames:
-    - ihmis-suski
-    - bergie
-  end: true
-  category: navigation
-- datetime: 2023-04-02T13:43:08.300Z
-  text: Stopped
-  author: ""
-  position:
-    latitude: 52.511383056640625
-    longitude: 13.194038391113281
-    source: GPS
-  heading: 17
-  speed:
-    stw: 0
-    sog: 0.1
-  log: 0
-  barometer: 1021.34
   engine:
     hours: 506.7
   crewNames:
