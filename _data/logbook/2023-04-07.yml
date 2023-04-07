@@ -38,24 +38,64 @@
     - ihmis-suski
     - bergie
   category: navigation
-- datetime: 2023-04-07T07:04:32.000Z
+- datetime: 2023-04-07T07:08:30.000Z
+  text: Motoring
+  author: ""
+  position:
+    longitude: 13.1940013
+    latitude: 52.5105495
+    source: GPS
+  heading: 356
+  course: 358
+  speed:
+    stw: 1.9
+    sog: 1.7
+  log: 21.2
+  barometer: 1017.36
+  engine:
+    hours: 507.9
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: navigation
+- datetime: 2023-04-07T07:11:57.000Z
   text: Stopped
   author: ""
   position:
-    longitude: 13.19366
-    latitude: 52.5099725
+    longitude: 13.1934216
+    latitude: 52.5109951
     source: GPS
-  heading: 128
-  course: 125
+  heading: 280
+  course: 280
   speed:
-    stw: 1.6
-    sog: 1.8
-  log: 21
-  barometer: 1017.43
+    stw: 0
+    sog: 0
+  log: 21.3
+  barometer: 1017.36
   engine:
-    hours: 507.8
+    hours: 508
   crewNames:
     - ihmis-suski
     - bergie
   end: true
   category: navigation
+- datetime: 2023-04-07T07:49:19.001Z
+  text: Filled up 10l diesel
+  author: bergie
+  position:
+    longitude: 13.1934656
+    latitude: 52.5109739
+    source: GPS
+  heading: 282
+  course: 280
+  speed:
+    stw: 0
+    sog: 0
+  log: 21.3
+  barometer: 1017.63
+  engine:
+    hours: 508
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: engine
