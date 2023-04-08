@@ -603,8 +603,8 @@
     - bergie
   category: navigation
 - datetime: 2023-04-08T18:40:07.097Z
-  text: Stopped
-  author: ""
+  text: "Stopped inside the new ship elevator "
+  author: bergie
   position:
     longitude: 13.9419383
     latitude: 52.8501973
@@ -644,4 +644,47 @@
   crewNames:
     - ihmis-suski
     - bergie
+  category: navigation
+- datetime: 2023-04-08T19:01:47.097Z
+  text: Motoring
+  author: ""
+  position:
+    longitude: 13.9435926
+    latitude: 52.849982
+    source: GPS
+  heading: 71
+  course: 168
+  speed:
+    stw: 2.8
+    sog: 3.1
+  log: 136.9
+  barometer: 1028.46
+  engine:
+    hours: 516.6
+  vhf: "10"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: navigation
+- datetime: 2023-04-08T19:10:04.102Z
+  text: Stopped for the night at the lower sport boat waiting area
+  author: bergie
+  position:
+    longitude: 13.9529385
+    latitude: 52.8506399
+    source: GPS
+  heading: 74
+  course: 138
+  speed:
+    stw: 0
+    sog: 0
+  log: 137.7
+  barometer: 1028.49
+  engine:
+    hours: 516.7
+  vhf: "10"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  end: true
   category: navigation
