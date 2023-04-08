@@ -474,8 +474,8 @@
     - bergie
   category: navigation
 - datetime: 2023-04-08T18:01:47.097Z
-  text: Stopped
-  author: ""
+  text: Stopped at old Hebewerk sport waiting area
+  author: bergie
   position:
     longitude: 13.9363371
     latitude: 52.8500886
@@ -511,6 +511,135 @@
   barometer: 1023.34
   engine:
     hours: 516.3
+  vhf: "10"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: navigation
+- datetime: 2023-04-08T18:15:59.097Z
+  text: Motoring
+  author: ""
+  position:
+    longitude: 13.93442497253418
+    latitude: 52.85012950897217
+    source: GPS
+  heading: 281
+  course: 280
+  speed:
+    stw: 4.7
+    sog: 4.5
+  log: 135.1
+  barometer: 1023.42
+  engine:
+    hours: 516.3
+  vhf: "10"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: navigation
+- datetime: 2023-04-08T18:21:48.102Z
+  text: Stopped new Hebewerk sport waiting area. We will go in the new one after a
+    tug.
+  author: bergie
+  position:
+    longitude: 13.9305443
+    latitude: 52.8512596
+    source: GPS
+  heading: 95
+  course: 69
+  speed:
+    stw: 0
+    sog: 0
+  log: 135.7
+  barometer: 1023.54
+  engine:
+    hours: 516.4
+  vhf: "10"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  end: true
+  category: navigation
+- datetime: 2023-04-08T18:32:23.097Z
+  text: Started main engine
+  author: ""
+  position:
+    longitude: 13.9305491
+    latitude: 52.8512566
+    source: GPS
+  heading: 98
+  course: 69
+  speed:
+    stw: 0.1
+    sog: 0
+  log: 135.7
+  barometer: 1023.69
+  engine:
+    hours: 516.4
+  vhf: "10"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: navigation
+- datetime: 2023-04-08T18:33:54.099Z
+  text: Motoring
+  author: ""
+  position:
+    longitude: 13.9331418
+    latitude: 52.8509923
+    source: GPS
+  heading: 94
+  course: 100
+  speed:
+    stw: 4.8
+    sog: 4.6
+  log: 136
+  barometer: 1023.7
+  engine:
+    hours: 516.4
+  vhf: "10"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: navigation
+- datetime: 2023-04-08T18:40:07.097Z
+  text: Stopped
+  author: ""
+  position:
+    longitude: 13.9419383
+    latitude: 52.8501973
+    source: GPS
+  heading: 91
+  course: 112
+  speed:
+    stw: 0
+    sog: 0
+  log: 136.7
+  barometer: 1023.73
+  engine:
+    hours: 516.5
+  vhf: "10"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  end: true
+  category: navigation
+- datetime: 2023-04-08T18:59:53.100Z
+  text: Started main engine
+  author: ""
+  position:
+    longitude: 13.9420199
+    latitude: 52.8504056
+    source: GPS
+  heading: 89
+  course: 106
+  speed:
+    stw: 0
+    sog: 0
+  log: 136.7
+  barometer: 1028.45
+  engine:
+    hours: 516.5
   vhf: "10"
   crewNames:
     - ihmis-suski
