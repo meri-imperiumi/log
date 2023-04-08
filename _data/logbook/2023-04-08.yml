@@ -212,24 +212,27 @@
     - ihmis-suski
     - bergie
   category: navigation
-- datetime: 2023-04-08T11:05:30.800Z
-  text: Motor stopped, sailing
-  author: ""
+- datetime: 2023-04-08T11:59:20.800Z
+  text: "Stopped, Schleuse Lehnitz sport boat waiting pier "
+  author: bergie
   position:
-    longitude: 13.2509953
-    latitude: 52.7007678
+    longitude: 13.2790895
+    latitude: 52.7664748
     source: GPS
-  heading: 355
-  course: 355
+  heading: 53
+  course: 3
   speed:
-    stw: 5.5
-    sog: 4.6
-  log: 57.2
-  barometer: 1022.88
+    stw: 0
+    sog: 0
+  log: 68.4
+  barometer: 1022.9
   engine:
-    hours: 510.9
+    hours: 511.3
   vhf: "10"
   crewNames:
     - ihmis-suski
     - bergie
+  end: true
   category: navigation
+  observations:
+    cloudCoverage: 6
