@@ -213,7 +213,8 @@
     - bergie
   category: navigation
 - datetime: 2023-04-08T11:59:20.800Z
-  text: "Stopped, Schleuse Lehnitz sport boat waiting pier "
+  text: Stopped, Schleuse Lehnitz sport boat waiting pier. Lock keeper isn't
+    answering the phone
   author: bergie
   position:
     longitude: 13.2790895
@@ -236,3 +237,131 @@
   category: navigation
   observations:
     cloudCoverage: 6
+- datetime: 2023-04-08T12:23:49.798Z
+  text: Started main engine
+  author: ""
+  position:
+    longitude: 13.2791298
+    latitude: 52.7664674
+    source: GPS
+  heading: 45
+  course: 136
+  speed:
+    stw: 0
+    sog: 0
+  log: 68.4
+  barometer: 1022.92
+  engine:
+    hours: 511.3
+  vhf: "10"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: navigation
+- datetime: 2023-04-08T12:26:02.800Z
+  text: Motoring
+  author: ""
+  position:
+    longitude: 13.2800998
+    latitude: 52.7681784
+    source: GPS
+  heading: 4
+  course: 8
+  speed:
+    stw: 3.8
+    sog: 2.4
+  log: 68.6
+  barometer: 1022.91
+  engine:
+    hours: 511.4
+  vhf: "10"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: navigation
+- datetime: 2023-04-08T12:27:42.800Z
+  text: "Stopped inside the locks. "
+  author: ihmis-suski
+  position:
+    longitude: 13.2800514
+    latitude: 52.7686838
+    source: GPS
+  heading: 331
+  course: 3
+  speed:
+    stw: 0
+    sog: 0
+  log: 68.7
+  barometer: 1022.93
+  engine:
+    hours: 511.4
+  vhf: "10"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  end: true
+  category: navigation
+  observations:
+    cloudCoverage: 4
+- datetime: 2023-04-08T12:44:54.800Z
+  text: Started main engine
+  author: ""
+  position:
+    longitude: 13.280182
+    latitude: 52.7687386
+    source: GPS
+  heading: 294
+  course: 98
+  speed:
+    stw: 0
+    sog: 0
+  log: 68.7
+  barometer: 1022.07
+  engine:
+    hours: 511.4
+  vhf: "10"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: navigation
+- datetime: 2023-04-08T12:47:58.800Z
+  text: Motoring
+  author: ""
+  position:
+    longitude: 13.2802309
+    latitude: 52.7720776
+    source: GPS
+  heading: 360
+  course: 360
+  speed:
+    stw: 5.3
+    sog: 5
+  log: 69.2
+  barometer: 1022.08
+  engine:
+    hours: 511.4
+  vhf: "10"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: navigation
+- datetime: 2023-04-08T13:00:55.801Z
+  text: ""
+  author: ""
+  position:
+    longitude: 13.2839203
+    latitude: 52.78956
+    source: GPS
+  heading: 33
+  course: 37
+  speed:
+    stw: 5.3
+    sog: 5.1
+  log: 72
+  barometer: 1022.07
+  engine:
+    hours: 511.7
+  vhf: "10"
+  crewNames:
+    - ihmis-suski
+    - bergie
