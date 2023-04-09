@@ -200,7 +200,7 @@
   category: navigation
 - datetime: 2023-04-09T07:00:05.000Z
   text: ""
-  author: ""
+  author: bergie
   position:
     longitude: 14.1098395
     latitude: 52.9488266
@@ -217,6 +217,32 @@
   barometer: 1028.99
   engine:
     hours: 519.5
+  vhf: "10"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: navigation
+  observations:
+    cloudCoverage: 8
+- datetime: 2023-04-09T08:00:51.001Z
+  text: ""
+  author: ""
+  position:
+    longitude: 14.2069966
+    latitude: 52.9996858
+    source: GPS
+  heading: 38
+  course: 42
+  speed:
+    stw: 5.3
+    sog: 5.5
+  log: 180.5
+  waypoint:
+    longitude: 14.20839
+    latitude: 53.00077
+  barometer: 1029.37
+  engine:
+    hours: 520.5
   vhf: "10"
   crewNames:
     - ihmis-suski
