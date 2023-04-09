@@ -382,3 +382,53 @@
   category: navigation
   observations:
     cloudCoverage: 8
+- datetime: 2023-04-09T13:00:44.300Z
+  text: ""
+  author: ""
+  position:
+    longitude: 14.5830553
+    latitude: 53.3653541
+    source: GPS
+  heading: 42
+  course: 43
+  speed:
+    stw: 5.3
+    sog: 5.9
+  log: 245.9
+  waypoint:
+    longitude: 14.584
+    latitude: 53.36583
+  barometer: 1028.27
+  engine:
+    hours: 525.5
+  vhf: "10"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: navigation
+- datetime: 2023-04-09T13:05:42.300Z
+  text: The low railroad bridge is gone
+  author: bergie
+  position:
+    longitude: 14.5914775
+    latitude: 53.3699824
+    source: GPS
+  heading: 41
+  course: 43
+  speed:
+    stw: 5.4
+    sog: 6
+  log: 246.8
+  waypoint:
+    longitude: 14.59328
+    latitude: 53.37143
+  barometer: 1028.34
+  engine:
+    hours: 525.6
+  vhf: "10"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: navigation
+  observations:
+    cloudCoverage: 7
