@@ -63,3 +63,117 @@
   crewNames:
     - ihmis-suski
     - bergie
+  category: navigation
+- datetime: 2023-04-09T05:39:54.099Z
+  text: Stopped
+  author: ""
+  position:
+    longitude: 14.1478948
+    latitude: 52.8738861
+    source: GPS
+  heading: 33
+  course: 23
+  speed:
+    stw: 0
+    sog: 0
+  log: 156
+  waypoint:
+    longitude: 14.14873
+    latitude: 52.87423
+  barometer: 1028.86
+  engine:
+    hours: 518.3
+  vhf: "10"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  end: true
+  category: navigation
+- datetime: 2023-04-09T05:47:17.100Z
+  text: Started main engine
+  author: ""
+  position:
+    longitude: 14.1478964
+    latitude: 52.8738966
+    source: GPS
+  heading: 50
+  course: 23
+  speed:
+    stw: 0
+    sog: 0
+  log: 156
+  waypoint:
+    longitude: 14.14873
+    latitude: 52.87423
+  barometer: 1028.84
+  engine:
+    hours: 518.3
+  vhf: "10"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: navigation
+- datetime: 2023-04-09T05:48:23.100Z
+  text: Motoring
+  author: ""
+  position:
+    longitude: 14.1490965
+    latitude: 52.8744486
+    source: GPS
+  heading: 39
+  course: 46
+  speed:
+    stw: 3.8
+    sog: 3.8
+  log: 156.1
+  barometer: 1028.85
+  engine:
+    hours: 518.3
+  vhf: "10"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: navigation
+- datetime: 2023-04-09T05:51:40.099Z
+  text: Stopped
+  author: ""
+  position:
+    longitude: 14.1505456
+    latitude: 52.8756874
+    source: GPS
+  heading: 326
+  course: 31
+  speed:
+    stw: 0
+    sog: 0
+  log: 156.4
+  barometer: 1028.85
+  engine:
+    hours: 518.4
+  vhf: "10"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  end: true
+  category: navigation
+- datetime: 2023-04-09T05:56:09.100Z
+  text: Started main engine
+  author: ""
+  position:
+    longitude: 14.1505084
+    latitude: 52.8756685
+    source: GPS
+  heading: 327
+  course: 31
+  speed:
+    stw: 0
+    sog: 0
+  log: 156.4
+  barometer: 1028.97
+  engine:
+    hours: 518.4
+  vhf: "10"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: navigation
