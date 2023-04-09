@@ -20,8 +20,8 @@
     - bergie
   category: navigation
 - datetime: 2023-04-09T04:12:41.100Z
-  text: Motoring
-  author: ""
+  text: "Motoring. Suski on duty "
+  author: bergie
   position:
     longitude: 13.9586893
     latitude: 52.8519591
@@ -40,6 +40,9 @@
     - ihmis-suski
     - bergie
   category: navigation
+  observations:
+    cloudCoverage: 8
+    visibility: 2
 - datetime: 2023-04-09T05:00:31.100Z
   text: ""
   author: ""
@@ -135,8 +138,8 @@
     - bergie
   category: navigation
 - datetime: 2023-04-09T05:51:40.099Z
-  text: Stopped
-  author: ""
+  text: Stopped inside Hohensaaten West locks
+  author: bergie
   position:
     longitude: 14.1505456
     latitude: 52.8756874
@@ -178,8 +181,8 @@
     - bergie
   category: navigation
 - datetime: 2023-04-09T06:06:20.099Z
-  text: Motoring
-  author: ""
+  text: Motoring. Bergie on duty
+  author: bergie
   position:
     longitude: 14.1527273
     latitude: 52.8778361
@@ -198,6 +201,9 @@
     - ihmis-suski
     - bergie
   category: navigation
+  observations:
+    cloudCoverage: 8
+    visibility: 3
 - datetime: 2023-04-09T07:00:05.000Z
   text: ""
   author: bergie
@@ -225,8 +231,8 @@
   observations:
     cloudCoverage: 8
 - datetime: 2023-04-09T08:00:51.001Z
-  text: ""
-  author: ""
+  text: Suski on duty. Fog has lifted a bit
+  author: bergie
   position:
     longitude: 14.2069966
     latitude: 52.9996858
@@ -243,6 +249,33 @@
   barometer: 1029.37
   engine:
     hours: 520.5
+  vhf: "10"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: navigation
+  observations:
+    cloudCoverage: 8
+    visibility: 4
+- datetime: 2023-04-09T09:00:39.001Z
+  text: ""
+  author: ""
+  position:
+    longitude: 14.3178511
+    latitude: 53.0637306
+    source: GPS
+  heading: 23
+  course: 24
+  speed:
+    stw: 5.4
+    sog: 5.7
+  log: 193.6
+  waypoint:
+    longitude: 14.31825
+    latitude: 53.06439
+  barometer: 1029.31
+  engine:
+    hours: 521.5
   vhf: "10"
   crewNames:
     - ihmis-suski
