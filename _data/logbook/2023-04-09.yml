@@ -432,3 +432,28 @@
   category: navigation
   observations:
     cloudCoverage: 7
+- datetime: 2023-04-09T13:40:03.299Z
+  text: "Stopped at AZS Szczecin. Mast crane booked for 10am tomorrow "
+  author: bergie
+  position:
+    longitude: 14.6266473
+    latitude: 53.3974481
+    source: GPS
+  heading: 289
+  course: 285
+  speed:
+    stw: 0
+    sog: 0
+  log: 252.9
+  barometer: 1028.02
+  engine:
+    hours: 526.2
+  vhf: "10"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  end: true
+  category: navigation
+  observations:
+    cloudCoverage: 1
+    visibility: 6
