@@ -328,3 +328,57 @@
   crewNames:
     - ihmis-suski
     - bergie
+  category: navigation
+- datetime: 2023-04-09T11:27:07.001Z
+  text: Crossed the border to Poland. Nice 0.6kt current helping us along
+  author: bergie
+  position:
+    longitude: 14.4455448
+    latitude: 53.2753361
+    source: GPS
+  heading: 11
+  course: 15
+  speed:
+    stw: 5.4
+    sog: 6.2
+  log: 225.5
+  waypoint:
+    longitude: 14.44687
+    latitude: 53.27834
+  barometer: 1028.74
+  engine:
+    hours: 523.9
+  vhf: "10"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: navigation
+  observations:
+    cloudCoverage: 8
+    visibility: 5
+- datetime: 2023-04-09T12:00:00.300Z
+  text: Suski on duty. Clouds are starting to lift a bit.
+  author: bergie
+  position:
+    longitude: 14.4792204
+    latitude: 53.3266466
+    source: GPS
+  heading: 35
+  course: 38
+  speed:
+    stw: 5.5
+    sog: 6
+  log: 232.7
+  waypoint:
+    longitude: 14.48063
+    latitude: 53.32877
+  barometer: 1028.6
+  engine:
+    hours: 524.5
+  vhf: "10"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: navigation
+  observations:
+    cloudCoverage: 8
