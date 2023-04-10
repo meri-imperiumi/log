@@ -10,7 +10,7 @@
   speed:
     stw: 0
     sog: 0
-  log: 252.9
+  log: 111.9
   barometer: 1027.95
   engine:
     hours: 526.2
@@ -30,7 +30,7 @@
   speed:
     stw: 0
     sog: 0
-  log: 252.9
+  log: 111.9
   barometer: 1027.9
   engine:
     hours: 526.2
@@ -50,7 +50,7 @@
   speed:
     stw: 0
     sog: 0
-  log: 252.9
+  log: 111.9
   barometer: 1027.66
   engine:
     hours: 526.2
@@ -70,7 +70,7 @@
   speed:
     stw: 0
     sog: 0
-  log: 253.1
+  log: 112
   barometer: 1027.67
   engine:
     hours: 526.3
@@ -90,7 +90,7 @@
   speed:
     stw: 0
     sog: 0
-  log: 253.1
+  log: 112
   barometer: 1027.7
   engine:
     hours: 526.3
@@ -112,7 +112,9 @@
   heading: 187
   course: 115
   speed:
+    stw: 0
     sog: 0
+  log: 112
   barometer: 1022.55
   wind:
     speed: 8
