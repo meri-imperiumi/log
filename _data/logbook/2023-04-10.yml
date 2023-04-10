@@ -19,8 +19,8 @@
     - bergie
   category: navigation
 - datetime: 2023-04-10T06:34:17.200Z
-  text: Stopped main engine
-  author: ""
+  text: Stopped at AZS mast crane
+  author: bergie
   position:
     longitude: 14.6258413
     latitude: 53.3974371
@@ -79,8 +79,8 @@
     - bergie
   category: navigation
 - datetime: 2023-04-10T07:18:42.200Z
-  text: Stopped
-  author: ""
+  text: "Stopped. Med mooring so we can install the windvane "
+  author: bergie
   position:
     longitude: 14.6268843
     latitude: 53.3977684
@@ -99,3 +99,27 @@
     - bergie
   end: true
   category: navigation
+  observations:
+    cloudCoverage: 0
+- datetime: 2023-04-10T14:15:09.200Z
+  text: Installed windvane and the hydrogenerator. Both still need some line work,
+    and we will need to install the hydrogenerator charge controller
+  author: bergie
+  position:
+    longitude: 14.6269028
+    latitude: 53.3977629
+    source: GPS
+  heading: 187
+  course: 115
+  speed:
+    sog: 0
+  barometer: 1022.55
+  wind:
+    speed: 8
+    direction: 141
+  engine:
+    hours: 526.3
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: maintenance
