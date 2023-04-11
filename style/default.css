@@ -554,7 +554,7 @@ h2.meta {
     line-height: 1.6em;
   }
 }
-@media (max-height: 760px) {
+@media (max-width: 760px) {
   main .logbook {
     display: block;
     width: 100vw;
