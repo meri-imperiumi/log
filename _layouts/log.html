@@ -37,7 +37,13 @@ layout: default
         <span>{{ lat_deg_f }}&deg;{{ lat_min_f }}'{{ lat_sec }}"{% if entry.position.latitude >= 0 %}N{% else %}S{% endif %}</span>
         <span>{{ lon_deg_f }}&deg;{{ lon_min_f }}'{{ lon_sec }}"{% if entry.position.longitude >= 0 %}E{% else %}W{% endif %}</span>
       </td>
-      <td>{{ entry.course }}&deg;</td>
+      <td>
+        {% if entry.course %}
+        {{ entry.course }}&deg;
+        {% else %}
+        {{ entry.heading }}&deg;
+        {% endif %}
+      </td>
       <td>{{ entry.speed.sog }}kt</td>
       <td>{{ entry.log }}NM</td>
       <td>
