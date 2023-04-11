@@ -234,6 +234,33 @@ main .timelapse {
   grid-column: 1 / 4;
   position: relative;
 }
+main .logbook {
+  width: 100%;
+  grid-column: 1 / 4;
+  position: relative;
+  font-size: smaller;
+  border:none;
+  border-collapse: collapse;
+  overflow: auto;
+}
+main .logbook th {
+  text-align: left;
+}
+main .logbook tr {
+  margin: 0;
+  padding: 0;
+}
+main .logbook tr:nth-child(even) {
+  background-color: #f2f2f2;
+}
+main .logbook th,
+main .logbook td {
+  border-left: 1px solid black;
+  padding: 4px;
+}
+main .logbook .datetime {
+  white-space: nowrap;
+}
 main .blocker {
   height: 59px;
   width: 100vw;
@@ -483,7 +510,7 @@ h2.meta {
   }
   header {
     margin-top: 40px;
-  } 
+  }
   #beer-us {
     top: 0;
     right: 0;
