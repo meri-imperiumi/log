@@ -256,12 +256,18 @@ main .logbook th,
 main .logbook td {
   border-left: 1px solid black;
   padding: 4px;
+  vertical-align: top;
+}
+main .logbook td {
+  font-family: cursive;
+  color: #003247;
 }
 main .logbook th:first-child,
 main .logbook td:first-child {
   border-left: none;
 }
-main .logbook .datetime {
+main .logbook .datetime,
+main .logbook td span {
   white-space: nowrap;
 }
 main .blocker {

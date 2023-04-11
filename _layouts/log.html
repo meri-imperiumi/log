@@ -17,6 +17,7 @@ layout: default
       <th>Course</th>
       <th>Speed</th>
       <th>Log</th>
+      <th>Weather</th>
       <th>Remarks</th>
     </tr>
     {% for entry in site.data.logbook[post_date] %}
@@ -32,13 +33,32 @@ layout: default
       {% assign lon_min = lon_deg | minus: lon_deg_f | times: 60 %}
       {% assign lon_min_f = lon_min | floor %}
       {% assign lon_sec = lon_min | minus: lon_min_f | times: 60 | floor %}
-      <td class="latlon">
-        {{ lat_deg_f }}&deg;{{ lat_min_f }}'{{ lat_sec }}"{% if entry.position.latitude >= 0 %}N{% else %}S{% endif %}
-        {{ lon_deg_f }}&deg;{{ lon_min_f }}'{{ lon_sec }}"{% if entry.position.longitude >= 0 %}E{% else %}W{% endif %}
+      <td>
+        <span>{{ lat_deg_f }}&deg;{{ lat_min_f }}'{{ lat_sec }}"{% if entry.position.latitude >= 0 %}N{% else %}S{% endif %}</span>
+        <span>{{ lon_deg_f }}&deg;{{ lon_min_f }}'{{ lon_sec }}"{% if entry.position.longitude >= 0 %}E{% else %}W{% endif %}</span>
       </td>
       <td>{{ entry.course }}&deg;</td>
       <td>{{ entry.speed.sog }}kt</td>
       <td>{{ entry.log }}NM</td>
+      <td>
+        {% if entry.wind %}
+        <span>wind {{ entry.wind.speed }}kt {{ entry.wind.direction }}&deg;</span>
+        {% endif %}
+        {% if entry.observations %}
+          {% if entry.observations.seaState %}
+          <span>sea state {{ entry.observations.seaState }}/10</span>
+          {% endif %}
+          {% if entry.observations.cloudCoverage %}
+          <span>clouds {{ entry.observations.cloudCoverage }}/8</span>
+          {% endif %}
+          {% if entry.observations.visibility %}
+          <span>visibility {{ entry.observations.visibility }}/10</span>
+          {% endif %}
+        {% endif %}
+        {% if entry.barometer %}
+        <span>baro {{ entry.barometer | floor }} hPa</span>
+        {% endif %}
+      </td>
       <td>
         {% if entry.text == "" %}
         Hourly position log
