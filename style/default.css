@@ -235,7 +235,6 @@ main .timelapse {
   position: relative;
 }
 main .logbook {
-  width: 100%;
   grid-column: 1 / 4;
   position: relative;
   font-size: smaller;
@@ -257,6 +256,10 @@ main .logbook th,
 main .logbook td {
   border-left: 1px solid black;
   padding: 4px;
+}
+main .logbook th:first-child,
+main .logbook td:first-child {
+  border-left: none;
 }
 main .logbook .datetime {
   white-space: nowrap;
@@ -549,6 +552,15 @@ h2.meta {
   main .intro .copy p {
     font-size: 1.4em;
     line-height: 1.6em;
+  }
+}
+@media (max-height: 760px) {
+  main .logbook {
+    display: block;
+    width: 100vw;
+    max-height: 60vh;
+    overflow: auto;
+    font-size: 8pt;
   }
 }
 @media (max-height: 700px) {
