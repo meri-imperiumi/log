@@ -6,6 +6,51 @@ layout: default
 <h1>{{ page.title }}</h1>
 {{ content | replace: "Lille Ø", "<i>Lille Ø</i>" }}
 
+{% assign post_date = page.created | date: "%Y-%m-%d" %}
+{% if site.data.logbook[post_date] %}
+  <hr>
+  <h2>From the logbook</h2>
+  <table class="logbook">
+    <tr>
+      <th>Time</th>
+      <th>Position</th>
+      <th>Course</th>
+      <th>Speed</th>
+      <th>Log</th>
+      <th>Remarks</th>
+    </tr>
+    {% for entry in site.data.logbook[post_date] %}
+    <tr>
+      <td class="datetime">{{ entry.datetime | date: "%d.%m. %k:%M Z" }}</td>
+      {% assign lat_deg = entry.position.latitude | abs %}
+      {% assign lat_deg_f = lat_deg | floor %}
+      {% assign lat_min = lat_deg | minus: lat_deg_f | times: 60 %}
+      {% assign lat_min_f = lat_min | floor %}
+      {% assign lat_sec = lat_min | minus: lat_min_f | times: 60 | floor %}
+      {% assign lon_deg = entry.position.longitude | abs %}
+      {% assign lon_deg_f = lon_deg | floor %}
+      {% assign lon_min = lon_deg | minus: lon_deg_f | times: 60 %}
+      {% assign lon_min_f = lon_min | floor %}
+      {% assign lon_sec = lon_min | minus: lon_min_f | times: 60 | floor %}
+      <td class="latlon">
+        {{ lat_deg_f }}&deg;{{ lat_min_f }}'{{ lat_sec }}"{% if entry.position.latitude >= 0 %}N{% else %}S{% endif %}
+        {{ lon_deg_f }}&deg;{{ lon_min_f }}'{{ lon_sec }}"{% if entry.position.longitude >= 0 %}E{% else %}W{% endif %}
+      </td>
+      <td>{{ entry.course }}&deg;</td>
+      <td>{{ entry.speed.sog }}kt</td>
+      <td>{{ entry.log }}NM</td>
+      <td>
+        {% if entry.text == "" %}
+        Hourly position log
+        {% else %}
+        {{ entry.text }}
+        {% endif %}
+      </td>
+    </tr>
+    {% endfor %}
+  </table>
+{% endif %}
+
 <hr>
 
 {% if page.content contains "Distance today" %}
