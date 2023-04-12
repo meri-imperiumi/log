@@ -24,8 +24,8 @@
     - bergie
   category: navigation
 - datetime: 2023-04-12T06:48:59.900Z
-  text: Motoring
-  author: ""
+  text: Motoring. Left AZS Szczecin, Bergie on watch
+  author: bergie
   position:
     longitude: 14.6265466
     latitude: 53.3996624
@@ -50,6 +50,8 @@
     - ihmis-suski
     - bergie
   category: navigation
+  observations:
+    cloudCoverage: 3
 - datetime: 2023-04-12T07:00:55.900Z
   text: ""
   author: ""
@@ -72,6 +74,60 @@
     direction: 32
   engine:
     hours: 526.6
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: navigation
+- datetime: 2023-04-12T07:09:46.899Z
+  text: Autopilot activated
+  author: ""
+  position:
+    longitude: 14.6127639
+    latitude: 53.4119263
+    source: GPS
+  heading: 347
+  course: 347
+  speed:
+    stw: 5.3
+    sog: 5.1
+  log: 128.6
+  waypoint:
+    longitude: 14.61073
+    latitude: 53.41662
+  barometer: 1010.69
+  wind:
+    speed: 3.5
+    direction: 308
+  engine:
+    hours: 526.8
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: navigation
+- datetime: 2023-04-12T08:00:41.900Z
+  text: ""
+  author: ""
+  position:
+    longitude: 14.6163261
+    latitude: 53.4818081
+    source: GPS
+  heading: 16
+  course: 17
+  speed:
+    stw: 5.2
+    sog: 5.3
+  log: 133.8
+  waypoint:
+    longitude: 14.61873
+    latitude: 53.48759
+  barometer: 1010.43
+  wind:
+    speed: 6.6
+    direction: 166
+  engine:
+    hours: 527.6
   vhf: "16"
   crewNames:
     - ihmis-suski
