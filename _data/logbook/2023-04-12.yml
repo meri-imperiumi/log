@@ -333,7 +333,7 @@
     cloudCoverage: 4
 - datetime: 2023-04-12T11:00:00.300Z
   text: ""
-  author: ""
+  author: bergie
   position:
     longitude: 14.507427501678468
     latitude: 53.6864356358846
@@ -351,6 +351,36 @@
   wind:
     speed: 14.8
     direction: 154
+  engine:
+    hours: 528.3
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: navigation
+  observations:
+    seaState: 2
+    cloudCoverage: 3
+- datetime: 2023-04-12T12:00:55.299Z
+  text: ""
+  author: ""
+  position:
+    longitude: 14.4134668
+    latitude: 53.756723
+    source: GPS
+  heading: 323
+  course: 324
+  speed:
+    stw: 4.8
+    sog: 4.7
+  log: 155.5
+  waypoint:
+    longitude: 14.39991
+    latitude: 53.76255
+  barometer: 1006.87
+  wind:
+    speed: 10.9
+    direction: 121
   engine:
     hours: 528.3
   vhf: "16"
