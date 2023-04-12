@@ -560,8 +560,9 @@
     - bergie
   category: navigation
 - datetime: 2023-04-12T14:10:54.300Z
-  text: Stopped
-  author: ""
+  text: Stopped. Box 6.4 at Swinoujscie marina. Having the easy-catch ready
+    would've made docking easier.
+  author: bergie
   position:
     longitude: 14.2699135
     latitude: 53.9117168
@@ -587,3 +588,5 @@
     - bergie
   end: true
   category: navigation
+  observations:
+    cloudCoverage: 6
