@@ -108,7 +108,7 @@
   category: navigation
 - datetime: 2023-04-12T08:00:41.900Z
   text: ""
-  author: ""
+  author: bergie
   position:
     longitude: 14.6163261
     latitude: 53.4818081
@@ -128,6 +128,171 @@
     direction: 166
   engine:
     hours: 527.6
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: navigation
+  observations:
+    cloudCoverage: 5
+    seaState: 1
+- datetime: 2023-04-12T08:38:09.900Z
+  text: Autopilot deactivated
+  author: ""
+  position:
+    longitude: 14.6314718
+    latitude: 53.5356023
+    source: GPS
+  heading: 338
+  course: 338
+  speed:
+    stw: 5
+    sog: 5.1
+  log: 137.6
+  waypoint:
+    longitude: 14.62879
+    latitude: 53.53824
+  barometer: 1010.2
+  wind:
+    speed: 9.2
+    direction: 167
+  engine:
+    hours: 528.2
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: navigation
+- datetime: 2023-04-12T08:38:57.900Z
+  text: Autopilot activated
+  author: ""
+  position:
+    longitude: 14.6306395
+    latitude: 53.5357953
+    source: GPS
+  heading: 167
+  course: 166
+  speed:
+    stw: 3.1
+    sog: 2.4
+  log: 137.7
+  waypoint:
+    longitude: 14.62879
+    latitude: 53.53824
+  barometer: 1010.22
+  wind:
+    speed: 9.6
+    direction: 163
+  engine:
+    hours: 528.2
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: navigation
+- datetime: 2023-04-12T08:40:53.900Z
+  text: Autopilot deactivated
+  author: ""
+  position:
+    longitude: 14.6309418
+    latitude: 53.5346429
+    source: GPS
+  heading: 161
+  course: 166
+  speed:
+    stw: 2.7
+    sog: 2.3
+  log: 137.8
+  waypoint:
+    longitude: 14.62879
+    latitude: 53.53824
+  barometer: 1010.21
+  wind:
+    speed: 7.7
+    direction: 137
+  engine:
+    hours: 528.3
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: navigation
+- datetime: 2023-04-12T08:42:01.900Z
+  text: Autopilot activated
+  author: ""
+  position:
+    longitude: 14.6315739
+    latitude: 53.5347301
+    source: GPS
+  heading: 2
+  course: 358
+  speed:
+    stw: 4.1
+    sog: 4.5
+  log: 137.9
+  waypoint:
+    longitude: 14.62879
+    latitude: 53.53824
+  barometer: 1010.03
+  wind:
+    speed: 12.9
+    direction: 137
+  engine:
+    hours: 528.3
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: navigation
+- datetime: 2023-04-12T08:44:14.899Z
+  text: Motor stopped, sailing with Main, Genoa 1
+  author: ""
+  position:
+    longitude: 14.6307676
+    latitude: 53.5371889
+    source: GPS
+  heading: 331
+  course: 334
+  speed:
+    stw: 3
+    sog: 3.1
+  log: 138
+  waypoint:
+    longitude: 14.62879
+    latitude: 53.53824
+  barometer: 1010.13
+  wind:
+    speed: 6.7
+    direction: 114
+  engine:
+    hours: 528.3
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: navigation
+- datetime: 2023-04-12T09:00:27.900Z
+  text: ""
+  author: ""
+  position:
+    longitude: 14.6119331
+    latitude: 53.550536
+    source: GPS
+  heading: 308
+  course: 308
+  speed:
+    stw: 4.5
+    sog: 4.7
+  log: 139.2
+  waypoint:
+    longitude: 14.61036
+    latitude: 53.55063
+  barometer: 1009.98
+  wind:
+    speed: 11.8
+    direction: 184
+  engine:
+    hours: 528.3
   vhf: "16"
   crewNames:
     - ihmis-suski
