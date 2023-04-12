@@ -164,8 +164,8 @@
     - bergie
   category: navigation
 - datetime: 2023-04-12T08:38:57.900Z
-  text: Autopilot activated
-  author: ""
+  text: Autopilot activated. Hoisting sails.
+  author: bergie
   position:
     longitude: 14.6306395
     latitude: 53.5357953
@@ -331,3 +331,29 @@
   observations:
     seaState: 2
     cloudCoverage: 4
+- datetime: 2023-04-12T11:00:00.300Z
+  text: ""
+  author: ""
+  position:
+    longitude: 14.507427501678468
+    latitude: 53.6864356358846
+    source: GPS
+  heading: 328
+  course: 330
+  speed:
+    stw: 5.1
+    sog: 5.3
+  log: 149.2
+  waypoint:
+    longitude: 14.49093
+    latitude: 53.68836
+  barometer: 1007.91
+  wind:
+    speed: 14.8
+    direction: 154
+  engine:
+    hours: 528.3
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
