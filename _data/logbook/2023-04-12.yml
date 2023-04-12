@@ -272,8 +272,8 @@
     - bergie
   category: navigation
 - datetime: 2023-04-12T09:00:27.900Z
-  text: ""
-  author: ""
+  text: "Deployed hydrogenerator "
+  author: bergie
   position:
     longitude: 14.6119331
     latitude: 53.550536
@@ -297,3 +297,37 @@
   crewNames:
     - ihmis-suski
     - bergie
+  category: navigation
+  observations:
+    cloudCoverage: 4
+    seaState: 1
+- datetime: 2023-04-12T10:00:14.899Z
+  text: ""
+  author: bergie
+  position:
+    longitude: 14.5823371
+    latitude: 53.6239731
+    source: GPS
+  heading: 347
+  course: 349
+  speed:
+    stw: 5
+    sog: 5.5
+  log: 144.1
+  waypoint:
+    longitude: 14.55456
+    latitude: 53.64443
+  barometer: 1009
+  wind:
+    speed: 14
+    direction: 139
+  engine:
+    hours: 528.3
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: navigation
+  observations:
+    seaState: 2
+    cloudCoverage: 4
