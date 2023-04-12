@@ -422,8 +422,8 @@
     seaState: 3
     cloudCoverage: 2
 - datetime: 2023-04-12T12:42:56.300Z
-  text: Autopilot deactivated
-  author: ""
+  text: "Autopilot deactivated. Sails stowed "
+  author: bergie
   position:
     longitude: 14.35331932703654
     latitude: 53.79464550018311
@@ -476,8 +476,8 @@
     - bergie
   category: navigation
 - datetime: 2023-04-12T13:00:47.299Z
-  text: ""
-  author: ""
+  text: "Motoring inside the canal "
+  author: bergie
   position:
     longitude: 14.3260976
     latitude: 53.8173124
@@ -501,3 +501,89 @@
   crewNames:
     - ihmis-suski
     - bergie
+  category: navigation
+  observations:
+    cloudCoverage: 1
+    seaState: 2
+- datetime: 2023-04-12T13:21:43.299Z
+  text: Autopilot deactivated
+  author: ""
+  position:
+    longitude: 14.2879666
+    latitude: 53.8465543
+    source: GPS
+  heading: 327
+  course: 326
+  speed:
+    stw: 5.6
+    sog: 6.4
+  log: 163.9
+  waypoint:
+    longitude: 14.28699
+    latitude: 53.84726
+  barometer: 1005.5
+  wind:
+    speed: 8.6
+    direction: 176
+  engine:
+    hours: 529.1
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: navigation
+- datetime: 2023-04-12T14:00:36.300Z
+  text: ""
+  author: ""
+  position:
+    longitude: 14.2666076
+    latitude: 53.9078816
+    source: GPS
+  heading: 53
+  course: 59
+  speed:
+    stw: 5.4
+    sog: 6.3
+  log: 168.4
+  waypoint:
+    longitude: 14.27027
+    latitude: 53.91013
+  barometer: 1004.87
+  wind:
+    speed: 16.3
+    direction: 146
+  engine:
+    hours: 529.7
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: navigation
+- datetime: 2023-04-12T14:10:54.300Z
+  text: Stopped
+  author: ""
+  position:
+    longitude: 14.2699135
+    latitude: 53.9117168
+    source: GPS
+  heading: 226
+  course: 222
+  speed:
+    stw: 0
+    sog: 0
+  log: 169.2
+  waypoint:
+    longitude: 14.26875
+    latitude: 53.91157
+  barometer: 1004.84
+  wind:
+    speed: 11.1
+    direction: 119
+  engine:
+    hours: 529.9
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  end: true
+  category: navigation
