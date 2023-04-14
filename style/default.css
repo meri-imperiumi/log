@@ -22,6 +22,9 @@ h2 {
   text-rendering: optimizeLegibility;
   line-height:  1.3em;
 }
+blockquote {
+  font-style: italic;
+}
 #beer-us {
   position: fixed;
   top: 5.5em;

@@ -24,7 +24,12 @@ excerpt: Lille Ø is our cruising sailboat, a 1979 Amigo 40. A Swedish-built boa
     <article>
       <h2 class="meta">{{ post.created | date: "%A, %B %-d, %Y" }}</h2>
       <h1><a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a></h1>
+      {% if post.content.size > 4000 %}
+      {{ post.content | split: '<!--more-->' | first | replace: 'img src="..', 'img src="https://meri-imperiumi.github.io/log'| replace: 'https://meri-imperiumi.github.io/log',site.baseurl | replace: "Lille Ø", "<i>Lille Ø</i>" }}
+      <p class="meta"><a href="{{ site.baseurl }}{{ post.url }}">Read more &raquo;</a></p>
+      {% else %}
       {{ post.content | replace: 'img src="..', 'img src="https://meri-imperiumi.github.io/log'| replace: 'https://meri-imperiumi.github.io/log',site.baseurl | replace: "Lille Ø", "<i>Lille Ø</i>" }}
+      {% endif %}
       {% if forloop.last == false %}
         <hr>
       {% endif %}
