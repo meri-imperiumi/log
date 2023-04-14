@@ -23,6 +23,12 @@ jobs:
         target: '2022'
         width: 1024
         height: 900
+    - name: Resize 2023 images
+      uses: sanderbaas/img-resizer-inplace-idempotent@v2
+      with:
+        target: '2023'
+        width: 1024
+        height: 900
     - name: Commit files
       run: |
         if [ -z "$(git status --porcelain)" ]; then exit 0;fi
