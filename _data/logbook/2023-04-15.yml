@@ -332,3 +332,60 @@
     - ihmis-suski
     - bergie
   category: navigation
+- datetime: 2023-04-15T09:49:15.200Z
+  text: Hand steering due to narrow fairway
+  author: ihmis-suski
+  position:
+    longitude: 13.7160778
+    latitude: 54.2453818
+    source: GPS
+  heading: 265
+  course: 271
+  speed:
+    stw: 5.2
+    sog: 4.9
+  log: 209.4
+  waypoint:
+    longitude: 13.70221
+    latitude: 54.24263
+  barometer: 1012.33
+  wind:
+    speed: 15.6
+    direction: 30
+  engine:
+    hours: 530.3
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: navigation
+  observations:
+    seaState: 3
+    cloudCoverage: 8
+    visibility: 6
+- datetime: 2023-04-15T10:00:14.201Z
+  text: ""
+  author: ""
+  position:
+    longitude: 13.6920396
+    latitude: 54.2408283
+    source: GPS
+  heading: 245
+  course: 241
+  speed:
+    stw: 5.1
+    sog: 5.1
+  log: 210.5
+  waypoint:
+    longitude: 13.69198
+    latitude: 54.24123
+  barometer: 1012.42
+  wind:
+    speed: 14.6
+    direction: 31
+  engine:
+    hours: 530.3
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
