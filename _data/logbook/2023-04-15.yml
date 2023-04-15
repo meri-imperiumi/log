@@ -418,8 +418,8 @@
     - bergie
   category: navigation
 - datetime: 2023-04-15T10:56:44.198Z
-  text: Anchored
-  author: ""
+  text: Anchored, Zickersches Höft open roadsted
+  author: bergie
   position:
     longitude: 13.6483098
     latitude: 54.2932904
@@ -445,61 +445,9 @@
     - bergie
   end: true
   category: navigation
-- datetime: 2023-04-15T10:57:08.198Z
-  text: Anchor up, motoring
-  author: ""
-  position:
-    longitude: 13.6483603
-    latitude: 54.2933038
-    source: GPS
-  heading: 54
-  course: 271
-  speed:
-    stw: 0
-    sog: 0
-  log: 216.1
-  waypoint:
-    longitude: 13.64078
-    latitude: 54.29685
-  barometer: 1012.89
-  wind:
-    speed: 1.5
-    direction: 302
-  engine:
-    hours: 530.5
-  vhf: "16"
-  crewNames:
-    - ihmis-suski
-    - bergie
-  category: navigation
-- datetime: 2023-04-15T10:57:14.201Z
-  text: Anchored
-  author: ""
-  position:
-    longitude: 13.6483554
-    latitude: 54.2933008
-    source: GPS
-  heading: 52
-  course: 68
-  speed:
-    stw: 0
-    sog: 0.6
-  log: 216.1
-  waypoint:
-    longitude: 13.64078
-    latitude: 54.29685
-  barometer: 1012.88
-  wind:
-    speed: 2
-    direction: 5
-  engine:
-    hours: 530.5
-  vhf: "16"
-  crewNames:
-    - ihmis-suski
-    - bergie
-  end: true
-  category: navigation
+  observations:
+    seaState: 1
+    cloudCoverage: 8
 - datetime: 2023-04-15T11:02:44.198Z
   text: Stopped main engine
   author: ""
