@@ -274,3 +274,61 @@
   crewNames:
     - ihmis-suski
     - bergie
+  category: navigation
+- datetime: 2023-04-15T08:49:23.200Z
+  text: Poled out the staysail for wing on wing
+  author: bergie
+  position:
+    longitude: 13.8581063
+    latitude: 54.2623468
+    source: GPS
+  heading: 265
+  course: 252
+  speed:
+    stw: 5.3
+    sog: 5.9
+  log: 203.1
+  waypoint:
+    longitude: 13.82008
+    latitude: 54.25453
+  barometer: 1011.93
+  wind:
+    speed: 15.1
+    direction: 52
+  engine:
+    hours: 530.3
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: navigation
+  observations:
+    seaState: 4
+    cloudCoverage: 4
+- datetime: 2023-04-15T09:00:23.200Z
+  text: ""
+  author: ""
+  position:
+    longitude: 13.8308418
+    latitude: 54.2604933
+    source: GPS
+  heading: 271
+  course: 269
+  speed:
+    stw: 5.8
+    sog: 6.3
+  log: 204.3
+  waypoint:
+    longitude: 13.82008
+    latitude: 54.25453
+  barometer: 1012.04
+  wind:
+    speed: 18.2
+    direction: 48
+  engine:
+    hours: 530.3
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: navigation
