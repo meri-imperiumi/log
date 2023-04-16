@@ -1,0 +1,103 @@
+- datetime: 2023-04-16T09:24:01.600Z
+  text: Started main engine
+  author: ""
+  position:
+    longitude: 13.64846585591634
+    latitude: 54.29308350880941
+    source: GPS
+  heading: 345
+  course: 343
+  speed:
+    stw: 0
+    sog: 0
+  log: 216.1
+  barometer: 1022.31
+  wind:
+    speed: 4
+    direction: 343
+  engine:
+    hours: 530.6
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: navigation
+- datetime: 2023-04-16T09:32:20.601Z
+  text: Anchor up, motoring
+  author: ""
+  position:
+    longitude: 13.6483948
+    latitude: 54.2931296
+    source: GPS
+  heading: 8
+  course: 343
+  speed:
+    stw: 0
+    sog: 0
+  log: 216.1
+  waypoint:
+    longitude: 13.52493
+    latitude: 54.25191
+  barometer: 1022.36
+  wind:
+    speed: 6.8
+    direction: 335
+  engine:
+    hours: 530.8
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: navigation
+- datetime: 2023-04-16T09:42:25.600Z
+  text: Motor stopped, sailing with Main (1st reef), Staysail
+  author: ""
+  position:
+    longitude: 13.6471056
+    latitude: 54.293507
+    source: GPS
+  heading: 237
+  course: 235
+  speed:
+    stw: 2.3
+    sog: 2.1
+  log: 216.3
+  waypoint:
+    longitude: 13.52493
+    latitude: 54.25191
+  barometer: 1022.45
+  wind:
+    speed: 7.1
+    direction: 358
+  engine:
+    hours: 530.9
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: navigation
+- datetime: 2023-04-16T10:00:26.598Z
+  text: ""
+  author: ""
+  position:
+    longitude: 13.6104789
+    latitude: 54.2824761
+    source: GPS
+  heading: 254
+  course: 248
+  speed:
+    stw: 5.1
+    sog: 5.3
+  log: 218.1
+  waypoint:
+    longitude: 13.52493
+    latitude: 54.25191
+  barometer: 1022.64
+  wind:
+    speed: 14.4
+    direction: 29
+  engine:
+    hours: 530.9
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
