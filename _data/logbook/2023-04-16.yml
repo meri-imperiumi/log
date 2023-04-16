@@ -103,7 +103,7 @@
     - bergie
   category: navigation
 - datetime: 2023-04-16T10:17:23.600Z
-  text: Poled out to smetti
+  text: Poled out to schmetti
   author: ihmis-suski
   position:
     longitude: 13.5749261
@@ -267,3 +267,56 @@
   crewNames:
     - ihmis-suski
     - bergie
+  category: navigation
+- datetime: 2023-04-16T13:22:15.900Z
+  text: Anchored, Glewitzer Wiek
+  author: bergie
+  position:
+    longitude: 13.310412502288818
+    latitude: 54.25435582796732
+    source: GPS
+  heading: 59
+  course: 123
+  speed:
+    stw: 0.4
+    sog: 0
+  log: 236.7
+  barometer: 1023.36
+  wind:
+    speed: 10.8
+    direction: 77
+  engine:
+    hours: 531.7
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  end: true
+  category: navigation
+  observations:
+    seaState: 2
+    cloudCoverage: 4
+- datetime: 2023-04-16T13:24:24.899Z
+  text: Stopped main engine
+  author: ""
+  position:
+    longitude: 13.3104046
+    latitude: 54.2544075
+    source: GPS
+  heading: 97
+  course: 330
+  speed:
+    stw: 0
+    sog: 0
+  log: 236.7
+  barometer: 1023.49
+  wind:
+    speed: 12.6
+    direction: 64
+  engine:
+    hours: 531.7
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: navigation
