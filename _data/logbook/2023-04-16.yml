@@ -49,8 +49,8 @@
     - bergie
   category: navigation
 - datetime: 2023-04-16T09:42:25.600Z
-  text: Motor stopped, sailing with Main (1st reef), Staysail
-  author: ""
+  text: Motor stopped, Main, Genoa 1 (10% furled)
+  author: ihmis-suski
   position:
     longitude: 13.6471056
     latitude: 54.293507
@@ -95,6 +95,64 @@
   wind:
     speed: 14.4
     direction: 29
+  engine:
+    hours: 530.9
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: navigation
+- datetime: 2023-04-16T10:17:23.600Z
+  text: Poled out to smetti
+  author: ihmis-suski
+  position:
+    longitude: 13.5749261
+    latitude: 54.2730063
+    source: GPS
+  heading: 231
+  course: 235
+  speed:
+    stw: 4.9
+    sog: 4.8
+  log: 219.8
+  waypoint:
+    longitude: 13.52493
+    latitude: 54.25191
+  barometer: 1022.67
+  wind:
+    speed: 10.9
+    direction: 25
+  engine:
+    hours: 530.9
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: navigation
+  observations:
+    seaState: 2
+    cloudCoverage: 7
+    visibility: 6
+- datetime: 2023-04-16T11:00:13.600Z
+  text: ""
+  author: ""
+  position:
+    longitude: 13.4906041
+    latitude: 54.2407554
+    source: GPS
+  heading: 242
+  course: 234
+  speed:
+    stw: 5.3
+    sog: 5.2
+  log: 224.2
+  waypoint:
+    longitude: 13.40235
+    latitude: 54.21368
+  barometer: 1022.87
+  wind:
+    speed: 11.4
+    direction: 50
   engine:
     hours: 530.9
   vhf: "16"
