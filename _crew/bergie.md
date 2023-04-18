@@ -3,7 +3,7 @@ name: Bergie
 username: bergie
 position: owner
 crew-order: 1
-photo: '/2022/PXL_20221226_101623380.jpg'
+photo: '/2023/PXL_20230416_101648565.jpg'
 certifications: [SBF Binnen, SBF See, UBI, SRC]
 logged-year: 2001
 countries-sailed: [FI, RU, BR, ES, CV, BB, VC, LC, FR, DE, HR, POL, SWE, DK, AX, EST ]

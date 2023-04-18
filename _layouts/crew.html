@@ -6,6 +6,7 @@ unlinked_countries:
 {{ content }}
 {% assign sorted_crew = site.crew | sort: "crew-order"%}
 {% for crew in sorted_crew %}
+  <article>
     <h2 id="{{ crew.name  | downcase | url_encode }}">{{ crew.name }} - {{ crew.position }}</h2>
     {{ crew.content }}
     <img src="{{ crew.photo }}" alt="{{ crew.name }}" />
@@ -21,7 +22,7 @@ unlinked_countries:
                 {% for certification in  crew.certifications %}<li>{{ certification }}</li>{% endfor %}
             </ul>
         </div>
-    {% endif %} 
+    {% endif %}
     <div class="flags">
         <ul>
             {% for country_code in  crew.countries-sailed %}
@@ -37,7 +38,8 @@ unlinked_countries:
             {% endfor %}
         </ul>
     </div>
-    {% if forloop.last == false %}
-    <hr>
-    {% endif %}
+  </article>
+  {% if forloop.last == false %}
+  <hr>
+  {% endif %}
 {% endfor %}
