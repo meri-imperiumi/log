@@ -23,7 +23,8 @@ readdir('_data/logbook')
         }
         return {
           time: new Date(lastEntry.datetime),
-          position: lastEntry.position,
+          latitude: lastEntry.position.latitude,
+          longitude: lastEntry.position.longitude,
           source: 'Logbook',
         };
       });
@@ -37,10 +38,8 @@ readdir('_data/logbook')
           // AIS is newer, use that. We're likely offshore and without internet
           return {
             time: aisDate,
-            position: {
-              latitude: data.LATITUDE,
-              longitude: data.LONGITUDE,
-            },
+            latitude: data.LATITUDE,
+            longitude: data.LONGITUDE,
             source: 'AISHub',
           };
         }
