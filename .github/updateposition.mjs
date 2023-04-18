@@ -4,6 +4,7 @@ import {
   readdir,
 } from 'fs/promises';
 import { parse } from 'yaml';
+import isSea from 'is-sea';
 
 readdir('_data/logbook')
   .then((files) => {
@@ -48,8 +49,12 @@ readdir('_data/logbook')
       });
   })
   .then((latestPosition) => {
+    const atSea = isSea(latestPosition.latitude, latestPosition.longitude);
     console.log(`Latest is ${latestPosition.source} from ${latestPosition.time}`);
-    return writeFile('_data/position.json', JSON.stringify(latestPosition, null, 2));
+    return writeFile('_data/position.json', JSON.stringify({
+      ...latestPosition,
+      at_sea: atSea,
+    }, null, 2));
   })
   .then(() => {
     console.log('Done');
