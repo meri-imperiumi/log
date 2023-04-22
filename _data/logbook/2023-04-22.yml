@@ -1,0 +1,25 @@
+- datetime: 2023-04-22T07:52:52.899Z
+  text: >-
+    Freshwater pump failed last night. Replaced with a new Whale FW0814(b).
+
+    There was also a small leak at the pressure chamber which should now be fixed.
+  author: bergie
+  position:
+    longitude: 13.1078763
+    latitude: 54.3129034
+    source: GPS
+  heading: 303
+  course: 350
+  speed:
+    stw: 0
+    sog: 0
+  log: 248.2
+  barometer: 1015.75
+  wind:
+    speed: 7.3
+    direction: 167
+  engine:
+    hours: 532.9
+  crewNames:
+    - bergie
+  category: maintenance
