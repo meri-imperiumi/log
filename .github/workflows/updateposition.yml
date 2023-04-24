@@ -21,7 +21,7 @@ jobs:
         if [ -z "$(git status --porcelain)" ]; then exit 0;fi
         git config --local user.email "41898282+github-actions[bot]@users.noreply.github.com"
         git config --local user.name "github-actions[bot]"
-        git commit -m "Rescaled images" -a
+        git commit -m "Updated vessel position" -a
     - name: Push changes
       uses: ad-m/github-push-action@master
       with:
