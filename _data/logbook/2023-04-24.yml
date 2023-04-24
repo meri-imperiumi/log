@@ -491,3 +491,60 @@
   crewNames:
     - bergie
     - ihmis-suski
+  category: navigation
+- datetime: 2023-04-24T15:32:29.299Z
+  text: Rain stopped
+  author: ihmis-suski
+  position:
+    longitude: 13.104499165217081
+    latitude: 54.60234680175781
+    source: GPS
+  heading: 34
+  course: 35
+  speed:
+    stw: 3.2
+    sog: 2.4
+  log: 272.6
+  barometer: 999.33
+  wind:
+    speed: 6.9
+    direction: 304
+  engine:
+    hours: 533
+  vhf: "16"
+  crewNames:
+    - bergie
+    - ihmis-suski
+  category: navigation
+  observations:
+    seaState: 2
+    cloudCoverage: 7
+    visibility: 6
+- datetime: 2023-04-24T16:02:22.297Z
+  text: "Windstill. Got some false entries from automation. "
+  author: ihmis-suski
+  position:
+    longitude: 13.1081443
+    latitude: 54.6081916
+    source: GPS
+  heading: 344
+  course: 271
+  speed:
+    stw: 0.3
+    sog: 0.3
+  log: 273.2
+  barometer: 1002.29
+  wind:
+    speed: 2.1
+    direction: 82
+  engine:
+    hours: 533
+  vhf: "16"
+  crewNames:
+    - bergie
+    - ihmis-suski
+  category: navigation
+  observations:
+    cloudCoverage: 7
+    seaState: 2
+    visibility: 6
