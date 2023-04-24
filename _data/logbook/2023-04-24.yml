@@ -619,3 +619,182 @@
   crewNames:
     - bergie
     - ihmis-suski
+  category: navigation
+- datetime: 2023-04-24T17:18:05.299Z
+  text: Sailing again! Genoa rolled out
+  author: ihmis-suski
+  position:
+    longitude: 13.1673368
+    latitude: 54.6716815
+    source: GPS
+  heading: 26
+  course: 22
+  speed:
+    stw: 3.1
+    sog: 2.6
+  log: 279.1
+  barometer: 1000.53
+  wind:
+    speed: 4.7
+    direction: 71
+  engine:
+    hours: 533.9
+  vhf: "16"
+  crewNames:
+    - bergie
+    - ihmis-suski
+  category: navigation
+- datetime: 2023-04-24T17:18:39.302Z
+  text: Motor stopped, sailing with Main, Genoa 1
+  author: ""
+  position:
+    longitude: 13.1676756
+    latitude: 54.6720716
+    source: GPS
+  heading: 26
+  course: 28
+  speed:
+    stw: 3
+    sog: 2.3
+  log: 279.1
+  barometer: 1000.51
+  wind:
+    speed: 5.1
+    direction: 71
+  engine:
+    hours: 533.9
+  vhf: "16"
+  crewNames:
+    - bergie
+    - ihmis-suski
+  category: navigation
+- datetime: 2023-04-24T17:22:43.302Z
+  text: Autopilot deactivated. Windvane on
+  author: ihmis-suski
+  position:
+    longitude: 13.17008016904195
+    latitude: 54.67451286315918
+    source: GPS
+  heading: 26
+  course: 33
+  speed:
+    stw: 3
+    sog: 2.7
+  log: 279.4
+  barometer: 1000.39
+  wind:
+    speed: 5.2
+    direction: 78
+  engine:
+    hours: 533.9
+  vhf: "16"
+  crewNames:
+    - bergie
+    - ihmis-suski
+  category: navigation
+- datetime: 2023-04-24T17:55:28.300Z
+  text: Autopilot activated. Wind changes constantly. More than 40 degree changes
+    in few minutes, it is better to Nipa this.
+  author: ihmis-suski
+  position:
+    longitude: 13.1914818
+    latitude: 54.7003638
+    source: GPS
+  heading: 24
+  course: 9
+  speed:
+    stw: 2.9
+    sog: 2.4
+  log: 281.5
+  barometer: 999.74
+  wind:
+    speed: 7.5
+    direction: 121
+  engine:
+    hours: 533.9
+  vhf: "16"
+  crewNames:
+    - bergie
+    - ihmis-suski
+  category: navigation
+- datetime: 2023-04-24T18:00:55.302Z
+  text: ""
+  author: ""
+  position:
+    longitude: 13.1933986
+    latitude: 54.7033634
+    source: GPS
+  heading: 33
+  course: 341
+  speed:
+    stw: 0
+    sog: 0.8
+  log: 281.7
+  waypoint:
+    longitude: 13.21276
+    latitude: 54.72268
+  barometer: 1001.03
+  wind:
+    speed: 0.6
+    direction: 359
+  engine:
+    hours: 533.9
+  vhf: "16"
+  crewNames:
+    - bergie
+    - ihmis-suski
+  category: navigation
+- datetime: 2023-04-24T18:01:38.297Z
+  text: Autopilot deactivated
+  author: ""
+  position:
+    longitude: 13.193484497070312
+    latitude: 54.70341116587321
+    source: GPS
+  heading: 61
+  course: 52
+  speed:
+    stw: 0
+    sog: 1.9
+  log: 281.7
+  waypoint:
+    longitude: 13.21276
+    latitude: 54.72268
+  barometer: 1001.09
+  wind:
+    speed: 5.4
+    direction: 306
+  engine:
+    hours: 533.9
+  vhf: "16"
+  crewNames:
+    - bergie
+    - ihmis-suski
+  category: navigation
+- datetime: 2023-04-24T18:03:14.297Z
+  text: "Sails set: Main"
+  author: ""
+  position:
+    longitude: 13.1936796
+    latitude: 54.703532
+    source: GPS
+  heading: 52
+  course: 41
+  speed:
+    stw: 0
+    sog: 0.6
+  log: 281.7
+  waypoint:
+    longitude: 13.21276
+    latitude: 54.72268
+  barometer: 1001.72
+  wind:
+    speed: 3.8
+    direction: 292
+  engine:
+    hours: 533.9
+  vhf: "16"
+  crewNames:
+    - bergie
+    - ihmis-suski
+  category: navigation
