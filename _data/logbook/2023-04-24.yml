@@ -908,3 +908,111 @@
   crewNames:
     - bergie
     - ihmis-suski
+  category: navigation
+- datetime: 2023-04-24T20:03:29.203Z
+  text: Motor stopped, sailing with Main
+  author: ""
+  position:
+    longitude: 13.3302564
+    latitude: 54.8088581
+    source: GPS
+  heading: 30
+  course: 30
+  speed:
+    stw: 2.4
+    sog: 2.3
+  log: 291.5
+  waypoint:
+    longitude: 13.33413
+    latitude: 54.84157
+  barometer: 999.79
+  wind:
+    speed: 8
+    direction: 242
+  engine:
+    hours: 535.5
+  vhf: "16"
+  crewNames:
+    - bergie
+    - ihmis-suski
+  category: navigation
+- datetime: 2023-04-24T20:13:02.201Z
+  text: "Sails set: Main, Genoa 1 (30% furled). Poled out wing on wing"
+  author: bergie
+  position:
+    longitude: 13.3374923
+    latitude: 54.8145633
+    source: GPS
+  heading: 34
+  course: 35
+  speed:
+    stw: 3.1
+    sog: 3
+  log: 292
+  waypoint:
+    longitude: 13.33413
+    latitude: 54.84157
+  barometer: 999.05
+  wind:
+    speed: 8.8
+    direction: 236
+  engine:
+    hours: 535.5
+  vhf: "16"
+  crewNames:
+    - bergie
+    - ihmis-suski
+  category: navigation
+- datetime: 2023-04-24T20:18:57.203Z
+  text: Autopilot deactivated, back to windvane
+  author: bergie
+  position:
+    longitude: 13.3430045
+    latitude: 54.8188248
+    source: GPS
+  heading: 35
+  course: 34
+  speed:
+    stw: 3.1
+    sog: 2.9
+  log: 292.3
+  waypoint:
+    longitude: 13.33413
+    latitude: 54.84157
+  barometer: 998.8
+  wind:
+    speed: 8.4
+    direction: 220
+  engine:
+    hours: 535.5
+  vhf: "16"
+  crewNames:
+    - bergie
+    - ihmis-suski
+  category: navigation
+- datetime: 2023-04-24T21:00:28.198Z
+  text: ""
+  author: ""
+  position:
+    longitude: 13.3987119
+    latitude: 54.8737528
+    source: GPS
+  heading: 32
+  course: 36
+  speed:
+    stw: 6.3
+    sog: 6.5
+  log: 297
+  waypoint:
+    longitude: 13.42228
+    latitude: 54.9231
+  barometer: 996.7
+  wind:
+    speed: 20.5
+    direction: 243
+  engine:
+    hours: 535.5
+  vhf: "16"
+  crewNames:
+    - bergie
+    - ihmis-suski
