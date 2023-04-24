@@ -23,3 +23,168 @@
   crewNames:
     - bergie
   category: navigation
+- datetime: 2023-04-24T10:28:04.899Z
+  text: Started main engine
+  author: ""
+  position:
+    longitude: 13.1079038
+    latitude: 54.312882
+    source: GPS
+  heading: 301
+  course: 182
+  speed:
+    stw: 0
+    sog: 0
+  log: 248.2
+  waypoint:
+    longitude: 13.10672
+    latitude: 54.31219
+  barometer: 1002.38
+  wind:
+    speed: 7.2
+    direction: 209
+  engine:
+    hours: 532.9
+  vhf: "16"
+  crewNames:
+    - bergie
+    - ihmis-suski
+  category: navigation
+- datetime: 2023-04-24T10:34:32.899Z
+  text: Motoring
+  author: bergie
+  position:
+    longitude: 13.1064881
+    latitude: 54.313066
+    source: GPS
+  heading: 350
+  course: 351
+  speed:
+    stw: 4.5
+    sog: 3.6
+  log: 248.3
+  waypoint:
+    longitude: 13.10655
+    latitude: 54.31362
+  barometer: 1002.44
+  wind:
+    speed: 12.3
+    direction: 249
+  engine:
+    hours: 532.9
+  vhf: "16"
+  crewNames:
+    - bergie
+    - ihmis-suski
+  category: navigation
+- datetime: 2023-04-24T10:39:19.900Z
+  text: Motor stopped, sailing with Main
+  author: bergie
+  position:
+    longitude: 13.1076231
+    latitude: 54.3194566
+    source: GPS
+  heading: 0
+  course: 3
+  speed:
+    stw: 4.7
+    sog: 4.5
+  log: 248.8
+  waypoint:
+    longitude: 13.10568
+    latitude: 54.32077
+  barometer: 1002.41
+  wind:
+    speed: 10.2
+    direction: 217
+  engine:
+    hours: 533
+  vhf: "16"
+  crewNames:
+    - bergie
+    - ihmis-suski
+  category: navigation
+- datetime: 2023-04-24T10:51:48.899Z
+  text: Autopilot activated
+  author: ""
+  position:
+    longitude: 13.1061466
+    latitude: 54.3350018
+    source: GPS
+  heading: 351
+  course: 353
+  speed:
+    stw: 5.7
+    sog: 5.3
+  log: 250
+  waypoint:
+    longitude: 13.10511
+    latitude: 54.34752
+  barometer: 1002.56
+  wind:
+    speed: 17
+    direction: 214
+  engine:
+    hours: 533
+  vhf: "16"
+  crewNames:
+    - bergie
+    - ihmis-suski
+  category: navigation
+- datetime: 2023-04-24T10:52:56.899Z
+  text: "Sails set: Main, Staysail. Base wind would be fine with Genoa, but the
+    gusts are somewhat vicious"
+  author: bergie
+  position:
+    longitude: 13.1062686
+    latitude: 54.3365138
+    source: GPS
+  heading: 6
+  course: 11
+  speed:
+    stw: 4.7
+    sog: 4.3
+  log: 250.2
+  waypoint:
+    longitude: 13.10511
+    latitude: 54.34752
+  barometer: 1002.5
+  wind:
+    speed: 15.1
+    direction: 225
+  engine:
+    hours: 533
+  vhf: "16"
+  crewNames:
+    - bergie
+    - ihmis-suski
+  category: navigation
+  observations:
+    seaState: 2
+    cloudCoverage: 4
+- datetime: 2023-04-24T11:00:25.900Z
+  text: ""
+  author: ""
+  position:
+    longitude: 13.106857164700825
+    latitude: 54.346944173177086
+    source: GPS
+  heading: 357
+  course: 1
+  speed:
+    stw: 5.5
+    sog: 5.2
+  log: 251
+  waypoint:
+    longitude: 13.10511
+    latitude: 54.34752
+  barometer: 1002.51
+  wind:
+    speed: 18.8
+    direction: 212
+  engine:
+    hours: 533
+  vhf: "16"
+  crewNames:
+    - bergie
+    - ihmis-suski
