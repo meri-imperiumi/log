@@ -851,3 +851,60 @@
   crewNames:
     - bergie
     - ihmis-suski
+  category: navigation
+- datetime: 2023-04-24T19:28:45.196Z
+  text: "Bergie on watch. Still waiting for the wind to materialize "
+  author: bergie
+  position:
+    longitude: 13.2807283
+    latitude: 54.7690803
+    source: GPS
+  heading: 32
+  course: 35
+  speed:
+    stw: 5.3
+    sog: 5.5
+  log: 287.9
+  waypoint:
+    longitude: 13.27983
+    latitude: 54.79078
+  barometer: 999.87
+  wind:
+    speed: 2.2
+    direction: 57
+  engine:
+    hours: 534.9
+  vhf: "16"
+  crewNames:
+    - bergie
+    - ihmis-suski
+  category: navigation
+  observations:
+    seaState: 2
+    cloudCoverage: 8
+- datetime: 2023-04-24T20:00:35.200Z
+  text: ""
+  author: ""
+  position:
+    longitude: 13.3271611
+    latitude: 54.8063951
+    source: GPS
+  heading: 34
+  course: 38
+  speed:
+    stw: 5.4
+    sog: 5.2
+  log: 291.3
+  waypoint:
+    longitude: 13.33413
+    latitude: 54.84157
+  barometer: 999.54
+  wind:
+    speed: 5.7
+    direction: 292
+  engine:
+    hours: 535.4
+  vhf: "16"
+  crewNames:
+    - bergie
+    - ihmis-suski
