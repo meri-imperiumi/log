@@ -407,3 +407,87 @@
   crewNames:
     - bergie
     - ihmis-suski
+  category: navigation
+- datetime: 2023-04-24T14:05:44.899Z
+  text: Autopilot activated. Suski on watch.
+  author: bergie
+  position:
+    longitude: 13.0572916
+    latitude: 54.5161903
+    source: GPS
+  heading: 4
+  course: 2
+  speed:
+    stw: 1.4
+    sog: 1.5
+  log: 265.5
+  waypoint:
+    longitude: 13.06191
+    latitude: 54.51796
+  barometer: 1001.38
+  wind:
+    speed: 5.7
+    direction: 221
+  engine:
+    hours: 533
+  vhf: "16"
+  crewNames:
+    - bergie
+    - ihmis-suski
+  category: navigation
+  observations:
+    seaState: 2
+    cloudCoverage: 8
+- datetime: 2023-04-24T14:17:45.900Z
+  text: Autopilot deactivated, steering on windvane. Rain started
+  author: bergie
+  position:
+    longitude: 13.0598354
+    latitude: 54.5235233
+    source: GPS
+  heading: 9
+  course: 11
+  speed:
+    stw: 2.4
+    sog: 2.5
+  log: 266
+  waypoint:
+    longitude: 13.07291
+    latitude: 54.54043
+  barometer: 1001.32
+  wind:
+    speed: 8.8
+    direction: 225
+  engine:
+    hours: 533
+  vhf: "16"
+  crewNames:
+    - bergie
+    - ihmis-suski
+  category: navigation
+- datetime: 2023-04-24T15:00:36.300Z
+  text: ""
+  author: ""
+  position:
+    longitude: 13.079847
+    latitude: 54.5799655
+    source: GPS
+  heading: 8
+  course: 18
+  speed:
+    stw: 3.1
+    sog: 2.8
+  log: 270.4
+  waypoint:
+    longitude: 13.1046
+    latitude: 54.60421
+  barometer: 1001.85
+  wind:
+    speed: 13.7
+    direction: 297
+  engine:
+    hours: 533
+  vhf: "16"
+  crewNames:
+    - bergie
+    - ihmis-suski
