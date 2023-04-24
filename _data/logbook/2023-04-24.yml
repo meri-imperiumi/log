@@ -188,3 +188,57 @@
   crewNames:
     - bergie
     - ihmis-suski
+  category: navigation
+- datetime: 2023-04-24T11:33:43.900Z
+  text: Autopilot deactivated
+  author: ""
+  position:
+    longitude: 13.1010018
+    latitude: 54.390504
+    source: GPS
+  heading: 325
+  course: 329
+  speed:
+    stw: 5.9
+    sog: 5.7
+  log: 254.3
+  waypoint:
+    longitude: 13.09976
+    latitude: 54.39129
+  barometer: 1002.62
+  wind:
+    speed: 14.5
+    direction: 238
+  engine:
+    hours: 533
+  vhf: "16"
+  crewNames:
+    - bergie
+    - ihmis-suski
+  category: navigation
+- datetime: 2023-04-24T12:00:11.900Z
+  text: ""
+  author: ""
+  position:
+    longitude: 13.0646379
+    latitude: 54.4178921
+    source: GPS
+  heading: 314
+  course: 313
+  speed:
+    stw: 4.5
+    sog: 3.8
+  log: 257
+  waypoint:
+    longitude: 13.05806
+    latitude: 54.42263
+  barometer: 1002.45
+  wind:
+    speed: 11.8
+    direction: 217
+  engine:
+    hours: 533
+  vhf: "16"
+  crewNames:
+    - bergie
+    - ihmis-suski
