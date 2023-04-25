@@ -1049,7 +1049,7 @@
     cloudCoverage: 4
 - datetime: 2023-04-24T23:00:29.196Z
   text: ""
-  author: ""
+  author: bergie
   position:
     longitude: 13.6394801
     latitude: 55.0433249
@@ -1073,3 +1073,34 @@
   crewNames:
     - bergie
     - ihmis-suski
+  category: navigation
+  observations:
+    cloudCoverage: 2
+    seaState: 3
+- datetime: 2023-04-24T23:43:29.203Z
+  text: "Hydrogenerator had slipped and was touching the servo pendulum. Hoisted it "
+  author: bergie
+  position:
+    longitude: 13.7121236
+    latitude: 55.1080906
+    source: GPS
+  heading: 23
+  course: 37
+  speed:
+    stw: 6.7
+    sog: 7.5
+  log: 318.2
+  waypoint:
+    longitude: 13.8007
+    latitude: 55.11078
+  barometer: 993.84
+  wind:
+    speed: 27.3
+    direction: 234
+  engine:
+    hours: 535.5
+  vhf: "16"
+  crewNames:
+    - bergie
+    - ihmis-suski
+  category: navigation
