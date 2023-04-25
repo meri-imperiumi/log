@@ -406,3 +406,98 @@
   crewNames:
     - bergie
     - ihmis-suski
+  category: navigation
+- datetime: 2023-04-25T06:44:41.400Z
+  text: "Sails set: Main (1st reef)"
+  author: ""
+  position:
+    longitude: 14.376536846160889
+    latitude: 55.5508534749349
+    source: GPS
+  heading: 347
+  course: 350
+  speed:
+    stw: 5.7
+    sog: 5.6
+  log: 366.6
+  waypoint:
+    longitude: 14.3635
+    latitude: 55.55924
+  barometer: 1002.34
+  wind:
+    speed: 19.8
+    direction: 243
+  engine:
+    hours: 535.5
+  crewNames:
+    - bergie
+    - ihmis-suski
+  category: navigation
+- datetime: 2023-04-25T06:56:24.400Z
+  text: Sails down, motoring
+  author: ""
+  position:
+    longitude: 14.3656481
+    latitude: 55.5640056
+    source: GPS
+  heading: 323
+  course: 324
+  speed:
+    stw: 4.5
+    sog: 4.3
+  log: 367.7
+  barometer: 1002.21
+  wind:
+    speed: 18.3
+    direction: 240
+  engine:
+    hours: 535.5
+  crewNames:
+    - bergie
+    - ihmis-suski
+  category: navigation
+- datetime: 2023-04-25T06:56:59.400Z
+  text: Autopilot deactivated
+  author: ""
+  position:
+    longitude: 14.3650436
+    latitude: 55.5645968
+    source: GPS
+  heading: 321
+  course: 328
+  speed:
+    stw: 4.9
+    sog: 4.8
+  log: 367.8
+  barometer: 1002.22
+  wind:
+    speed: 19.7
+    direction: 229
+  engine:
+    hours: 535.5
+  crewNames:
+    - bergie
+    - ihmis-suski
+  category: navigation
+- datetime: 2023-04-25T07:00:36.400Z
+  text: ""
+  author: ""
+  position:
+    longitude: 14.3645686
+    latitude: 55.5632308
+    source: GPS
+  heading: 144
+  course: 144
+  speed:
+    stw: 4.4
+    sog: 4.4
+  log: 368
+  barometer: 1001.95
+  wind:
+    speed: 15.8
+    direction: 222
+  engine:
+    hours: 535.6
+  crewNames:
+    - bergie
+    - ihmis-suski
