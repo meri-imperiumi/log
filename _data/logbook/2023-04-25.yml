@@ -133,3 +133,111 @@
     - bergie
     - ihmis-suski
   category: navigation
+- datetime: 2023-04-25T01:15:20.200Z
+  text: "Sails set: Main, Genoa 1 (60% furled)"
+  author: ""
+  position:
+    longitude: 13.8813238
+    latitude: 55.2223784
+    source: GPS
+  heading: 70
+  course: 87
+  speed:
+    stw: 6.6
+    sog: 6.7
+  log: 330.1
+  waypoint:
+    longitude: 13.96921
+    latitude: 55.23012
+  barometer: 1001.4
+  wind:
+    speed: 24.2
+    direction: 203
+  engine:
+    hours: 535.5
+  vhf: "16"
+  crewNames:
+    - bergie
+    - ihmis-suski
+  category: navigation
+- datetime: 2023-04-25T01:30:17.200Z
+  text: "Sails set: Main"
+  author: ""
+  position:
+    longitude: 13.9266885
+    latitude: 55.2285981
+    source: GPS
+  heading: 64
+  course: 70
+  speed:
+    stw: 5.1
+    sog: 7.1
+  log: 332
+  waypoint:
+    longitude: 13.96921
+    latitude: 55.23012
+  barometer: 1001.45
+  wind:
+    speed: 17.6
+    direction: 220
+  engine:
+    hours: 535.5
+  vhf: "16"
+  crewNames:
+    - bergie
+    - ihmis-suski
+  category: navigation
+- datetime: 2023-04-25T02:00:30.500Z
+  text: ""
+  author: ""
+  position:
+    longitude: 14.0007481
+    latitude: 55.248631
+    source: GPS
+  heading: 56
+  course: 60
+  speed:
+    stw: 4.6
+    sog: 4.1
+  log: 335.2
+  waypoint:
+    longitude: 14.07565
+    latitude: 55.28115
+  barometer: 1001.75
+  wind:
+    speed: 11.9
+    direction: 234
+  engine:
+    hours: 535.5
+  vhf: "16"
+  crewNames:
+    - bergie
+    - ihmis-suski
+  category: navigation
+- datetime: 2023-04-25T02:01:31.500Z
+  text: "Suski on merivahti "
+  author: ihmis-suski
+  position:
+    longitude: 14.0027351
+    latitude: 55.2492764
+    source: GPS
+  heading: 60
+  course: 52
+  speed:
+    stw: 4.8
+    sog: 6.1
+  log: 335.3
+  waypoint:
+    longitude: 14.07565
+    latitude: 55.28115
+  barometer: 1001.75
+  wind:
+    speed: 13.1
+    direction: 241
+  engine:
+    hours: 535.5
+  vhf: "16"
+  crewNames:
+    - bergie
+    - ihmis-suski
+  category: navigation
