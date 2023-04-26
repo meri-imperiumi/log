@@ -2,7 +2,7 @@
 name: Bergie
 username: bergie
 position: owner
-crew-order: 1
+crew-order: 2
 photo: '/2023/PXL_20230416_101648565.jpg'
 certifications: [SBF Binnen, SBF See, UBI, SRC]
 logged-year: 2001
