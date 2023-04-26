@@ -8,4 +8,4 @@ logged-year: 2021
 countries-sailed: [DE, POL, DK, SWE, AX, FI, EST]
 certifications: [CE]
 ---
-Assistentti Nissinen is an original that came with the boat. It has gotten new power cables with us and has since been reliably steering us where ever we want to go.
+Assistentti Nissinen is a ST4000+ tiller pilot that came with the boat. It has gotten new power cables and data connection with us, and has since been reliably steering us where ever we want to go.
