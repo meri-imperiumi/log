@@ -7,4 +7,4 @@ photo: /2023/PXL_20230424_143058544.jpg
 logged-year: 2023
 countries-sailed: [POL, DE, SWE]
 ---
-Starbuck is a [WindPilot Pacific](https://windpilot.com/n/wind/en/prod/paci/) self-steering windvane bought in February 2023 from Hamburg.
+Starbuck is a [WindPilot Pacific](https://windpilot.com/n/wind/en/prod/paci/) self-steering windvane bought in February 2023 from Hamburg. The windvane steers us when we're sailing offshore.
