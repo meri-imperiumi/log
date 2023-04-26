@@ -7,6 +7,7 @@ import { parse, stringify } from 'yaml';
 
 const crewMiles = {
   nissinen: 0,
+  starbuck: 0,
 };
 
 readdir('_data/logbook')
@@ -25,19 +26,52 @@ readdir('_data/logbook')
   .then((logEntries) => {
     let previous = null;
     let nissinen = false;
+    let previousNissinen = false;
+    let starbuck = false;
+    let previousStarbuck = false;
     logEntries.forEach((entry) => {
+      let countThisStill = false;
       if (entry.text.indexOf('Autopilot activated') !== -1) {
+        // If we activate autopilot, we definitely deactivate windvane
+        previousNissinen = nissinen;
         nissinen = true;
+        previousStarbuck = starbuck;
+        starbuck = false;
       }
+      if (entry.text.toLowerCase().indexOf('windvane') !== -1) {
+        // We assume that windvane mentions mean activation
+        previousStarbuck = starbuck;
+        starbuck = true;
+      }
+      if (entry.text.toLowerCase().indexOf('hand steering') !== -1) {
+        // Hand steering means no windvane
+        previousStarbuck = starbuck;
+        starbuck = false;
+      }
+      if (entry.text.indexOf('Autopilot deactivated') !== -1) {
+        // Autopilot deactivation doesn't automatically imply windvane activation
+        previousNissinen = nissinen;
+        nissinen = false;
+      }
+      if (entry.text.toLowerCase().indexOf('motoring') !== -1) {
+        // Windvane can't be used while motoring
+        previousStarbuck = starbuck;
+        starbuck = false;
+      }
+      if (entry.end) {
+        // When trip ends we don't use either any longer
+        previousNissinen = nissinen;
+        nissinen = false;
+        previousStarbuck = starbuck;
+        starbuck = false;
+      }
+
       if (!previous) {
         previous = entry;
         return;
       }
       const distance = entry.log - previous.log;
       if (distance <= 0 || Number.isNaN(distance)) {
-        if (entry.text.indexOf('Autopilot deactivated') !== -1) {
-          nissinen = false;
-        }
         previous = entry;
         return;
       }
@@ -53,11 +87,13 @@ readdir('_data/logbook')
           crewMiles[nameToUse] += distance;
         });
       }
-      if (nissinen) {
+      if (nissinen || previousNissinen) {
         crewMiles.nissinen += distance;
+        previousNissinen = nissinen;
       }
-      if (entry.text.indexOf('Autopilot deactivated') !== -1) {
-        nissinen = false;
+      if (starbuck || previousStarbuck) {
+        crewMiles.starbuck += distance;
+        previousStarbuck = starbuck;
       }
       previous = entry;
     });
