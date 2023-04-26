@@ -1,0 +1,31 @@
+name: Update crew miles count
+
+on:
+  schedule:
+  - cron: "0 0 * * *"
+
+jobs:
+  fetch:
+    name: Update crew miles
+    runs-on: ubuntu-latest
+    steps:
+    - uses: actions/checkout@v3
+    - uses: actions/setup-node@v3
+      with:
+        node-version: 16
+    - run: npm install yaml
+    - run: node .github/crewmiles.mjs
+      env:
+        AISHUB_TOKEN: ${{secrets.AISHUB_TOKEN}}
+    - name: Commit files
+      run: |
+        if [ -z "$(git status --porcelain)" ]; then exit 0;fi
+        git config --local user.email "41898282+github-actions[bot]@users.noreply.github.com"
+        git config --local user.name "github-actions[bot]"
+        git add _data/aishub.json
+        git commit -m "Recalculated crew miles" -a
+    - name: Push changes
+      uses: ad-m/github-push-action@master
+      with:
+        github_token: ${{ secrets.GITHUB_TOKEN }}
+        branch: main
