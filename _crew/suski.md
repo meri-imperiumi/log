@@ -2,7 +2,7 @@
 name: Suski
 username: suski
 position: owner
-crew-order: 2
+crew-order: 1
 photo: /2021/crew-suski.png
 certifications: [SBF Binnen, SBF See, UBI, SRC]
 logged-year: 2004
