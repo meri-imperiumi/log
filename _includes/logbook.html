@@ -89,7 +89,7 @@
         {% if entry.text == "" %}
         Hourly position log
         {% else %}
-        {{ entry.text }}
+        {{ entry.text | replace: "ihmis-suski", "Suski" }}
         {% endif %}
       </td>
     </tr>
