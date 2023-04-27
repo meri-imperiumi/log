@@ -1,0 +1,24 @@
+- datetime: 2023-04-27T12:22:39.600Z
+  text: Righted the hydrogenerator and tightened the friction screws. Switched
+    vessel log to use GPS reference.
+  author: bergie
+  position:
+    longitude: 14.355379
+    latitude: 55.5595289
+    source: GPS
+  heading: 249
+  course: 313
+  speed:
+    stw: 0
+    sog: 0
+  log: 369.2
+  barometer: 1016.36
+  wind:
+    speed: 17.7
+    direction: 267
+  engine:
+    hours: 536
+  crewNames:
+    - bergie
+    - ihmis-suski
+  category: maintenance
