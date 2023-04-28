@@ -963,3 +963,56 @@
   crewNames:
     - bergie
     - ihmis-suski
+  category: navigation
+- datetime: 2023-04-28T20:40:38.003Z
+  text: Se on kuin muumien majakka. Minä täällä ihailemassa loiston vilkettä. Ilma
+    on kostea, mutta tee lämmittää sisuksia ihanasti.
+  author: ihmis-suski
+  position:
+    longitude: 15.7160371
+    latitude: 55.9376658
+    source: GPS
+  heading: 75
+  course: 71
+  speed:
+    stw: 2.9
+    sog: 3
+  log: 422.9
+  barometer: 1017.62
+  wind:
+    speed: 7
+    direction: 118
+  engine:
+    hours: 537.1
+  vhf: "16"
+  crewNames:
+    - bergie
+    - ihmis-suski
+  category: navigation
+  observations:
+    seaState: 2
+    cloudCoverage: 4
+    visibility: 6
+- datetime: 2023-04-28T21:00:33.996Z
+  text: ""
+  author: ""
+  position:
+    longitude: 15.7416676
+    latitude: 55.9460528
+    source: GPS
+  heading: 42
+  course: 42
+  speed:
+    stw: 4.9
+    sog: 4.6
+  log: 423.9
+  barometer: 1017.57
+  wind:
+    speed: 9.6
+    direction: 111
+  engine:
+    hours: 537.1
+  vhf: "16"
+  crewNames:
+    - bergie
+    - ihmis-suski
