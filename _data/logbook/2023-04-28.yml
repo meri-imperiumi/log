@@ -565,3 +565,84 @@
   crewNames:
     - bergie
     - ihmis-suski
+  category: navigation
+- datetime: 2023-04-28T11:01:33.798Z
+  text: "Starbuck our windvane is on. "
+  author: ihmis-suski
+  position:
+    longitude: 14.6942321
+    latitude: 55.7283476
+    source: GPS
+  heading: 61
+  course: 66
+  speed:
+    stw: 4.7
+    sog: 4.3
+  log: 385.6
+  barometer: 1019.44
+  wind:
+    speed: 8.4
+    direction: 145
+  engine:
+    hours: 537.1
+  vhf: "16"
+  crewNames:
+    - bergie
+    - ihmis-suski
+  category: navigation
+  observations:
+    seaState: 2
+    cloudCoverage: 2
+    visibility: 8
+- datetime: 2023-04-28T12:00:22.800Z
+  text: ""
+  author: ""
+  position:
+    longitude: 14.8061556
+    latitude: 55.7615484
+    source: GPS
+  heading: 50
+  course: 61
+  speed:
+    stw: 5
+    sog: 4.4
+  log: 389.8
+  barometer: 1019.36
+  wind:
+    speed: 10.6
+    direction: 140
+  engine:
+    hours: 537.1
+  vhf: "16"
+  crewNames:
+    - bergie
+    - ihmis-suski
+  category: navigation
+- datetime: 2023-04-28T12:08:21.798Z
+  text: Bergie on watch. Chanterelle risotto worked out great
+  author: bergie
+  position:
+    longitude: 14.8205396
+    latitude: 55.7678325
+    source: GPS
+  heading: 41
+  course: 51
+  speed:
+    stw: 5
+    sog: 4.3
+  log: 390.5
+  barometer: 1019.35
+  wind:
+    speed: 10.8
+    direction: 132
+  engine:
+    hours: 537.1
+  vhf: "16"
+  crewNames:
+    - bergie
+    - ihmis-suski
+  category: navigation
+  observations:
+    seaState: 2
+    cloudCoverage: 3
+    visibility: 8
