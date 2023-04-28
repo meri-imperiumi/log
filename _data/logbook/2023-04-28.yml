@@ -646,3 +646,50 @@
     seaState: 2
     cloudCoverage: 3
     visibility: 8
+- datetime: 2023-04-28T12:21:35.801Z
+  text: "Sails set: Main, Genoa 1, Staysail"
+  author: ""
+  position:
+    longitude: 14.8434403
+    latitude: 55.7793376
+    source: GPS
+  heading: 40
+  course: 47
+  speed:
+    stw: 5.4
+    sog: 4.9
+  log: 391.5
+  barometer: 1019.36
+  wind:
+    speed: 12.1
+    direction: 135
+  engine:
+    hours: 537.1
+  vhf: "16"
+  crewNames:
+    - bergie
+    - ihmis-suski
+  category: navigation
+- datetime: 2023-04-28T13:00:11.801Z
+  text: ""
+  author: ""
+  position:
+    longitude: 14.9171738
+    latitude: 55.8122868
+    source: GPS
+  heading: 60
+  course: 63
+  speed:
+    stw: 5
+    sog: 4.8
+  log: 394.7
+  barometer: 1019.19
+  wind:
+    speed: 9.7
+    direction: 133
+  engine:
+    hours: 537.1
+  vhf: "16"
+  crewNames:
+    - bergie
+    - ihmis-suski
