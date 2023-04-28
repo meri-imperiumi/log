@@ -828,3 +828,61 @@
   crewNames:
     - bergie
     - ihmis-suski
+  category: navigation
+- datetime: 2023-04-28T17:54:01.100Z
+  text: "Suski to seawatch, Bergie to sleep. "
+  author: ihmis-suski
+  position:
+    longitude: 15.507790501912435
+    latitude: 55.90836067199707
+    source: GPS
+  heading: 78
+  course: 56
+  speed:
+    stw: 2.8
+    sog: 2.4
+  log: 415.6
+  waypoint:
+    longitude: 15.69916
+    latitude: 55.93354
+  barometer: 1017.76
+  wind:
+    speed: 6.4
+    direction: 129
+  engine:
+    hours: 537.1
+  vhf: "16"
+  crewNames:
+    - bergie
+    - ihmis-suski
+  category: navigation
+  observations:
+    seaState: 2
+    cloudCoverage: 7
+    visibility: 7
+- datetime: 2023-04-28T18:00:00.102Z
+  text: ""
+  author: ""
+  position:
+    longitude: 15.5154581
+    latitude: 55.909583
+    source: GPS
+  heading: 84
+  course: 74
+  speed:
+    stw: 3
+    sog: 2.8
+  log: 415.8
+  waypoint:
+    longitude: 15.69916
+    latitude: 55.93354
+  barometer: 1017.72
+  wind:
+    speed: 6.5
+    direction: 131
+  engine:
+    hours: 537.1
+  vhf: "16"
+  crewNames:
+    - bergie
+    - ihmis-suski
