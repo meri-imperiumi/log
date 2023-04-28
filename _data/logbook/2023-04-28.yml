@@ -325,3 +325,52 @@
     cloudCoverage: 1
     seaState: 2
     visibility: 8
+- datetime: 2023-04-28T08:59:59.801Z
+  text: ""
+  author: ""
+  position:
+    longitude: 14.550568
+    latitude: 55.6860918
+    source: GPS
+  heading: 63
+  course: 65
+  speed:
+    stw: 2.9
+    sog: 2.5
+  log: 380
+  barometer: 1019.78
+  wind:
+    speed: 5.9
+    direction: 140
+  engine:
+    hours: 537.1
+  vhf: "16"
+  crewNames:
+    - bergie
+    - ihmis-suski
+  category: navigation
+- datetime: 2023-04-28T09:04:43.801Z
+  text: Autopilot activated. Not enough wind for the windvane. Also, wind keeps
+    going between 155 and 175
+  author: ihmis-suski
+  position:
+    longitude: 14.5553086
+    latitude: 55.6872013
+    source: GPS
+  heading: 64
+  course: 71
+  speed:
+    stw: 2.3
+    sog: 2
+  log: 380.2
+  barometer: 1019.77
+  wind:
+    speed: 5.4
+    direction: 146
+  engine:
+    hours: 537.1
+  vhf: "16"
+  crewNames:
+    - bergie
+    - ihmis-suski
+  category: navigation
