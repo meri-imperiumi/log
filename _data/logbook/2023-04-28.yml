@@ -910,3 +910,56 @@
   crewNames:
     - bergie
     - ihmis-suski
+  category: navigation
+- datetime: 2023-04-28T19:59:47.001Z
+  text: Utklippan seen in the darkness! Slow going but very nice. Big dipper
+    overhead.
+  author: ihmis-suski
+  position:
+    longitude: 15.6676378
+    latitude: 55.9271299
+    source: GPS
+  heading: 68
+  course: 66
+  speed:
+    stw: 2.5
+    sog: 2.4
+  log: 421.1
+  barometer: 1017.82
+  wind:
+    speed: 6.2
+    direction: 115
+  engine:
+    hours: 537.1
+  vhf: "16"
+  crewNames:
+    - bergie
+    - ihmis-suski
+  category: navigation
+  observations:
+    seaState: 2
+    cloudCoverage: 6
+    visibility: 7
+- datetime: 2023-04-28T20:00:46.003Z
+  text: ""
+  author: ""
+  position:
+    longitude: 15.6687339
+    latitude: 55.9274631
+    source: GPS
+  heading: 68
+  course: 56
+  speed:
+    stw: 2.6
+    sog: 3
+  log: 421.1
+  barometer: 1017.8
+  wind:
+    speed: 5.3
+    direction: 113
+  engine:
+    hours: 537.1
+  vhf: "16"
+  crewNames:
+    - bergie
+    - ihmis-suski
