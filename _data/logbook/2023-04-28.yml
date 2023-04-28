@@ -753,3 +753,51 @@
   observations:
     cloudCoverage: 3
     seaState: 3
+- datetime: 2023-04-28T15:19:54.099Z
+  text: "Sails set: Main, Genoa 1. Took the staysail down as we're slightly more
+    downwind. Also prepared boom preventer lines."
+  author: bergie
+  position:
+    longitude: 15.2423614
+    latitude: 55.8595751
+    source: GPS
+  heading: 74
+  course: 59
+  speed:
+    stw: 4.6
+    sog: 4.7
+  log: 406.1
+  barometer: 1018.23
+  wind:
+    speed: 8.6
+    direction: 154
+  engine:
+    hours: 537.1
+  vhf: "16"
+  crewNames:
+    - bergie
+    - ihmis-suski
+  category: navigation
+- datetime: 2023-04-28T16:00:12.102Z
+  text: ""
+  author: ""
+  position:
+    longitude: 15.3155983
+    latitude: 55.8740999
+    source: GPS
+  heading: 75
+  course: 79
+  speed:
+    stw: 3.4
+    sog: 3.3
+  log: 408.7
+  barometer: 1018.1
+  wind:
+    speed: 6.2
+    direction: 175
+  engine:
+    hours: 537.1
+  vhf: "16"
+  crewNames:
+    - bergie
+    - ihmis-suski
