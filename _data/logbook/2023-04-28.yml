@@ -23,8 +23,8 @@
     - ihmis-suski
   category: navigation
 - datetime: 2023-04-28T04:29:24.800Z
-  text: Motoring
-  author: ""
+  text: Motoring. Bergie on watch
+  author: bergie
   position:
     longitude: 14.3578736
     latitude: 55.5584999
@@ -46,6 +46,10 @@
     - bergie
     - ihmis-suski
   category: navigation
+  observations:
+    seaState: 2
+    cloudCoverage: 0
+    visibility: 8
 - datetime: 2023-04-28T04:35:20.800Z
   text: Autopilot activated
   author: ""
@@ -89,6 +93,54 @@
     direction: 340
   engine:
     hours: 536.7
+  vhf: "16"
+  crewNames:
+    - bergie
+    - ihmis-suski
+  category: navigation
+- datetime: 2023-04-28T05:22:03.800Z
+  text: Motor stopped, sailing with Parasailor
+  author: ""
+  position:
+    longitude: 14.4138846
+    latitude: 55.6052801
+    source: GPS
+  heading: 25
+  course: 38
+  speed:
+    stw: 1.4
+    sog: 1
+  log: 372.7
+  barometer: 1019.9
+  wind:
+    speed: 4.7
+    direction: 269
+  engine:
+    hours: 537.1
+  vhf: "16"
+  crewNames:
+    - bergie
+    - ihmis-suski
+  category: navigation
+- datetime: 2023-04-28T06:00:44.800Z
+  text: ""
+  author: ""
+  position:
+    longitude: 14.4261411
+    latitude: 55.6154574
+    source: GPS
+  heading: 29
+  course: 38
+  speed:
+    stw: 2.6
+    sog: 2.2
+  log: 373.5
+  barometer: 1019.99
+  wind:
+    speed: 5.1
+    direction: 289
+  engine:
+    hours: 537.1
   vhf: "16"
   crewNames:
     - bergie
