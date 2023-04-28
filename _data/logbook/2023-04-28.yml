@@ -726,3 +726,30 @@
     seaState: 3
     cloudCoverage: 4
     visibility: 8
+- datetime: 2023-04-28T15:00:12.102Z
+  text: ""
+  author: bergie
+  position:
+    longitude: 15.2013899
+    latitude: 55.8535436
+    source: GPS
+  heading: 72
+  course: 71
+  speed:
+    stw: 4.9
+    sog: 4.8
+  log: 404.7
+  barometer: 1018.39
+  wind:
+    speed: 11
+    direction: 160
+  engine:
+    hours: 537.1
+  vhf: "16"
+  crewNames:
+    - bergie
+    - ihmis-suski
+  category: navigation
+  observations:
+    cloudCoverage: 3
+    seaState: 3
