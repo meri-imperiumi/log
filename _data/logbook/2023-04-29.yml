@@ -197,3 +197,61 @@
   crewNames:
     - bergie
     - ihmis-suski
+  category: navigation
+- datetime: 2023-04-29T06:14:14.200Z
+  text: "Bergie out, Suski in. "
+  author: ihmis-suski
+  position:
+    longitude: 16.1609656
+    latitude: 56.2643176
+    source: GPS
+  heading: 352
+  course: 343
+  speed:
+    stw: 3.6
+    sog: 2.8
+  log: 453.2
+  waypoint:
+    longitude: 16.17242
+    latitude: 56.36246
+  barometer: 1015.23
+  wind:
+    speed: 6.2
+    direction: 31
+  engine:
+    hours: 537.1
+  vhf: "16"
+  crewNames:
+    - bergie
+    - ihmis-suski
+  category: navigation
+  observations:
+    seaState: 2
+    cloudCoverage: 6
+    visibility: 8
+- datetime: 2023-04-29T07:00:03.100Z
+  text: ""
+  author: ""
+  position:
+    longitude: 16.144099505742393
+    latitude: 56.30291299819946
+    source: GPS
+  heading: 356
+  course: 352
+  speed:
+    stw: 3.1
+    sog: 3.5
+  log: 455.6
+  waypoint:
+    longitude: 16.17242
+    latitude: 56.36246
+  barometer: 1015.12
+  wind:
+    speed: 4.5
+    direction: 38
+  engine:
+    hours: 537.1
+  vhf: "16"
+  crewNames:
+    - bergie
+    - ihmis-suski
