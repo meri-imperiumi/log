@@ -539,3 +539,54 @@
   crewNames:
     - bergie
     - ihmis-suski
+  category: navigation
+- datetime: 2023-04-29T11:17:46.099Z
+  text: "Sails set: Main, Genoa 1. Removed the pole "
+  author: bergie
+  position:
+    longitude: 16.2992153
+    latitude: 56.5511599
+    source: GPS
+  heading: 19
+  course: 24
+  speed:
+    stw: 3.2
+    sog: 3.2
+  log: 471.6
+  barometer: 1012.96
+  wind:
+    speed: 7.3
+    direction: 123
+  engine:
+    hours: 539.5
+  vhf: "16"
+  crewNames:
+    - bergie
+    - ihmis-suski
+  category: navigation
+  observations:
+    cloudCoverage: 3
+    seaState: 2
+- datetime: 2023-04-29T12:00:47.100Z
+  text: ""
+  author: ""
+  position:
+    longitude: 16.3373956
+    latitude: 56.6006981
+    source: GPS
+  heading: 27
+  course: 24
+  speed:
+    stw: 5.9
+    sog: 5.9
+  log: 474.8
+  barometer: 1012.04
+  wind:
+    speed: 17.3
+    direction: 171
+  engine:
+    hours: 539.5
+  vhf: "16"
+  crewNames:
+    - bergie
+    - ihmis-suski
