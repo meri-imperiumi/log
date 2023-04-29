@@ -78,3 +78,35 @@
   crewNames:
     - bergie
     - ihmis-suski
+  category: navigation
+- datetime: 2023-04-29T03:00:01.200Z
+  text: The wind should turn more south says forecast, but right now that's not
+    what is happening.
+  author: bergie
+  position:
+    longitude: 16.0645999
+    latitude: 56.1435176
+    source: GPS
+  heading: 17
+  course: 2
+  speed:
+    stw: 3.7
+    sog: 4.3
+  log: 442.7
+  waypoint:
+    longitude: 16.02328
+    latitude: 56.15955
+  barometer: 1015.48
+  wind:
+    speed: 6.9
+    direction: 50
+  engine:
+    hours: 537.1
+  vhf: "16"
+  crewNames:
+    - bergie
+    - ihmis-suski
+  category: navigation
+  observations:
+    cloudCoverage: 3
+    seaState: 2
