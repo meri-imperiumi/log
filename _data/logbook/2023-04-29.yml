@@ -1,0 +1,27 @@
+- datetime: 2023-04-29T00:00:48.900Z
+  text: Bergie on watch. Somewhat hazy night.
+  author: bergie
+  position:
+    longitude: 15.9182203
+    latitude: 56.068688
+    source: GPS
+  heading: 35
+  course: 35
+  speed:
+    stw: 2.6
+    sog: 2.4
+  log: 433.4
+  barometer: 1016.69
+  wind:
+    speed: 5.7
+    direction: 73
+  engine:
+    hours: 537.1
+  vhf: "16"
+  crewNames:
+    - bergie
+    - ihmis-suski
+  category: navigation
+  observations:
+    seaState: 2
+    cloudCoverage: 2
