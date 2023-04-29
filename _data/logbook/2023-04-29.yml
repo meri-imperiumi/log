@@ -453,3 +453,89 @@
   crewNames:
     - bergie
     - ihmis-suski
+  category: navigation
+- datetime: 2023-04-29T10:03:25.100Z
+  text: Motor stopped, sailing with Main
+  author: ""
+  position:
+    longitude: 16.2855438
+    latitude: 56.5170764
+    source: GPS
+  heading: 15
+  course: 25
+  speed:
+    stw: 1.6
+    sog: 1.6
+  log: 469.4
+  waypoint:
+    longitude: 16.33223
+    latitude: 56.59878
+  barometer: 1014.15
+  wind:
+    speed: 4.5
+    direction: 242
+  engine:
+    hours: 539.5
+  vhf: "16"
+  crewNames:
+    - bergie
+    - ihmis-suski
+  category: navigation
+- datetime: 2023-04-29T10:16:53.100Z
+  text: "Sails set: Main, Genoa 1 (30% furled). Poled out wing on wing. Wish we
+    had a longer whisker pole "
+  author: bergie
+  position:
+    longitude: 16.2898193
+    latitude: 56.5233906
+    source: GPS
+  heading: 21
+  course: 20
+  speed:
+    stw: 2.2
+    sog: 1.8
+  log: 469.8
+  waypoint:
+    longitude: 16.33223
+    latitude: 56.59878
+  barometer: 1013.98
+  wind:
+    speed: 4.4
+    direction: 229
+  engine:
+    hours: 539.5
+  vhf: "16"
+  crewNames:
+    - bergie
+    - ihmis-suski
+  category: navigation
+  observations:
+    cloudCoverage: 2
+    seaState: 2
+    visibility: 8
+- datetime: 2023-04-29T11:00:58.099Z
+  text: ""
+  author: ""
+  position:
+    longitude: 16.2985856
+    latitude: 56.5422361
+    source: GPS
+  heading: 5
+  course: 8
+  speed:
+    stw: 1
+    sog: 1
+  log: 471
+  waypoint:
+    longitude: 16.33223
+    latitude: 56.59878
+  barometer: 1013.34
+  wind:
+    speed: 2.8
+    direction: 160
+  engine:
+    hours: 539.5
+  vhf: "16"
+  crewNames:
+    - bergie
+    - ihmis-suski
