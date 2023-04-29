@@ -800,3 +800,32 @@
   crewNames:
     - bergie
     - ihmis-suski
+  category: navigation
+- datetime: 2023-04-29T16:22:03.500Z
+  text: Stopped at Pataholm SXK buoy
+  author: bergie
+  position:
+    longitude: 16.4387011
+    latitude: 56.9145141
+    source: GPS
+  heading: 326
+  course: 123
+  speed:
+    stw: 0
+    sog: 0
+  log: 497.2
+  waypoint:
+    longitude: 16.43865
+    latitude: 56.91488
+  barometer: 1010.63
+  wind:
+    speed: 17.6
+    direction: 297
+  engine:
+    hours: 540.7
+  vhf: "16"
+  crewNames:
+    - bergie
+    - ihmis-suski
+  end: true
+  category: navigation
