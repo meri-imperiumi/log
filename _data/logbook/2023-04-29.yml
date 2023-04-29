@@ -395,3 +395,61 @@
   crewNames:
     - bergie
     - ihmis-suski
+  category: navigation
+- datetime: 2023-04-29T09:25:23.100Z
+  text: Bergie on watch. Kalmar bridge in the horizon
+  author: bergie
+  position:
+    longitude: 16.2530841
+    latitude: 56.4677818
+    source: GPS
+  heading: 26
+  course: 25
+  speed:
+    stw: 5.3
+    sog: 5.4
+  log: 466.3
+  waypoint:
+    longitude: 16.24983
+    latitude: 56.47899
+  barometer: 1014.38
+  wind:
+    speed: 2
+    direction: 15
+  engine:
+    hours: 538.9
+  vhf: "16"
+  crewNames:
+    - bergie
+    - ihmis-suski
+  category: navigation
+  observations:
+    seaState: 2
+    cloudCoverage: 6
+    visibility: 8
+- datetime: 2023-04-29T10:00:14.099Z
+  text: ""
+  author: ""
+  position:
+    longitude: 16.284696
+    latitude: 56.5155179
+    source: GPS
+  heading: 16
+  course: 13
+  speed:
+    stw: 2.8
+    sog: 2.6
+  log: 469.3
+  waypoint:
+    longitude: 16.33223
+    latitude: 56.59878
+  barometer: 1014.18
+  wind:
+    speed: 4
+    direction: 272
+  engine:
+    hours: 539.5
+  vhf: "16"
+  crewNames:
+    - bergie
+    - ihmis-suski
