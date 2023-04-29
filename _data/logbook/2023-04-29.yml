@@ -255,3 +255,85 @@
   crewNames:
     - bergie
     - ihmis-suski
+  category: navigation
+- datetime: 2023-04-29T07:20:11.100Z
+  text: Autopilot activated. Starbuck can't keep up with this little wind without
+    the tail.
+  author: ihmis-suski
+  position:
+    longitude: 16.1422434
+    latitude: 56.3170561
+    source: GPS
+  heading: 16
+  course: 0
+  speed:
+    stw: 2.3
+    sog: 2.4
+  log: 456.5
+  waypoint:
+    longitude: 16.17242
+    latitude: 56.36246
+  barometer: 1014.93
+  wind:
+    speed: 3.6
+    direction: 41
+  engine:
+    hours: 537.1
+  vhf: "16"
+  crewNames:
+    - bergie
+    - ihmis-suski
+  category: navigation
+- datetime: 2023-04-29T07:34:21.100Z
+  text: Genoa down, motor sailing with full main.
+  author: ihmis-suski
+  position:
+    longitude: 16.1433365
+    latitude: 56.323145
+    source: GPS
+  heading: 10
+  course: 16
+  speed:
+    stw: 0.4
+    sog: 0.7
+  log: 456.9
+  waypoint:
+    longitude: 16.17242
+    latitude: 56.36246
+  barometer: 1014.93
+  wind:
+    speed: 3.1
+    direction: 37
+  engine:
+    hours: 537.1
+  vhf: "16"
+  crewNames:
+    - bergie
+    - ihmis-suski
+  category: navigation
+- datetime: 2023-04-29T08:00:46.099Z
+  text: ""
+  author: ""
+  position:
+    longitude: 16.1670703
+    latitude: 56.3565494
+    source: GPS
+  heading: 25
+  course: 18
+  speed:
+    stw: 5.1
+    sog: 5.2
+  log: 459
+  waypoint:
+    longitude: 16.17242
+    latitude: 56.36246
+  barometer: 1014.87
+  wind:
+    speed: 2.3
+    direction: 21
+  engine:
+    hours: 537.5
+  vhf: "16"
+  crewNames:
+    - bergie
+    - ihmis-suski
