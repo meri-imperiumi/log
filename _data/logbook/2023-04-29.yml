@@ -590,3 +590,55 @@
   crewNames:
     - bergie
     - ihmis-suski
+  category: navigation
+- datetime: 2023-04-29T12:57:35.500Z
+  text: Under the Kalmar bridge
+  author: bergie
+  position:
+    longitude: 16.3966131
+    latitude: 56.6804278
+    source: GPS
+  heading: 43
+  course: 40
+  speed:
+    stw: 5.4
+    sog: 6
+  log: 480
+  barometer: 1011.45
+  wind:
+    speed: 15.5
+    direction: 193
+  engine:
+    hours: 539.5
+  vhf: "16"
+  crewNames:
+    - bergie
+    - ihmis-suski
+  category: navigation
+  observations:
+    cloudCoverage: 2
+    seaState: 2
+- datetime: 2023-04-29T13:00:35.500Z
+  text: ""
+  author: ""
+  position:
+    longitude: 16.4042906
+    latitude: 56.6832938
+    source: GPS
+  heading: 57
+  course: 58
+  speed:
+    stw: 5.6
+    sog: 5.7
+  log: 480.3
+  barometer: 1011.37
+  wind:
+    speed: 16.4
+    direction: 194
+  engine:
+    hours: 539.5
+  vhf: "16"
+  crewNames:
+    - bergie
+    - ihmis-suski
+  category: navigation
