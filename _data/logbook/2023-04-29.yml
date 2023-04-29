@@ -337,3 +337,61 @@
   crewNames:
     - bergie
     - ihmis-suski
+  category: navigation
+- datetime: 2023-04-29T08:34:37.100Z
+  text: Seal!
+  author: ihmis-suski
+  position:
+    longitude: 16.2007908
+    latitude: 56.4005818
+    source: GPS
+  heading: 26
+  course: 21
+  speed:
+    stw: 5.2
+    sog: 5.4
+  log: 461.9
+  waypoint:
+    longitude: 16.24983
+    latitude: 56.47899
+  barometer: 1014.68
+  wind:
+    speed: 1.5
+    direction: 13
+  engine:
+    hours: 538.1
+  vhf: "16"
+  crewNames:
+    - bergie
+    - ihmis-suski
+  category: navigation
+  observations:
+    seaState: 2
+    cloudCoverage: 4
+    visibility: 8
+- datetime: 2023-04-29T09:00:29.100Z
+  text: ""
+  author: ""
+  position:
+    longitude: 16.2284051
+    latitude: 56.4342784
+    source: GPS
+  heading: 27
+  course: 27
+  speed:
+    stw: 5.2
+    sog: 5.5
+  log: 464.1
+  waypoint:
+    longitude: 16.24983
+    latitude: 56.47899
+  barometer: 1014.6
+  wind:
+    speed: 1.5
+    direction: 17
+  engine:
+    hours: 538.5
+  vhf: "16"
+  crewNames:
+    - bergie
+    - ihmis-suski
