@@ -604,3 +604,28 @@
     - bergie
     - ihmis-suski
   category: navigation
+- datetime: 2023-04-30T18:23:17.900Z
+  text: "Stopped at SXK buoy Stora Vippholmen "
+  author: bergie
+  position:
+    longitude: 16.6987419
+    latitude: 57.5367178
+    source: GPS
+  heading: 310
+  course: 273
+  speed:
+    stw: 0
+    sog: 0
+  log: 543.5
+  barometer: 1018.63
+  wind:
+    speed: 3.5
+    direction: 178
+  engine:
+    hours: 541.3
+  vhf: "16"
+  crewNames:
+    - bergie
+    - ihmis-suski
+  end: true
+  category: navigation
