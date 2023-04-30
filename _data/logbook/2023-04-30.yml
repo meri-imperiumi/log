@@ -121,3 +121,58 @@
   crewNames:
     - bergie
     - ihmis-suski
+  category: navigation
+- datetime: 2023-04-30T08:01:51.600Z
+  text: Hydrogenerator in use
+  author: bergie
+  position:
+    longitude: 16.5311236
+    latitude: 56.8843841
+    source: GPS
+  heading: 49
+  course: 50
+  speed:
+    stw: 5.6
+    sog: 5.5
+  log: 501.1
+  barometer: 1017.69
+  wind:
+    speed: 15.2
+    direction: 313
+  engine:
+    hours: 540.8
+  vhf: "16"
+  crewNames:
+    - bergie
+    - ihmis-suski
+  category: navigation
+  observations:
+    seaState: 2
+    cloudCoverage: 0
+    visibility: 8
+- datetime: 2023-04-30T09:00:35.600Z
+  text: ""
+  author: ""
+  position:
+    longitude: 16.615686988830568
+    latitude: 56.96072769165039
+    source: GPS
+  heading: 25
+  course: 23
+  speed:
+    stw: 5.3
+    sog: 4.6
+  log: 506.5
+  waypoint:
+    longitude: 16.67389
+    latitude: 57.04507
+  barometer: 1018.06
+  wind:
+    speed: 14.3
+    direction: 301
+  engine:
+    hours: 540.8
+  vhf: "16"
+  crewNames:
+    - bergie
+    - ihmis-suski
