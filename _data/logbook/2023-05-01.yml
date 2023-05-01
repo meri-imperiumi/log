@@ -156,3 +156,80 @@
   crewNames:
     - bergie
     - ihmis-suski
+  category: navigation
+- datetime: 2023-05-01T09:40:43.500Z
+  text: "Deployed hydrogenerator "
+  author: bergie
+  position:
+    longitude: 16.7537441
+    latitude: 57.6132961
+    source: GPS
+  heading: 8
+  course: 7
+  speed:
+    stw: 5
+    sog: 5.2
+  log: 548.8
+  barometer: 1016.61
+  wind:
+    speed: 12.1
+    direction: 167
+  engine:
+    hours: 541.5
+  vhf: "16"
+  crewNames:
+    - bergie
+    - ihmis-suski
+  category: navigation
+  observations:
+    seaState: 2
+    cloudCoverage: 8
+    visibility: 7
+- datetime: 2023-05-01T09:43:43.500Z
+  text: The moment when you hear on channel 16 "many enemies in the area" with a
+    thick American accent
+  author: bergie
+  position:
+    longitude: 16.754507
+    latitude: 57.6174788
+    source: GPS
+  heading: 10
+  course: 4
+  speed:
+    stw: 5.2
+    sog: 5.2
+  log: 549.1
+  barometer: 1016.53
+  wind:
+    speed: 13.2
+    direction: 160
+  engine:
+    hours: 541.5
+  vhf: "16"
+  crewNames:
+    - bergie
+    - ihmis-suski
+  category: radio
+- datetime: 2023-05-01T10:00:38.499Z
+  text: ""
+  author: ""
+  position:
+    longitude: 16.7593073
+    latitude: 57.6403779
+    source: GPS
+  heading: 360
+  course: 355
+  speed:
+    stw: 5
+    sog: 4.9
+  log: 550.5
+  barometer: 1016.36
+  wind:
+    speed: 13.4
+    direction: 185
+  engine:
+    hours: 541.5
+  vhf: "16"
+  crewNames:
+    - bergie
+    - ihmis-suski
