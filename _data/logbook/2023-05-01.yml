@@ -1,0 +1,158 @@
+- datetime: 2023-05-01T08:12:04.499Z
+  text: Oile level at half stick. Water under the engine tray (about 2 liters)
+  author: ihmis-suski
+  position:
+    longitude: 16.6986786
+    latitude: 57.5368426
+    source: GPS
+  heading: 218
+  course: 148
+  speed:
+    stw: 0
+    sog: 0
+  log: 543.5
+  waypoint:
+    longitude: 16.69924
+    latitude: 57.53686
+  barometer: 1017.57
+  wind:
+    speed: 5.6
+    direction: 210
+  engine:
+    hours: 541.3
+  vhf: "16"
+  crewNames:
+    - bergie
+    - ihmis-suski
+  category: engine
+- datetime: 2023-05-01T08:13:03.500Z
+  text: Started main engine
+  author: ""
+  position:
+    longitude: 16.6986493
+    latitude: 57.5368516
+    source: GPS
+  heading: 181
+  course: 148
+  speed:
+    stw: 0
+    sog: 0
+  log: 543.5
+  waypoint:
+    longitude: 16.69924
+    latitude: 57.53686
+  barometer: 1017.52
+  wind:
+    speed: 6.4
+    direction: 215
+  engine:
+    hours: 541.3
+  vhf: "16"
+  crewNames:
+    - bergie
+    - ihmis-suski
+  category: navigation
+- datetime: 2023-05-01T08:22:18.499Z
+  text: Stopped main engine
+  author: ""
+  position:
+    longitude: 16.7062025
+    latitude: 57.5395903
+    source: GPS
+  heading: 347
+  course: 344
+  speed:
+    stw: 2.8
+    sog: 2.7
+  log: 543.5
+  waypoint:
+    longitude: 16.70546
+    latitude: 57.53956
+  barometer: 1017.54
+  wind:
+    speed: 9.2
+    direction: 263
+  engine:
+    hours: 541.5
+  vhf: "16"
+  crewNames:
+    - bergie
+    - ihmis-suski
+  category: navigation
+- datetime: 2023-05-01T08:24:10.499Z
+  text: Sailing with Main, Genoa 1
+  author: ""
+  position:
+    longitude: 16.7046326
+    latitude: 57.5412235
+    source: GPS
+  heading: 332
+  course: 328
+  speed:
+    stw: 4.2
+    sog: 4
+  log: 543.5
+  waypoint:
+    longitude: 16.70404
+    latitude: 57.54132
+  barometer: 1017.56
+  wind:
+    speed: 9.9
+    direction: 226
+  engine:
+    hours: 541.5
+  vhf: "16"
+  crewNames:
+    - bergie
+    - ihmis-suski
+  category: navigation
+- datetime: 2023-05-01T08:28:09.500Z
+  text: Autopilot activated
+  author: ""
+  position:
+    longitude: 16.7011039
+    latitude: 57.5436223
+    source: GPS
+  heading: 325
+  course: 318
+  speed:
+    stw: 2.5
+    sog: 2.4
+  log: 543.7
+  waypoint:
+    longitude: 16.70089
+    latitude: 57.54353
+  barometer: 1017.49
+  wind:
+    speed: 6.3
+    direction: 208
+  engine:
+    hours: 541.5
+  vhf: "16"
+  crewNames:
+    - bergie
+    - ihmis-suski
+  category: navigation
+- datetime: 2023-05-01T09:00:53.500Z
+  text: ""
+  author: ""
+  position:
+    longitude: 16.6974286
+    latitude: 57.5697195
+    source: GPS
+  heading: 33
+  course: 31
+  speed:
+    stw: 4.1
+    sog: 4
+  log: 545.5
+  barometer: 1017.17
+  wind:
+    speed: 8.3
+    direction: 215
+  engine:
+    hours: 541.5
+  vhf: "16"
+  crewNames:
+    - bergie
+    - ihmis-suski
