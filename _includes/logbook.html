@@ -27,6 +27,7 @@
   {% endif %}
 {% endfor %}
 {% if log_entries %}
+  {% if log_entries.size > 0 %}
   {% assign log_entries = log_entries | sort: 'datetime' %}
   <hr>
   <h2>From the logbook</h2>
@@ -95,5 +96,6 @@
     </tr>
     {% endfor %}
   </table>
+  {% endif %}
 {% endif %}
 {% endif %}
