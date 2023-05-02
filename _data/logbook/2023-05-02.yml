@@ -21,6 +21,26 @@
     - bergie
     - ihmis-suski
   category: navigation
+- datetime: 2023-05-02T09:28:00.099Z
+  text: Stopped watermaker, coast guard came to control us and their propeller
+    kicked up too much silt
+  author: bergie
+  position:
+    longitude: 16.8185789
+    latitude: 58.1161518
+    source: GPS
+  heading: 255
+  course: 14
+  speed:
+    stw: 0
+    sog: 0
+  log: 582.2
+  engine:
+    hours: 541.7
+  crewNames:
+    - bergie
+    - ihmis-suski
+  category: navigation
 - datetime: 2023-05-02T10:03:50.099Z
   text: Started main engine
   author: ""
@@ -67,3 +87,30 @@
     - bergie
     - ihmis-suski
   category: navigation
+- datetime: 2023-05-02T10:18:42.099Z
+  text: Stopped at the SXK pier here so we can grill in the evening
+  author: bergie
+  position:
+    longitude: 16.8166726
+    latitude: 58.1158486
+    source: GPS
+  heading: 216
+  course: 173
+  speed:
+    stw: 0
+    sog: 0
+  log: 582.4
+  barometer: 1015.01
+  wind:
+    speed: 10.2
+    direction: 339
+  engine:
+    hours: 541.9
+  crewNames:
+    - bergie
+    - ihmis-suski
+  end: true
+  category: navigation
+  observations:
+    cloudCoverage: 3
+    seaState: 1
