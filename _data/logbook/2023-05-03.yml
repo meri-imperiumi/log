@@ -27,3 +27,29 @@
   observations:
     seaState: 1
     cloudCoverage: 1
+- datetime: 2023-05-03T10:09:06.700Z
+  text: Stopped watermaker. First jug full.
+  author: bergie
+  position:
+    longitude: 16.8165641
+    latitude: 58.1158454
+    source: GPS
+  heading: 211
+  course: 18
+  speed:
+    stw: 0
+    sog: 0
+  log: 582.4
+  waypoint:
+    longitude: 16.81578
+    latitude: 58.11619
+  barometer: 1024.16
+  wind:
+    speed: 6.8
+    direction: 345
+  engine:
+    hours: 541.9
+  crewNames:
+    - bergie
+    - ihmis-suski
+  category: navigation
