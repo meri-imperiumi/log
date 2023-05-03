@@ -216,8 +216,8 @@
     - ihmis-suski
   category: navigation
 - datetime: 2023-05-03T12:16:31.699Z
-  text: Autopilot deactivated
-  author: ""
+  text: "Autopilot deactivated. Ridiculously narrow fairway "
+  author: bergie
   position:
     longitude: 16.8454328
     latitude: 58.1263084
@@ -311,6 +311,30 @@
   wind:
     speed: 4.9
     direction: 145
+  engine:
+    hours: 542.1
+  vhf: "16"
+  crewNames:
+    - bergie
+    - ihmis-suski
+  category: navigation
+- datetime: 2023-05-03T15:00:48.697Z
+  text: ""
+  author: ""
+  position:
+    longitude: 16.8984375
+    latitude: 58.2343986
+    source: GPS
+  heading: 10
+  course: 7
+  speed:
+    stw: 4
+    sog: 3.7
+  log: 591
+  barometer: 1025.4
+  wind:
+    speed: 9.9
+    direction: 171
   engine:
     hours: 542.1
   vhf: "16"
