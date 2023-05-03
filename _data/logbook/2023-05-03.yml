@@ -268,7 +268,7 @@
   category: navigation
 - datetime: 2023-05-03T13:00:21.699Z
   text: ""
-  author: ""
+  author: bergie
   position:
     longitude: 16.8549131
     latitude: 58.1488796
@@ -283,6 +283,34 @@
   wind:
     speed: 7.1
     direction: 130
+  engine:
+    hours: 542.1
+  vhf: "16"
+  crewNames:
+    - bergie
+    - ihmis-suski
+  category: navigation
+  observations:
+    seaState: 2
+    cloudCoverage: 6
+    visibility: 8
+- datetime: 2023-05-03T14:00:05.699Z
+  text: ""
+  author: ""
+  position:
+    longitude: 16.8687023
+    latitude: 58.1933993
+    source: GPS
+  heading: 3
+  course: 4
+  speed:
+    stw: 2.3
+    sog: 1.9
+  log: 588.1
+  barometer: 1025.28
+  wind:
+    speed: 4.9
+    direction: 145
   engine:
     hours: 542.1
   vhf: "16"
