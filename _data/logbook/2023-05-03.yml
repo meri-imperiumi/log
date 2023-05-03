@@ -1,0 +1,29 @@
+- datetime: 2023-05-03T08:59:27.299Z
+  text: Started water maker
+  author: bergie
+  position:
+    longitude: 16.8165848
+    latitude: 58.1158698
+    source: GPS
+  heading: 213
+  course: 186
+  speed:
+    stw: 0
+    sog: 0
+  log: 582.4
+  waypoint:
+    longitude: 16.81578
+    latitude: 58.11619
+  barometer: 1023.84
+  wind:
+    speed: 4.6
+    direction: 308
+  engine:
+    hours: 541.9
+  crewNames:
+    - bergie
+    - ihmis-suski
+  category: navigation
+  observations:
+    seaState: 1
+    cloudCoverage: 1
