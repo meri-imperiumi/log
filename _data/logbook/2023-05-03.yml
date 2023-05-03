@@ -187,3 +187,105 @@
   crewNames:
     - bergie
     - ihmis-suski
+  category: navigation
+- datetime: 2023-05-03T12:12:25.699Z
+  text: "Sails set: Main, Genoa 1"
+  author: ""
+  position:
+    longitude: 16.8423291
+    latitude: 58.1214311
+    source: GPS
+  heading: 23
+  course: 20
+  speed:
+    stw: 4.6
+    sog: 4.5
+  log: 583.4
+  waypoint:
+    longitude: 16.8444
+    latitude: 58.12127
+  barometer: 1024.82
+  wind:
+    speed: 10.5
+    direction: 154
+  engine:
+    hours: 542.1
+  vhf: "16"
+  crewNames:
+    - bergie
+    - ihmis-suski
+  category: navigation
+- datetime: 2023-05-03T12:16:31.699Z
+  text: Autopilot deactivated
+  author: ""
+  position:
+    longitude: 16.8454328
+    latitude: 58.1263084
+    source: GPS
+  heading: 17
+  course: 13
+  speed:
+    stw: 4.4
+    sog: 4.2
+  log: 583.7
+  waypoint:
+    longitude: 16.85319
+    latitude: 58.12322
+  barometer: 1024.93
+  wind:
+    speed: 8
+    direction: 146
+  engine:
+    hours: 542.1
+  vhf: "16"
+  crewNames:
+    - bergie
+    - ihmis-suski
+  category: navigation
+- datetime: 2023-05-03T12:34:29.699Z
+  text: Autopilot activated
+  author: ""
+  position:
+    longitude: 16.8495278
+    latitude: 58.1332605
+    source: GPS
+  heading: 18
+  course: 16
+  speed:
+    stw: 1.3
+    sog: 1.3
+  log: 584.2
+  barometer: 1025.06
+  wind:
+    speed: 4.2
+    direction: 120
+  engine:
+    hours: 542.1
+  vhf: "16"
+  crewNames:
+    - bergie
+    - ihmis-suski
+  category: navigation
+- datetime: 2023-05-03T13:00:21.699Z
+  text: ""
+  author: ""
+  position:
+    longitude: 16.8549131
+    latitude: 58.1488796
+    source: GPS
+  heading: 12
+  course: 9
+  speed:
+    stw: 3
+    sog: 2.9
+  log: 585.1
+  barometer: 1025.14
+  wind:
+    speed: 7.1
+    direction: 130
+  engine:
+    hours: 542.1
+  vhf: "16"
+  crewNames:
+    - bergie
+    - ihmis-suski
