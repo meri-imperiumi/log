@@ -246,3 +246,86 @@
   crewNames:
     - bergie
     - ihmis-suski
+  category: navigation
+- datetime: 2023-05-04T17:37:58.297Z
+  text: Sails down, motoring
+  author: ""
+  position:
+    longitude: 16.9493761
+    latitude: 58.4897433
+    source: GPS
+  heading: 327
+  course: 322
+  speed:
+    stw: 2.7
+    sog: 2.9
+  log: 609
+  waypoint:
+    longitude: 16.94726
+    latitude: 58.49104
+  barometer: 1031.63
+  wind:
+    speed: 7.7
+    direction: 129
+  engine:
+    hours: 542.8
+  vhf: "16"
+  crewNames:
+    - bergie
+    - ihmis-suski
+  category: navigation
+- datetime: 2023-05-04T17:46:43.302Z
+  text: Motor stopped
+  author: bergie
+  position:
+    longitude: 16.940537
+    latitude: 58.4935941
+    source: GPS
+  heading: 104
+  course: 69
+  speed:
+    stw: 0
+    sog: 0.3
+  log: 609.4
+  waypoint:
+    longitude: 16.94025
+    latitude: 58.49289
+  barometer: 1031.87
+  wind:
+    speed: 9.7
+    direction: 113
+  engine:
+    hours: 542.9
+  vhf: "16"
+  crewNames:
+    - bergie
+    - ihmis-suski
+  category: navigation
+- datetime: 2023-05-04T17:53:50.297Z
+  text: "Stopped at Arkösund SXK buoy "
+  author: bergie
+  position:
+    longitude: 16.9405724
+    latitude: 58.4936121
+    source: GPS
+  heading: 149
+  course: 143
+  speed:
+    stw: 0
+    sog: 0
+  log: 609.4
+  waypoint:
+    longitude: 16.94025
+    latitude: 58.49289
+  barometer: 1031.89
+  wind:
+    speed: 8.8
+    direction: 112
+  engine:
+    hours: 542.9
+  vhf: "16"
+  crewNames:
+    - bergie
+    - ihmis-suski
+  end: true
+  category: navigation
