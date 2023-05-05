@@ -330,3 +330,106 @@
     - bergie
     - ihmis-suski
   category: navigation
+- datetime: 2023-05-05T13:21:03.801Z
+  text: Stop water maker
+  author: ihmis-suski
+  position:
+    longitude: 17.37344
+    latitude: 58.723045
+    source: GPS
+  heading: 342
+  course: 338
+  speed:
+    stw: 3.6
+    sog: 3.3
+  log: 631.1
+  waypoint:
+    longitude: 17.36781
+    latitude: 58.7307
+  barometer: 1034.31
+  wind:
+    speed: 7.6
+    direction: 168
+  engine:
+    hours: 543.3
+  vhf: "16"
+  crewNames:
+    - bergie
+    - ihmis-suski
+  category: maintenance
+- datetime: 2023-05-05T13:37:43.801Z
+  text: Sails down, motoring
+  author: ""
+  position:
+    longitude: 17.3722015
+    latitude: 58.7380803
+    source: GPS
+  heading: 54
+  course: 40
+  speed:
+    stw: 3.6
+    sog: 3.5
+  log: 632.1
+  waypoint:
+    longitude: 17.37219
+    latitude: 58.73954
+  barometer: 1034.18
+  wind:
+    speed: 8.8
+    direction: 135
+  engine:
+    hours: 543.3
+  vhf: "16"
+  crewNames:
+    - bergie
+    - ihmis-suski
+  category: navigation
+- datetime: 2023-05-05T13:48:35.801Z
+  text: Stopped
+  author: ""
+  position:
+    longitude: 17.3765263
+    latitude: 58.7439623
+    source: GPS
+  heading: 87
+  course: 98
+  speed:
+    stw: 0
+    sog: 0
+  log: 632.6
+  barometer: 1034.22
+  wind:
+    speed: 3.4
+    direction: 180
+  engine:
+    hours: 543.4
+  vhf: "16"
+  crewNames:
+    - bergie
+    - ihmis-suski
+  end: true
+  category: navigation
+- datetime: 2023-05-05T13:49:57.798Z
+  text: "Started watermaker "
+  author: bergie
+  position:
+    longitude: 17.3764456
+    latitude: 58.74398
+    source: GPS
+  heading: 129
+  course: 283
+  speed:
+    stw: 0
+    sog: 0
+  log: 632.6
+  barometer: 1034.2
+  wind:
+    speed: 2.9
+    direction: 187
+  engine:
+    hours: 543.4
+  vhf: "16"
+  crewNames:
+    - bergie
+    - ihmis-suski
+  category: maintenance
