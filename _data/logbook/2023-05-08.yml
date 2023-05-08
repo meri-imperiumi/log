@@ -1,0 +1,135 @@
+- datetime: 2023-05-08T11:59:20.899Z
+  text: Started main engine
+  author: ""
+  position:
+    longitude: 17.3931055
+    latitude: 58.7429706
+    source: GPS
+  heading: 213
+  course: 56
+  speed:
+    stw: 0
+    sog: 0
+  log: 633.6
+  waypoint:
+    longitude: 17.39427
+    latitude: 58.74131
+  barometer: 1031.52
+  wind:
+    speed: 3.5
+    direction: 204
+  engine:
+    hours: 543.9
+  vhf: "16"
+  crewNames:
+    - bergie
+    - ihmis-suski
+  category: navigation
+- datetime: 2023-05-08T12:04:00.899Z
+  text: Motoring
+  author: ""
+  position:
+    longitude: 17.3947305
+    latitude: 58.7420986
+    source: GPS
+  heading: 56
+  course: 61
+  speed:
+    stw: 3
+    sog: 3.1
+  log: 633.6
+  waypoint:
+    longitude: 17.39593
+    latitude: 58.74299
+  barometer: 1031.39
+  wind:
+    speed: 12.4
+    direction: 189
+  engine:
+    hours: 543.9
+  vhf: "16"
+  crewNames:
+    - bergie
+    - ihmis-suski
+  category: navigation
+- datetime: 2023-05-08T12:10:23.900Z
+  text: Motor stopped, sailing with Main
+  author: ""
+  position:
+    longitude: 17.4023268
+    latitude: 58.7457736
+    source: GPS
+  heading: 93
+  course: 87
+  speed:
+    stw: 2.4
+    sog: 2.5
+  log: 634
+  waypoint:
+    longitude: 17.41402
+    latitude: 58.74765
+  barometer: 1031.35
+  wind:
+    speed: 13
+    direction: 197
+  engine:
+    hours: 544
+  vhf: "16"
+  crewNames:
+    - bergie
+    - ihmis-suski
+  category: navigation
+- datetime: 2023-05-08T12:10:35.900Z
+  text: Autopilot activated
+  author: ""
+  position:
+    longitude: 17.4026048
+    latitude: 58.7457661
+    source: GPS
+  heading: 95
+  course: 92
+  speed:
+    stw: 2.7
+    sog: 2.5
+  log: 634.1
+  waypoint:
+    longitude: 17.41402
+    latitude: 58.74765
+  barometer: 1031.34
+  wind:
+    speed: 5.9
+    direction: 184
+  engine:
+    hours: 544
+  vhf: "16"
+  crewNames:
+    - bergie
+    - ihmis-suski
+  category: navigation
+- datetime: 2023-05-08T12:21:50.899Z
+  text: "Sails set: Main, Genoa 1"
+  author: ""
+  position:
+    longitude: 17.4166568
+    latitude: 58.754253
+    source: GPS
+  heading: 35
+  course: 35
+  speed:
+    stw: 3.7
+    sog: 3.8
+  log: 634.8
+  waypoint:
+    longitude: 17.42667
+    latitude: 58.76115
+  barometer: 1031.42
+  wind:
+    speed: 10.9
+    direction: 193
+  engine:
+    hours: 544
+  vhf: "16"
+  crewNames:
+    - bergie
+    - ihmis-suski
+  category: navigation
