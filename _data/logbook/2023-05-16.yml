@@ -380,7 +380,7 @@
     cloudCoverage: 8
     visibility: 5
 - datetime: 2023-05-16T11:00:30.099Z
-  text: ""
+  text: "It is getting a bit foggy. Wind decreasing "
   author: bergie
   position:
     longitude: 18.2088164
@@ -410,3 +410,172 @@
     seaState: 2
     cloudCoverage: 8
     visibility: 4
+- datetime: 2023-05-16T11:16:34.099Z
+  text: Autopilot deactivated
+  author: ""
+  position:
+    longitude: 18.2254098
+    latitude: 58.9652836
+    source: GPS
+  heading: 81
+  course: 95
+  speed:
+    stw: 1.6
+    sog: 1.7
+  log: 670.5
+  waypoint:
+    longitude: 18.27164
+    latitude: 58.97891
+  barometer: 1005.12
+  wind:
+    speed: 4.3
+    direction: 21
+  engine:
+    hours: 545.4
+  vhf: "16"
+  crewNames:
+    - bergie
+    - ihmis-suski
+  category: navigation
+- datetime: 2023-05-16T11:18:41.100Z
+  text: Autopilot activated
+  author: ""
+  position:
+    longitude: 18.2250446
+    latitude: 58.9654753
+    source: GPS
+  heading: 332
+  course: 294
+  speed:
+    stw: 0.9
+    sog: 1
+  log: 670.5
+  waypoint:
+    longitude: 18.27164
+    latitude: 58.97891
+  barometer: 1005.12
+  wind:
+    speed: 2.5
+    direction: 38
+  engine:
+    hours: 545.4
+  vhf: "16"
+  crewNames:
+    - bergie
+    - ihmis-suski
+  category: navigation
+- datetime: 2023-05-16T11:25:24.099Z
+  text: "Stowed hydrogenerator "
+  author: bergie
+  position:
+    longitude: 18.2219718
+    latitude: 58.9679199
+    source: GPS
+  heading: 355
+  course: 342
+  speed:
+    stw: 2.1
+    sog: 1.9
+  log: 670.7
+  waypoint:
+    longitude: 18.27164
+    latitude: 58.97891
+  barometer: 1005.1
+  wind:
+    speed: 2.9
+    direction: 57
+  engine:
+    hours: 545.4
+  vhf: "16"
+  crewNames:
+    - bergie
+    - ihmis-suski
+  category: navigation
+  observations:
+    seaState: 1
+    cloudCoverage: 8
+    visibility: 4
+- datetime: 2023-05-16T11:39:20.099Z
+  text: Stopped watermaker. 39ppm
+  author: bergie
+  position:
+    longitude: 18.2212296
+    latitude: 58.9732765
+    source: GPS
+  heading: 12
+  course: 332
+  speed:
+    stw: 0.1
+    sog: 0.4
+  log: 671.1
+  waypoint:
+    longitude: 18.27164
+    latitude: 58.97891
+  barometer: 1005.23
+  wind:
+    speed: 1.7
+    direction: 7
+  engine:
+    hours: 545.4
+  vhf: "16"
+  crewNames:
+    - bergie
+    - ihmis-suski
+  category: maintenance
+- datetime: 2023-05-16T11:40:20.099Z
+  text: "Motoring "
+  author: bergie
+  position:
+    longitude: 18.2213888
+    latitude: 58.9740143
+    source: GPS
+  heading: 16
+  course: 11
+  speed:
+    stw: 3.8
+    sog: 3.6
+  log: 671.1
+  waypoint:
+    longitude: 18.27164
+    latitude: 58.97891
+  barometer: 1005.24
+  wind:
+    speed: 1.4
+    direction: 9
+  engine:
+    hours: 545.4
+  vhf: "16"
+  crewNames:
+    - bergie
+    - ihmis-suski
+  category: navigation
+  observations:
+    seaState: 1
+    cloudCoverage: 7
+    visibility: 5
+- datetime: 2023-05-16T12:00:14.099Z
+  text: ""
+  author: ""
+  position:
+    longitude: 18.2430031
+    latitude: 58.9985816
+    source: GPS
+  heading: 48
+  course: 47
+  speed:
+    stw: 5.2
+    sog: 5.1
+  log: 672.8
+  waypoint:
+    longitude: 18.29005
+    latitude: 59.01369
+  barometer: 1005.2
+  wind:
+    speed: 0.6
+    direction: 244
+  engine:
+    hours: 545.8
+  vhf: "16"
+  crewNames:
+    - bergie
+    - ihmis-suski
