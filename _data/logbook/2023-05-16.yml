@@ -77,3 +77,166 @@
     - ihmis-suski
   end: true
   category: navigation
+- datetime: 2023-05-16T07:19:41.100Z
+  text: Filled up 54l diesel + 10l to jerrycan
+  author: bergie
+  position:
+    longitude: 17.9542985
+    latitude: 58.9010964
+    source: GPS
+  heading: 302
+  course: 293
+  speed:
+    stw: 0
+    sog: 0
+  log: 658.6
+  waypoint:
+    longitude: 17.95794
+    latitude: 58.90162
+  barometer: 1006.28
+  wind:
+    speed: 8.9
+    direction: 61
+  engine:
+    hours: 544.7
+  crewNames:
+    - bergie
+    - ihmis-suski
+  category: engine
+- datetime: 2023-05-16T07:22:20.099Z
+  text: Started main engine
+  author: ""
+  position:
+    longitude: 17.9542818
+    latitude: 58.9011
+    source: GPS
+  heading: 300
+  course: 293
+  speed:
+    stw: 0
+    sog: 0
+  log: 658.6
+  waypoint:
+    longitude: 17.95794
+    latitude: 58.90162
+  barometer: 1006.26
+  wind:
+    speed: 8.5
+    direction: 55
+  engine:
+    hours: 544.7
+  crewNames:
+    - bergie
+    - ihmis-suski
+  category: navigation
+- datetime: 2023-05-16T07:28:40.099Z
+  text: Motoring
+  author: ""
+  position:
+    longitude: 17.9570188
+    latitude: 58.8996698
+    source: GPS
+  heading: 145
+  course: 153
+  speed:
+    stw: 3.9
+    sog: 3.8
+  log: 658.6
+  waypoint:
+    longitude: 17.95794
+    latitude: 58.90162
+  barometer: 1006.32
+  wind:
+    speed: 8.8
+    direction: 52
+  engine:
+    hours: 544.8
+  crewNames:
+    - bergie
+    - ihmis-suski
+  category: navigation
+- datetime: 2023-05-16T08:00:29.100Z
+  text: ""
+  author: ""
+  position:
+    longitude: 17.9928281
+    latitude: 58.9214063
+    source: GPS
+  heading: 78
+  course: 71
+  speed:
+    stw: 3.8
+    sog: 3.4
+  log: 660.4
+  waypoint:
+    longitude: 18.05286
+    latitude: 58.91947
+  barometer: 1006.03
+  wind:
+    speed: 7.5
+    direction: 59
+  engine:
+    hours: 545.4
+  vhf: "16"
+  crewNames:
+    - bergie
+    - ihmis-suski
+  category: navigation
+- datetime: 2023-05-16T08:03:50.099Z
+  text: Motor stopped, sailing with Main, Genoa 1
+  author: bergie
+  position:
+    longitude: 17.9976296
+    latitude: 58.9211844
+    source: GPS
+  heading: 92
+  course: 102
+  speed:
+    stw: 3.5
+    sog: 3.4
+  log: 660.6
+  waypoint:
+    longitude: 18.05286
+    latitude: 58.91947
+  barometer: 1006.06
+  wind:
+    speed: 8.8
+    direction: 46
+  engine:
+    hours: 545.4
+  vhf: "16"
+  crewNames:
+    - bergie
+    - ihmis-suski
+  category: navigation
+  observations:
+    seaState: 2
+    cloudCoverage: 8
+    visibility: 5
+- datetime: 2023-05-16T08:10:27.100Z
+  text: "Started watermaker and deployed hydrogenerator "
+  author: bergie
+  position:
+    longitude: 18.0122556
+    latitude: 58.919651
+    source: GPS
+  heading: 91
+  course: 91
+  speed:
+    stw: 4.5
+    sog: 3.9
+  log: 661
+  waypoint:
+    longitude: 18.05286
+    latitude: 58.91947
+  barometer: 1006.09
+  wind:
+    speed: 8.1
+    direction: 33
+  engine:
+    hours: 545.4
+  vhf: "16"
+  crewNames:
+    - bergie
+    - ihmis-suski
+  category: maintenance
