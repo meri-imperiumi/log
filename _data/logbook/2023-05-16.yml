@@ -51,8 +51,8 @@
     - ihmis-suski
   category: navigation
 - datetime: 2023-05-16T07:08:58.099Z
-  text: Stopped
-  author: ""
+  text: "Stopped, Nynäshamn gas station "
+  author: bergie
   position:
     longitude: 17.9543294
     latitude: 58.9010948
@@ -240,3 +240,29 @@
     - bergie
     - ihmis-suski
   category: maintenance
+- datetime: 2023-05-16T09:00:14.099Z
+  text: ""
+  author: ""
+  position:
+    longitude: 18.1025433
+    latitude: 58.9189128
+    source: GPS
+  heading: 72
+  course: 75
+  speed:
+    stw: 3.9
+    sog: 3.6
+  log: 663.9
+  waypoint:
+    longitude: 18.11308
+    latitude: 58.92564
+  barometer: 1005.84
+  wind:
+    speed: 8.9
+    direction: 31
+  engine:
+    hours: 545.4
+  vhf: "16"
+  crewNames:
+    - bergie
+    - ihmis-suski
