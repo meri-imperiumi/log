@@ -91,3 +91,102 @@
     - bergie
     - ihmis-suski
   category: navigation
+- datetime: 2023-05-17T07:09:01.699Z
+  text: Started main engine
+  author: ""
+  position:
+    longitude: 18.7117866
+    latitude: 59.2026581
+    source: GPS
+  heading: 216
+  course: 347
+  speed:
+    stw: 0
+    sog: 0
+  log: 694.1
+  waypoint:
+    longitude: 18.71211
+    latitude: 59.20277
+  barometer: 1004.95
+  wind:
+    speed: 9
+    direction: 214
+  engine:
+    hours: 548.6
+  crewNames:
+    - bergie
+    - ihmis-suski
+  category: navigation
+- datetime: 2023-05-17T07:13:40.899Z
+  text: Anchor up, motoring
+  author: ""
+  position:
+    longitude: 18.7116873
+    latitude: 59.202657
+    source: GPS
+  heading: 228
+  course: 326
+  speed:
+    sog: 0
+  log: 369.2
+  barometer: 1005
+  wind:
+    speed: 10
+    direction: 231
+  engine:
+    hours: 548.7
+  crewNames:
+    - bergie
+    - ihmis-suski
+  category: navigation
+- datetime: 2023-05-17T07:28:25.900Z
+  text: Autopilot activated
+  author: ""
+  position:
+    longitude: 18.7120066
+    latitude: 59.2145396
+    source: GPS
+  heading: 342
+  course: 338
+  speed:
+    stw: 4.9
+    sog: 4.7
+  log: 695
+  waypoint:
+    longitude: 18.71088
+    latitude: 59.21541
+  barometer: 1005.46
+  wind:
+    speed: 14
+    direction: 221
+  engine:
+    hours: 548.9
+  crewNames:
+    - bergie
+    - ihmis-suski
+  category: navigation
+- datetime: 2023-05-17T08:00:39.900Z
+  text: ""
+  author: ""
+  position:
+    longitude: 18.7010498046875
+    latitude: 59.25817000071208
+    source: GPS
+  heading: 27
+  course: 28
+  speed:
+    stw: 5.5
+    sog: 5.3
+  log: 697.9
+  waypoint:
+    longitude: 18.71931
+    latitude: 59.27366
+  barometer: 1005.6
+  wind:
+    speed: 20.4
+    direction: 197
+  engine:
+    hours: 549.4
+  crewNames:
+    - bergie
+    - ihmis-suski
