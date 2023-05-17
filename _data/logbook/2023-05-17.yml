@@ -1,0 +1,93 @@
+- datetime: 2023-05-17T05:19:13.699Z
+  text: Started main engine. We’re getting too close to shore.
+  author: bergie
+  position:
+    longitude: 18.7112216
+    latitude: 59.2028663
+    source: GPS
+  heading: 289
+  course: 298
+  speed:
+    stw: 0
+    sog: 0
+  log: 694.1
+  barometer: 1004.29
+  wind:
+    speed: 11.8
+    direction: 238
+  engine:
+    hours: 548.3
+  crewNames:
+    - bergie
+    - ihmis-suski
+  category: navigation
+- datetime: 2023-05-17T05:31:43.699Z
+  text: Motoring
+  author: ""
+  position:
+    longitude: 18.7113313
+    latitude: 59.2024641
+    source: GPS
+  heading: 106
+  course: 235
+  speed:
+    stw: 0
+    sog: 0
+  log: 694.1
+  barometer: 1004.27
+  wind:
+    speed: 10.6
+    direction: 239
+  engine:
+    hours: 548.5
+  crewNames:
+    - bergie
+    - ihmis-suski
+  category: navigation
+- datetime: 2023-05-17T05:34:46.700Z
+  text: Anchored
+  author: ""
+  position:
+    longitude: 18.7116721
+    latitude: 59.2026416
+    source: GPS
+  heading: 216
+  course: 337
+  speed:
+    stw: 0
+    sog: 0
+  log: 694.1
+  barometer: 1004.37
+  wind:
+    speed: 15.7
+    direction: 244
+  engine:
+    hours: 548.6
+  crewNames:
+    - bergie
+    - ihmis-suski
+  end: true
+  category: navigation
+- datetime: 2023-05-17T05:36:07.699Z
+  text: Stopped main engine
+  author: ""
+  position:
+    longitude: 18.7117326
+    latitude: 59.2026093
+    source: GPS
+  heading: 257
+  course: 49
+  speed:
+    stw: 0
+    sog: 0
+  log: 694.1
+  barometer: 1004.44
+  wind:
+    speed: 10
+    direction: 229
+  engine:
+    hours: 548.6
+  crewNames:
+    - bergie
+    - ihmis-suski
+  category: navigation
