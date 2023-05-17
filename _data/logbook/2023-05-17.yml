@@ -190,3 +190,57 @@
   crewNames:
     - bergie
     - ihmis-suski
+  category: navigation
+- datetime: 2023-05-17T08:08:06.899Z
+  text: Autopilot deactivated
+  author: ""
+  position:
+    longitude: 18.7133715
+    latitude: 59.2686498
+    source: GPS
+  heading: 25
+  course: 23
+  speed:
+    stw: 5.7
+    sog: 6.2
+  log: 698.6
+  waypoint:
+    longitude: 18.71931
+    latitude: 59.27366
+  barometer: 1005.75
+  wind:
+    speed: 17.8
+    direction: 208
+  engine:
+    hours: 549.6
+  crewNames:
+    - bergie
+    - ihmis-suski
+  category: navigation
+- datetime: 2023-05-17T08:24:20.899Z
+  text: Moored at SXK Runmarö
+  author: bergie
+  position:
+    longitude: 18.7275995
+    latitude: 59.2728881
+    source: GPS
+  heading: 214
+  course: 164
+  speed:
+    stw: 0
+    sog: 0
+  log: 699.5
+  waypoint:
+    longitude: 18.72666
+    latitude: 59.2725
+  barometer: 1006.01
+  wind:
+    speed: 9
+    direction: 218
+  engine:
+    hours: 549.8
+  crewNames:
+    - bergie
+    - ihmis-suski
+  end: true
+  category: navigation
