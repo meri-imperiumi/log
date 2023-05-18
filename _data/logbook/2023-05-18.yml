@@ -391,3 +391,61 @@
   crewNames:
     - bergie
     - ihmis-suski
+  category: navigation
+- datetime: 2023-05-18T15:55:29.996Z
+  text: Entered the main Stockholm shipping channel
+  author: bergie
+  position:
+    longitude: 19.1764843
+    latitude: 59.7235045
+    source: GPS
+  heading: 55
+  course: 55
+  speed:
+    stw: 5.8
+    sog: 5.9
+  log: 731.1
+  waypoint:
+    longitude: 19.17869
+    latitude: 59.72461
+  barometer: 1028.65
+  wind:
+    speed: 15.3
+    direction: 141
+  engine:
+    hours: 550.1
+  vhf: "16"
+  crewNames:
+    - bergie
+    - ihmis-suski
+  category: navigation
+  observations:
+    seaState: 2
+    cloudCoverage: 0
+    visibility: 8
+- datetime: 2023-05-18T16:00:28.998Z
+  text: ""
+  author: ""
+  position:
+    longitude: 19.1899228
+    latitude: 59.7277681
+    source: GPS
+  heading: 62
+  course: 61
+  speed:
+    stw: 5.8
+    sog: 5.8
+  log: 731.6
+  waypoint:
+    longitude: 19.21709
+    latitude: 59.73827
+  barometer: 1028.65
+  wind:
+    speed: 14.4
+    direction: 142
+  engine:
+    hours: 550.1
+  vhf: "16"
+  crewNames:
+    - bergie
+    - ihmis-suski
