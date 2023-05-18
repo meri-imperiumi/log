@@ -760,3 +760,62 @@
   crewNames:
     - bergie
     - ihmis-suski
+  category: navigation
+- datetime: 2023-05-18T22:47:56.198Z
+  text: Not properly dark. The sun is hiding just below the horizon providing a
+    little bit of light.
+  author: ihmis-suski
+  position:
+    longitude: 19.0480575
+    latitude: 60.081105
+    source: GPS
+  heading: 336
+  course: 331
+  speed:
+    stw: 3.4
+    sog: 3.3
+  log: 756.8
+  waypoint:
+    longitude: 19.0284
+    latitude: 60.09929
+  barometer: 1030.01
+  wind:
+    speed: 9.5
+    direction: 191
+  engine:
+    hours: 550.1
+  vhf: "16"
+  crewNames:
+    - bergie
+    - ihmis-suski
+  category: navigation
+  observations:
+    seaState: 2
+    cloudCoverage: 0
+    visibility: 7
+- datetime: 2023-05-18T23:00:53.196Z
+  text: ""
+  author: ""
+  position:
+    longitude: 19.0379269
+    latitude: 60.091007
+    source: GPS
+  heading: 335
+  course: 336
+  speed:
+    stw: 3.6
+    sog: 3
+  log: 757.5
+  waypoint:
+    longitude: 19.0284
+    latitude: 60.09929
+  barometer: 1030.05
+  wind:
+    speed: 10.1
+    direction: 193
+  engine:
+    hours: 550.1
+  vhf: "16"
+  crewNames:
+    - bergie
+    - ihmis-suski
