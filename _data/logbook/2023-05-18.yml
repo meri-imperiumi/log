@@ -592,3 +592,60 @@
   observations:
     seaState: 2
     visibility: 7
+- datetime: 2023-05-18T19:00:50.899Z
+  text: ""
+  author: ""
+  position:
+    longitude: 19.2389029
+    latitude: 59.8950384
+    source: GPS
+  heading: 332
+  course: 328
+  speed:
+    stw: 4.8
+    sog: 4.3
+  log: 744.2
+  waypoint:
+    longitude: 19.19812
+    latitude: 59.93842
+  barometer: 1029.22
+  wind:
+    speed: 12.4
+    direction: 183
+  engine:
+    hours: 550.1
+  vhf: "16"
+  crewNames:
+    - bergie
+    - ihmis-suski
+  category: navigation
+- datetime: 2023-05-18T19:02:50.899Z
+  text: Sailing
+  author: ihmis-suski
+  position:
+    longitude: 19.2362273
+    latitude: 59.8971628
+    source: GPS
+  heading: 332
+  course: 328
+  speed:
+    stw: 4.9
+    sog: 4.5
+  log: 744.4
+  waypoint:
+    longitude: 19.19812
+    latitude: 59.93842
+  barometer: 1029.24
+  wind:
+    speed: 14
+    direction: 187
+  engine:
+    hours: 550.1
+  vhf: "16"
+  crewNames:
+    - bergie
+    - ihmis-suski
+  category: navigation
+  observations:
+    seaState: 2
+    visibility: 7
