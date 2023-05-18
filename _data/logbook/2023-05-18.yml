@@ -675,3 +675,62 @@
   crewNames:
     - bergie
     - ihmis-suski
+  category: navigation
+- datetime: 2023-05-18T21:00:20.902Z
+  text: ""
+  author: ""
+  position:
+    longitude: 19.1242729
+    latitude: 59.9974856
+    source: GPS
+  heading: 337
+  course: 334
+  speed:
+    stw: 3.7
+    sog: 3.6
+  log: 751.3
+  waypoint:
+    longitude: 19.13052
+    latitude: 60.01106
+  barometer: 1029.65
+  wind:
+    speed: 9.8
+    direction: 202
+  engine:
+    hours: 550.1
+  vhf: "16"
+  crewNames:
+    - bergie
+    - ihmis-suski
+  category: navigation
+- datetime: 2023-05-18T21:02:20.902Z
+  text: Sailing in the calm winds.
+  author: ihmis-suski
+  position:
+    longitude: 19.1226483
+    latitude: 59.9990538
+    source: GPS
+  heading: 331
+  course: 327
+  speed:
+    stw: 3.5
+    sog: 3.4
+  log: 751.4
+  waypoint:
+    longitude: 19.13052
+    latitude: 60.01106
+  barometer: 1029.68
+  wind:
+    speed: 10.1
+    direction: 185
+  engine:
+    hours: 550.1
+  vhf: "16"
+  crewNames:
+    - bergie
+    - ihmis-suski
+  category: navigation
+  observations:
+    seaState: 2
+    cloudCoverage: 1
+    visibility: 7
