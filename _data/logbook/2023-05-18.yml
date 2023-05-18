@@ -504,3 +504,91 @@
     - bergie
     - ihmis-suski
   category: navigation
+- datetime: 2023-05-18T17:45:43.001Z
+  text: Autopilot activated, not enough wind
+  author: bergie
+  position:
+    longitude: 19.303691
+    latitude: 59.8229031
+    source: GPS
+  heading: 4
+  course: 3
+  speed:
+    stw: 3.2
+    sog: 3.3
+  log: 739.4
+  waypoint:
+    longitude: 19.30507
+    latitude: 59.83165
+  barometer: 1028.97
+  wind:
+    speed: 9.5
+    direction: 143
+  engine:
+    hours: 550.1
+  vhf: "16"
+  crewNames:
+    - bergie
+    - ihmis-suski
+  category: navigation
+  observations:
+    seaState: 2
+    cloudCoverage: 0
+    visibility: 7
+- datetime: 2023-05-18T18:00:07.001Z
+  text: ""
+  author: ""
+  position:
+    longitude: 19.298367818196613
+    latitude: 59.83612518310547
+    source: GPS
+  heading: 338
+  course: 338
+  speed:
+    stw: 3
+    sog: 3.1
+  log: 740.2
+  waypoint:
+    longitude: 19.24518
+    latitude: 59.8894
+  barometer: 1029.04
+  wind:
+    speed: 9.9
+    direction: 170
+  engine:
+    hours: 550.1
+  vhf: "16"
+  crewNames:
+    - bergie
+    - ihmis-suski
+  category: navigation
+- datetime: 2023-05-18T18:06:04.998Z
+  text: "Bergie sleep, Suski sailing. "
+  author: ihmis-suski
+  position:
+    longitude: 19.2942336
+    latitude: 59.841109
+    source: GPS
+  heading: 338
+  course: 339
+  speed:
+    stw: 3.6
+    sog: 3.3
+  log: 740.6
+  waypoint:
+    longitude: 19.24518
+    latitude: 59.8894
+  barometer: 1029.08
+  wind:
+    speed: 9.3
+    direction: 174
+  engine:
+    hours: 550.1
+  vhf: "16"
+  crewNames:
+    - bergie
+    - ihmis-suski
+  category: navigation
+  observations:
+    seaState: 2
+    visibility: 7
