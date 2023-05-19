@@ -338,3 +338,29 @@
     seaState: 2
     cloudCoverage: 0
     visibility: 8
+- datetime: 2023-05-19T08:00:45.100Z
+  text: ""
+  author: ""
+  position:
+    longitude: 18.798834864298502
+    latitude: 60.62295748392741
+    source: GPS
+  heading: 336
+  course: 337
+  speed:
+    stw: 4.2
+    sog: 4
+  log: 790.7
+  waypoint:
+    longitude: 18.74093
+    latitude: 60.68639
+  barometer: 1031.45
+  wind:
+    speed: 11.6
+    direction: 181
+  engine:
+    hours: 550.1
+  vhf: "16"
+  crewNames:
+    - bergie
+    - ihmis-suski
