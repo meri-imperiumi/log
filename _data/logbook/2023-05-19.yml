@@ -822,8 +822,9 @@
     cloudCoverage: 0
     visibility: 7
 - datetime: 2023-05-19T17:00:31.398Z
-  text: ""
-  author: ""
+  text: Had to tighten spinnaker boom topping lift as the boom was squeaking in
+    the waves
+  author: bergie
   position:
     longitude: 18.6198994
     latitude: 61.2784861
@@ -847,3 +848,89 @@
   crewNames:
     - bergie
     - ihmis-suski
+  category: navigation
+- datetime: 2023-05-19T17:11:32.403Z
+  text: Stopped watermaker. 35ppm. Low output, likely air entering the system
+  author: bergie
+  position:
+    longitude: 18.6175423
+    latitude: 61.2938656
+    source: GPS
+  heading: 360
+  course: 1
+  speed:
+    stw: 5.2
+    sog: 5.8
+  log: 832.2
+  waypoint:
+    longitude: 18.50675
+    latitude: 61.28795
+  barometer: 1029.75
+  wind:
+    speed: 13.3
+    direction: 156
+  engine:
+    hours: 550.1
+  vhf: "16"
+  crewNames:
+    - bergie
+    - ihmis-suski
+  category: maintenance
+- datetime: 2023-05-19T18:00:32.396Z
+  text: ""
+  author: ""
+  position:
+    longitude: 18.5569993
+    latitude: 61.3511815
+    source: GPS
+  heading: 314
+  course: 320
+  speed:
+    stw: 5.4
+    sog: 5.7
+  log: 836.2
+  waypoint:
+    longitude: 18.43887
+    latitude: 61.38143
+  barometer: 1029.69
+  wind:
+    speed: 16.1
+    direction: 165
+  engine:
+    hours: 550.1
+  vhf: "16"
+  crewNames:
+    - bergie
+    - ihmis-suski
+  category: navigation
+- datetime: 2023-05-19T18:10:32.396Z
+  text: Bergie to sleeping, Suski to sea watch.
+  author: ihmis-suski
+  position:
+    longitude: 18.5422908
+    latitude: 61.3626284
+    source: GPS
+  heading: 344
+  course: 333
+  speed:
+    stw: 4.8
+    sog: 5
+  log: 837
+  waypoint:
+    longitude: 18.43887
+    latitude: 61.38143
+  barometer: 1029.65
+  wind:
+    speed: 14.5
+    direction: 175
+  engine:
+    hours: 550.1
+  vhf: "16"
+  crewNames:
+    - bergie
+    - ihmis-suski
+  category: navigation
+  observations:
+    seaState: 3
+    cloudCoverage: 0
+    visibility: 7
