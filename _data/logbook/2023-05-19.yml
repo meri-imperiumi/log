@@ -423,3 +423,145 @@
   crewNames:
     - bergie
     - ihmis-suski
+  category: navigation
+- datetime: 2023-05-19T09:33:27.500Z
+  text: Position from sextant placeholder.
+  author: ihmis-suski
+  position:
+    longitude: 18.730503
+    latitude: 60.7195898
+    source: GPS
+  heading: 331
+  course: 332
+  speed:
+    stw: 4.4
+    sog: 4.3
+  log: 796.9
+  waypoint:
+    longitude: 18.70622
+    latitude: 60.78828
+  barometer: 1031.1
+  wind:
+    speed: 12.8
+    direction: 185
+  engine:
+    hours: 550.1
+  vhf: "16"
+  crewNames:
+    - bergie
+    - ihmis-suski
+  category: navigation
+  observations:
+    seaState: 2
+    cloudCoverage: 0
+    visibility: 8
+- datetime: 2023-05-19T09:48:27.500Z
+  text: Vitun netti, vitun Starbuck. Vitun dev null entry saatana.
+  author: ihmis-suski
+  position:
+    longitude: 18.7259564
+    latitude: 60.7359553
+    source: GPS
+  heading: 360
+  course: 357
+  speed:
+    stw: 4.3
+    sog: 4.1
+  log: 797.9
+  waypoint:
+    longitude: 18.70622
+    latitude: 60.78828
+  barometer: 1031.02
+  wind:
+    speed: 9.4
+    direction: 172
+  engine:
+    hours: 550.1
+  vhf: "16"
+  crewNames:
+    - bergie
+    - ihmis-suski
+  category: navigation
+- datetime: 2023-05-19T09:49:27.500Z
+  text: Eli. Kokeillaan uudestaan. Miksi Starbuck sekoaa aina välillä? Sama
+    tuulensuunta, tuulen voimakkuus, vittu kaikki. Ja silti Starbuck antaa vetää
+    sellaiset 30 astetta pieleen? EI VOI OLLA NÄIN.
+  author: ihmis-suski
+  position:
+    longitude: 18.7259121
+    latitude: 60.737081
+    source: GPS
+  heading: 358
+  course: 0
+  speed:
+    stw: 4.3
+    sog: 4.2
+  log: 798
+  waypoint:
+    longitude: 18.70622
+    latitude: 60.78828
+  barometer: 1031.02
+  wind:
+    speed: 9.3
+    direction: 161
+  engine:
+    hours: 550.1
+  vhf: "16"
+  crewNames:
+    - bergie
+    - ihmis-suski
+  category: navigation
+- datetime: 2023-05-19T09:55:27.398Z
+  text: Spinnun puomin paikallaanpitoköysi oli lähtenyt keulaknaapista irti, liian
+    vähän häntää kunnon knaapisolmuun.
+  author: ihmis-suski
+  position:
+    longitude: 18.724182
+    latitude: 60.7436656
+    source: GPS
+  heading: 346
+  course: 343
+  speed:
+    stw: 4.4
+    sog: 4.3
+  log: 798.4
+  waypoint:
+    longitude: 18.70622
+    latitude: 60.78828
+  barometer: 1031.01
+  wind:
+    speed: 11.8
+    direction: 176
+  engine:
+    hours: 550.1
+  vhf: "16"
+  crewNames:
+    - bergie
+    - ihmis-suski
+  category: navigation
+- datetime: 2023-05-19T10:00:27.500Z
+  text: ""
+  author: ""
+  position:
+    longitude: 18.7213571
+    latitude: 60.7491566
+    source: GPS
+  heading: 351
+  course: 351
+  speed:
+    stw: 4.3
+    sog: 4.4
+  log: 798.7
+  waypoint:
+    longitude: 18.70622
+    latitude: 60.78828
+  barometer: 1031
+  wind:
+    speed: 12
+    direction: 176
+  engine:
+    hours: 550.1
+  vhf: "16"
+  crewNames:
+    - bergie
+    - ihmis-suski
