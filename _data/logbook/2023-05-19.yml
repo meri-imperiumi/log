@@ -424,37 +424,6 @@
     - bergie
     - ihmis-suski
   category: navigation
-- datetime: 2023-05-19T09:33:27.500Z
-  text: Position from sextant placeholder.
-  author: ihmis-suski
-  position:
-    longitude: 18.730503
-    latitude: 60.7195898
-    source: GPS
-  heading: 331
-  course: 332
-  speed:
-    stw: 4.4
-    sog: 4.3
-  log: 796.9
-  waypoint:
-    longitude: 18.70622
-    latitude: 60.78828
-  barometer: 1031.1
-  wind:
-    speed: 12.8
-    direction: 185
-  engine:
-    hours: 550.1
-  vhf: "16"
-  crewNames:
-    - bergie
-    - ihmis-suski
-  category: navigation
-  observations:
-    seaState: 2
-    cloudCoverage: 0
-    visibility: 8
 - datetime: 2023-05-19T09:48:27.500Z
   text: Vitun netti, vitun Starbuck. Vitun dev null entry saatana.
   author: ihmis-suski
@@ -565,3 +534,62 @@
   crewNames:
     - bergie
     - ihmis-suski
+  category: navigation
+- datetime: 2023-05-19T11:00:28.499Z
+  text: ""
+  author: ""
+  position:
+    longitude: 18.6741198
+    latitude: 60.8098101
+    source: GPS
+  heading: 344
+  course: 325
+  speed:
+    stw: 4.3
+    sog: 3.9
+  log: 802.7
+  waypoint:
+    longitude: 18.66836
+    latitude: 60.89158
+  barometer: 1030.89
+  wind:
+    speed: 10.8
+    direction: 174
+  engine:
+    hours: 550.1
+  vhf: "16"
+  crewNames:
+    - bergie
+    - ihmis-suski
+  category: navigation
+- datetime: 2023-05-19T11:02:28.499Z
+  text: "Sextant position: 60 46 4 N 018 55 7 E"
+  author: ihmis-suski
+  position:
+    longitude: 18.6729248
+    latitude: 60.8118981
+    source: GPS
+  heading: 352
+  course: 351
+  speed:
+    stw: 4.2
+    sog: 3.8
+  log: 802.8
+  waypoint:
+    longitude: 18.66836
+    latitude: 60.89158
+  barometer: 1030.88
+  wind:
+    speed: 9.9
+    direction: 172
+  engine:
+    hours: 550.1
+  vhf: "16"
+  crewNames:
+    - bergie
+    - ihmis-suski
+  category: navigation
+  observations:
+    seaState: 2
+    cloudCoverage: 0
+    visibility: 8
