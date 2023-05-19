@@ -248,3 +248,93 @@
   crewNames:
     - bergie
     - ihmis-suski
+  category: navigation
+- datetime: 2023-05-19T06:19:07.100Z
+  text: Bergie to bed, suski on sea watch drinking coffee
+  author: ihmis-suski
+  position:
+    longitude: 18.8493939
+    latitude: 60.5227404
+    source: GPS
+  heading: 354
+  course: 359
+  speed:
+    stw: 3.2
+    sog: 3
+  log: 784.3
+  waypoint:
+    longitude: 18.83675
+    latitude: 60.55015
+  barometer: 1031.03
+  wind:
+    speed: 10
+    direction: 207
+  engine:
+    hours: 550.1
+  vhf: "16"
+  crewNames:
+    - bergie
+    - ihmis-suski
+  category: navigation
+  observations:
+    seaState: 2
+    cloudCoverage: 0
+    visibility: 8
+- datetime: 2023-05-19T07:00:58.099Z
+  text: ""
+  author: ""
+  position:
+    longitude: 18.8180378
+    latitude: 60.5609106
+    source: GPS
+  heading: 349
+  course: 353
+  speed:
+    stw: 3.7
+    sog: 3.6
+  log: 786.8
+  waypoint:
+    longitude: 18.80131
+    latitude: 60.60144
+  barometer: 1031.3
+  wind:
+    speed: 10.6
+    direction: 188
+  engine:
+    hours: 550.1
+  vhf: "16"
+  crewNames:
+    - bergie
+    - ihmis-suski
+  category: navigation
+- datetime: 2023-05-19T07:02:58.099Z
+  text: Can't get Starbuck to behave, let's try smetti.
+  author: ihmis-suski
+  position:
+    longitude: 18.8174648
+    latitude: 60.5628576
+    source: GPS
+  heading: 4
+  course: 0
+  speed:
+    stw: 4
+    sog: 3.7
+  log: 786.9
+  waypoint:
+    longitude: 18.80131
+    latitude: 60.60144
+  barometer: 1031.3
+  wind:
+    speed: 9.5
+    direction: 203
+  engine:
+    hours: 550.1
+  vhf: "16"
+  crewNames:
+    - bergie
+    - ihmis-suski
+  category: navigation
+  observations:
+    seaState: 2
+    cloudCoverage: 0
+    visibility: 8
