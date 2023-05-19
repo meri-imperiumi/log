@@ -364,3 +364,62 @@
   crewNames:
     - bergie
     - ihmis-suski
+  category: navigation
+- datetime: 2023-05-19T08:10:42.099Z
+  text: Schmetti with Starbuck. Slow going but that is what the wind gives us
+    right now.
+  author: ihmis-suski
+  position:
+    longitude: 18.7896139
+    latitude: 60.6326349
+    source: GPS
+  heading: 331
+  course: 328
+  speed:
+    stw: 4.4
+    sog: 3.9
+  log: 791.3
+  waypoint:
+    longitude: 18.74093
+    latitude: 60.68639
+  barometer: 1031.45
+  wind:
+    speed: 11.6
+    direction: 187
+  engine:
+    hours: 550.1
+  vhf: "16"
+  crewNames:
+    - bergie
+    - ihmis-suski
+  category: navigation
+  observations:
+    seaState: 2
+    cloudCoverage: 0
+    visibility: 8
+- datetime: 2023-05-19T09:00:32.099Z
+  text: ""
+  author: ""
+  position:
+    longitude: 18.74779052734375
+    latitude: 60.68493118286133
+    source: GPS
+  heading: 342
+  course: 339
+  speed:
+    stw: 4.6
+    sog: 4.4
+  log: 794.7
+  waypoint:
+    longitude: 18.74093
+    latitude: 60.68639
+  barometer: 1031.17
+  wind:
+    speed: 11.6
+    direction: 187
+  engine:
+    hours: 550.1
+  vhf: "16"
+  crewNames:
+    - bergie
+    - ihmis-suski
