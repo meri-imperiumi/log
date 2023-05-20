@@ -82,3 +82,61 @@
   crewNames:
     - bergie
     - ihmis-suski
+  category: navigation
+- datetime: 2023-05-20T02:09:08.600Z
+  text: Moved boom preventer to outside genoa sheets to prevent chafe
+  author: bergie
+  position:
+    longitude: 17.9681493
+    latitude: 61.9305828
+    source: GPS
+  heading: 332
+  course: 337
+  speed:
+    stw: 5.1
+    sog: 4.8
+  log: 876
+  waypoint:
+    longitude: 17.96544
+    latitude: 61.95535
+  barometer: 1030.12
+  wind:
+    speed: 14
+    direction: 199
+  engine:
+    hours: 550.1
+  vhf: "16"
+  crewNames:
+    - bergie
+    - ihmis-suski
+  category: navigation
+  observations:
+    seaState: 3
+    cloudCoverage: 0
+    visibility: 7
+- datetime: 2023-05-20T03:00:55.600Z
+  text: ""
+  author: ""
+  position:
+    longitude: 17.9388126
+    latitude: 61.9891133
+    source: GPS
+  heading: 351
+  course: 348
+  speed:
+    stw: 4.2
+    sog: 4.1
+  log: 879.7
+  waypoint:
+    longitude: 17.88703
+    latitude: 62.05849
+  barometer: 1030.12
+  wind:
+    speed: 13
+    direction: 209
+  engine:
+    hours: 550.1
+  vhf: "16"
+  crewNames:
+    - bergie
+    - ihmis-suski
