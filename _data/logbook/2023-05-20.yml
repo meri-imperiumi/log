@@ -333,3 +333,170 @@
   crewNames:
     - bergie
     - ihmis-suski
+  category: navigation
+- datetime: 2023-05-20T07:20:06.899Z
+  text: Autopilot deactivated
+  author: ""
+  position:
+    longitude: 17.7288016
+    latitude: 62.239624
+    source: GPS
+  heading: 301
+  course: 320
+  speed:
+    stw: 0.5
+    sog: 1.2
+  log: 896.3
+  waypoint:
+    longitude: 17.5806
+    latitude: 62.27461
+  barometer: 1030.62
+  wind:
+    speed: 2.1
+    direction: 190
+  engine:
+    hours: 550.1
+  vhf: "16"
+  crewNames:
+    - bergie
+    - ihmis-suski
+  category: navigation
+- datetime: 2023-05-20T07:31:15.900Z
+  text: Autopilot activated
+  author: ""
+  position:
+    longitude: 17.7260794
+    latitude: 62.2412531
+    source: GPS
+  heading: 347
+  course: 354
+  speed:
+    stw: 0
+    sog: 0.7
+  log: 896.5
+  waypoint:
+    longitude: 17.5806
+    latitude: 62.27461
+  barometer: 1030.58
+  wind:
+    speed: 1.1
+    direction: 324
+  engine:
+    hours: 550.1
+  vhf: "16"
+  crewNames:
+    - bergie
+    - ihmis-suski
+  category: navigation
+- datetime: 2023-05-20T07:46:45.900Z
+  text: Total wind shadow, 360 windshift, genoa tangled in inner forestay kind of
+    a situation. 🙄
+  author: ihmis-suski
+  position:
+    longitude: 17.721606
+    latitude: 62.2496319
+    source: GPS
+  heading: 301
+  course: 311
+  speed:
+    stw: 2.4
+    sog: 2.3
+  log: 897
+  waypoint:
+    longitude: 17.5806
+    latitude: 62.27461
+  barometer: 1030.64
+  wind:
+    speed: 5.5
+    direction: 228
+  engine:
+    hours: 550.1
+  vhf: "16"
+  crewNames:
+    - bergie
+    - ihmis-suski
+  category: navigation
+  observations:
+    seaState: 0
+    cloudCoverage: 0
+    visibility: 7
+- datetime: 2023-05-20T07:50:28.899Z
+  text: Autopilot deactivated
+  author: ""
+  position:
+    longitude: 17.7176353
+    latitude: 62.2505958
+    source: GPS
+  heading: 288
+  course: 304
+  speed:
+    stw: 1.3
+    sog: 1.4
+  log: 897.2
+  waypoint:
+    longitude: 17.5806
+    latitude: 62.27461
+  barometer: 1030.64
+  wind:
+    speed: 0.4
+    direction: 302
+  engine:
+    hours: 550.1
+  vhf: "16"
+  crewNames:
+    - bergie
+    - ihmis-suski
+  category: navigation
+- datetime: 2023-05-20T07:58:38.899Z
+  text: Autopilot activated
+  author: ""
+  position:
+    longitude: 17.7159033
+    latitude: 62.2531678
+    source: GPS
+  heading: 311
+  course: 315
+  speed:
+    stw: 3.1
+    sog: 3
+  log: 897.3
+  waypoint:
+    longitude: 17.5806
+    latitude: 62.27461
+  barometer: 1030.62
+  wind:
+    speed: 7.6
+    direction: 229
+  engine:
+    hours: 550.1
+  vhf: "16"
+  crewNames:
+    - bergie
+    - ihmis-suski
+  category: navigation
+- datetime: 2023-05-20T08:00:40.899Z
+  text: ""
+  author: ""
+  position:
+    longitude: 17.7136756
+    latitude: 62.2543656
+    source: GPS
+  heading: 311
+  course: 318
+  speed:
+    stw: 2
+    sog: 2.2
+  log: 897.4
+  waypoint:
+    longitude: 17.5806
+    latitude: 62.27461
+  barometer: 1030.59
+  wind:
+    speed: 4.4
+    direction: 235
+  engine:
+    hours: 550.1
+  vhf: "16"
+  crewNames:
+    - bergie
+    - ihmis-suski
