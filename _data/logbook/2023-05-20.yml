@@ -527,3 +527,61 @@
   crewNames:
     - bergie
     - ihmis-suski
+  category: navigation
+- datetime: 2023-05-20T09:12:20.899Z
+  text: Hylkeitä! Iso lauma hylkeitä!
+  author: ihmis-suski
+  position:
+    longitude: 17.5814619
+    latitude: 62.2756096
+    source: GPS
+  heading: 292
+  course: 286
+  speed:
+    stw: 4
+    sog: 4
+  log: 901.3
+  waypoint:
+    longitude: 17.53964
+    latitude: 62.2842
+  barometer: 1030.44
+  wind:
+    speed: 10.4
+    direction: 161
+  engine:
+    hours: 550.1
+  vhf: "16"
+  crewNames:
+    - bergie
+    - ihmis-suski
+  category: navigation
+  observations:
+    seaState: 1
+    cloudCoverage: 0
+    visibility: 8
+- datetime: 2023-05-20T10:00:06.899Z
+  text: ""
+  author: ""
+  position:
+    longitude: 17.5055214
+    latitude: 62.2919569
+    source: GPS
+  heading: 296
+  course: 287
+  speed:
+    stw: 2.8
+    sog: 2.7
+  log: 903.7
+  waypoint:
+    longitude: 17.49407
+    latitude: 62.29437
+  barometer: 1030.08
+  wind:
+    speed: 9.1
+    direction: 151
+  engine:
+    hours: 550.1
+  vhf: "16"
+  crewNames:
+    - bergie
+    - ihmis-suski
