@@ -1,0 +1,31 @@
+- datetime: 2023-05-20T00:00:29.700Z
+  text: Bergie on watch and Suski to bed
+  author: bergie
+  position:
+    longitude: 18.0462658
+    latitude: 61.7646893
+    source: GPS
+  heading: 360
+  course: 358
+  speed:
+    stw: 4.5
+    sog: 4.1
+  log: 865.7
+  waypoint:
+    longitude: 18.04115
+    latitude: 61.85428
+  barometer: 1029.9
+  wind:
+    speed: 12.7
+    direction: 213
+  engine:
+    hours: 550.1
+  vhf: "16"
+  crewNames:
+    - bergie
+    - ihmis-suski
+  category: navigation
+  observations:
+    seaState: 2
+    cloudCoverage: 1
+    visibility: 7
