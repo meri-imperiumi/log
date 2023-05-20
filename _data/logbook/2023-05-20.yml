@@ -585,3 +585,111 @@
   crewNames:
     - bergie
     - ihmis-suski
+  category: navigation
+- datetime: 2023-05-20T10:14:38.899Z
+  text: Autopilot deactivated
+  author: ""
+  position:
+    longitude: 17.485394318898518
+    latitude: 62.29447650909423
+    source: GPS
+  heading: 276
+  course: 267
+  speed:
+    stw: 2.8
+    sog: 2.7
+  log: 904.3
+  waypoint:
+    longitude: 17.48089
+    latitude: 62.29429
+  barometer: 1030.1
+  wind:
+    speed: 8.8
+    direction: 129
+  engine:
+    hours: 550.1
+  vhf: "16"
+  crewNames:
+    - bergie
+    - ihmis-suski
+  category: navigation
+- datetime: 2023-05-20T10:26:04.899Z
+  text: Sails down, motoring
+  author: ""
+  position:
+    longitude: 17.4615056
+    latitude: 62.2942483
+    source: GPS
+  heading: 260
+  course: 256
+  speed:
+    stw: 3.9
+    sog: 3.9
+  log: 904.9
+  waypoint:
+    longitude: 17.45868
+    latitude: 62.29346
+  barometer: 1030.08
+  wind:
+    speed: 11.6
+    direction: 115
+  engine:
+    hours: 550.1
+  vhf: "16"
+  crewNames:
+    - bergie
+    - ihmis-suski
+  category: navigation
+- datetime: 2023-05-20T10:33:26.899Z
+  text: Motor stopped
+  author: bergie
+  position:
+    longitude: 17.4509196
+    latitude: 62.2940691
+    source: GPS
+  heading: 145
+  course: 281
+  speed:
+    stw: 0
+    sog: 0.4
+  log: 905.3
+  barometer: 1029.99
+  wind:
+    speed: 7.4
+    direction: 94
+  engine:
+    hours: 550.2
+  vhf: "16"
+  crewNames:
+    - bergie
+    - ihmis-suski
+  category: navigation
+- datetime: 2023-05-20T10:36:13.900Z
+  text: "Moored, SXK Juniskär "
+  author: bergie
+  position:
+    longitude: 17.4508148
+    latitude: 62.2940325
+    source: GPS
+  heading: 79
+  course: 141
+  speed:
+    stw: 0
+    sog: 0
+  log: 905.3
+  barometer: 1029.98
+  wind:
+    speed: 8.2
+    direction: 104
+  engine:
+    hours: 550.2
+  vhf: "16"
+  crewNames:
+    - bergie
+    - ihmis-suski
+  end: true
+  category: navigation
+  observations:
+    seaState: 1
+    cloudCoverage: 4
+    visibility: 8
