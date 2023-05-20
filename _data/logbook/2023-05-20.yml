@@ -194,3 +194,115 @@
   crewNames:
     - bergie
     - ihmis-suski
+  category: navigation
+- datetime: 2023-05-20T05:24:22.600Z
+  text: "Stowed hydrogenerator "
+  author: bergie
+  position:
+    longitude: 17.830791
+    latitude: 62.1455528
+    source: GPS
+  heading: 345
+  course: 333
+  speed:
+    stw: 3.2
+    sog: 2.7
+  log: 889.7
+  waypoint:
+    longitude: 17.78924
+    latitude: 62.19222
+  barometer: 1030.73
+  wind:
+    speed: 9.6
+    direction: 214
+  engine:
+    hours: 550.1
+  vhf: "16"
+  crewNames:
+    - bergie
+    - ihmis-suski
+  category: navigation
+  observations:
+    seaState: 2
+    cloudCoverage: 0
+    visibility: 8
+- datetime: 2023-05-20T05:34:20.600Z
+  text: Wind started shifting and dropping, went wing on wing
+  author: bergie
+  position:
+    longitude: 17.8230168
+    latitude: 62.153398
+    source: GPS
+  heading: 349
+  course: 351
+  speed:
+    stw: 3.4
+    sog: 2.9
+  log: 890.2
+  waypoint:
+    longitude: 17.80766
+    latitude: 62.16425
+  barometer: 1030.68
+  wind:
+    speed: 8.8
+    direction: 190
+  engine:
+    hours: 550.1
+  vhf: "16"
+  crewNames:
+    - bergie
+    - ihmis-suski
+  category: navigation
+- datetime: 2023-05-20T05:41:31.600Z
+  text: Autopilot activated
+  author: ""
+  position:
+    longitude: 17.8201481
+    latitude: 62.159474
+    source: GPS
+  heading: 332
+  course: 334
+  speed:
+    stw: 3.7
+    sog: 3.3
+  log: 890.6
+  waypoint:
+    longitude: 17.80766
+    latitude: 62.16425
+  barometer: 1030.65
+  wind:
+    speed: 10.8
+    direction: 193
+  engine:
+    hours: 550.1
+  vhf: "16"
+  crewNames:
+    - bergie
+    - ihmis-suski
+  category: navigation
+- datetime: 2023-05-20T06:00:15.600Z
+  text: ""
+  author: ""
+  position:
+    longitude: 17.8103226
+    latitude: 62.1754234
+    source: GPS
+  heading: 343
+  course: 346
+  speed:
+    stw: 3.4
+    sog: 2.7
+  log: 891.6
+  waypoint:
+    longitude: 17.72766
+    latitude: 62.27167
+  barometer: 1030.63
+  wind:
+    speed: 9.8
+    direction: 207
+  engine:
+    hours: 550.1
+  vhf: "16"
+  crewNames:
+    - bergie
+    - ihmis-suski
