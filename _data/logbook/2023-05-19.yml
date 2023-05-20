@@ -393,33 +393,6 @@
     - bergie
     - ihmis-suski
   category: navigation
-- datetime: 2023-05-19T09:48:27.500Z
-  text: Vitun netti, vitun Starbuck. Vitun dev null entry saatana.
-  author: ihmis-suski
-  position:
-    longitude: 18.7259564
-    latitude: 60.7359553
-    source: GPS
-  heading: 360
-  course: 357
-  speed:
-    stw: 4.3
-    sog: 4.1
-  log: 797.9
-  waypoint:
-    longitude: 18.70622
-    latitude: 60.78828
-  barometer: 1031.02
-  wind:
-    speed: 9.4
-    direction: 172
-  engine:
-    hours: 550.1
-  vhf: "16"
-  crewNames:
-    - bergie
-    - ihmis-suski
-  category: navigation
 - datetime: 2023-05-19T09:49:27.500Z
   text: Eli. Kokeillaan uudestaan. Miksi Starbuck sekoaa aina välillä? Sama
     tuulensuunta, tuulen voimakkuus, vittu kaikki. Ja silti Starbuck antaa vetää
@@ -1037,3 +1010,4 @@
   crewNames:
     - bergie
     - ihmis-suski
+  category: navigation
