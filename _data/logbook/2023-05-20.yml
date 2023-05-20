@@ -281,8 +281,8 @@
     - ihmis-suski
   category: navigation
 - datetime: 2023-05-20T06:00:15.600Z
-  text: ""
-  author: ""
+  text: Bergie sleeping duty,  Suski on sea watch.
+  author: ihmis-suski
   position:
     longitude: 17.8103226
     latitude: 62.1754234
@@ -300,6 +300,33 @@
   wind:
     speed: 9.8
     direction: 207
+  engine:
+    hours: 550.1
+  vhf: "16"
+  crewNames:
+    - bergie
+    - ihmis-suski
+  category: navigation
+- datetime: 2023-05-20T06:59:59.900Z
+  text: ""
+  author: ""
+  position:
+    longitude: 17.7581588
+    latitude: 62.228211
+    source: GPS
+  heading: 315
+  course: 317
+  speed:
+    stw: 4.9
+    sog: 5.4
+  log: 895.2
+  waypoint:
+    longitude: 17.74011
+    latitude: 62.2347
+  barometer: 1030.63
+  wind:
+    speed: 14
+    direction: 185
   engine:
     hours: 550.1
   vhf: "16"
