@@ -328,7 +328,8 @@
   category: navigation
 - datetime: 2023-05-21T11:04:08.601Z
   text: "Sails set: Main (1st reef), Genoa 1 (30% furled). Big waves and low
-    winds, so reducing chafe etc"
+    winds, so reducing chafe etc. Added double boom preventers to keep the boom
+    from swinging wildly "
   author: bergie
   position:
     longitude: 17.7750541
@@ -354,3 +355,29 @@
     - bergie
     - ihmis-suski
   category: navigation
+- datetime: 2023-05-21T12:00:47.600Z
+  text: ""
+  author: ""
+  position:
+    longitude: 17.8666278
+    latitude: 62.4399956
+    source: GPS
+  heading: 56
+  course: 51
+  speed:
+    stw: 2.5
+    sog: 2.5
+  log: 920.1
+  waypoint:
+    longitude: 17.93338
+    latitude: 62.51012
+  barometer: 1027.21
+  wind:
+    speed: 6.9
+    direction: 184
+  engine:
+    hours: 551
+  vhf: "16"
+  crewNames:
+    - bergie
+    - ihmis-suski
