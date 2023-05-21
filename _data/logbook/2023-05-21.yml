@@ -408,3 +408,58 @@
   crewNames:
     - bergie
     - ihmis-suski
+  category: navigation
+- datetime: 2023-05-21T13:16:24.601Z
+  text: Sextant. First sight was very far off, but second struck close to here.
+    The lines meet at the Himalayas, though
+  author: ihmis-suski
+  position:
+    longitude: 18.0015915
+    latitude: 62.5153878
+    source: GPS
+  heading: 31
+  course: 53
+  speed:
+    stw: 5.2
+    sog: 5.4
+  log: 926
+  waypoint:
+    longitude: 18.06174
+    latitude: 62.59896
+  barometer: 1027.22
+  wind:
+    speed: 6.7
+    direction: 167
+  engine:
+    hours: 551
+  vhf: "16"
+  crewNames:
+    - bergie
+    - ihmis-suski
+  category: navigation
+- datetime: 2023-05-21T14:00:10.598Z
+  text: ""
+  author: ""
+  position:
+    longitude: 18.051786
+    latitude: 62.5699111
+    source: GPS
+  heading: 24
+  course: 32
+  speed:
+    stw: 5.1
+    sog: 4.9
+  log: 929.6
+  waypoint:
+    longitude: 18.06174
+    latitude: 62.59896
+  barometer: 1027.16
+  wind:
+    speed: 3.9
+    direction: 59
+  engine:
+    hours: 551.1
+  vhf: "16"
+  crewNames:
+    - bergie
+    - ihmis-suski
