@@ -26,8 +26,8 @@
     - ihmis-suski
   category: navigation
 - datetime: 2023-05-21T08:04:42.598Z
-  text: Anchor up, motoring
-  author: ""
+  text: Detached buoy, motoring
+  author: bergie
   position:
     longitude: 17.4514289
     latitude: 62.2939456
@@ -47,61 +47,6 @@
     direction: 89
   engine:
     hours: 550.2
-  vhf: "16"
-  crewNames:
-    - bergie
-    - ihmis-suski
-  category: navigation
-- datetime: 2023-05-21T08:05:00.601Z
-  text: Stopped
-  author: ""
-  position:
-    longitude: 17.4518431
-    latitude: 62.293979
-    source: GPS
-  heading: 85
-  course: 87
-  speed:
-    stw: 2.7
-    sog: 2.5
-  log: 905.3
-  waypoint:
-    longitude: 17.45427
-    latitude: 62.29284
-  barometer: 1027.05
-  wind:
-    speed: 4.1
-    direction: 87
-  engine:
-    hours: 550.2
-  vhf: "16"
-  crewNames:
-    - bergie
-    - ihmis-suski
-  end: true
-  category: navigation
-- datetime: 2023-05-21T08:07:00.601Z
-  text: Motoring
-  author: ""
-  position:
-    longitude: 17.4553755
-    latitude: 62.2940676
-    source: GPS
-  heading: 86
-  course: 85
-  speed:
-    stw: 3.4
-    sog: 3.3
-  log: 905.3
-  waypoint:
-    longitude: 17.45868
-    latitude: 62.29346
-  barometer: 1027.07
-  wind:
-    speed: 4.5
-    direction: 79
-  engine:
-    hours: 550.3
   vhf: "16"
   crewNames:
     - bergie
@@ -154,6 +99,87 @@
   wind:
     speed: 5.6
     direction: 103
+  engine:
+    hours: 550.8
+  vhf: "16"
+  crewNames:
+    - bergie
+    - ihmis-suski
+  category: navigation
+- datetime: 2023-05-21T09:15:56.601Z
+  text: Autopilot activated
+  author: ""
+  position:
+    longitude: 17.5477821
+    latitude: 62.323445
+    source: GPS
+  heading: 69
+  course: 71
+  speed:
+    stw: 4.4
+    sog: 4.3
+  log: 908.6
+  waypoint:
+    longitude: 17.61176
+    latitude: 62.34441
+  barometer: 1027.05
+  wind:
+    speed: 9.2
+    direction: 144
+  engine:
+    hours: 550.8
+  vhf: "16"
+  crewNames:
+    - bergie
+    - ihmis-suski
+  category: navigation
+- datetime: 2023-05-21T09:17:38.598Z
+  text: "Started watermaker "
+  author: bergie
+  position:
+    longitude: 17.5518189
+    latitude: 62.3241698
+    source: GPS
+  heading: 64
+  course: 64
+  speed:
+    stw: 4.7
+    sog: 4.3
+  log: 908.8
+  waypoint:
+    longitude: 17.61176
+    latitude: 62.34441
+  barometer: 1027.04
+  wind:
+    speed: 10.4
+    direction: 140
+  engine:
+    hours: 550.8
+  vhf: "16"
+  crewNames:
+    - bergie
+    - ihmis-suski
+  category: maintenance
+- datetime: 2023-05-21T10:00:24.601Z
+  text: ""
+  author: ""
+  position:
+    longitude: 17.668147341410318
+    latitude: 62.36116034189861
+    source: GPS
+  heading: 54
+  course: 64
+  speed:
+    stw: 5.3
+    sog: 5.2
+  log: 912.7
+  waypoint:
+    longitude: 17.73842
+    latitude: 62.38528
+  barometer: 1026.92
+  wind:
+    speed: 12.2
+    direction: 141
   engine:
     hours: 550.8
   vhf: "16"
