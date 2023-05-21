@@ -356,8 +356,8 @@
     - ihmis-suski
   category: navigation
 - datetime: 2023-05-21T12:00:47.600Z
-  text: ""
-  author: ""
+  text: "Motoring "
+  author: bergie
   position:
     longitude: 17.8666278
     latitude: 62.4399956
@@ -375,6 +375,33 @@
   wind:
     speed: 6.9
     direction: 184
+  engine:
+    hours: 551
+  vhf: "16"
+  crewNames:
+    - bergie
+    - ihmis-suski
+  category: navigation
+- datetime: 2023-05-21T13:00:28.601Z
+  text: ""
+  author: ""
+  position:
+    longitude: 17.971223831176758
+    latitude: 62.49832865397135
+    source: GPS
+  heading: 32
+  course: 37
+  speed:
+    stw: 5
+    sog: 5.7
+  log: 924.7
+  waypoint:
+    longitude: 18.06174
+    latitude: 62.59896
+  barometer: 1027.29
+  wind:
+    speed: 6.9
+    direction: 211
   engine:
     hours: 551
   vhf: "16"
