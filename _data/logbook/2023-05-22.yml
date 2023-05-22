@@ -127,3 +127,111 @@
   crewNames:
     - bergie
     - ihmis-suski
+  category: navigation
+- datetime: 2023-05-22T13:08:26.201Z
+  text: "Motoring to give a slight extra boost to bypass the cable ferry "
+  author: bergie
+  position:
+    longitude: 17.9922546
+    latitude: 62.6897906
+    source: GPS
+  heading: 12
+  course: 10
+  speed:
+    stw: 5.6
+    sog: 5.4
+  log: 938.7
+  waypoint:
+    longitude: 17.9934
+    latitude: 62.69494
+  barometer: 1023.92
+  wind:
+    speed: 10.8
+    direction: 154
+  engine:
+    hours: 551.9
+  crewNames:
+    - bergie
+    - ihmis-suski
+  category: navigation
+  observations:
+    seaState: 2
+    cloudCoverage: 2
+    visibility: 8
+- datetime: 2023-05-22T13:09:44.198Z
+  text: Motor stopped, sailing with Main, Genoa 1
+  author: ""
+  position:
+    longitude: 17.9928309
+    latitude: 62.6914931
+    source: GPS
+  heading: 16
+  course: 12
+  speed:
+    stw: 4.2
+    sog: 3.6
+  log: 938.8
+  waypoint:
+    longitude: 17.9934
+    latitude: 62.69494
+  barometer: 1023.86
+  wind:
+    speed: 9.5
+    direction: 154
+  engine:
+    hours: 551.9
+  crewNames:
+    - bergie
+    - ihmis-suski
+  category: navigation
+- datetime: 2023-05-22T13:43:35.200Z
+  text: "Started watermaker "
+  author: bergie
+  position:
+    longitude: 17.9941633
+    latitude: 62.7228046
+    source: GPS
+  heading: 7
+  course: 1
+  speed:
+    stw: 2.5
+    sog: 2.4
+  log: 940.7
+  waypoint:
+    longitude: 17.99542
+    latitude: 62.72646
+  barometer: 1023.45
+  wind:
+    speed: 5.6
+    direction: 212
+  engine:
+    hours: 551.9
+  crewNames:
+    - bergie
+    - ihmis-suski
+  category: maintenance
+- datetime: 2023-05-22T14:00:31.200Z
+  text: ""
+  author: ""
+  position:
+    longitude: 17.9937559
+    latitude: 62.73498
+    source: GPS
+  heading: 354
+  course: 353
+  speed:
+    stw: 2.9
+    sog: 2.4
+  log: 941.5
+  waypoint:
+    longitude: 17.98979
+    latitude: 62.73687
+  barometer: 1023.24
+  wind:
+    speed: 7.6
+    direction: 204
+  engine:
+    hours: 551.9
+  crewNames:
+    - bergie
+    - ihmis-suski
