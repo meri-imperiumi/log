@@ -131,3 +131,72 @@
   crewNames:
     - bergie
     - ihmis-suski
+  category: navigation
+- datetime: 2023-05-23T11:26:44.800Z
+  text: Autopilot deactivated, not enough wind
+  author: bergie
+  position:
+    longitude: 18.3049613
+    latitude: 62.8085039
+    source: GPS
+  heading: 48
+  course: 24
+  speed:
+    stw: 0.8
+    sog: 0.7
+  log: 955.3
+  barometer: 1014.98
+  wind:
+    speed: 3.2
+    direction: 155
+  engine:
+    hours: 552.6
+  crewNames:
+    - bergie
+    - ihmis-suski
+  category: navigation
+- datetime: 2023-05-23T11:32:43.801Z
+  text: "Autopilot activated "
+  author: bergie
+  position:
+    longitude: 18.30811449686686
+    latitude: 62.80988934834798
+    source: GPS
+  heading: 65
+  course: 52
+  speed:
+    stw: 2.1
+    sog: 1.8
+  log: 955.4
+  barometer: 1014.87
+  wind:
+    speed: 4.6
+    direction: 158
+  engine:
+    hours: 552.6
+  crewNames:
+    - bergie
+    - ihmis-suski
+  category: navigation
+- datetime: 2023-05-23T12:00:34.800Z
+  text: ""
+  author: ""
+  position:
+    longitude: 18.3367753
+    latitude: 62.8168123
+    source: GPS
+  heading: 67
+  course: 64
+  speed:
+    stw: 3.4
+    sog: 2.9
+  log: 956.3
+  barometer: 1014.93
+  wind:
+    speed: 5.6
+    direction: 170
+  engine:
+    hours: 552.6
+  crewNames:
+    - bergie
+    - ihmis-suski
