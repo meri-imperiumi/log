@@ -272,7 +272,7 @@
   category: navigation
 - datetime: 2023-05-23T14:00:05.900Z
   text: ""
-  author: ""
+  author: bergie
   position:
     longitude: 18.4609318
     latitude: 62.8445131
@@ -287,6 +287,57 @@
   wind:
     speed: 6
     direction: 190
+  engine:
+    hours: 552.6
+  crewNames:
+    - bergie
+    - ihmis-suski
+  category: navigation
+  observations:
+    seaState: 2
+    cloudCoverage: 3
+    visibility: 7
+- datetime: 2023-05-23T14:33:58.899Z
+  text: This was the first four-line gybe of the Parasailor from the cockpit.
+    Worked nicely!
+  author: bergie
+  position:
+    longitude: 18.4920715
+    latitude: 62.8580616
+    source: GPS
+  heading: 29
+  course: 32
+  speed:
+    stw: 3.8
+    sog: 3.7
+  log: 961.3
+  barometer: 1015.15
+  wind:
+    speed: 7.7
+    direction: 247
+  engine:
+    hours: 552.6
+  crewNames:
+    - bergie
+    - ihmis-suski
+  category: navigation
+- datetime: 2023-05-23T15:00:51.897Z
+  text: ""
+  author: ""
+  position:
+    longitude: 18.5146884
+    latitude: 62.8823263
+    source: GPS
+  heading: 27
+  course: 20
+  speed:
+    stw: 4.6
+    sog: 4.3
+  log: 962.9
+  barometer: 1015.11
+  wind:
+    speed: 8.8
+    direction: 200
   engine:
     hours: 552.6
   crewNames:
