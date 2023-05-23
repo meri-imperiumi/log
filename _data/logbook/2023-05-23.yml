@@ -343,3 +343,98 @@
   crewNames:
     - bergie
     - ihmis-suski
+  category: navigation
+- datetime: 2023-05-23T15:16:47.897Z
+  text: Second managed gybe
+  author: bergie
+  position:
+    longitude: 18.5312855
+    latitude: 62.8997149
+    source: GPS
+  heading: 25
+  course: 34
+  speed:
+    stw: 4.2
+    sog: 2.9
+  log: 964.1
+  barometer: 1015.22
+  wind:
+    speed: 7.8
+    direction: 199
+  engine:
+    hours: 552.6
+  crewNames:
+    - bergie
+    - ihmis-suski
+  category: navigation
+- datetime: 2023-05-23T15:27:44.902Z
+  text: "Third gybe didn't go as well, as untensioned tack line wrapped around a
+    position light. Need to move more slowly "
+  author: bergie
+  position:
+    longitude: 18.5406551
+    latitude: 62.9095188
+    source: GPS
+  heading: 19
+  course: 12
+  speed:
+    stw: 3
+    sog: 2.7
+  log: 964.7
+  barometer: 1015.32
+  wind:
+    speed: 8.1
+    direction: 217
+  engine:
+    hours: 552.6
+  crewNames:
+    - bergie
+    - ihmis-suski
+  category: navigation
+- datetime: 2023-05-23T15:59:42.899Z
+  text: "Sails set: Genoa 1. Wind increasing so time to take down Parasailor. For
+    some reason the spi sock is wrong way around (red-green)"
+  author: bergie
+  position:
+    longitude: 18.5649566
+    latitude: 62.94733
+    source: GPS
+  heading: 10
+  course: 7
+  speed:
+    stw: 5.2
+    sog: 5.9
+  log: 967.1
+  barometer: 1015.02
+  wind:
+    speed: 16.4
+    direction: 193
+  engine:
+    hours: 552.6
+  crewNames:
+    - bergie
+    - ihmis-suski
+  category: navigation
+- datetime: 2023-05-23T16:00:37.900Z
+  text: ""
+  author: ""
+  position:
+    longitude: 18.5655963
+    latitude: 62.9485979
+    source: GPS
+  heading: 12
+  course: 8
+  speed:
+    stw: 5.2
+    sog: 5.6
+  log: 967.2
+  barometer: 1015.01
+  wind:
+    speed: 17.6
+    direction: 192
+  engine:
+    hours: 552.6
+  crewNames:
+    - bergie
+    - ihmis-suski
+  category: navigation
