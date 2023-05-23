@@ -200,3 +200,73 @@
   crewNames:
     - bergie
     - ihmis-suski
+  category: navigation
+- datetime: 2023-05-23T12:16:43.801Z
+  text: "Sails set: Main (2nd reef), Parasailor"
+  author: ""
+  position:
+    longitude: 18.35499334335327
+    latitude: 62.820556195576984
+    source: GPS
+  heading: 69
+  course: 63
+  speed:
+    stw: 2.1
+    sog: 1.8
+  log: 956.8
+  barometer: 1014.87
+  wind:
+    speed: 5
+    direction: 157
+  engine:
+    hours: 552.6
+  crewNames:
+    - bergie
+    - ihmis-suski
+  category: navigation
+- datetime: 2023-05-23T13:00:20.899Z
+  text: ""
+  author: ""
+  position:
+    longitude: 18.4008623
+    latitude: 62.8308178
+    source: GPS
+  heading: 62
+  course: 62
+  speed:
+    stw: 0.9
+    sog: 0.7
+  log: 958.2
+  barometer: 1015.05
+  wind:
+    speed: 4.3
+    direction: 209
+  engine:
+    hours: 552.6
+  crewNames:
+    - bergie
+    - ihmis-suski
+  category: navigation
+- datetime: 2023-05-23T13:02:04.899Z
+  text: "Sails set: Parasailor"
+  author: ""
+  position:
+    longitude: 18.401772340138752
+    latitude: 62.83114465077719
+    source: GPS
+  heading: 64
+  course: 67
+  speed:
+    stw: 1.6
+    sog: 1.3
+  log: 958.3
+  barometer: 1015.03
+  wind:
+    speed: 4.5
+    direction: 208
+  engine:
+    hours: 552.6
+  crewNames:
+    - bergie
+    - ihmis-suski
+  category: navigation
