@@ -1,0 +1,107 @@
+- datetime: 2023-05-23T09:35:43.801Z
+  text: Started main engine
+  author: ""
+  position:
+    longitude: 18.1972636
+    latitude: 62.7596846
+    source: GPS
+  heading: 172
+  course: 318
+  speed:
+    stw: 0
+    sog: 0
+  log: 950.1
+  waypoint:
+    longitude: 18.19663
+    latitude: 62.75931
+  barometer: 1015.08
+  wind:
+    speed: 5.9
+    direction: 188
+  engine:
+    hours: 552.3
+  crewNames:
+    - bergie
+    - ihmis-suski
+  category: navigation
+- datetime: 2023-05-23T09:36:42.800Z
+  text: Detached buoy, motoring
+  author: bergie
+  position:
+    longitude: 18.1972905
+    latitude: 62.7596883
+    source: GPS
+  heading: 203
+  course: 318
+  speed:
+    stw: 0
+    sog: 0
+  log: 950.1
+  waypoint:
+    longitude: 18.19663
+    latitude: 62.75931
+  barometer: 1015.1
+  wind:
+    speed: 4.9
+    direction: 180
+  engine:
+    hours: 552.3
+  crewNames:
+    - bergie
+    - ihmis-suski
+  category: navigation
+  observations:
+    cloudCoverage: 1
+    seaState: 1
+    visibility: 8
+- datetime: 2023-05-23T09:53:52.800Z
+  text: Motor stopped, sailing with Parasailor
+  author: ""
+  position:
+    longitude: 18.1851023
+    latitude: 62.7662051
+    source: GPS
+  heading: 32
+  course: 31
+  speed:
+    stw: 3.8
+    sog: 3.8
+  log: 951
+  waypoint:
+    longitude: 18.19636
+    latitude: 62.77813
+  barometer: 1015.06
+  wind:
+    speed: 8.8
+    direction: 139
+  engine:
+    hours: 552.6
+  crewNames:
+    - bergie
+    - ihmis-suski
+  category: navigation
+- datetime: 2023-05-23T10:00:11.801Z
+  text: ""
+  author: ""
+  position:
+    longitude: 18.1919024
+    latitude: 62.7720664
+    source: GPS
+  heading: 34
+  course: 31
+  speed:
+    stw: 4
+    sog: 3.9
+  log: 951.4
+  waypoint:
+    longitude: 18.19636
+    latitude: 62.77813
+  barometer: 1015.02
+  wind:
+    speed: 9
+    direction: 162
+  engine:
+    hours: 552.6
+  crewNames:
+    - bergie
+    - ihmis-suski
