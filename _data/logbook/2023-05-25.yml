@@ -417,3 +417,58 @@
   crewNames:
     - bergie
     - ihmis-suski
+  category: navigation
+- datetime: 2023-05-25T20:48:44.403Z
+  text: Between the passing SCA ship and the rocks on the starboard, having to
+    adjust the vane quite a bit
+  author: bergie
+  position:
+    longitude: 19.550429
+    latitude: 63.2911788
+    source: GPS
+  heading: 54
+  course: 68
+  speed:
+    stw: 5.2
+    sog: 4.6
+  log: 1006.9
+  waypoint:
+    longitude: 19.70417
+    latitude: 63.33622
+  barometer: 1014.6
+  wind:
+    speed: 12.3
+    direction: 266
+  engine:
+    hours: 554.1
+  vhf: "16"
+  crewNames:
+    - bergie
+    - ihmis-suski
+  category: navigation
+- datetime: 2023-05-25T21:00:42.400Z
+  text: ""
+  author: ""
+  position:
+    longitude: 19.579816309611
+    latitude: 63.30365333557129
+    source: GPS
+  heading: 43
+  course: 46
+  speed:
+    stw: 5.4
+    sog: 5.8
+  log: 1008
+  waypoint:
+    longitude: 19.70417
+    latitude: 63.33622
+  barometer: 1014.62
+  wind:
+    speed: 15.8
+    direction: 276
+  engine:
+    hours: 554.1
+  vhf: "16"
+  crewNames:
+    - bergie
+    - ihmis-suski
