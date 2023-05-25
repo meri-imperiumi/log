@@ -52,33 +52,6 @@
     - bergie
     - ihmis-suski
   category: navigation
-- datetime: 2023-05-25T15:00:03.097Z
-  text: ""
-  author: ""
-  position:
-    longitude: 18.6519338
-    latitude: 63.0188821
-    source: GPS
-  heading: 42
-  course: 66
-  speed:
-    stw: 2.1
-    sog: 2.1
-  log: 977.1
-  waypoint:
-    longitude: 18.66294
-    latitude: 63.02192
-  barometer: 1016.16
-  wind:
-    speed: 3.5
-    direction: 296
-  engine:
-    hours: 554
-  vhf: "16"
-  crewNames:
-    - bergie
-    - ihmis-suski
-  category: navigation
 - datetime: 2023-05-25T15:02:20.102Z
   text: Motor stopped, sailing with Main, Genoa 1
   author: ""
@@ -134,8 +107,8 @@
     - ihmis-suski
   category: navigation
 - datetime: 2023-05-25T16:00:49.497Z
-  text: ""
-  author: ""
+  text: Bergie on watch, Suski to bed
+  author: bergie
   position:
     longitude: 18.8011938
     latitude: 63.0567041
@@ -153,6 +126,92 @@
   wind:
     speed: 13.2
     direction: 302
+  engine:
+    hours: 554.1
+  vhf: "16"
+  crewNames:
+    - bergie
+    - ihmis-suski
+  category: navigation
+- datetime: 2023-05-25T16:15:49.497Z
+  text: Autopilot deactivated,  windvane steering
+  author: bergie
+  position:
+    longitude: 18.8497543
+    latitude: 63.0689736
+    source: GPS
+  heading: 72
+  course: 68
+  speed:
+    stw: 6.2
+    sog: 6.1
+  log: 983.4
+  waypoint:
+    longitude: 18.91798
+    latitude: 63.08651
+  barometer: 1015.57
+  wind:
+    speed: 16.9
+    direction: 296
+  engine:
+    hours: 554.1
+  vhf: "16"
+  crewNames:
+    - bergie
+    - ihmis-suski
+  category: navigation
+  observations:
+    cloudCoverage: 6
+    seaState: 3
+    visibility: 7
+- datetime: 2023-05-25T16:42:41.401Z
+  text: "A little bit annoying wind situation, changing between 10kt and 22kt.
+    Some swell from the west banging sails when wind drops "
+  author: bergie
+  position:
+    longitude: 18.9235713
+    latitude: 63.0881369
+    source: GPS
+  heading: 58
+  course: 70
+  speed:
+    stw: 4.9
+    sog: 6
+  log: 985.7
+  waypoint:
+    longitude: 19.0292
+    latitude: 63.1199
+  barometer: 1015.6
+  wind:
+    speed: 11.3
+    direction: 282
+  engine:
+    hours: 554.1
+  vhf: "16"
+  crewNames:
+    - bergie
+    - ihmis-suski
+  category: navigation
+- datetime: 2023-05-25T17:00:35.398Z
+  text: ""
+  author: ""
+  position:
+    longitude: 18.9678656
+    latitude: 63.1026921
+    source: GPS
+  heading: 60
+  course: 65
+  speed:
+    stw: 5.3
+    sog: 4.7
+  log: 987.2
+  waypoint:
+    longitude: 19.0292
+    latitude: 63.1199
+  barometer: 1015.54
+  wind:
+    speed: 9.7
+    direction: 277
   engine:
     hours: 554.1
   vhf: "16"
