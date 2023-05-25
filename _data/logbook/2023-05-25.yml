@@ -472,3 +472,61 @@
   crewNames:
     - bergie
     - ihmis-suski
+  category: navigation
+- datetime: 2023-05-25T21:24:38.400Z
+  text: Switched to wing-on-wing, need to get a bit lower on the wind
+  author: bergie
+  position:
+    longitude: 19.6384461
+    latitude: 63.3260876
+    source: GPS
+  heading: 75
+  course: 81
+  speed:
+    stw: 5.2
+    sog: 5.1
+  log: 1010.1
+  waypoint:
+    longitude: 19.70417
+    latitude: 63.33622
+  barometer: 1014.29
+  wind:
+    speed: 10.9
+    direction: 275
+  engine:
+    hours: 554.1
+  vhf: "16"
+  crewNames:
+    - bergie
+    - ihmis-suski
+  category: navigation
+  observations:
+    seaState: 3
+    cloudCoverage: 7
+    visibility: 7
+- datetime: 2023-05-25T22:00:30.400Z
+  text: ""
+  author: ""
+  position:
+    longitude: 19.7358474
+    latitude: 63.3434879
+    source: GPS
+  heading: 66
+  course: 71
+  speed:
+    stw: 5
+    sog: 4.7
+  log: 1013
+  waypoint:
+    longitude: 19.84672
+    latitude: 63.38862
+  barometer: 1014.12
+  wind:
+    speed: 10.8
+    direction: 271
+  engine:
+    hours: 554.1
+  vhf: "16"
+  crewNames:
+    - bergie
+    - ihmis-suski
