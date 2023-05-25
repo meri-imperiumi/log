@@ -332,3 +332,88 @@
   crewNames:
     - bergie
     - ihmis-suski
+  category: navigation
+- datetime: 2023-05-25T19:37:16.403Z
+  text: Autopilot activated. Too light wind for the vane
+  author: bergie
+  position:
+    longitude: 19.3688223
+    latitude: 63.2265418
+    source: GPS
+  heading: 64
+  course: 50
+  speed:
+    stw: 3.6
+    sog: 3.2
+  log: 1000.5
+  waypoint:
+    longitude: 19.393
+    latitude: 63.22217
+  barometer: 1014.91
+  wind:
+    speed: 7.2
+    direction: 273
+  engine:
+    hours: 554.1
+  vhf: "16"
+  crewNames:
+    - bergie
+    - ihmis-suski
+  category: navigation
+  observations:
+    seaState: 3
+    cloudCoverage: 4
+    visibility: 7
+- datetime: 2023-05-25T19:42:35.398Z
+  text: Autopilot deactivated. Back to windvane
+  author: bergie
+  position:
+    longitude: 19.380636342366536
+    latitude: 63.229999335606884
+    source: GPS
+  heading: 50
+  course: 63
+  speed:
+    stw: 5.7
+    sog: 5.5
+  log: 1000.9
+  waypoint:
+    longitude: 19.393
+    latitude: 63.22217
+  barometer: 1014.95
+  wind:
+    speed: 13.8
+    direction: 260
+  engine:
+    hours: 554.1
+  vhf: "16"
+  crewNames:
+    - bergie
+    - ihmis-suski
+  category: navigation
+- datetime: 2023-05-25T20:00:51.398Z
+  text: ""
+  author: ""
+  position:
+    longitude: 19.4330593
+    latitude: 63.2453173
+    source: GPS
+  heading: 70
+  course: 72
+  speed:
+    stw: 5.7
+    sog: 5.1
+  log: 1002.7
+  waypoint:
+    longitude: 19.56499
+    latitude: 63.28019
+  barometer: 1014.96
+  wind:
+    speed: 13.2
+    direction: 292
+  engine:
+    hours: 554.1
+  vhf: "16"
+  crewNames:
+    - bergie
+    - ihmis-suski
