@@ -218,3 +218,90 @@
   crewNames:
     - bergie
     - ihmis-suski
+  category: navigation
+- datetime: 2023-05-25T17:15:31.398Z
+  text: Moved spinnaker halyard to the windward side of the pulpit to prevent it
+    slamming the genoa and shaking the whole rig
+  author: bergie
+  position:
+    longitude: 19.0051348
+    latitude: 63.1185476
+    source: GPS
+  heading: 48
+  course: 54
+  speed:
+    stw: 6.2
+    sog: 5.9
+  log: 988.6
+  waypoint:
+    longitude: 19.0292
+    latitude: 63.1199
+  barometer: 1015.47
+  wind:
+    speed: 19.6
+    direction: 258
+  engine:
+    hours: 554.1
+  vhf: "16"
+  crewNames:
+    - bergie
+    - ihmis-suski
+  category: navigation
+- datetime: 2023-05-25T18:00:18.400Z
+  text: ""
+  author: ""
+  position:
+    longitude: 19.1336829
+    latitude: 63.1586461
+    source: GPS
+  heading: 64
+  course: 60
+  speed:
+    stw: 6.3
+    sog: 6.1
+  log: 992.9
+  waypoint:
+    longitude: 19.24513
+    latitude: 63.1811
+  barometer: 1015.5
+  wind:
+    speed: 17.3
+    direction: 288
+  engine:
+    hours: 554.1
+  vhf: "16"
+  crewNames:
+    - bergie
+    - ihmis-suski
+  category: navigation
+- datetime: 2023-05-25T18:03:18.400Z
+  text: "Deployed hydrogenerator "
+  author: bergie
+  position:
+    longitude: 19.1426528
+    latitude: 63.1615015
+    source: GPS
+  heading: 61
+  course: 54
+  speed:
+    stw: 5.9
+    sog: 5.8
+  log: 993.2
+  waypoint:
+    longitude: 19.24513
+    latitude: 63.1811
+  barometer: 1015.46
+  wind:
+    speed: 17.2
+    direction: 272
+  engine:
+    hours: 554.1
+  vhf: "16"
+  crewNames:
+    - bergie
+    - ihmis-suski
+  category: navigation
+  observations:
+    seaState: 3
+    cloudCoverage: 6
+    visibility: 7
