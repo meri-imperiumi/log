@@ -530,3 +530,57 @@
   crewNames:
     - bergie
     - ihmis-suski
+  category: navigation
+- datetime: 2023-05-25T22:06:29.401Z
+  text: Suski on watch, Bergie to bed
+  author: bergie
+  position:
+    longitude: 19.7512748
+    latitude: 63.3469353
+    source: GPS
+  heading: 57
+  course: 47
+  speed:
+    stw: 5.2
+    sog: 4.6
+  log: 1013.5
+  waypoint:
+    longitude: 19.84672
+    latitude: 63.38862
+  barometer: 1014.12
+  wind:
+    speed: 12.2
+    direction: 284
+  engine:
+    hours: 554.1
+  vhf: "16"
+  crewNames:
+    - bergie
+    - ihmis-suski
+  category: navigation
+- datetime: 2023-05-25T23:00:18.400Z
+  text: ""
+  author: ""
+  position:
+    longitude: 19.8767603
+    latitude: 63.3920871
+    source: GPS
+  heading: 46
+  course: 46
+  speed:
+    stw: 4.3
+    sog: 4.2
+  log: 1017.9
+  waypoint:
+    longitude: 20.00188
+    latitude: 63.44225
+  barometer: 1013.78
+  wind:
+    speed: 9.6
+    direction: 258
+  engine:
+    hours: 554.1
+  vhf: "16"
+  crewNames:
+    - bergie
+    - ihmis-suski
