@@ -221,7 +221,8 @@
   category: navigation
 - datetime: 2023-05-25T17:15:31.398Z
   text: Moved spinnaker halyard to the windward side of the pulpit to prevent it
-    slamming the genoa and shaking the whole rig
+    slamming the genoa and shaking the whole rig. Seems a lot happier in clean
+    air
   author: bergie
   position:
     longitude: 19.0051348
@@ -305,3 +306,29 @@
     seaState: 3
     cloudCoverage: 6
     visibility: 7
+- datetime: 2023-05-25T19:00:03.398Z
+  text: ""
+  author: ""
+  position:
+    longitude: 19.2863821
+    latitude: 63.2035121
+    source: GPS
+  heading: 60
+  course: 70
+  speed:
+    stw: 5.1
+    sog: 4.7
+  log: 997.9
+  waypoint:
+    longitude: 19.393
+    latitude: 63.22217
+  barometer: 1015.15
+  wind:
+    speed: 12.3
+    direction: 283
+  engine:
+    hours: 554.1
+  vhf: "16"
+  crewNames:
+    - bergie
+    - ihmis-suski
