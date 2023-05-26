@@ -312,7 +312,7 @@
     - ihmis-suski
   category: navigation
 - datetime: 2023-05-26T05:10:05.600Z
-  text: "Stowed hydrogenerator "
+  text: Stowed hydrogenerator, wind getting lighter here in the Holmö channel
   author: bergie
   position:
     longitude: 20.6863004
@@ -335,3 +335,59 @@
     - bergie
     - ihmis-suski
   category: navigation
+  observations:
+    cloudCoverage: 7
+    seaState: 2
+    visibility: 8
+- datetime: 2023-05-26T05:35:57.600Z
+  text: "Deployed hydrogenerator "
+  author: bergie
+  position:
+    longitude: 20.7297621
+    latitude: 63.737376
+    source: GPS
+  heading: 33
+  course: 39
+  speed:
+    stw: 5.3
+    sog: 5.2
+  log: 1049.2
+  barometer: 1013.81
+  wind:
+    speed: 12.9
+    direction: 324
+  engine:
+    hours: 554.1
+  vhf: "16"
+  crewNames:
+    - bergie
+    - ihmis-suski
+  category: navigation
+- datetime: 2023-05-26T06:00:51.600Z
+  text: ""
+  author: bergie
+  position:
+    longitude: 20.7721793
+    latitude: 63.7670253
+    source: GPS
+  heading: 37
+  course: 37
+  speed:
+    stw: 5.3
+    sog: 6
+  log: 1051.4
+  barometer: 1013.96
+  wind:
+    speed: 12.3
+    direction: 289
+  engine:
+    hours: 554.1
+  vhf: "16"
+  crewNames:
+    - bergie
+    - ihmis-suski
+  category: navigation
+  observations:
+    seaState: 2
+    cloudCoverage: 3
+    visibility: 8
