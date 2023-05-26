@@ -997,3 +997,57 @@
   crewNames:
     - bergie
     - ihmis-suski
+  category: navigation
+- datetime: 2023-05-26T16:28:13.900Z
+  text: "Sails set: Main, Staysail. Gusts over 22kt now and we're heading slightly
+    windwards "
+  author: bergie
+  position:
+    longitude: 21.7033454
+    latitude: 64.4192518
+    source: GPS
+  heading: 23
+  course: 23
+  speed:
+    stw: 5.6
+    sog: 5.6
+  log: 1099
+  barometer: 1015.54
+  wind:
+    speed: 15.5
+    direction: 300
+  engine:
+    hours: 554.1
+  vhf: "16"
+  crewNames:
+    - bergie
+    - ihmis-suski
+  category: navigation
+- datetime: 2023-05-26T17:00:36.902Z
+  text: "Autopilot deactivated, windvane steering "
+  author: bergie
+  position:
+    longitude: 21.7194611
+    latitude: 64.4622749
+    source: GPS
+  heading: 2
+  course: 360
+  speed:
+    stw: 5.3
+    sog: 4.6
+  log: 1101.6
+  barometer: 1015.87
+  wind:
+    speed: 15.6
+    direction: 296
+  engine:
+    hours: 554.1
+  vhf: "16"
+  crewNames:
+    - bergie
+    - ihmis-suski
+  category: navigation
+  observations:
+    seaState: 3
+    cloudCoverage: 7
+    visibility: 7
