@@ -584,3 +584,63 @@
   crewNames:
     - bergie
     - ihmis-suski
+  category: navigation
+- datetime: 2023-05-25T23:01:18.400Z
+  text: Smetti out about 30 min ago.
+  author: ihmis-suski
+  position:
+    longitude: 19.8785096
+    latitude: 63.392934
+    source: GPS
+  heading: 41
+  course: 53
+  speed:
+    stw: 4.4
+    sog: 4.8
+  log: 1017.9
+  waypoint:
+    longitude: 20.00188
+    latitude: 63.44225
+  barometer: 1013.75
+  wind:
+    speed: 9.7
+    direction: 255
+  engine:
+    hours: 554.1
+  vhf: "16"
+  crewNames:
+    - bergie
+    - ihmis-suski
+  category: navigation
+  observations:
+    seaState: 2
+    cloudCoverage: 7
+    visibility: 7
+- datetime: 2023-05-25T23:39:10.400Z
+  text: "Hand steering. Wind died to 5 kn. And it is very bright. "
+  author: ihmis-suski
+  position:
+    longitude: 19.9316711
+    latitude: 63.4171929
+    source: GPS
+  heading: 50
+  course: 70
+  speed:
+    stw: 1.9
+    sog: 1.8
+  log: 1020
+  barometer: 1013.22
+  wind:
+    speed: 3.8
+    direction: 255
+  engine:
+    hours: 554.1
+  vhf: "16"
+  crewNames:
+    - bergie
+    - ihmis-suski
+  category: navigation
+  observations:
+    seaState: 2
+    cloudCoverage: 7
+    visibility: 7
