@@ -627,8 +627,8 @@
     - ihmis-suski
   category: navigation
 - datetime: 2023-05-26T10:00:50.598Z
-  text: ""
-  author: ""
+  text: Suski to sea watch, Bergie cooking lunch and the to off watch.
+  author: ihmis-suski
   position:
     longitude: 21.1306323
     latitude: 64.0339291
@@ -652,3 +652,89 @@
   crewNames:
     - bergie
     - ihmis-suski
+  category: navigation
+- datetime: 2023-05-26T10:24:22.598Z
+  text: "Sails set: Main, Genoa 1"
+  author: ""
+  position:
+    longitude: 21.1707408
+    latitude: 64.054328
+    source: GPS
+  heading: 53
+  course: 57
+  speed:
+    stw: 3.9
+    sog: 4.1
+  log: 1072.2
+  waypoint:
+    longitude: 21.16313
+    latitude: 64.07625
+  barometer: 1014.46
+  wind:
+    speed: 10.3
+    direction: 289
+  engine:
+    hours: 554.1
+  vhf: "16"
+  crewNames:
+    - bergie
+    - ihmis-suski
+  category: navigation
+- datetime: 2023-05-26T11:00:37.600Z
+  text: ""
+  author: ""
+  position:
+    longitude: 21.2421851
+    latitude: 64.095127
+    source: GPS
+  heading: 51
+  course: 55
+  speed:
+    stw: 3.7
+    sog: 3.6
+  log: 1075.4
+  waypoint:
+    longitude: 21.2676
+    latitude: 64.12111
+  barometer: 1014.59
+  wind:
+    speed: 10.4
+    direction: 290
+  engine:
+    hours: 554.1
+  vhf: "16"
+  crewNames:
+    - bergie
+    - ihmis-suski
+  category: navigation
+- datetime: 2023-05-26T11:04:32.601Z
+  text: "Autopilot activated. Starbuck has no hold in this wind. "
+  author: ihmis-suski
+  position:
+    longitude: 21.2493519
+    latitude: 64.0965578
+    source: GPS
+  heading: 82
+  course: 80
+  speed:
+    stw: 2.9
+    sog: 2.8
+  log: 1075.6
+  waypoint:
+    longitude: 21.2676
+    latitude: 64.12111
+  barometer: 1014.55
+  wind:
+    speed: 6.9
+    direction: 281
+  engine:
+    hours: 554.1
+  vhf: "16"
+  crewNames:
+    - bergie
+    - ihmis-suski
+  category: navigation
+  observations:
+    seaState: 2
+    cloudCoverage: 4
+    visibility: 8
