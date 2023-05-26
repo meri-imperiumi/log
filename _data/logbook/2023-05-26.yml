@@ -571,3 +571,84 @@
   crewNames:
     - bergie
     - ihmis-suski
+  category: navigation
+- datetime: 2023-05-26T09:21:34.598Z
+  text: "Sails set: Main, Staysail"
+  author: ""
+  position:
+    longitude: 21.0682978
+    latitude: 63.9958933
+    source: GPS
+  heading: 24
+  course: 29
+  speed:
+    stw: 3.4
+    sog: 2.7
+  log: 1067.6
+  waypoint:
+    longitude: 21.06725
+    latitude: 64.01636
+  barometer: 1014.44
+  wind:
+    speed: 10.2
+    direction: 292
+  engine:
+    hours: 554.1
+  vhf: "16"
+  crewNames:
+    - bergie
+    - ihmis-suski
+  category: navigation
+- datetime: 2023-05-26T09:42:54.598Z
+  text: "Stowed hydrogenerator "
+  author: bergie
+  position:
+    longitude: 21.0897773
+    latitude: 64.0181776
+    source: GPS
+  heading: 31
+  course: 37
+  speed:
+    stw: 4.3
+    sog: 4.4
+  log: 1069.1
+  waypoint:
+    longitude: 21.09949
+    latitude: 64.0448
+  barometer: 1014.39
+  wind:
+    speed: 13.7
+    direction: 302
+  engine:
+    hours: 554.1
+  vhf: "16"
+  crewNames:
+    - bergie
+    - ihmis-suski
+  category: navigation
+- datetime: 2023-05-26T10:00:50.598Z
+  text: ""
+  author: ""
+  position:
+    longitude: 21.1306323
+    latitude: 64.0339291
+    source: GPS
+  heading: 34
+  course: 28
+  speed:
+    stw: 4.9
+    sog: 4.4
+  log: 1070.5
+  waypoint:
+    longitude: 21.09949
+    latitude: 64.0448
+  barometer: 1014.45
+  wind:
+    speed: 13.9
+    direction: 302
+  engine:
+    hours: 554.1
+  vhf: "16"
+  crewNames:
+    - bergie
+    - ihmis-suski
