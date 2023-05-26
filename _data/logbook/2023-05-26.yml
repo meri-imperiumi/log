@@ -200,3 +200,61 @@
   crewNames:
     - bergie
     - ihmis-suski
+  category: navigation
+- datetime: 2023-05-26T03:17:30.700Z
+  text: Smetti purettu, Uumajan sisääntuloväylä ohituksessa.
+  author: ihmis-suski
+  position:
+    longitude: 20.4296983
+    latitude: 63.5861368
+    source: GPS
+  heading: 40
+  course: 37
+  speed:
+    stw: 5.2
+    sog: 5.7
+  log: 1037.1
+  waypoint:
+    longitude: 20.5223
+    latitude: 63.6385
+  barometer: 1012.94
+  wind:
+    speed: 13.4
+    direction: 276
+  engine:
+    hours: 554.1
+  vhf: "16"
+  crewNames:
+    - bergie
+    - ihmis-suski
+  category: navigation
+  observations:
+    seaState: 2
+    cloudCoverage: 6
+    visibility: 9
+- datetime: 2023-05-26T04:00:21.699Z
+  text: ""
+  author: ""
+  position:
+    longitude: 20.5326271
+    latitude: 63.6318178
+    source: GPS
+  heading: 43
+  course: 43
+  speed:
+    stw: 6
+    sog: 5.7
+  log: 1040.9
+  waypoint:
+    longitude: 20.5223
+    latitude: 63.6385
+  barometer: 1013.29
+  wind:
+    speed: 18.1
+    direction: 283
+  engine:
+    hours: 554.1
+  vhf: "16"
+  crewNames:
+    - bergie
+    - ihmis-suski
