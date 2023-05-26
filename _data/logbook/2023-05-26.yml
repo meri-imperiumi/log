@@ -791,3 +791,61 @@
   crewNames:
     - bergie
     - ihmis-suski
+  category: navigation
+- datetime: 2023-05-26T13:38:59.900Z
+  text: Finally a bit of wind, let's see for how long. Tiny rain clouds ahead.
+  author: ihmis-suski
+  position:
+    longitude: 21.5089288
+    latitude: 64.2238446
+    source: GPS
+  heading: 47
+  course: 42
+  speed:
+    stw: 5.6
+    sog: 5.1
+  log: 1085.9
+  waypoint:
+    longitude: 21.50062
+    latitude: 64.2484
+  barometer: 1014.98
+  wind:
+    speed: 13.4
+    direction: 299
+  engine:
+    hours: 554.1
+  vhf: "16"
+  crewNames:
+    - bergie
+    - ihmis-suski
+  category: navigation
+  observations:
+    seaState: 2
+    cloudCoverage: 5
+    visibility: 8
+- datetime: 2023-05-26T14:00:52.899Z
+  text: ""
+  author: ""
+  position:
+    longitude: 21.5411251
+    latitude: 64.2398538
+    source: GPS
+  heading: 44
+  course: 42
+  speed:
+    stw: 3.7
+    sog: 3.3
+  log: 1087.2
+  waypoint:
+    longitude: 21.60086
+    latitude: 64.32206
+  barometer: 1015.08
+  wind:
+    speed: 7.4
+    direction: 296
+  engine:
+    hours: 554.1
+  vhf: "16"
+  crewNames:
+    - bergie
+    - ihmis-suski
