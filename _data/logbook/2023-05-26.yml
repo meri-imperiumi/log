@@ -258,3 +258,80 @@
   crewNames:
     - bergie
     - ihmis-suski
+  category: navigation
+- datetime: 2023-05-26T04:16:18.700Z
+  text: "Breakfast: coffee and eggs. Bergie on watch, Suski to bed "
+  author: bergie
+  position:
+    longitude: 20.5791018
+    latitude: 63.6505781
+    source: GPS
+  heading: 43
+  course: 41
+  speed:
+    stw: 5.6
+    sog: 6.1
+  log: 1042.6
+  barometer: 1013.4
+  wind:
+    speed: 14.1
+    direction: 292
+  engine:
+    hours: 554.1
+  vhf: "16"
+  crewNames:
+    - bergie
+    - ihmis-suski
+  category: navigation
+  observations:
+    seaState: 2
+    cloudCoverage: 2
+    visibility: 8
+- datetime: 2023-05-26T05:00:07.600Z
+  text: ""
+  author: ""
+  position:
+    longitude: 20.6694338
+    latitude: 63.6970895
+    source: GPS
+  heading: 35
+  course: 36
+  speed:
+    stw: 4.9
+    sog: 4.9
+  log: 1046.3
+  barometer: 1013.75
+  wind:
+    speed: 12.3
+    direction: 309
+  engine:
+    hours: 554.1
+  vhf: "16"
+  crewNames:
+    - bergie
+    - ihmis-suski
+  category: navigation
+- datetime: 2023-05-26T05:10:05.600Z
+  text: "Stowed hydrogenerator "
+  author: bergie
+  position:
+    longitude: 20.6863004
+    latitude: 63.7083776
+    source: GPS
+  heading: 35
+  course: 36
+  speed:
+    stw: 4.4
+    sog: 4.4
+  log: 1047.2
+  barometer: 1013.64
+  wind:
+    speed: 9.3
+    direction: 279
+  engine:
+    hours: 554.1
+  vhf: "16"
+  crewNames:
+    - bergie
+    - ihmis-suski
+  category: navigation
