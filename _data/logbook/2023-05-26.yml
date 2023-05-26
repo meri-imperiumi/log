@@ -738,3 +738,56 @@
     seaState: 2
     cloudCoverage: 4
     visibility: 8
+- datetime: 2023-05-26T12:00:24.601Z
+  text: ""
+  author: ""
+  position:
+    longitude: 21.3343313
+    latitude: 64.1344191
+    source: GPS
+  heading: 45
+  course: 49
+  speed:
+    stw: 4.8
+    sog: 4.4
+  log: 1078.8
+  waypoint:
+    longitude: 21.36738
+    latitude: 64.17175
+  barometer: 1014.74
+  wind:
+    speed: 8.8
+    direction: 284
+  engine:
+    hours: 554.1
+  vhf: "16"
+  crewNames:
+    - bergie
+    - ihmis-suski
+  category: navigation
+- datetime: 2023-05-26T13:00:09.900Z
+  text: ""
+  author: ""
+  position:
+    longitude: 21.4455824
+    latitude: 64.1904646
+    source: GPS
+  heading: 43
+  course: 34
+  speed:
+    stw: 4.9
+    sog: 5
+  log: 1083.3
+  waypoint:
+    longitude: 21.50062
+    latitude: 64.2484
+  barometer: 1014.7
+  wind:
+    speed: 12.9
+    direction: 285
+  engine:
+    hours: 554.1
+  vhf: "16"
+  crewNames:
+    - bergie
+    - ihmis-suski
