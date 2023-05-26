@@ -518,8 +518,9 @@
     - ihmis-suski
   category: navigation
 - datetime: 2023-05-26T08:06:42.598Z
-  text: "Sails set: Main (1st reef), Staysail"
-  author: ""
+  text: "Sails set: Main (1st reef), Staysail. Gusts up to 27kt. Had to go to
+    130°TWA to get the genoa in "
+  author: bergie
   position:
     longitude: 20.9446198
     latitude: 63.9175525
@@ -544,3 +545,29 @@
     - bergie
     - ihmis-suski
   category: navigation
+- datetime: 2023-05-26T09:00:05.600Z
+  text: ""
+  author: ""
+  position:
+    longitude: 21.0415236
+    latitude: 63.9760515
+    source: GPS
+  heading: 17
+  course: 8
+  speed:
+    stw: 4.8
+    sog: 4.6
+  log: 1066.2
+  waypoint:
+    longitude: 21.06725
+    latitude: 64.01636
+  barometer: 1014.51
+  wind:
+    speed: 16.1
+    direction: 302
+  engine:
+    hours: 554.1
+  vhf: "16"
+  crewNames:
+    - bergie
+    - ihmis-suski
