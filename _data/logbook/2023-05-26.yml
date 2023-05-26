@@ -391,3 +391,74 @@
     seaState: 2
     cloudCoverage: 3
     visibility: 8
+- datetime: 2023-05-26T06:23:44.600Z
+  text: "Stowed hydrogenerator "
+  author: bergie
+  position:
+    longitude: 20.8009075
+    latitude: 63.7898033
+    source: GPS
+  heading: 22
+  course: 27
+  speed:
+    stw: 3.3
+    sog: 3.6
+  log: 1052.9
+  barometer: 1013.84
+  wind:
+    speed: 8.9
+    direction: 294
+  engine:
+    hours: 554.1
+  vhf: "16"
+  crewNames:
+    - bergie
+    - ihmis-suski
+  category: navigation
+- datetime: 2023-05-26T06:54:36.600Z
+  text: "Deployed hydrogenerator "
+  author: bergie
+  position:
+    longitude: 20.840188852945964
+    latitude: 63.82524763743082
+    source: GPS
+  heading: 23
+  course: 19
+  speed:
+    stw: 5.3
+    sog: 6
+  log: 1055.3
+  barometer: 1013.89
+  wind:
+    speed: 11.3
+    direction: 324
+  engine:
+    hours: 554.1
+  vhf: "16"
+  crewNames:
+    - bergie
+    - ihmis-suski
+  category: navigation
+- datetime: 2023-05-26T07:00:35.600Z
+  text: ""
+  author: ""
+  position:
+    longitude: 20.8462483
+    latitude: 63.8325046
+    source: GPS
+  heading: 21
+  course: 25
+  speed:
+    stw: 3.9
+    sog: 3.9
+  log: 1055.8
+  barometer: 1013.86
+  wind:
+    speed: 8.4
+    direction: 295
+  engine:
+    hours: 554.1
+  vhf: "16"
+  crewNames:
+    - bergie
+    - ihmis-suski
