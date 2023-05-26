@@ -462,3 +462,85 @@
   crewNames:
     - bergie
     - ihmis-suski
+  category: navigation
+- datetime: 2023-05-26T07:20:29.600Z
+  text: Autopilot deactivated, steering on windvane. Out of the narrows now
+  author: bergie
+  position:
+    longitude: 20.8642858
+    latitude: 63.8581829
+    source: GPS
+  heading: 33
+  course: 37
+  speed:
+    stw: 6.1
+    sog: 6.1
+  log: 1057.4
+  waypoint:
+    longitude: 20.86255
+    latitude: 63.85901
+  barometer: 1013.86
+  wind:
+    speed: 17.7
+    direction: 290
+  engine:
+    hours: 554.1
+  vhf: "16"
+  crewNames:
+    - bergie
+    - ihmis-suski
+  category: navigation
+- datetime: 2023-05-26T08:00:20.601Z
+  text: ""
+  author: ""
+  position:
+    longitude: 20.93341
+    latitude: 63.910799
+    source: GPS
+  heading: 69
+  course: 67
+  speed:
+    stw: 5.8
+    sog: 5.5
+  log: 1061.2
+  waypoint:
+    longitude: 20.93606
+    latitude: 63.91233
+  barometer: 1013.98
+  wind:
+    speed: 17.8
+    direction: 310
+  engine:
+    hours: 554.1
+  vhf: "16"
+  crewNames:
+    - bergie
+    - ihmis-suski
+  category: navigation
+- datetime: 2023-05-26T08:06:42.598Z
+  text: "Sails set: Main (1st reef), Staysail"
+  author: ""
+  position:
+    longitude: 20.9446198
+    latitude: 63.9175525
+    source: GPS
+  heading: 12
+  course: 14
+  speed:
+    stw: 6.1
+    sog: 5.9
+  log: 1061.7
+  waypoint:
+    longitude: 21.00526
+    latitude: 63.96167
+  barometer: 1014.03
+  wind:
+    speed: 20.4
+    direction: 282
+  engine:
+    hours: 554.1
+  vhf: "16"
+  crewNames:
+    - bergie
+    - ihmis-suski
+  category: navigation
