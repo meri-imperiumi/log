@@ -21,3 +21,132 @@
   crewNames:
     - bergie
     - ihmis-suski
+  category: navigation
+- datetime: 2023-05-26T00:11:03.300Z
+  text: "Starbuck back on duty. #windvane"
+  author: ihmis-suski
+  position:
+    longitude: 19.965866343180338
+    latitude: 63.437589995066325
+    source: GPS
+  heading: 42
+  course: 40
+  speed:
+    stw: 4.4
+    sog: 3.9
+  log: 1021.6
+  barometer: 1013.29
+  wind:
+    speed: 10.4
+    direction: 271
+  engine:
+    hours: 554.1
+  vhf: "16"
+  crewNames:
+    - bergie
+    - ihmis-suski
+  category: navigation
+  observations:
+    seaState: 2
+    cloudCoverage: 7
+    visibility: 8
+- datetime: 2023-05-26T00:16:01.300Z
+  text: Smetti is on. Clouds get a hot pink colour.
+  author: ihmis-suski
+  position:
+    longitude: 19.9736136
+    latitude: 63.4427788
+    source: GPS
+  heading: 45
+  course: 48
+  speed:
+    stw: 4.7
+    sog: 4.6
+  log: 1021.9
+  barometer: 1013.31
+  wind:
+    speed: 12.2
+    direction: 270
+  engine:
+    hours: 554.1
+  vhf: "16"
+  crewNames:
+    - bergie
+    - ihmis-suski
+  category: navigation
+  observations:
+    seaState: 2
+    cloudCoverage: 7
+    visibility: 8
+- datetime: 2023-05-26T00:43:56.300Z
+  text: Hand steer
+  author: ihmis-suski
+  position:
+    longitude: 20.0429896
+    latitude: 63.4608684
+    source: GPS
+  heading: 62
+  course: 61
+  speed:
+    stw: 4.6
+    sog: 4.6
+  log: 1024.1
+  barometer: 1013.11
+  wind:
+    speed: 9.5
+    direction: 283
+  engine:
+    hours: 554.1
+  vhf: "16"
+  crewNames:
+    - bergie
+    - ihmis-suski
+  category: navigation
+- datetime: 2023-05-26T01:00:55.300Z
+  text: ""
+  author: ""
+  position:
+    longitude: 20.0841269
+    latitude: 63.4717269
+    source: GPS
+  heading: 61
+  course: 64
+  speed:
+    stw: 4.8
+    sog: 5
+  log: 1025.5
+  barometer: 1013.19
+  wind:
+    speed: 9.9
+    direction: 273
+  engine:
+    hours: 554.1
+  vhf: "16"
+  crewNames:
+    - bergie
+    - ihmis-suski
+  category: navigation
+- datetime: 2023-05-26T01:05:33.300Z
+  text: Autopilot activated
+  author: ""
+  position:
+    longitude: 20.0946271
+    latitude: 63.4750701
+    source: GPS
+  heading: 59
+  course: 58
+  speed:
+    stw: 4.4
+    sog: 4.2
+  log: 1025.8
+  barometer: 1013.17
+  wind:
+    speed: 8.5
+    direction: 266
+  engine:
+    hours: 554.1
+  vhf: "16"
+  crewNames:
+    - bergie
+    - ihmis-suski
+  category: navigation
