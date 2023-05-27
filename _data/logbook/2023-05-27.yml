@@ -24,3 +24,57 @@
   crewNames:
     - bergie
     - ihmis-suski
+  category: navigation
+- datetime: 2023-05-27T00:29:21.100Z
+  text: "Sails set: Main (1st reef), Staysail"
+  author: ""
+  position:
+    longitude: 22.1958293
+    latitude: 65.1568898
+    source: GPS
+  heading: 24
+  course: 31
+  speed:
+    stw: 5.5
+    sog: 5.8
+  log: 1145.9
+  waypoint:
+    longitude: 22.23247
+    latitude: 65.20554
+  barometer: 1019.21
+  wind:
+    speed: 19
+    direction: 313
+  engine:
+    hours: 554.1
+  vhf: "16"
+  crewNames:
+    - bergie
+    - ihmis-suski
+  category: navigation
+- datetime: 2023-05-27T01:00:25.100Z
+  text: ""
+  author: ""
+  position:
+    longitude: 22.2277458
+    latitude: 65.2018076
+    source: GPS
+  heading: 18
+  course: 36
+  speed:
+    stw: 5.4
+    sog: 5.5
+  log: 1148.8
+  waypoint:
+    longitude: 22.23247
+    latitude: 65.20554
+  barometer: 1019.37
+  wind:
+    speed: 16.4
+    direction: 306
+  engine:
+    hours: 554.1
+  vhf: "16"
+  crewNames:
+    - bergie
+    - ihmis-suski
