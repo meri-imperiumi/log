@@ -272,3 +272,28 @@
     - bergie
     - ihmis-suski
   category: navigation
+- datetime: 2023-05-27T04:28:10.000Z
+  text: Stopped, Junkön guest pier
+  author: bergie
+  position:
+    longitude: 22.4030639
+    latitude: 65.4557111
+    source: GPS
+  heading: 286
+  course: 214
+  speed:
+    stw: 0
+    sog: 0
+  log: 1166.5
+  barometer: 1020.18
+  wind:
+    speed: 4.6
+    direction: 307
+  engine:
+    hours: 554.5
+  vhf: "16"
+  crewNames:
+    - bergie
+    - ihmis-suski
+  end: true
+  category: navigation
