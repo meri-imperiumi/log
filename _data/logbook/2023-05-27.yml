@@ -78,3 +78,62 @@
   crewNames:
     - bergie
     - ihmis-suski
+  category: navigation
+- datetime: 2023-05-27T01:47:13.100Z
+  text: Autopilot activated
+  author: ""
+  position:
+    longitude: 22.2606661
+    latitude: 65.2711376
+    source: GPS
+  heading: 13
+  course: 24
+  speed:
+    stw: 5.6
+    sog: 5.8
+  log: 1153
+  waypoint:
+    longitude: 22.3051
+    latitude: 65.31421
+  barometer: 1019.44
+  wind:
+    speed: 16.2
+    direction: 280
+  engine:
+    hours: 554.1
+  vhf: "16"
+  crewNames:
+    - bergie
+    - ihmis-suski
+  category: navigation
+- datetime: 2023-05-27T02:00:16.100Z
+  text: Bergie on watch, Suski to bed
+  author: bergie
+  position:
+    longitude: 22.2818976
+    latitude: 65.2899068
+    source: GPS
+  heading: 22
+  course: 18
+  speed:
+    stw: 6
+    sog: 5.1
+  log: 1154.3
+  waypoint:
+    longitude: 22.3051
+    latitude: 65.31421
+  barometer: 1019.48
+  wind:
+    speed: 16.6
+    direction: 285
+  engine:
+    hours: 554.1
+  vhf: "16"
+  crewNames:
+    - bergie
+    - ihmis-suski
+  category: navigation
+  observations:
+    seaState: 3
+    cloudCoverage: 0
+    visibility: 7
