@@ -349,3 +349,85 @@
   crewNames:
     - bergie
     - ihmis-suski
+  category: navigation
+- datetime: 2023-05-28T16:47:37.299Z
+  text: "Sails set: Main, Staysail"
+  author: ""
+  position:
+    longitude: 22.6726455
+    latitude: 65.8895716
+    source: GPS
+  heading: 324
+  course: 318
+  speed:
+    stw: 2.5
+    sog: 2.5
+  log: 1196.5
+  waypoint:
+    longitude: 22.6612
+    latitude: 65.89485
+  barometer: 1005.48
+  wind:
+    speed: 7.7
+    direction: 195
+  engine:
+    hours: 554.8
+  vhf: "16"
+  crewNames:
+    - bergie
+    - ihmis-suski
+  category: navigation
+- datetime: 2023-05-28T17:00:28.300Z
+  text: ""
+  author: ""
+  position:
+    longitude: 22.6592735
+    latitude: 65.8960219
+    source: GPS
+  heading: 329
+  course: 324
+  speed:
+    stw: 0.9
+    sog: 0.9
+  log: 1197
+  waypoint:
+    longitude: 22.65704
+    latitude: 65.89689
+  barometer: 1005.45
+  wind:
+    speed: 2.1
+    direction: 240
+  engine:
+    hours: 554.8
+  vhf: "16"
+  crewNames:
+    - bergie
+    - ihmis-suski
+  category: navigation
+- datetime: 2023-05-28T17:03:35.302Z
+  text: "Sails set: Main"
+  author: ""
+  position:
+    longitude: 22.6575011
+    latitude: 65.8969861
+    source: GPS
+  heading: 324
+  course: 320
+  speed:
+    stw: 2.1
+    sog: 2
+  log: 1197.1
+  waypoint:
+    longitude: 22.65712
+    latitude: 65.89712
+  barometer: 1005.49
+  wind:
+    speed: 5.9
+    direction: 271
+  engine:
+    hours: 554.8
+  vhf: "16"
+  crewNames:
+    - bergie
+    - ihmis-suski
+  category: navigation
