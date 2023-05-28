@@ -196,3 +196,51 @@
   crewNames:
     - bergie
     - ihmis-suski
+  category: navigation
+- datetime: 2023-05-28T13:56:15.398Z
+  text: Autopilot deactivated. Overpowered.
+  author: bergie
+  position:
+    longitude: 22.65823968251546
+    latitude: 65.7130168279012
+    source: GPS
+  heading: 54
+  course: 45
+  speed:
+    stw: 6.5
+    sog: 7.1
+  log: 1184.5
+  barometer: 1005.72
+  wind:
+    speed: 27.2
+    direction: 197
+  engine:
+    hours: 554.8
+  vhf: "16"
+  crewNames:
+    - bergie
+    - ihmis-suski
+  category: navigation
+- datetime: 2023-05-28T14:00:15.398Z
+  text: ""
+  author: ""
+  position:
+    longitude: 22.6700781
+    latitude: 65.7175268
+    source: GPS
+  heading: 36
+  course: 35
+  speed:
+    stw: 5.4
+    sog: 5.7
+  log: 1184.9
+  barometer: 1005.85
+  wind:
+    speed: 18.5
+    direction: 187
+  engine:
+    hours: 554.8
+  vhf: "16"
+  crewNames:
+    - bergie
+    - ihmis-suski
