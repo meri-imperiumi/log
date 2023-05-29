@@ -134,8 +134,8 @@
     - ihmis-suski
   category: navigation
 - datetime: 2023-05-29T10:57:28.899Z
-  text: Autopilot deactivated
-  author: ""
+  text: Autopilot deactivated, narrow spot
+  author: bergie
   position:
     longitude: 22.7106248
     latitude: 65.8723634
@@ -180,6 +180,54 @@
   wind:
     speed: 11.9
     direction: 232
+  engine:
+    hours: 555.1
+  vhf: "16"
+  crewNames:
+    - bergie
+    - ihmis-suski
+  category: navigation
+- datetime: 2023-05-29T11:20:12.899Z
+  text: Autopilot activated
+  author: ""
+  position:
+    longitude: 22.7327998
+    latitude: 65.8399136
+    source: GPS
+  heading: 130
+  course: 135
+  speed:
+    stw: 5.4
+    sog: 5.5
+  log: 1202
+  barometer: 1009.27
+  wind:
+    speed: 13.7
+    direction: 259
+  engine:
+    hours: 555.1
+  vhf: "16"
+  crewNames:
+    - bergie
+    - ihmis-suski
+  category: navigation
+- datetime: 2023-05-29T12:00:48.899Z
+  text: ""
+  author: ""
+  position:
+    longitude: 22.8155605
+    latitude: 65.7923576
+    source: GPS
+  heading: 157
+  course: 158
+  speed:
+    stw: 6
+    sog: 6.4
+  log: 1205.7
+  barometer: 1009.27
+  wind:
+    speed: 16.6
+    direction: 221
   engine:
     hours: 555.1
   vhf: "16"
