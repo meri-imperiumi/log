@@ -357,7 +357,7 @@
   category: navigation
 - datetime: 2023-05-29T15:00:07.897Z
   text: ""
-  author: ""
+  author: bergie
   position:
     longitude: 23.3954904
     latitude: 65.6445578
@@ -372,6 +372,91 @@
   wind:
     speed: 16.5
     direction: 201
+  engine:
+    hours: 555.1
+  vhf: "16"
+  crewNames:
+    - bergie
+    - ihmis-suski
+  category: navigation
+  observations:
+    seaState: 3
+    cloudCoverage: 7
+    visibility: 8
+- datetime: 2023-05-29T15:20:02.803Z
+  text: "Deployed hydrogenerator "
+  author: bergie
+  position:
+    longitude: 23.4806041
+    latitude: 65.6357905
+    source: GPS
+  heading: 104
+  course: 98
+  speed:
+    stw: 6.2
+    sog: 6.6
+  log: 1225.2
+  waypoint:
+    longitude: 23.55731
+    latitude: 65.62917
+  barometer: 1010.13
+  wind:
+    speed: 18.8
+    direction: 202
+  engine:
+    hours: 555.1
+  vhf: "16"
+  crewNames:
+    - bergie
+    - ihmis-suski
+  category: navigation
+- datetime: 2023-05-29T15:52:53.798Z
+  text: "Wing on wing towards Haaparanta "
+  author: bergie
+  position:
+    longitude: 23.6106426
+    latitude: 65.6270538
+    source: GPS
+  heading: 53
+  course: 70
+  speed:
+    stw: 6
+    sog: 5.1
+  log: 1228.5
+  waypoint:
+    longitude: 23.73424
+    latitude: 65.66636
+  barometer: 1010.39
+  wind:
+    speed: 17.9
+    direction: 192
+  engine:
+    hours: 555.1
+  vhf: "16"
+  crewNames:
+    - bergie
+    - ihmis-suski
+  category: navigation
+- datetime: 2023-05-29T16:00:50.803Z
+  text: ""
+  author: ""
+  position:
+    longitude: 23.6361781
+    latitude: 65.6340005
+    source: GPS
+  heading: 53
+  course: 60
+  speed:
+    stw: 5.9
+    sog: 5.7
+  log: 1229.2
+  waypoint:
+    longitude: 23.73424
+    latitude: 65.66636
+  barometer: 1010.4
+  wind:
+    speed: 16.6
+    direction: 190
   engine:
     hours: 555.1
   vhf: "16"
