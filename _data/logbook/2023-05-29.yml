@@ -463,3 +463,89 @@
   crewNames:
     - bergie
     - ihmis-suski
+  category: navigation
+- datetime: 2023-05-29T16:47:39.801Z
+  text: "Sails set: Main (1st reef)"
+  author: ""
+  position:
+    longitude: 23.762675
+    latitude: 65.6793909
+    source: GPS
+  heading: 34
+  course: 32
+  speed:
+    stw: 4.7
+    sog: 5.2
+  log: 1233.4
+  waypoint:
+    longitude: 23.76933
+    latitude: 65.68315
+  barometer: 1010.48
+  wind:
+    speed: 15.2
+    direction: 215
+  engine:
+    hours: 555.1
+  vhf: "16"
+  crewNames:
+    - bergie
+    - ihmis-suski
+  category: navigation
+- datetime: 2023-05-29T16:57:34.796Z
+  text: "Stowed hydrogenerator "
+  author: bergie
+  position:
+    longitude: 23.7770149
+    latitude: 65.690482
+    source: GPS
+  heading: 29
+  course: 26
+  speed:
+    stw: 5.2
+    sog: 4.9
+  log: 1234.2
+  waypoint:
+    longitude: 23.77824
+    latitude: 65.69361
+  barometer: 1010.58
+  wind:
+    speed: 17
+    direction: 236
+  engine:
+    hours: 555.1
+  vhf: "16"
+  crewNames:
+    - bergie
+    - ihmis-suski
+  category: navigation
+  observations:
+    seaState: 2
+    cloudCoverage: 5
+    visibility: 8
+- datetime: 2023-05-29T17:00:34.803Z
+  text: ""
+  author: ""
+  position:
+    longitude: 23.7813628
+    latitude: 65.6938756
+    source: GPS
+  heading: 29
+  course: 18
+  speed:
+    stw: 4.5
+    sog: 5
+  log: 1234.4
+  waypoint:
+    longitude: 23.80634
+    latitude: 65.71596
+  barometer: 1010.56
+  wind:
+    speed: 15.9
+    direction: 249
+  engine:
+    hours: 555.1
+  vhf: "16"
+  crewNames:
+    - bergie
+    - ihmis-suski
+  category: navigation
