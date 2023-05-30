@@ -25,3 +25,141 @@
     - bergie
     - ihmis-suski
   category: navigation
+- datetime: 2023-05-30T13:22:18.899Z
+  text: Motoring
+  author: ""
+  position:
+    longitude: 23.8973143
+    latitude: 65.7716438
+    source: GPS
+  heading: 252
+  course: 250
+  speed:
+    stw: 4.6
+    sog: 4.5
+  log: 1240.3
+  waypoint:
+    longitude: 23.89511
+    latitude: 65.77056
+  barometer: 1015.56
+  wind:
+    speed: 14.3
+    direction: 216
+  engine:
+    hours: 555.7
+  vhf: "16"
+  crewNames:
+    - bergie
+    - ihmis-suski
+  category: navigation
+- datetime: 2023-05-30T13:45:54.899Z
+  text: Motor stopped, sailing with Main (1st reef)
+  author: ""
+  position:
+    longitude: 23.8901456
+    latitude: 65.7499766
+    source: GPS
+  heading: 131
+  course: 139
+  speed:
+    stw: 5
+    sog: 5.2
+  log: 1241.9
+  waypoint:
+    longitude: 23.90227
+    latitude: 65.74099
+  barometer: 1014.74
+  wind:
+    speed: 20.2
+    direction: 207
+  engine:
+    hours: 556.1
+  vhf: "16"
+  crewNames:
+    - bergie
+    - ihmis-suski
+  category: navigation
+- datetime: 2023-05-30T13:55:51.900Z
+  text: Autopilot activated
+  author: ""
+  position:
+    longitude: 23.9205975
+    latitude: 65.7434156
+    source: GPS
+  heading: 113
+  course: 114
+  speed:
+    stw: 6
+    sog: 5.8
+  log: 1242.8
+  waypoint:
+    longitude: 23.94043
+    latitude: 65.74212
+  barometer: 1014.8
+  wind:
+    speed: 20.1
+    direction: 211
+  engine:
+    hours: 556.1
+  vhf: "16"
+  crewNames:
+    - bergie
+    - ihmis-suski
+  category: navigation
+- datetime: 2023-05-30T13:58:59.900Z
+  text: "Deployed hydrogenerator "
+  author: bergie
+  position:
+    longitude: 23.9330936
+    latitude: 65.7429244
+    source: GPS
+  heading: 84
+  course: 103
+  speed:
+    stw: 6.4
+    sog: 6.3
+  log: 1243.1
+  waypoint:
+    longitude: 23.94043
+    latitude: 65.74212
+  barometer: 1014.8
+  wind:
+    speed: 23.1
+    direction: 219
+  engine:
+    hours: 556.1
+  vhf: "16"
+  crewNames:
+    - bergie
+    - ihmis-suski
+  category: navigation
+  observations:
+    seaState: 3
+    cloudCoverage: 8
+    visibility: 8
+- datetime: 2023-05-30T13:59:59.900Z
+  text: ""
+  author: ""
+  position:
+    longitude: 23.9373516
+    latitude: 65.7430823
+    source: GPS
+  heading: 89
+  course: 84
+  speed:
+    stw: 6.2
+    sog: 7.1
+  log: 1243.2
+  waypoint:
+    longitude: 23.94043
+    latitude: 65.74212
+  barometer: 1014.86
+  wind:
+    speed: 25.9
+    direction: 219
+  engine:
+    hours: 556.1
+  vhf: "16"
+  crewNames:
+    - bergie
+    - ihmis-suski
