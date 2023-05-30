@@ -271,3 +271,162 @@
   crewNames:
     - bergie
     - ihmis-suski
+  category: navigation
+- datetime: 2023-05-30T15:10:40.902Z
+  text: Crossed the fairway, and the border to Finland
+  author: bergie
+  position:
+    longitude: 24.1563733
+    latitude: 65.7433205
+    source: GPS
+  heading: 111
+  course: 114
+  speed:
+    stw: 6
+    sog: 6.3
+  log: 1249.9
+  waypoint:
+    longitude: 24.21376
+    latitude: 65.72952
+  barometer: 1014.09
+  wind:
+    speed: 19.6
+    direction: 202
+  engine:
+    hours: 556.1
+  vhf: "16"
+  crewNames:
+    - bergie
+    - ihmis-suski
+  category: navigation
+  observations:
+    seaState: 2
+    cloudCoverage: 6
+    visibility: 8
+- datetime: 2023-05-30T15:29:36.902Z
+  text: Autopilot deactivated
+  author: ""
+  position:
+    longitude: 24.2260753
+    latitude: 65.744045
+    source: GPS
+  heading: 12
+  course: 357
+  speed:
+    stw: 6.4
+    sog: 6
+  log: 1251.9
+  waypoint:
+    longitude: 24.22682
+    latitude: 65.75258
+  barometer: 1014.37
+  wind:
+    speed: 23.2
+    direction: 247
+  engine:
+    hours: 556.1
+  vhf: "16"
+  crewNames:
+    - bergie
+    - ihmis-suski
+  category: navigation
+- datetime: 2023-05-30T15:41:20.902Z
+  text: Sails down, motoring
+  author: ""
+  position:
+    longitude: 24.2390468
+    latitude: 65.7612346
+    source: GPS
+  heading: 337
+  course: 331
+  speed:
+    stw: 5.6
+    sog: 5.5
+  log: 1253.1
+  waypoint:
+    longitude: 24.23276
+    latitude: 65.7647
+  barometer: 1014.12
+  wind:
+    speed: 23.1
+    direction: 230
+  engine:
+    hours: 556.1
+  vhf: "16"
+  crewNames:
+    - bergie
+    - ihmis-suski
+  category: navigation
+- datetime: 2023-05-30T15:49:44.902Z
+  text: Stopped
+  author: ""
+  position:
+    longitude: 24.2287408
+    latitude: 65.7660593
+    source: GPS
+  heading: 278
+  course: 280
+  speed:
+    stw: 0
+    sog: 0
+  log: 1253.6
+  barometer: 1013.99
+  wind:
+    speed: 14.1
+    direction: 235
+  engine:
+    hours: 556.2
+  vhf: "16"
+  crewNames:
+    - bergie
+    - ihmis-suski
+  end: true
+  category: navigation
+- datetime: 2023-05-30T15:52:16.902Z
+  text: Started main engine
+  author: ""
+  position:
+    longitude: 24.2287251
+    latitude: 65.7660699
+    source: GPS
+  heading: 277
+  course: 280
+  speed:
+    stw: 0
+    sog: 0
+  log: 1253.6
+  barometer: 1013.91
+  wind:
+    speed: 13.4
+    direction: 239
+  engine:
+    hours: 556.3
+  vhf: "16"
+  crewNames:
+    - bergie
+    - ihmis-suski
+  category: navigation
+- datetime: 2023-05-30T15:53:45.900Z
+  text: Stopped main engine
+  author: ""
+  position:
+    longitude: 24.2286609
+    latitude: 65.7660663
+    source: GPS
+  heading: 284
+  course: 280
+  speed:
+    stw: 0
+    sog: 0
+  log: 1253.6
+  barometer: 1013.84
+  wind:
+    speed: 10.7
+    direction: 252
+  engine:
+    hours: 556.3
+  vhf: "16"
+  crewNames:
+    - bergie
+    - ihmis-suski
+  category: navigation
