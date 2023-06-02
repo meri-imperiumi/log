@@ -71,8 +71,8 @@
     - ihmis-suski
   category: navigation
 - datetime: 2023-06-02T11:02:12.300Z
-  text: Motor stopped, sailing with Main (1st reef), Genoa 1 (30% furled)
-  author: ""
+  text: Motor stopped, sailing with Main (1st reef)
+  author: bergie
   position:
     longitude: 24.2349681
     latitude: 65.7558466
@@ -94,3 +94,102 @@
     - bergie
     - ihmis-suski
   category: navigation
+- datetime: 2023-06-02T11:20:00.300Z
+  text: "Deployed hydrogenerator "
+  author: bergie
+  position:
+    longitude: 24.22112867037455
+    latitude: 65.73535016377767
+    source: GPS
+  heading: 222
+  course: 215
+  speed:
+    stw: 5.5
+    sog: 5.5
+  log: 1255.7
+  barometer: 1017.23
+  wind:
+    speed: 19.4
+    direction: 10
+  engine:
+    hours: 556.6
+  vhf: "16"
+  crewNames:
+    - bergie
+    - ihmis-suski
+  category: navigation
+  observations:
+    seaState: 2
+    cloudCoverage: 6
+    visibility: 8
+- datetime: 2023-06-02T11:24:04.300Z
+  text: "Sails set: Main (1st reef), Genoa 1 (40% furled)"
+  author: ""
+  position:
+    longitude: 24.2138236
+    latitude: 65.731361
+    source: GPS
+  heading: 223
+  course: 225
+  speed:
+    stw: 5.9
+    sog: 5.7
+  log: 1256
+  barometer: 1017.18
+  wind:
+    speed: 19.4
+    direction: 341
+  engine:
+    hours: 556.6
+  vhf: "16"
+  crewNames:
+    - bergie
+    - ihmis-suski
+  category: navigation
+- datetime: 2023-06-02T11:39:23.299Z
+  text: "Sails set: Main (1st reef)"
+  author: ""
+  position:
+    longitude: 24.1753616
+    latitude: 65.7128941
+    source: GPS
+  heading: 175
+  course: 173
+  speed:
+    stw: 5.1
+    sog: 4.7
+  log: 1257.6
+  barometer: 1017.58
+  wind:
+    speed: 16.5
+    direction: 18
+  engine:
+    hours: 556.6
+  vhf: "16"
+  crewNames:
+    - bergie
+    - ihmis-suski
+  category: navigation
+- datetime: 2023-06-02T12:00:50.300Z
+  text: ""
+  author: ""
+  position:
+    longitude: 24.1918548
+    latitude: 65.6849781
+    source: GPS
+  heading: 159
+  course: 167
+  speed:
+    stw: 4.3
+    sog: 4.1
+  log: 1259.3
+  barometer: 1017.64
+  wind:
+    speed: 11.4
+    direction: 350
+  engine:
+    hours: 556.6
+  vhf: "16"
+  crewNames:
+    - bergie
+    - ihmis-suski
