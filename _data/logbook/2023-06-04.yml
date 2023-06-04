@@ -268,3 +268,56 @@
   crewNames:
     - bergie
     - ihmis-suski
+  category: navigation
+- datetime: 2023-06-04T11:22:24.998Z
+  text: "Crossed the Kemi shipping fairway "
+  author: bergie
+  position:
+    longitude: 24.1919538
+    latitude: 65.4250991
+    source: GPS
+  heading: 177
+  course: 178
+  speed:
+    stw: 5.3
+    sog: 5.2
+  log: 1277.6
+  barometer: 1014.27
+  wind:
+    speed: 12.4
+    direction: 252
+  engine:
+    hours: 557.2
+  vhf: "16"
+  crewNames:
+    - bergie
+    - ihmis-suski
+  category: navigation
+  observations:
+    seaState: 2
+    cloudCoverage: 5
+    visibility: 8
+- datetime: 2023-06-04T12:00:22.000Z
+  text: Suski on watch, Bergie to rest
+  author: bergie
+  position:
+    longitude: 24.2030576
+    latitude: 65.3698419
+    source: GPS
+  heading: 169
+  course: 170
+  speed:
+    stw: 5.2
+    sog: 4.9
+  log: 1280.9
+  barometer: 1014.33
+  wind:
+    speed: 11
+    direction: 247
+  engine:
+    hours: 557.2
+  vhf: "16"
+  crewNames:
+    - bergie
+    - ihmis-suski
+  category: navigation
