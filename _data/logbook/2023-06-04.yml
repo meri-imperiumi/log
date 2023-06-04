@@ -344,3 +344,28 @@
   crewNames:
     - bergie
     - ihmis-suski
+  category: navigation
+- datetime: 2023-06-04T14:00:12.000Z
+  text: "Bergie on watch, Suski to bed "
+  author: bergie
+  position:
+    longitude: 24.2524968
+    latitude: 65.1876611
+    source: GPS
+  heading: 170
+  course: 178
+  speed:
+    stw: 6.2
+    sog: 6.3
+  log: 1292
+  barometer: 1014.14
+  wind:
+    speed: 15.7
+    direction: 252
+  engine:
+    hours: 557.2
+  vhf: "16"
+  crewNames:
+    - bergie
+    - ihmis-suski
+  category: navigation
