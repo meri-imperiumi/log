@@ -169,3 +169,32 @@
   crewNames:
     - bergie
     - ihmis-suski
+  category: navigation
+- datetime: 2023-06-06T10:29:51.600Z
+  text: We have a Arctic Tern (sterna paradisea) on the solar panel!
+  author: ihmis-suski
+  position:
+    longitude: 24.3939018
+    latitude: 64.8450693
+    source: GPS
+  heading: 197
+  course: 188
+  speed:
+    stw: 4
+    sog: 3.9
+  log: 1319.7
+  barometer: 1019.2
+  wind:
+    speed: 5.7
+    direction: 253
+  engine:
+    hours: 557.8
+  vhf: "16"
+  crewNames:
+    - bergie
+    - ihmis-suski
+  category: navigation
+  observations:
+    seaState: 2
+    cloudCoverage: 7
+    visibility: 8
