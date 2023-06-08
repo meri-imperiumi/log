@@ -465,3 +465,103 @@
   crewNames:
     - bergie
     - ihmis-suski
+  category: navigation
+- datetime: 2023-06-08T15:36:32.499Z
+  text: Autopilot activated
+  author: ""
+  position:
+    longitude: 23.0495011
+    latitude: 63.9706308
+    source: GPS
+  heading: 243
+  course: 236
+  speed:
+    stw: 5.7
+    sog: 5.2
+  log: 1386.5
+  barometer: 1020.11
+  wind:
+    speed: 13.2
+    direction: 318
+  engine:
+    hours: 559
+  vhf: "16"
+  crewNames:
+    - bergie
+    - ihmis-suski
+  category: navigation
+- datetime: 2023-06-08T15:50:27.500Z
+  text: "Stowed hydrogenerator "
+  author: bergie
+  position:
+    longitude: 23.0286911
+    latitude: 63.9533263
+    source: GPS
+  heading: 188
+  course: 185
+  speed:
+    stw: 5.2
+    sog: 4.9
+  log: 1387.7
+  barometer: 1020.27
+  wind:
+    speed: 14.1
+    direction: 314
+  engine:
+    hours: 559
+  vhf: "16"
+  crewNames:
+    - bergie
+    - ihmis-suski
+  category: navigation
+  observations:
+    seaState: 2
+    cloudCoverage: 1
+    visibility: 8
+- datetime: 2023-06-08T15:53:24.499Z
+  text: "Sails set: Main. Entered Kokkola fairway"
+  author: bergie
+  position:
+    longitude: 23.0293561
+    latitude: 63.9491958
+    source: GPS
+  heading: 163
+  course: 165
+  speed:
+    stw: 4.8
+    sog: 4.6
+  log: 1388
+  barometer: 1020.28
+  wind:
+    speed: 14.3
+    direction: 300
+  engine:
+    hours: 559
+  vhf: "16"
+  crewNames:
+    - bergie
+    - ihmis-suski
+  category: navigation
+- datetime: 2023-06-08T16:00:24.499Z
+  text: ""
+  author: ""
+  position:
+    longitude: 23.0348564
+    latitude: 63.9402565
+    source: GPS
+  heading: 167
+  course: 159
+  speed:
+    stw: 4.9
+    sog: 5
+  log: 1388.5
+  barometer: 1020.35
+  wind:
+    speed: 14.9
+    direction: 314
+  engine:
+    hours: 559
+  vhf: "16"
+  crewNames:
+    - bergie
+    - ihmis-suski
