@@ -248,7 +248,7 @@
     visibility: 8
 - datetime: 2023-06-08T10:00:51.200Z
   text: ""
-  author: ""
+  author: bergie
   position:
     longitude: 23.7321079
     latitude: 64.3617091
@@ -263,6 +263,58 @@
   wind:
     speed: 10.3
     direction: 314
+  engine:
+    hours: 559
+  vhf: "16"
+  crewNames:
+    - bergie
+    - ihmis-suski
+  category: navigation
+  observations:
+    cloudCoverage: 3
+    seaState: 2
+    visibility: 8
+- datetime: 2023-06-08T10:38:43.200Z
+  text: "Passing the self-governing Kalla Islands "
+  author: bergie
+  position:
+    longitude: 23.6571034
+    latitude: 64.3176435
+    source: GPS
+  heading: 226
+  course: 224
+  speed:
+    stw: 5
+    sog: 4.7
+  log: 1360.1
+  barometer: 1017.18
+  wind:
+    speed: 9.4
+    direction: 288
+  engine:
+    hours: 559
+  vhf: "16"
+  crewNames:
+    - bergie
+    - ihmis-suski
+  category: navigation
+- datetime: 2023-06-08T11:00:38.201Z
+  text: ""
+  author: ""
+  position:
+    longitude: 23.6143436
+    latitude: 64.2965726
+    source: GPS
+  heading: 223
+  course: 219
+  speed:
+    stw: 5.1
+    sog: 5.4
+  log: 1361.8
+  barometer: 1017.28
+  wind:
+    speed: 10.1
+    direction: 310
   engine:
     hours: 559
   vhf: "16"
