@@ -44,8 +44,8 @@
     - bergie
   category: navigation
 - datetime: 2023-06-10T14:41:22.201Z
-  text: Sailing with Main, Genoa 1
-  author: ""
+  text: Motoring
+  author: bergie
   position:
     longitude: 23.1112346
     latitude: 63.8649426
@@ -84,30 +84,6 @@
   wind:
     speed: 10
     direction: 306
-  engine:
-    hours: 559.4
-  vhf: "16"
-  crewNames:
-    - bergie
-    - bernhard
-  category: navigation
-- datetime: 2023-06-10T15:12:04.198Z
-  text: Sails down, motoring
-  author: ""
-  position:
-    longitude: 23.0737803
-    latitude: 63.9001366
-    source: GPS
-  heading: 324
-  course: 318
-  speed:
-    stw: 4.8
-    sog: 4.6
-  log: 1396.2
-  barometer: 1029.58
-  wind:
-    speed: 9.7
-    direction: 296
   engine:
     hours: 559.4
   vhf: "16"
@@ -234,3 +210,29 @@
   crewNames:
     - bergie
     - bernhard
+  category: navigation
+- datetime: 2023-06-10T17:03:54.201Z
+  text: Stopped
+  author: ""
+  position:
+    longitude: 22.8511306
+    latitude: 63.9488604
+    source: GPS
+  heading: 217
+  course: 219
+  speed:
+    stw: 0
+    sog: 0
+  log: 1403.6
+  barometer: 1029.33
+  wind:
+    speed: 5.6
+    direction: 237
+  engine:
+    hours: 559.9
+  vhf: "16"
+  crewNames:
+    - bergie
+    - bernhard
+  end: true
+  category: navigation
