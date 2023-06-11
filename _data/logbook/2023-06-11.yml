@@ -347,8 +347,8 @@
     - bernhard
   category: navigation
 - datetime: 2023-06-11T13:00:11.100Z
-  text: ""
-  author: ""
+  text: "Waves seem to have gotten a bit smaller. Not getting splashed so often "
+  author: bergie
   position:
     longitude: 22.1124428
     latitude: 63.9475046
@@ -363,6 +363,58 @@
   wind:
     speed: 16.4
     direction: 202
+  engine:
+    hours: 560.2
+  vhf: "16"
+  crewNames:
+    - bergie
+    - bernhard
+  category: navigation
+  observations:
+    seaState: 3
+    cloudCoverage: 2
+    visibility: 8
+- datetime: 2023-06-11T13:46:18.099Z
+  text: "Sails set: Main, Staysail"
+  author: ""
+  position:
+    longitude: 22.1657926
+    latitude: 63.8954436
+    source: GPS
+  heading: 165
+  course: 160
+  speed:
+    stw: 4
+    sog: 3.4
+  log: 1432.7
+  barometer: 1026.8
+  wind:
+    speed: 13.4
+    direction: 196
+  engine:
+    hours: 560.2
+  vhf: "16"
+  crewNames:
+    - bergie
+    - bernhard
+  category: navigation
+- datetime: 2023-06-11T14:00:12.099Z
+  text: ""
+  author: ""
+  position:
+    longitude: 22.1756716
+    latitude: 63.8829511
+    source: GPS
+  heading: 157
+  course: 156
+  speed:
+    stw: 3.9
+    sog: 3.5
+  log: 1433.5
+  barometer: 1026.72
+  wind:
+    speed: 14.2
+    direction: 205
   engine:
     hours: 560.2
   vhf: "16"
