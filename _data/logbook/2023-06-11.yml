@@ -781,3 +781,29 @@
   crewNames:
     - bergie
     - bernhard
+  category: navigation
+- datetime: 2023-06-11T21:45:44.000Z
+  text: Stopped
+  author: ""
+  position:
+    longitude: 22.3307323
+    latitude: 63.4738273
+    source: GPS
+  heading: 233
+  course: 205
+  speed:
+    stw: 0
+    sog: 0
+  log: 1466.4
+  barometer: 1025.71
+  wind:
+    speed: 5.3
+    direction: 185
+  engine:
+    hours: 562.5
+  vhf: "16"
+  crewNames:
+    - bergie
+    - bernhard
+  end: true
+  category: navigation
