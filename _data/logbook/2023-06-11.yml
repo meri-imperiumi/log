@@ -733,3 +733,51 @@
   crewNames:
     - bergie
     - bernhard
+  category: navigation
+- datetime: 2023-06-11T20:48:27.001Z
+  text: Autopilot deactivated
+  author: ""
+  position:
+    longitude: 22.2606499
+    latitude: 63.530609
+    source: GPS
+  heading: 171
+  course: 172
+  speed:
+    stw: 4.7
+    sog: 3.9
+  log: 1462.4
+  barometer: 1025.58
+  wind:
+    speed: 12.5
+    direction: 187
+  engine:
+    hours: 561.5
+  vhf: "16"
+  crewNames:
+    - bergie
+    - bernhard
+  category: navigation
+- datetime: 2023-06-11T21:00:56.000Z
+  text: ""
+  author: ""
+  position:
+    longitude: 22.2746453
+    latitude: 63.5172413
+    source: GPS
+  heading: 162
+  course: 162
+  speed:
+    stw: 4.8
+    sog: 4.3
+  log: 1463.3
+  barometer: 1025.54
+  wind:
+    speed: 11.5
+    direction: 179
+  engine:
+    hours: 561.7
+  vhf: "16"
+  crewNames:
+    - bergie
+    - bernhard
