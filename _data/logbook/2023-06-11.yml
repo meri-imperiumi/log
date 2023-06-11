@@ -1,0 +1,123 @@
+- datetime: 2023-06-11T07:15:01.100Z
+  text: Started main engine
+  author: ""
+  position:
+    longitude: 22.8511454
+    latitude: 63.9488606
+    source: GPS
+  heading: 217
+  course: 14
+  speed:
+    stw: 0
+    sog: 0
+  log: 1403.6
+  barometer: 1027.1
+  wind:
+    speed: 15
+    direction: 221
+  engine:
+    hours: 559.9
+  vhf: "16"
+  crewNames:
+    - bergie
+    - bernhard
+  category: navigation
+- datetime: 2023-06-11T07:21:08.099Z
+  text: Motoring
+  author: ""
+  position:
+    longitude: 22.856438
+    latitude: 63.949301
+    source: GPS
+  heading: 58
+  course: 57
+  speed:
+    stw: 5.1
+    sog: 5
+  log: 1403.6
+  barometer: 1027.09
+  wind:
+    speed: 21.7
+    direction: 220
+  engine:
+    hours: 560
+  vhf: "16"
+  crewNames:
+    - bergie
+    - bernhard
+  category: navigation
+- datetime: 2023-06-11T07:33:14.099Z
+  text: Motor stopped, sailing with Main (1st reef), Staysail
+  author: ""
+  position:
+    longitude: 22.847561
+    latitude: 63.9559833
+    source: GPS
+  heading: 304
+  course: 318
+  speed:
+    stw: 5.8
+    sog: 5.8
+  log: 1404.4
+  barometer: 1027.24
+  wind:
+    speed: 22.2
+    direction: 231
+  engine:
+    hours: 560.2
+  vhf: "16"
+  crewNames:
+    - bergie
+    - bernhard
+  category: navigation
+- datetime: 2023-06-11T07:48:41.100Z
+  text: "Windvane steering "
+  author: bergie
+  position:
+    longitude: 22.8085003
+    latitude: 63.9683706
+    source: GPS
+  heading: 274
+  course: 279
+  speed:
+    stw: 5
+    sog: 4.3
+  log: 1405.8
+  barometer: 1027.25
+  wind:
+    speed: 19.2
+    direction: 228
+  engine:
+    hours: 560.2
+  vhf: "16"
+  crewNames:
+    - bergie
+    - bernhard
+  category: navigation
+  observations:
+    seaState: 2
+    cloudCoverage: 3
+    visibility: 7
+- datetime: 2023-06-11T08:00:38.099Z
+  text: ""
+  author: ""
+  position:
+    longitude: 22.774074681599934
+    latitude: 63.97011184692383
+    source: GPS
+  heading: 272
+  course: 279
+  speed:
+    stw: 4.8
+    sog: 4.7
+  log: 1406.7
+  barometer: 1027.19
+  wind:
+    speed: 16.7
+    direction: 228
+  engine:
+    hours: 560.2
+  vhf: "16"
+  crewNames:
+    - bergie
+    - bernhard
