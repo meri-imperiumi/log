@@ -565,3 +565,99 @@
   crewNames:
     - bergie
     - bernhard
+  category: navigation
+- datetime: 2023-06-11T18:07:36.998Z
+  text: "Sails set: Main, Staysail"
+  author: ""
+  position:
+    longitude: 22.1674914
+    latitude: 63.6968691
+    source: GPS
+  heading: 160
+  course: 162
+  speed:
+    stw: 4
+    sog: 4.1
+  log: 1451.8
+  barometer: 1025.66
+  wind:
+    speed: 18.2
+    direction: 200
+  engine:
+    hours: 560.2
+  vhf: "16"
+  crewNames:
+    - bergie
+    - bernhard
+  category: navigation
+- datetime: 2023-06-11T18:22:55.001Z
+  text: "Sails set: Main, Genoa 1"
+  author: ""
+  position:
+    longitude: 22.1787879
+    latitude: 63.6828308
+    source: GPS
+  heading: 170
+  course: 169
+  speed:
+    stw: 3.9
+    sog: 2.9
+  log: 1452.7
+  barometer: 1025.73
+  wind:
+    speed: 14.8
+    direction: 212
+  engine:
+    hours: 560.2
+  vhf: "16"
+  crewNames:
+    - bergie
+    - bernhard
+  category: navigation
+- datetime: 2023-06-11T18:50:24.000Z
+  text: Hand steering
+  author: bergie
+  position:
+    longitude: 22.2070928
+    latitude: 63.6563086
+    source: GPS
+  heading: 155
+  course: 152
+  speed:
+    stw: 4.3
+    sog: 3.4
+  log: 1454.5
+  barometer: 1025.79
+  wind:
+    speed: 13.9
+    direction: 187
+  engine:
+    hours: 560.2
+  vhf: "16"
+  crewNames:
+    - bergie
+    - bernhard
+  category: navigation
+- datetime: 2023-06-11T19:00:23.001Z
+  text: ""
+  author: ""
+  position:
+    longitude: 22.2180105
+    latitude: 63.6471648
+    source: GPS
+  heading: 146
+  course: 154
+  speed:
+    stw: 4.9
+    sog: 3.7
+  log: 1455.1
+  barometer: 1025.64
+  wind:
+    speed: 17.9
+    direction: 180
+  engine:
+    hours: 560.2
+  vhf: "16"
+  crewNames:
+    - bergie
+    - bernhard
