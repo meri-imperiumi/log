@@ -321,3 +321,51 @@
   crewNames:
     - bergie
     - bernhard
+  category: navigation
+- datetime: 2023-06-11T12:12:11.100Z
+  text: First tack of the day. Not great wind angles
+  author: bergie
+  position:
+    longitude: 22.0723256
+    latitude: 64.0020151
+    source: GPS
+  heading: 147
+  course: 152
+  speed:
+    stw: 4.5
+    sog: 4.3
+  log: 1425.8
+  barometer: 1026.88
+  wind:
+    speed: 18.5
+    direction: 192
+  engine:
+    hours: 560.2
+  vhf: "16"
+  crewNames:
+    - bergie
+    - bernhard
+  category: navigation
+- datetime: 2023-06-11T13:00:11.100Z
+  text: ""
+  author: ""
+  position:
+    longitude: 22.1124428
+    latitude: 63.9475046
+    source: GPS
+  heading: 157
+  course: 156
+  speed:
+    stw: 4.7
+    sog: 3.9
+  log: 1429.2
+  barometer: 1026.8
+  wind:
+    speed: 16.4
+    direction: 202
+  engine:
+    hours: 560.2
+  vhf: "16"
+  crewNames:
+    - bergie
+    - bernhard
