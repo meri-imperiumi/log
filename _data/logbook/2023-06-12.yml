@@ -241,3 +241,51 @@
   crewNames:
     - bergie
     - bernhard
+  category: navigation
+- datetime: 2023-06-12T11:18:14.300Z
+  text: "Sails set: Main, Staysail"
+  author: ""
+  position:
+    longitude: 21.98176015218099
+    latitude: 63.554539489746084
+    source: GPS
+  heading: 272
+  course: 268
+  speed:
+    stw: 4.6
+    sog: 4.7
+  log: 1478
+  barometer: 1024.45
+  wind:
+    speed: 20.2
+    direction: 231
+  engine:
+    hours: 562.6
+  vhf: "16"
+  crewNames:
+    - bergie
+    - bernhard
+  category: navigation
+- datetime: 2023-06-12T12:00:22.300Z
+  text: ""
+  author: ""
+  position:
+    longitude: 21.8728509
+    latitude: 63.5572594
+    source: GPS
+  heading: 271
+  course: 274
+  speed:
+    stw: 4.6
+    sog: 4.8
+  log: 1480.9
+  barometer: 1024.2
+  wind:
+    speed: 19
+    direction: 230
+  engine:
+    hours: 562.6
+  vhf: "16"
+  crewNames:
+    - bergie
+    - bernhard
