@@ -268,7 +268,7 @@
   category: navigation
 - datetime: 2023-06-12T12:00:22.300Z
   text: ""
-  author: ""
+  author: bergie
   position:
     longitude: 21.8728509
     latitude: 63.5572594
@@ -283,6 +283,58 @@
   wind:
     speed: 19
     direction: 230
+  engine:
+    hours: 562.6
+  vhf: "16"
+  crewNames:
+    - bergie
+    - bernhard
+  category: navigation
+  observations:
+    seaState: 3
+    cloudCoverage: 3
+    visibility: 8
+- datetime: 2023-06-12T12:35:20.300Z
+  text: "Sails set: Main, Genoa 1"
+  author: ""
+  position:
+    longitude: 21.7799798
+    latitude: 63.5595096
+    source: GPS
+  heading: 273
+  course: 271
+  speed:
+    stw: 3.4
+    sog: 4
+  log: 1483.4
+  barometer: 1023.99
+  wind:
+    speed: 15.6
+    direction: 226
+  engine:
+    hours: 562.6
+  vhf: "16"
+  crewNames:
+    - bergie
+    - bernhard
+  category: navigation
+- datetime: 2023-06-12T13:00:19.299Z
+  text: ""
+  author: ""
+  position:
+    longitude: 21.7072456
+    latitude: 63.5582908
+    source: GPS
+  heading: 267
+  course: 272
+  speed:
+    stw: 4.6
+    sog: 5.5
+  log: 1485.3
+  barometer: 1023.93
+  wind:
+    speed: 16.6
+    direction: 224
   engine:
     hours: 562.6
   vhf: "16"
