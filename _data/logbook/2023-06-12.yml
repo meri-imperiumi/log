@@ -1,0 +1,95 @@
+- datetime: 2023-06-12T08:35:00.300Z
+  text: Started main engine
+  author: ""
+  position:
+    longitude: 22.3307748
+    latitude: 63.4738281
+    source: GPS
+  heading: 231
+  course: 131
+  speed:
+    stw: 0
+    sog: 0
+  log: 1466.4
+  barometer: 1024.45
+  wind:
+    speed: 3.8
+    direction: 165
+  engine:
+    hours: 562.5
+  vhf: "16"
+  crewNames:
+    - bergie
+    - bernhard
+  category: navigation
+- datetime: 2023-06-12T08:39:05.299Z
+  text: Motoring
+  author: ""
+  position:
+    longitude: 22.3321181
+    latitude: 63.4750383
+    source: GPS
+  heading: 114
+  course: 81
+  speed:
+    stw: 2.9
+    sog: 2.7
+  log: 1466.4
+  barometer: 1024.48
+  wind:
+    speed: 8.6
+    direction: 206
+  engine:
+    hours: 562.5
+  vhf: "16"
+  crewNames:
+    - bergie
+    - bernhard
+  category: navigation
+- datetime: 2023-06-12T08:41:34.300Z
+  text: Motor stopped, sailing with Main, Genoa 1
+  author: ""
+  position:
+    longitude: 22.3331809
+    latitude: 63.474809
+    source: GPS
+  heading: 5
+  course: 359
+  speed:
+    stw: 3.3
+    sog: 3.3
+  log: 1466.4
+  barometer: 1024.4
+  wind:
+    speed: 15.5
+    direction: 201
+  engine:
+    hours: 562.6
+  vhf: "16"
+  crewNames:
+    - bergie
+    - bernhard
+  category: navigation
+- datetime: 2023-06-12T08:59:59.299Z
+  text: ""
+  author: ""
+  position:
+    longitude: 22.298738
+    latitude: 63.4966486
+    source: GPS
+  heading: 328
+  course: 324
+  speed:
+    stw: 5.8
+    sog: 5.9
+  log: 1468
+  barometer: 1024.47
+  wind:
+    speed: 15.8
+    direction: 234
+  engine:
+    hours: 562.6
+  vhf: "16"
+  crewNames:
+    - bergie
+    - bernhard
