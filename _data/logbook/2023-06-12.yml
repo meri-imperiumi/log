@@ -93,3 +93,128 @@
   crewNames:
     - bergie
     - bernhard
+  category: navigation
+- datetime: 2023-06-12T09:20:59.299Z
+  text: Autopilot activated
+  author: ""
+  position:
+    longitude: 22.2667571
+    latitude: 63.5215415
+    source: GPS
+  heading: 321
+  course: 323
+  speed:
+    stw: 5.7
+    sog: 5.9
+  log: 1469.8
+  barometer: 1024.7
+  wind:
+    speed: 14.8
+    direction: 257
+  engine:
+    hours: 562.6
+  vhf: "16"
+  crewNames:
+    - bergie
+    - bernhard
+  category: navigation
+- datetime: 2023-06-12T09:29:40.300Z
+  text: Autopilot deactivated
+  author: ""
+  position:
+    longitude: 22.2505511
+    latitude: 63.5334433
+    source: GPS
+  heading: 313
+  course: 312
+  speed:
+    stw: 5.9
+    sog: 5.8
+  log: 1470.6
+  barometer: 1024.66
+  wind:
+    speed: 14.9
+    direction: 246
+  engine:
+    hours: 562.6
+  vhf: "16"
+  crewNames:
+    - bergie
+    - bernhard
+  category: navigation
+- datetime: 2023-06-12T09:32:51.299Z
+  text: "Windvane steering "
+  author: bergie
+  position:
+    longitude: 22.2409831
+    latitude: 63.5351704
+    source: GPS
+  heading: 279
+  course: 286
+  speed:
+    stw: 5.2
+    sog: 5.3
+  log: 1470.9
+  barometer: 1024.67
+  wind:
+    speed: 13.6
+    direction: 214
+  engine:
+    hours: 562.6
+  vhf: "16"
+  crewNames:
+    - bergie
+    - bernhard
+  category: navigation
+  observations:
+    seaState: 2
+    cloudCoverage: 2
+    visibility: 8
+- datetime: 2023-06-12T10:00:44.300Z
+  text: ""
+  author: ""
+  position:
+    longitude: 22.1701611
+    latitude: 63.5440114
+    source: GPS
+  heading: 273
+  course: 278
+  speed:
+    stw: 3.7
+    sog: 3.3
+  log: 1472.9
+  barometer: 1024.5
+  wind:
+    speed: 10.6
+    direction: 244
+  engine:
+    hours: 562.6
+  vhf: "16"
+  crewNames:
+    - bergie
+    - bernhard
+  category: navigation
+- datetime: 2023-06-12T10:03:43.299Z
+  text: "Started watermaker "
+  author: bergie
+  position:
+    longitude: 22.163859
+    latitude: 63.5445028
+    source: GPS
+  heading: 272
+  course: 276
+  speed:
+    stw: 4
+    sog: 3.8
+  log: 1473
+  barometer: 1024.49
+  wind:
+    speed: 13.4
+    direction: 237
+  engine:
+    hours: 562.6
+  vhf: "16"
+  crewNames:
+    - bergie
+    - bernhard
+  category: maintenance
