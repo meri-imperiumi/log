@@ -583,3 +583,74 @@
     - bergie
     - bernhard
   category: navigation
+- datetime: 2023-06-12T17:34:35.302Z
+  text: "Stopped watermaker "
+  author: bergie
+  position:
+    longitude: 21.1937138
+    latitude: 63.4638105
+    source: GPS
+  heading: 271
+  course: 281
+  speed:
+    stw: 6.1
+    sog: 6.3
+  log: 1507.3
+  barometer: 1021.55
+  wind:
+    speed: 27.1
+    direction: 204
+  engine:
+    hours: 562.6
+  vhf: "16"
+  crewNames:
+    - bergie
+    - bernhard
+  category: maintenance
+- datetime: 2023-06-12T17:52:21.299Z
+  text: Autopilot activated
+  author: ""
+  position:
+    longitude: 21.1313225
+    latitude: 63.4621418
+    source: GPS
+  heading: 255
+  course: 269
+  speed:
+    stw: 5.7
+    sog: 6.2
+  log: 1509
+  barometer: 1021.46
+  wind:
+    speed: 23.2
+    direction: 206
+  engine:
+    hours: 562.6
+  vhf: "16"
+  crewNames:
+    - bergie
+    - bernhard
+  category: navigation
+- datetime: 2023-06-12T18:00:30.297Z
+  text: ""
+  author: ""
+  position:
+    longitude: 21.1040716
+    latitude: 63.460245
+    source: GPS
+  heading: 250
+  course: 254
+  speed:
+    stw: 6
+    sog: 5.2
+  log: 1509.7
+  barometer: 1021.43
+  wind:
+    speed: 22.9
+    direction: 196
+  engine:
+    hours: 562.6
+  vhf: "16"
+  crewNames:
+    - bergie
+    - bernhard
