@@ -265,3 +265,27 @@
   crewNames:
     - bergie
     - bernhard
+  category: navigation
+- datetime: 2023-06-13T15:00:00.000Z
+  text: ""
+  author: ""
+  position:
+    longitude: 20.4578208
+    latitude: 63.2628403
+    source: GPS
+  heading: 253
+  course: 254
+  speed:
+    stw: 4.6
+    sog: 4.2
+  log: 1540
+  barometer: 1020.63
+  wind:
+    speed: 11.2
+    direction: 197
+  engine:
+    hours: 563.3
+  vhf: "16"
+  crewNames:
+    - bergie
+    - bernhard
