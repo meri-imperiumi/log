@@ -388,3 +388,74 @@
     - bergie
     - bernhard
   category: navigation
+- datetime: 2023-06-13T18:26:50.899Z
+  text: Autopilot deactivated
+  author: ""
+  position:
+    longitude: 20.7163266
+    latitude: 63.0655346
+    source: GPS
+  heading: 118
+  course: 129
+  speed:
+    stw: 3.9
+    sog: 3
+  log: 1553.9
+  barometer: 1021.05
+  wind:
+    speed: 12.1
+    direction: 229
+  engine:
+    hours: 563.3
+  vhf: "16"
+  crewNames:
+    - bergie
+    - bernhard
+  category: navigation
+- datetime: 2023-06-13T18:27:40.902Z
+  text: Sails down, motoring
+  author: ""
+  position:
+    longitude: 20.717999
+    latitude: 63.0652961
+    source: GPS
+  heading: 98
+  course: 100
+  speed:
+    stw: 3.5
+    sog: 3.5
+  log: 1553.9
+  barometer: 1021.08
+  wind:
+    speed: 11.2
+    direction: 232
+  engine:
+    hours: 563.3
+  vhf: "16"
+  crewNames:
+    - bergie
+    - bernhard
+  category: navigation
+- datetime: 2023-06-13T19:00:16.902Z
+  text: ""
+  author: ""
+  position:
+    longitude: 20.8132399
+    latitude: 63.0703756
+    source: GPS
+  heading: 179
+  course: 182
+  speed:
+    stw: 4.3
+    sog: 4
+  log: 1556.7
+  barometer: 1021.21
+  wind:
+    speed: 8.4
+    direction: 219
+  engine:
+    hours: 563.8
+  vhf: "16"
+  crewNames:
+    - bergie
+    - bernhard
