@@ -94,3 +94,78 @@
     - bergie
     - bernhard
   category: navigation
+- datetime: 2023-06-13T09:09:05.600Z
+  text: Motor stopped, sailing with Main, Genoa 1
+  author: ""
+  position:
+    longitude: 21.0418538
+    latitude: 63.4398153
+    source: GPS
+  heading: 270
+  course: 268
+  speed:
+    stw: 5.3
+    sog: 5.8
+  log: 1514.3
+  barometer: 1020.77
+  wind:
+    speed: 10.7
+    direction: 219
+  engine:
+    hours: 563.3
+  vhf: "16"
+  crewNames:
+    - bergie
+    - bernhard
+  category: navigation
+- datetime: 2023-06-13T09:14:17.600Z
+  text: "Autopilot deactivated, windvane steering "
+  author: bergie
+  position:
+    longitude: 21.0240391
+    latitude: 63.4398744
+    source: GPS
+  heading: 269
+  course: 269
+  speed:
+    stw: 5.4
+    sog: 5.6
+  log: 1514.8
+  barometer: 1020.75
+  wind:
+    speed: 11
+    direction: 193
+  engine:
+    hours: 563.3
+  vhf: "16"
+  crewNames:
+    - bergie
+    - bernhard
+  category: navigation
+  observations:
+    seaState: 2
+    cloudCoverage: 3
+    visibility: 8
+- datetime: 2023-06-13T10:00:53.600Z
+  text: ""
+  author: ""
+  position:
+    longitude: 20.9463836
+    latitude: 63.4152473
+    source: GPS
+  heading: 158
+  course: 153
+  speed:
+    stw: 4.4
+    sog: 4.4
+  log: 1518.6
+  barometer: 1020.64
+  wind:
+    speed: 9.9
+    direction: 193
+  engine:
+    hours: 563.3
+  vhf: "16"
+  crewNames:
+    - bergie
+    - bernhard
