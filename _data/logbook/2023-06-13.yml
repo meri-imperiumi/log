@@ -268,7 +268,7 @@
   category: navigation
 - datetime: 2023-06-13T15:00:00.000Z
   text: ""
-  author: ""
+  author: bergie
   position:
     longitude: 20.4578208
     latitude: 63.2628403
@@ -290,6 +290,8 @@
     - bergie
     - bernhard
   category: navigation
+  observations:
+    seaState: 3
 - datetime: 2023-06-13T16:00:46.899Z
   text: ""
   author: ""
@@ -337,3 +339,52 @@
   crewNames:
     - bergie
     - bernhard
+  category: navigation
+- datetime: 2023-06-13T18:00:21.900Z
+  text: ""
+  author: ""
+  position:
+    longitude: 20.6699481
+    latitude: 63.09117
+    source: GPS
+  heading: 170
+  course: 169
+  speed:
+    stw: 4.6
+    sog: 4
+  log: 1551.9
+  barometer: 1020.96
+  wind:
+    speed: 11.6
+    direction: 219
+  engine:
+    hours: 563.3
+  vhf: "16"
+  crewNames:
+    - bergie
+    - bernhard
+  category: navigation
+- datetime: 2023-06-13T18:03:34.899Z
+  text: Autopilot activated
+  author: ""
+  position:
+    longitude: 20.6732999
+    latitude: 63.0877439
+    source: GPS
+  heading: 163
+  course: 151
+  speed:
+    stw: 5
+    sog: 3.9
+  log: 1552.1
+  barometer: 1020.91
+  wind:
+    speed: 10.6
+    direction: 242
+  engine:
+    hours: 563.3
+  vhf: "16"
+  crewNames:
+    - bergie
+    - bernhard
+  category: navigation
