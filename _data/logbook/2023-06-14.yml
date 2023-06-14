@@ -194,78 +194,6 @@
     - bergie
     - bernhard
   category: navigation
-- datetime: 2023-06-14T09:40:19.299Z
-  text: Autopilot activated
-  author: ""
-  position:
-    longitude: 20.66868
-    latitude: 63.0054596
-    source: GPS
-  heading: 171
-  course: 167
-  speed:
-    stw: 2.5
-    sog: 2.4
-  log: 1564.2
-  barometer: 1023.72
-  wind:
-    speed: 5.3
-    direction: 213
-  engine:
-    hours: 565.3
-  vhf: "16"
-  crewNames:
-    - bergie
-    - bernhard
-  category: navigation
-- datetime: 2023-06-14T09:49:37.299Z
-  text: Autopilot deactivated
-  author: ""
-  position:
-    longitude: 20.67172934214274
-    latitude: 63.0000846666672
-    source: GPS
-  heading: 132
-  course: 129
-  speed:
-    stw: 1.9
-    sog: 2.1
-  log: 1564.6
-  barometer: 1023.75
-  wind:
-    speed: 5.5
-    direction: 184
-  engine:
-    hours: 565.3
-  vhf: "16"
-  crewNames:
-    - bergie
-    - bernhard
-  category: navigation
-- datetime: 2023-06-14T09:54:31.299Z
-  text: Autopilot set to wind mode
-  author: ""
-  position:
-    longitude: 20.6756548
-    latitude: 62.9972573
-    source: GPS
-  heading: 162
-  course: 158
-  speed:
-    stw: 2.6
-    sog: 2.7
-  log: 1564.8
-  barometer: 1023.67
-  wind:
-    speed: 6.5
-    direction: 197
-  engine:
-    hours: 565.3
-  vhf: "16"
-  crewNames:
-    - bergie
-    - bernhard
-  category: navigation
 - datetime: 2023-06-14T10:00:32.300Z
   text: ""
   author: ""
@@ -283,6 +211,59 @@
   wind:
     speed: 6.2
     direction: 195
+  engine:
+    hours: 565.3
+  vhf: "16"
+  crewNames:
+    - bergie
+    - bernhard
+  category: navigation
+- datetime: 2023-06-14T10:26:00.300Z
+  text: Autopilot deactivated, windvane steering. Tiller pilot was too slow to
+    react to wind shifts
+  author: bergie
+  position:
+    longitude: 20.6938561
+    latitude: 62.9745361
+    source: GPS
+  heading: 163
+  course: 162
+  speed:
+    stw: 3.1
+    sog: 3.2
+  log: 1566.3
+  barometer: 1023.84
+  wind:
+    speed: 6
+    direction: 202
+  engine:
+    hours: 565.3
+  vhf: "16"
+  crewNames:
+    - bergie
+    - bernhard
+  category: navigation
+  observations:
+    seaState: 2
+    cloudCoverage: 1
+    visibility: 8
+- datetime: 2023-06-14T11:00:29.299Z
+  text: ""
+  author: ""
+  position:
+    longitude: 20.6819658
+    latitude: 62.9548841
+    source: GPS
+  heading: 260
+  course: 268
+  speed:
+    stw: 4.4
+    sog: 4.4
+  log: 1568.1
+  barometer: 1023.88
+  wind:
+    speed: 8.5
+    direction: 222
   engine:
     hours: 565.3
   vhf: "16"
