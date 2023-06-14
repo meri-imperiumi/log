@@ -294,3 +294,51 @@
   crewNames:
     - bergie
     - bernhard
+  category: navigation
+- datetime: 2023-06-14T12:29:26.300Z
+  text: Started watermaker. 44ppm, faster output than recently
+  author: bergie
+  position:
+    longitude: 20.6413925
+    latitude: 62.8881879
+    source: GPS
+  heading: 173
+  course: 172
+  speed:
+    stw: 3.6
+    sog: 3.7
+  log: 1573.9
+  barometer: 1023.52
+  wind:
+    speed: 8.1
+    direction: 225
+  engine:
+    hours: 565.3
+  vhf: "16"
+  crewNames:
+    - bergie
+    - bernhard
+  category: maintenance
+- datetime: 2023-06-14T13:00:24.700Z
+  text: ""
+  author: ""
+  position:
+    longitude: 20.6515596
+    latitude: 62.8569153
+    source: GPS
+  heading: 168
+  course: 168
+  speed:
+    stw: 3.8
+    sog: 3.7
+  log: 1575.8
+  barometer: 1023.41
+  wind:
+    speed: 7.8
+    direction: 232
+  engine:
+    hours: 565.3
+  vhf: "16"
+  crewNames:
+    - bergie
+    - bernhard
