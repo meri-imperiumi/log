@@ -366,3 +366,51 @@
   crewNames:
     - bergie
     - bernhard
+  category: navigation
+- datetime: 2023-06-14T14:39:19.699Z
+  text: Autopilot activated. The space is getting narrow for the 40° wind shifts
+  author: bergie
+  position:
+    longitude: 20.7564474
+    latitude: 62.7626846
+    source: GPS
+  heading: 150
+  course: 150
+  speed:
+    stw: 3.9
+    sog: 3.8
+  log: 1582.4
+  barometer: 1023.14
+  wind:
+    speed: 7.7
+    direction: 204
+  engine:
+    hours: 565.3
+  vhf: "16"
+  crewNames:
+    - bergie
+    - bernhard
+  category: navigation
+- datetime: 2023-06-14T15:00:10.700Z
+  text: ""
+  author: ""
+  position:
+    longitude: 20.7898503
+    latitude: 62.7472899
+    source: GPS
+  heading: 129
+  course: 134
+  speed:
+    stw: 4.5
+    sog: 4.4
+  log: 1583.7
+  barometer: 1023.06
+  wind:
+    speed: 7.6
+    direction: 188
+  engine:
+    hours: 565.3
+  vhf: "16"
+  crewNames:
+    - bergie
+    - bernhard
