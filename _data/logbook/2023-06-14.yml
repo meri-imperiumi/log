@@ -417,7 +417,7 @@
   category: navigation
 - datetime: 2023-06-14T16:00:06.700Z
   text: ""
-  author: ""
+  author: bergie
   position:
     longitude: 20.885234
     latitude: 62.702511
@@ -434,6 +434,82 @@
     direction: 180
   engine:
     hours: 565.3
+  vhf: "16"
+  crewNames:
+    - bergie
+    - bernhard
+  category: navigation
+  observations:
+    seaState: 1
+    cloudCoverage: 0
+    visibility: 7
+- datetime: 2023-06-14T16:32:58.700Z
+  text: Stopped watermaker, 41ppm
+  author: bergie
+  position:
+    longitude: 20.9258516
+    latitude: 62.6823526
+    source: GPS
+  heading: 141
+  course: 141
+  speed:
+    stw: 2.7
+    sog: 2.6
+  log: 1589.1
+  barometer: 1022.79
+  wind:
+    speed: 5.2
+    direction: 190
+  engine:
+    hours: 565.3
+  vhf: "16"
+  crewNames:
+    - bergie
+    - bernhard
+  category: maintenance
+- datetime: 2023-06-14T16:53:21.702Z
+  text: Sails down, motoring
+  author: ""
+  position:
+    longitude: 20.948251024881998
+    latitude: 62.671438662211095
+    source: GPS
+  heading: 151
+  course: 151
+  speed:
+    stw: 2.4
+    sog: 2.5
+  log: 1590
+  barometer: 1022.71
+  wind:
+    speed: 6.4
+    direction: 192
+  engine:
+    hours: 565.3
+  vhf: "16"
+  crewNames:
+    - bergie
+    - bernhard
+  category: navigation
+- datetime: 2023-06-14T17:00:52.697Z
+  text: ""
+  author: ""
+  position:
+    longitude: 20.9570404
+    latitude: 62.6626411
+    source: GPS
+  heading: 145
+  course: 148
+  speed:
+    stw: 5.3
+    sog: 5.2
+  log: 1590.6
+  barometer: 1022.7
+  wind:
+    speed: 5.8
+    direction: 192
+  engine:
+    hours: 565.4
   vhf: "16"
   crewNames:
     - bergie
