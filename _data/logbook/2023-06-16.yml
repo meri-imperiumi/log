@@ -471,8 +471,8 @@
     - bernhard
   category: navigation
 - datetime: 2023-06-16T19:59:57.401Z
-  text: Autopilot set to wind mode. Had to go to 130deg to keep Parasailor filled
-    in the swell
+  text: Autopilot set to wind mode. Had to go to 130deg TWA to keep Parasailor
+    filled in the swell
   author: bergie
   position:
     longitude: 20.9091371
@@ -495,3 +495,74 @@
     - bergie
     - bernhard
   category: navigation
+- datetime: 2023-06-16T20:13:43.398Z
+  text: Autopilot deactivated
+  author: ""
+  position:
+    longitude: 20.9099194
+    latitude: 61.4750976
+    source: GPS
+  heading: 157
+  course: 157
+  speed:
+    stw: 2.9
+    sog: 2.8
+  log: 1664
+  barometer: 1016.65
+  wind:
+    speed: 5.6
+    direction: 259
+  engine:
+    hours: 567.4
+  vhf: "16"
+  crewNames:
+    - bergie
+    - bernhard
+  category: navigation
+- datetime: 2023-06-16T20:20:40.396Z
+  text: Autopilot set to wind mode, 110deg TWA
+  author: bergie
+  position:
+    longitude: 20.9126735051473
+    latitude: 61.471659819285065
+    source: GPS
+  heading: 177
+  course: 175
+  speed:
+    stw: 2.3
+    sog: 1.5
+  log: 1664.2
+  barometer: 1016.6
+  wind:
+    speed: 6
+    direction: 266
+  engine:
+    hours: 567.4
+  vhf: "16"
+  crewNames:
+    - bergie
+    - bernhard
+  category: navigation
+- datetime: 2023-06-16T21:00:13.401Z
+  text: ""
+  author: ""
+  position:
+    longitude: 20.9284663
+    latitude: 61.4403026
+    source: GPS
+  heading: 174
+  course: 169
+  speed:
+    stw: 3.5
+    sog: 3.2
+  log: 1666.1
+  barometer: 1016.55
+  wind:
+    speed: 8.8
+    direction: 260
+  engine:
+    hours: 567.4
+  vhf: "16"
+  crewNames:
+    - bergie
+    - bernhard
