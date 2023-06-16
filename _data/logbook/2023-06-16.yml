@@ -247,8 +247,8 @@
     - bernhard
   category: navigation
 - datetime: 2023-06-16T12:00:20.998Z
-  text: ""
-  author: ""
+  text: "Waves slightly picking up "
+  author: bergie
   position:
     longitude: 20.9043323
     latitude: 62.1463115
@@ -263,6 +263,134 @@
   wind:
     speed: 14.5
     direction: 313
+  engine:
+    hours: 567.4
+  vhf: "16"
+  crewNames:
+    - bergie
+    - bernhard
+  category: navigation
+  observations:
+    cloudCoverage: 1
+    seaState: 2
+    visibility: 8
+- datetime: 2023-06-16T13:00:10.000Z
+  text: ""
+  author: ""
+  position:
+    longitude: 20.8950628
+    latitude: 62.049348
+    source: GPS
+  heading: 172
+  course: 176
+  speed:
+    stw: 5.6
+    sog: 5.9
+  log: 1630.1
+  barometer: 1018.67
+  wind:
+    speed: 13.9
+    direction: 306
+  engine:
+    hours: 567.4
+  vhf: "16"
+  crewNames:
+    - bergie
+    - bernhard
+  category: navigation
+- datetime: 2023-06-16T14:00:00.000Z
+  text: ""
+  author: ""
+  position:
+    longitude: 20.9028586
+    latitude: 61.9533346
+    source: GPS
+  heading: 185
+  course: 182
+  speed:
+    stw: 5.6
+    sog: 5.7
+  log: 1635.9
+  barometer: 1018.36
+  wind:
+    speed: 13.5
+    direction: 318
+  engine:
+    hours: 567.4
+  vhf: "16"
+  crewNames:
+    - bergie
+    - bernhard
+  category: navigation
+- datetime: 2023-06-16T15:00:53.401Z
+  text: ""
+  author: bergie
+  position:
+    longitude: 20.8935311
+    latitude: 61.8549466
+    source: GPS
+  heading: 180
+  course: 181
+  speed:
+    stw: 5.8
+    sog: 6.5
+  log: 1641.8
+  barometer: 1017.91
+  wind:
+    speed: 14
+    direction: 337
+  engine:
+    hours: 567.4
+  vhf: "16"
+  crewNames:
+    - bergie
+    - bernhard
+  category: navigation
+  observations:
+    seaState: 3
+    cloudCoverage: 0
+    visibility: 8
+- datetime: 2023-06-16T16:00:50.400Z
+  text: ""
+  author: ""
+  position:
+    longitude: 20.8986248
+    latitude: 61.7604186
+    source: GPS
+  heading: 180
+  course: 181
+  speed:
+    stw: 5.2
+    sog: 5.3
+  log: 1647.6
+  barometer: 1017.27
+  wind:
+    speed: 12.6
+    direction: 323
+  engine:
+    hours: 567.4
+  vhf: "16"
+  crewNames:
+    - bergie
+    - bernhard
+  category: navigation
+- datetime: 2023-06-16T17:00:46.400Z
+  text: ""
+  author: ""
+  position:
+    longitude: 20.9034854
+    latitude: 61.6758586
+    source: GPS
+  heading: 173
+  course: 184
+  speed:
+    stw: 5
+    sog: 4.8
+  log: 1652.6
+  barometer: 1016.97
+  wind:
+    speed: 13.4
+    direction: 314
   engine:
     hours: 567.4
   vhf: "16"
