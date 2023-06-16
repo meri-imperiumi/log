@@ -118,57 +118,9 @@
     - bergie
     - bernhard
   category: navigation
-- datetime: 2023-06-16T07:29:43.900Z
-  text: Autopilot deactivated
-  author: ""
-  position:
-    longitude: 20.9904438
-    latitude: 62.513024
-    source: GPS
-  heading: 203
-  course: 201
-  speed:
-    stw: 4.3
-    sog: 4.2
-  log: 1601.8
-  barometer: 1019.77
-  wind:
-    speed: 9.9
-    direction: 326
-  engine:
-    hours: 567.4
-  vhf: "16"
-  crewNames:
-    - bergie
-    - bernhard
-  category: navigation
-- datetime: 2023-06-16T07:32:07.900Z
-  text: Autopilot activated
-  author: ""
-  position:
-    longitude: 20.9877394
-    latitude: 62.5104496
-    source: GPS
-  heading: 194
-  course: 194
-  speed:
-    stw: 4.4
-    sog: 4.3
-  log: 1602
-  barometer: 1019.76
-  wind:
-    speed: 9.9
-    direction: 322
-  engine:
-    hours: 567.4
-  vhf: "16"
-  crewNames:
-    - bergie
-    - bernhard
-  category: navigation
 - datetime: 2023-06-16T08:00:02.899Z
   text: ""
-  author: ""
+  author: bergie
   position:
     longitude: 20.9594683
     latitude: 62.4795986
@@ -183,6 +135,58 @@
   wind:
     speed: 9
     direction: 311
+  engine:
+    hours: 567.4
+  vhf: "16"
+  crewNames:
+    - bergie
+    - bernhard
+  category: navigation
+  observations:
+    seaState: 1
+    cloudCoverage: 1
+    visibility: 8
+- datetime: 2023-06-16T08:42:28.000Z
+  text: Autopilot set to wind mode. Not enough apparent wind for the vane
+  author: bergie
+  position:
+    longitude: 20.9207308
+    latitude: 62.4267261
+    source: GPS
+  heading: 191
+  course: 191
+  speed:
+    stw: 5.1
+    sog: 5.2
+  log: 1607.3
+  barometer: 1019.71
+  wind:
+    speed: 10.5
+    direction: 287
+  engine:
+    hours: 567.4
+  vhf: "16"
+  crewNames:
+    - bergie
+    - bernhard
+  category: navigation
+- datetime: 2023-06-16T09:00:56.998Z
+  text: ""
+  author: ""
+  position:
+    longitude: 20.91298967997233
+    latitude: 62.40707283020019
+    source: GPS
+  heading: 183
+  course: 186
+  speed:
+    stw: 3.3
+    sog: 3.3
+  log: 1608.6
+  barometer: 1019.8
+  wind:
+    speed: 6.3
+    direction: 273
   engine:
     hours: 567.4
   vhf: "16"
