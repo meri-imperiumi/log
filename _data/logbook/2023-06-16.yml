@@ -423,7 +423,8 @@
     - bernhard
   category: navigation
 - datetime: 2023-06-16T18:45:54.400Z
-  text: We just had a short DC system outage. Weird.
+  text: We just had a short DC system outage. Weird. Turned autopilot off, causing
+    some Parasailor trouble
   author: bergie
   position:
     longitude: 20.9226831
@@ -441,6 +442,55 @@
     direction: 310
   engine:
     hours: 567.4
+  crewNames:
+    - bergie
+    - bernhard
+  category: navigation
+- datetime: 2023-06-16T19:54:58.400Z
+  text: Autopilot deactivated
+  author: ""
+  position:
+    longitude: 20.9086161
+    latitude: 61.4882188
+    source: GPS
+  heading: 152
+  course: 152
+  speed:
+    stw: 2.1
+    sog: 2.2
+  log: 1663.2
+  barometer: 1016.55
+  wind:
+    speed: 5.2
+    direction: 295
+  engine:
+    hours: 567.4
+  vhf: "16"
+  crewNames:
+    - bergie
+    - bernhard
+  category: navigation
+- datetime: 2023-06-16T19:59:57.401Z
+  text: Autopilot set to wind mode. Had to go to 130deg to keep Parasailor filled
+    in the swell
+  author: bergie
+  position:
+    longitude: 20.9091371
+    latitude: 61.4854515
+    source: GPS
+  heading: 183
+  course: 195
+  speed:
+    stw: 2.4
+    sog: 1.7
+  log: 1663.3
+  barometer: 1016.58
+  wind:
+    speed: 5
+    direction: 287
+  engine:
+    hours: 567.4
+  vhf: "16"
   crewNames:
     - bergie
     - bernhard
