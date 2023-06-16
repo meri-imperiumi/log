@@ -1,0 +1,119 @@
+- datetime: 2023-06-16T06:23:27.900Z
+  text: Started main engine
+  author: ""
+  position:
+    longitude: 21.0482581
+    latitude: 62.5723311
+    source: GPS
+  heading: 186
+  course: 21
+  speed:
+    stw: 0
+    sog: 0
+  log: 1597.8
+  barometer: 1019.72
+  wind:
+    speed: 3.6
+    direction: 3
+  engine:
+    hours: 567
+  vhf: "17"
+  crewNames:
+    - bergie
+    - bernhard
+  category: navigation
+- datetime: 2023-06-16T06:28:31.900Z
+  text: Motoring
+  author: ""
+  position:
+    longitude: 21.0520613
+    latitude: 62.5709931
+    source: GPS
+  heading: 144
+  course: 148
+  speed:
+    stw: 4.4
+    sog: 4.4
+  log: 1597.8
+  barometer: 1019.72
+  wind:
+    speed: 5.3
+    direction: 61
+  engine:
+    hours: 567
+  vhf: "17"
+  crewNames:
+    - bergie
+    - bernhard
+  category: navigation
+- datetime: 2023-06-16T06:32:02.899Z
+  text: Autopilot activated
+  author: ""
+  position:
+    longitude: 21.048853
+    latitude: 62.5673648
+    source: GPS
+  heading: 237
+  course: 234
+  speed:
+    stw: 4.5
+    sog: 4.5
+  log: 1598.1
+  barometer: 1019.72
+  wind:
+    speed: 4.1
+    direction: 299
+  engine:
+    hours: 567.1
+  vhf: "17"
+  crewNames:
+    - bergie
+    - bernhard
+  category: navigation
+- datetime: 2023-06-16T06:51:54.899Z
+  text: Motor stopped, sailing with Parasailor
+  author: ""
+  position:
+    longitude: 21.0190871
+    latitude: 62.5485474
+    source: GPS
+  heading: 206
+  course: 205
+  speed:
+    stw: 3.6
+    sog: 3.5
+  log: 1599.5
+  barometer: 1019.7
+  wind:
+    speed: 6.6
+    direction: 323
+  engine:
+    hours: 567.4
+  vhf: "17"
+  crewNames:
+    - bergie
+    - bernhard
+  category: navigation
+- datetime: 2023-06-16T07:00:20.899Z
+  text: ""
+  author: ""
+  position:
+    longitude: 21.0126488
+    latitude: 62.5425999
+    source: GPS
+  heading: 207
+  course: 204
+  speed:
+    stw: 3.2
+    sog: 3.1
+  log: 1599.9
+  barometer: 1019.74
+  wind:
+    speed: 7.5
+    direction: 345
+  engine:
+    hours: 567.4
+  vhf: "17"
+  crewNames:
+    - bergie
+    - bernhard
