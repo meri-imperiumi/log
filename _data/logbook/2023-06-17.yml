@@ -213,3 +213,75 @@
   crewNames:
     - bergie
     - bernhard
+  category: navigation
+- datetime: 2023-06-17T04:08:17.400Z
+  text: Motor stopped, sailing with Parasailor
+  author: ""
+  position:
+    longitude: 20.92507985432943
+    latitude: 60.90543149312338
+    source: GPS
+  heading: 169
+  course: 183
+  speed:
+    stw: 2.6
+    sog: 2.4
+  log: 1699.1
+  barometer: 1016.31
+  wind:
+    speed: 6.7
+    direction: 279
+  engine:
+    hours: 570.4
+  vhf: "16"
+  crewNames:
+    - bergie
+    - bernhard
+  category: navigation
+- datetime: 2023-06-17T04:22:10.400Z
+  text: Sails down, motoring
+  author: ""
+  position:
+    longitude: 20.926229349772136
+    latitude: 60.89604002634684
+    source: GPS
+  heading: 171
+  course: 169
+  speed:
+    stw: 1.6
+    sog: 1.9
+  log: 1699.7
+  barometer: 1016.36
+  wind:
+    speed: 4.8
+    direction: 323
+  engine:
+    hours: 570.4
+  vhf: "16"
+  crewNames:
+    - bergie
+    - bernhard
+  category: navigation
+- datetime: 2023-06-17T05:00:00.400Z
+  text: ""
+  author: ""
+  position:
+    longitude: 20.9466626
+    latitude: 60.8428926
+    source: GPS
+  heading: 131
+  course: 135
+  speed:
+    stw: 5.3
+    sog: 5.4
+  log: 1703
+  barometer: 1016.44
+  wind:
+    speed: 5.6
+    direction: 267
+  engine:
+    hours: 571
+  vhf: "16"
+  crewNames:
+    - bergie
+    - bernhard
