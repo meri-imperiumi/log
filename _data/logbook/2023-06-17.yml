@@ -21,3 +21,99 @@
   crewNames:
     - bergie
     - bernhard
+  category: navigation
+- datetime: 2023-06-17T00:35:45.400Z
+  text: Gybed the Parasailor to starboard side
+  author: bergie
+  position:
+    longitude: 20.9291566
+    latitude: 61.1750065
+    source: GPS
+  heading: 176
+  course: 182
+  speed:
+    stw: 3.9
+    sog: 4.1
+  log: 1682.5
+  barometer: 1016.81
+  wind:
+    speed: 8.6
+    direction: 31
+  engine:
+    hours: 567.4
+  vhf: "16"
+  crewNames:
+    - bergie
+    - bernhard
+  category: navigation
+- datetime: 2023-06-17T00:40:44.400Z
+  text: Gybed the Parasailor back to port. Quite some wind shifts
+  author: bergie
+  position:
+    longitude: 20.9317538
+    latitude: 61.17208
+    source: GPS
+  heading: 176
+  course: 174
+  speed:
+    stw: 2.1
+    sog: 2.2
+  log: 1682.7
+  barometer: 1016.6
+  wind:
+    speed: 7.1
+    direction: 324
+  engine:
+    hours: 567.4
+  vhf: "16"
+  crewNames:
+    - bergie
+    - bernhard
+  category: navigation
+- datetime: 2023-06-17T00:52:45.400Z
+  text: Gybed the Parasailor again to starboard. Sun is rising
+  author: bergie
+  position:
+    longitude: 20.9304053
+    latitude: 61.1664303
+    source: GPS
+  heading: 142
+  course: 143
+  speed:
+    stw: 2.3
+    sog: 2.3
+  log: 1683.2
+  barometer: 1016.76
+  wind:
+    speed: 6.1
+    direction: 29
+  engine:
+    hours: 567.4
+  vhf: "16"
+  crewNames:
+    - bergie
+    - bernhard
+  category: navigation
+- datetime: 2023-06-17T01:00:44.400Z
+  text: ""
+  author: ""
+  position:
+    longitude: 20.9355983
+    latitude: 61.1639945
+    source: GPS
+  heading: 117
+  course: 140
+  speed:
+    stw: 1
+    sog: 1.5
+  log: 1683.4
+  barometer: 1016.69
+  wind:
+    speed: 5.6
+    direction: 12
+  engine:
+    hours: 567.4
+  vhf: "16"
+  crewNames:
+    - bergie
+    - bernhard
