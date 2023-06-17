@@ -263,8 +263,8 @@
     - bernhard
   category: navigation
 - datetime: 2023-06-17T05:00:00.400Z
-  text: ""
-  author: ""
+  text: "Out of night watch schedule "
+  author: bergie
   position:
     longitude: 20.9466626
     latitude: 60.8428926
@@ -281,6 +281,34 @@
     direction: 267
   engine:
     hours: 571
+  vhf: "16"
+  crewNames:
+    - bergie
+    - bernhard
+  category: navigation
+  observations:
+    seaState: 2
+    cloudCoverage: 3
+    visibility: 7
+- datetime: 2023-06-17T06:00:48.400Z
+  text: ""
+  author: ""
+  position:
+    longitude: 21.0912199
+    latitude: 60.7864826
+    source: GPS
+  heading: 107
+  course: 115
+  speed:
+    stw: 5.5
+    sog: 5.5
+  log: 1708.5
+  barometer: 1016.51
+  wind:
+    speed: 4.5
+    direction: 319
+  engine:
+    hours: 572
   vhf: "16"
   crewNames:
     - bergie
