@@ -361,3 +361,53 @@
   crewNames:
     - bergie
     - bernhard
+  category: navigation
+- datetime: 2023-06-17T08:00:21.401Z
+  text: ""
+  author: ""
+  position:
+    longitude: 21.403579
+    latitude: 60.7977801
+    source: GPS
+  heading: 36
+  course: 38
+  speed:
+    stw: 0
+    sog: 0
+  log: 1718.8
+  barometer: 1016.5
+  wind:
+    speed: 2
+    direction: 54
+  engine:
+    hours: 574
+  vhf: "16"
+  crewNames:
+    - bergie
+    - bernhard
+  category: navigation
+- datetime: 2023-06-17T08:00:42.400Z
+  text: Stopped
+  author: ""
+  position:
+    longitude: 21.4035916
+    latitude: 60.7977818
+    source: GPS
+  heading: 35
+  course: 38
+  speed:
+    stw: 0
+    sog: 0
+  log: 1718.8
+  barometer: 1016.52
+  wind:
+    speed: 2.4
+    direction: 129
+  engine:
+    hours: 574
+  vhf: "16"
+  crewNames:
+    - bergie
+    - bernhard
+  end: true
+  category: navigation
