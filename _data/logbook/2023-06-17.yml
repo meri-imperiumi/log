@@ -117,3 +117,52 @@
   crewNames:
     - bergie
     - bernhard
+  category: navigation
+- datetime: 2023-06-17T01:10:29.400Z
+  text: Sails down, motoring
+  author: ""
+  position:
+    longitude: 20.9410536
+    latitude: 61.1625425
+    source: GPS
+  heading: 140
+  course: 146
+  speed:
+    stw: 1.9
+    sog: 2
+  log: 1683.6
+  barometer: 1016.58
+  wind:
+    speed: 5.2
+    direction: 352
+  engine:
+    hours: 567.4
+  vhf: "16"
+  crewNames:
+    - bergie
+    - bernhard
+  category: navigation
+- datetime: 2023-06-17T02:00:36.400Z
+  text: Bernhard on watch, Bergie to bed
+  author: bergie
+  position:
+    longitude: 20.9378089
+    latitude: 61.0900388
+    source: GPS
+  heading: 181
+  course: 183
+  speed:
+    stw: 5.3
+    sog: 5.3
+  log: 1688
+  barometer: 1016.48
+  wind:
+    speed: 2.8
+    direction: 340
+  engine:
+    hours: 568.3
+  vhf: "16"
+  crewNames:
+    - bergie
+    - bernhard
+  category: navigation
