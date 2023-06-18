@@ -215,3 +215,51 @@
   crewNames:
     - bergie
     - ihmis-suski
+  category: navigation
+- datetime: 2023-06-18T09:36:09.600Z
+  text: Gusts >20kt
+  author: bergie
+  position:
+    longitude: 21.1395024
+    latitude: 60.5887861
+    source: GPS
+  heading: 187
+  course: 188
+  speed:
+    stw: 6.1
+    sog: 5.9
+  log: 1734.6
+  barometer: 1018.32
+  wind:
+    speed: 15.8
+    direction: 141
+  engine:
+    hours: 574.3
+  vhf: "16"
+  crewNames:
+    - bergie
+    - ihmis-suski
+  category: navigation
+- datetime: 2023-06-18T10:00:04.700Z
+  text: ""
+  author: ""
+  position:
+    longitude: 21.1294523
+    latitude: 60.5565953
+    source: GPS
+  heading: 180
+  course: 187
+  speed:
+    stw: 4.8
+    sog: 4.3
+  log: 1736.6
+  barometer: 1018.4
+  wind:
+    speed: 13.7
+    direction: 134
+  engine:
+    hours: 574.3
+  vhf: "16"
+  crewNames:
+    - bergie
+    - ihmis-suski
