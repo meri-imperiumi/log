@@ -477,3 +477,51 @@
   crewNames:
     - bergie
     - ihmis-suski
+  category: navigation
+- datetime: 2023-06-19T14:46:01.798Z
+  text: "Sails set: Main, Genoa 1 (20% furled). Wing on wing "
+  author: bergie
+  position:
+    longitude: 22.0387238
+    latitude: 60.2982278
+    source: GPS
+  heading: 33
+  course: 37
+  speed:
+    stw: 3.6
+    sog: 3.5
+  log: 1790.5
+  barometer: 1018.24
+  wind:
+    speed: 7.8
+    direction: 183
+  engine:
+    hours: 574.8
+  vhf: "16"
+  crewNames:
+    - bergie
+    - ihmis-suski
+  category: navigation
+- datetime: 2023-06-19T15:00:00.800Z
+  text: ""
+  author: ""
+  position:
+    longitude: 22.050673
+    latitude: 60.3074529
+    source: GPS
+  heading: 23
+  course: 22
+  speed:
+    stw: 3.1
+    sog: 3.7
+  log: 1791.2
+  barometer: 1018.19
+  wind:
+    speed: 8.1
+    direction: 178
+  engine:
+    hours: 574.8
+  vhf: "16"
+  crewNames:
+    - bergie
+    - ihmis-suski
