@@ -95,8 +95,8 @@
     - skoll
   category: navigation
 - datetime: 2023-06-22T12:56:54.099Z
-  text: Motor stopped, sailing with Main, Genoa 1 (20% furled)
-  author: ""
+  text: Motor stopped, sailing with Main, Genoa 1
+  author: bergie
   position:
     longitude: 22.1261694
     latitude: 60.4054266
@@ -145,7 +145,7 @@
     - skoll
   category: navigation
 - datetime: 2023-06-22T13:45:03.100Z
-  text: "Started watermaker "
+  text: Started watermaker after washing the prefilter
   author: bergie
   position:
     longitude: 22.0682981
@@ -169,31 +169,6 @@
     - ihmis-suski
     - skoll
   category: maintenance
-- datetime: 2023-06-22T13:45:33.100Z
-  text: "Sails set: Main, Genoa 1"
-  author: ""
-  position:
-    longitude: 22.0677644
-    latitude: 60.3347334
-    source: GPS
-  heading: 201
-  course: 194
-  speed:
-    stw: 6.9
-    sog: 7.3
-  log: 1810.4
-  barometer: 1010.36
-  wind:
-    speed: 18.7
-    direction: 274
-  engine:
-    hours: 577.5
-  vhf: "16"
-  crewNames:
-    - bergie
-    - ihmis-suski
-    - skoll
-  category: navigation
 - datetime: 2023-06-22T14:00:00.099Z
   text: ""
   author: ""
@@ -211,6 +186,57 @@
   wind:
     speed: 12.7
     direction: 266
+  engine:
+    hours: 577.5
+  vhf: "16"
+  crewNames:
+    - bergie
+    - ihmis-suski
+    - skoll
+  category: navigation
+- datetime: 2023-06-22T14:09:57.100Z
+  text: Suski managed to get the air out of watermaker. Output suddenly 5x what it
+    was, but the breaker keeps popping. Switched to newer 8A breaker
+  author: bergie
+  position:
+    longitude: 22.0637544
+    latitude: 60.2984779
+    source: GPS
+  heading: 154
+  course: 154
+  speed:
+    stw: 4.8
+    sog: 4.8
+  log: 1812.8
+  barometer: 1010.81
+  wind:
+    speed: 11.3
+    direction: 273
+  engine:
+    hours: 577.5
+  vhf: "16"
+  crewNames:
+    - bergie
+    - ihmis-suski
+    - skoll
+  category: maintenance
+- datetime: 2023-06-22T15:00:44.102Z
+  text: ""
+  author: ""
+  position:
+    longitude: 22.1042316
+    latitude: 60.2366683
+    source: GPS
+  heading: 152
+  course: 165
+  speed:
+    stw: 4
+    sog: 4.1
+  log: 1816.7
+  barometer: 1010.89
+  wind:
+    speed: 8.2
+    direction: 284
   engine:
     hours: 577.5
   vhf: "16"
