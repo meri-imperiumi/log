@@ -244,3 +244,29 @@
     - bergie
     - ihmis-suski
     - skoll
+  category: navigation
+- datetime: 2023-06-22T16:00:25.203Z
+  text: Stopped watermaker, 20ppm
+  author: bergie
+  position:
+    longitude: 22.1662335
+    latitude: 60.199923
+    source: GPS
+  heading: 124
+  course: 123
+  speed:
+    stw: 1.5
+    sog: 1.6
+  log: 1819.7
+  barometer: 1010.68
+  wind:
+    speed: 3
+    direction: 294
+  engine:
+    hours: 577.5
+  vhf: "16"
+  crewNames:
+    - bergie
+    - ihmis-suski
+    - skoll
+  category: maintenance
