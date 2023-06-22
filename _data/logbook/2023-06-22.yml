@@ -94,3 +94,52 @@
     - ihmis-suski
     - skoll
   category: navigation
+- datetime: 2023-06-22T12:56:54.099Z
+  text: Motor stopped, sailing with Main, Genoa 1 (20% furled)
+  author: ""
+  position:
+    longitude: 22.1261694
+    latitude: 60.4054266
+    source: GPS
+  heading: 233
+  course: 219
+  speed:
+    stw: 5
+    sog: 4.8
+  log: 1805.8
+  barometer: 1010.29
+  wind:
+    speed: 13.9
+    direction: 285
+  engine:
+    hours: 577.5
+  vhf: "16"
+  crewNames:
+    - bergie
+    - ihmis-suski
+    - skoll
+  category: navigation
+- datetime: 2023-06-22T13:00:16.099Z
+  text: ""
+  author: ""
+  position:
+    longitude: 22.1217334
+    latitude: 60.4011168
+    source: GPS
+  heading: 202
+  course: 195
+  speed:
+    stw: 6
+    sog: 6
+  log: 1806.1
+  barometer: 1010.32
+  wind:
+    speed: 12.1
+    direction: 252
+  engine:
+    hours: 577.5
+  vhf: "16"
+  crewNames:
+    - bergie
+    - ihmis-suski
+    - skoll
