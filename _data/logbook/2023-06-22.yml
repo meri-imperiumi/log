@@ -143,3 +143,78 @@
     - bergie
     - ihmis-suski
     - skoll
+  category: navigation
+- datetime: 2023-06-22T13:45:03.100Z
+  text: "Started watermaker "
+  author: bergie
+  position:
+    longitude: 22.0682981
+    latitude: 60.3356306
+    source: GPS
+  heading: 203
+  course: 196
+  speed:
+    stw: 6.7
+    sog: 6.1
+  log: 1810.4
+  barometer: 1010.37
+  wind:
+    speed: 16.4
+    direction: 282
+  engine:
+    hours: 577.5
+  vhf: "16"
+  crewNames:
+    - bergie
+    - ihmis-suski
+    - skoll
+  category: maintenance
+- datetime: 2023-06-22T13:45:33.100Z
+  text: "Sails set: Main, Genoa 1"
+  author: ""
+  position:
+    longitude: 22.0677644
+    latitude: 60.3347334
+    source: GPS
+  heading: 201
+  course: 194
+  speed:
+    stw: 6.9
+    sog: 7.3
+  log: 1810.4
+  barometer: 1010.36
+  wind:
+    speed: 18.7
+    direction: 274
+  engine:
+    hours: 577.5
+  vhf: "16"
+  crewNames:
+    - bergie
+    - ihmis-suski
+    - skoll
+  category: navigation
+- datetime: 2023-06-22T14:00:00.099Z
+  text: ""
+  author: ""
+  position:
+    longitude: 22.0513688
+    latitude: 60.3120924
+    source: GPS
+  heading: 151
+  course: 152
+  speed:
+    stw: 5.2
+    sog: 5.6
+  log: 1811.9
+  barometer: 1010.7
+  wind:
+    speed: 12.7
+    direction: 266
+  engine:
+    hours: 577.5
+  vhf: "16"
+  crewNames:
+    - bergie
+    - ihmis-suski
+    - skoll
