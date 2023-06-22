@@ -1,5 +1,5 @@
 - datetime: 2023-06-22T10:42:49.100Z
-  text: 15 l of diesel and 1 cork of biozide.
+  text: 15 l of diesel and 1 cork of biocide.
   author: ihmis-suski
   position:
     longitude: 22.2444615
@@ -270,3 +270,79 @@
     - ihmis-suski
     - skoll
   category: maintenance
+- datetime: 2023-06-22T16:31:24.198Z
+  text: Sails down, motoring
+  author: ""
+  position:
+    longitude: 22.1967506
+    latitude: 60.1810948
+    source: GPS
+  heading: 148
+  course: 149
+  speed:
+    stw: 4
+    sog: 3.7
+  log: 1821.2
+  barometer: 1010.39
+  wind:
+    speed: 13.7
+    direction: 222
+  engine:
+    hours: 577.5
+  vhf: "16"
+  crewNames:
+    - bergie
+    - ihmis-suski
+    - skoll
+  category: navigation
+- datetime: 2023-06-22T16:42:35.200Z
+  text: Anchored
+  author: ""
+  position:
+    longitude: 22.2011131
+    latitude: 60.1752091
+    source: GPS
+  heading: 200
+  course: 343
+  speed:
+    stw: 0
+    sog: 0
+  log: 1821.6
+  barometer: 1010.56
+  wind:
+    speed: 2.3
+    direction: 146
+  engine:
+    hours: 577.7
+  vhf: "16"
+  crewNames:
+    - bergie
+    - ihmis-suski
+    - skoll
+  end: true
+  category: navigation
+- datetime: 2023-06-22T16:44:52.198Z
+  text: Stopped main engine
+  author: ""
+  position:
+    longitude: 22.20138233502706
+    latitude: 60.17522932688395
+    source: GPS
+  heading: 236
+  course: 30
+  speed:
+    stw: 0
+    sog: 0
+  log: 1821.6
+  barometer: 1010.56
+  wind:
+    speed: 4.3
+    direction: 247
+  engine:
+    hours: 577.7
+  vhf: "16"
+  crewNames:
+    - bergie
+    - ihmis-suski
+    - skoll
+  category: navigation
