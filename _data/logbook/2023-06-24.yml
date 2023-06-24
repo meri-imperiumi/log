@@ -23,3 +23,128 @@
     - ihmis-suski
     - skoll
   category: navigation
+- datetime: 2023-06-24T06:16:11.000Z
+  text: Motoring
+  author: ""
+  position:
+    longitude: 22.561476
+    latitude: 59.8958343
+    source: GPS
+  heading: 28
+  course: 21
+  speed:
+    stw: 2.8
+    sog: 2.8
+  log: 1850.2
+  barometer: 1016.98
+  wind:
+    speed: 0.6
+    direction: 8
+  engine:
+    hours: 578.6
+  vhf: "16"
+  crewNames:
+    - bergie
+    - ihmis-suski
+    - skoll
+  category: navigation
+- datetime: 2023-06-24T06:35:21.000Z
+  text: Motor stopped, sailing with Main, Genoa 1
+  author: ""
+  position:
+    longitude: 22.5754171
+    latitude: 59.9102111
+    source: GPS
+  heading: 345
+  course: 351
+  speed:
+    stw: 5.9
+    sog: 5.5
+  log: 1851.2
+  barometer: 1017.29
+  wind:
+    speed: 13.5
+    direction: 303
+  engine:
+    hours: 579
+  vhf: "16"
+  crewNames:
+    - bergie
+    - ihmis-suski
+    - skoll
+  category: navigation
+- datetime: 2023-06-24T07:00:56.000Z
+  text: "Poled out wing on wing "
+  author: bergie
+  position:
+    longitude: 22.6435271581014
+    latitude: 59.91192099253336
+    source: GPS
+  heading: 111
+  course: 115
+  speed:
+    stw: 6.1
+    sog: 6.2
+  log: 1853.7
+  barometer: 1017.2
+  wind:
+    speed: 16.4
+    direction: 307
+  engine:
+    hours: 579
+  vhf: "16"
+  crewNames:
+    - bergie
+    - ihmis-suski
+    - skoll
+  category: navigation
+- datetime: 2023-06-24T07:03:27.000Z
+  text: "Sails set: Main, Genoa 1 (20% furled)"
+  author: ""
+  position:
+    longitude: 22.6513793
+    latitude: 59.9099339
+    source: GPS
+  heading: 108
+  course: 113
+  speed:
+    stw: 5.7
+    sog: 5.9
+  log: 1854
+  barometer: 1017.17
+  wind:
+    speed: 16.3
+    direction: 301
+  engine:
+    hours: 579
+  vhf: "16"
+  crewNames:
+    - bergie
+    - ihmis-suski
+    - skoll
+  category: navigation
+- datetime: 2023-06-24T07:05:54.099Z
+  text: "Deployed hydrogenerator "
+  author: bergie
+  position:
+    longitude: 22.6587838
+    latitude: 59.9082888
+    source: GPS
+  heading: 107
+  course: 108
+  speed:
+    stw: 5.5
+    sog: 5.8
+  log: 1854.2
+  barometer: 1017.19
+  wind:
+    speed: 15.5
+    direction: 328
+  engine:
+    hours: 579
+  vhf: "16"
+  crewNames:
+    - bergie
+    - ihmis-suski
+    - skoll
+  category: navigation
