@@ -172,3 +172,53 @@
     - bergie
     - ihmis-suski
     - skoll
+  category: navigation
+- datetime: 2023-06-24T08:57:31.100Z
+  text: "Stowed hydrogenerator "
+  author: bergie
+  position:
+    longitude: 22.91230665842692
+    latitude: 59.806992530822754
+    source: GPS
+  heading: 108
+  course: 112
+  speed:
+    stw: 4.7
+    sog: 4.9
+  log: 1864.4
+  barometer: 1017.48
+  wind:
+    speed: 11.1
+    direction: 307
+  engine:
+    hours: 579
+  vhf: "16"
+  crewNames:
+    - bergie
+    - ihmis-suski
+    - skoll
+  category: navigation
+- datetime: 2023-06-24T09:00:30.099Z
+  text: ""
+  author: ""
+  position:
+    longitude: 22.919258689880373
+    latitude: 59.808138338724774
+    source: GPS
+  heading: 58
+  course: 59
+  speed:
+    stw: 4.6
+    sog: 4.3
+  log: 1864.7
+  barometer: 1017.59
+  wind:
+    speed: 10.8
+    direction: 317
+  engine:
+    hours: 579
+  vhf: "16"
+  crewNames:
+    - bergie
+    - ihmis-suski
+    - skoll
