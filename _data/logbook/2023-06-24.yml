@@ -517,3 +517,27 @@
     - skoll
   end: true
   category: navigation
+- datetime: 2023-06-24T13:18:45.100Z
+  text: Replaced a broken mainsail track car and reattached the Rodkicker after a
+    failed splint
+  author: bergie
+  position:
+    longitude: 23.3545995
+    latitude: 59.8656691
+    source: GPS
+  heading: 167
+  course: 154
+  speed:
+    stw: 0
+    sog: 0.4
+  log: 1879.7
+  barometer: 1016.87
+  wind:
+    speed: 11.7
+    direction: 291
+  engine:
+    hours: 579.5
+  crewNames:
+    - bergie
+    - skoll
+  category: maintenance
