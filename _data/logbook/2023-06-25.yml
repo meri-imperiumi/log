@@ -237,3 +237,75 @@
   crewNames:
     - bergie
     - skoll
+  category: navigation
+- datetime: 2023-06-25T07:15:40.899Z
+  text: Sails down, motoring
+  author: ""
+  position:
+    longitude: 23.589710489908853
+    latitude: 59.870648829142254
+    source: GPS
+  heading: 85
+  course: 86
+  speed:
+    stw: 0.6
+    sog: 0.9
+  log: 1887.4
+  barometer: 1017.57
+  wind:
+    speed: 1.3
+    direction: 247
+  engine:
+    hours: 580.9
+  vhf: "16"
+  crewNames:
+    - bergie
+    - skoll
+  category: navigation
+- datetime: 2023-06-25T07:26:01.000Z
+  text: Motor stopped, sailing with Parasailor
+  author: ""
+  position:
+    longitude: 23.6127021
+    latitude: 59.8753766
+    source: GPS
+  heading: 58
+  course: 59
+  speed:
+    stw: 2.5
+    sog: 2.6
+  log: 1888.1
+  barometer: 1017.56
+  wind:
+    speed: 5.9
+    direction: 161
+  engine:
+    hours: 581.1
+  vhf: "16"
+  crewNames:
+    - bergie
+    - skoll
+  category: navigation
+- datetime: 2023-06-25T08:00:04.000Z
+  text: ""
+  author: ""
+  position:
+    longitude: 23.6585955
+    latitude: 59.8877288
+    source: GPS
+  heading: 58
+  course: 59
+  speed:
+    stw: 3.8
+    sog: 3.4
+  log: 1889.7
+  barometer: 1017.56
+  wind:
+    speed: 6.7
+    direction: 202
+  engine:
+    hours: 581.1
+  vhf: "16"
+  crewNames:
+    - bergie
+    - skoll
