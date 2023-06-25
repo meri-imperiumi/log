@@ -1,0 +1,95 @@
+- datetime: 2023-06-25T04:49:37.900Z
+  text: Started main engine
+  author: ""
+  position:
+    longitude: 23.3545405
+    latitude: 59.8657036
+    source: GPS
+  heading: 158
+  course: 182
+  speed:
+    stw: 0
+    sog: 0
+  log: 1879.7
+  barometer: 1018.03
+  wind:
+    speed: 1.8
+    direction: 32
+  engine:
+    hours: 579.5
+  vhf: "16"
+  crewNames:
+    - bergie
+    - skoll
+  category: navigation
+- datetime: 2023-06-25T04:55:51.900Z
+  text: Motoring
+  author: ""
+  position:
+    longitude: 23.3560585
+    latitude: 59.8659781
+    source: GPS
+  heading: 103
+  course: 106
+  speed:
+    stw: 4
+    sog: 4
+  log: 1879.7
+  barometer: 1018.12
+  wind:
+    speed: 5.3
+    direction: 359
+  engine:
+    hours: 579.6
+  vhf: "16"
+  crewNames:
+    - bergie
+    - skoll
+  category: navigation
+- datetime: 2023-06-25T04:59:48.899Z
+  text: "Autopilot activated "
+  author: bergie
+  position:
+    longitude: 23.3613621
+    latitude: 59.8624801
+    source: GPS
+  heading: 183
+  course: 186
+  speed:
+    stw: 4.3
+    sog: 4.2
+  log: 1880
+  barometer: 1018.14
+  wind:
+    speed: 4.1
+    direction: 255
+  engine:
+    hours: 579.7
+  vhf: "16"
+  crewNames:
+    - bergie
+    - skoll
+  category: navigation
+- datetime: 2023-06-25T05:00:48.899Z
+  text: ""
+  author: ""
+  position:
+    longitude: 23.3617793
+    latitude: 59.8613775
+    source: GPS
+  heading: 144
+  course: 151
+  speed:
+    stw: 4.3
+    sog: 4.2
+  log: 1880.1
+  barometer: 1018.12
+  wind:
+    speed: 4
+    direction: 66
+  engine:
+    hours: 579.7
+  vhf: "16"
+  crewNames:
+    - bergie
+    - skoll
