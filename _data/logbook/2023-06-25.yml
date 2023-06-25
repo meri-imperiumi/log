@@ -672,3 +672,29 @@
   crewNames:
     - bergie
     - skoll
+  category: navigation
+- datetime: 2023-06-25T14:12:09.401Z
+  text: Stopped
+  author: ""
+  position:
+    longitude: 24.44025583267212
+    latitude: 59.98079414367676
+    source: GPS
+  heading: 320
+  course: 313
+  speed:
+    stw: 0
+    sog: 0
+  log: 1915.7
+  barometer: 1016.73
+  wind:
+    speed: 3.2
+    direction: 309
+  engine:
+    hours: 581.5
+  vhf: "16"
+  crewNames:
+    - bergie
+    - skoll
+  end: true
+  category: navigation
