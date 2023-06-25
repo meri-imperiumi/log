@@ -624,3 +624,51 @@
   crewNames:
     - bergie
     - skoll
+  category: navigation
+- datetime: 2023-06-25T13:51:15.398Z
+  text: Sails down, motoring
+  author: ""
+  position:
+    longitude: 24.4253656
+    latitude: 59.9648649
+    source: GPS
+  heading: 22
+  course: 21
+  speed:
+    stw: 3
+    sog: 3.3
+  log: 1914.3
+  barometer: 1016.96
+  wind:
+    speed: 4.6
+    direction: 303
+  engine:
+    hours: 581.1
+  vhf: "16"
+  crewNames:
+    - bergie
+    - skoll
+  category: navigation
+- datetime: 2023-06-25T14:00:32.400Z
+  text: ""
+  author: ""
+  position:
+    longitude: 24.4386398
+    latitude: 59.9730426
+    source: GPS
+  heading: 41
+  course: 43
+  speed:
+    stw: 5
+    sog: 4.9
+  log: 1915
+  barometer: 1016.91
+  wind:
+    speed: 6.4
+    direction: 353
+  engine:
+    hours: 581.3
+  vhf: "16"
+  crewNames:
+    - bergie
+    - skoll
