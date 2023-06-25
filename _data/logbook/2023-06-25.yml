@@ -550,3 +550,77 @@
     - bergie
     - skoll
   category: maintenance
+- datetime: 2023-06-25T12:24:58.000Z
+  text: Thunderstorm rolling in
+  author: bergie
+  position:
+    longitude: 24.2581286
+    latitude: 59.9380368
+    source: GPS
+  heading: 80
+  course: 89
+  speed:
+    stw: 4.5
+    sog: 4.5
+  log: 1908.6
+  barometer: 1016.75
+  wind:
+    speed: 14
+    direction: 218
+  engine:
+    hours: 581.1
+  vhf: "16"
+  crewNames:
+    - bergie
+    - skoll
+  category: navigation
+  observations:
+    seaState: 2
+    cloudCoverage: 6
+- datetime: 2023-06-25T12:50:20.000Z
+  text: "Sails set: Main (1st reef), Genoa 1 (60% furled)"
+  author: ""
+  position:
+    longitude: 24.317428175608317
+    latitude: 59.938068644205735
+    source: GPS
+  heading: 97
+  course: 101
+  speed:
+    stw: 4.1
+    sog: 4
+  log: 1910.4
+  barometer: 1016.71
+  wind:
+    speed: 11.6
+    direction: 229
+  engine:
+    hours: 581.1
+  vhf: "16"
+  crewNames:
+    - bergie
+    - skoll
+  category: navigation
+- datetime: 2023-06-25T13:00:48.000Z
+  text: ""
+  author: ""
+  position:
+    longitude: 24.3431859
+    latitude: 59.9378608
+    source: GPS
+  heading: 82
+  course: 86
+  speed:
+    stw: 4.4
+    sog: 4.5
+  log: 1911.2
+  barometer: 1016.74
+  wind:
+    speed: 11.8
+    direction: 225
+  engine:
+    hours: 581.1
+  vhf: "16"
+  crewNames:
+    - bergie
+    - skoll
