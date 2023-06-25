@@ -309,3 +309,51 @@
   crewNames:
     - bergie
     - skoll
+  category: navigation
+- datetime: 2023-06-25T08:53:15.001Z
+  text: "Sails set: Main, Genoa 1"
+  author: ""
+  position:
+    longitude: 23.7457749
+    latitude: 59.9124654
+    source: GPS
+  heading: 80
+  course: 82
+  speed:
+    stw: 4.3
+    sog: 4.2
+  log: 1892.7
+  barometer: 1017.43
+  wind:
+    speed: 9.1
+    direction: 174
+  engine:
+    hours: 581.1
+  vhf: "16"
+  crewNames:
+    - bergie
+    - skoll
+  category: navigation
+- datetime: 2023-06-25T09:00:50.000Z
+  text: ""
+  author: ""
+  position:
+    longitude: 23.7643348
+    latitude: 59.9131236
+    source: GPS
+  heading: 94
+  course: 99
+  speed:
+    stw: 5.2
+    sog: 5.1
+  log: 1893.3
+  barometer: 1017.38
+  wind:
+    speed: 11.5
+    direction: 192
+  engine:
+    hours: 581.1
+  vhf: "16"
+  crewNames:
+    - bergie
+    - skoll
