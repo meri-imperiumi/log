@@ -698,3 +698,26 @@
     - skoll
   end: true
   category: navigation
+- datetime: 2023-06-25T15:22:38.400Z
+  text: Crew changed to bergie, ihmis-suski
+  author: ""
+  position:
+    longitude: 24.44037300745646
+    latitude: 59.9808230082194
+    source: GPS
+  heading: 319
+  course: 10
+  speed:
+    stw: 0
+    sog: 0
+  log: 1915.7
+  barometer: 1016.54
+  wind:
+    speed: 3
+    direction: 317
+  engine:
+    hours: 581.5
+  crewNames:
+    - bergie
+    - skoll
+  category: navigation
