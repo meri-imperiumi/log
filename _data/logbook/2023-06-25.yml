@@ -429,3 +429,124 @@
   crewNames:
     - bergie
     - skoll
+  category: navigation
+- datetime: 2023-06-25T11:13:18.000Z
+  text: "Started watermaker "
+  author: bergie
+  position:
+    longitude: 24.0524816
+    latitude: 59.9249951
+    source: GPS
+  heading: 74
+  course: 76
+  speed:
+    stw: 5.6
+    sog: 5.5
+  log: 1902.3
+  barometer: 1016.99
+  wind:
+    speed: 11.9
+    direction: 233
+  engine:
+    hours: 581.1
+  vhf: "16"
+  crewNames:
+    - bergie
+    - skoll
+  category: maintenance
+- datetime: 2023-06-25T11:54:07.001Z
+  text: "Stern pulpit broke off on port side, had to get spi down quick "
+  author: bergie
+  position:
+    longitude: 24.1769098
+    latitude: 59.934833
+    source: GPS
+  heading: 82
+  course: 78
+  speed:
+    stw: 4.9
+    sog: 5.2
+  log: 1906.2
+  barometer: 1016.68
+  wind:
+    speed: 16.4
+    direction: 240
+  engine:
+    hours: 581.1
+  vhf: "16"
+  crewNames:
+    - bergie
+    - skoll
+  category: navigation
+- datetime: 2023-06-25T12:00:04.998Z
+  text: ""
+  author: ""
+  position:
+    longitude: 24.192915503184
+    latitude: 59.93567047119141
+    source: GPS
+  heading: 89
+  course: 94
+  speed:
+    stw: 4.9
+    sog: 5.2
+  log: 1906.6
+  barometer: 1016.8
+  wind:
+    speed: 16.4
+    direction: 223
+  engine:
+    hours: 581.1
+  vhf: "16"
+  crewNames:
+    - bergie
+    - skoll
+  category: navigation
+- datetime: 2023-06-25T12:04:28.998Z
+  text: "Sails set: Main (1st reef)"
+  author: ""
+  position:
+    longitude: 24.204511
+    latitude: 59.9362099
+    source: GPS
+  heading: 82
+  course: 89
+  speed:
+    stw: 4.6
+    sog: 4.5
+  log: 1907
+  barometer: 1016.8
+  wind:
+    speed: 15.2
+    direction: 224
+  engine:
+    hours: 581.1
+  vhf: "16"
+  crewNames:
+    - bergie
+    - skoll
+  category: navigation
+- datetime: 2023-06-25T12:09:03.001Z
+  text: Stopped watermaker, 20ppm
+  author: bergie
+  position:
+    longitude: 24.2166039
+    latitude: 59.936579
+    source: GPS
+  heading: 83
+  course: 80
+  speed:
+    stw: 5
+    sog: 5.5
+  log: 1907.4
+  barometer: 1016.7
+  wind:
+    speed: 18.9
+    direction: 220
+  engine:
+    hours: 581.1
+  vhf: "16"
+  crewNames:
+    - bergie
+    - skoll
+  category: maintenance
