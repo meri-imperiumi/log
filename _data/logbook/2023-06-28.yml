@@ -95,3 +95,26 @@
     - ihmis-suski
   end: true
   category: navigation
+- datetime: 2023-06-28T13:53:34.099Z
+  text: Intermittent “GPS no fix” alerts from the Triton2
+  author: bergie
+  position:
+    longitude: 24.4435295
+    latitude: 59.9346461
+    source: GPS
+  heading: 177
+  course: 162
+  speed:
+    stw: 0
+    sog: 0
+  log: 1920.8
+  barometer: 1010.39
+  wind:
+    speed: 8.4
+    direction: 292
+  engine:
+    hours: 582.6
+  crewNames:
+    - bergie
+    - ihmis-suski
+  category: maintenance
