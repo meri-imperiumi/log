@@ -290,7 +290,7 @@
     - ihmis-suski
   category: navigation
 - datetime: 2023-06-29T12:00:03.900Z
-  text: ""
+  text: "Entered Tallinn fairway "
   author: bergie
   position:
     longitude: 24.6484686
@@ -317,3 +317,50 @@
     seaState: 2
     cloudCoverage: 3
     visibility: 8
+- datetime: 2023-06-29T12:42:54.899Z
+  text: Wing on wing
+  author: bergie
+  position:
+    longitude: 24.6833023
+    latitude: 59.5542988
+    source: GPS
+  heading: 161
+  course: 160
+  speed:
+    stw: 4.4
+    sog: 4.6
+  log: 1945.2
+  barometer: 1008.16
+  wind:
+    speed: 10.1
+    direction: 306
+  engine:
+    hours: 583.5
+  vhf: "16"
+  crewNames:
+    - bergie
+    - ihmis-suski
+  category: navigation
+- datetime: 2023-06-29T13:00:49.900Z
+  text: ""
+  author: ""
+  position:
+    longitude: 24.6988344
+    latitude: 59.5361428
+    source: GPS
+  heading: 150
+  course: 152
+  speed:
+    stw: 3.6
+    sog: 3.6
+  log: 1946.4
+  barometer: 1007.98
+  wind:
+    speed: 7.8
+    direction: 327
+  engine:
+    hours: 583.5
+  vhf: "16"
+  crewNames:
+    - bergie
+    - ihmis-suski
