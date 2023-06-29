@@ -485,3 +485,52 @@
     - bergie
     - ihmis-suski
   category: navigation
+- datetime: 2023-06-29T14:12:33.900Z
+  text: "Received port entry clearance "
+  author: bergie
+  position:
+    longitude: 24.7746351
+    latitude: 59.4521629
+    source: GPS
+  heading: 150
+  course: 152
+  speed:
+    stw: 5.5
+    sog: 5.5
+  log: 1952
+  barometer: 1007.74
+  wind:
+    speed: 14.2
+    direction: 296
+  engine:
+    hours: 583.7
+  vhf: "14"
+  crewNames:
+    - bergie
+    - ihmis-suski
+  category: radio
+- datetime: 2023-06-29T14:27:13.900Z
+  text: Stopped
+  author: ""
+  position:
+    longitude: 24.7594196
+    latitude: 59.4425505
+    source: GPS
+  heading: 247
+  course: 243
+  speed:
+    stw: 0
+    sog: 0
+  log: 1952.9
+  barometer: 1007.76
+  wind:
+    speed: 7.1
+    direction: 311
+  engine:
+    hours: 584
+  vhf: "14"
+  crewNames:
+    - bergie
+    - ihmis-suski
+  end: true
+  category: navigation
