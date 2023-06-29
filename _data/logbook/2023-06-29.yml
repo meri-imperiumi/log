@@ -188,3 +188,79 @@
   crewNames:
     - bergie
     - ihmis-suski
+  category: navigation
+- datetime: 2023-06-29T09:14:35.801Z
+  text: Motor stopped, sailing with Main, Genoa 1
+  author: ""
+  position:
+    longitude: 24.545933
+    latitude: 59.7890761
+    source: GPS
+  heading: 158
+  course: 166
+  speed:
+    stw: 4.1
+    sog: 3.8
+  log: 1930.4
+  barometer: 1009.2
+  wind:
+    speed: 6.2
+    direction: 256
+  engine:
+    hours: 583.5
+  vhf: "16"
+  crewNames:
+    - bergie
+    - ihmis-suski
+  category: navigation
+- datetime: 2023-06-29T09:58:25.798Z
+  text: Lots of rumble from the thunder cloud over Finnish coast.
+  author: bergie
+  position:
+    longitude: 24.570738983154296
+    latitude: 59.74963035583495
+    source: GPS
+  heading: 159
+  course: 164
+  speed:
+    stw: 4.3
+    sog: 4.3
+  log: 1932.9
+  barometer: 1009.06
+  wind:
+    speed: 6.8
+    direction: 230
+  engine:
+    hours: 583.5
+  vhf: "16"
+  crewNames:
+    - bergie
+    - ihmis-suski
+  category: navigation
+  observations:
+    seaState: 1
+    cloudCoverage: 2
+    visibility: 8
+- datetime: 2023-06-29T10:00:24.800Z
+  text: ""
+  author: ""
+  position:
+    longitude: 24.572271
+    latitude: 59.7474854
+    source: GPS
+  heading: 158
+  course: 156
+  speed:
+    stw: 4.3
+    sog: 4
+  log: 1933
+  barometer: 1009.04
+  wind:
+    speed: 6.8
+    direction: 228
+  engine:
+    hours: 583.5
+  vhf: "16"
+  crewNames:
+    - bergie
+    - ihmis-suski
