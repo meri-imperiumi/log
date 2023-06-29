@@ -142,7 +142,7 @@
     - ihmis-suski
   category: navigation
 - datetime: 2023-06-29T08:54:44.800Z
-  text: Motoring with the cone up
+  text: Motoring with the cone up, Gulf of Finland TSS
   author: bergie
   position:
     longitude: 24.53207451502482
@@ -241,23 +241,47 @@
     seaState: 1
     cloudCoverage: 2
     visibility: 8
-- datetime: 2023-06-29T10:00:24.800Z
+- datetime: 2023-06-29T10:18:23.801Z
+  text: Out of the Gulf of Finland TSS
+  author: bergie
+  position:
+    longitude: 24.5869403
+    latitude: 59.7275543
+    source: GPS
+  heading: 158
+  course: 163
+  speed:
+    stw: 4.4
+    sog: 4.5
+  log: 1934.3
+  barometer: 1008.9
+  wind:
+    speed: 8.5
+    direction: 235
+  engine:
+    hours: 583.5
+  vhf: "16"
+  crewNames:
+    - bergie
+    - ihmis-suski
+  category: navigation
+- datetime: 2023-06-29T11:00:16.800Z
   text: ""
   author: ""
   position:
-    longitude: 24.572271
-    latitude: 59.7474854
+    longitude: 24.616648864746093
+    latitude: 59.68507633209229
     source: GPS
-  heading: 158
-  course: 156
+  heading: 157
+  course: 165
   speed:
-    stw: 4.3
-    sog: 4
-  log: 1933
-  barometer: 1009.04
+    stw: 4.5
+    sog: 3.9
+  log: 1937
+  barometer: 1008.81
   wind:
-    speed: 6.8
-    direction: 228
+    speed: 9.6
+    direction: 251
   engine:
     hours: 583.5
   vhf: "16"
