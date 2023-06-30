@@ -1,0 +1,48 @@
+- datetime: 2023-06-30T14:28:02.099Z
+  text: Started main engine
+  author: ""
+  position:
+    longitude: 24.7594188
+    latitude: 59.4425601
+    source: GPS
+  heading: 253
+  course: 30
+  speed:
+    stw: 0
+    sog: 0
+  log: 1952.9
+  barometer: 1003.57
+  wind:
+    speed: 3.8
+    direction: 259
+  engine:
+    hours: 584
+  vhf: "14"
+  crewNames:
+    - bergie
+    - ihmis-suski
+  category: navigation
+- datetime: 2023-06-30T14:31:21.100Z
+  text: Stopped main engine, waiting in front of the turn bridge
+  author: bergie
+  position:
+    longitude: 24.7604295
+    latitude: 59.4428828
+    source: GPS
+  heading: 288
+  course: 60
+  speed:
+    stw: 0
+    sog: 0
+  log: 1952.9
+  barometer: 1003.61
+  wind:
+    speed: 3.4
+    direction: 129
+  engine:
+    hours: 584
+  vhf: "14"
+  crewNames:
+    - bergie
+    - ihmis-suski
+  category: navigation
