@@ -345,3 +345,100 @@
   crewNames:
     - bergie
     - ihmis-suski
+  category: navigation
+- datetime: 2023-06-30T18:37:45.203Z
+  text: "Sails set: Main, Genoa 1 (30% furled). Wing on wing"
+  author: bergie
+  position:
+    longitude: 24.8313709
+    latitude: 59.6936781
+    source: GPS
+  heading: 56
+  course: 48
+  speed:
+    stw: 5
+    sog: 4.9
+  log: 1969.8
+  barometer: 1001.96
+  wind:
+    speed: 12.5
+    direction: 271
+  engine:
+    hours: 584.3
+  vhf: "16"
+  crewNames:
+    - bergie
+    - ihmis-suski
+  category: navigation
+- datetime: 2023-06-30T18:56:57.203Z
+  text: Stopped watermaker, 16ppm
+  author: bergie
+  position:
+    longitude: 24.8729893
+    latitude: 59.7063901
+    source: GPS
+  heading: 65
+  course: 65
+  speed:
+    stw: 5
+    sog: 5.2
+  log: 1971.2
+  barometer: 1001.88
+  wind:
+    speed: 10.6
+    direction: 246
+  engine:
+    hours: 584.3
+  vhf: "16"
+  crewNames:
+    - bergie
+    - ihmis-suski
+  category: maintenance
+- datetime: 2023-06-30T19:00:56.198Z
+  text: ""
+  author: ""
+  position:
+    longitude: 24.8822675
+    latitude: 59.7086146
+    source: GPS
+  heading: 65
+  course: 74
+  speed:
+    stw: 4.5
+    sog: 4.6
+  log: 1971.5
+  barometer: 1001.86
+  wind:
+    speed: 10.2
+    direction: 239
+  engine:
+    hours: 584.3
+  vhf: "16"
+  crewNames:
+    - bergie
+    - ihmis-suski
+  category: navigation
+- datetime: 2023-06-30T19:03:56.198Z
+  text: Lots of seemingly drunken chatter on 16. "Mario!" "Marco!"
+  author: bergie
+  position:
+    longitude: 24.8892709
+    latitude: 59.7101231
+    source: GPS
+  heading: 70
+  course: 57
+  speed:
+    stw: 4.8
+    sog: 4.8
+  log: 1971.8
+  barometer: 1001.82
+  wind:
+    speed: 12.9
+    direction: 267
+  engine:
+    hours: 584.3
+  vhf: "16"
+  crewNames:
+    - bergie
+    - ihmis-suski
+  category: radio
