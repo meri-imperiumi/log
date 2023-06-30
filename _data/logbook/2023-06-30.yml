@@ -562,3 +562,51 @@
     - bergie
     - ihmis-suski
   category: navigation
+- datetime: 2023-06-30T22:00:53.196Z
+  text: ""
+  author: ""
+  position:
+    longitude: 25.1200805
+    latitude: 59.905625
+    source: GPS
+  heading: 69
+  course: 67
+  speed:
+    stw: 5.4
+    sog: 5.7
+  log: 1987.5
+  barometer: 1000.23
+  wind:
+    speed: 14.5
+    direction: 264
+  engine:
+    hours: 584.3
+  vhf: "16"
+  crewNames:
+    - bergie
+    - ihmis-suski
+  category: navigation
+- datetime: 2023-06-30T22:00:53.196Z
+  text: "Hand steering "
+  author: ihmis-suski
+  position:
+    longitude: 25.1200805
+    latitude: 59.905625
+    source: GPS
+  heading: 69
+  course: 67
+  speed:
+    stw: 5.4
+    sog: 5.7
+  log: 1987.5
+  barometer: 1000.23
+  wind:
+    speed: 14.5
+    direction: 264
+  engine:
+    hours: 584.3
+  vhf: "16"
+  crewNames:
+    - bergie
+    - ihmis-suski
+  category: navigation
