@@ -270,3 +270,78 @@
     seaState: 2
     cloudCoverage: 2
     visibility: 8
+- datetime: 2023-06-30T17:29:15.200Z
+  text: Out of Tallinn fairway
+  author: bergie
+  position:
+    longitude: 24.7345614
+    latitude: 59.6203954
+    source: GPS
+  heading: 41
+  course: 39
+  speed:
+    stw: 4.9
+    sog: 4.6
+  log: 1964.4
+  barometer: 1002.65
+  wind:
+    speed: 13.2
+    direction: 280
+  engine:
+    hours: 584.3
+  vhf: "16"
+  crewNames:
+    - bergie
+    - ihmis-suski
+  category: navigation
+  observations:
+    seaState: 3
+    cloudCoverage: 2
+    visibility: 8
+- datetime: 2023-06-30T17:33:15.200Z
+  text: Started watermaker, 18ppm after 10min
+  author: bergie
+  position:
+    longitude: 24.74029966990153
+    latitude: 59.6245175043742
+    source: GPS
+  heading: 34
+  course: 31
+  speed:
+    stw: 5
+    sog: 4.9
+  log: 1964.7
+  barometer: 1002.62
+  wind:
+    speed: 13.2
+    direction: 280
+  engine:
+    hours: 584.3
+  vhf: "16"
+  crewNames:
+    - bergie
+    - ihmis-suski
+  category: maintenance
+- datetime: 2023-06-30T18:00:09.203Z
+  text: ""
+  author: ""
+  position:
+    longitude: 24.7776331
+    latitude: 59.6527345
+    source: GPS
+  heading: 37
+  course: 43
+  speed:
+    stw: 4.8
+    sog: 4.5
+  log: 1966.8
+  barometer: 1002.32
+  wind:
+    speed: 13.1
+    direction: 275
+  engine:
+    hours: 584.3
+  vhf: "16"
+  crewNames:
+    - bergie
+    - ihmis-suski
