@@ -442,3 +442,74 @@
     - bergie
     - ihmis-suski
   category: radio
+- datetime: 2023-06-30T19:08:54.201Z
+  text: "Too little wind for the waves to make wing on wing comfortable "
+  author: bergie
+  position:
+    longitude: 24.8993028
+    latitude: 59.7136463
+    source: GPS
+  heading: 14
+  course: 1
+  speed:
+    stw: 5.2
+    sog: 4.9
+  log: 1972.2
+  barometer: 1001.86
+  wind:
+    speed: 14.9
+    direction: 269
+  engine:
+    hours: 584.3
+  vhf: "16"
+  crewNames:
+    - bergie
+    - ihmis-suski
+  category: navigation
+- datetime: 2023-06-30T19:16:16.198Z
+  text: "Sails set: Main, Genoa 1"
+  author: ""
+  position:
+    longitude: 24.9038633
+    latitude: 59.7241538
+    source: GPS
+  heading: 11
+  course: 14
+  speed:
+    stw: 5.6
+    sog: 5.7
+  log: 1972.8
+  barometer: 1001.82
+  wind:
+    speed: 15.4
+    direction: 266
+  engine:
+    hours: 584.3
+  vhf: "16"
+  crewNames:
+    - bergie
+    - ihmis-suski
+  category: navigation
+- datetime: 2023-06-30T20:00:52.198Z
+  text: ""
+  author: ""
+  position:
+    longitude: 24.9226018
+    latitude: 59.7910484
+    source: GPS
+  heading: 357
+  course: 3
+  speed:
+    stw: 5.9
+    sog: 6.1
+  log: 1976.9
+  barometer: 1001.54
+  wind:
+    speed: 15.1
+    direction: 267
+  engine:
+    hours: 584.3
+  vhf: "16"
+  crewNames:
+    - bergie
+    - ihmis-suski
