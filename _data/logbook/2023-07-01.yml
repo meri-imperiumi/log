@@ -21,3 +21,56 @@
   crewNames:
     - bergie
     - ihmis-suski
+  category: navigation
+- datetime: 2023-07-01T00:22:53.600Z
+  text: Starbuck back on, windvane steering. Preparing for the turn at the buoy in
+    about  30 min
+  author: ihmis-suski
+  position:
+    longitude: 25.5069494
+    latitude: 59.9431618
+    source: GPS
+  heading: 86
+  course: 82
+  speed:
+    stw: 5.6
+    sog: 5.7
+  log: 1999.4
+  barometer: 999.19
+  wind:
+    speed: 11.7
+    direction: 274
+  engine:
+    hours: 584.3
+  vhf: "16"
+  crewNames:
+    - bergie
+    - ihmis-suski
+  category: navigation
+  observations:
+    seaState: 3
+    cloudCoverage: 7
+    visibility: 8
+- datetime: 2023-07-01T01:00:53.600Z
+  text: ""
+  author: ""
+  position:
+    longitude: 25.6046199
+    latitude: 59.9627393
+    source: GPS
+  heading: 39
+  course: 37
+  speed:
+    stw: 5.6
+    sog: 5.3
+  log: 2002.7
+  barometer: 998.85
+  wind:
+    speed: 15.1
+    direction: 268
+  engine:
+    hours: 584.3
+  vhf: "16"
+  crewNames:
+    - bergie
+    - ihmis-suski
