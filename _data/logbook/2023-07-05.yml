@@ -246,3 +246,74 @@
     seaState: 4
     cloudCoverage: 3
     visibility: 7
+- datetime: 2023-07-05T14:35:54.800Z
+  text: Stopped watermaker, 15ppm. Made about 17l of water
+  author: bergie
+  position:
+    longitude: 26.7743243
+    latitude: 60.3780429
+    source: GPS
+  heading: 73
+  course: 87
+  speed:
+    stw: 6.3
+    sog: 6
+  log: 2050.7
+  barometer: 1011.81
+  wind:
+    speed: 22.1
+    direction: 217
+  engine:
+    hours: 586.4
+  vhf: "16"
+  crewNames:
+    - bergie
+    - ihmis-suski
+  category: maintenance
+- datetime: 2023-07-05T14:56:49.798Z
+  text: Autopilot deactivated
+  author: ""
+  position:
+    longitude: 26.8533676
+    latitude: 60.3904369
+    source: GPS
+  heading: 89
+  course: 86
+  speed:
+    stw: 6.8
+    sog: 7.8
+  log: 2053.2
+  barometer: 1012
+  wind:
+    speed: 28.6
+    direction: 231
+  engine:
+    hours: 586.4
+  vhf: "16"
+  crewNames:
+    - bergie
+    - ihmis-suski
+  category: navigation
+- datetime: 2023-07-05T15:00:48.800Z
+  text: ""
+  author: ""
+  position:
+    longitude: 26.8676265
+    latitude: 60.3940458
+    source: GPS
+  heading: 66
+  course: 79
+  speed:
+    stw: 7.2
+    sog: 7
+  log: 2053.6
+  barometer: 1012.1
+  wind:
+    speed: 23
+    direction: 229
+  engine:
+    hours: 586.4
+  vhf: "16"
+  crewNames:
+    - bergie
+    - ihmis-suski
