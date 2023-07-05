@@ -93,3 +93,103 @@
   crewNames:
     - bergie
     - ihmis-suski
+  category: navigation
+- datetime: 2023-07-05T11:09:22.800Z
+  text: Autopilot activated
+  author: ""
+  position:
+    longitude: 26.1250416
+    latitude: 60.2650586
+    source: GPS
+  heading: 92
+  course: 103
+  speed:
+    stw: 5.1
+    sog: 5.2
+  log: 2029.9
+  barometer: 1010.6
+  wind:
+    speed: 15.3
+    direction: 204
+  engine:
+    hours: 586.4
+  vhf: "16"
+  crewNames:
+    - bergie
+    - ihmis-suski
+  category: navigation
+- datetime: 2023-07-05T11:14:43.801Z
+  text: Started watermaker, 15ppm
+  author: bergie
+  position:
+    longitude: 26.1408254
+    latitude: 60.2645378
+    source: GPS
+  heading: 87
+  course: 101
+  speed:
+    stw: 5
+    sog: 4.9
+  log: 2030.4
+  barometer: 1010.66
+  wind:
+    speed: 17.1
+    direction: 198
+  engine:
+    hours: 586.4
+  vhf: "16"
+  crewNames:
+    - bergie
+    - ihmis-suski
+  category: maintenance
+- datetime: 2023-07-05T11:41:37.798Z
+  text: "Wing on wing "
+  author: bergie
+  position:
+    longitude: 26.2181913
+    latitude: 60.2667721
+    source: GPS
+  heading: 68
+  course: 69
+  speed:
+    stw: 5
+    sog: 5.3
+  log: 2032.7
+  barometer: 1011.02
+  wind:
+    speed: 14.8
+    direction: 200
+  engine:
+    hours: 586.4
+  vhf: "16"
+  crewNames:
+    - bergie
+    - ihmis-suski
+  category: navigation
+  observations:
+    seaState: 3
+    cloudCoverage: 4
+    visibility: 7
+- datetime: 2023-07-05T12:00:32.800Z
+  text: ""
+  author: ""
+  position:
+    longitude: 26.2712053
+    latitude: 60.2792774
+    source: GPS
+  heading: 62
+  course: 69
+  speed:
+    stw: 4.6
+    sog: 4.8
+  log: 2034.5
+  barometer: 1011.18
+  wind:
+    speed: 15.2
+    direction: 222
+  engine:
+    hours: 586.4
+  vhf: "16"
+  crewNames:
+    - bergie
+    - ihmis-suski
