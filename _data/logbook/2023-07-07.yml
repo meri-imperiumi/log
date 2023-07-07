@@ -1,0 +1,144 @@
+- datetime: 2023-07-07T07:19:45.400Z
+  text: Started main engine
+  author: ""
+  position:
+    longitude: 27.1815311
+    latitude: 60.5585678
+    source: GPS
+  heading: 194
+  course: 208
+  speed:
+    stw: 0
+    sog: 0
+  log: 2068.9
+  barometer: 1016.69
+  wind:
+    speed: 4.3
+    direction: 258
+  engine:
+    hours: 586.6
+  vhf: "17"
+  crewNames:
+    - bergie
+    - ihmis-suski
+  category: navigation
+- datetime: 2023-07-07T07:25:02.400Z
+  text: Motoring
+  author: ""
+  position:
+    longitude: 27.1805079
+    latitude: 60.5575236
+    source: GPS
+  heading: 190
+  course: 192
+  speed:
+    stw: 5.2
+    sog: 5.2
+  log: 2068.9
+  barometer: 1016.64
+  wind:
+    speed: 5
+    direction: 220
+  engine:
+    hours: 586.7
+  vhf: "17"
+  crewNames:
+    - bergie
+    - ihmis-suski
+  category: navigation
+- datetime: 2023-07-07T07:33:27.398Z
+  text: Motor stopped, sailing with Main, Genoa 1
+  author: ""
+  position:
+    longitude: 27.1789038
+    latitude: 60.548044
+    source: GPS
+  heading: 178
+  course: 175
+  speed:
+    stw: 2.4
+    sog: 2.4
+  log: 2069.4
+  barometer: 1016.68
+  wind:
+    speed: 4.1
+    direction: 242
+  engine:
+    hours: 586.9
+  vhf: "17"
+  crewNames:
+    - bergie
+    - ihmis-suski
+  category: navigation
+- datetime: 2023-07-07T07:59:52.400Z
+  text: "Deployed hydrogenerator "
+  author: bergie
+  position:
+    longitude: 27.1908351
+    latitude: 60.517829
+    source: GPS
+  heading: 181
+  course: 179
+  speed:
+    stw: 5.1
+    sog: 4.9
+  log: 2071.3
+  barometer: 1016.58
+  wind:
+    speed: 7.9
+    direction: 218
+  engine:
+    hours: 586.9
+  vhf: "17"
+  crewNames:
+    - bergie
+    - ihmis-suski
+  category: navigation
+- datetime: 2023-07-07T08:00:52.400Z
+  text: ""
+  author: ""
+  position:
+    longitude: 27.1908251
+    latitude: 60.5164389
+    source: GPS
+  heading: 182
+  course: 182
+  speed:
+    stw: 4.9
+    sog: 4.9
+  log: 2071.4
+  barometer: 1016.58
+  wind:
+    speed: 8.7
+    direction: 225
+  engine:
+    hours: 586.9
+  vhf: "17"
+  crewNames:
+    - bergie
+    - ihmis-suski
+  category: navigation
+- datetime: 2023-07-07T08:05:50.400Z
+  text: Pumped the bilge
+  author: bergie
+  position:
+    longitude: 27.1948578
+    latitude: 60.5103188
+    source: GPS
+  heading: 145
+  course: 151
+  speed:
+    stw: 5.4
+    sog: 5.4
+  log: 2071.8
+  barometer: 1016.59
+  wind:
+    speed: 11.6
+    direction: 239
+  engine:
+    hours: 586.9
+  vhf: "17"
+  crewNames:
+    - bergie
+    - ihmis-suski
+  category: maintenance
