@@ -142,3 +142,50 @@
     - bergie
     - ihmis-suski
   category: maintenance
+- datetime: 2023-07-07T08:25:52.400Z
+  text: Autopilot activated
+  author: ""
+  position:
+    longitude: 27.2320293
+    latitude: 60.4850495
+    source: GPS
+  heading: 130
+  course: 135
+  speed:
+    stw: 5.2
+    sog: 5
+  log: 2073.7
+  barometer: 1016.78
+  wind:
+    speed: 13.1
+    direction: 252
+  engine:
+    hours: 586.9
+  vhf: "17"
+  crewNames:
+    - bergie
+    - ihmis-suski
+  category: navigation
+- datetime: 2023-07-07T09:00:39.398Z
+  text: ""
+  author: ""
+  position:
+    longitude: 27.3180989
+    latitude: 60.4532216
+    source: GPS
+  heading: 122
+  course: 124
+  speed:
+    stw: 5.4
+    sog: 5.3
+  log: 2076.9
+  barometer: 1017.01
+  wind:
+    speed: 13.6
+    direction: 219
+  engine:
+    hours: 586.9
+  vhf: "17"
+  crewNames:
+    - bergie
+    - ihmis-suski
