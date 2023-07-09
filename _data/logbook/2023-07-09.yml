@@ -169,3 +169,175 @@
     - bergie
     - ihmis-suski
   category: navigation
+- datetime: 2023-07-09T08:13:52.800Z
+  text: "Deployed hydrogenerator "
+  author: bergie
+  position:
+    longitude: 27.0531796
+    latitude: 60.2796581
+    source: GPS
+  heading: 263
+  course: 268
+  speed:
+    stw: 5.5
+    sog: 5.5
+  log: 2103.2
+  barometer: 1018.76
+  wind:
+    speed: 16.3
+    direction: 46
+  engine:
+    hours: 587.9
+  vhf: "16"
+  crewNames:
+    - bergie
+    - ihmis-suski
+  category: navigation
+- datetime: 2023-07-09T08:20:51.801Z
+  text: "Started watermaker "
+  author: bergie
+  position:
+    longitude: 27.0324853
+    latitude: 60.2776329
+    source: GPS
+  heading: 264
+  course: 259
+  speed:
+    stw: 5.4
+    sog: 5.8
+  log: 2103.8
+  barometer: 1018.87
+  wind:
+    speed: 13.3
+    direction: 47
+  engine:
+    hours: 587.9
+  vhf: "16"
+  crewNames:
+    - bergie
+    - ihmis-suski
+  category: maintenance
+- datetime: 2023-07-09T08:45:43.801Z
+  text: "Sails set: Main, Genoa 1 (70% furled)"
+  author: ""
+  position:
+    longitude: 26.9610306
+    latitude: 60.2677209
+    source: GPS
+  heading: 251
+  course: 247
+  speed:
+    stw: 4.5
+    sog: 4.5
+  log: 2106
+  barometer: 1019.2
+  wind:
+    speed: 13
+    direction: 41
+  engine:
+    hours: 587.9
+  vhf: "16"
+  crewNames:
+    - bergie
+    - ihmis-suski
+  category: navigation
+- datetime: 2023-07-09T08:48:12.800Z
+  text: Autopilot deactivated
+  author: ""
+  position:
+    longitude: 26.9553956
+    latitude: 60.2668796
+    source: GPS
+  heading: 257
+  course: 253
+  speed:
+    stw: 4.4
+    sog: 4.6
+  log: 2106.2
+  barometer: 1019.24
+  wind:
+    speed: 13.4
+    direction: 39
+  engine:
+    hours: 587.9
+  vhf: "16"
+  crewNames:
+    - bergie
+    - ihmis-suski
+  category: navigation
+- datetime: 2023-07-09T08:57:03.801Z
+  text: "Sails set: Main, Genoa 1. Too light wind for DDW in confused seas"
+  author: bergie
+  position:
+    longitude: 26.9372251
+    latitude: 60.2661058
+    source: GPS
+  heading: 292
+  course: 283
+  speed:
+    stw: 2.9
+    sog: 2.8
+  log: 2106.7
+  barometer: 1019.28
+  wind:
+    speed: 9
+    direction: 73
+  engine:
+    hours: 587.9
+  vhf: "16"
+  crewNames:
+    - bergie
+    - ihmis-suski
+  category: navigation
+- datetime: 2023-07-09T08:59:54.800Z
+  text: Autopilot activated
+  author: ""
+  position:
+    longitude: 26.9325516
+    latitude: 60.2673216
+    source: GPS
+  heading: 329
+  course: 323
+  speed:
+    stw: 4.4
+    sog: 4.6
+  log: 2106.9
+  barometer: 1019.25
+  wind:
+    speed: 10
+    direction: 52
+  engine:
+    hours: 587.9
+  vhf: "16"
+  crewNames:
+    - bergie
+    - ihmis-suski
+  category: navigation
+- datetime: 2023-07-09T09:00:43.801Z
+  text: ""
+  author: bergie
+  position:
+    longitude: 26.931151
+    latitude: 60.2680954
+    source: GPS
+  heading: 328
+  course: 325
+  speed:
+    stw: 4.3
+    sog: 4.4
+  log: 2107
+  barometer: 1019.27
+  wind:
+    speed: 10.1
+    direction: 44
+  engine:
+    hours: 587.9
+  vhf: "16"
+  crewNames:
+    - bergie
+    - ihmis-suski
+  category: navigation
+  observations:
+    seaState: 2
+    cloudCoverage: 8
+    visibility: 7
