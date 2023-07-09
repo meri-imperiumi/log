@@ -338,7 +338,7 @@
     - ihmis-suski
   category: navigation
   observations:
-    seaState: 2
+    seaState: 3
     cloudCoverage: 8
     visibility: 7
 - datetime: 2023-07-09T09:30:36.800Z
@@ -382,6 +382,130 @@
   wind:
     speed: 15.7
     direction: 16
+  engine:
+    hours: 587.9
+  vhf: "16"
+  crewNames:
+    - bergie
+    - ihmis-suski
+  category: navigation
+- datetime: 2023-07-09T10:06:01.798Z
+  text: Autopilot deactivated
+  author: ""
+  position:
+    longitude: 26.8196039
+    latitude: 60.3388166
+    source: GPS
+  heading: 323
+  course: 309
+  speed:
+    stw: 6.3
+    sog: 6.7
+  log: 2112.4
+  barometer: 1019.61
+  wind:
+    speed: 15.4
+    direction: 25
+  engine:
+    hours: 587.9
+  vhf: "16"
+  crewNames:
+    - bergie
+    - ihmis-suski
+  category: navigation
+- datetime: 2023-07-09T10:15:23.801Z
+  text: Autopilot activated
+  author: ""
+  position:
+    longitude: 26.8391483
+    latitude: 60.3402326
+    source: GPS
+  heading: 340
+  course: 319
+  speed:
+    stw: 5.8
+    sog: 6.6
+  log: 2113.1
+  barometer: 1019.79
+  wind:
+    speed: 14.6
+    direction: 59
+  engine:
+    hours: 587.9
+  vhf: "16"
+  crewNames:
+    - bergie
+    - ihmis-suski
+  category: navigation
+- datetime: 2023-07-09T10:54:49.798Z
+  text: "Sails set: Main, Genoa 1 (20% furled). Back to wing on wing "
+  author: bergie
+  position:
+    longitude: 26.752079
+    latitude: 60.3748204
+    source: GPS
+  heading: 253
+  course: 249
+  speed:
+    stw: 3.4
+    sog: 3.9
+  log: 2116.7
+  barometer: 1020.13
+  wind:
+    speed: 9.8
+    direction: 35
+  engine:
+    hours: 587.9
+  vhf: "16"
+  crewNames:
+    - bergie
+    - ihmis-suski
+  category: navigation
+  observations:
+    seaState: 2
+    cloudCoverage: 8
+    visibility: 7
+- datetime: 2023-07-09T10:57:19.801Z
+  text: "Stowed hydrogenerator "
+  author: bergie
+  position:
+    longitude: 26.7468819
+    latitude: 60.3738135
+    source: GPS
+  heading: 248
+  course: 248
+  speed:
+    stw: 3.8
+    sog: 4.1
+  log: 2116.8
+  barometer: 1020.11
+  wind:
+    speed: 8.4
+    direction: 37
+  engine:
+    hours: 587.9
+  vhf: "16"
+  crewNames:
+    - bergie
+    - ihmis-suski
+  category: navigation
+- datetime: 2023-07-09T11:00:18.800Z
+  text: ""
+  author: ""
+  position:
+    longitude: 26.7405869
+    latitude: 60.372358
+    source: GPS
+  heading: 246
+  course: 244
+  speed:
+    stw: 4.4
+    sog: 4.8
+  log: 2117
+  barometer: 1020.12
+  wind:
+    speed: 11.6
+    direction: 27
   engine:
     hours: 587.9
   vhf: "16"
