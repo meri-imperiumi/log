@@ -95,8 +95,8 @@
     - ihmis-suski
   category: maintenance
 - datetime: 2023-07-14T12:00:16.000Z
-  text: ""
-  author: ""
+  text: Stopped watermaker. 20ppm
+  author: bergie
   position:
     longitude: 26.1671099
     latitude: 60.2724714
@@ -117,4 +117,55 @@
   crewNames:
     - bergie
     - ihmis-suski
+  category: maintenance
+  observations:
+    seaState: 2
+    cloudCoverage: 6
+    visibility: 7
+- datetime: 2023-07-14T12:44:14.000Z
+  text: Sails down, motoring
+  author: ""
+  position:
+    longitude: 26.1513305
+    latitude: 60.3343623
+    source: GPS
+  heading: 332
+  course: 328
+  speed:
+    stw: 4.2
+    sog: 3.6
+  log: 2169
+  barometer: 1010.34
+  wind:
+    speed: 15.8
+    direction: 232
+  engine:
+    hours: 591.6
+  vhf: "16"
+  crewNames:
+    - bergie
+    - ihmis-suski
   category: navigation
+- datetime: 2023-07-14T13:00:03.001Z
+  text: ""
+  author: ""
+  position:
+    longitude: 26.1210199
+    latitude: 60.3243371
+    source: GPS
+  heading: 221
+  course: 218
+  speed:
+    stw: 5
+    sog: 4.5
+  log: 2170.1
+  barometer: 1010.02
+  wind:
+    speed: 10.5
+    direction: 233
+  engine:
+    hours: 591.8
+  vhf: "16"
+  crewNames:
+    - bergie
+    - ihmis-suski
