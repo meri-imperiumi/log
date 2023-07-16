@@ -332,3 +332,80 @@
   crewNames:
     - bergie
     - ihmis-suski
+  category: navigation
+- datetime: 2023-07-16T12:54:40.899Z
+  text: "Sails set: Main. Will be a short downwind leg"
+  author: bergie
+  position:
+    longitude: 25.294242509206136
+    latitude: 60.12359866301218
+    source: GPS
+  heading: 282
+  course: 266
+  speed:
+    stw: 4.6
+    sog: 4.3
+  log: 2199.7
+  barometer: 1013.25
+  wind:
+    speed: 16.4
+    direction: 121
+  engine:
+    hours: 593.2
+  vhf: "16"
+  crewNames:
+    - bergie
+    - ihmis-suski
+  category: navigation
+  observations:
+    seaState: 3
+    cloudCoverage: 6
+    visibility: 8
+- datetime: 2023-07-16T13:00:56.800Z
+  text: ""
+  author: ""
+  position:
+    longitude: 25.2793118
+    latitude: 60.1263328
+    source: GPS
+  heading: 294
+  course: 286
+  speed:
+    stw: 4.8
+    sog: 4.5
+  log: 2200.2
+  barometer: 1013.13
+  wind:
+    speed: 13.6
+    direction: 122
+  engine:
+    hours: 593.2
+  vhf: "16"
+  crewNames:
+    - bergie
+    - ihmis-suski
+  category: navigation
+- datetime: 2023-07-16T13:04:55.801Z
+  text: Stopped watermaker, 19ppm. Made about 10l
+  author: bergie
+  position:
+    longitude: 25.269655
+    latitude: 60.1282884
+    source: GPS
+  heading: 293
+  course: 289
+  speed:
+    stw: 4.7
+    sog: 4.8
+  log: 2200.5
+  barometer: 1013
+  wind:
+    speed: 12.8
+    direction: 113
+  engine:
+    hours: 593.2
+  vhf: "16"
+  crewNames:
+    - bergie
+    - ihmis-suski
+  category: maintenance
