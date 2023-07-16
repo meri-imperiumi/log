@@ -260,3 +260,75 @@
   crewNames:
     - bergie
     - ihmis-suski
+  category: navigation
+- datetime: 2023-07-16T11:17:24.800Z
+  text: Watermarker on.
+  author: ihmis-suski
+  position:
+    longitude: 25.5850994
+    latitude: 60.1741546
+    source: GPS
+  heading: 237
+  course: 235
+  speed:
+    stw: 5.7
+    sog: 5.4
+  log: 2190.5
+  barometer: 1014.57
+  wind:
+    speed: 15.5
+    direction: 134
+  engine:
+    hours: 593.2
+  vhf: "16"
+  crewNames:
+    - bergie
+    - ihmis-suski
+  category: maintenance
+- datetime: 2023-07-16T11:28:21.798Z
+  text: Watermarker water tested, 20 ppm after 10 minutes. Running to canister.
+  author: ihmis-suski
+  position:
+    longitude: 25.5521584
+    latitude: 60.1682044
+    source: GPS
+  heading: 249
+  course: 250
+  speed:
+    stw: 5.7
+    sog: 5.5
+  log: 2191.5
+  barometer: 1014.39
+  wind:
+    speed: 15.4
+    direction: 120
+  engine:
+    hours: 593.2
+  vhf: "16"
+  crewNames:
+    - bergie
+    - ihmis-suski
+  category: maintenance
+- datetime: 2023-07-16T12:00:11.801Z
+  text: ""
+  author: ""
+  position:
+    longitude: 25.4582926
+    latitude: 60.1521986
+    source: GPS
+  heading: 243
+  course: 245
+  speed:
+    stw: 5.7
+    sog: 5.4
+  log: 2194.5
+  barometer: 1014.02
+  wind:
+    speed: 17.7
+    direction: 122
+  engine:
+    hours: 593.2
+  vhf: "16"
+  crewNames:
+    - bergie
+    - ihmis-suski
