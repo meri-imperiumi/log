@@ -92,3 +92,99 @@
   crewNames:
     - bergie
     - ihmis-suski
+  category: navigation
+- datetime: 2023-07-16T09:17:23.801Z
+  text: "Motoring to pass the Suni strait ferry "
+  author: bergie
+  position:
+    longitude: 25.9029455
+    latitude: 60.245977
+    source: GPS
+  heading: 240
+  course: 244
+  speed:
+    stw: 4.5
+    sog: 4.9
+  log: 2179.8
+  barometer: 1015.89
+  wind:
+    speed: 4.2
+    direction: 109
+  engine:
+    hours: 593.1
+  vhf: "16"
+  crewNames:
+    - bergie
+    - ihmis-suski
+  category: navigation
+- datetime: 2023-07-16T09:18:16.800Z
+  text: Motor stopped, sailing with Main, Genoa 1
+  author: ""
+  position:
+    longitude: 25.9005611
+    latitude: 60.2453518
+    source: GPS
+  heading: 249
+  course: 250
+  speed:
+    stw: 5
+    sog: 5.1
+  log: 2179.9
+  barometer: 1015.89
+  wind:
+    speed: 8.6
+    direction: 156
+  engine:
+    hours: 593.2
+  vhf: "16"
+  crewNames:
+    - bergie
+    - ihmis-suski
+  category: navigation
+- datetime: 2023-07-16T09:43:11.801Z
+  text: Autopilot activated
+  author: ""
+  position:
+    longitude: 25.8477598
+    latitude: 60.2347789
+    source: GPS
+  heading: 256
+  course: 260
+  speed:
+    stw: 4.8
+    sog: 4.7
+  log: 2181.6
+  barometer: 1015.6
+  wind:
+    speed: 12.2
+    direction: 130
+  engine:
+    hours: 593.2
+  vhf: "16"
+  crewNames:
+    - bergie
+    - ihmis-suski
+  category: navigation
+- datetime: 2023-07-16T10:00:44.800Z
+  text: ""
+  author: ""
+  position:
+    longitude: 25.7997409
+    latitude: 60.2262651
+    source: GPS
+  heading: 250
+  course: 253
+  speed:
+    stw: 6.2
+    sog: 6.2
+  log: 2183.2
+  barometer: 1015.45
+  wind:
+    speed: 17
+    direction: 148
+  engine:
+    hours: 593.2
+  vhf: "16"
+  crewNames:
+    - bergie
+    - ihmis-suski
