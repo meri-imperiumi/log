@@ -268,7 +268,7 @@
   category: navigation
 - datetime: 2023-07-27T12:00:08.700Z
   text: ""
-  author: ""
+  author: bergie
   position:
     longitude: 24.3451173
     latitude: 59.9425431
@@ -290,8 +290,12 @@
     - bergie
     - ihmis-suski
   category: navigation
+  observations:
+    seaState: 3
+    cloudCoverage: 6
+    visibility: 8
 - datetime: 2023-07-27T12:03:07.699Z
-  text: "Started watermaker "
+  text: Started watermaker, 24ppm
   author: bergie
   position:
     longitude: 24.337978013356526
@@ -314,3 +318,26 @@
     - bergie
     - ihmis-suski
   category: maintenance
+- datetime: 2023-07-27T13:00:53.699Z
+  text: ""
+  author: ""
+  position:
+    longitude: 24.2056506
+    latitude: 59.9598705
+    source: GPS
+  heading: 280
+  course: 284
+  speed:
+    stw: 4.6
+    sog: 4.5
+  log: 2243.6
+  barometer: 1006.54
+  wind:
+    speed: 9.2
+    direction: 240
+  engine:
+    hours: 594
+  vhf: "16"
+  crewNames:
+    - bergie
+    - ihmis-suski
