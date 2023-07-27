@@ -122,3 +122,75 @@
     seaState: 2
     cloudCoverage: 6
     visibility: 8
+- datetime: 2023-07-27T10:00:39.699Z
+  text: ""
+  author: ""
+  position:
+    longitude: 24.5356481
+    latitude: 59.9927311
+    source: GPS
+  heading: 271
+  course: 263
+  speed:
+    stw: 3.9
+    sog: 3.8
+  log: 2230.5
+  barometer: 1006.24
+  wind:
+    speed: 9.9
+    direction: 241
+  engine:
+    hours: 594
+  vhf: "16"
+  crewNames:
+    - bergie
+    - ihmis-suski
+  category: navigation
+- datetime: 2023-07-27T10:04:49.699Z
+  text: Autopilot deactivated
+  author: ""
+  position:
+    longitude: 24.5256736
+    latitude: 59.9929088
+    source: GPS
+  heading: 267
+  course: 270
+  speed:
+    stw: 4.8
+    sog: 4.8
+  log: 2230.9
+  barometer: 1006.3
+  wind:
+    speed: 12.5
+    direction: 237
+  engine:
+    hours: 594
+  vhf: "16"
+  crewNames:
+    - bergie
+    - ihmis-suski
+  category: navigation
+- datetime: 2023-07-27T10:05:41.699Z
+  text: Autopilot activated
+  author: ""
+  position:
+    longitude: 24.5239486
+    latitude: 59.9926543
+    source: GPS
+  heading: 204
+  course: 203
+  speed:
+    stw: 3.2
+    sog: 3.3
+  log: 2230.9
+  barometer: 1006.14
+  wind:
+    speed: 11.9
+    direction: 236
+  engine:
+    hours: 594
+  vhf: "16"
+  crewNames:
+    - bergie
+    - ihmis-suski
+  category: navigation
