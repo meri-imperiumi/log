@@ -92,7 +92,7 @@
   end: true
   category: navigation
 - datetime: 2023-07-31T12:43:00.198Z
-  text: "Started watermaker "
+  text: Started watermaker, 24ppm
   author: bergie
   position:
     longitude: 24.0365424
@@ -108,6 +108,29 @@
   wind:
     speed: 8.8
     direction: 148
+  engine:
+    hours: 595.1
+  crewNames:
+    - bergie
+    - ihmis-suski
+  category: maintenance
+- datetime: 2023-07-31T14:56:25.203Z
+  text: Stopped watermaker, 22ppm, jug full
+  author: bergie
+  position:
+    longitude: 24.0365446
+    latitude: 59.9950288
+    source: GPS
+  heading: 5
+  course: 271
+  speed:
+    stw: 0
+    sog: 0
+  log: 2255.7
+  barometer: 1005.55
+  wind:
+    speed: 3.4
+    direction: 110
   engine:
     hours: 595.1
   crewNames:
