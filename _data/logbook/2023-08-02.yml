@@ -70,30 +70,6 @@
     - bergie
     - ihmis-suski
   category: navigation
-- datetime: 2023-08-02T06:03:46.400Z
-  text: Motor stopped, sailing with Main, Genoa 1
-  author: ""
-  position:
-    longitude: 24.0072969
-    latitude: 60.0415913
-    source: GPS
-  heading: 42
-  course: 345
-  speed:
-    stw: 0
-    sog: 0.2
-  log: 2259.3
-  barometer: 998.18
-  wind:
-    speed: 11.4
-    direction: 141
-  engine:
-    hours: 596.1
-  vhf: "16"
-  crewNames:
-    - bergie
-    - ihmis-suski
-  category: navigation
 - datetime: 2023-08-02T06:10:21.400Z
   text: Stopped
   author: ""
@@ -210,6 +186,82 @@
     direction: 184
   engine:
     hours: 597.4
+  vhf: "16"
+  crewNames:
+    - bergie
+    - ihmis-suski
+  category: navigation
+- datetime: 2023-08-02T09:32:03.801Z
+  text: Autopilot activated
+  author: bergie
+  position:
+    longitude: 23.8425289
+    latitude: 59.9540151
+    source: GPS
+  heading: 222
+  course: 222
+  speed:
+    stw: 5.2
+    sog: 5
+  log: 2267.2
+  barometer: 999.34
+  wind:
+    speed: 6.6
+    direction: 208
+  engine:
+    hours: 597.9
+  vhf: "16"
+  crewNames:
+    - bergie
+    - ihmis-suski
+  category: navigation
+  observations:
+    seaState: 1
+    cloudCoverage: 8
+    visibility: 7
+- datetime: 2023-08-02T10:00:20.800Z
+  text: Motor stopped, sailing with Main, Staysail
+  author: ""
+  position:
+    longitude: 23.7887575
+    latitude: 59.9292294
+    source: GPS
+  heading: 236
+  course: 250
+  speed:
+    stw: 2.6
+    sog: 2.9
+  log: 2269.4
+  barometer: 999.61
+  wind:
+    speed: 12.9
+    direction: 203
+  engine:
+    hours: 598.4
+  vhf: "16"
+  crewNames:
+    - bergie
+    - ihmis-suski
+  category: navigation
+- datetime: 2023-08-02T10:00:25.798Z
+  text: ""
+  author: ""
+  position:
+    longitude: 23.788618
+    latitude: 59.929202
+    source: GPS
+  heading: 232
+  course: 244
+  speed:
+    stw: 2.9
+    sog: 2.9
+  log: 2269.4
+  barometer: 999.61
+  wind:
+    speed: 13.6
+    direction: 201
+  engine:
+    hours: 598.4
   vhf: "16"
   crewNames:
     - bergie
