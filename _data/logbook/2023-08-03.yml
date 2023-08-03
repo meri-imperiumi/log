@@ -553,3 +553,125 @@
   crewNames:
     - bergie
     - ihmis-suski
+  category: navigation
+- datetime: 2023-08-03T11:26:16.700Z
+  text: Watermaker off, 25 units, canister full.
+  author: ihmis-suski
+  position:
+    longitude: 22.32587982813517
+    latitude: 59.92844899495443
+    source: GPS
+  heading: 359
+  course: 354
+  speed:
+    stw: 6.1
+    sog: 5.9
+  log: 2321.4
+  barometer: 998.87
+  wind:
+    speed: 19.5
+    direction: 136
+  engine:
+    hours: 599
+  vhf: "16"
+  crewNames:
+    - bergie
+    - ihmis-suski
+  category: maintenance
+- datetime: 2023-08-03T11:35:14.700Z
+  text: "Stowed hydrogenerator "
+  author: bergie
+  position:
+    longitude: 22.3191496
+    latitude: 59.9423229
+    source: GPS
+  heading: 351
+  course: 345
+  speed:
+    stw: 5.8
+    sog: 5.9
+  log: 2322.2
+  barometer: 998.92
+  wind:
+    speed: 18.4
+    direction: 114
+  engine:
+    hours: 599
+  vhf: "16"
+  crewNames:
+    - bergie
+    - ihmis-suski
+  category: navigation
+- datetime: 2023-08-03T11:51:39.699Z
+  text: Sails down, motoring
+  author: ""
+  position:
+    longitude: 22.2940631
+    latitude: 59.9581538
+    source: GPS
+  heading: 239
+  course: 240
+  speed:
+    stw: 2.5
+    sog: 2.4
+  log: 2323.7
+  barometer: 999.17
+  wind:
+    speed: 14.1
+    direction: 136
+  engine:
+    hours: 599
+  vhf: "16"
+  crewNames:
+    - bergie
+    - ihmis-suski
+  category: navigation
+- datetime: 2023-08-03T12:00:10.700Z
+  text: ""
+  author: ""
+  position:
+    longitude: 22.2915511
+    latitude: 59.9565396
+    source: GPS
+  heading: 209
+  course: 218
+  speed:
+    stw: 1.9
+    sog: 2
+  log: 2324
+  barometer: 999.06
+  wind:
+    speed: 2.6
+    direction: 131
+  engine:
+    hours: 599.1
+  vhf: "16"
+  crewNames:
+    - bergie
+    - ihmis-suski
+  category: navigation
+- datetime: 2023-08-03T12:04:06.700Z
+  text: Stopped
+  author: ""
+  position:
+    longitude: 22.292055
+    latitude: 59.9556695
+    source: GPS
+  heading: 98
+  course: 43
+  speed:
+    stw: 0
+    sog: 0
+  log: 2324.1
+  barometer: 999.05
+  wind:
+    speed: 0
+    direction: 142
+  engine:
+    hours: 599.2
+  vhf: "16"
+  crewNames:
+    - bergie
+    - ihmis-suski
+  end: true
+  category: navigation
