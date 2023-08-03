@@ -217,3 +217,99 @@
   crewNames:
     - bergie
     - ihmis-suski
+  category: navigation
+- datetime: 2023-08-03T08:23:55.600Z
+  text: Stowed hydrogenerator, looks like sun is coming out
+  author: bergie
+  position:
+    longitude: 22.7915943
+    latitude: 59.8558705
+    source: GPS
+  heading: 312
+  course: 309
+  speed:
+    stw: 5.6
+    sog: 5.6
+  log: 2303.7
+  barometer: 1000.31
+  wind:
+    speed: 12.1
+    direction: 115
+  engine:
+    hours: 599
+  vhf: "16"
+  crewNames:
+    - bergie
+    - ihmis-suski
+  category: navigation
+- datetime: 2023-08-03T08:32:38.598Z
+  text: Autopilot deactivated
+  author: ""
+  position:
+    longitude: 22.7709791
+    latitude: 59.8649913
+    source: GPS
+  heading: 337
+  course: 331
+  speed:
+    stw: 6.1
+    sog: 6
+  log: 2304.5
+  barometer: 1000.2
+  wind:
+    speed: 18.5
+    direction: 116
+  engine:
+    hours: 599
+  vhf: "16"
+  crewNames:
+    - bergie
+    - ihmis-suski
+  category: navigation
+- datetime: 2023-08-03T08:34:16.601Z
+  text: Autopilot activated
+  author: ""
+  position:
+    longitude: 22.7677891
+    latitude: 59.8670195
+    source: GPS
+  heading: 315
+  course: 309
+  speed:
+    stw: 5.3
+    sog: 5.2
+  log: 2304.7
+  barometer: 1000.31
+  wind:
+    speed: 15.8
+    direction: 110
+  engine:
+    hours: 599
+  vhf: "16"
+  crewNames:
+    - bergie
+    - ihmis-suski
+  category: navigation
+- datetime: 2023-08-03T09:00:46.598Z
+  text: ""
+  author: ""
+  position:
+    longitude: 22.7079606
+    latitude: 59.8925498
+    source: GPS
+  heading: 324
+  course: 324
+  speed:
+    stw: 5.8
+    sog: 5.7
+  log: 2307.1
+  barometer: 1000.28
+  wind:
+    speed: 15.1
+    direction: 105
+  engine:
+    hours: 599
+  vhf: "16"
+  crewNames:
+    - bergie
+    - ihmis-suski
