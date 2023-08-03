@@ -313,3 +313,195 @@
   crewNames:
     - bergie
     - ihmis-suski
+  category: navigation
+- datetime: 2023-08-03T09:14:42.598Z
+  text: Watermaker on, 24ppm
+  author: ihmis-suski
+  position:
+    longitude: 22.673133
+    latitude: 59.9065975
+    source: GPS
+  heading: 306
+  course: 298
+  speed:
+    stw: 5.8
+    sog: 6.2
+  log: 2308.5
+  barometer: 1000.18
+  wind:
+    speed: 17
+    direction: 129
+  engine:
+    hours: 599
+  vhf: "16"
+  crewNames:
+    - bergie
+    - ihmis-suski
+  category: maintenance
+- datetime: 2023-08-03T09:20:14.598Z
+  text: Autopilot deactivated
+  author: ""
+  position:
+    longitude: 22.658156
+    latitude: 59.9111829
+    source: GPS
+  heading: 281
+  course: 279
+  speed:
+    stw: 5.2
+    sog: 5.3
+  log: 2309
+  barometer: 1000.09
+  wind:
+    speed: 19
+    direction: 120
+  engine:
+    hours: 599
+  vhf: "16"
+  crewNames:
+    - bergie
+    - ihmis-suski
+  category: navigation
+- datetime: 2023-08-03T09:20:57.600Z
+  text: Autopilot activated
+  author: ""
+  position:
+    longitude: 22.6560726
+    latitude: 59.9113523
+    source: GPS
+  heading: 272
+  course: 272
+  speed:
+    stw: 5.6
+    sog: 5.6
+  log: 2309.1
+  barometer: 1000.13
+  wind:
+    speed: 19.1
+    direction: 124
+  engine:
+    hours: 599
+  vhf: "16"
+  crewNames:
+    - bergie
+    - ihmis-suski
+  category: navigation
+- datetime: 2023-08-03T09:32:41.600Z
+  text: Autopilot deactivated
+  author: ""
+  position:
+    longitude: 22.6170609
+    latitude: 59.9144063
+    source: GPS
+  heading: 266
+  course: 261
+  speed:
+    stw: 6.5
+    sog: 6.6
+  log: 2310.3
+  barometer: 999.99
+  wind:
+    speed: 21.8
+    direction: 116
+  engine:
+    hours: 599
+  vhf: "16"
+  crewNames:
+    - bergie
+    - ihmis-suski
+  category: navigation
+- datetime: 2023-08-03T09:36:36.601Z
+  text: "Deployed hydrogenerator "
+  author: bergie
+  position:
+    longitude: 22.6039873
+    latitude: 59.9154291
+    source: GPS
+  heading: 289
+  course: 286
+  speed:
+    stw: 5.9
+    sog: 5.6
+  log: 2310.6
+  barometer: 999.92
+  wind:
+    speed: 18.5
+    direction: 125
+  engine:
+    hours: 599
+  vhf: "16"
+  crewNames:
+    - bergie
+    - ihmis-suski
+  category: navigation
+- datetime: 2023-08-03T09:47:34.598Z
+  text: Autopilot activated
+  author: ""
+  position:
+    longitude: 22.5682913
+    latitude: 59.9174971
+    source: GPS
+  heading: 263
+  course: 263
+  speed:
+    stw: 5.4
+    sog: 5.5
+  log: 2311.7
+  barometer: 999.86
+  wind:
+    speed: 17.7
+    direction: 110
+  engine:
+    hours: 599
+  vhf: "16"
+  crewNames:
+    - bergie
+    - ihmis-suski
+  category: navigation
+- datetime: 2023-08-03T09:56:15.600Z
+  text: Autopilot deactivated
+  author: ""
+  position:
+    longitude: 22.5411554
+    latitude: 59.915969
+    source: GPS
+  heading: 240
+  course: 242
+  speed:
+    stw: 6
+    sog: 6.7
+  log: 2312.6
+  barometer: 999.76
+  wind:
+    speed: 24.7
+    direction: 122
+  engine:
+    hours: 599
+  vhf: "16"
+  crewNames:
+    - bergie
+    - ihmis-suski
+  category: navigation
+- datetime: 2023-08-03T10:00:30.598Z
+  text: ""
+  author: ""
+  position:
+    longitude: 22.5278391
+    latitude: 59.9129208
+    source: GPS
+  heading: 246
+  course: 248
+  speed:
+    stw: 5.7
+    sog: 5.7
+  log: 2313
+  barometer: 999.74
+  wind:
+    speed: 18.2
+    direction: 123
+  engine:
+    hours: 599
+  vhf: "16"
+  crewNames:
+    - bergie
+    - ihmis-suski
