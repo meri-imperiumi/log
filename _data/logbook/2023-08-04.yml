@@ -1,0 +1,120 @@
+- datetime: 2023-08-04T09:28:42.499Z
+  text: Started main engine
+  author: ""
+  position:
+    longitude: 22.2920934
+    latitude: 59.9556938
+    source: GPS
+  heading: 103
+  course: 192
+  speed:
+    stw: 0
+    sog: 0
+  log: 2324.1
+  barometer: 998.87
+  wind:
+    speed: 5.9
+    direction: 177
+  engine:
+    hours: 599.2
+  vhf: "16"
+  crewNames:
+    - bergie
+    - ihmis-suski
+  category: navigation
+- datetime: 2023-08-04T09:37:50.499Z
+  text: Motoring
+  author: ""
+  position:
+    longitude: 22.2916181
+    latitude: 59.9565328
+    source: GPS
+  heading: 22
+  course: 30
+  speed:
+    stw: 0.4
+    sog: 0.8
+  log: 2324.1
+  barometer: 998.91
+  wind:
+    speed: 2.7
+    direction: 153
+  engine:
+    hours: 599.3
+  vhf: "16"
+  crewNames:
+    - bergie
+    - ihmis-suski
+  category: navigation
+- datetime: 2023-08-04T09:41:11.500Z
+  text: Motor stopped, sailing with Main (1st reef), Staysail
+  author: ""
+  position:
+    longitude: 22.2923448
+    latitude: 59.9567338
+    source: GPS
+  heading: 37
+  course: 34
+  speed:
+    stw: 1.7
+    sog: 1.8
+  log: 2324.2
+  barometer: 998.88
+  wind:
+    speed: 5.4
+    direction: 157
+  engine:
+    hours: 599.4
+  vhf: "16"
+  crewNames:
+    - bergie
+    - ihmis-suski
+  category: navigation
+- datetime: 2023-08-04T10:00:42.499Z
+  text: ""
+  author: ""
+  position:
+    longitude: 22.2974626
+    latitude: 59.9659189
+    source: GPS
+  heading: 337
+  course: 334
+  speed:
+    stw: 2.1
+    sog: 2
+  log: 2324.9
+  barometer: 999.02
+  wind:
+    speed: 5.2
+    direction: 192
+  engine:
+    hours: 599.4
+  vhf: "16"
+  crewNames:
+    - bergie
+    - ihmis-suski
+  category: navigation
+- datetime: 2023-08-04T10:05:27.500Z
+  text: "Sails set: Main, Staysail"
+  author: ""
+  position:
+    longitude: 22.2944739
+    latitude: 59.9693433
+    source: GPS
+  heading: 319
+  course: 315
+  speed:
+    stw: 3.7
+    sog: 3.5
+  log: 2325.1
+  barometer: 999.08
+  wind:
+    speed: 9.7
+    direction: 180
+  engine:
+    hours: 599.4
+  vhf: "16"
+  crewNames:
+    - bergie
+    - ihmis-suski
+  category: navigation
