@@ -145,3 +145,51 @@
   crewNames:
     - bergie
     - ihmis-suski
+  category: navigation
+- datetime: 2023-08-06T08:30:36.400Z
+  text: Emptied the bilge
+  author: bergie
+  position:
+    longitude: 22.213251161575318
+    latitude: 60.021981167793264
+    source: GPS
+  heading: 135
+  course: 143
+  speed:
+    stw: 4.8
+    sog: 4.7
+  log: 2364.8
+  barometer: 1013.91
+  wind:
+    speed: 9.2
+    direction: 75
+  engine:
+    hours: 600.7
+  vhf: "16"
+  crewNames:
+    - bergie
+    - ihmis-suski
+  category: maintenance
+- datetime: 2023-08-06T09:00:29.401Z
+  text: ""
+  author: ""
+  position:
+    longitude: 22.2525001
+    latitude: 59.9937594
+    source: GPS
+  heading: 137
+  course: 143
+  speed:
+    stw: 4.8
+    sog: 4.4
+  log: 2366.9
+  barometer: 1013.5
+  wind:
+    speed: 9.7
+    direction: 79
+  engine:
+    hours: 600.7
+  vhf: "16"
+  crewNames:
+    - bergie
+    - ihmis-suski
