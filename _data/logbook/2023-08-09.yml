@@ -171,8 +171,8 @@
     - ihmis-suski
   category: navigation
 - datetime: 2023-08-09T10:55:16.601Z
-  text: Sails down, motoring
-  author: ""
+  text: "Motoring due to incoming thunderstorm "
+  author: bergie
   position:
     longitude: 22.0687858
     latitude: 59.9162318
@@ -235,6 +235,102 @@
   wind:
     speed: 17.7
     direction: 142
+  engine:
+    hours: 601.3
+  vhf: "17"
+  crewNames:
+    - bergie
+    - ihmis-suski
+  category: navigation
+- datetime: 2023-08-09T11:09:47.600Z
+  text: Autopilot activated
+  author: ""
+  position:
+    longitude: 22.041577168305714
+    latitude: 59.90180466969809
+    source: GPS
+  heading: 224
+  course: 230
+  speed:
+    stw: 6.2
+    sog: 5.9
+  log: 2379.8
+  barometer: 1012.38
+  wind:
+    speed: 20.7
+    direction: 145
+  engine:
+    hours: 601.3
+  vhf: "17"
+  crewNames:
+    - bergie
+    - ihmis-suski
+  category: navigation
+- datetime: 2023-08-09T11:16:37.600Z
+  text: "Sails set: Main (2nd reef), Staysail. Saw squall up to 34kt"
+  author: bergie
+  position:
+    longitude: 22.0230806
+    latitude: 59.8966285
+    source: GPS
+  heading: 225
+  course: 232
+  speed:
+    stw: 5.6
+    sog: 5.3
+  log: 2380.5
+  barometer: 1012.44
+  wind:
+    speed: 17.8
+    direction: 151
+  engine:
+    hours: 601.3
+  vhf: "17"
+  crewNames:
+    - bergie
+    - ihmis-suski
+  category: navigation
+- datetime: 2023-08-09T12:00:48.601Z
+  text: ""
+  author: ""
+  position:
+    longitude: 21.9322584
+    latitude: 59.8714218
+    source: GPS
+  heading: 268
+  course: 274
+  speed:
+    stw: 4.9
+    sog: 4.6
+  log: 2383.8
+  barometer: 1012.78
+  wind:
+    speed: 10.3
+    direction: 196
+  engine:
+    hours: 601.3
+  vhf: "17"
+  crewNames:
+    - bergie
+    - ihmis-suski
+  category: navigation
+- datetime: 2023-08-09T12:01:14.598Z
+  text: Autopilot deactivated
+  author: ""
+  position:
+    longitude: 21.9311766
+    latitude: 59.8714459
+    source: GPS
+  heading: 271
+  course: 276
+  speed:
+    stw: 4.8
+    sog: 4.5
+  log: 2383.8
+  barometer: 1012.76
+  wind:
+    speed: 11.8
+    direction: 189
   engine:
     hours: 601.3
   vhf: "17"
