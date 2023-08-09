@@ -146,3 +146,99 @@
     seaState: 3
     cloudCoverage: 6
     visibility: 8
+- datetime: 2023-08-09T10:54:29.600Z
+  text: Autopilot deactivated
+  author: ""
+  position:
+    longitude: 22.069524502754213
+    latitude: 59.916584332784026
+    source: GPS
+  heading: 211
+  course: 218
+  speed:
+    stw: 2.6
+    sog: 2.1
+  log: 2378.6
+  barometer: 1012.48
+  wind:
+    speed: 18.1
+    direction: 193
+  engine:
+    hours: 601.1
+  vhf: "17"
+  crewNames:
+    - bergie
+    - ihmis-suski
+  category: navigation
+- datetime: 2023-08-09T10:55:16.601Z
+  text: Sails down, motoring
+  author: ""
+  position:
+    longitude: 22.0687858
+    latitude: 59.9162318
+    source: GPS
+  heading: 205
+  course: 196
+  speed:
+    stw: 3.4
+    sog: 2.9
+  log: 2378.6
+  barometer: 1012.46
+  wind:
+    speed: 15.5
+    direction: 190
+  engine:
+    hours: 601.1
+  vhf: "17"
+  crewNames:
+    - bergie
+    - ihmis-suski
+  category: navigation
+- datetime: 2023-08-09T11:00:02.598Z
+  text: ""
+  author: ""
+  position:
+    longitude: 22.0605338
+    latitude: 59.9118838
+    source: GPS
+  heading: 204
+  course: 208
+  speed:
+    stw: 3.9
+    sog: 3.1
+  log: 2379
+  barometer: 1012.62
+  wind:
+    speed: 21.9
+    direction: 185
+  engine:
+    hours: 601.1
+  vhf: "17"
+  crewNames:
+    - bergie
+    - ihmis-suski
+  category: navigation
+- datetime: 2023-08-09T11:07:20.601Z
+  text: Motor stopped, sailing with Main (1st reef), Staysail
+  author: ""
+  position:
+    longitude: 22.0485064
+    latitude: 59.9040976
+    source: GPS
+  heading: 226
+  course: 222
+  speed:
+    stw: 6
+    sog: 5.6
+  log: 2379.6
+  barometer: 1012.41
+  wind:
+    speed: 17.7
+    direction: 142
+  engine:
+    hours: 601.3
+  vhf: "17"
+  crewNames:
+    - bergie
+    - ihmis-suski
+  category: navigation
