@@ -1,0 +1,264 @@
+- datetime: 2023-08-10T08:06:53.401Z
+  text: Started main engine
+  author: ""
+  position:
+    longitude: 21.5847356
+    latitude: 59.8276776
+    source: GPS
+  heading: 228
+  course: 70
+  speed:
+    stw: 0
+    sog: 0
+  log: 2395.6
+  barometer: 1015.39
+  wind:
+    speed: 19.7
+    direction: 159
+  engine:
+    hours: 601.5
+  vhf: "16"
+  crewNames:
+    - bergie
+    - ihmis-suski
+  category: navigation
+- datetime: 2023-08-10T08:16:20.400Z
+  text: Motoring
+  author: ""
+  position:
+    longitude: 21.5796745
+    latitude: 59.8268111
+    source: GPS
+  heading: 292
+  course: 294
+  speed:
+    stw: 5.2
+    sog: 5.7
+  log: 2395.6
+  barometer: 1015.41
+  wind:
+    speed: 20.5
+    direction: 167
+  engine:
+    hours: 601.6
+  vhf: "16"
+  crewNames:
+    - bergie
+    - ihmis-suski
+  category: navigation
+- datetime: 2023-08-10T08:18:02.400Z
+  text: Motor stopped, sailing with Main (2nd reef), Staysail
+  author: ""
+  position:
+    longitude: 21.5761428
+    latitude: 59.8285315
+    source: GPS
+  heading: 328
+  course: 324
+  speed:
+    stw: 5.5
+    sog: 5.3
+  log: 2395.7
+  barometer: 1015.37
+  wind:
+    speed: 18.5
+    direction: 177
+  engine:
+    hours: 601.7
+  vhf: "16"
+  crewNames:
+    - bergie
+    - ihmis-suski
+  category: navigation
+- datetime: 2023-08-10T08:18:26.400Z
+  text: Sails down, motoring
+  author: ""
+  position:
+    longitude: 21.5753814
+    latitude: 59.8289871
+    source: GPS
+  heading: 316
+  course: 316
+  speed:
+    stw: 5.4
+    sog: 5.7
+  log: 2395.8
+  barometer: 1015.36
+  wind:
+    speed: 20.8
+    direction: 175
+  engine:
+    hours: 601.7
+  vhf: "16"
+  crewNames:
+    - bergie
+    - ihmis-suski
+  category: navigation
+- datetime: 2023-08-10T08:18:38.400Z
+  text: Motor stopped, sailing with Main (2nd reef), Staysail
+  author: ""
+  position:
+    longitude: 21.5749536
+    latitude: 59.8291934
+    source: GPS
+  heading: 312
+  course: 305
+  speed:
+    stw: 5.5
+    sog: 5.4
+  log: 2395.8
+  barometer: 1015.36
+  wind:
+    speed: 19.1
+    direction: 177
+  engine:
+    hours: 601.7
+  vhf: "16"
+  crewNames:
+    - bergie
+    - ihmis-suski
+  category: navigation
+- datetime: 2023-08-10T08:18:44.400Z
+  text: Sails down, motoring
+  author: ""
+  position:
+    longitude: 21.5747168
+    latitude: 59.8292876
+    source: GPS
+  heading: 318
+  course: 309
+  speed:
+    stw: 5.4
+    sog: 5.6
+  log: 2395.8
+  barometer: 1015.38
+  wind:
+    speed: 17.4
+    direction: 178
+  engine:
+    hours: 601.7
+  vhf: "16"
+  crewNames:
+    - bergie
+    - ihmis-suski
+  category: navigation
+- datetime: 2023-08-10T08:18:50.400Z
+  text: Motor stopped, sailing with Main (2nd reef), Staysail
+  author: ""
+  position:
+    longitude: 21.5745101
+    latitude: 59.8293978
+    source: GPS
+  heading: 318
+  course: 323
+  speed:
+    stw: 5.4
+    sog: 5.3
+  log: 2395.8
+  barometer: 1015.38
+  wind:
+    speed: 16.8
+    direction: 179
+  engine:
+    hours: 601.7
+  vhf: "16"
+  crewNames:
+    - bergie
+    - ihmis-suski
+  category: navigation
+- datetime: 2023-08-10T08:59:14.400Z
+  text: "Deployed hydrogenerator "
+  author: bergie
+  position:
+    longitude: 21.5231231
+    latitude: 59.88037
+    source: GPS
+  heading: 330
+  course: 334
+  speed:
+    stw: 5.5
+    sog: 4.7
+  log: 2399.5
+  barometer: 1015.57
+  wind:
+    speed: 19
+    direction: 173
+  engine:
+    hours: 601.7
+  vhf: "16"
+  crewNames:
+    - bergie
+    - ihmis-suski
+  category: navigation
+- datetime: 2023-08-10T09:00:14.400Z
+  text: ""
+  author: ""
+  position:
+    longitude: 21.521372
+    latitude: 59.8816701
+    source: GPS
+  heading: 322
+  course: 336
+  speed:
+    stw: 6.3
+    sog: 6.7
+  log: 2399.6
+  barometer: 1015.58
+  wind:
+    speed: 21.3
+    direction: 152
+  engine:
+    hours: 601.7
+  vhf: "16"
+  crewNames:
+    - bergie
+    - ihmis-suski
+  category: navigation
+- datetime: 2023-08-10T09:02:15.398Z
+  text: "Started watermaker "
+  author: bergie
+  position:
+    longitude: 21.5181013
+    latitude: 59.8846106
+    source: GPS
+  heading: 336
+  course: 322
+  speed:
+    stw: 5.9
+    sog: 4.5
+  log: 2399.8
+  barometer: 1015.55
+  wind:
+    speed: 21.5
+    direction: 182
+  engine:
+    hours: 601.7
+  vhf: "16"
+  crewNames:
+    - bergie
+    - ihmis-suski
+  category: maintenance
+- datetime: 2023-08-10T09:11:15.398Z
+  text: Autopilot activated
+  author: ""
+  position:
+    longitude: 21.5011576
+    latitude: 59.8974985
+    source: GPS
+  heading: 316
+  course: 325
+  speed:
+    stw: 6.2
+    sog: 6.5
+  log: 2400.7
+  barometer: 1015.67
+  wind:
+    speed: 29.5
+    direction: 167
+  engine:
+    hours: 601.7
+  vhf: "16"
+  crewNames:
+    - bergie
+    - ihmis-suski
+  category: navigation
