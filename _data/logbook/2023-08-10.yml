@@ -289,3 +289,75 @@
   crewNames:
     - bergie
     - ihmis-suski
+  category: navigation
+- datetime: 2023-08-10T12:05:14.400Z
+  text: "Sails set: Main (1st reef), Staysail"
+  author: ""
+  position:
+    longitude: 21.11014216740926
+    latitude: 60.0819256623586
+    source: GPS
+  heading: 323
+  course: 331
+  speed:
+    stw: 5.6
+    sog: 5.8
+  log: 2417
+  barometer: 1016.23
+  wind:
+    speed: 17.1
+    direction: 185
+  engine:
+    hours: 601.7
+  vhf: "16"
+  crewNames:
+    - bergie
+    - ihmis-suski
+  category: navigation
+- datetime: 2023-08-10T12:53:31.699Z
+  text: "Hoisted the Åland courtesy flag "
+  author: bergie
+  position:
+    longitude: 21.0172634
+    latitude: 60.1443089
+    source: GPS
+  heading: 322
+  course: 316
+  speed:
+    stw: 5.6
+    sog: 5.9
+  log: 2421.7
+  barometer: 1016.13
+  wind:
+    speed: 17.3
+    direction: 182
+  engine:
+    hours: 601.7
+  vhf: "16"
+  crewNames:
+    - bergie
+    - ihmis-suski
+  category: navigation
+- datetime: 2023-08-10T13:00:30.700Z
+  text: ""
+  author: ""
+  position:
+    longitude: 21.0004758
+    latitude: 60.1525866
+    source: GPS
+  heading: 313
+  course: 317
+  speed:
+    stw: 5.6
+    sog: 6.3
+  log: 2422.4
+  barometer: 1016.13
+  wind:
+    speed: 21.7
+    direction: 174
+  engine:
+    hours: 601.7
+  vhf: "16"
+  crewNames:
+    - bergie
+    - ihmis-suski
