@@ -238,23 +238,23 @@
     - bergie
     - ihmis-suski
   category: maintenance
-- datetime: 2023-08-10T09:11:15.398Z
+- datetime: 2023-08-10T09:25:29.401Z
   text: Autopilot activated
   author: ""
   position:
-    longitude: 21.5011576
-    latitude: 59.8974985
+    longitude: 21.4668933
+    latitude: 59.9158491
     source: GPS
-  heading: 316
-  course: 325
+  heading: 318
+  course: 320
   speed:
-    stw: 6.2
-    sog: 6.5
-  log: 2400.7
-  barometer: 1015.67
+    stw: 6
+    sog: 6.1
+  log: 2402.2
+  barometer: 1015.86
   wind:
-    speed: 29.5
-    direction: 167
+    speed: 23.7
+    direction: 180
   engine:
     hours: 601.7
   vhf: "16"
@@ -262,3 +262,78 @@
     - bergie
     - ihmis-suski
   category: navigation
+- datetime: 2023-08-10T09:36:26.400Z
+  text: "Autopilot deactivated, too big gust for the tiller pilot "
+  author: bergie
+  position:
+    longitude: 21.4424016
+    latitude: 59.9292886
+    source: GPS
+  heading: 296
+  course: 311
+  speed:
+    stw: 6.6
+    sog: 7.6
+  log: 2403.3
+  barometer: 1015.97
+  wind:
+    speed: 33
+    direction: 183
+  engine:
+    hours: 601.7
+  vhf: "16"
+  crewNames:
+    - bergie
+    - ihmis-suski
+  category: navigation
+- datetime: 2023-08-10T09:42:54.400Z
+  text: Autopilot activated
+  author: bergie
+  position:
+    longitude: 21.4281478
+    latitude: 59.9386151
+    source: GPS
+  heading: 323
+  course: 316
+  speed:
+    stw: 5.6
+    sog: 6
+  log: 2404
+  barometer: 1016
+  wind:
+    speed: 23
+    direction: 187
+  engine:
+    hours: 601.7
+  vhf: "16"
+  crewNames:
+    - bergie
+    - ihmis-suski
+  category: navigation
+  observations:
+    seaState: 4
+    cloudCoverage: 8
+    visibility: 6
+- datetime: 2023-08-10T10:00:07.398Z
+  text: ""
+  author: ""
+  position:
+    longitude: 21.392302004496255
+    latitude: 59.95933914184571
+    source: GPS
+  heading: 312
+  course: 309
+  speed:
+    stw: 5.6
+    sog: 5.4
+  log: 2405.7
+  barometer: 1015.84
+  wind:
+    speed: 19.6
+    direction: 184
+  engine:
+    hours: 601.7
+  vhf: "16"
+  crewNames:
+    - bergie
+    - ihmis-suski
