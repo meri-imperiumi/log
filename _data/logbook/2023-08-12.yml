@@ -409,3 +409,75 @@
   crewNames:
     - bergie
     - ihmis-suski
+  category: navigation
+- datetime: 2023-08-12T15:14:05.401Z
+  text: "Hand steering "
+  author: bergie
+  position:
+    longitude: 20.1116743
+    latitude: 60.1608784
+    source: GPS
+  heading: 267
+  course: 260
+  speed:
+    stw: 6.2
+    sog: 5.9
+  log: 2463.6
+  barometer: 1019.45
+  wind:
+    speed: 16.1
+    direction: 198
+  engine:
+    hours: 602.1
+  vhf: "16"
+  crewNames:
+    - bergie
+    - ihmis-suski
+  category: navigation
+- datetime: 2023-08-12T15:29:09.401Z
+  text: "Sails set: Main"
+  author: ""
+  position:
+    longitude: 20.0643296
+    latitude: 60.16483
+    source: GPS
+  heading: 335
+  course: 340
+  speed:
+    stw: 5.5
+    sog: 5.4
+  log: 2465.2
+  barometer: 1019.51
+  wind:
+    speed: 20.2
+    direction: 184
+  engine:
+    hours: 602.1
+  vhf: "16"
+  crewNames:
+    - bergie
+    - ihmis-suski
+  category: navigation
+- datetime: 2023-08-12T16:00:51.398Z
+  text: ""
+  author: ""
+  position:
+    longitude: 20.0653805
+    latitude: 60.2037911
+    source: GPS
+  heading: 30
+  course: 31
+  speed:
+    stw: 3.6
+    sog: 3.4
+  log: 2467.7
+  barometer: 1019.11
+  wind:
+    speed: 10
+    direction: 166
+  engine:
+    hours: 602.1
+  vhf: "16"
+  crewNames:
+    - bergie
+    - ihmis-suski
