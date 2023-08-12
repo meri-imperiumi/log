@@ -291,7 +291,7 @@
     - ihmis-suski
   category: navigation
 - datetime: 2023-08-12T12:10:56.099Z
-  text: Windvane out.
+  text: "Hand steering for the short tacking "
   author: ihmis-suski
   position:
     longitude: 20.4932948
@@ -355,6 +355,54 @@
   wind:
     speed: 14.8
     direction: 207
+  engine:
+    hours: 602.1
+  vhf: "16"
+  crewNames:
+    - bergie
+    - ihmis-suski
+  category: navigation
+- datetime: 2023-08-12T14:38:16.400Z
+  text: Windvane steering, entered the Lumparn crater
+  author: bergie
+  position:
+    longitude: 20.224807
+    latitude: 60.1696786
+    source: GPS
+  heading: 254
+  course: 259
+  speed:
+    stw: 6
+    sog: 6
+  log: 2460.2
+  barometer: 1019.6
+  wind:
+    speed: 15
+    direction: 196
+  engine:
+    hours: 602.1
+  vhf: "16"
+  crewNames:
+    - bergie
+    - ihmis-suski
+  category: navigation
+- datetime: 2023-08-12T15:00:09.401Z
+  text: ""
+  author: ""
+  position:
+    longitude: 20.1569108
+    latitude: 60.1644214
+    source: GPS
+  heading: 264
+  course: 267
+  speed:
+    stw: 6
+    sog: 5.6
+  log: 2462.3
+  barometer: 1019.64
+  wind:
+    speed: 14.9
+    direction: 205
   engine:
     hours: 602.1
   vhf: "16"
