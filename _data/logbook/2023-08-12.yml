@@ -289,3 +289,51 @@
   crewNames:
     - bergie
     - ihmis-suski
+  category: navigation
+- datetime: 2023-08-12T12:10:56.099Z
+  text: Windvane out.
+  author: ihmis-suski
+  position:
+    longitude: 20.4932948
+    latitude: 60.2049046
+    source: GPS
+  heading: 162
+  course: 160
+  speed:
+    stw: 4.2
+    sog: 3.6
+  log: 2448.2
+  barometer: 1020.34
+  wind:
+    speed: 15.5
+    direction: 190
+  engine:
+    hours: 602.1
+  vhf: "16"
+  crewNames:
+    - bergie
+    - ihmis-suski
+  category: navigation
+- datetime: 2023-08-12T13:00:45.401Z
+  text: ""
+  author: ""
+  position:
+    longitude: 20.4544343
+    latitude: 60.1692593
+    source: GPS
+  heading: 149
+  course: 148
+  speed:
+    stw: 5.2
+    sog: 5.1
+  log: 2451.8
+  barometer: 1019.77
+  wind:
+    speed: 14.9
+    direction: 187
+  engine:
+    hours: 602.1
+  vhf: "16"
+  crewNames:
+    - bergie
+    - ihmis-suski
