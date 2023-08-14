@@ -140,3 +140,100 @@
   crewNames:
     - bergie
     - ihmis-suski
+  category: navigation
+- datetime: 2023-08-14T12:43:43.398Z
+  text: Waiting for Lemström bridge opening
+  author: bergie
+  position:
+    longitude: 20.0303536
+    latitude: 60.0951795
+    source: GPS
+  heading: 292
+  course: 290
+  speed:
+    stw: 2
+    sog: 2
+  log: 2478.9
+  barometer: 1017.72
+  wind:
+    speed: 13.1
+    direction: 193
+  engine:
+    hours: 604.7
+  vhf: "16"
+  crewNames:
+    - bergie
+    - ihmis-suski
+  category: navigation
+- datetime: 2023-08-14T12:50:55.398Z
+  text: Motor stopped, sailing with Main
+  author: ""
+  position:
+    longitude: 20.0262953
+    latitude: 60.0963583
+    source: GPS
+  heading: 290
+  course: 295
+  speed:
+    stw: 0.8
+    sog: 1
+  log: 2479
+  barometer: 1017.59
+  wind:
+    speed: 11.2
+    direction: 183
+  engine:
+    hours: 604.8
+  vhf: "16"
+  crewNames:
+    - bergie
+    - ihmis-suski
+  category: navigation
+- datetime: 2023-08-14T13:00:39.398Z
+  text: ""
+  author: ""
+  position:
+    longitude: 20.0235465
+    latitude: 60.0971139
+    source: GPS
+  heading: 250
+  course: 269
+  speed:
+    stw: 0
+    sog: 0.3
+  log: 2479.1
+  barometer: 1017.53
+  wind:
+    speed: 9.6
+    direction: 180
+  engine:
+    hours: 604.8
+  vhf: "16"
+  crewNames:
+    - bergie
+    - ihmis-suski
+  category: navigation
+- datetime: 2023-08-14T13:07:52.400Z
+  text: Sails down, motoring
+  author: ""
+  position:
+    longitude: 20.0127885
+    latitude: 60.0965748
+    source: GPS
+  heading: 266
+  course: 266
+  speed:
+    stw: 5
+    sog: 3.9
+  log: 2479.5
+  barometer: 1017.54
+  wind:
+    speed: 7.5
+    direction: 224
+  engine:
+    hours: 604.8
+  vhf: "16"
+  crewNames:
+    - bergie
+    - ihmis-suski
+  category: navigation
