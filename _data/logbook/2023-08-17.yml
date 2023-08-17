@@ -766,3 +766,51 @@
   crewNames:
     - bergie
     - ihmis-suski
+  category: navigation
+- datetime: 2023-08-17T19:53:34.899Z
+  text: Autopilot deactivated. Wind vane on.
+  author: ihmis-suski
+  position:
+    longitude: 18.9146249
+    latitude: 58.9001914
+    source: GPS
+  heading: 190
+  course: 203
+  speed:
+    stw: 4.6
+    sog: 3.8
+  log: 2567.2
+  barometer: 1027.81
+  wind:
+    speed: 12.2
+    direction: 35
+  engine:
+    hours: 605.9
+  vhf: "16"
+  crewNames:
+    - bergie
+    - ihmis-suski
+  category: navigation
+- datetime: 2023-08-17T20:00:08.902Z
+  text: ""
+  author: ""
+  position:
+    longitude: 18.9128723
+    latitude: 58.8915738
+    source: GPS
+  heading: 178
+  course: 189
+  speed:
+    stw: 5.2
+    sog: 5
+  log: 2567.7
+  barometer: 1027.87
+  wind:
+    speed: 13.6
+    direction: 28
+  engine:
+    hours: 605.9
+  vhf: "16"
+  crewNames:
+    - bergie
+    - ihmis-suski
