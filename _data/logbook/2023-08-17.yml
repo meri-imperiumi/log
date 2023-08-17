@@ -217,3 +217,55 @@
   crewNames:
     - bergie
     - ihmis-suski
+  category: navigation
+- datetime: 2023-08-17T06:59:43.400Z
+  text: "Sailing smoothly "
+  author: ihmis-suski
+  position:
+    longitude: 19.9610076
+    latitude: 59.9177208
+    source: GPS
+  heading: 214
+  course: 212
+  speed:
+    stw: 5.3
+    sog: 5.3
+  log: 2496.1
+  barometer: 1023.33
+  wind:
+    speed: 10.6
+    direction: 285
+  engine:
+    hours: 605.9
+  vhf: "16"
+  crewNames:
+    - bergie
+    - ihmis-suski
+  category: navigation
+  observations:
+    seaState: 2
+    cloudCoverage: 1
+    visibility: 8
+- datetime: 2023-08-17T07:00:43.400Z
+  text: ""
+  author: ""
+  position:
+    longitude: 19.9594918
+    latitude: 59.9164861
+    source: GPS
+  heading: 217
+  course: 203
+  speed:
+    stw: 5.2
+    sog: 3.8
+  log: 2496.2
+  barometer: 1023.34
+  wind:
+    speed: 9.9
+    direction: 287
+  engine:
+    hours: 605.9
+  vhf: "16"
+  crewNames:
+    - bergie
+    - ihmis-suski
