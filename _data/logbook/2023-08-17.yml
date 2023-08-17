@@ -862,3 +862,51 @@
   crewNames:
     - bergie
     - ihmis-suski
+  category: navigation
+- datetime: 2023-08-17T22:39:11.200Z
+  text: Some flashes in the sky in the east, but very far away. No sound
+  author: bergie
+  position:
+    longitude: 18.8954276
+    latitude: 58.6654458
+    source: GPS
+  heading: 165
+  course: 175
+  speed:
+    stw: 5.2
+    sog: 5.4
+  log: 2581.4
+  barometer: 1027.62
+  wind:
+    speed: 15
+    direction: 34
+  engine:
+    hours: 605.9
+  vhf: "16"
+  crewNames:
+    - bergie
+    - ihmis-suski
+  category: navigation
+- datetime: 2023-08-17T23:00:11.200Z
+  text: ""
+  author: ""
+  position:
+    longitude: 18.8969551
+    latitude: 58.6361331
+    source: GPS
+  heading: 178
+  course: 190
+  speed:
+    stw: 5.2
+    sog: 5.2
+  log: 2583.2
+  barometer: 1027.6
+  wind:
+    speed: 16.6
+    direction: 51
+  engine:
+    hours: 605.9
+  vhf: "16"
+  crewNames:
+    - bergie
+    - ihmis-suski
