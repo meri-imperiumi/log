@@ -165,3 +165,55 @@
   crewNames:
     - bergie
     - ihmis-suski
+  category: navigation
+- datetime: 2023-08-17T05:41:03.400Z
+  text: Wind finally filling in after clearing the islands.
+  author: ihmis-suski
+  position:
+    longitude: 20.0445666
+    latitude: 59.9921356
+    source: GPS
+  heading: 187
+  course: 187
+  speed:
+    stw: 3.1
+    sog: 3.1
+  log: 2490.9
+  barometer: 1022.38
+  wind:
+    speed: 9.9
+    direction: 316
+  engine:
+    hours: 605.9
+  vhf: "16"
+  crewNames:
+    - bergie
+    - ihmis-suski
+  category: navigation
+  observations:
+    seaState: 2
+    visibility: 8
+    cloudCoverage: 0
+- datetime: 2023-08-17T06:00:57.400Z
+  text: ""
+  author: ""
+  position:
+    longitude: 20.0393101
+    latitude: 59.9764046
+    source: GPS
+  heading: 188
+  course: 190
+  speed:
+    stw: 3.9
+    sog: 3.8
+  log: 2491.9
+  barometer: 1022.51
+  wind:
+    speed: 8.7
+    direction: 314
+  engine:
+    hours: 605.9
+  vhf: "16"
+  crewNames:
+    - bergie
+    - ihmis-suski
