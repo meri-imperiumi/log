@@ -370,3 +370,74 @@
     cloudCoverage: 2
     seaState: 3
     visibility: 8
+- datetime: 2023-08-17T09:19:25.500Z
+  text: "Entered Sweden "
+  author: bergie
+  position:
+    longitude: 19.7851364
+    latitude: 59.7044935
+    source: GPS
+  heading: 194
+  course: 199
+  speed:
+    stw: 5.9
+    sog: 6.5
+  log: 2510.2
+  barometer: 1024.86
+  wind:
+    speed: 16.6
+    direction: 314
+  engine:
+    hours: 605.9
+  vhf: "16"
+  crewNames:
+    - bergie
+    - ihmis-suski
+  category: navigation
+- datetime: 2023-08-17T09:28:25.500Z
+  text: Out of the main traffic lanes
+  author: bergie
+  position:
+    longitude: 19.7790526
+    latitude: 59.6892243
+    source: GPS
+  heading: 195
+  course: 200
+  speed:
+    stw: 5.5
+    sog: 6.6
+  log: 2511.2
+  barometer: 1024.89
+  wind:
+    speed: 17.3
+    direction: 318
+  engine:
+    hours: 605.9
+  vhf: "16"
+  crewNames:
+    - bergie
+    - ihmis-suski
+  category: navigation
+- datetime: 2023-08-17T10:00:25.500Z
+  text: ""
+  author: ""
+  position:
+    longitude: 19.748755
+    latitude: 59.6359341
+    source: GPS
+  heading: 190
+  course: 188
+  speed:
+    stw: 5.8
+    sog: 5.2
+  log: 2514.5
+  barometer: 1025.22
+  wind:
+    speed: 15.1
+    direction: 321
+  engine:
+    hours: 605.9
+  vhf: "16"
+  crewNames:
+    - bergie
+    - ihmis-suski
