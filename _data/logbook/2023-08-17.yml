@@ -318,3 +318,55 @@
     - bergie
     - ihmis-suski
   category: maintenance
+- datetime: 2023-08-17T08:58:55.500Z
+  text: "Autopilot deactivated, windvane steering "
+  author: bergie
+  position:
+    longitude: 19.801398
+    latitude: 59.7403426
+    source: GPS
+  heading: 199
+  course: 199
+  speed:
+    stw: 6.1
+    sog: 6.7
+  log: 2508
+  barometer: 1024.49
+  wind:
+    speed: 19.2
+    direction: 320
+  engine:
+    hours: 605.9
+  vhf: "16"
+  crewNames:
+    - bergie
+    - ihmis-suski
+  category: navigation
+- datetime: 2023-08-17T09:00:25.500Z
+  text: Bergie on watch
+  author: bergie
+  position:
+    longitude: 19.798925
+    latitude: 59.7379259
+    source: GPS
+  heading: 202
+  course: 205
+  speed:
+    stw: 6.2
+    sog: 6.7
+  log: 2508.2
+  barometer: 1024.46
+  wind:
+    speed: 20
+    direction: 333
+  engine:
+    hours: 605.9
+  vhf: "16"
+  crewNames:
+    - bergie
+    - ihmis-suski
+  category: navigation
+  observations:
+    cloudCoverage: 2
+    seaState: 3
+    visibility: 8
