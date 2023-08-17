@@ -22,58 +22,9 @@
     - bergie
     - ihmis-suski
   category: navigation
-- datetime: 2023-08-17T02:58:40.400Z
-  text: Anchor up, motoring
-  author: ""
-  position:
-    longitude: 19.9941766
-    latitude: 60.0858166
-    source: GPS
-  heading: 213
-  course: 34
-  speed:
-    stw: 0
-    sog: 0
-  log: 2483.7
-  barometer: 1021.02
-  wind:
-    speed: 1.9
-    direction: 284
-  engine:
-    hours: 605.6
-  vhf: "16"
-  crewNames:
-    - bergie
-    - ihmis-suski
-  category: navigation
-- datetime: 2023-08-17T02:58:46.400Z
-  text: Stopped
-  author: ""
-  position:
-    longitude: 19.9941659
-    latitude: 60.0858155
-    source: GPS
-  heading: 216
-  course: 40
-  speed:
-    stw: 0
-    sog: 0
-  log: 2483.7
-  barometer: 1021.02
-  wind:
-    speed: 2.1
-    direction: 267
-  engine:
-    hours: 605.6
-  vhf: "16"
-  crewNames:
-    - bergie
-    - ihmis-suski
-  end: true
-  category: navigation
 - datetime: 2023-08-17T03:08:43.400Z
-  text: Motoring
-  author: ""
+  text: Anchor up, motoring
+  author: bergie
   position:
     longitude: 19.9936331
     latitude: 60.086324
@@ -95,3 +46,98 @@
     - bergie
     - ihmis-suski
   category: navigation
+- datetime: 2023-08-17T03:09:21.400Z
+  text: Autopilot activated
+  author: ""
+  position:
+    longitude: 19.9931634
+    latitude: 60.0865365
+    source: GPS
+  heading: 321
+  course: 316
+  speed:
+    stw: 1.7
+    sog: 1.8
+  log: 2483.7
+  barometer: 1021.11
+  wind:
+    speed: 2.1
+    direction: 264
+  engine:
+    hours: 605.7
+  vhf: "16"
+  crewNames:
+    - bergie
+    - ihmis-suski
+  category: navigation
+- datetime: 2023-08-17T03:17:45.400Z
+  text: Motor stopped, sailing with Main, Genoa 1
+  author: ""
+  position:
+    longitude: 19.9814541
+    latitude: 60.0895598
+    source: GPS
+  heading: 241
+  course: 230
+  speed:
+    stw: 2.1
+    sog: 2
+  log: 2484.2
+  barometer: 1021.13
+  wind:
+    speed: 4.3
+    direction: 285
+  engine:
+    hours: 605.9
+  vhf: "16"
+  crewNames:
+    - bergie
+    - ihmis-suski
+  category: navigation
+- datetime: 2023-08-17T03:39:35.400Z
+  text: Suski on watch, Bergie back to bed
+  author: bergie
+  position:
+    longitude: 19.9708253
+    latitude: 60.0760403
+    source: GPS
+  heading: 161
+  course: 165
+  speed:
+    stw: 3
+    sog: 2.9
+  log: 2485.1
+  barometer: 1021.3
+  wind:
+    speed: 5.2
+    direction: 249
+  engine:
+    hours: 605.9
+  vhf: "16"
+  crewNames:
+    - bergie
+    - ihmis-suski
+  category: navigation
+- datetime: 2023-08-17T04:00:29.400Z
+  text: ""
+  author: ""
+  position:
+    longitude: 19.9831996
+    latitude: 60.0594294
+    source: GPS
+  heading: 163
+  course: 165
+  speed:
+    stw: 3.1
+    sog: 2.8
+  log: 2486.1
+  barometer: 1021.56
+  wind:
+    speed: 6.5
+    direction: 275
+  engine:
+    hours: 605.9
+  vhf: "16"
+  crewNames:
+    - bergie
+    - ihmis-suski
