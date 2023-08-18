@@ -678,3 +678,74 @@
     - bergie
     - ihmis-suski
   category: navigation
+- datetime: 2023-08-18T12:36:29.600Z
+  text: "Sails set: Main"
+  author: ""
+  position:
+    longitude: 18.2775864
+    latitude: 57.6906284
+    source: GPS
+  heading: 191
+  course: 191
+  speed:
+    stw: 4.5
+    sog: 4.6
+  log: 2649.3
+  barometer: 1025.59
+  wind:
+    speed: 15.2
+    direction: 49
+  engine:
+    hours: 608.2
+  vhf: "16"
+  crewNames:
+    - bergie
+    - ihmis-suski
+  category: navigation
+- datetime: 2023-08-18T12:43:50.598Z
+  text: Autopilot deactivated
+  author: ""
+  position:
+    longitude: 18.274339
+    latitude: 57.6819681
+    source: GPS
+  heading: 185
+  course: 189
+  speed:
+    stw: 4.2
+    sog: 3.8
+  log: 2649.9
+  barometer: 1025.47
+  wind:
+    speed: 14.4
+    direction: 47
+  engine:
+    hours: 608.2
+  vhf: "16"
+  crewNames:
+    - bergie
+    - ihmis-suski
+  category: navigation
+- datetime: 2023-08-18T13:00:05.600Z
+  text: ""
+  author: ""
+  position:
+    longitude: 18.2696128
+    latitude: 57.6630924
+    source: GPS
+  heading: 181
+  course: 180
+  speed:
+    stw: 5.3
+    sog: 5.1
+  log: 2651
+  barometer: 1025.65
+  wind:
+    speed: 19.8
+    direction: 87
+  engine:
+    hours: 608.2
+  vhf: "16"
+  crewNames:
+    - bergie
+    - ihmis-suski
