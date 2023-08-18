@@ -47,8 +47,8 @@
     - ihmis-suski
   category: navigation
 - datetime: 2023-08-18T02:00:45.200Z
-  text: ""
-  author: ""
+  text: "Past the Gotska Sandön light "
+  author: bergie
   position:
     longitude: 18.8606886
     latitude: 58.4094699
@@ -63,6 +63,58 @@
   wind:
     speed: 9.8
     direction: 46
+  engine:
+    hours: 605.9
+  vhf: "16"
+  crewNames:
+    - bergie
+    - ihmis-suski
+  category: navigation
+  observations:
+    seaState: 2
+    cloudCoverage: 8
+    visibility: 7
+- datetime: 2023-08-18T02:57:17.200Z
+  text: Autopilot activated
+  author: ""
+  position:
+    longitude: 18.8374091
+    latitude: 58.3426901
+    source: GPS
+  heading: 175
+  course: 195
+  speed:
+    stw: 3.6
+    sog: 4.2
+  log: 2601.2
+  barometer: 1027.17
+  wind:
+    speed: 12.2
+    direction: 53
+  engine:
+    hours: 605.9
+  vhf: "16"
+  crewNames:
+    - bergie
+    - ihmis-suski
+  category: navigation
+- datetime: 2023-08-18T03:00:34.200Z
+  text: ""
+  author: ""
+  position:
+    longitude: 18.8359369
+    latitude: 58.3392678
+    source: GPS
+  heading: 190
+  course: 202
+  speed:
+    stw: 4.1
+    sog: 4
+  log: 2601.4
+  barometer: 1027.22
+  wind:
+    speed: 13.1
+    direction: 54
   engine:
     hours: 605.9
   vhf: "16"
