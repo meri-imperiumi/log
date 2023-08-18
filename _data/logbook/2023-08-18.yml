@@ -385,3 +385,104 @@
   crewNames:
     - bergie
     - ihmis-suski
+  category: navigation
+- datetime: 2023-08-18T08:23:04.601Z
+  text: Started watermaker, 24ppm
+  author: bergie
+  position:
+    longitude: 18.4624239
+    latitude: 58.0509326
+    source: GPS
+  heading: 259
+  course: 264
+  speed:
+    stw: 5.1
+    sog: 5
+  log: 2624.8
+  barometer: 1026.74
+  wind:
+    speed: 13.6
+    direction: 30
+  engine:
+    hours: 608.2
+  vhf: "16"
+  crewNames:
+    - bergie
+    - ihmis-suski
+  category: maintenance
+- datetime: 2023-08-18T08:27:03.600Z
+  text: "Hydrogenerator deployed "
+  author: bergie
+  position:
+    longitude: 18.4506545
+    latitude: 58.049331
+    source: GPS
+  heading: 250
+  course: 253
+  speed:
+    stw: 5.5
+    sog: 5.2
+  log: 2625.2
+  barometer: 1026.67
+  wind:
+    speed: 13.6
+    direction: 28
+  engine:
+    hours: 608.2
+  vhf: "16"
+  crewNames:
+    - bergie
+    - ihmis-suski
+  category: navigation
+- datetime: 2023-08-18T09:00:00.601Z
+  text: Bergie on watch
+  author: bergie
+  position:
+    longitude: 18.3551143
+    latitude: 58.0349068
+    source: GPS
+  heading: 251
+  course: 264
+  speed:
+    stw: 4.5
+    sog: 5
+  log: 2628.3
+  barometer: 1026.65
+  wind:
+    speed: 12.2
+    direction: 41
+  engine:
+    hours: 608.2
+  vhf: "16"
+  crewNames:
+    - bergie
+    - ihmis-suski
+  category: navigation
+  observations:
+    seaState: 2
+    cloudCoverage: 8
+    visibility: 7
+- datetime: 2023-08-18T09:07:21.600Z
+  text: "Sails set: Main, Genoa 1"
+  author: ""
+  position:
+    longitude: 18.3504048
+    latitude: 58.0256266
+    source: GPS
+  heading: 185
+  course: 190
+  speed:
+    stw: 5.2
+    sog: 5.2
+  log: 2629
+  barometer: 1026.73
+  wind:
+    speed: 13.3
+    direction: 50
+  engine:
+    hours: 608.2
+  vhf: "16"
+  crewNames:
+    - bergie
+    - ihmis-suski
+  category: navigation
