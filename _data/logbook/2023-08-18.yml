@@ -581,3 +581,100 @@
   crewNames:
     - bergie
     - ihmis-suski
+  category: navigation
+- datetime: 2023-08-18T11:15:53.600Z
+  text: "Sails set: Main, Genoa 1 (10% furled)"
+  author: ""
+  position:
+    longitude: 18.310875988006593
+    latitude: 57.813854153951
+    source: GPS
+  heading: 174
+  course: 181
+  speed:
+    stw: 6.6
+    sog: 7.3
+  log: 2641.8
+  barometer: 1025.9
+  wind:
+    speed: 23.4
+    direction: 66
+  engine:
+    hours: 608.2
+  vhf: "16"
+  crewNames:
+    - bergie
+    - ihmis-suski
+  category: navigation
+- datetime: 2023-08-18T12:00:21.600Z
+  text: ""
+  author: ""
+  position:
+    longitude: 18.281613
+    latitude: 57.7371735
+    source: GPS
+  heading: 180
+  course: 191
+  speed:
+    stw: 5.1
+    sog: 4.8
+  log: 2646.5
+  barometer: 1025.8
+  wind:
+    speed: 13.1
+    direction: 55
+  engine:
+    hours: 608.2
+  vhf: "16"
+  crewNames:
+    - bergie
+    - ihmis-suski
+  category: navigation
+- datetime: 2023-08-18T12:10:04.601Z
+  text: Autopilot activated
+  author: ""
+  position:
+    longitude: 18.2811958
+    latitude: 57.7242951
+    source: GPS
+  heading: 163
+  course: 176
+  speed:
+    stw: 4.6
+    sog: 4.4
+  log: 2647.3
+  barometer: 1025.7
+  wind:
+    speed: 12
+    direction: 54
+  engine:
+    hours: 608.2
+  vhf: "16"
+  crewNames:
+    - bergie
+    - ihmis-suski
+  category: navigation
+- datetime: 2023-08-18T12:13:17.600Z
+  text: "Stowed hydrogenerator "
+  author: bergie
+  position:
+    longitude: 18.2814873
+    latitude: 57.7204091
+    source: GPS
+  heading: 175
+  course: 176
+  speed:
+    stw: 4.8
+    sog: 5.1
+  log: 2647.5
+  barometer: 1025.7
+  wind:
+    speed: 12.8
+    direction: 52
+  engine:
+    hours: 608.2
+  vhf: "16"
+  crewNames:
+    - bergie
+    - ihmis-suski
+  category: navigation
