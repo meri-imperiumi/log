@@ -486,3 +486,74 @@
     - bergie
     - ihmis-suski
   category: navigation
+- datetime: 2023-08-18T09:37:56.601Z
+  text: Stopped watermaker, 24ppm
+  author: bergie
+  position:
+    longitude: 18.33404
+    latitude: 57.9779058
+    source: GPS
+  heading: 186
+  course: 189
+  speed:
+    stw: 5.3
+    sog: 6.2
+  log: 2631.9
+  barometer: 1026.42
+  wind:
+    speed: 16.9
+    direction: 51
+  engine:
+    hours: 608.2
+  vhf: "16"
+  crewNames:
+    - bergie
+    - ihmis-suski
+  category: maintenance
+- datetime: 2023-08-18T09:43:25.600Z
+  text: "Autopilot deactivated, windvane steering "
+  author: bergie
+  position:
+    longitude: 18.3321825
+    latitude: 57.9695751
+    source: GPS
+  heading: 191
+  course: 190
+  speed:
+    stw: 5.4
+    sog: 5.9
+  log: 2632.4
+  barometer: 1026.53
+  wind:
+    speed: 13.3
+    direction: 55
+  engine:
+    hours: 608.2
+  vhf: "16"
+  crewNames:
+    - bergie
+    - ihmis-suski
+  category: navigation
+- datetime: 2023-08-18T10:00:51.600Z
+  text: ""
+  author: ""
+  position:
+    longitude: 18.3285558
+    latitude: 57.942668
+    source: GPS
+  heading: 180
+  course: 176
+  speed:
+    stw: 5.5
+    sog: 5.5
+  log: 2634
+  barometer: 1026.29
+  wind:
+    speed: 16.4
+    direction: 46
+  engine:
+    hours: 608.2
+  vhf: "16"
+  crewNames:
+    - bergie
+    - ihmis-suski
