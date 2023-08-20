@@ -505,3 +505,80 @@
   crewNames:
     - bergie
     - ihmis-suski
+  category: navigation
+- datetime: 2023-08-20T13:27:38.598Z
+  text: We definitely found the wind hole
+  author: bergie
+  position:
+    longitude: 17.1489161
+    latitude: 57.6591618
+    source: GPS
+  heading: 261
+  course: 262
+  speed:
+    stw: 5.4
+    sog: 4.8
+  log: 2690.4
+  barometer: 1021.11
+  wind:
+    speed: 0.7
+    direction: 260
+  engine:
+    hours: 612.4
+  vhf: "16"
+  crewNames:
+    - bergie
+    - ihmis-suski
+  category: navigation
+- datetime: 2023-08-20T14:00:39.001Z
+  text: ""
+  author: ""
+  position:
+    longitude: 17.0629604
+    latitude: 57.6524475
+    source: GPS
+  heading: 259
+  course: 258
+  speed:
+    stw: 5.3
+    sog: 5
+  log: 2693.2
+  barometer: 1020.92
+  wind:
+    speed: 0.3
+    direction: 261
+  engine:
+    hours: 612.9
+  vhf: "16"
+  crewNames:
+    - bergie
+    - ihmis-suski
+  category: navigation
+- datetime: 2023-08-20T14:07:39.001Z
+  text: Fog is lifting a little bit
+  author: bergie
+  position:
+    longitude: 17.044611
+    latitude: 57.650639
+    source: GPS
+  heading: 260
+  course: 254
+  speed:
+    stw: 5.4
+    sog: 4.8
+  log: 2693.8
+  barometer: 1021.03
+  wind:
+    speed: 0.8
+    direction: 253
+  engine:
+    hours: 613
+  vhf: "16"
+  crewNames:
+    - bergie
+    - ihmis-suski
+  category: navigation
+  observations:
+    seaState: 2
+    cloudCoverage: 8
+    visibility: 4
