@@ -1,0 +1,119 @@
+- datetime: 2023-08-20T04:15:23.600Z
+  text: Started main engine
+  author: ""
+  position:
+    longitude: 18.2868801
+    latitude: 57.6379033
+    source: GPS
+  heading: 47
+  course: 4
+  speed:
+    stw: 0
+    sog: 0
+  log: 2653.4
+  barometer: 1021.77
+  wind:
+    speed: 3.8
+    direction: 55
+  engine:
+    hours: 608.5
+  vhf: "16"
+  crewNames:
+    - bergie
+    - ihmis-suski
+  category: navigation
+- datetime: 2023-08-20T04:28:21.500Z
+  text: Motoring
+  author: ""
+  position:
+    longitude: 18.285033
+    latitude: 57.6375498
+    source: GPS
+  heading: 234
+  course: 228
+  speed:
+    stw: 2.1
+    sog: 2.2
+  log: 2653.4
+  barometer: 1021.8
+  wind:
+    speed: 3.6
+    direction: 113
+  engine:
+    hours: 608.7
+  vhf: "16"
+  crewNames:
+    - bergie
+    - ihmis-suski
+  category: navigation
+- datetime: 2023-08-20T04:44:54.600Z
+  text: "Motor stopped, sailing with Parasailor "
+  author: bergie
+  position:
+    longitude: 18.2630088
+    latitude: 57.6349999
+    source: GPS
+  heading: 302
+  course: 287
+  speed:
+    stw: 3.5
+    sog: 3.3
+  log: 2654.2
+  barometer: 1021.95
+  wind:
+    speed: 7.7
+    direction: 42
+  engine:
+    hours: 609
+  vhf: "16"
+  crewNames:
+    - bergie
+    - ihmis-suski
+  category: navigation
+- datetime: 2023-08-20T04:45:02.499Z
+  text: Autopilot activated
+  author: ""
+  position:
+    longitude: 18.262768332163493
+    latitude: 57.635050519307455
+    source: GPS
+  heading: 299
+  course: 292
+  speed:
+    stw: 3.6
+    sog: 3.5
+  log: 2654.2
+  barometer: 1021.96
+  wind:
+    speed: 7.1
+    direction: 39
+  engine:
+    hours: 609
+  vhf: "16"
+  crewNames:
+    - bergie
+    - ihmis-suski
+  category: navigation
+- datetime: 2023-08-20T05:00:11.500Z
+  text: ""
+  author: ""
+  position:
+    longitude: 18.23892699877421
+    latitude: 57.63716049194336
+    source: GPS
+  heading: 287
+  course: 284
+  speed:
+    stw: 3.4
+    sog: 3.1
+  log: 2655
+  barometer: 1021.92
+  wind:
+    speed: 7.5
+    direction: 50
+  engine:
+    hours: 609
+  vhf: "16"
+  crewNames:
+    - bergie
+    - ihmis-suski
