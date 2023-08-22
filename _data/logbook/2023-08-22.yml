@@ -254,3 +254,50 @@
     seaState: 3
     cloudCoverage: 3
     visibility: 8
+- datetime: 2023-08-22T07:17:29.400Z
+  text: "Autopilot deactivated, windvane steering "
+  author: bergie
+  position:
+    longitude: 16.8365985
+    latitude: 57.4718944
+    source: GPS
+  heading: 194
+  course: 192
+  speed:
+    stw: 4.8
+    sog: 5.1
+  log: 2720.6
+  barometer: 1016.54
+  wind:
+    speed: 12.2
+    direction: 280
+  engine:
+    hours: 616
+  vhf: "16"
+  crewNames:
+    - bergie
+    - ihmis-suski
+  category: navigation
+- datetime: 2023-08-22T08:00:05.401Z
+  text: ""
+  author: ""
+  position:
+    longitude: 16.82851
+    latitude: 57.4157311
+    source: GPS
+  heading: 193
+  course: 193
+  speed:
+    stw: 3.4
+    sog: 4.3
+  log: 2724.1
+  barometer: 1016.61
+  wind:
+    speed: 11.1
+    direction: 238
+  engine:
+    hours: 616
+  vhf: "16"
+  crewNames:
+    - bergie
+    - ihmis-suski
