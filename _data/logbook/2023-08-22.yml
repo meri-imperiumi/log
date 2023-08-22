@@ -400,3 +400,31 @@
     - bergie
     - ihmis-suski
   category: navigation
+- datetime: 2023-08-22T09:41:03.398Z
+  text: "Autopilot deactivated, windvane steering "
+  author: bergie
+  position:
+    longitude: 16.8984976
+    latitude: 57.339724
+    source: GPS
+  heading: 137
+  course: 139
+  speed:
+    stw: 4.8
+    sog: 4.7
+  log: 2729.3
+  barometer: 1016.44
+  wind:
+    speed: 10.5
+    direction: 176
+  engine:
+    hours: 616
+  vhf: "16"
+  crewNames:
+    - bergie
+    - ihmis-suski
+  category: navigation
+  observations:
+    cloudCoverage: 2
+    seaState: 2
+    visibility: 8
