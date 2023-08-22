@@ -428,3 +428,50 @@
     cloudCoverage: 2
     seaState: 2
     visibility: 8
+- datetime: 2023-08-22T10:00:43.398Z
+  text: "Suski on watch "
+  author: bergie
+  position:
+    longitude: 16.9171033
+    latitude: 57.3234365
+    source: GPS
+  heading: 152
+  course: 154
+  speed:
+    stw: 3.9
+    sog: 3.4
+  log: 2730.4
+  barometer: 1016.32
+  wind:
+    speed: 10
+    direction: 202
+  engine:
+    hours: 616
+  vhf: "16"
+  crewNames:
+    - bergie
+    - ihmis-suski
+  category: navigation
+- datetime: 2023-08-22T11:00:29.401Z
+  text: ""
+  author: ""
+  position:
+    longitude: 16.9072838
+    latitude: 57.2712318
+    source: GPS
+  heading: 209
+  course: 208
+  speed:
+    stw: 3.7
+    sog: 3
+  log: 2733.9
+  barometer: 1016.22
+  wind:
+    speed: 8.7
+    direction: 251
+  engine:
+    hours: 616
+  vhf: "16"
+  crewNames:
+    - bergie
+    - ihmis-suski
