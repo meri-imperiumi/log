@@ -1,0 +1,200 @@
+- datetime: 2023-08-22T04:28:23.000Z
+  text: Started main engine
+  author: ""
+  position:
+    longitude: 16.6902781
+    latitude: 57.6568545
+    source: GPS
+  heading: 243
+  course: 203
+  speed:
+    stw: 0
+    sog: 0
+  log: 2706.1
+  barometer: 1016.42
+  wind:
+    speed: 1.2
+    direction: 359
+  engine:
+    hours: 615.6
+  vhf: "16"
+  crewNames:
+    - bergie
+    - ihmis-suski
+  category: navigation
+- datetime: 2023-08-22T04:39:50.000Z
+  text: Motoring
+  author: ""
+  position:
+    longitude: 16.6889605
+    latitude: 57.657526
+    source: GPS
+  heading: 298
+  course: 295
+  speed:
+    stw: 3.2
+    sog: 3.1
+  log: 2706.1
+  barometer: 1016.54
+  wind:
+    speed: 12.6
+    direction: 272
+  engine:
+    hours: 615.7
+  vhf: "16"
+  crewNames:
+    - bergie
+    - ihmis-suski
+  category: navigation
+- datetime: 2023-08-22T04:43:59.000Z
+  text: Autopilot activated
+  author: ""
+  position:
+    longitude: 16.6930401
+    latitude: 57.6607186
+    source: GPS
+  heading: 65
+  course: 69
+  speed:
+    stw: 4.7
+    sog: 4.7
+  log: 2706.4
+  barometer: 1016.43
+  wind:
+    speed: 11.2
+    direction: 257
+  engine:
+    hours: 615.8
+  vhf: "16"
+  crewNames:
+    - bergie
+    - ihmis-suski
+  category: navigation
+- datetime: 2023-08-22T04:49:22.000Z
+  text: Autopilot deactivated
+  author: ""
+  position:
+    longitude: 16.7060035
+    latitude: 57.6623268
+    source: GPS
+  heading: 90
+  course: 92
+  speed:
+    stw: 4.8
+    sog: 4.9
+  log: 2706.8
+  barometer: 1016.37
+  wind:
+    speed: 11.1
+    direction: 252
+  engine:
+    hours: 615.9
+  vhf: "16"
+  crewNames:
+    - bergie
+    - ihmis-suski
+  category: navigation
+- datetime: 2023-08-22T04:52:49.000Z
+  text: Autopilot activated
+  author: ""
+  position:
+    longitude: 16.7101073
+    latitude: 57.6622983
+    source: GPS
+  heading: 82
+  course: 83
+  speed:
+    stw: 4.1
+    sog: 4
+  log: 2707
+  barometer: 1016.42
+  wind:
+    speed: 8
+    direction: 261
+  engine:
+    hours: 616
+  vhf: "16"
+  crewNames:
+    - bergie
+    - ihmis-suski
+  category: navigation
+- datetime: 2023-08-22T04:52:54.000Z
+  text: Motor stopped, sailing with Main, Genoa 1
+  author: ""
+  position:
+    longitude: 16.710272
+    latitude: 57.662306
+    source: GPS
+  heading: 81
+  course: 83
+  speed:
+    stw: 4
+    sog: 3.9
+  log: 2707
+  barometer: 1016.42
+  wind:
+    speed: 9.2
+    direction: 244
+  engine:
+    hours: 616
+  vhf: "16"
+  crewNames:
+    - bergie
+    - ihmis-suski
+  category: navigation
+- datetime: 2023-08-22T05:00:44.000Z
+  text: ""
+  author: ""
+  position:
+    longitude: 16.7252076
+    latitude: 57.6601398
+    source: GPS
+  heading: 131
+  course: 135
+  speed:
+    stw: 4.7
+    sog: 4.6
+  log: 2707.5
+  barometer: 1016.38
+  wind:
+    speed: 10.6
+    direction: 249
+  engine:
+    hours: 616
+  vhf: "16"
+  crewNames:
+    - bergie
+    - ihmis-suski
+  category: navigation
+- datetime: 2023-08-22T05:01:44.000Z
+  text: We were stuck aground while trying to leave. The water level had dropped
+    by 20 or so cm and we did not take it into account. We tried to reverse over
+    the hump, but no luck. Suski went to the bow, did not help, Bergie came too.
+    Did not help. We brought the anchor line to front and pulled. It dragged us
+    deeper to the shallow because pulling from the bow only turns, we should
+    have put it through the back cleat first. So we put the engine on forward
+    tucker and both bulled on the anchor line in the bow. We heeled enough that
+    the foreward tucker pushed us over the rock and we were released. Expected
+    damage, scratches on the keel at the back.
+  author: ihmis-suski
+  position:
+    longitude: 16.7271141
+    latitude: 57.6592556
+    source: GPS
+  heading: 126
+  course: 131
+  speed:
+    stw: 5
+    sog: 5.1
+  log: 2707.6
+  barometer: 1016.39
+  wind:
+    speed: 13.3
+    direction: 252
+  engine:
+    hours: 616
+  vhf: "16"
+  crewNames:
+    - bergie
+    - ihmis-suski
+  category: navigation
