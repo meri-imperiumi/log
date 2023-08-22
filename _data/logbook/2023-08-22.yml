@@ -720,3 +720,52 @@
   crewNames:
     - bergie
     - ihmis-suski
+  category: navigation
+- datetime: 2023-08-22T17:34:48.800Z
+  text: "Stowed hydrogenerator "
+  author: bergie
+  position:
+    longitude: 16.6282048
+    latitude: 56.9419839
+    source: GPS
+  heading: 209
+  course: 207
+  speed:
+    stw: 4.4
+    sog: 4.5
+  log: 2758.5
+  barometer: 1015.81
+  wind:
+    speed: 10
+    direction: 270
+  engine:
+    hours: 616
+  vhf: "16"
+  crewNames:
+    - bergie
+    - ihmis-suski
+  category: navigation
+- datetime: 2023-08-22T18:00:42.803Z
+  text: Nice sunset view of the Borgholm Castle
+  author: bergie
+  position:
+    longitude: 16.6014593
+    latitude: 56.9109469
+    source: GPS
+  heading: 210
+  course: 206
+  speed:
+    stw: 5.4
+    sog: 5.5
+  log: 2760.5
+  barometer: 1015.94
+  wind:
+    speed: 12.6
+    direction: 273
+  engine:
+    hours: 616
+  vhf: "16"
+  crewNames:
+    - bergie
+    - ihmis-suski
+  category: navigation
