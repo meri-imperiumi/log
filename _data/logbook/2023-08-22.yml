@@ -71,8 +71,8 @@
     - ihmis-suski
   category: navigation
 - datetime: 2023-08-22T04:52:54.000Z
-  text: Motor stopped, sailing with Main, Genoa 1
-  author: ""
+  text: "Motor stopped, sailing with Main, Genoa 1. Bergie on watch "
+  author: bergie
   position:
     longitude: 16.710272
     latitude: 57.662306
@@ -176,7 +176,7 @@
   category: navigation
 - datetime: 2023-08-22T06:00:29.400Z
   text: ""
-  author: ""
+  author: bergie
   position:
     longitude: 16.849855359395345
     latitude: 57.595751190185545
@@ -197,3 +197,60 @@
   crewNames:
     - bergie
     - ihmis-suski
+  category: navigation
+  observations:
+    seaState: 2
+    cloudCoverage: 5
+    visibility: 8
+- datetime: 2023-08-22T06:30:23.400Z
+  text: Sighted Blå Jungfrun, 18NM ahead
+  author: bergie
+  position:
+    longitude: 16.851340993245444
+    latitude: 57.54229965209961
+    source: GPS
+  heading: 184
+  course: 177
+  speed:
+    stw: 6.5
+    sog: 6.9
+  log: 2716.4
+  barometer: 1016.46
+  wind:
+    speed: 16.9
+    direction: 254
+  engine:
+    hours: 616
+  vhf: "16"
+  crewNames:
+    - bergie
+    - ihmis-suski
+  category: navigation
+- datetime: 2023-08-22T07:00:17.400Z
+  text: ""
+  author: bergie
+  position:
+    longitude: 16.844646
+    latitude: 57.4959871
+    source: GPS
+  heading: 192
+  course: 185
+  speed:
+    stw: 4.4
+    sog: 4.7
+  log: 2719.2
+  barometer: 1016.47
+  wind:
+    speed: 11.7
+    direction: 264
+  engine:
+    hours: 616
+  vhf: "16"
+  crewNames:
+    - bergie
+    - ihmis-suski
+  category: navigation
+  observations:
+    seaState: 3
+    cloudCoverage: 3
+    visibility: 8
