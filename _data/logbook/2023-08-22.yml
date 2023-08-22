@@ -500,54 +500,6 @@
     - bergie
     - ihmis-suski
   category: navigation
-- datetime: 2023-08-22T11:49:31.398Z
-  text: Autopilot deactivated
-  author: ""
-  position:
-    longitude: 16.8864505
-    latitude: 57.2340168
-    source: GPS
-  heading: 239
-  course: 317
-  speed:
-    stw: 1
-    sog: 0.2
-  log: 2736.3
-  barometer: 1015.93
-  wind:
-    speed: 7.4
-    direction: 247
-  engine:
-    hours: 616
-  vhf: "16"
-  crewNames:
-    - bergie
-    - ihmis-suski
-  category: navigation
-- datetime: 2023-08-22T11:52:35.398Z
-  text: Autopilot activated
-  author: ""
-  position:
-    longitude: 16.8866558
-    latitude: 57.2339806
-    source: GPS
-  heading: 177
-  course: 168
-  speed:
-    stw: 3.1
-    sog: 2.2
-  log: 2736.4
-  barometer: 1015.9
-  wind:
-    speed: 9
-    direction: 241
-  engine:
-    hours: 616
-  vhf: "16"
-  crewNames:
-    - bergie
-    - ihmis-suski
-  category: navigation
 - datetime: 2023-08-22T12:00:15.398Z
   text: ""
   author: ""
@@ -565,54 +517,6 @@
   wind:
     speed: 8.9
     direction: 266
-  engine:
-    hours: 616
-  vhf: "16"
-  crewNames:
-    - bergie
-    - ihmis-suski
-  category: navigation
-- datetime: 2023-08-22T12:51:07.398Z
-  text: Autopilot deactivated
-  author: ""
-  position:
-    longitude: 16.8639271
-    latitude: 57.1821575
-    source: GPS
-  heading: 199
-  course: 201
-  speed:
-    stw: 3.2
-    sog: 2.5
-  log: 2739.6
-  barometer: 1015.81
-  wind:
-    speed: 9.5
-    direction: 254
-  engine:
-    hours: 616
-  vhf: "16"
-  crewNames:
-    - bergie
-    - ihmis-suski
-  category: navigation
-- datetime: 2023-08-22T12:51:09.401Z
-  text: Autopilot activated
-  author: ""
-  position:
-    longitude: 16.8639186
-    latitude: 57.1821336
-    source: GPS
-  heading: 201
-  course: 194
-  speed:
-    stw: 3.2
-    sog: 2.8
-  log: 2739.6
-  barometer: 1015.81
-  wind:
-    speed: 9
-    direction: 256
   engine:
     hours: 616
   vhf: "16"
@@ -645,8 +549,9 @@
     - ihmis-suski
   category: navigation
 - datetime: 2023-08-22T13:09:14.400Z
-  text: Autopilot deactivated
-  author: ""
+  text: Autopilot deactivated. We’ve now had a couple of instances of tiller pilot
+    stopping in hard to starboard with error “NO DRIVE”
+  author: bergie
   position:
     longitude: 16.85607
     latitude: 57.1685606
@@ -661,6 +566,54 @@
   wind:
     speed: 9.1
     direction: 236
+  engine:
+    hours: 616
+  vhf: "16"
+  crewNames:
+    - bergie
+    - ihmis-suski
+  category: navigation
+- datetime: 2023-08-22T13:11:48.400Z
+  text: Autopilot activated
+  author: ""
+  position:
+    longitude: 16.8563969
+    latitude: 57.1684201
+    source: GPS
+  heading: 167
+  course: 164
+  speed:
+    stw: 3
+    sog: 2.4
+  log: 2740.5
+  barometer: 1015.76
+  wind:
+    speed: 8.2
+    direction: 236
+  engine:
+    hours: 616
+  vhf: "16"
+  crewNames:
+    - bergie
+    - ihmis-suski
+  category: navigation
+- datetime: 2023-08-22T13:17:55.398Z
+  text: Autopilot deactivated. Starbuck on. Windvane.
+  author: ihmis-suski
+  position:
+    longitude: 16.8580673
+    latitude: 57.1636786
+    source: GPS
+  heading: 177
+  course: 165
+  speed:
+    stw: 4.1
+    sog: 2.8
+  log: 2740.8
+  barometer: 1015.74
+  wind:
+    speed: 9.4
+    direction: 228
   engine:
     hours: 616
   vhf: "16"
