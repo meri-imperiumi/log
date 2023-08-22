@@ -301,3 +301,102 @@
   crewNames:
     - bergie
     - ihmis-suski
+  category: navigation
+- datetime: 2023-08-22T08:12:03.398Z
+  text: Autopilot activated, not enough wind. Really unfortunate wave period
+    causing hobbyhorsing
+  author: bergie
+  position:
+    longitude: 16.8325618
+    latitude: 57.4051488
+    source: GPS
+  heading: 134
+  course: 139
+  speed:
+    stw: 2.6
+    sog: 3
+  log: 2724.7
+  barometer: 1016.66
+  wind:
+    speed: 10.9
+    direction: 238
+  engine:
+    hours: 616
+  vhf: "16"
+  crewNames:
+    - bergie
+    - ihmis-suski
+  category: navigation
+- datetime: 2023-08-22T08:27:02.400Z
+  text: Port upper shroud was missing a split ring. Good that spotted it on time
+    when I went forward to stow the inner forestay
+  author: bergie
+  position:
+    longitude: 16.8416038
+    latitude: 57.3950563
+    source: GPS
+  heading: 162
+  course: 162
+  speed:
+    stw: 2.8
+    sog: 2.8
+  log: 2725.4
+  barometer: 1016.8
+  wind:
+    speed: 6.8
+    direction: 202
+  engine:
+    hours: 616
+  vhf: "16"
+  crewNames:
+    - bergie
+    - ihmis-suski
+  category: navigation
+- datetime: 2023-08-22T09:00:55.398Z
+  text: ""
+  author: ""
+  position:
+    longitude: 16.8629636
+    latitude: 57.3707784
+    source: GPS
+  heading: 162
+  course: 159
+  speed:
+    stw: 3.5
+    sog: 3.2
+  log: 2727
+  barometer: 1016.61
+  wind:
+    speed: 10.9
+    direction: 204
+  engine:
+    hours: 616
+  vhf: "16"
+  crewNames:
+    - bergie
+    - ihmis-suski
+  category: navigation
+- datetime: 2023-08-22T09:04:54.400Z
+  text: Autopilot set to wind mode
+  author: ""
+  position:
+    longitude: 16.8649151
+    latitude: 57.3674553
+    source: GPS
+  heading: 171
+  course: 168
+  speed:
+    stw: 3.1
+    sog: 2.9
+  log: 2727.2
+  barometer: 1016.68
+  wind:
+    speed: 10.1
+    direction: 215
+  engine:
+    hours: 616
+  vhf: "16"
+  crewNames:
+    - bergie
+    - ihmis-suski
+  category: navigation
