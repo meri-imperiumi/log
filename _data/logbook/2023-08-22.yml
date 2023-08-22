@@ -70,54 +70,6 @@
     - bergie
     - ihmis-suski
   category: navigation
-- datetime: 2023-08-22T04:49:22.000Z
-  text: Autopilot deactivated
-  author: ""
-  position:
-    longitude: 16.7060035
-    latitude: 57.6623268
-    source: GPS
-  heading: 90
-  course: 92
-  speed:
-    stw: 4.8
-    sog: 4.9
-  log: 2706.8
-  barometer: 1016.37
-  wind:
-    speed: 11.1
-    direction: 252
-  engine:
-    hours: 615.9
-  vhf: "16"
-  crewNames:
-    - bergie
-    - ihmis-suski
-  category: navigation
-- datetime: 2023-08-22T04:52:49.000Z
-  text: Autopilot activated
-  author: ""
-  position:
-    longitude: 16.7101073
-    latitude: 57.6622983
-    source: GPS
-  heading: 82
-  course: 83
-  speed:
-    stw: 4.1
-    sog: 4
-  log: 2707
-  barometer: 1016.42
-  wind:
-    speed: 8
-    direction: 261
-  engine:
-    hours: 616
-  vhf: "16"
-  crewNames:
-    - bergie
-    - ihmis-suski
-  category: navigation
 - datetime: 2023-08-22T04:52:54.000Z
   text: Motor stopped, sailing with Main, Genoa 1
   author: ""
@@ -198,3 +150,50 @@
     - bergie
     - ihmis-suski
   category: navigation
+- datetime: 2023-08-22T05:18:39.000Z
+  text: "Deployed hydrogenerator "
+  author: bergie
+  position:
+    longitude: 16.7604331
+    latitude: 57.6461291
+    source: GPS
+  heading: 119
+  course: 122
+  speed:
+    stw: 5.2
+    sog: 5
+  log: 2708.9
+  barometer: 1016.39
+  wind:
+    speed: 13.2
+    direction: 237
+  engine:
+    hours: 616
+  vhf: "16"
+  crewNames:
+    - bergie
+    - ihmis-suski
+  category: navigation
+- datetime: 2023-08-22T06:00:29.400Z
+  text: ""
+  author: ""
+  position:
+    longitude: 16.849855359395345
+    latitude: 57.595751190185545
+    source: GPS
+  heading: 171
+  course: 173
+  speed:
+    stw: 6
+    sog: 6
+  log: 2713.2
+  barometer: 1016.2
+  wind:
+    speed: 17.2
+    direction: 257
+  engine:
+    hours: 616
+  vhf: "16"
+  crewNames:
+    - bergie
+    - ihmis-suski
