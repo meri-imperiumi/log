@@ -241,3 +241,56 @@
   crewNames:
     - bergie
     - ihmis-suski
+  category: navigation
+- datetime: 2023-09-12T09:00:14.899Z
+  text: ""
+  author: ""
+  position:
+    longitude: 16.3391483
+    latitude: 56.5876743
+    source: GPS
+  heading: 154
+  course: 158
+  speed:
+    stw: 5
+    sog: 5
+  log: 2785.3
+  barometer: 1012.27
+  wind:
+    speed: 10.9
+    direction: 204
+  engine:
+    hours: 616.9
+  vhf: "16"
+  crewNames:
+    - bergie
+    - ihmis-suski
+  category: navigation
+- datetime: 2023-09-12T09:01:14.899Z
+  text: A thunder cell is passing us from behind. We might get a bit wet.
+  author: ihmis-suski
+  position:
+    longitude: 16.3401058
+    latitude: 56.5864278
+    source: GPS
+  heading: 162
+  course: 157
+  speed:
+    stw: 5.1
+    sog: 4.4
+  log: 2785.3
+  barometer: 1012.32
+  wind:
+    speed: 11.9
+    direction: 199
+  engine:
+    hours: 616.9
+  vhf: "16"
+  crewNames:
+    - bergie
+    - ihmis-suski
+  category: navigation
+  observations:
+    seaState: 2
+    cloudCoverage: 7
+    visibility: 7
