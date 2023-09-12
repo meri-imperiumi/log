@@ -439,7 +439,7 @@
     - ihmis-suski
   category: navigation
 - datetime: 2023-09-12T11:47:29.900Z
-  text: Autopilot. No wind after rain for Starbuck.
+  text: Autopilot activated. No wind after rain for Starbuck.
   author: ihmis-suski
   position:
     longitude: 16.2799228
@@ -513,3 +513,56 @@
   crewNames:
     - bergie
     - ihmis-suski
+  category: navigation
+- datetime: 2023-09-12T13:51:51.900Z
+  text: "Windvane steering "
+  author: bergie
+  position:
+    longitude: 16.2604091
+    latitude: 56.4139301
+    source: GPS
+  heading: 246
+  course: 252
+  speed:
+    stw: 5
+    sog: 4.5
+  log: 2802.4
+  barometer: 1012.54
+  wind:
+    speed: 12.2
+    direction: 215
+  engine:
+    hours: 616.9
+  vhf: "16"
+  crewNames:
+    - bergie
+    - ihmis-suski
+  category: navigation
+- datetime: 2023-09-12T14:00:48.899Z
+  text: "Bergie on watch, Suski to bed. Heavy rain and thunder in the distance "
+  author: bergie
+  position:
+    longitude: 16.2401283
+    latitude: 56.4097393
+    source: GPS
+  heading: 236
+  course: 243
+  speed:
+    stw: 5
+    sog: 4.8
+  log: 2803.2
+  barometer: 1012.72
+  wind:
+    speed: 13.5
+    direction: 194
+  engine:
+    hours: 616.9
+  vhf: "16"
+  crewNames:
+    - bergie
+    - ihmis-suski
+  category: navigation
+  observations:
+    cloudCoverage: 8
+    seaState: 2
+    visibility: 5
