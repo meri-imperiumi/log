@@ -1,0 +1,47 @@
+- datetime: 2023-09-12T06:14:58.499Z
+  text: "Filled 5l diesel "
+  author: bergie
+  position:
+    longitude: 16.3632956
+    latitude: 56.6598726
+    source: GPS
+  heading: 167
+  course: 1
+  speed:
+    stw: 0
+    sog: 0
+  log: 2778.2
+  barometer: 1012.13
+  wind:
+    speed: 3.2
+    direction: 252
+  engine:
+    hours: 616.5
+  crewNames:
+    - bergie
+    - ihmis-suski
+  category: maintenance
+- datetime: 2023-09-12T07:01:07.900Z
+  text: Started main engine
+  author: ""
+  position:
+    longitude: 16.3632743
+    latitude: 56.6597898
+    source: GPS
+  heading: 164
+  course: 326
+  speed:
+    stw: 0
+    sog: 0
+  log: 2778.2
+  barometer: 1011.95
+  wind:
+    speed: 0.6
+    direction: 353
+  engine:
+    hours: 616.5
+  vhf: "16"
+  crewNames:
+    - bergie
+    - ihmis-suski
+  category: navigation
