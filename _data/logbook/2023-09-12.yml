@@ -566,3 +566,74 @@
     cloudCoverage: 8
     seaState: 2
     visibility: 5
+- datetime: 2023-09-12T14:37:43.001Z
+  text: Weather Routing claims this was the last tack. I doubt it, but we'll see
+  author: bergie
+  position:
+    longitude: 16.180104335149128
+    latitude: 56.39124034245809
+    source: GPS
+  heading: 144
+  course: 139
+  speed:
+    stw: 3.5
+    sog: 3.1
+  log: 2805.7
+  barometer: 1011.88
+  wind:
+    speed: 6.9
+    direction: 182
+  engine:
+    hours: 616.9
+  vhf: "16"
+  crewNames:
+    - bergie
+    - ihmis-suski
+  category: navigation
+- datetime: 2023-09-12T14:44:42.000Z
+  text: Autopilot activated, again low winds after the rains
+  author: bergie
+  position:
+    longitude: 16.185096661249798
+    latitude: 56.38828099568685
+    source: GPS
+  heading: 155
+  course: 152
+  speed:
+    stw: 3.6
+    sog: 3.4
+  log: 2806
+  barometer: 1011.94
+  wind:
+    speed: 7.2
+    direction: 210
+  engine:
+    hours: 616.9
+  vhf: "16"
+  crewNames:
+    - bergie
+    - ihmis-suski
+  category: navigation
+- datetime: 2023-09-12T15:00:39.001Z
+  text: ""
+  author: ""
+  position:
+    longitude: 16.1920759
+    latitude: 56.3787879
+    source: GPS
+  heading: 135
+  course: 134
+  speed:
+    stw: 2.3
+    sog: 2.1
+  log: 2806.6
+  barometer: 1011.89
+  wind:
+    speed: 5.5
+    direction: 181
+  engine:
+    hours: 616.9
+  vhf: "16"
+  crewNames:
+    - bergie
+    - ihmis-suski
