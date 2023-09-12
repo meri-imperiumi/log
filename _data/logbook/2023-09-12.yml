@@ -661,3 +661,52 @@
   crewNames:
     - bergie
     - ihmis-suski
+  category: navigation
+- datetime: 2023-09-12T16:55:48.601Z
+  text: Rebooted N2K to hopefully help with Orca Core connection issues
+  author: bergie
+  position:
+    longitude: 16.25301
+    latitude: 56.3101611
+    source: GPS
+  heading: 157
+  course: 153
+  speed:
+    stw: 2
+    sog: 2.1
+  log: 2811.3
+  barometer: 1012.31
+  wind:
+    speed: 5.5
+    direction: 180
+  engine:
+    hours: 616.9
+  vhf: "16"
+  crewNames:
+    - bergie
+    - ihmis-suski
+  category: maintenance
+- datetime: 2023-09-12T17:00:47.603Z
+  text: ""
+  author: ""
+  position:
+    longitude: 16.2569465
+    latitude: 56.3079786
+    source: GPS
+  heading: 137
+  course: 139
+  speed:
+    stw: 2.6
+    sog: 2.6
+  log: 2811.5
+  barometer: 1012.29
+  wind:
+    speed: 5.5
+    direction: 169
+  engine:
+    hours: 616.9
+  vhf: "16"
+  crewNames:
+    - bergie
+    - ihmis-suski
+  category: navigation
