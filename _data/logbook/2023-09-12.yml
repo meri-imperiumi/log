@@ -859,8 +859,8 @@
     - ihmis-suski
   category: navigation
 - datetime: 2023-09-12T20:00:18.598Z
-  text: ""
-  author: ""
+  text: "Suski on watch "
+  author: bergie
   position:
     longitude: 16.2347936
     latitude: 56.1226169
@@ -875,6 +875,54 @@
   wind:
     speed: 11.2
     direction: 240
+  engine:
+    hours: 616.9
+  vhf: "16"
+  crewNames:
+    - bergie
+    - ihmis-suski
+  category: navigation
+- datetime: 2023-09-12T20:55:03.603Z
+  text: Green position lantern is blinking off. Contact issues I presume.
+  author: ihmis-suski
+  position:
+    longitude: 16.2151033
+    latitude: 56.0616258
+    source: GPS
+  heading: 191
+  course: 187
+  speed:
+    stw: 3.6
+    sog: 3.7
+  log: 2827.1
+  barometer: 1013.18
+  wind:
+    speed: 8
+    direction: 257
+  engine:
+    hours: 616.9
+  vhf: "16"
+  crewNames:
+    - bergie
+    - ihmis-suski
+  category: navigation
+- datetime: 2023-09-12T21:00:03.596Z
+  text: ""
+  author: ""
+  position:
+    longitude: 16.2136043
+    latitude: 56.0571186
+    source: GPS
+  heading: 202
+  course: 197
+  speed:
+    stw: 3.4
+    sog: 3.5
+  log: 2827.3
+  barometer: 1013.29
+  wind:
+    speed: 7.9
+    direction: 245
   engine:
     hours: 616.9
   vhf: "16"
