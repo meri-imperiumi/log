@@ -981,3 +981,222 @@
   crewNames:
     - bergie
     - ihmis-suski
+  category: navigation
+- datetime: 2023-09-12T22:12:15.603Z
+  text: Autopilot activated
+  author: ""
+  position:
+    longitude: 16.1770991
+    latitude: 55.9910251
+    source: GPS
+  heading: 168
+  course: 171
+  speed:
+    stw: 0.8
+    sog: 1
+  log: 2831.6
+  barometer: 1013.28
+  wind:
+    speed: 5.1
+    direction: 278
+  engine:
+    hours: 616.9
+  vhf: "16"
+  crewNames:
+    - bergie
+    - ihmis-suski
+  category: navigation
+- datetime: 2023-09-12T22:13:01.600Z
+  text: Autopilot deactivated
+  author: ""
+  position:
+    longitude: 16.177296
+    latitude: 55.9908194
+    source: GPS
+  heading: 159
+  course: 143
+  speed:
+    stw: 0.8
+    sog: 1
+  log: 2831.6
+  barometer: 1013.28
+  wind:
+    speed: 5
+    direction: 290
+  engine:
+    hours: 616.9
+  vhf: "16"
+  crewNames:
+    - bergie
+    - ihmis-suski
+  category: navigation
+- datetime: 2023-09-12T22:22:37.600Z
+  text: Sails down, motoring
+  author: ""
+  position:
+    longitude: 16.1799146
+    latitude: 55.9886526
+    source: GPS
+  heading: 153
+  course: 132
+  speed:
+    stw: 0
+    sog: 0.3
+  log: 2831.8
+  barometer: 1013.21
+  wind:
+    speed: 5.4
+    direction: 271
+  engine:
+    hours: 616.9
+  vhf: "16"
+  crewNames:
+    - bergie
+    - ihmis-suski
+  category: navigation
+- datetime: 2023-09-12T22:22:57.600Z
+  text: Autopilot activated
+  author: ""
+  position:
+    longitude: 16.1799831
+    latitude: 55.9886245
+    source: GPS
+  heading: 154
+  course: 119
+  speed:
+    stw: 0.2
+    sog: 0.9
+  log: 2831.8
+  barometer: 1013.22
+  wind:
+    speed: 5.3
+    direction: 266
+  engine:
+    hours: 616.9
+  vhf: "16"
+  crewNames:
+    - bergie
+    - ihmis-suski
+  category: navigation
+- datetime: 2023-09-12T22:25:43.603Z
+  text: Möröting. Not enough wind, too close to shipping lane. Left main up. No
+    point taking it down in the dark.
+  author: ihmis-suski
+  position:
+    longitude: 16.1815629
+    latitude: 55.9853213
+    source: GPS
+  heading: 164
+  course: 166
+  speed:
+    stw: 5.5
+    sog: 5.4
+  log: 2832
+  barometer: 1013.24
+  wind:
+    speed: 4.8
+    direction: 213
+  engine:
+    hours: 617
+  vhf: "16"
+  crewNames:
+    - bergie
+    - ihmis-suski
+  category: navigation
+- datetime: 2023-09-12T22:33:42.598Z
+  text: Now it rains heavily. The wind has increased by 1 knot, but not enough for
+    shipping lane.
+  author: ihmis-suski
+  position:
+    longitude: 16.1779761
+    latitude: 55.9739294
+    source: GPS
+  heading: 204
+  course: 203
+  speed:
+    stw: 5.1
+    sog: 4.8
+  log: 2832.7
+  barometer: 1013.25
+  wind:
+    speed: 5.8
+    direction: 231
+  engine:
+    hours: 617.1
+  vhf: "16"
+  crewNames:
+    - bergie
+    - ihmis-suski
+  category: navigation
+- datetime: 2023-09-12T23:00:36.601Z
+  text: ""
+  author: ""
+  position:
+    longitude: 16.1505921681722
+    latitude: 55.93910783131917
+    source: GPS
+  heading: 202
+  course: 203
+  speed:
+    stw: 4.6
+    sog: 4.7
+  log: 2835
+  barometer: 1013.11
+  wind:
+    speed: 8.8
+    direction: 267
+  engine:
+    hours: 617.6
+  vhf: "16"
+  crewNames:
+    - bergie
+    - ihmis-suski
+  category: navigation
+- datetime: 2023-09-12T23:00:47.603Z
+  text: Motor stopped, sailing with Main, Genoa 1
+  author: ""
+  position:
+    longitude: 16.1504141
+    latitude: 55.9388781
+    source: GPS
+  heading: 202
+  course: 197
+  speed:
+    stw: 4.8
+    sog: 5.1
+  log: 2835
+  barometer: 1013.1
+  wind:
+    speed: 8.7
+    direction: 267
+  engine:
+    hours: 617.6
+  vhf: "16"
+  crewNames:
+    - bergie
+    - ihmis-suski
+  category: navigation
+- datetime: 2023-09-12T23:01:36.601Z
+  text: "Found wind again. Now autopiloting forward. "
+  author: ihmis-suski
+  position:
+    longitude: 16.149666659037273
+    latitude: 55.937906646728514
+    source: GPS
+  heading: 204
+  course: 207
+  speed:
+    stw: 4.7
+    sog: 4.6
+  log: 2835.1
+  barometer: 1013.1
+  wind:
+    speed: 8.5
+    direction: 294
+  engine:
+    hours: 617.6
+  vhf: "16"
+  crewNames:
+    - bergie
+    - ihmis-suski
+  category: navigation
