@@ -245,7 +245,7 @@
     - ihmis-suski
   category: navigation
 - datetime: 2023-09-13T04:00:20.600Z
-  text: Enveloped by the fog bank
+  text: Enveloped by the fog bank. Also 180° wind shift
   author: bergie
   position:
     longitude: 15.8681656
@@ -271,4 +271,108 @@
   observations:
     seaState: 2
     cloudCoverage: 8
-    visibility: 2
+    visibility: 1
+- datetime: 2023-09-13T04:12:20.600Z
+  text: "Visibility maybe four boat lengths, running the fog horn routine. Without
+    AIS this would be quite exciting "
+  author: bergie
+  position:
+    longitude: 15.8513656
+    latitude: 55.6152636
+    source: GPS
+  heading: 207
+  course: 212
+  speed:
+    stw: 5.2
+    sog: 5.2
+  log: 2857.1
+  barometer: 1012.57
+  wind:
+    speed: 2.6
+    direction: 191
+  engine:
+    hours: 621.2
+  vhf: "16"
+  crewNames:
+    - bergie
+    - ihmis-suski
+  category: navigation
+  observations:
+    seaState: 2
+    cloudCoverage: 8
+    visibility: 0
+- datetime: 2023-09-13T04:46:17.600Z
+  text: Motor stopped, sailing with Main, Genoa 1
+  author: ""
+  position:
+    longitude: 15.8050601
+    latitude: 55.5722476
+    source: GPS
+  heading: 208
+  course: 205
+  speed:
+    stw: 1.4
+    sog: 2
+  log: 2860.1
+  barometer: 1012.45
+  wind:
+    speed: 4.3
+    direction: 336
+  engine:
+    hours: 621.8
+  vhf: "16"
+  crewNames:
+    - bergie
+    - ihmis-suski
+  category: navigation
+- datetime: 2023-09-13T05:00:18.600Z
+  text: ""
+  author: bergie
+  position:
+    longitude: 15.8006271
+    latitude: 55.5667629
+    source: GPS
+  heading: 207
+  course: 180
+  speed:
+    stw: 1.1
+    sog: 1.7
+  log: 2860.5
+  barometer: 1012.5
+  wind:
+    speed: 5.2
+    direction: 339
+  engine:
+    hours: 621.8
+  vhf: "16"
+  crewNames:
+    - bergie
+    - ihmis-suski
+  category: navigation
+  observations:
+    visibility: 1
+- datetime: 2023-09-13T05:01:24.600Z
+  text: Sails down, motoring. With this wind and swell combo we need >6kt to keep
+    sails filled
+  author: bergie
+  position:
+    longitude: 15.8003211
+    latitude: 55.5663569
+    source: GPS
+  heading: 211
+  course: 208
+  speed:
+    stw: 0.8
+    sog: 1.5
+  log: 2860.5
+  barometer: 1012.49
+  wind:
+    speed: 5.7
+    direction: 356
+  engine:
+    hours: 621.8
+  vhf: "16"
+  crewNames:
+    - bergie
+    - ihmis-suski
+  category: navigation
