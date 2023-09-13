@@ -601,3 +601,55 @@
     - bergie
     - ihmis-suski
   category: navigation
+- datetime: 2023-09-13T09:00:11.699Z
+  text: ""
+  author: ""
+  position:
+    longitude: 15.5601951
+    latitude: 55.3670088
+    source: GPS
+  heading: 218
+  course: 213
+  speed:
+    stw: 2.3
+    sog: 2.5
+  log: 2875.1
+  barometer: 1012.2
+  wind:
+    speed: 6.4
+    direction: 66
+  engine:
+    hours: 623.1
+  vhf: "16"
+  crewNames:
+    - bergie
+    - ihmis-suski
+  category: navigation
+- datetime: 2023-09-13T09:13:11.699Z
+  text: Slow sailing in rain.
+  author: ihmis-suski
+  position:
+    longitude: 15.5524564
+    latitude: 55.3612015
+    source: GPS
+  heading: 218
+  course: 215
+  speed:
+    stw: 1.7
+    sog: 1.7
+  log: 2875.6
+  barometer: 1012.33
+  wind:
+    speed: 4.7
+    direction: 73
+  engine:
+    hours: 623.1
+  vhf: "16"
+  crewNames:
+    - bergie
+    - ihmis-suski
+  category: navigation
+  observations:
+    seaState: 1
+    cloudCoverage: 8
+    visibility: 6
