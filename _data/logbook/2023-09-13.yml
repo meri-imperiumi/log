@@ -243,3 +243,32 @@
   crewNames:
     - bergie
     - ihmis-suski
+  category: navigation
+- datetime: 2023-09-13T04:00:20.600Z
+  text: Enveloped by the fog bank
+  author: bergie
+  position:
+    longitude: 15.8681656
+    latitude: 55.6302508
+    source: GPS
+  heading: 210
+  course: 210
+  speed:
+    stw: 5.1
+    sog: 5.4
+  log: 2856
+  barometer: 1012.6
+  wind:
+    speed: 3.5
+    direction: 185
+  engine:
+    hours: 621
+  vhf: "16"
+  crewNames:
+    - bergie
+    - ihmis-suski
+  category: navigation
+  observations:
+    seaState: 2
+    cloudCoverage: 8
+    visibility: 2
