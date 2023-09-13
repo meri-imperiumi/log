@@ -1,0 +1,73 @@
+- datetime: 2023-09-13T00:00:03.600Z
+  text: Autopilot activated
+  author: ""
+  position:
+    longitude: 16.1104314
+    latitude: 55.878487
+    source: GPS
+  heading: 202
+  course: 217
+  speed:
+    stw: 3.9
+    sog: 2.7
+  log: 2838.9
+  barometer: 1013.11
+  wind:
+    speed: 4.5
+    direction: 229
+  engine:
+    hours: 617.6
+  vhf: "16"
+  crewNames:
+    - bergie
+    - ihmis-suski
+  category: navigation
+- datetime: 2023-09-13T00:00:26.600Z
+  text: ""
+  author: ""
+  position:
+    longitude: 16.1101171
+    latitude: 55.8780918
+    source: GPS
+  heading: 203
+  course: 199
+  speed:
+    stw: 4.4
+    sog: 4.6
+  log: 2838.9
+  barometer: 1013.11
+  wind:
+    speed: 2.1
+    direction: 264
+  engine:
+    hours: 617.6
+  vhf: "16"
+  crewNames:
+    - bergie
+    - ihmis-suski
+  category: navigation
+- datetime: 2023-09-13T00:05:26.600Z
+  text: Well. At least the rain stopped. Motoring again to not be in the middle of
+    the shipping lane.
+  author: ihmis-suski
+  position:
+    longitude: 16.1065416
+    latitude: 55.8721328
+    source: GPS
+  heading: 186
+  course: 187
+  speed:
+    stw: 4.9
+    sog: 5.3
+  log: 2839.3
+  barometer: 1013.13
+  wind:
+    speed: 3.4
+    direction: 217
+  engine:
+    hours: 617.7
+  vhf: "16"
+  crewNames:
+    - bergie
+    - ihmis-suski
+  category: navigation
