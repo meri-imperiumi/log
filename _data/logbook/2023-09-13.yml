@@ -501,8 +501,8 @@
     - ihmis-suski
   category: navigation
 - datetime: 2023-09-13T07:00:15.699Z
-  text: ""
-  author: ""
+  text: Sea state quieted enough that we can sail with lower winds again
+  author: bergie
   position:
     longitude: 15.6736644
     latitude: 55.4476501
@@ -523,3 +523,81 @@
   crewNames:
     - bergie
     - ihmis-suski
+  category: navigation
+  observations:
+    cloudCoverage: 8
+    visibility: 3
+    seaState: 1
+- datetime: 2023-09-13T07:15:14.700Z
+  text: Rain started. No thunder in a while
+  author: bergie
+  position:
+    longitude: 15.6641478
+    latitude: 55.439116
+    source: GPS
+  heading: 219
+  course: 222
+  speed:
+    stw: 4.3
+    sog: 4.5
+  log: 2869.5
+  barometer: 1013.2
+  wind:
+    speed: 8.1
+    direction: 176
+  engine:
+    hours: 623.1
+  vhf: "16"
+  crewNames:
+    - bergie
+    - ihmis-suski
+  category: navigation
+- datetime: 2023-09-13T07:26:14.700Z
+  text: A hawk was circling the boat. Tried to land first on the windvane and then
+    on spreaders before thinking better of it
+  author: bergie
+  position:
+    longitude: 15.6499643
+    latitude: 55.4294045
+    source: GPS
+  heading: 222
+  course: 219
+  speed:
+    stw: 2.4
+    sog: 2.5
+  log: 2870.3
+  barometer: 1012.96
+  wind:
+    speed: 4.1
+    direction: 169
+  engine:
+    hours: 623.1
+  vhf: "16"
+  crewNames:
+    - bergie
+    - ihmis-suski
+  category: navigation
+- datetime: 2023-09-13T08:00:12.700Z
+  text: "Suski on watch. A big flock of birds landed on the boat "
+  author: bergie
+  position:
+    longitude: 15.6224955
+    latitude: 55.4103658
+    source: GPS
+  heading: 223
+  course: 216
+  speed:
+    stw: 1.7
+    sog: 2.2
+  log: 2871.8
+  barometer: 1012.08
+  wind:
+    speed: 6.8
+    direction: 64
+  engine:
+    hours: 623.1
+  vhf: "16"
+  crewNames:
+    - bergie
+    - ihmis-suski
+  category: navigation
