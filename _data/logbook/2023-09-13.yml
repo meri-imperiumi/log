@@ -653,3 +653,105 @@
     seaState: 1
     cloudCoverage: 8
     visibility: 6
+- datetime: 2023-09-13T09:47:16.700Z
+  text: Autopilot deactivated
+  author: ""
+  position:
+    longitude: 15.5393843
+    latitude: 55.3508151
+    source: GPS
+  heading: 223
+  course: 221
+  speed:
+    stw: 0
+    sog: 0.9
+  log: 2876.3
+  barometer: 1012.19
+  wind:
+    speed: 2.2
+    direction: 13
+  engine:
+    hours: 623.1
+  vhf: "16"
+  crewNames:
+    - bergie
+    - ihmis-suski
+  category: navigation
+- datetime: 2023-09-13T09:48:09.699Z
+  text: Speed 0 , wind 1.5 kn. Autopilot on standby with rudder in middle. Waiting
+    for wind with all sails up. Flat calm waters. Wind turning towards west
+    through north as expected.
+  author: ihmis-suski
+  position:
+    longitude: 15.5391431
+    latitude: 55.3506543
+    source: GPS
+  heading: 217
+  course: 218
+  speed:
+    stw: 0
+    sog: 1
+  log: 2876.3
+  barometer: 1012.16
+  wind:
+    speed: 2.2
+    direction: 356
+  engine:
+    hours: 623.1
+  vhf: "16"
+  crewNames:
+    - bergie
+    - ihmis-suski
+  category: navigation
+  observations:
+    seaState: 1
+    cloudCoverage: 8
+    visibility: 6
+- datetime: 2023-09-13T10:00:10.700Z
+  text: ""
+  author: ""
+  position:
+    longitude: 15.5362578
+    latitude: 55.3467621
+    source: GPS
+  heading: 189
+  course: 206
+  speed:
+    stw: 0.4
+    sog: 1.1
+  log: 2876.6
+  barometer: 1012.12
+  wind:
+    speed: 2.3
+    direction: 19
+  engine:
+    hours: 623.1
+  vhf: "16"
+  crewNames:
+    - bergie
+    - ihmis-suski
+  category: navigation
+- datetime: 2023-09-13T10:01:14.700Z
+  text: Autopilot activated
+  author: ""
+  position:
+    longitude: 15.5361126
+    latitude: 55.3464821
+    source: GPS
+  heading: 185
+  course: 189
+  speed:
+    stw: 0.3
+    sog: 1
+  log: 2876.6
+  barometer: 1012.09
+  wind:
+    speed: 2.4
+    direction: 356
+  engine:
+    hours: 623.1
+  vhf: "16"
+  crewNames:
+    - bergie
+    - ihmis-suski
+  category: navigation
