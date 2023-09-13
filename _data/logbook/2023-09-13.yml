@@ -1256,8 +1256,8 @@
     - ihmis-suski
   category: navigation
 - datetime: 2023-09-13T19:59:59.097Z
-  text: ""
-  author: ""
+  text: Suski on watch
+  author: bergie
   position:
     longitude: 14.6742586
     latitude: 54.6012081
@@ -1320,6 +1320,83 @@
   wind:
     speed: 15.1
     direction: 324
+  engine:
+    hours: 623.1
+  vhf: "16"
+  crewNames:
+    - bergie
+    - ihmis-suski
+  category: navigation
+- datetime: 2023-09-13T22:24:01.100Z
+  text: There is bioluminescence thingies in the water! Did not know we had some
+    in the Baltic.
+  author: ihmis-suski
+  position:
+    longitude: 14.4739261
+    latitude: 54.3707095
+    source: GPS
+  heading: 223
+  course: 215
+  speed:
+    stw: 6.4
+    sog: 7
+  log: 2946.6
+  barometer: 1017.98
+  wind:
+    speed: 21.7
+    direction: 316
+  engine:
+    hours: 623.1
+  vhf: "16"
+  crewNames:
+    - bergie
+    - ihmis-suski
+  category: navigation
+  observations:
+    seaState: 3
+    cloudCoverage: 2
+    visibility: 7
+- datetime: 2023-09-13T22:57:34.099Z
+  text: "Sails set: Main, Genoa 1 (20% furled)"
+  author: ""
+  position:
+    longitude: 14.4276733
+    latitude: 54.3158736
+    source: GPS
+  heading: 207
+  course: 207
+  speed:
+    stw: 7.1
+    sog: 7.4
+  log: 2950.4
+  barometer: 1018.13
+  wind:
+    speed: 25.5
+    direction: 328
+  engine:
+    hours: 623.1
+  vhf: "16"
+  crewNames:
+    - bergie
+    - ihmis-suski
+  category: navigation
+- datetime: 2023-09-13T23:00:02.099Z
+  text: ""
+  author: ""
+  position:
+    longitude: 14.4242386
+    latitude: 54.3118103
+    source: GPS
+  heading: 204
+  course: 197
+  speed:
+    stw: 6.5
+    sog: 7.5
+  log: 2950.6
+  barometer: 1018.14
+  wind:
+    speed: 18.9
+    direction: 335
   engine:
     hours: 623.1
   vhf: "16"
