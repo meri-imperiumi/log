@@ -1119,3 +1119,32 @@
   crewNames:
     - bergie
     - ihmis-suski
+  category: navigation
+- datetime: 2023-09-13T17:39:59.097Z
+  text: Out of Danish waters. Big rain cloud ahead
+  author: bergie
+  position:
+    longitude: 14.8926053
+    latitude: 54.8033899
+    source: GPS
+  heading: 217
+  course: 216
+  speed:
+    stw: 6.2
+    sog: 6.6
+  log: 2916.5
+  barometer: 1015.36
+  wind:
+    speed: 16.6
+    direction: 327
+  engine:
+    hours: 623.1
+  vhf: "16"
+  crewNames:
+    - bergie
+    - ihmis-suski
+  category: navigation
+  observations:
+    seaState: 3
+    cloudCoverage: 7
+    visibility: 7
