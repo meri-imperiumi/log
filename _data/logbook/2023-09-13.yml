@@ -71,3 +71,51 @@
     - bergie
     - ihmis-suski
   category: navigation
+- datetime: 2023-09-13T01:00:25.600Z
+  text: ""
+  author: ""
+  position:
+    longitude: 16.0637833
+    latitude: 55.8071496
+    source: GPS
+  heading: 212
+  course: 213
+  speed:
+    stw: 4.2
+    sog: 4
+  log: 2843.5
+  barometer: 1013.11
+  wind:
+    speed: 3.9
+    direction: 252
+  engine:
+    hours: 618.6
+  vhf: "16"
+  crewNames:
+    - bergie
+    - ihmis-suski
+  category: navigation
+- datetime: 2023-09-13T01:05:25.600Z
+  text: Green completely out. Waves hit both lamps periodically.
+  author: ihmis-suski
+  position:
+    longitude: 16.058018
+    latitude: 55.8017391
+    source: GPS
+  heading: 208
+  course: 209
+  speed:
+    stw: 5
+    sog: 5.5
+  log: 2843.9
+  barometer: 1013.09
+  wind:
+    speed: 5.5
+    direction: 280
+  engine:
+    hours: 618.7
+  vhf: "16"
+  crewNames:
+    - bergie
+    - ihmis-suski
+  category: maintenance
