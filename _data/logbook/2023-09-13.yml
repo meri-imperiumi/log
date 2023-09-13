@@ -1226,9 +1226,14 @@
     - bergie
     - ihmis-suski
   category: navigation
+  observations:
+    seaState: 3
+    cloudCoverage: 2
+    visibility: 7
 - datetime: 2023-09-13T19:00:00.102Z
-  text: ""
-  author: ""
+  text: Seeing a light beam in the clouds from a lighthouse that is likely
+    Greifswalder Oie
+  author: bergie
   position:
     longitude: 14.7659528
     latitude: 54.6917894
@@ -1243,6 +1248,30 @@
   wind:
     speed: 14
     direction: 314
+  engine:
+    hours: 623.1
+  vhf: "16"
+  crewNames:
+    - bergie
+    - ihmis-suski
+  category: navigation
+- datetime: 2023-09-13T19:59:59.097Z
+  text: ""
+  author: ""
+  position:
+    longitude: 14.6742586
+    latitude: 54.6012081
+    source: GPS
+  heading: 201
+  course: 194
+  speed:
+    stw: 6
+    sog: 6.4
+  log: 2931
+  barometer: 1016.55
+  wind:
+    speed: 16.6
+    direction: 338
   engine:
     hours: 623.1
   vhf: "16"
