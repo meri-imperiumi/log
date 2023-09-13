@@ -1148,3 +1148,104 @@
     seaState: 3
     cloudCoverage: 7
     visibility: 7
+- datetime: 2023-09-13T18:02:59.097Z
+  text: "Rain started. Another surprise visitor: bird landed on the tiller and now
+    rests under the lifesling"
+  author: bergie
+  position:
+    longitude: 14.855721
+    latitude: 54.7687719
+    source: GPS
+  heading: 214
+  course: 209
+  speed:
+    stw: 6.1
+    sog: 6.6
+  log: 2919
+  barometer: 1015.49
+  wind:
+    speed: 17.8
+    direction: 306
+  engine:
+    hours: 623.1
+  vhf: "16"
+  crewNames:
+    - bergie
+    - ihmis-suski
+  category: navigation
+- datetime: 2023-09-13T18:29:20.102Z
+  text: "Sails set: Main, Genoa 1. Looks like the worst of this raincloud went
+    past us"
+  author: bergie
+  position:
+    longitude: 14.8170331
+    latitude: 54.7304291
+    source: GPS
+  heading: 203
+  course: 205
+  speed:
+    stw: 5.6
+    sog: 6
+  log: 2921.7
+  barometer: 1015.83
+  wind:
+    speed: 13
+    direction: 330
+  engine:
+    hours: 623.1
+  vhf: "16"
+  crewNames:
+    - bergie
+    - ihmis-suski
+  category: navigation
+  observations:
+    seaState: 3
+    cloudCoverage: 6
+    visibility: 7
+- datetime: 2023-09-13T18:58:59.097Z
+  text: Overflight by what must be a very tightly packed Starlink train
+  author: bergie
+  position:
+    longitude: 14.7674549
+    latitude: 54.6931581
+    source: GPS
+  heading: 212
+  course: 200
+  speed:
+    stw: 5.6
+    sog: 6.6
+  log: 2924.5
+  barometer: 1015.8
+  wind:
+    speed: 13.7
+    direction: 350
+  engine:
+    hours: 623.1
+  vhf: "16"
+  crewNames:
+    - bergie
+    - ihmis-suski
+  category: navigation
+- datetime: 2023-09-13T19:00:00.102Z
+  text: ""
+  author: ""
+  position:
+    longitude: 14.7659528
+    latitude: 54.6917894
+    source: GPS
+  heading: 213
+  course: 218
+  speed:
+    stw: 5.4
+    sog: 5.7
+  log: 2924.6
+  barometer: 1015.84
+  wind:
+    speed: 14
+    direction: 314
+  engine:
+    hours: 623.1
+  vhf: "16"
+  crewNames:
+    - bergie
+    - ihmis-suski
