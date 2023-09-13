@@ -144,3 +144,102 @@
     - bergie
     - ihmis-suski
   category: navigation
+- datetime: 2023-09-13T02:23:16.600Z
+  text: Motor stopped, sailing with Main, Genoa 1
+  author: ""
+  position:
+    longitude: 15.9660929
+    latitude: 55.7163531
+    source: GPS
+  heading: 206
+  course: 203
+  speed:
+    stw: 1.8
+    sog: 2.4
+  log: 2849.9
+  barometer: 1012.51
+  wind:
+    speed: 6.2
+    direction: 312
+  engine:
+    hours: 620
+  vhf: "16"
+  crewNames:
+    - bergie
+    - ihmis-suski
+  category: navigation
+- datetime: 2023-09-13T02:39:22.600Z
+  text: "Mostly out of the main traffic lanes "
+  author: bergie
+  position:
+    longitude: 15.9595294
+    latitude: 55.710504
+    source: GPS
+  heading: 207
+  course: 215
+  speed:
+    stw: 1.7
+    sog: 1.7
+  log: 2850.3
+  barometer: 1012.63
+  wind:
+    speed: 6.4
+    direction: 323
+  engine:
+    hours: 620
+  vhf: "16"
+  crewNames:
+    - bergie
+    - ihmis-suski
+  category: navigation
+  observations:
+    seaState: 2
+    cloudCoverage: 2
+    visibility: 5
+- datetime: 2023-09-13T02:58:41.600Z
+  text: Sails down, motoring
+  author: ""
+  position:
+    longitude: 15.9524898
+    latitude: 55.7042553
+    source: GPS
+  heading: 203
+  course: 212
+  speed:
+    stw: 0.8
+    sog: 0.9
+  log: 2850.8
+  barometer: 1012.75
+  wind:
+    speed: 4
+    direction: 326
+  engine:
+    hours: 620
+  vhf: "16"
+  crewNames:
+    - bergie
+    - ihmis-suski
+  category: navigation
+- datetime: 2023-09-13T03:00:21.600Z
+  text: ""
+  author: ""
+  position:
+    longitude: 15.9517166
+    latitude: 55.7035184
+    source: GPS
+  heading: 206
+  course: 202
+  speed:
+    stw: 4.5
+    sog: 4.3
+  log: 2850.8
+  barometer: 1012.74
+  wind:
+    speed: 3.7
+    direction: 248
+  engine:
+    hours: 620
+  vhf: "16"
+  crewNames:
+    - bergie
+    - ihmis-suski
