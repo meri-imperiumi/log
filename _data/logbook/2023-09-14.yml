@@ -21,3 +21,51 @@
   crewNames:
     - bergie
     - ihmis-suski
+  category: navigation
+- datetime: 2023-09-14T00:38:03.100Z
+  text: Entered Polish waters
+  author: bergie
+  position:
+    longitude: 14.3573236
+    latitude: 54.1479638
+    source: GPS
+  heading: 188
+  course: 191
+  speed:
+    stw: 5.9
+    sog: 5.7
+  log: 2960.9
+  barometer: 1018.94
+  wind:
+    speed: 18.2
+    direction: 319
+  engine:
+    hours: 623.1
+  vhf: "16"
+  crewNames:
+    - bergie
+    - ihmis-suski
+  category: navigation
+- datetime: 2023-09-14T01:00:03.100Z
+  text: ""
+  author: ""
+  position:
+    longitude: 14.3379841
+    latitude: 54.1108928
+    source: GPS
+  heading: 193
+  course: 186
+  speed:
+    stw: 5.8
+    sog: 6.3
+  log: 2963.2
+  barometer: 1019.02
+  wind:
+    speed: 18.7
+    direction: 325
+  engine:
+    hours: 623.1
+  vhf: "16"
+  crewNames:
+    - bergie
+    - ihmis-suski
