@@ -69,3 +69,51 @@
   crewNames:
     - bergie
     - ihmis-suski
+  category: navigation
+- datetime: 2023-09-14T01:22:04.100Z
+  text: "Battery is 5% up overnight with the hydro "
+  author: bergie
+  position:
+    longitude: 14.3269553
+    latitude: 54.0729533
+    source: GPS
+  heading: 182
+  course: 173
+  speed:
+    stw: 6.1
+    sog: 6.4
+  log: 2965.6
+  barometer: 1019.18
+  wind:
+    speed: 19.7
+    direction: 321
+  engine:
+    hours: 623.1
+  vhf: "16"
+  crewNames:
+    - bergie
+    - ihmis-suski
+  category: navigation
+- datetime: 2023-09-14T02:00:04.500Z
+  text: ""
+  author: ""
+  position:
+    longitude: 14.3144691
+    latitude: 54.0111613
+    source: GPS
+  heading: 195
+  course: 212
+  speed:
+    stw: 6.4
+    sog: 5.9
+  log: 2969.3
+  barometer: 1019.27
+  wind:
+    speed: 20.7
+    direction: 299
+  engine:
+    hours: 623.1
+  vhf: "16"
+  crewNames:
+    - bergie
+    - ihmis-suski
