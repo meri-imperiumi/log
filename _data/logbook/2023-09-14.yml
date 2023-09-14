@@ -117,3 +117,123 @@
   crewNames:
     - bergie
     - ihmis-suski
+  category: navigation
+- datetime: 2023-09-14T02:09:04.500Z
+  text: "Stowed hydrogenerator "
+  author: bergie
+  position:
+    longitude: 14.3072045
+    latitude: 53.9973175
+    source: GPS
+  heading: 185
+  course: 208
+  speed:
+    stw: 6.3
+    sog: 6.2
+  log: 2970.2
+  barometer: 1019.37
+  wind:
+    speed: 20
+    direction: 292
+  engine:
+    hours: 623.1
+  vhf: "16"
+  crewNames:
+    - bergie
+    - ihmis-suski
+  category: navigation
+- datetime: 2023-09-14T02:17:25.500Z
+  text: Autopilot activated
+  author: ""
+  position:
+    longitude: 14.300903
+    latitude: 53.9838654
+    source: GPS
+  heading: 205
+  course: 195
+  speed:
+    stw: 6.2
+    sog: 7
+  log: 2971.1
+  barometer: 1019.45
+  wind:
+    speed: 20.4
+    direction: 309
+  engine:
+    hours: 623.1
+  vhf: "16"
+  crewNames:
+    - bergie
+    - ihmis-suski
+  category: navigation
+- datetime: 2023-09-14T02:22:33.500Z
+  text: Autopilot deactivated
+  author: ""
+  position:
+    longitude: 14.2984941
+    latitude: 53.9755836
+    source: GPS
+  heading: 194
+  course: 191
+  speed:
+    stw: 5.7
+    sog: 5
+  log: 2971.6
+  barometer: 1019.54
+  wind:
+    speed: 16.8
+    direction: 298
+  engine:
+    hours: 623.1
+  vhf: "16"
+  crewNames:
+    - bergie
+    - ihmis-suski
+  category: navigation
+- datetime: 2023-09-14T02:51:11.500Z
+  text: Sails down, motoring
+  author: ""
+  position:
+    longitude: 14.2760089
+    latitude: 53.9353426
+    source: GPS
+  heading: 183
+  course: 193
+  speed:
+    stw: 5.4
+    sog: 5.6
+  log: 2974.1
+  barometer: 1019.69
+  wind:
+    speed: 18.9
+    direction: 287
+  engine:
+    hours: 623.1
+  vhf: "16"
+  crewNames:
+    - bergie
+    - ihmis-suski
+  category: navigation
+- datetime: 2023-09-14T03:00:05.500Z
+  text: ""
+  author: ""
+  position:
+    longitude: 14.2817056
+    latitude: 53.9229073
+    source: GPS
+  heading: 171
+  course: 174
+  speed:
+    stw: 4
+    sog: 4.1
+  log: 2974.9
+  barometer: 1019.95
+  wind:
+    speed: 11.5
+    direction: 262
+  engine:
+    hours: 623.2
+  vhf: "16"
+  crewNames:
+    - bergie
+    - ihmis-suski
