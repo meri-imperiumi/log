@@ -144,8 +144,8 @@
     - ihmis-suski
   category: navigation
 - datetime: 2023-09-15T08:39:04.300Z
-  text: Autopilot activated
-  author: ""
+  text: "Autopilot activated, Suski on watch "
+  author: bergie
   position:
     longitude: 14.2837998
     latitude: 53.8503814
@@ -282,6 +282,82 @@
     direction: 141
   engine:
     hours: 628.1
+  vhf: "16"
+  crewNames:
+    - bergie
+    - ihmis-suski
+  category: navigation
+- datetime: 2023-09-15T12:25:09.798Z
+  text: Bergie on watch
+  author: bergie
+  position:
+    longitude: 14.5664429
+    latitude: 53.6385093
+    source: GPS
+  heading: 141
+  course: 144
+  speed:
+    stw: 5
+    sog: 4.5
+  log: 2996.3
+  barometer: 1024.01
+  wind:
+    speed: 7.5
+    direction: 149
+  engine:
+    hours: 628.5
+  vhf: "16"
+  crewNames:
+    - bergie
+    - ihmis-suski
+  category: navigation
+  observations:
+    cloudCoverage: 2
+    seaState: 1
+    visibility: 8
+- datetime: 2023-09-15T12:43:05.798Z
+  text: "Sea eagle circling above "
+  author: bergie
+  position:
+    longitude: 14.5835884
+    latitude: 53.6189728
+    source: GPS
+  heading: 166
+  course: 169
+  speed:
+    stw: 5
+    sog: 4.4
+  log: 2997.7
+  barometer: 1023.89
+  wind:
+    speed: 9.2
+    direction: 146
+  engine:
+    hours: 628.8
+  vhf: "16"
+  crewNames:
+    - bergie
+    - ihmis-suski
+  category: navigation
+- datetime: 2023-09-15T13:00:01.798Z
+  text: ""
+  author: ""
+  position:
+    longitude: 14.590434
+    latitude: 53.5992403
+    source: GPS
+  heading: 165
+  course: 166
+  speed:
+    stw: 4.9
+    sog: 4.3
+  log: 2998.9
+  barometer: 1023.72
+  wind:
+    speed: 7.7
+    direction: 132
+  engine:
+    hours: 629.1
   vhf: "16"
   crewNames:
     - bergie
