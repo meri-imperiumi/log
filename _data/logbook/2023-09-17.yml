@@ -189,3 +189,54 @@
   crewNames:
     - bergie
     - ihmis-suski
+  category: navigation
+- datetime: 2023-09-17T12:20:09.600Z
+  text: Checked the bilge. No new water since the last pumping out, despite
+    motoring all day
+  author: bergie
+  position:
+    longitude: 14.3237636
+    latitude: 53.0816258
+    source: GPS
+  heading: 196
+  course: 200
+  speed:
+    stw: 5.4
+    sog: 5.1
+  log: 3038.4
+  barometer: 1017.07
+  wind:
+    speed: 11.7
+    direction: 360
+  engine:
+    hours: 637.8
+  vhf: "10"
+  crewNames:
+    - bergie
+    - ihmis-suski
+  category: maintenance
+- datetime: 2023-09-17T12:46:58.598Z
+  text: Stopped
+  author: ""
+  position:
+    longitude: 14.2994588
+    latitude: 53.056708
+    source: GPS
+  heading: 64
+  course: 285
+  speed:
+    stw: 0
+    sog: 0
+  log: 3040.4
+  barometer: 1017.1
+  wind:
+    speed: 6.7
+    direction: 228
+  engine:
+    hours: 638.2
+  vhf: "10"
+  crewNames:
+    - bergie
+    - ihmis-suski
+  end: true
+  category: navigation
