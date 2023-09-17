@@ -141,3 +141,28 @@
   crewNames:
     - bergie
     - ihmis-suski
+  category: navigation
+- datetime: 2023-09-17T11:00:19.500Z
+  text: "Waiting at a no crossing zone for two oncoming AIS targets "
+  author: bergie
+  position:
+    longitude: 14.3665918
+    latitude: 53.1693723
+    source: GPS
+  heading: 181
+  course: 184
+  speed:
+    stw: 0.8
+    sog: 0.7
+  log: 3032.5
+  barometer: 1017.3
+  wind:
+    speed: 7.4
+    direction: 347
+  engine:
+    hours: 636.4
+  vhf: "10"
+  crewNames:
+    - bergie
+    - ihmis-suski
+  category: navigation
