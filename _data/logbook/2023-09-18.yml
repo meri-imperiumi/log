@@ -118,3 +118,50 @@
     - bergie
     - ihmis-suski
   category: navigation
+- datetime: 2023-09-18T08:28:45.200Z
+  text: Hit a submerged log, first to hull then to rudder. Seems no damage
+  author: bergie
+  position:
+    longitude: 14.12859050432841
+    latitude: 52.91757901509603
+    source: GPS
+  heading: 166
+  course: 170
+  speed:
+    stw: 5.3
+    sog: 4.9
+  log: 3052.8
+  barometer: 1010.4
+  wind:
+    speed: 11.6
+    direction: 330
+  engine:
+    hours: 640.7
+  vhf: "10"
+  crewNames:
+    - bergie
+    - ihmis-suski
+  category: navigation
+- datetime: 2023-09-18T09:00:42.201Z
+  text: ""
+  author: ""
+  position:
+    longitude: 14.1538249
+    latitude: 52.8794216
+    source: GPS
+  heading: 201
+  course: 202
+  speed:
+    stw: 4.8
+    sog: 4.2
+  log: 3055.4
+  barometer: 1010.16
+  wind:
+    speed: 10.9
+    direction: 11
+  engine:
+    hours: 641.3
+  vhf: "10"
+  crewNames:
+    - bergie
+    - ihmis-suski
