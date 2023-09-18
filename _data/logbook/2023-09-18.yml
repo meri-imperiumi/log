@@ -361,8 +361,8 @@
     - ihmis-suski
   category: navigation
 - datetime: 2023-09-18T11:07:17.299Z
-  text: Stopped
-  author: ""
+  text: Stopped, Niederfinow ship elevator. Got to drive directly in
+  author: bergie
   position:
     longitude: 13.942844645182292
     latitude: 52.85025533040365
@@ -385,3 +385,99 @@
     - ihmis-suski
   end: true
   category: navigation
+- datetime: 2023-09-18T11:27:15.299Z
+  text: Started main engine
+  author: ""
+  position:
+    longitude: 13.9427411
+    latitude: 52.8502343
+    source: GPS
+  heading: 280
+  course: 185
+  speed:
+    stw: 0
+    sog: 0
+  log: 3063.7
+  barometer: 1003.96
+  wind:
+    speed: 6.7
+    direction: 84
+  engine:
+    hours: 643.1
+  vhf: "10"
+  crewNames:
+    - bergie
+    - ihmis-suski
+  category: navigation
+- datetime: 2023-09-18T11:29:08.300Z
+  text: Motoring
+  author: ""
+  position:
+    longitude: 13.9404633
+    latitude: 52.8504119
+    source: GPS
+  heading: 296
+  course: 250
+  speed:
+    stw: 4.7
+    sog: 4.4
+  log: 3063.7
+  barometer: 1003.91
+  wind:
+    speed: 11
+    direction: 100
+  engine:
+    hours: 643.2
+  vhf: "10"
+  crewNames:
+    - bergie
+    - ihmis-suski
+  category: navigation
+- datetime: 2023-09-18T11:57:57.299Z
+  text: Motor sounds changed for a bit for a lower pitch. Everything seems normal
+    though. Temperature, pressure, amount of water in exhaust, speed.
+  author: ihmis-suski
+  position:
+    longitude: 13.8770425
+    latitude: 52.8587989
+    source: GPS
+  heading: 284
+  course: 281
+  speed:
+    stw: 5.3
+    sog: 5.4
+  log: 3066
+  barometer: 1003.95
+  wind:
+    speed: 11.9
+    direction: 95
+  engine:
+    hours: 643.6
+  vhf: "10"
+  crewNames:
+    - bergie
+    - ihmis-suski
+  category: engine
+- datetime: 2023-09-18T12:00:57.299Z
+  text: ""
+  author: ""
+  position:
+    longitude: 13.869832356770834
+    latitude: 52.859439023335774
+    source: GPS
+  heading: 277
+  course: 274
+  speed:
+    stw: 5.4
+    sog: 5.3
+  log: 3066.3
+  barometer: 1003.96
+  wind:
+    speed: 11.9
+    direction: 81
+  engine:
+    hours: 643.7
+  vhf: "10"
+  crewNames:
+    - bergie
+    - ihmis-suski
