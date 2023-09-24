@@ -89,3 +89,50 @@
   crewNames:
     - bergie
     - ihmis-suski
+  category: navigation
+- datetime: 2023-09-24T09:00:21.401Z
+  text: ""
+  author: ""
+  position:
+    longitude: 13.1894613
+    latitude: 52.4801248
+    source: GPS
+  heading: 186
+  course: 186
+  speed:
+    stw: 0.8
+    sog: 1
+  log: 3112.5
+  barometer: 1025.03
+  wind:
+    speed: 1.1
+    direction: 22
+  engine:
+    hours: 654
+  crewNames:
+    - bergie
+    - ihmis-suski
+  category: navigation
+- datetime: 2023-09-24T09:02:20.400Z
+  text: Four windows!
+  author: bergie
+  position:
+    longitude: 13.1893901
+    latitude: 52.4796321
+    source: GPS
+  heading: 193
+  course: 192
+  speed:
+    stw: 0.6
+    sog: 0.8
+  log: 3112.6
+  barometer: 1025.02
+  wind:
+    speed: 1
+    direction: 101
+  engine:
+    hours: 654
+  crewNames:
+    - bergie
+    - ihmis-suski
+  category: navigation
