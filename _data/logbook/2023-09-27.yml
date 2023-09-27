@@ -46,22 +46,50 @@
     - bergie
     - ihmis-suski
   category: navigation
-- datetime: 2023-09-27T08:07:11.699Z
-  text: Stopped
-  author: ""
+- datetime: 2023-09-27T08:51:58.700Z
+  text: "Basically no wind, drifting towards Scharfe Lanke in a thick algae soup "
+  author: bergie
   position:
-    longitude: 13.1979671
-    latitude: 52.4995236
+    longitude: 13.1945374
+    latitude: 52.5026033
     source: GPS
-  heading: 307
-  course: 290
+  heading: 339
+  course: 342
   speed:
     stw: 0
-    sog: 0
-  log: 3131.7
+    sog: 0.3
+  log: 3131.8
+  barometer: 1020.01
+  wind:
+    speed: 0.3
+    direction: 69
+  engine:
+    hours: 654
+  vhf: "10"
+  crewNames:
+    - bergie
+    - ihmis-suski
+  category: navigation
+  observations:
+    seaState: 0
+    cloudCoverage: 1
+    visibility: 7
+- datetime: 2023-09-27T09:00:56.700Z
+  text: ""
+  author: ""
+  position:
+    longitude: 13.1938075
+    latitude: 52.5034303
+    source: GPS
+  heading: 345
+  course: 335
+  speed:
+    stw: 0
+    sog: 0.4
+  log: 3131.8
   barometer: 1019.97
   wind:
-    speed: 0
+    speed: 1.4
     direction: 126
   engine:
     hours: 654
@@ -69,5 +97,3 @@
   crewNames:
     - bergie
     - ihmis-suski
-  end: true
-  category: navigation
