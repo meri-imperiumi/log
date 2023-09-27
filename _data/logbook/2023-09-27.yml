@@ -1,0 +1,73 @@
+- datetime: 2023-09-27T07:43:05.699Z
+  text: Sailing with Main, Genoa 1
+  author: ""
+  position:
+    longitude: 13.2003873
+    latitude: 52.4985983
+    source: GPS
+  heading: 98
+  course: 7
+  speed:
+    stw: 0
+    sog: 0
+  log: 3131.7
+  barometer: 1020.11
+  wind:
+    speed: 0.5
+    direction: 301
+  engine:
+    hours: 654
+  vhf: "10"
+  crewNames:
+    - bergie
+    - ihmis-suski
+  category: navigation
+- datetime: 2023-09-27T08:00:12.700Z
+  text: ""
+  author: ""
+  position:
+    longitude: 13.19892217318217
+    latitude: 52.49937683741252
+    source: GPS
+  heading: 297
+  course: 283
+  speed:
+    stw: 0
+    sog: 0
+  log: 3131.7
+  barometer: 1019.97
+  wind:
+    speed: 0.5
+    direction: 341
+  engine:
+    hours: 654
+  vhf: "10"
+  crewNames:
+    - bergie
+    - ihmis-suski
+  category: navigation
+- datetime: 2023-09-27T08:07:11.699Z
+  text: Stopped
+  author: ""
+  position:
+    longitude: 13.1979671
+    latitude: 52.4995236
+    source: GPS
+  heading: 307
+  course: 290
+  speed:
+    stw: 0
+    sog: 0
+  log: 3131.7
+  barometer: 1019.97
+  wind:
+    speed: 0
+    direction: 126
+  engine:
+    hours: 654
+  vhf: "10"
+  crewNames:
+    - bergie
+    - ihmis-suski
+  end: true
+  category: navigation
