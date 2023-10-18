@@ -56,9 +56,17 @@
         <a href="{{ site.baseurl }}/"><img src="{{ site.baseurl }}/style/favicon.png" alt="Meri-Imperiumi" /></a>
         <div>
           <ul id="menu">
-            {% for year in site.years %}
+            {% assign years = site.years | reverse %}
+            {% if years.size > 3 %}
+            {% for year in years limit: 2 %}
             <li><a href="{{ site.baseurl }}{{ year.url }}">{{ year.year }}</a></li>
             {% endfor %}
+            <li><a href="{{ site.baseurl }}/journeys/">more</a></li>
+            {% else %}
+            {% for year in years %}
+            <li><a href="{{ site.baseurl }}{{ year.url }}">{{ year.year }}</a></li>
+            {% endfor %}
+            {% endif %}
             <li><a href="{{ site.baseurl }}/boat/">Boat</a></li>
             <li><a href="{{ site.baseurl }}/crew/">Crew</a></li>
           </ul>
