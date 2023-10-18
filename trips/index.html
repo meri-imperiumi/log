@@ -1,0 +1,19 @@
+---
+layout: default
+title: Trips
+---
+<h1>{{ page.title }}</h1>
+<ul class="logs">
+{% for year in site.years %}
+  <li id="{{ year.year }}">
+    <article>
+      <h1><a href="{{ site.baseurl }}{{ year.url }}">{{ year.title }}</a></h1>
+      {{ year.content | replace: 'img src="..', 'img src="https://meri-imperiumi.github.io/log'| replace: 'https://meri-imperiumi.github.io/log',site.baseurl | replace: "Lille Ø", "<i>Lille Ø</i>" }}
+      <p class="meta"><a href="{{ site.baseurl }}{{ year.url }}">Read more &raquo;</a></p>
+      {% if forloop.last == false %}
+        <hr>
+      {% endif %}
+    </article>
+  </li>
+{% endfor %}
+</ul>
