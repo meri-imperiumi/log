@@ -77,9 +77,17 @@
               <ul>
                 <li><h3 class="meta">Journeys</h3>
                   <ul>
-                    {% for year in site.years %}
+                    {% assign years = site.years | reverse %}
+                    {% if years.size > 4 %}
+                    {% for year in years limit: 3 %}
                     <li><a href="{{ site.baseurl }}{{ year.url }}">{{ year.year }}</a></li>
                     {% endfor %}
+                    <li><a href="{{ site.baseurl }}/journeys/">more</a></li>
+                    {% else %}
+                    {% for year in years %}
+                    <li><a href="{{ site.baseurl }}{{ year.url }}">{{ year.year }}</a></li>
+                    {% endfor %}
+                    {% endif %}
                   </ul>
                 </li>
                 <li><h3 class="meta">About</h3>
