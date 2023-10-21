@@ -1,0 +1,115 @@
+- datetime: 2023-10-21T09:13:59.398Z
+  text: Started main engine
+  author: ""
+  position:
+    longitude: 13.1960814
+    latitude: 52.4704423
+    source: GPS
+  heading: 98
+  course: 26
+  speed:
+    stw: 0
+    sog: 0
+  log: 3146.7
+  barometer: 993.82
+  wind:
+    speed: 1.4
+    direction: 193
+  engine:
+    hours: 654.9
+  crewNames:
+    - bergie
+    - ihmis-suski
+  category: navigation
+- datetime: 2023-10-21T09:14:56.400Z
+  text: Anchor up, motoring
+  author: ""
+  position:
+    longitude: 13.1960803
+    latitude: 52.4704381
+    source: GPS
+  heading: 98
+  course: 26
+  speed:
+    stw: 0
+    sog: 0
+  log: 3146.7
+  barometer: 993.84
+  wind:
+    speed: 0
+    direction: 234
+  engine:
+    hours: 654.9
+  crewNames:
+    - bergie
+    - ihmis-suski
+  category: navigation
+- datetime: 2023-10-21T09:29:49.401Z
+  text: Motor stopped, sailing with Genoa 1
+  author: ""
+  position:
+    longitude: 13.1873821
+    latitude: 52.4802191
+    source: GPS
+  heading: 7
+  course: 8
+  speed:
+    stw: 2
+    sog: 2.1
+  log: 3147.4
+  barometer: 993.98
+  wind:
+    speed: 4.5
+    direction: 134
+  engine:
+    hours: 655.1
+  crewNames:
+    - bergie
+    - ihmis-suski
+  category: navigation
+- datetime: 2023-10-21T10:00:20.400Z
+  text: ""
+  author: ""
+  position:
+    longitude: 13.1917131
+    latitude: 52.501804
+    source: GPS
+  heading: 7
+  course: 4
+  speed:
+    stw: 2.9
+    sog: 2.9
+  log: 3148.7
+  barometer: 994.13
+  wind:
+    speed: 9.1
+    direction: 137
+  engine:
+    hours: 655.1
+  crewNames:
+    - bergie
+    - ihmis-suski
+  category: navigation
+- datetime: 2023-10-21T10:09:51.398Z
+  text: Sails down, motoring
+  author: ""
+  position:
+    longitude: 13.1923685
+    latitude: 52.5074611
+    source: GPS
+  heading: 359
+  course: 356
+  speed:
+    stw: 1.9
+    sog: 1.9
+  log: 3149.1
+  barometer: 994.18
+  wind:
+    speed: 5.6
+    direction: 165
+  engine:
+    hours: 655.1
+  crewNames:
+    - bergie
+    - ihmis-suski
+  category: navigation
