@@ -1,0 +1,54 @@
+<section class="track">
+  {% assign track_name = page.path | replace: '_logs/', '' | replace: '.md', '.json' %}
+  {% assign map_longitude = site.data.position.longitude %}
+  {% if latest_longitude %}
+    {% assign map_longitude = latest_longitude %}
+  {% endif %}
+  {% assign map_latitude = site.data.position.latitude %}
+  {% if latest_latitude %}
+    {% assign map_latitude = latest_latitude %}
+  {% endif %}
+  <div id="map"></div>
+  <link href="https://unpkg.com/maplibre-gl@2.1.7/dist/maplibre-gl.css" rel="stylesheet" />
+  <script defer src="https://unpkg.com/maplibre-gl@2.1.7/dist/maplibre-gl.js"></script>
+  <script>
+    window.addEventListener('DOMContentLoaded', function() {
+      const map = new maplibregl.Map({
+        container: 'map',
+        style: 'https://api.maptiler.com/maps/voyager/style.json?key=BgltQL3i6kfpoIy9GMqW',
+        center: [{{ map_longitude}}, {{ map_latitude }}],
+        zoom: 8,
+      });
+      fetch('/tracks/{{ track_name }}')
+        .then((data) => data.json())
+        .then((geoJson) => {
+          map.addSource('{{ track_name }}', {
+            type: 'geojson',
+            data: geoJson,
+          });
+          map.addLayer({
+            'id': '{{ track_name }}',
+            'type': 'line',
+            'source': '{{ track_name }}',
+            'layout': {
+              'line-join': 'round',
+              'line-cap': 'round'
+            },
+            'paint': {
+              'line-color': '#cf1d39',
+              'line-width': 5
+            }
+          });
+          const coordinates = geoJson.coordinates[0];
+          const bounds = coordinates.reduce((bounds, coord) => {
+            return bounds.extend(coord);
+          }, new maplibregl.LngLatBounds(coordinates[0], coordinates[1]));
+
+          map.fitBounds(bounds, {
+            padding: 20
+          });
+
+        });
+    });
+  </script>
+</section>
