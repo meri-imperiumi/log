@@ -54,6 +54,8 @@
       {% assign lon_min = lon_deg | minus: lon_deg_f | times: 60 %}
       {% assign lon_min_f = lon_min | floor %}
       {% assign lon_sec = lon_min | minus: lon_min_f | times: 60 | floor %}
+      {% assign latest_longitude = entry.position.longitude %}
+      {% assign latest_latitude = entry.position.latitude %}
       <td>
         <span>{{ lat_deg_f }}&deg;{{ lat_min_f }}'{{ lat_sec }}"{% if entry.position.latitude >= 0 %}N{% else %}S{% endif %}</span>
         <span>{{ lon_deg_f }}&deg;{{ lon_min_f }}'{{ lon_sec }}"{% if entry.position.longitude >= 0 %}E{% else %}W{% endif %}</span>
