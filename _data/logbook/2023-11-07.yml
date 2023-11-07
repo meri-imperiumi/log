@@ -1,0 +1,70 @@
+- datetime: 2023-11-07T09:16:56.700Z
+  text: Started main engine
+  author: ""
+  position:
+    longitude: 13.1851566
+    latitude: 52.4977086
+    source: GPS
+  heading: 165
+  course: 123
+  speed:
+    stw: 0
+    sog: 0
+  log: 3152.5
+  barometer: 1007.98
+  wind:
+    speed: 10.8
+    direction: 212
+  engine:
+    hours: 656.6
+  crewNames:
+    - bergie
+    - ihmis-suski
+  category: navigation
+- datetime: 2023-11-07T09:17:42.700Z
+  text: Anchor up, motoring. Rudder feeling stiffer than normal
+  author: bergie
+  position:
+    longitude: 13.1851698
+    latitude: 52.4976596
+    source: GPS
+  heading: 202
+  course: 219
+  speed:
+    stw: 0
+    sog: 0.6
+  log: 3152.5
+  barometer: 1007.98
+  wind:
+    speed: 8.2
+    direction: 187
+  engine:
+    hours: 656.6
+  crewNames:
+    - bergie
+    - ihmis-suski
+  category: navigation
+- datetime: 2023-11-07T09:40:37.699Z
+  text: Stopped
+  author: ""
+  position:
+    longitude: 13.1937145
+    latitude: 52.5110153
+    source: GPS
+  heading: 18
+  course: 171
+  speed:
+    stw: 0
+    sog: 0
+  log: 3153.4
+  barometer: 1008.18
+  wind:
+    speed: 9.3
+    direction: 226
+  engine:
+    hours: 657
+  crewNames:
+    - bergie
+    - ihmis-suski
+  end: true
+  category: navigation
