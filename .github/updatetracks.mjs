@@ -51,7 +51,7 @@ function ensureTrack(entry, tracks) {
   }
   const timespan = parseInt((entry.to - entry.from) / 1000 / 60);
   const offset = parseInt((new Date() - entry.to) / 1000 / 60);
-  const url = `http://192.168.1.105/signalk/v1/api/self/track?timespan=${timespan}m&resolution=5m&timespanOffset=${offset}`;
+  const url = `http://192.168.1.105/signalk/v1/api/self/track?timespan=${timespan}m&resolution=3m&timespanOffset=${offset}`;
   return fetch(url)
     .then((r) => r.json())
     .then((geoJson) => {
