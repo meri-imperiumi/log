@@ -8,10 +8,6 @@ layout: default
   {{ content | replace: "Lille Ø", "<i>Lille Ø</i>" }}
 </article>
 
-{% if page.content contains "Distance today" %}
-  {% include logbook.html %}
-{% endif %}
-
 <hr>
 
 {% if page.content contains "Distance today" %}
@@ -19,3 +15,12 @@ layout: default
 {% endif %}
 
 {% include nextprev.html %}
+
+{% if page.content contains "Distance today" %}
+  {% include logbook.html %}
+  {% if log_entries %}
+    {% if log_entries.size > 0 %}
+  {% include nextprev.html %}
+    {% endif %}
+  {% endif %}
+{% endif %}
