@@ -1,13 +1,15 @@
+{% include read_log_entries.html %}
+{% assign map_longitude = site.data.position.longitude %}
+{% assign map_latitude = site.data.position.latitude %}
+{% if log_entries %}
+  {% if log_entries.size > 0 %}
+    {% assign log_entry = log_entries | first %}
+    {% assign map_longitude = log_entry.position.longitude %}
+    {% assign map_latitude = log_entry.position.latitude %}
+  {% endif %}
+{% endif %}
 <section class="track">
   {% assign track_name = page.path | replace: '_logs/', '' | replace: '.md', '.json' %}
-  {% assign map_longitude = site.data.position.longitude %}
-  {% if latest_longitude %}
-    {% assign map_longitude = latest_longitude %}
-  {% endif %}
-  {% assign map_latitude = site.data.position.latitude %}
-  {% if latest_latitude %}
-    {% assign map_latitude = latest_latitude %}
-  {% endif %}
   <div id="map"></div>
   <link href="https://unpkg.com/maplibre-gl@2.1.7/dist/maplibre-gl.css" rel="stylesheet" />
   <script defer src="https://unpkg.com/maplibre-gl@2.1.7/dist/maplibre-gl.js"></script>

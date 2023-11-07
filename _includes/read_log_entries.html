@@ -1,0 +1,29 @@
+{% assign first_day = "2021-08-30" %}
+{% if page.collection %}
+    {% assign links = site[page.collection]  %}
+{% endif %}
+
+{% for link in links %}
+  {% if link.created == page.created %}
+    {% unless forloop.first %}
+      {% assign prev = tmpprev %}
+    {% endunless %}
+    {% unless forloop.last %}
+      {% assign next = links[forloop.index] %}
+    {% endunless %}
+  {% endif %}
+  {% assign tmpprev = link %}
+{% endfor %}
+{% assign this_day = page.created | date: "%Y-%m-%d" %}
+{% assign previous_day = prev.created | date: "%Y-%m-%d" %}
+{% assign next_day = page.created | date: "%s" | plus: 86400 | date: "%Y-%m-%d" %}
+{% if previous_day >= first_day %}
+  {% assign log_entries = "" | split: "," %}
+  {% for day in site.data.logbook %}
+    {% if day[0] > previous_day %}
+      {% if day[0] <= this_day %}
+        {% assign log_entries = log_entries | concat: day[1] %}
+      {% endif %}
+    {% endif %}
+  {% endfor %}
+{% endif %}
