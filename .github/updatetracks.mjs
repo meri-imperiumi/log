@@ -14,6 +14,7 @@ function getLogMeta(name, previous) {
     .then((content) => {
       const entry = {
         filename: name,
+        trackname: name.replace('.md', '.json'),
         from: previous.to,
         to: new Date(basename(name, extname(name))),
         trip: false,
@@ -39,7 +40,7 @@ function getLogMeta(name, previous) {
 }
 
 function ensureTrack(entry, tracks) {
-  const trackName = `${entry.to.toISOString().substr(0, 10)}.json`;
+  const trackName = entry.trackname;
   if (tracks.indexOf(trackName) !== -1) {
     // We already have a track for this one
     return Promise.resolve();
