@@ -289,7 +289,10 @@ main .blocker {
 main .blocker p {
   grid-column: 2;
 }
-main .timelapse iframe {
+main .track {
+  grid-column: 1 / 4;
+}
+main .track #map {
   width: 100%;
   display: block;
   margin-left: auto;
