@@ -31,6 +31,9 @@ function getLogMeta(name, previous) {
         if (metadata && metadata.title) {
           entry.title = metadata.title;
         }
+        if (entry.title.indexOf('Intermission') !== -1) {
+          entry.trip = true;
+        }
         if (body.indexOf('Distance today') !== -1) {
           entry.trip = true;
         }
@@ -50,19 +53,35 @@ function produceTrack(entry, tracks, timelapseData) {
   if (!entry.trip) {
     return Promise.resolve();
   }
-  const points = timelapseData.gpx.trk[0].trkseg[0].trkpt.filter((point) => {
-    const pointTime = new Date(point.time[0]);
-    if (pointTime >= entry.from && pointTime <= entry.to) {
-      return true;
+  const points = [];
+  let pointTime;
+  timelapseData.gpx.trk.forEach((trk) => {
+    if (!trk.trkseg) {
+      return;
     }
-    return false;
-  })
-    .map((point) => {
-      return [
-        parseFloat(point['$'].lon),
-        parseFloat(point['$'].lat),
-      ];
+    if (trk['gv_time']) {
+      pointTime = new Date(trk['gv_time'][0] * 1000);
+    }
+    trk.trkseg.forEach((trkseg) => {
+      if (!trkseg.trkpt) {
+        return;
+      }
+      trkseg.trkpt.forEach((point) => {
+        if (point.time) {
+          pointTime = new Date(point.time[0]);
+        }
+        if (!pointTime) {
+          return;
+        }
+        if (pointTime >= entry.from && pointTime <= entry.to) {
+          points.push([
+            parseFloat(point['$'].lon),
+            parseFloat(point['$'].lat),
+          ]);
+        }
+      });
     });
+  });
   if (!points.length) {
     return Promise.resolve();
   }
