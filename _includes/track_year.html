@@ -12,6 +12,7 @@
         style: 'https://api.maptiler.com/maps/voyager/style.json?key=BgltQL3i6kfpoIy9GMqW',
         center: [{{ map_longitude}}, {{ map_latitude }}],
         zoom: 6,
+        scrollZoom: false,
       });
       map{{ current_year }}.on('load', () => {
         fetch('/tracks/{{ track_name }}')
