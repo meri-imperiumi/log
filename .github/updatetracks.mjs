@@ -136,44 +136,52 @@ readdir(logDir)
               trackname: 'current.json',
             }, tracks);
           });
-      });
-  })
-  .then(() => {
-    // We read the tracks again to produce yearly tracks
-    return readdir(trackDir)
-      .then((tracks) => {
-        return tracks.reduce((prev, current) => {
-          return prev.then((years) => {
-            const match = current.match(/^(\d{4})-0?(\d+)-0?(\d+)/);
-            if (!match) {
-              // Not a blog entry record
-              return Promise.resolve(years);
-            }
-            const year = match[1];
-            if (!years[year]) {
-              years[year] = [];
-            }
-            return readFile(resolve(trackDir, current), 'utf-8')
-              .then((data) => JSON.parse(data))
-              .then((geoJSON) => {
-                // TODO: Separate intermissions?
-                years[year] = years[year].concat(geoJSON.coordinates[0]);
-                return years;
+      })
+      .then(() => {
+        // We read the tracks again to produce yearly tracks
+        return readdir(trackDir)
+          .then((tracks) => {
+            return tracks.reduce((prev, current) => {
+              return prev.then((years) => {
+                const match = current.match(/^(\d{4})-0?(\d+)-0?(\d+)/);
+                if (!match) {
+                  // Not a blog entry record
+                  return Promise.resolve(years);
+                }
+                const entry = entries.find((e) => e.trackname === current);
+                if (!entry) {
+                  // Not a blog entry record
+                  return Promise.resolve(years);
+                }
+                if (entry.intermission) {
+                  return Promise.resolve(years);
+                }
+                const year = match[1];
+                if (!years[year]) {
+                  years[year] = [];
+                }
+                return readFile(resolve(trackDir, current), 'utf-8')
+                  .then((data) => JSON.parse(data))
+                  .then((geoJSON) => {
+                    // TODO: Separate intermissions?
+                    years[year] = years[year].concat(geoJSON.coordinates[0]);
+                    return years;
+                  });
               });
-          });
-        }, Promise.resolve({}))
-          .then((years) => {
-            return Object.keys(years).reduce((prev, current) => {
-              return prev.then(() => {
-                const geoJson = {
-                  type: 'MultiLineString',
-                  coordinates: [
-                    years[current],
-                  ],
-                };
-                return writeFile(resolve(trackDir, `${current}.json`), JSON.stringify(geoJson, null, 2));
+            }, Promise.resolve({}))
+              .then((years) => {
+                return Object.keys(years).reduce((prev, current) => {
+                  return prev.then(() => {
+                    const geoJson = {
+                      type: 'MultiLineString',
+                      coordinates: [
+                        years[current],
+                      ],
+                    };
+                    return writeFile(resolve(trackDir, `${current}.json`), JSON.stringify(geoJson, null, 2));
+                  });
+                }, Promise.resolve());
               });
-            }, Promise.resolve());
           });
       });
   });
