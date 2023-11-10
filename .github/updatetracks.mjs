@@ -2,6 +2,7 @@ import { readFile, writeFile, readdir } from 'fs/promises';
 import { resolve, dirname, basename, extname } from 'path';
 import { fileURLToPath } from 'url';
 import { parse } from 'yaml';
+import { Point } from 'where';
 // import fetch from 'node-fetch';
 
 const __dirname = dirname(fileURLToPath(import.meta.url));
@@ -32,8 +33,9 @@ function getLogMeta(name, previous) {
         if (body.indexOf('Distance today') !== -1) {
           entry.trip = true;
         }
+        // Note: here we don't look for "intermission" posts since they're not in SK history
       } else {
-        console.log('NO METADATA');
+        console.log('NO METADATA', name);
       }
       return entry;
     });
@@ -54,6 +56,33 @@ function ensureTrack(entry, tracks) {
   const url = `http://192.168.1.105/signalk/v1/api/self/track?timespan=${timespan}m&resolution=3m&timespanOffset=${offset}`;
   return fetch(url)
     .then((r) => r.json())
+    .then((geoJson) => {
+      // Clean up the track to remove 'anchor sway' etc
+      if (!geoJson.coordinates || !geoJson.coordinates[0]) {
+        return geoJson;
+      }
+      const newData = {...geoJson};
+      let prevPoint = null;
+      newData.coordinates[0] = geoJson.coordinates[0].filter((coord) => {
+        const point = new Point(coord[1], coord[0]);
+        if (!prevPoint) {
+          prevPoint = point;
+          return true;
+        }
+        const distance = prevPoint.distanceTo(point);
+        if (distance < 0.003) {
+          // console.log('SHORT', distance, prevPoint, point);
+          return false;
+        }
+        if (distance > 200) {
+          // console.log('LONG', distance, prevPoint, point);
+          return false;
+        }
+        prevPoint = point;
+        return true;
+      });
+      return newData;
+    })
     .then((geoJson) => {
       return writeFile(resolve(trackDir, trackName), JSON.stringify(geoJson, null, 2));
     });
