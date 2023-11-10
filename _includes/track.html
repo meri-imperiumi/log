@@ -26,6 +26,7 @@
         fetch('/tracks/{{ track_name }}')
           .then((data) => data.json())
           .then((geoJson) => {
+            map.touchZoomRotate.disableRotation();
             map.addSource('{{ track_name }}', {
               type: 'geojson',
               data: geoJson,
