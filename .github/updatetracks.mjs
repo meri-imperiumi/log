@@ -19,6 +19,7 @@ function getLogMeta(name, previous) {
         from: previous.to,
         to: new Date(basename(name, extname(name))),
         trip: false,
+        intermission: false,
       };
       entry.title = entry.to.toLocaleDateString();
       if (content.indexOf('---') === 0) {
@@ -30,10 +31,12 @@ function getLogMeta(name, previous) {
         if (metadata && metadata.title) {
           entry.title = metadata.title;
         }
+        if (entry.title.indexOf('Intermission') !== -1) {
+          entry.intermission = true;
+        }
         if (body.indexOf('Distance today') !== -1) {
           entry.trip = true;
         }
-        // Note: here we don't look for "intermission" posts since they're not in SK history
       } else {
         console.log('NO METADATA', name);
       }
@@ -49,6 +52,14 @@ function ensureTrack(entry, tracks) {
   }
   if (entry.to < startOfHistory) {
     // We don't have a Signal K track reaching this far back
+    return Promise.resolve();
+  }
+  if (!entry.trip) {
+    // This entry isn't for a trip
+    return Promise.resolve();
+  }
+  if (entry.intermission) {
+    // Here we don't look for "intermission" posts since they're not in SK history
     return Promise.resolve();
   }
   const timespan = parseInt((entry.to - entry.from) / 1000 / 60);
@@ -119,11 +130,50 @@ readdir(logDir)
         }, Promise.resolve())
           .then(() => {
             // Produce also a "current" for tracks since latest blog post
-            ensureTrack({
+            return ensureTrack({
               from: entries[entries.length - 1].to,
               to: new Date(),
               trackname: 'current.json',
             }, tracks);
+          });
+      });
+  })
+  .then(() => {
+    // We read the tracks again to produce yearly tracks
+    return readdir(trackDir)
+      .then((tracks) => {
+        return tracks.reduce((prev, current) => {
+          return prev.then((years) => {
+            const match = current.match(/^(\d{4})-0?(\d+)-0?(\d+)/);
+            if (!match) {
+              // Not a blog entry record
+              return Promise.resolve(years);
+            }
+            const year = match[1];
+            if (!years[year]) {
+              years[year] = [];
+            }
+            return readFile(resolve(trackDir, current), 'utf-8')
+              .then((data) => JSON.parse(data))
+              .then((geoJSON) => {
+                // TODO: Separate intermissions?
+                years[year] = years[year].concat(geoJSON.coordinates[0]);
+                return years;
+              });
+          });
+        }, Promise.resolve({}))
+          .then((years) => {
+            return Object.keys(years).reduce((prev, current) => {
+              return prev.then(() => {
+                const geoJson = {
+                  type: 'MultiLineString',
+                  coordinates: [
+                    years[current],
+                  ],
+                };
+                return writeFile(resolve(trackDir, `${current}.json`), JSON.stringify(geoJson, null, 2));
+              });
+            }, Promise.resolve());
           });
       });
   });
