@@ -29,7 +29,7 @@ readdir(trackDir)
                 return true;
               }
               const distance = prevPoint.distanceTo(point);
-              if (distance < 0.003) {
+              if (distance < 0.004) {
                 // console.log('SHORT', distance, prevPoint, point);
                 return false;
               }
