@@ -87,6 +87,14 @@ readdir(logDir)
           return prev.then(() => {
             return ensureTrack(current, tracks);
           });
-        }, Promise.resolve());
+        }, Promise.resolve())
+          .then(() => {
+            // Produce also a "current" for tracks since latest blog post
+            ensureTrack({
+              from: entries[entries.length - 1].to,
+              to: new Date(),
+              trackname: 'current.json',
+            }, tracks);
+          });
       });
   });
