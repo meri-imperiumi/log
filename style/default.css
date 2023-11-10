@@ -292,7 +292,7 @@ main .blocker p {
 main .track {
   grid-column: 1 / 4;
 }
-main .track #map {
+main .track .map {
   width: 100%;
   display: block;
   margin-left: auto;
@@ -375,11 +375,12 @@ main aside {
   border-radius: 1em;
   font-family: NotesESA, -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Oxygen-Sans, Ubuntu, Cantarell, "Helvetica Neue", Helvetica, Arial, sans-serif;
 }
-aside.image {
+aside.image, aside.map {
   padding: 0px;
   border-radius: 0px;
   background-color: transparent;
   width: 24em;
+  margin-top: 0px;
 }
 aside h2 {
   margin-top: 0;
