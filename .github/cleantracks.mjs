@@ -33,7 +33,7 @@ readdir(trackDir)
                 // console.log('SHORT', distance, prevPoint, point);
                 return false;
               }
-              if (distance > 20) {
+              if (distance > 200) {
                 // console.log('LONG', distance, prevPoint, point);
                 return false;
               }
