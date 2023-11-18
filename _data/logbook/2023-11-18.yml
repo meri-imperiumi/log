@@ -20,3 +20,67 @@
   crewNames:
     - ihmis-suski
   category: navigation
+- datetime: 2023-11-18T13:05:06.800Z
+  text: Motoring
+  author: ""
+  position:
+    longitude: 13.1933184
+    latitude: 52.5098008
+    source: GPS
+  heading: 178
+  course: 181
+  speed:
+    stw: 4.6
+    sog: 4.8
+  log: 3164.3
+  barometer: 1022.45
+  wind:
+    speed: 1.9
+    direction: 164
+  engine:
+    hours: 659
+  crewNames:
+    - ihmis-suski
+  category: navigation
+- datetime: 2023-11-18T13:36:45.100Z
+  text: "Sails set: Main, Genoa 1"
+  author: ""
+  position:
+    longitude: 13.186468998591105
+    latitude: 52.47412598927816
+    source: GPS
+  heading: 190
+  course: 201
+  speed:
+    stw: 1.9
+    sog: 2.1
+  log: 3166.4
+  wind:
+    speed: 5.2
+    direction: 153
+  engine:
+    hours: 659.5
+  crewNames:
+    - ihmis-suski
+  category: navigation
+- datetime: 2023-11-18T14:00:41.100Z
+  text: ""
+  author: ""
+  position:
+    longitude: 13.1825825
+    latitude: 52.4647113
+    source: GPS
+  heading: 199
+  course: 210
+  speed:
+    stw: 1.4
+    sog: 1.6
+  log: 3167.1
+  barometer: 1022.08
+  wind:
+    speed: 2.6
+    direction: 141
+  engine:
+    hours: 659.5
+  crewNames:
+    - ihmis-suski
