@@ -1,0 +1,87 @@
+- datetime: 2023-11-19T12:14:15.900Z
+  text: Started main engine
+  author: ""
+  position:
+    longitude: 13.1634776
+    latitude: 52.4260293
+    source: GPS
+  heading: 55
+  course: 218
+  speed:
+    stw: 0
+    sog: 0
+  log: 3170
+  barometer: 1003.35
+  wind:
+    speed: 8.3
+    direction: 254
+  engine:
+    hours: 660
+  crewNames:
+    - ihmis-suski
+  category: navigation
+- datetime: 2023-11-19T12:20:46.899Z
+  text: Motoring
+  author: ""
+  position:
+    longitude: 13.167923831939698
+    latitude: 52.42775017420451
+    source: GPS
+  heading: 34
+  course: 31
+  speed:
+    stw: 4.7
+    sog: 4.8
+  log: 3170
+  barometer: 1003.37
+  wind:
+    speed: 12.3
+    direction: 255
+  engine:
+    hours: 660.1
+  crewNames:
+    - ihmis-suski
+  category: navigation
+- datetime: 2023-11-19T12:28:47.900Z
+  text: Motor stopped, sailing with Main, Staysail
+  author: ""
+  position:
+    longitude: 13.1708941
+    latitude: 52.4337681
+    source: GPS
+  heading: 348
+  course: 351
+  speed:
+    stw: 5
+    sog: 5
+  log: 3170.5
+  barometer: 1003.44
+  wind:
+    speed: 11.4
+    direction: 285
+  engine:
+    hours: 660.2
+  crewNames:
+    - ihmis-suski
+  category: navigation
+- datetime: 2023-11-19T13:00:46.899Z
+  text: ""
+  author: ""
+  position:
+    longitude: 13.184327332178752
+    latitude: 52.465482489267984
+    source: GPS
+  heading: 27
+  course: 26
+  speed:
+    stw: 2.1
+    sog: 2.3
+  log: 3172.9
+  barometer: 1003.23
+  wind:
+    speed: 8.4
+    direction: 251
+  engine:
+    hours: 660.2
+  crewNames:
+    - ihmis-suski
