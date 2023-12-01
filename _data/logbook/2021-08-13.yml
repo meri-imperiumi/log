@@ -1,0 +1,17 @@
+- datetime: 2021-08-13T14:15:00.000Z
+  text: Leaving Gothia
+  category: navigation
+- datetime: 2021-08-13T14:50:00.000Z
+  text: Gas station, filled up 52.6l
+  category: navigation
+- datetime: 2021-08-13T16:20:00.000Z
+  text: Schleuse Spandau
+  category: navigation
+- datetime: 2021-08-13T17:40:00.000Z
+  text: Engine stopped after reducing revs. Did not start again. 186.6 in engine. Pumped with manual feed. Bleeded primary filter, secondary filter. Starter battery voltage at 12.7 after multiple start tries.
+  engine:
+    hours: 186.6
+  category: maintenance
+- datetime: 2021-08-13T19:00:00.000Z
+  text: BEER for fucks sake
+  category: maintenance
