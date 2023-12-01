@@ -17,6 +17,7 @@
     {% for entry in log_entries %}
     <tr>
       <td class="datetime">{{ entry.datetime | date: "%d.%m. %k:%M Z" }}</td>
+      {% if entry.position.latitude %}
       {% assign lat_deg = entry.position.latitude | abs %}
       {% assign lat_deg_f = lat_deg | floor %}
       {% assign lat_min = lat_deg | minus: lat_deg_f | times: 60 %}
@@ -31,15 +32,26 @@
         <span>{{ lat_deg_f }}&deg;{{ lat_min_f }}'{{ lat_sec }}"{% if entry.position.latitude >= 0 %}N{% else %}S{% endif %}</span>
         <span>{{ lon_deg_f }}&deg;{{ lon_min_f }}'{{ lon_sec }}"{% if entry.position.longitude >= 0 %}E{% else %}W{% endif %}</span>
       </td>
+      {% else %}
+      <td>n/a</td>
+      {% endif %}
       <td>
         {% if entry.course %}
         {{ entry.course }}&deg;
-        {% else %}
+        {% elsif entry.heading %}
         {{ entry.heading }}&deg;
         {% endif %}
       </td>
-      <td>{{ entry.speed.sog }}kt</td>
-      <td>{{ entry.log }}NM</td>
+      <td>
+        {% if entry.speed %}
+        {{ entry.speed.sog }}kt
+        {% endif %}
+      </td>
+      <td>
+        {% if entry.log %}
+        {{ entry.log }}NM
+        {% endif %}
+      </td>
       <td>
         {% if entry.wind %}
         <span>wind {{ entry.wind.speed }}kt {{ entry.wind.direction }}&deg;</span>
