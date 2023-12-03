@@ -22,3 +22,50 @@
     - ihmis-suski
     - bergie
   category: navigation
+- datetime: 2023-12-03T11:12:14.700Z
+  text: Sailing with Main, Staysail
+  author: ""
+  position:
+    longitude: 13.1928113
+    latitude: 52.5094164
+    source: GPS
+  heading: 181
+  course: 184
+  speed:
+    stw: 1.7
+    sog: 1.7
+  log: 3202.1
+  barometer: 1019.31
+  wind:
+    speed: 4.7
+    direction: 269
+  engine:
+    hours: 665.3
+  vhf: "10"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: navigation
+- datetime: 2023-12-03T12:00:50.700Z
+  text: ""
+  author: ""
+  position:
+    longitude: 13.190137497584026
+    latitude: 52.48235518137614
+    source: GPS
+  heading: 5
+  course: 2
+  speed:
+    stw: 2.2
+    sog: 2.2
+  log: 3204.2
+  barometer: 1019.87
+  wind:
+    speed: 6.7
+    direction: 286
+  engine:
+    hours: 665.3
+  vhf: "10"
+  crewNames:
+    - ihmis-suski
+    - bergie
