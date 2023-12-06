@@ -54,7 +54,14 @@
       </td>
       <td>
         {% if entry.wind %}
-        <span>wind {{ entry.wind.speed }}kt {{ entry.wind.direction }}&deg;</span>
+        <span>wind
+          {% if entry.wind.speed %}
+          {{ entry.wind.speed }}kt
+          {% endif %}
+          {% if entry.wind.direction %}
+          {{ entry.wind.direction }}&deg;
+          {% endif %}
+        </span>
         {% endif %}
         {% if entry.observations %}
           {% if entry.observations.seaState %}
