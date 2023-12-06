@@ -3,9 +3,11 @@
 {% assign map_latitude = site.data.position.latitude %}
 {% if log_entries %}
   {% if log_entries.size > 0 %}
-    {% assign log_entry = log_entries | first %}
-    {% assign map_longitude = log_entry.position.longitude %}
-    {% assign map_latitude = log_entry.position.latitude %}
+    {% if log.entry.position.latitude %}
+      {% assign log_entry = log_entries | first %}
+      {% assign map_longitude = log_entry.position.longitude %}
+      {% assign map_latitude = log_entry.position.latitude %}
+    {% endif %}
   {% endif %}
 {% endif %}
 <section class="track">
