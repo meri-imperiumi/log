@@ -1,0 +1,61 @@
+- datetime: 2022-04-30T03:01:00.000Z
+  text: Past the shipping lane and sailing, Suski on duty
+  category: navigation
+  course: 319
+  wind:
+    speed: 9.5
+  observations:
+    cloudCoverage: 1
+    seaState: 1
+  barometer: 1027
+  position:
+    longitude: 15.198333
+    latitude: 55.73
+    source: GPS
+- datetime: 2022-04-30T06:18:00.000Z
+  text: Sails down, motor on
+  category: navigation
+  course: 356
+  wind:
+    speed: 4.7
+  observations:
+    cloudCoverage: 5
+    seaState: 1
+  barometer: 1026
+  position:
+    longitude: 15.138333
+    latitude: 55.876667
+    source: GPS
+- datetime: 2022-04-30T07:12:00.000Z
+  text: Motor our Parasailor up Suski to bed.
+  category: navigation
+  course: 10
+  wind:
+    speed: 3.1
+  observations:
+    cloudCoverage: 7
+    seaState: 1
+  barometer: 1026
+  position:
+    longitude: 15.106667
+    latitude: 55.94
+    source: GPS
+- datetime: 2022-04-30T10:07:00.000Z
+  text: Parasailor down, motor on and towards Tärnö
+  category: navigation
+  course: 334
+  wind:
+    speed: 4
+  observations:
+    cloudCoverage: 7
+    seaState: 1
+  barometer: 1026
+  position:
+    longitude: 15.063333
+    latitude: 56.045
+    source: GPS
+- datetime: 2022-04-30T11:23:00.000Z
+  text: Arrival to Tärnö, side tied since buoys are not here
+  category: navigation
+  engine:
+    hours: 344.6

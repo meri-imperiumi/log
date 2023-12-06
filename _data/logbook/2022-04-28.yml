@@ -1,0 +1,73 @@
+- datetime: 2022-04-28T17:04:00.000Z
+  text: Departure Swinoujscie Port Jachtowy under engine, 4.6kt
+  category: navigation
+  course: 30
+  wind:
+    speed: 1.9
+  speed:
+    sog: 4.6
+  observations:
+    cloudCoverage: 1
+    seaState: 2
+  barometer: 1029
+- datetime: 2022-04-28T18:04:00.000Z
+  text: Sails up, motorsailing at 5.2kt
+  category: navigation
+  course: 30
+  wind:
+    speed: 3.1
+  speed:
+    sog: 5.2
+  observations:
+    cloudCoverage: 1
+    seaState: 2
+  barometer: 1029
+  position:
+    longitude: 14.321667
+    latitude: 53.985
+    source: GPS
+- datetime: 2022-04-28T19:00:00.000Z
+  text: Watch change Bergie in Suski out 5.4kn
+  category: navigation
+  course: 30
+  wind:
+    speed: 4.7
+  speed:
+    sog: 5.4
+  observations:
+    cloudCoverage: 1
+    seaState: 2
+  barometer: 1029
+  position:
+    longitude: 14.390278
+    latitude: 54.055
+    source: GPS
+- datetime: 2022-04-28T19:10:00.000Z
+  text: Motor out. Navi lights on. Suski brushed her teeth
+  category: navigation
+  course: 30
+  wind:
+    speed: 5
+  observations:
+    cloudCoverage: 1
+    seaState: 2
+  barometer: 1029
+  position:
+    longitude: 14.405
+    latitude: 54.068333
+    source: GPS
+- datetime: 2022-04-28T22:56:00.000Z
+  text: Suski on duty, Bergie to bed. 2.9kt
+  category: navigation
+  course: 31
+  wind:
+    speed: 8.5
+  speed:
+    sog: 2.9
+  observations:
+    seaState: 2
+  barometer: 1030
+  position:
+    longitude: 14.495
+    latitude: 54.171667
+    source: GPS

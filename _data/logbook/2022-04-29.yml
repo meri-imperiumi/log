@@ -1,0 +1,158 @@
+- datetime: 2022-04-29T03:04:00.000Z
+  text: Bergie to duty Suski to bed. Starting from 3:30 not so dark!
+  category: navigation
+  course: 25
+  wind:
+    speed: 9.1
+  observations:
+    cloudCoverage: 1
+    seaState: 2
+  barometer: 1029
+  position:
+    longitude: 14.780556
+    latitude: 54.445
+    source: GPS
+- datetime: 2022-04-29T06:58:00.000Z
+  text: Land ahoy! Suski on watch
+  category: navigation
+  course: 25
+  wind:
+    speed: 7.4
+  observations:
+    cloudCoverage: 1
+    seaState: 1
+  barometer: 1029
+  position:
+    longitude: 15.028333
+    latitude: 54.693333
+    source: GPS
+- datetime: 2022-04-29T10:09:00.000Z
+  text: Getting absolutely nowhere. Going to find wind.
+  category: navigation
+  course: 25
+  wind:
+    speed: 3.9
+  observations:
+    cloudCoverage: 1
+    seaState: 1
+  barometer: 1030
+  position:
+    longitude: 15.091667
+    latitude: 54.797778
+    source: GPS
+- datetime: 2022-04-29T11:00:00.000Z
+  text: Bergie in Suski out. Parasailor lines prepped
+  category: navigation
+  course: 19
+  wind:
+    speed: 1.7
+  observations:
+    cloudCoverage: 1
+    seaState: 1
+  barometer: 1030
+  position:
+    longitude: 15.185
+    latitude: 54.858333
+    source: GPS
+- datetime: 2022-04-29T12:39:00.000Z
+  text: Motor out
+  category: navigation
+  position:
+    longitude: 15.235
+    latitude: 54.988889
+    source: GPS
+- datetime: 2022-04-29T13:00:00.000Z
+  text: Parasailor up, main sail down. 3kt
+  category: navigation
+  course: 30
+  speed:
+    sog: 3
+  wind:
+    speed: 6
+- datetime: 2022-04-29T14:55:00.000Z
+  text: Suski on duty, Parasailoring downwind at 3kt
+  category: navigation
+  course: 26
+  speed:
+    sog: 3
+  wind:
+    speed: 7.1
+  observations:
+    cloudCoverage: 2
+    seaState: 2
+  barometer: 1029
+  position:
+    longitude: 15.301667
+    latitude: 55.076389
+    source: GPS
+- datetime: 2022-04-29T16:13:00.000Z
+  text: Heard Mayday relay in Danish, coordinates sound like west of Bornholm IMMER
+  category: radio
+  vhf: "16"
+  wind:
+    speed: 6.1
+  position:
+    longitude: 15.351667
+    latitude: 55.131667
+    source: GPS
+- datetime: 2022-04-29T17:05:00.000Z
+  text: Suski out Bergie in.
+  category: navigation
+  course: 358
+  wind:
+    speed: 7.6
+  observations:
+    cloudCoverage: 2
+    seaState: 2
+  barometer: 1028
+  position:
+    longitude: 15.373333
+    latitude: 55.176111
+    source: GPS
+- datetime: 2022-04-29T18:58:00.000Z
+  text: Suski in, Bergie to bed. Smooth ride on Parasailor, 4.5kt
+  category: navigation
+  course: 6
+  wind:
+    speed: 11.3
+  observations:
+    cloudCoverage: 1
+    seaState: 2
+  speed:
+    sog: 4.5
+  barometer: 1028
+  position:
+    longitude: 15.37
+    latitude: 55.291667
+    source: GPS
+- datetime: 2022-04-29T21:04:00.000Z
+  text: Parasailor down, white sails up 2kt
+  category: navigation
+  wind:
+    speed: 6.8
+  speed:
+    sog: 2
+  barometer: 1028
+  position:
+    longitude: 15.418333
+    latitude: 55.395
+    source: GPS
+- datetime: 2022-04-29T22:40:00.000Z
+  text: Motor on
+  category: navigation
+  wind:
+    speed: 4
+- datetime: 2022-04-29T23:00:00.000Z
+  text: Suski to bed Bergie on frogger duty!
+  category: navigation
+  course: 340
+  wind:
+    speed: 6.8
+  observations:
+    cloudCoverage: 1
+    seaState: 1
+  barometer: 1028
+  position:
+    longitude: 15.405
+    latitude: 55.465
+    source: GPS
