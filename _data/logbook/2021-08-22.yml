@@ -1,0 +1,34 @@
+- datetime: 2021-08-22T07:35:00.000Z
+  text: Leaving harbour
+  category: navigation
+- datetime: 2021-08-22T08:10:00.000Z
+  text: Sails up - WE ARE A SAILBOAT!
+  category: navigation
+- datetime: 2021-08-22T09:53:00.000Z
+  text: Passed yellow ODAS buoys
+  category: navigation
+  course: 325
+- datetime: 2021-08-22T12:20:00.000Z
+  text: Passed Greifswalder Oie, autopilot steering
+  category: navigation
+  course: 330
+- datetime: 2021-08-22T12:45:00.000Z
+  text: Received Mayday, answered by MRCC Bremen
+  category: radio
+  vhf: "16"
+- datetime: 2021-08-22T13:25:00.000Z
+  text: Setting course for Sassnitz
+  category: navigation
+  course: 315
+- datetime: 2021-08-22T13:55:00.000Z
+  text: Mayday solved by MRCC Bremen
+  category: radio
+  vhf: "16"
+- datetime: 2021-08-22T15:18:00.000Z
+  text: Sails down, roller coaster waves
+  category: navigation
+- datetime: 2021-08-22T15:40:00.000Z
+  text: Tied up in a box, 17kt inside harbour made challenging arrival
+  category: navigation
+  engine:
+    hours: 229.5

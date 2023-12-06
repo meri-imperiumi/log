@@ -1,0 +1,38 @@
+- datetime: 2021-08-23T09:14:00.000Z
+  text: Left the box
+  category: navigation
+- datetime: 2021-08-23T09:29:00.000Z
+  text: Filled up 40l at the fuel dock, Suckows left the boat
+  category: engine
+- datetime: 2021-08-23T09:41:00.000Z
+  text: Sails up and motor out
+  category: navigation
+  course: 100
+- datetime: 2021-08-23T10:50:00.000Z
+  text: Tack to north and autopilot on
+  category: navigation
+  course: 350
+- datetime: 2021-08-23T11:44:00.000Z
+  text: Autopilot low battery alarm triggered and self-closed
+  category: maintenance
+  course: 352
+- datetime: 2021-08-23T12:05:00.000Z
+  text: Alternator to starter battery cable was disconnected. Reconnect and ran motor 10min
+  category: maintenance
+  course: 334
+- datetime: 2021-08-23T15:00:00.000Z
+  text: Wind picking up to 15kt
+  category: navigation
+  course: 0
+- datetime: 2021-08-23T18:13:00.000Z
+  text: Land ahoy! First came Internet, then Suski sighted Sweden
+  category: navigation
+  course: 1
+- datetime: 2021-08-23T18:30:00.000Z
+  text: Significantly smaller waves, maybe 0.4m
+  category: navigation
+  course: 6
+- datetime: 2021-08-23T21:20:00.000Z
+  text: Autopilot unable to steer due to low speed, shook out reef
+  category: navigation
+  course: 106

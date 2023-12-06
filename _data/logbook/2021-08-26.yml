@@ -1,0 +1,28 @@
+- datetime: 2021-08-26T06:05:00.000Z
+  text: Left the harbour
+  category: navigation
+- datetime: 2021-08-26T06:15:00.000Z
+  text: Sails up
+  category: navigation
+  course: 30
+- datetime: 2021-08-26T07:38:00.000Z
+  text: Out of the shooting range
+  category: navigation
+  course: 35
+- datetime: 2021-08-26T09:22:00.000Z
+  text: Shook out reef, wind 9.7kt 330°
+  category: navigation
+  course: 8
+- datetime: 2021-08-26T10:35:00.000Z
+  text: Wind down to 4kt, motorsailing, pea soup ready
+  category: navigation
+  course: 27
+- datetime: 2021-08-26T12:37:00.000Z
+  text: Tied up at pier in Tarnö
+  category: navigation
+  course: 60
+  engine:
+    hours: 234.2
+- datetime: 2021-08-26T16:00:00.000Z
+  text: Emptied bilge, 15l of water. The bilge pump (manual) is shot. Used a beer can and a wooden foldable measuring stick
+  category: maintenance
