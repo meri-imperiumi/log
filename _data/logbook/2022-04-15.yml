@@ -1,0 +1,28 @@
+- datetime: 2022-04-15T05:54:00.000Z
+  text: Left Gothia with horn blasts
+  category: navigation
+- datetime: 2022-04-15T06:41:00.000Z
+  text: Arrived to Spandau Schleuse
+  category: navigation
+  position:
+    longitude: 13.211111
+    latitude: 52.538889
+    source: GPS
+- datetime: 2022-04-15T07:12:00.000Z
+  text: Out of Spandau locks
+  category: navigation
+- datetime: 2022-04-15T10:05:00.000Z
+  text: Schleuse Lehnitz
+  category: navigation
+- datetime: 2022-04-15T11:15:00.000Z
+  text: Back at Lehnitz locks, oil spill upstream means we're stuck
+  category: navigation
+- datetime: 2022-04-15T12:40:00.000Z
+  text: Anchored on Lehnitzsee
+  category: navigation
+  position:
+    longitude: 13.261111
+    latitude: 52.748611
+    source: GPS
+  engine:
+    hours: 308.7

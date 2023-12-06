@@ -1,0 +1,61 @@
+- datetime: 2022-04-24T07:12:00.000Z
+  text: Departure AZS, Suski steering
+  category: navigation
+  barometer: 1010
+- datetime: 2022-04-24T08:55:00.000Z
+  text: Joined main shipping lane from Dabie
+  category: navigation
+  course: 349
+  wind:
+    speed: 3.8
+  observations:
+    cloudCoverage: 2
+  position:
+    longitude: 14.633611
+    latitude: 53.5175
+    source: GPS
+- datetime: 2022-04-24T10:02:00.000Z
+  text: Nissinen on duty
+  category: navigation
+  course: 340
+  wind:
+    speed: 6.9
+  observations:
+    cloudCoverage: 3
+  position:
+    longitude: 14.583611
+    latitude: 53.600833
+    source: GPS
+- datetime: 2022-04-24T11:00:00.000Z
+  text: Watch change. Suski out Bergie in. Nissinen working hard
+  category: navigation
+  course: 320
+  wind:
+    speed: 12.7
+  observations:
+    cloudCoverage: 2
+    seaState: 3
+  barometer: 1008
+  position:
+    longitude: 14.509722
+    latitude: 53.683056
+    source: GPS
+- datetime: 2022-04-24T12:57:00.000Z
+  text: Nissinen off duty. Entering the channel in Usedom
+  category: navigation
+  course: 310
+  wind:
+    speed: 14
+  observations:
+    cloudCoverage: 4
+    seaState: 3
+  barometer: 1008
+  position:
+    longitude: 14.351667
+    latitude: 53.793333
+    source: GPS
+- datetime: 2022-04-24T15:12:00.000Z
+  text: 27 knots of head winds and waves means <2.5 speed! Speed through water 4.2. Harbour. Box 5.5. Side tied to pier with gusts up to 30 pushing from side. Proper hafenkino. Lille Ø didn't want to turn through wind so we could have driven a side tie. Harbour fees 78EUR (5 nights, 5kWh power, 4 showers) 
+  category: navigation
+  engine:
+    hours: 334.7
