@@ -1,0 +1,71 @@
+- datetime: 2021-09-03T10:10:00.000Z
+  text: Motor on, out of the harbour
+  category: navigation
+- datetime: 2021-09-03T10:20:00.000Z
+  text: Sails up motor off
+  category: navigation
+  course: 158
+  wind:
+    speed: 12
+  observations:
+    seaState: 2
+    cloudCoverage: 8
+- datetime: 2021-09-03T11:43:00.000Z
+  text: Passing east marker south of Nexø
+  category: navigation
+  course: 178
+  wind:
+    speed: 9
+  observations:
+    seaState: 3
+    cloudCoverage: 7
+- datetime: 2021-09-03T12:22:00.000Z
+  text: Wind shift to easterly, confused seas. Gybed
+  category: navigation
+  course: 140
+  wind:
+    speed: 7.7
+  observations:
+    seaState: 4
+    cloudCoverage: 5
+- datetime: 2021-09-03T12:30:00.000Z
+  text: Wind died, fock in, reef 1, motor on
+  category: navigation
+  wind:
+    speed: 1
+- datetime: 2021-09-03T12:45:00.000Z
+  text: Full wind shift, motor off and fock out
+  category: navigation
+  course: 186
+  wind:
+    speed: 15
+  observations:
+    seaState: 4
+    cloudCoverage: 4
+- datetime: 2021-09-03T15:05:00.000Z
+  text: Shift change Suski out Bergie in. Risotto. Rain ahead
+  category: navigation
+  course: 200
+  wind:
+    speed: 13
+  observations:
+    seaState: 4
+    cloudCoverage: 3
+- datetime: 2021-09-03T19:00:00.000Z
+  text: Suski on duty, Nissinen off (too slow). Polish courtesy flag up
+  category: navigation
+  course: 200
+  wind:
+    speed: 6
+  observations:
+    seaState: 4
+    cloudCoverage: 3
+- datetime: 2021-09-03T23:00:00.000Z
+  text: Shift change. Wind changed from 270 to 160 from 2000 to 0000
+  category: navigation
+  course: 208
+  wind:
+    speed: 6
+  observations:
+    seaState: 3
+    cloudCoverage: 0

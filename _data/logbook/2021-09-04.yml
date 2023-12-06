@@ -1,0 +1,32 @@
+- datetime: 2021-09-04T03:00:00.000Z
+  text: ""
+  category: navigation
+  course: 228
+  wind:
+    speed: 12
+  observations:
+    seaState: 3
+    cloudCoverage: 1
+- datetime: 2021-09-04T07:00:00.000Z
+  text: Shift change. Breakfast porridge with blueberry soup.
+  category: navigation
+  course: 150
+  wind:
+    speed: 7
+  observations:
+    seaState: 2
+    cloudCoverage: 7
+- datetime: 2021-09-04T08:16:00.000Z
+  text: Engine on, sails down
+  category: navigation
+  course: 196
+  wind:
+    speed: 4
+  observations:
+    seaState: 2
+    cloudCoverage: 8
+- datetime: 2021-09-04T11:20:00.000Z
+  text: Tied up in box 10.5
+  category: navigation
+  engine:
+    hours: 245.3

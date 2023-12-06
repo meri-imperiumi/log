@@ -1,0 +1,35 @@
+- datetime: 2021-09-05T08:50:00.000Z
+  text: Departure under engine
+  category: navigation
+- datetime: 2021-09-05T10:52:00.000Z
+  text: Sails up motor out Entered Szczecin lagoon
+  category: navigation
+  course: 135
+  wind:
+    speed: 11
+  observations:
+    seaState: 2
+    cloudCoverage: 1
+- datetime: 2021-09-05T12:15:00.000Z
+  text: Sails down, motor on
+  category: navigation
+  course: 123
+  wind:
+    speed: 10
+  observations:
+    seaState: 2
+    cloudCoverage: 2
+- datetime: 2021-09-05T16:05:00.000Z
+  text: Entering lake Dabie
+  category: navigation
+  course: 130
+  wind:
+    speed: 6
+  observations:
+    seaState: 1
+    cloudCoverage: 1
+- datetime: 2021-09-05T17:34:00.000Z
+  text: Pier. Had to change box as owner wanted in. Must check red/green
+  category: navigation
+  engine:
+    hours: 252.7

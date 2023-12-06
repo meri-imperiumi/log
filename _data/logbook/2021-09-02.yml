@@ -1,0 +1,43 @@
+- datetime: 2021-09-02T07:15:00.000Z
+  text: Leaving harbour. Difficulties getting easy-catch off buoy
+  category: navigation
+  wind:
+    speed: 15
+- datetime: 2021-09-02T07:30:00.000Z
+  text: Sails up, motor off
+  category: navigation
+  course: 135
+  wind:
+    speed: 11
+  observations:
+    seaState: 3
+    cloudCoverage: 0
+- datetime: 2021-09-02T09:00:00.000Z
+  text: Gybing towards Bornholm. Suski has to manage main sheet to prevent gybes
+  category: navigation
+  course: 200
+  wind:
+    speed: 10
+  observations:
+    seaState: 3
+    cloudCoverage: 1
+- datetime: 2021-09-02T09:58:00.000Z
+  text: Dropped main, continuing on fock only
+  category: navigation
+- datetime: 2021-09-02T10:02:00.000Z
+  text: Heading towards Svaneke
+  category: navigation
+  course: 205
+  wind:
+    speed: 6
+  observations:
+    seaState: 3
+    cloudCoverage: 0
+- datetime: 2021-09-02T10:08:00.000Z
+  text: Motor on, fock down
+  category: navigation
+- datetime: 2021-09-02T10:50:00.000Z
+  text: Tied up in a box (only free one) in Svaneke
+  category: navigation
+  engine:
+    hours: 241.9
