@@ -1,0 +1,115 @@
+- datetime: 2022-09-10T04:55:00.000Z
+  text: Motor on
+  category: navigation
+- datetime: 2022-09-10T05:05:00.000Z
+  text: Leaving Kalmar harbour
+  category: navigation
+- datetime: 2022-09-10T05:09:00.000Z
+  text: Main sail up, motorsailing
+  category: navigation
+- datetime: 2022-09-10T05:34:00.000Z
+  text: Breakfast pizza slices. Bergie had coffee, Suski to off watch
+  category: navigation
+  course: 189
+  wind:
+    speed: 5.6
+  observations:
+    cloudCoverage: 8
+    seaState: 1
+    visibility: 8
+  barometer: 1015
+  position:
+    longitude: 16.3625
+    latitude: 56.636667
+    source: GPS
+- datetime: 2022-09-10T07:21:00.000Z
+  text: Motor off
+  category: navigation
+  course: 184
+  wind:
+    speed: 6.6
+  observations:
+    cloudCoverage: 7
+    seaState: 2
+  barometer: 1015
+  position:
+    longitude: 16.263056
+    latitude: 56.482778
+    source: GPS
+- datetime: 2022-09-10T10:15:00.000Z
+  text: Big 180° windshift from 350 to 150°
+  category: navigation
+  wind:
+    speed: 11
+  observations:
+    cloudCoverage: 8
+- datetime: 2022-09-10T10:58:00.000Z
+  text: Suski on duty, on tacking angles
+  category: navigation
+  course: 210
+  wind:
+    speed: 8.2
+  observations:
+    cloudCoverage: 8
+    seaState: 3
+  barometer: 1015
+  position:
+    longitude: 16.165
+    latitude: 56.382778
+    source: GPS
+- datetime: 2022-09-10T14:28:00.000Z
+  text: Motor on. Frustration high.
+  category: navigation
+  course: 194
+  wind:
+    speed: 3.8
+  observations:
+    cloudCoverage: 6
+    seaState: 3
+  barometer: 1015
+  position:
+    longitude: 16.151667
+    latitude: 56.3025
+    source: GPS
+- datetime: 2022-09-10T16:10:00.000Z
+  text: Motor off, back to sailing
+  category: navigation
+  course: 195
+  wind:
+    speed: 8.4
+  observations:
+    cloudCoverage: 6
+    seaState: 3
+  barometer: 1015
+  position:
+    longitude: 16.061944
+    latitude: 56.175556
+    source: GPS
+- datetime: 2022-09-10T16:50:00.000Z
+  text: Suski out, bergie in sail duty.
+  category: navigation
+  course: 189
+  wind:
+    speed: 12.7
+  observations:
+    cloudCoverage: 7
+    seaState: 4
+  barometer: 1015
+  position:
+    longitude: 16.034167
+    latitude: 56.138333
+    source: GPS
+- datetime: 2022-09-10T22:57:00.000Z
+  text: Suski on duty
+  category: navigation
+  course: 194
+  wind:
+    speed: 16.1
+  observations:
+    cloudCoverage: 2
+    seaState: 4
+  barometer: 1015
+  position:
+    longitude: 15.64
+    latitude: 55.656667
+    source: GPS

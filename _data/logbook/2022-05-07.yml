@@ -1,0 +1,70 @@
+- datetime: 2022-05-07T07:12:00.000Z
+  text: Motor on, anchor up
+  category: navigation
+  wind:
+    speed: 9
+  observations:
+    cloudCoverage: 7
+  barometer: 1019
+- datetime: 2022-05-07T07:53:00.000Z
+  text: Sails up, motor off
+  category: navigation
+  course: 107
+  wind:
+    speed: 16.2
+  observations:
+    cloudCoverage: 6
+  barometer: 1019
+  position:
+    longitude: 15.843333
+    latitude: 56.058333
+    source: GPS
+- datetime: 2022-05-07T09:40:00.000Z
+  text: Main down, parasailor up. Speed ~6kt (up by 1.5kt)
+  category: navigation
+  course: 32
+  speed:
+    sog: 6
+  wind:
+    speed: 15
+  barometer: 1019
+  position:
+    longitude: 16.03
+    latitude: 56.145
+    source: GPS
+- datetime: 2022-05-07T11:00:00.000Z
+  text: Parasailor down, too much heel. Bergie on duty, 5kt speed
+  category: navigation
+  course: 22
+  speed:
+    sog: 5
+  wind:
+    speed: 18
+  observations:
+    cloudCoverage: 5
+  barometer: 1018
+  position:
+    longitude: 16.136667
+    latitude: 56.261667
+    source: GPS
+- datetime: 2022-05-07T14:32:00.000Z
+  text: Suski on duty, Kalmar visible
+  category: navigation
+  course: 23
+  wind:
+    speed: 15
+  observations:
+    cloudCoverage: 4
+  barometer: 1018
+  position:
+    longitude: 16.298333
+    latitude: 56.536667
+    source: GPS
+- datetime: 2022-05-07T15:40:00.000Z
+  text: Motor on, Nissinen off
+  category: navigation
+- datetime: 2022-05-07T16:20:00.000Z
+  text: Arrival Kalmar Marina, boom mooring. ~150EUR for 7 days with power
+  category: navigation
+  engine:
+    hours: 349.8
