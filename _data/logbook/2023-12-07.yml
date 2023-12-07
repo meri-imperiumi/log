@@ -1,0 +1,48 @@
+- datetime: 2023-12-07T11:22:24.899Z
+  text: Bilge alarm triggered. Dried bilge completely with sponge. Seems only
+    major source is fridge now that we dehumidify
+  author: bergie
+  position:
+    longitude: 13.193712663650512
+    latitude: 52.511024983723956
+    source: GPS
+  heading: 18
+  course: 208
+  speed:
+    stw: 0
+    sog: 0
+  log: 3206
+  barometer: 1018.28
+  wind:
+    speed: 1.2
+    direction: 244
+  engine:
+    hours: 665.5
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: maintenance
+- datetime: 2023-12-07T11:53:17.900Z
+  text: Fixed genoa roller. Halyard had wrapped twice around the forestay.
+    Unwrapped and tightened it.
+  author: bergie
+  position:
+    longitude: 13.1937215
+    latitude: 52.5110081
+    source: GPS
+  heading: 18
+  course: 34
+  speed:
+    stw: 0
+    sog: 0
+  log: 3206
+  barometer: 1018.3
+  wind:
+    speed: 1.5
+    direction: 223
+  engine:
+    hours: 665.5
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: maintenance
