@@ -1,6 +1,14 @@
 - datetime: 2021-08-14T11:25:00.000Z
   text: After repair help from Bernd, leaving Henningsdorf
+  category: navigation
 - datetime: 2021-08-14T13:25:00.000Z
   text: After 1h waiting at Scheuse Schoenenwalde
+  category: navigation
 - datetime: 2021-08-14T14:55:00.000Z
   text: Motor died. Paddled and got towed to nearby mooring spot. Bernd visiting by car
+  category: navigation
+- datetime: 2021-08-14T14:56:00.000Z
+  text: Motor died yesterday 1:20h after locks when reducing RPMs. Bled aid from fuel filter + lift pump. Checked oil level - halfway between markings. Cleaned tank air intake. Berndt was able to start motor by pumping lift pump manually for half minute before, then also during starting and for a while after. Removed filter before pre-pump (was on w/zip ties)
+  category: engine
+  engine:
+    hours: 186.6

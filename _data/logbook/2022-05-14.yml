@@ -1,6 +1,11 @@
 - datetime: 2022-05-14T06:29:00.000Z
   text: Motor on, to fuel dock
   category: navigation
+- datetime: 2022-05-14T06:45:00.000Z
+  text: Filled up 55l
+  category: engine
+  engine:
+    hours: 350.1
 - datetime: 2022-05-14T06:55:00.000Z
   text: Sails up, towards the bridge
   category: navigation
