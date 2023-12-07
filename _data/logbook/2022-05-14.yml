@@ -1,0 +1,53 @@
+- datetime: 2022-05-14T06:29:00.000Z
+  text: Motor on, to fuel dock
+  category: navigation
+- datetime: 2022-05-14T06:55:00.000Z
+  text: Sails up, towards the bridge
+  category: navigation
+- datetime: 2022-05-14T08:22:00.000Z
+  text: Gusts up to 35kt, first reef. Boat speed >6kt
+  category: navigation
+  course: 14
+  speed:
+    sog: 6.2
+  wind:
+    speed: 21
+  observations:
+    cloudCoverage: 7
+    seaState: 2
+  barometer: 1009
+  position:
+    longitude: 16.493333
+    latitude: 56.771667
+    source: GPS
+- datetime: 2022-05-14T11:02:00.000Z
+  text: Suski on duty, Flammkuchen almost ready
+  category: navigation
+  course: 11
+  wind:
+    speed: 22
+  observations:
+    cloudCoverage: 7
+    seaState: 3
+  barometer: 1009
+  position:
+    longitude: 16.623333
+    latitude: 57.023333
+    source: GPS
+- datetime: 2022-05-14T13:45:00.000Z
+  text: Sails down, motor on
+  category: navigation
+  course: 209
+  wind:
+    speed: 10
+  position:
+    longitude: 16.493333
+    latitude: 57.2
+    source: GPS
+- datetime: 2022-05-14T14:07:00.000Z
+  text: Aft anchor, bow to the trees. Nature harbour for ourselves
+  category: navigation
+  position:
+    longitude: 16.468333
+    latitude: 57.198333
+    source: GPS

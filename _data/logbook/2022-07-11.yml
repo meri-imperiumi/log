@@ -1,0 +1,45 @@
+- datetime: 2022-07-11T11:00:00.000Z
+  text: Departure
+  category: navigation
+- datetime: 2022-07-11T15:00:00.000Z
+  text: Watch change. Suski down Bergie up.
+  category: navigation
+  course: 196
+  wind:
+    speed: 7.6
+  observations:
+    cloudCoverage: 3
+    seaState: 1
+  barometer: 1015
+  position:
+    longitude: 25.06
+    latitude: 60.04
+    source: GPS
+- datetime: 2022-07-11T19:11:00.000Z
+  text: Suski on duty, poled out jib. Swapped courtesy flags
+  category: navigation
+  course: 194
+  wind:
+    speed: 4.2
+  observations:
+    cloudCoverage: 2
+    seaState: 1
+  barometer: 1015
+  position:
+    longitude: 24.958333
+    latitude: 59.913333
+    source: GPS
+- datetime: 2022-07-11T23:05:00.000Z
+  text: Bergie on duty. Sail(main) to 1st reef to arrive later.
+  category: navigation
+  course: 186
+  wind:
+    speed: 15.9
+  observations:
+    cloudCoverage: 3
+    seaState: 2
+  barometer: 1015
+  position:
+    longitude: 24.768333
+    latitude: 59.675
+    source: GPS

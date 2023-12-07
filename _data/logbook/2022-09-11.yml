@@ -1,0 +1,98 @@
+- datetime: 2022-09-11T01:20:00.000Z
+  text: Wing on wing
+  category: navigation
+- datetime: 2022-09-11T01:40:00.000Z
+  text: 1st ref 9kn wind
+  category: navigation
+  wind:
+    speed: 9
+- datetime: 2022-09-11T04:55:00.000Z
+  text: Suski on sleep duty Bergie sailing
+  category: navigation
+  course: 190
+  wind:
+    speed: 10.6
+  observations:
+    cloudCoverage: 7
+    seaState: 4
+  barometer: 1015
+  position:
+    longitude: 15.348333
+    latitude: 55.241667
+    source: GPS
+- datetime: 2022-09-11T11:09:00.000Z
+  text: Shook out reef, Suski back on watch
+  category: navigation
+  course: 183
+  wind:
+    speed: 11.6
+  observations:
+    cloudCoverage: 7
+    seaState: 4
+  barometer: 1017
+  position:
+    longitude: 15.005
+    latitude: 54.78
+    source: GPS
+- datetime: 2022-09-11T12:30:00.000Z
+  text: Two mainsail cars broke, by cannibalizing got to 2nd reef
+  category: navigation
+  course: 219
+  wind:
+    speed: 8.9
+  observations:
+    cloudCoverage: 4
+    seaState: 4
+  barometer: 1017
+  position:
+    longitude: 14.921667
+    latitude: 54.701667
+    source: GPS
+- datetime: 2022-09-11T13:23:00.000Z
+  text: Parasailor up
+  category: navigation
+  course: 230
+  wind:
+    speed: 8.4
+  observations:
+    cloudCoverage: 2
+    seaState: 4
+  barometer: 1017
+  position:
+    longitude: 14.868333
+    latitude: 54.675
+    source: GPS
+- datetime: 2022-09-11T14:20:00.000Z
+  text: Parasailor down, not enough wind to fill it w/waves. Motoring
+  category: navigation
+  course: 194
+  wind:
+    speed: 5
+  observations:
+    cloudCoverage: 7
+    seaState: 4
+  barometer: 1018
+  position:
+    longitude: 14.815
+    latitude: 54.633333
+    source: GPS
+- datetime: 2022-09-11T18:08:00.000Z
+  text: 2nd ref on motorsailing
+  category: navigation
+- datetime: 2022-09-11T19:13:00.000Z
+  text: Motorsailing still. Bergie on duty, Suski eating night snack!
+  category: navigation
+  course: 200
+  wind:
+    speed: 9
+  observations:
+    cloudCoverage: 7
+    seaState: 3
+  barometer: 1018
+  position:
+    longitude: 14.495
+    latitude: 54.24
+    source: GPS
+- datetime: 2022-09-11T23:29:00.000Z
+  text: Arrival
+  category: navigation
