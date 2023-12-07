@@ -2,8 +2,10 @@
   text: Leaving Gothia
   category: navigation
 - datetime: 2021-08-13T14:50:00.000Z
-  text: Gas station, filled up 52.6l
+  text: Gas station, filled up 52.6l 95EUR
   category: engine
+  engine:
+    hours: 184.4
 - datetime: 2021-08-13T16:20:00.000Z
   text: Schleuse Spandau
   category: navigation
