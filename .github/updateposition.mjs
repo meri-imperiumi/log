@@ -47,6 +47,24 @@ readdir('_data/logbook')
         return logPosition;
       });
   })
+  .then((logPosition) => {
+    return readFile('_data/inreach.json')
+      .then((c) => JSON.parse(c))
+      .then((data) => {
+        const inreachDate = new Date(data.timestamp);
+        if (inreachDate > logPosition.time) {
+          // InReach is newer, use that. We're likely far offshore and without internet
+          return {
+            time: inreachDate,
+            latitude: data.position.lat,
+            longitude: data.position.lon,
+            source: 'InReach',
+          };
+        }
+        // Logbook or AIS is newer
+        return logPosition;
+      });
+  })
   .then((latestPosition) => {
     console.log(`Latest is ${latestPosition.source} from ${latestPosition.time}`);
     return writeFile('_data/position.json', JSON.stringify(latestPosition, null, 2));
