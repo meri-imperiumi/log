@@ -1,4 +1,4 @@
-name: Update data from AIS
+name: Update data from AIS and InReach
 
 on:
   schedule:
@@ -6,24 +6,27 @@ on:
 
 jobs:
   fetch:
-    name: Fetch AIS data
+    name: Fetch AIS and InReach data
     runs-on: ubuntu-latest
     steps:
     - uses: actions/checkout@v3
     - uses: actions/setup-node@v3
       with:
         node-version: 16
-    - run: npm install node-fetch where
+    - run: npm install node-fetch where xml2js
     - run: node .github/fetchais.mjs
       env:
         AISHUB_TOKEN: ${{secrets.AISHUB_TOKEN}}
+    - run: node .github/fetchinreach.mjs
+      env:
+        INREACH_URL: ${{secrets.INREACH_URL}}
     - name: Commit files
       run: |
         if [ -z "$(git status --porcelain)" ]; then exit 0;fi
         git config --local user.email "41898282+github-actions[bot]@users.noreply.github.com"
         git config --local user.name "github-actions[bot]"
         git add _data/aishub.json
-        git commit -m "Updated AIS data"
+        git commit -m "Updated AIS and InReach data"
     - name: Push changes
       uses: ad-m/github-push-action@master
       with:
