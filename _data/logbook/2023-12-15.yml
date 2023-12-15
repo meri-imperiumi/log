@@ -21,3 +21,71 @@
     - ihmis-suski
     - bergie
   category: navigation
+- datetime: 2023-12-15T08:09:48.000Z
+  text: Anchor up, motoring
+  author: ""
+  position:
+    longitude: 13.1962265
+    latitude: 52.4702783
+    source: GPS
+  heading: 251
+  course: 157
+  speed:
+    stw: 0
+    sog: 0
+  log: 3208.7
+  barometer: 1028.12
+  wind:
+    speed: 3.7
+    direction: 195
+  engine:
+    hours: 665.9
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: navigation
+- datetime: 2023-12-15T08:25:47.001Z
+  text: Motor stopped, sailing with Main, Genoa 1
+  author: ""
+  position:
+    longitude: 13.192518997192384
+    latitude: 52.4688951810201
+    source: GPS
+  heading: 311
+  course: 299
+  speed:
+    stw: 1.2
+    sog: 1.4
+  log: 3209
+  barometer: 1028.2
+  wind:
+    speed: 2.6
+    direction: 231
+  engine:
+    hours: 666.2
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: navigation
+- datetime: 2023-12-15T09:00:28.998Z
+  text: ""
+  author: ""
+  position:
+    longitude: 13.1895603
+    latitude: 52.4879586
+    source: GPS
+  heading: 7
+  course: 4
+  speed:
+    stw: 3.6
+    sog: 3.5
+  log: 3210.2
+  barometer: 1028.43
+  wind:
+    speed: 7.6
+    direction: 186
+  engine:
+    hours: 666.2
+  crewNames:
+    - ihmis-suski
+    - bergie
