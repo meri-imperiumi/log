@@ -141,3 +141,50 @@
     - ihmis-suski
     - bergie
   category: navigation
+- datetime: 2023-12-17T11:58:01.600Z
+  text: "Sails set: Main, Genoa 1"
+  author: ""
+  position:
+    longitude: 13.1868576
+    latitude: 52.4735716
+    source: GPS
+  heading: 12
+  course: 10
+  speed:
+    stw: 2.5
+    sog: 2.5
+  log: 3218.3
+  barometer: 1029.9
+  wind:
+    speed: 3.3
+    direction: 230
+  engine:
+    hours: 666.5
+  vhf: "10"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: navigation
+- datetime: 2023-12-17T12:00:05.600Z
+  text: ""
+  author: ""
+  position:
+    longitude: 13.1872216
+    latitude: 52.4753488
+    source: GPS
+  heading: 13
+  course: 13
+  speed:
+    stw: 3.6
+    sog: 3.4
+  log: 3218.4
+  barometer: 1029.94
+  wind:
+    speed: 5.8
+    direction: 252
+  engine:
+    hours: 666.5
+  vhf: "10"
+  crewNames:
+    - ihmis-suski
+    - bergie
