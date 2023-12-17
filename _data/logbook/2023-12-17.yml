@@ -21,3 +21,123 @@
     - ihmis-suski
     - bergie
   category: engine
+- datetime: 2023-12-17T10:11:56.601Z
+  text: Started main engine
+  author: ""
+  position:
+    longitude: 13.193722168604532
+    latitude: 52.510993512471515
+    source: GPS
+  heading: 11
+  course: 119
+  speed:
+    stw: 0
+    sog: 0
+  log: 3211.6
+  barometer: 1031.2
+  wind:
+    speed: 7.1
+    direction: 248
+  engine:
+    hours: 666.3
+  vhf: "10"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: navigation
+- datetime: 2023-12-17T10:18:48.601Z
+  text: Stopped main engine
+  author: ""
+  position:
+    longitude: 13.193461
+    latitude: 52.5099578
+    source: GPS
+  heading: 100
+  course: 118
+  speed:
+    stw: 1.8
+    sog: 1.8
+  log: 3211.6
+  barometer: 1031.17
+  wind:
+    speed: 6.4
+    direction: 252
+  engine:
+    hours: 666.5
+  vhf: "10"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: navigation
+- datetime: 2023-12-17T10:19:32.601Z
+  text: Sailing with Main, Staysail
+  author: ""
+  position:
+    longitude: 13.1938556
+    latitude: 52.5101764
+    source: GPS
+  heading: 8
+  course: 6
+  speed:
+    stw: 1.9
+    sog: 1.9
+  log: 3211.6
+  barometer: 1031.28
+  wind:
+    speed: 8.2
+    direction: 246
+  engine:
+    hours: 666.5
+  vhf: "10"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: navigation
+- datetime: 2023-12-17T11:00:21.600Z
+  text: ""
+  author: ""
+  position:
+    longitude: 13.188035662968954
+    latitude: 52.47261699040731
+    source: GPS
+  heading: 189
+  course: 189
+  speed:
+    stw: 3.7
+    sog: 3.4
+  log: 3213.9
+  barometer: 1030.72
+  wind:
+    speed: 6.3
+    direction: 211
+  engine:
+    hours: 666.5
+  vhf: "10"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: navigation
+- datetime: 2023-12-17T11:01:20.601Z
+  text: Passing two swimming boars off Lieper Bucht
+  author: bergie
+  position:
+    longitude: 13.187815507253012
+    latitude: 52.471643670399985
+    source: GPS
+  heading: 183
+  course: 190
+  speed:
+    stw: 3.3
+    sog: 3.3
+  log: 3214
+  barometer: 1030.7
+  wind:
+    speed: 6.4
+    direction: 226
+  engine:
+    hours: 666.5
+  vhf: "10"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: navigation
