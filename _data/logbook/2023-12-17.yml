@@ -188,3 +188,78 @@
   crewNames:
     - ihmis-suski
     - bergie
+  category: navigation
+- datetime: 2023-12-17T12:26:32.601Z
+  text: Sails down, motoring
+  author: ""
+  position:
+    longitude: 13.1925421
+    latitude: 52.5064863
+    source: GPS
+  heading: 4
+  course: 3
+  speed:
+    stw: 2.9
+    sog: 2.9
+  log: 3220.3
+  barometer: 1029.91
+  wind:
+    speed: 8.3
+    direction: 267
+  engine:
+    hours: 666.5
+  vhf: "10"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: navigation
+- datetime: 2023-12-17T12:35:48.601Z
+  text: Stopped
+  author: ""
+  position:
+    longitude: 13.19374583562215
+    latitude: 52.51100533803304
+    source: GPS
+  heading: 15
+  course: 51
+  speed:
+    stw: 0
+    sog: 0
+  log: 3220.6
+  barometer: 1029.82
+  wind:
+    speed: 7
+    direction: 244
+  engine:
+    hours: 666.6
+  vhf: "10"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  end: true
+  category: navigation
+- datetime: 2023-12-17T12:36:56.601Z
+  text: Bilge alarm triggered with water. Pumped it dry. This time Cerbo recovered
+    on its own
+  author: bergie
+  position:
+    longitude: 13.193738333384196
+    latitude: 52.511008993784586
+    source: GPS
+  heading: 15
+  course: 51
+  speed:
+    stw: 0
+    sog: 0
+  log: 3220.6
+  barometer: 1029.8
+  wind:
+    speed: 10
+    direction: 261
+  engine:
+    hours: 666.6
+  vhf: "10"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: maintenance
