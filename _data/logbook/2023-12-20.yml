@@ -20,3 +20,25 @@
     - ihmis-suski
     - bergie
   category: maintenance
+- datetime: 2023-12-20T22:34:38.400Z
+  text: We have now the “prefer solar” mode enabled on our shore power charger
+  author: bergie
+  position:
+    longitude: 13.1937258
+    latitude: 52.5110143
+    source: GPS
+  heading: 20
+  course: 270
+  speed:
+    sog: 0
+  log: 3220.6
+  barometer: 1001.66
+  wind:
+    speed: 7.5
+    direction: 226
+  engine:
+    hours: 666.6
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: maintenance
