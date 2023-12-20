@@ -1,0 +1,22 @@
+- datetime: 2023-12-20T10:33:50.499Z
+  text: Upgraded to VE.Bus BMS V2 and MultiPlus firmware to 508 (default config)
+  author: bergie
+  position:
+    longitude: 13.1937256
+    latitude: 52.5109948
+    source: GPS
+  heading: 17
+  course: 34
+  speed:
+    sog: 0
+  log: 3220.6
+  barometer: 1005.25
+  wind:
+    speed: 12.9
+    direction: 250
+  engine:
+    hours: 666.6
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: maintenance
