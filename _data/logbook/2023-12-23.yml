@@ -45,3 +45,74 @@
     - ihmis-suski
     - bergie
   category: navigation
+- datetime: 2023-12-23T11:09:13.100Z
+  text: "Calibrated the Orca compass "
+  author: bergie
+  position:
+    longitude: 13.192507998148601
+    latitude: 52.50867700576782
+    source: GPS
+  heading: 81
+  course: 102
+  speed:
+    stw: 3.4
+    sog: 3.5
+  log: 3220.9
+  barometer: 997.1
+  wind:
+    speed: 1.1
+    direction: 66
+  engine:
+    hours: 666.8
+  vhf: "10"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: maintenance
+- datetime: 2023-12-23T11:14:09.100Z
+  text: Motor stopped, sailing with Main, Staysail
+  author: ""
+  position:
+    longitude: 13.191566
+    latitude: 52.5099474
+    source: GPS
+  heading: 165
+  course: 171
+  speed:
+    stw: 1
+    sog: 1.1
+  log: 3221.1
+  barometer: 997.08
+  wind:
+    speed: 1.2
+    direction: 241
+  engine:
+    hours: 666.9
+  vhf: "10"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: navigation
+- datetime: 2023-12-23T11:59:59.100Z
+  text: ""
+  author: ""
+  position:
+    longitude: 13.1904956
+    latitude: 52.4916339
+    source: GPS
+  heading: 16
+  course: 26
+  speed:
+    stw: 0.6
+    sog: 0.7
+  log: 3222.3
+  barometer: 997.54
+  wind:
+    speed: 2.9
+    direction: 330
+  engine:
+    hours: 666.9
+  vhf: "10"
+  crewNames:
+    - ihmis-suski
+    - bergie
