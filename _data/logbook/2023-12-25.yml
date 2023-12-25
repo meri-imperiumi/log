@@ -1,0 +1,119 @@
+- datetime: 2023-12-25T11:41:57.798Z
+  text: Started main engine
+  author: ""
+  position:
+    longitude: 13.193721501032512
+    latitude: 52.51100282669067
+    source: GPS
+  heading: 15
+  course: 354
+  speed:
+    stw: 0
+    sog: 0
+  log: 3223.4
+  barometer: 999.93
+  wind:
+    speed: 9
+    direction: 264
+  engine:
+    hours: 667.2
+  vhf: "10"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: navigation
+- datetime: 2023-12-25T11:49:37.798Z
+  text: Motoring
+  author: ""
+  position:
+    longitude: 13.1924378
+    latitude: 52.5102433
+    source: GPS
+  heading: 203
+  course: 203
+  speed:
+    stw: 1.5
+    sog: 1.6
+  log: 3223.4
+  barometer: 999.92
+  wind:
+    speed: 8.1
+    direction: 270
+  engine:
+    hours: 667.3
+  vhf: "10"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: navigation
+- datetime: 2023-12-25T11:50:24.800Z
+  text: Motor stopped, sailing with Main (1st reef), Staysail
+  author: ""
+  position:
+    longitude: 13.1924324
+    latitude: 52.5096726
+    source: GPS
+  heading: 179
+  course: 181
+  speed:
+    stw: 3.2
+    sog: 3.2
+  log: 3223.5
+  barometer: 999.77
+  wind:
+    speed: 9.4
+    direction: 250
+  engine:
+    hours: 667.3
+  vhf: "10"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: navigation
+- datetime: 2023-12-25T11:57:35.900Z
+  text: Deployed hydrogenerator
+  author: bergie
+  position:
+    longitude: 13.1923313
+    latitude: 52.5008081
+    source: GPS
+  heading: 180
+  course: 177
+  speed:
+    stw: 4.9
+    sog: 5.2
+  log: 3224
+  barometer: 999.9
+  wind:
+    speed: 14.2
+    direction: 263
+  engine:
+    hours: 667.3
+  vhf: "10"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: navigation
+- datetime: 2023-12-25T12:00:35.900Z
+  text: ""
+  author: ""
+  position:
+    longitude: 13.1915103
+    latitude: 52.4962386
+    source: GPS
+  heading: 170
+  course: 180
+  speed:
+    stw: 5.4
+    sog: 5.5
+  log: 3224.3
+  barometer: 999.83
+  wind:
+    speed: 14.5
+    direction: 244
+  engine:
+    hours: 667.3
+  vhf: "10"
+  crewNames:
+    - ihmis-suski
+    - bergie
