@@ -190,3 +190,26 @@
     - bergie
   end: true
   category: navigation
+- datetime: 2023-12-27T12:50:42.400Z
+  text: "Filled up 5l diesel "
+  author: bergie
+  position:
+    longitude: 13.1937266
+    latitude: 52.5109959
+    source: GPS
+  heading: 14
+  course: 256
+  speed:
+    stw: 0
+    sog: 0
+  log: 3234.7
+  barometer: 1018.8
+  wind:
+    speed: 3.6
+    direction: 193
+  engine:
+    hours: 668
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: engine
