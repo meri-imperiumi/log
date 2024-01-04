@@ -9,24 +9,18 @@ jobs:
   rescale:
     name: Resize images
     runs-on: ubuntu-latest
+    strategy:
+      matrix:
+        year:
+          - '2022'
+          - '2023'
+          - '2024'
     steps:
     - uses: actions/checkout@v2.3.4
-    - name: Resize 2022 images
+    - name: Resize ${{ year }} images
       uses: sanderbaas/img-resizer-inplace-idempotent@v2
       with:
-        target: '2022'
-        width: 1024
-        height: 900
-    - name: Resize 2023 images
-      uses: sanderbaas/img-resizer-inplace-idempotent@v2
-      with:
-        target: '2023'
-        width: 1024
-        height: 900
-    - name: Resize 2024 images
-      uses: sanderbaas/img-resizer-inplace-idempotent@v2
-      with:
-        target: '2024'
+        target: ${{ year }}
         width: 1024
         height: 900
     - name: Commit files
@@ -34,7 +28,8 @@ jobs:
         if [ -z "$(git status --porcelain)" ]; then exit 0;fi
         git config --local user.email "41898282+github-actions[bot]@users.noreply.github.com"
         git config --local user.name "github-actions[bot]"
-        git commit -m "Rescaled images" -a
+        git add ${{ year }}
+        git commit -m "Rescaled ${{ year }} images"
     - name: Push changes
       uses: ad-m/github-push-action@master
       with:
