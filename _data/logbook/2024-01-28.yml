@@ -1,0 +1,94 @@
+- datetime: 2024-01-28T07:43:31.100Z
+  text: Started main engine
+  author: ""
+  position:
+    longitude: 13.1936985
+    latitude: 52.5110155
+    source: GPS
+  heading: 13
+  course: 138
+  speed:
+    sog: 0
+  log: 3246.1
+  barometer: 1033.89
+  wind:
+    speed: 5.6
+    direction: 146
+  engine:
+    hours: 668.7
+  vhf: "10"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: navigation
+- datetime: 2024-01-28T07:49:58.099Z
+  text: Motoring
+  author: ""
+  position:
+    longitude: 13.1928631
+    latitude: 52.5077856
+    source: GPS
+  heading: 184
+  course: 189
+  speed:
+    stw: 5
+    sog: 4.8
+  log: 3246.1
+  barometer: 1033.94
+  wind:
+    speed: 3.4
+    direction: 166
+  engine:
+    hours: 668.8
+  vhf: "10"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: navigation
+- datetime: 2024-01-28T07:51:55.100Z
+  text: Scharfe Lanke was frozen with 4mm ice that we managed to push through
+  author: bergie
+  position:
+    longitude: 13.1922558
+    latitude: 52.5051306
+    source: GPS
+  heading: 181
+  course: 186
+  speed:
+    stw: 5
+    sog: 5
+  log: 3246.3
+  barometer: 1033.95
+  wind:
+    speed: 2.7
+    direction: 170
+  engine:
+    hours: 668.8
+  vhf: "10"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: navigation
+- datetime: 2024-01-28T08:00:53.100Z
+  text: ""
+  author: ""
+  position:
+    longitude: 13.1893366
+    latitude: 52.4928736
+    source: GPS
+  heading: 170
+  course: 175
+  speed:
+    stw: 5
+    sog: 4.9
+  log: 3247
+  barometer: 1033.87
+  wind:
+    speed: 3.9
+    direction: 174
+  engine:
+    hours: 669
+  vhf: "10"
+  crewNames:
+    - ihmis-suski
+    - bergie
