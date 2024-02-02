@@ -21,8 +21,8 @@ jobs:
       uses: gonzalonaveira/gh-image-resizing@v1.0.2
       with:
         IMAGES_MAX_WIDTH: "1024"
-        IMAGES_QUALITY: "90"
-        IMAGES_FORMATS: "jpg, jpeg, png"
+        IMAGES_QUALITY: "100"
+        IMAGES_FORMATS: "jpg, jpge, png"
         IMAGES_DIRECTORIES: ${{ matrix.year }}
     - name: Commit files
       run: |
