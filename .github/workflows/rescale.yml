@@ -4,7 +4,6 @@ on:
   push:
     branches:
       - main
-      - new_resizer
 
 jobs:
   rescale:
