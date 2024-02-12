@@ -13,7 +13,7 @@ jobs:
     - uses: actions/setup-node@v3
       with:
         node-version: 16
-    - run: npm install node-fetch where xml2js
+    - run: npm install node-fetch where xml2js yaml
     - run: node .github/fetchinreach.mjs
       env:
         INREACH_URL: ${{secrets.INREACH_URL}}
@@ -23,6 +23,7 @@ jobs:
         git config --local user.email "41898282+github-actions[bot]@users.noreply.github.com"
         git config --local user.name "github-actions[bot]"
         git add _data/inreach.json
+        git add _texts/*.md
         git commit -m "Updated InReach data"
     - name: Push changes
       uses: ad-m/github-push-action@master
