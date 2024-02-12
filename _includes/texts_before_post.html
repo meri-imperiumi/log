@@ -1,0 +1,34 @@
+
+{% assign nexttime = site.created | date: '%s' %}
+
+{% if post.collection %}
+    {% assign links = site[post.collection]  %}
+{% endif %}
+{% for link in links %}
+  {% if link.created == post.created %}
+    {% unless forloop.first %}
+      {% assign prevtime = tmpprev.created | date: '%s' %}
+    {% endunless %}
+    {% unless forloop.last %}
+      {% assign nexttime = links[forloop.index].created | date: '%s' %}
+    {% endunless %}
+  {% endif %}
+  {% assign tmpprev = link %}
+{% endfor %}
+
+{% assign posttime = post.created | date: '%s' %}
+
+{% for text in site.texts %}
+  {% assign texttime = text.timestamp | date: '%s' %}
+  {% if texttime < nexttime %}
+    {% if texttime > posttime %}
+      <li id="{{ text.timestamp | date: "%Y%m%d" }}" class="text">
+        <article>
+          <h2 class="meta">{{ text.timestamp | date: "%A, %B %-d, %Y" }} via InReach</h2>
+          <h1>{{ text.text }}</h1>
+          <hr>
+        </article>
+      </li>
+    {% endif %}
+  {% endif %}
+{% endfor %}

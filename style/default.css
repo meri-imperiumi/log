@@ -151,6 +151,17 @@ ul.logs article h1 {
   font-size: 22pt;
   margin-top: 0.2em;
 }
+ul.logs li.text article h1 {
+  text-align: center;
+  font-style: italic;
+  font-size: 24pt;
+}
+ul.logs li.text article h1:before {
+  content: open-quote;
+}
+ul.logs li.text article h1:after {
+  content: close-quote;
+}
 ul.logs article img {
   margin-left: auto;
   margin-right: auto;
