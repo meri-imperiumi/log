@@ -20,6 +20,7 @@ excerpt: Lille Ø is our cruising sailboat, a 1979 Amigo 40. A Swedish-built boa
 {% assign logs = site.logs | reverse %}
 <ul class="logs">
   {% for post in logs limit:10 %}
+  {% include texts_before_post.html %}
   <li id="{{ post.created | date: "%Y%m%d" }}">
     <article>
       <h2 class="meta">{{ post.created | date: "%A, %B %-d, %Y" }}</h2>

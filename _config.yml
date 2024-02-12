@@ -21,6 +21,8 @@ collections:
     permalink: /:name/
   crew:
     permalink: /:name/
+  texts:
+    output: false
 exclude:
   - fetchais.mjs
   - .github
