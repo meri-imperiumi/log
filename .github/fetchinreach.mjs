@@ -2,8 +2,11 @@ import fetch from 'node-fetch';
 import { Point } from 'where';
 import { readFile, writeFile } from 'fs/promises';
 import { parseString } from 'xml2js';
+import { stringify } from 'yaml';
 
 const kmlUrl = process.env.INREACH_URL;
+
+const texts = [];
 
 fetch(kmlUrl)
   .then(r => r.text())
@@ -26,7 +29,6 @@ fetch(kmlUrl)
         return false;
       }
       // For the moment we're only interested in position updates
-      // TODO: Have a place to stick textual updates to
       if (!mark.Point || !mark.Point.length) {
         return false;
       }
@@ -34,11 +36,49 @@ fetch(kmlUrl)
     })
       .map((mark) => {
         const [lon, lat] = mark.Point[0].coordinates[0].split(',');
-        return {
+        const checkin = {
           timestamp: new Date(mark.TimeStamp[0].when[0]),
           position: new Point(parseFloat(lat), parseFloat(lon)),
         };
+        if (mark.ExtendedData && mark.ExtendedData.length && mark.ExtendedData[0].Data) {
+          mark.ExtendedData[0].Data.forEach((entry) => {
+            if (!entry['$'] || !entry['$'].name || !entry['value'] || !entry['value'].length) {
+              return;
+            }
+            switch (entry['$'].name) {
+              case 'Text': {
+                checkin['text'] = entry['value'][0];
+                break;
+              }
+              case 'Event': {
+                checkin['event'] = entry['value'][0];
+                break;
+              }
+              case 'In Emergency': {
+                checkin['emergency'] = (entry['value'][0] === 'True');
+                break;
+              }
+            }
+          });
+        }
+        return checkin;
       });
+  })
+  .then((checkins) => {
+    const texts = checkins.filter((t) => t.text);
+    return texts.reduce((prev, current) => {
+      return prev.then(() => {
+        if (current['event'] === 'Quick Text to MapShare received') {
+          // These are just to update map position
+          return Promise.resolve();
+        }
+        const iso = current.timestamp.toISOString();
+        const path = `_texts/${iso.substr(0, 10)}_${iso.substr(11, 2)}${iso.substr(14, 2)}.md`;
+        const content = `---\n${stringify(current)}---\n`;
+        return writeFile(path, content);
+      });
+    }, Promise.resolve())
+      .then(() => checkins);
   })
   .then((checkins) => {
     return checkins.reduce((latest, current) => {
