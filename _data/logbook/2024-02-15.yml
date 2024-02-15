@@ -90,3 +90,49 @@
     - ihmis-suski
     - bergie
   category: navigation
+- datetime: 2024-02-15T17:41:55.897Z
+  text: Started main engine
+  author: ""
+  position:
+    longitude: 13.1937578
+    latitude: 52.5109704
+    source: GPS
+  heading: 19
+  course: 30
+  speed:
+    stw: 0
+    sog: 0
+  log: 3261.5
+  barometer: 1014.71
+  wind:
+    speed: 4
+    direction: 170
+  engine:
+    hours: 672.4
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: navigation
+- datetime: 2024-02-15T17:42:39.897Z
+  text: Stopped main engine
+  author: ""
+  position:
+    longitude: 13.193763
+    latitude: 52.5109648
+    source: GPS
+  heading: 17
+  course: 182
+  speed:
+    stw: 0
+    sog: 0
+  log: 3261.5
+  barometer: 1014.71
+  wind:
+    speed: 3.2
+    direction: 165
+  engine:
+    hours: 672.5
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: navigation
