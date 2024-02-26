@@ -6,17 +6,23 @@ on:
       - main
 
 jobs:
+  checkout:
+    runs-on: ubuntu-latest
+    steps:
+    - uses: actions/checkout@v2.3.4
   rescale:
     name: Resize images
     runs-on: ubuntu-latest
+    needs:
+      - checkout
     strategy:
       matrix:
         year:
+          - '2021'
           - '2022'
           - '2023'
           - '2024'
     steps:
-    - uses: actions/checkout@v2.3.4
     - name: Resize ${{ matrix.year }} images
       uses: gonzalonaveira/gh-image-resizing@v1.0.2
       with:
@@ -24,6 +30,12 @@ jobs:
         IMAGES_QUALITY: "100"
         IMAGES_FORMATS: "jpg, jpge, png"
         IMAGES_DIRECTORIES: ${{ matrix.year }}
+  commit:
+    runs-on: ubuntu-latest
+    needs:
+      - checkout
+      - rescale
+    steps:
     - name: Commit files
       run: |
         if [ -z "$(git status --porcelain)" ]; then exit 0;fi
