@@ -24,7 +24,7 @@
     {% if texttime > posttime %}
       <li id="{{ text.timestamp | date: "%Y%m%d" }}" class="text">
         <article>
-          <h2 class="meta">{{ text.timestamp | date: "%A, %B %-d, %Y" }} via InReach</h2>
+          <h2 class="meta">{{ text.timestamp | date: "%A, %B %-d, %Y" }} via {{ text.source }}</h2>
           <h1>{{ text.text }}</h1>
           <hr>
         </article>

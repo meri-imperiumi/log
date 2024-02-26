@@ -72,9 +72,13 @@ fetch(kmlUrl)
           // These are just to update map position
           return Promise.resolve();
         }
+        const data = {
+          ...current,
+          source: 'inreach',
+        };
         const iso = current.timestamp.toISOString();
         const path = `_texts/${iso.substr(0, 10)}_${iso.substr(11, 2)}${iso.substr(14, 2)}.md`;
-        const content = `---\n${stringify(current)}---\n`;
+        const content = `---\n${stringify(data)}---\n`;
         return writeFile(path, content);
       });
     }, Promise.resolve())
