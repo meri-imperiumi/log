@@ -76,9 +76,11 @@ fetch(kmlUrl)
           ...current,
           source: 'inreach',
         };
+        const text = data.text;
+        delete data.text;
         const iso = current.timestamp.toISOString();
         const path = `_texts/${iso.substr(0, 10)}_${iso.substr(11, 2)}${iso.substr(14, 2)}.md`;
-        const content = `---\n${stringify(data)}---\n`;
+        const content = `---\n${stringify(data)}---\n${text}`;
         return writeFile(path, content);
       });
     }, Promise.resolve())
