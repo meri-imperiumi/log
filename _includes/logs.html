@@ -12,7 +12,7 @@
     <article>
       <h2 class="meta">{{ post.created | date: "%A, %B %-d, %Y" }}</h2>
       <h1><a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a></h1>
-      {{ post.excerpt | replace: 'img src="..', 'img src="https://meri-imperiumi.github.io/log'| replace: 'https://meri-imperiumi.github.io/log',site.baseurl | replace: "Lille Ø", "<i>Lille Ø</i>" }}
+      {{ post.excerpt | replace: 'img src="..', 'img src="https://meri-imperiumi.github.io/log'| replace: 'https://meri-imperiumi.github.io/log',site.baseurl | replace: "Lille Ø", "<i>Lille Ø</i>" | replace: "Isosaari", "<i>Isosaari</i>" }}
       {% assign images = post.content | split:"<img " %}
       {% for image in images %}
         {% if image contains 'src' %}
