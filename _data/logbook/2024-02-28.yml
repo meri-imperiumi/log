@@ -138,3 +138,26 @@
     - bergie
   end: true
   category: navigation
+- datetime: 2024-02-28T18:14:43.302Z
+  text: "Mast is up and tensioned with new standing rigging "
+  author: bergie
+  position:
+    longitude: 13.1937363
+    latitude: 52.5109875
+    source: GPS
+  heading: 17
+  course: 50
+  speed:
+    stw: 0
+    sog: 0
+  log: 3262
+  barometer: 1020.55
+  wind:
+    speed: 0.8
+    direction: 133
+  engine:
+    hours: 673.9
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: maintenance
