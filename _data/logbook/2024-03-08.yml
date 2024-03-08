@@ -21,3 +21,25 @@
     - ihmis-suski
     - bergie
   category: maintenance
+- datetime: 2024-03-08T13:25:07.398Z
+  text: Moved Starlink to its dedicated DC circuit (with Yaosheng PoE injector).
+    Also moved fridge circuit to switchboard
+  author: bergie
+  position:
+    longitude: 13.1937084
+    latitude: 52.510977
+    source: GPS
+  heading: 18
+  course: 105
+  speed:
+    sog: 0
+  log: 3262
+  wind:
+    speed: 3.4
+    direction: 48
+  engine:
+    hours: 673.9
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: maintenance
