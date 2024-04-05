@@ -1,0 +1,93 @@
+- datetime: 2024-04-03T06:54:57.000Z
+  text: Propeller maintenance and anode change
+  author: bergie
+  position:
+    longitude: 13.1942843
+    latitude: 52.5115146
+    source: GPS
+  heading: 351
+  course: 251
+  speed:
+    stw: 0
+    sog: 1.8
+  log: 3276.6
+  barometer: 1003.4
+  wind:
+    speed: 4.7
+    direction: 187
+  engine:
+    hours: 675.8
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: engine
+- datetime: 2024-04-03T07:28:40.998Z
+  text: Started main engine
+  author: ""
+  position:
+    longitude: 13.1940398
+    latitude: 52.511356
+    source: GPS
+  heading: 24
+  course: 254
+  speed:
+    stw: 0
+    sog: 0
+  log: 3276.6
+  barometer: 1003.96
+  wind:
+    speed: 2.9
+    direction: 220
+  engine:
+    hours: 675.8
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: navigation
+- datetime: 2024-04-03T07:31:24.000Z
+  text: Motoring
+  author: ""
+  position:
+    longitude: 13.1940966
+    latitude: 52.5108241
+    source: GPS
+  heading: 309
+  course: 119
+  speed:
+    stw: 0.1
+    sog: 1.4
+  log: 3276.6
+  barometer: 1004.01
+  wind:
+    speed: 4.2
+    direction: 145
+  engine:
+    hours: 675.9
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: navigation
+- datetime: 2024-04-03T07:37:58.000Z
+  text: Stopped
+  author: ""
+  position:
+    longitude: 13.1934446
+    latitude: 52.5109861
+    source: GPS
+  heading: 273
+  course: 292
+  speed:
+    stw: 0
+    sog: 0
+  log: 3276.7
+  barometer: 1004.11
+  wind:
+    speed: 2.9
+    direction: 109
+  engine:
+    hours: 676
+  crewNames:
+    - ihmis-suski
+    - bergie
+  end: true
+  category: navigation
