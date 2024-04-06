@@ -66,3 +66,172 @@
     cloudCoverage: 2
     seaState: 1
     visibility: 8
+- datetime: 2024-04-06T08:03:10.499Z
+  text: Started main engine
+  author: ""
+  position:
+    longitude: 13.2099278
+    latitude: 52.5387343
+    source: GPS
+  heading: 305
+  course: 217
+  speed:
+    stw: 0
+    sog: 0
+  log: 3281.1
+  barometer: 1012.98
+  engine:
+    hours: 677.6
+  vhf: "10"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: navigation
+- datetime: 2024-04-06T08:05:22.499Z
+  text: Motoring
+  author: ""
+  position:
+    longitude: 13.2092219
+    latitude: 52.5399756
+    source: GPS
+  heading: 354
+  course: 12
+  speed:
+    stw: 1.3
+    sog: 0.8
+  log: 3281.1
+  barometer: 1013.04
+  engine:
+    hours: 677.6
+  vhf: "10"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: navigation
+- datetime: 2024-04-06T08:06:44.499Z
+  text: Stopped, inside Schleuse Spandau
+  author: bergie
+  position:
+    longitude: 13.2091031
+    latitude: 52.5401738
+    source: GPS
+  heading: 306
+  course: 56
+  speed:
+    stw: 0
+    sog: 0
+  log: 3281.1
+  barometer: 1013.08
+  engine:
+    hours: 677.7
+  vhf: "10"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  end: true
+  category: navigation
+- datetime: 2024-04-06T08:06:54.499Z
+  text: Started main engine, minor repositioning at the request of the lock keeper
+  author: bergie
+  position:
+    longitude: 13.2091026
+    latitude: 52.5401736
+    source: GPS
+  heading: 309
+  course: 56
+  speed:
+    stw: 0
+    sog: 0
+  log: 3281.1
+  barometer: 1013.08
+  engine:
+    hours: 677.7
+  vhf: "10"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: navigation
+- datetime: 2024-04-06T08:09:16.499Z
+  text: Stopped main engine
+  author: ""
+  position:
+    longitude: 13.2091178
+    latitude: 52.5401198
+    source: GPS
+  heading: 305
+  course: 131
+  speed:
+    stw: 0
+    sog: 0
+  log: 3281.1
+  barometer: 1013.17
+  engine:
+    hours: 677.7
+  vhf: "10"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: navigation
+- datetime: 2024-04-06T08:16:42.499Z
+  text: Started main engine
+  author: ""
+  position:
+    longitude: 13.2092336
+    latitude: 52.5401128
+    source: GPS
+  heading: 294
+  course: 331
+  speed:
+    stw: 0
+    sog: 0
+  log: 3281.1
+  barometer: 1013.13
+  engine:
+    hours: 677.7
+  vhf: "10"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: navigation
+- datetime: 2024-04-06T08:20:22.499Z
+  text: Motoring, out of Schleuse Spandau
+  author: bergie
+  position:
+    longitude: 13.2097016
+    latitude: 52.5430666
+    source: GPS
+  heading: 51
+  course: 53
+  speed:
+    stw: 5.7
+    sog: 5.4
+  log: 3281.1
+  barometer: 1013.16
+  engine:
+    hours: 677.8
+  vhf: "10"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: navigation
+- datetime: 2024-04-06T08:49:23.500Z
+  text: Pumped bilge. Seems we have some milk there
+  author: bergie
+  position:
+    longitude: 13.2186473
+    latitude: 52.5783333
+    source: GPS
+  heading: 349
+  course: 343
+  speed:
+    stw: 5.3
+    sog: 5
+  log: 3283.6
+  barometer: 1012.94
+  engine:
+    hours: 678.3
+  vhf: "10"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: navigation
