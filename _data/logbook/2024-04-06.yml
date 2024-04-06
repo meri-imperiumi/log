@@ -553,3 +553,68 @@
   crewNames:
     - ihmis-suski
     - bergie
+  category: navigation
+- datetime: 2024-04-06T17:00:33.100Z
+  text: ""
+  author: ""
+  position:
+    longitude: 13.8712831
+    latitude: 52.8592381
+    source: GPS
+  heading: 92
+  course: 96
+  speed:
+    stw: 5.4
+    sog: 5.2
+  log: 3319.9
+  barometer: 1010.61
+  engine:
+    hours: 685.5
+  vhf: "10"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: navigation
+- datetime: 2024-04-06T17:29:23.097Z
+  text: Stopped, Hebewerk Nord wartestelle
+  author: bergie
+  position:
+    longitude: 13.9305418
+    latitude: 52.8512486
+    source: GPS
+  heading: 95
+  course: 97
+  speed:
+    stw: 0
+    sog: 0
+  log: 3322.1
+  barometer: 1010.7
+  engine:
+    hours: 686
+  vhf: "10"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  end: true
+  category: navigation
+- datetime: 2024-04-06T17:58:17.100Z
+  text: Started main engine
+  author: ""
+  position:
+    longitude: 13.9305531
+    latitude: 52.8512618
+    source: GPS
+  heading: 95
+  course: 97
+  speed:
+    stw: 0
+    sog: 0
+  log: 3322.1
+  barometer: 1010.76
+  engine:
+    hours: 686
+  vhf: "10"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: navigation
