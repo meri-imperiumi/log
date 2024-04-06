@@ -322,8 +322,8 @@
     - bergie
   category: navigation
 - datetime: 2024-04-06T11:23:43.600Z
-  text: Stopped
-  author: ""
+  text: Stopped. Schleuse Lehnitz warteplaz. Karin is here with a package!
+  author: bergie
   position:
     longitude: 13.2791108
     latitude: 52.7664326
@@ -386,8 +386,8 @@
     - bergie
   category: navigation
 - datetime: 2024-04-06T12:07:10.598Z
-  text: Stopped
-  author: ""
+  text: Stopped inside Schleuse Lehnitz
+  author: bergie
   position:
     longitude: 13.2800316
     latitude: 52.7682919
@@ -511,3 +511,25 @@
   crewNames:
     - ihmis-suski
     - bergie
+  category: navigation
+- datetime: 2024-04-06T15:53:50.003Z
+  text: The upper B&G Triton2 just rebooted for some reason
+  author: bergie
+  position:
+    longitude: 13.7136983
+    latitude: 52.8597273
+    source: GPS
+  heading: 95
+  course: 97
+  speed:
+    stw: 5.3
+    sog: 5.2
+  log: 3314
+  barometer: 1010.65
+  engine:
+    hours: 684.4
+  vhf: "10"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: maintenance
