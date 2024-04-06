@@ -235,3 +235,67 @@
     - ihmis-suski
     - bergie
   category: navigation
+- datetime: 2024-04-06T09:00:22.598Z
+  text: ""
+  author: ""
+  position:
+    longitude: 13.2154376
+    latitude: 52.5937929
+    source: GPS
+  heading: 337
+  course: 331
+  speed:
+    stw: 5.3
+    sog: 5.1
+  log: 3284.5
+  barometer: 1013.15
+  engine:
+    hours: 678.4
+  vhf: "10"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: navigation
+- datetime: 2024-04-06T09:38:13.600Z
+  text: Passed Dalbe 16
+  author: bergie
+  position:
+    longitude: 13.2165866
+    latitude: 52.6412673
+    source: GPS
+  heading: 10
+  course: 6
+  speed:
+    stw: 5.4
+    sog: 5
+  log: 3287.7
+  barometer: 1012.85
+  engine:
+    hours: 679.1
+  vhf: "10"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: navigation
+  observations:
+    cloudCoverage: 3
+- datetime: 2024-04-06T10:00:10.598Z
+  text: ""
+  author: ""
+  position:
+    longitude: 13.2275524
+    latitude: 52.6679103
+    source: GPS
+  heading: 41
+  course: 40
+  speed:
+    stw: 5.5
+    sog: 4.5
+  log: 3289.4
+  barometer: 1012.92
+  engine:
+    hours: 679.4
+  vhf: "10"
+  crewNames:
+    - ihmis-suski
+    - bergie
