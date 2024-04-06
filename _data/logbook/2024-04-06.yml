@@ -19,45 +19,50 @@
     - ihmis-suski
     - bergie
   category: navigation
-- datetime: 2024-04-06T06:50:05.500Z
-  text: Stopped main engine
+- datetime: 2024-04-06T07:01:32.600Z
+  text: Motoring
   author: ""
   position:
-    longitude: 13.1934471
-    latitude: 52.5110021
+    longitude: 13.1928266
+    latitude: 52.5096983
     source: GPS
-  heading: 284
-  course: 159
+  heading: 174
+  course: 180
   speed:
-    stw: 0
-    sog: 0
+    stw: 5.2
+    sog: 5.1
   log: 3277.9
-  barometer: 1012.95
+  barometer: 1012.99
   engine:
-    hours: 676.7
+    hours: 676.9
   vhf: "10"
   crewNames:
     - ihmis-suski
     - bergie
   category: navigation
-- datetime: 2024-04-06T06:50:08.499Z
-  text: Started main engine
-  author: ""
+- datetime: 2024-04-06T07:44:41.500Z
+  text: Stopped, Schleuse Spandau wartestelle
+  author: bergie
   position:
-    longitude: 13.1934476
-    latitude: 52.5110013
+    longitude: 13.2099195
+    latitude: 52.5387668
     source: GPS
-  heading: 284
-  course: 159
+  heading: 312
+  course: 188
   speed:
     stw: 0
     sog: 0
-  log: 3277.9
-  barometer: 1012.95
+  log: 3281.1
+  barometer: 1013.15
   engine:
-    hours: 676.7
+    hours: 677.6
   vhf: "10"
   crewNames:
     - ihmis-suski
     - bergie
+  end: true
   category: navigation
+  observations:
+    cloudCoverage: 2
+    seaState: 1
+    visibility: 8
