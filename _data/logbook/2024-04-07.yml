@@ -108,3 +108,130 @@
     - bergie
   end: true
   category: navigation
+- datetime: 2024-04-07T06:05:03.000Z
+  text: Started main engine
+  author: ""
+  position:
+    longitude: 14.1478905
+    latitude: 52.8738966
+    source: GPS
+  heading: 49
+  course: 356
+  speed:
+    stw: 0
+    sog: 0
+  log: 3329.9
+  barometer: 1013.35
+  engine:
+    hours: 687.8
+  vhf: "10"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: navigation
+- datetime: 2024-04-07T06:10:16.000Z
+  text: Motoring
+  author: ""
+  position:
+    longitude: 14.1500038
+    latitude: 52.8751606
+    source: GPS
+  heading: 14
+  course: 53
+  speed:
+    stw: 2.6
+    sog: 1.9
+  log: 3329.9
+  barometer: 1013.36
+  engine:
+    hours: 687.8
+  vhf: "10"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: navigation
+- datetime: 2024-04-07T06:11:40.099Z
+  text: Stopped, inside Schleuse Hohensaaten West. Trying locks hook from midship
+    instead of two lines
+  author: bergie
+  position:
+    longitude: 14.150248670578003
+    latitude: 52.8753968556722
+    source: GPS
+  heading: 322
+  course: 30
+  speed:
+    stw: 0
+    sog: 0
+  log: 3329.9
+  barometer: 1013.35
+  engine:
+    hours: 687.9
+  vhf: "10"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  end: true
+  category: navigation
+- datetime: 2024-04-07T06:19:17.100Z
+  text: Started main engine
+  author: ""
+  position:
+    longitude: 14.1502203
+    latitude: 52.8754006
+    source: GPS
+  heading: 302
+  course: 30
+  speed:
+    stw: 0
+    sog: 0
+  log: 3329.9
+  barometer: 1013.43
+  engine:
+    hours: 687.9
+  vhf: "10"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: navigation
+- datetime: 2024-04-07T06:21:14.099Z
+  text: Motoring
+  author: ""
+  position:
+    longitude: 14.1521149
+    latitude: 52.8773073
+    source: GPS
+  heading: 34
+  course: 30
+  speed:
+    stw: 5.4
+    sog: 5.3
+  log: 3329.9
+  barometer: 1013.46
+  engine:
+    hours: 687.9
+  vhf: "10"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: navigation
+- datetime: 2024-04-07T06:59:59.100Z
+  text: ""
+  author: ""
+  position:
+    longitude: 14.1274316628774
+    latitude: 52.93053652445475
+    source: GPS
+  heading: 2
+  course: 357
+  speed:
+    stw: 5.4
+    sog: 5.6
+  log: 3333.5
+  barometer: 1014.42
+  engine:
+    hours: 688.5
+  vhf: "10"
+  crewNames:
+    - ihmis-suski
+    - bergie
