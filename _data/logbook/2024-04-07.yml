@@ -1,0 +1,67 @@
+- datetime: 2024-04-07T04:22:30.099Z
+  text: Started main engine
+  author: ""
+  position:
+    longitude: 13.9529148
+    latitude: 52.8506591
+    source: GPS
+  heading: 76
+  course: 316
+  speed:
+    stw: 0
+    sog: 0
+  log: 3322.6
+  barometer: 1014
+  engine:
+    hours: 686.3
+  vhf: "10"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: navigation
+- datetime: 2024-04-07T04:26:46.099Z
+  text: Motoring at sunrise
+  author: bergie
+  position:
+    longitude: 13.9584773
+    latitude: 52.8520246
+    source: GPS
+  heading: 65
+  course: 65
+  speed:
+    stw: 5.6
+    sog: 5.4
+  log: 3322.6
+  barometer: 1013.98
+  engine:
+    hours: 686.4
+  vhf: "10"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: navigation
+  observations:
+    cloudCoverage: 2
+    visibility: 6
+    seaState: 0
+- datetime: 2024-04-07T04:43:34.099Z
+  text: The upper B&G Triton2 rebooted itself again
+  author: bergie
+  position:
+    longitude: 13.9963043
+    latitude: 52.8610818
+    source: GPS
+  heading: 88
+  course: 90
+  speed:
+    stw: 5.7
+    sog: 5.4
+  log: 3324.1
+  barometer: 1013.87
+  engine:
+    hours: 686.7
+  vhf: "10"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: maintenance
