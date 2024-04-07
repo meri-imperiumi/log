@@ -428,3 +428,26 @@
   crewNames:
     - ihmis-suski
     - bergie
+  category: navigation
+- datetime: 2024-04-07T14:05:15.500Z
+  text: Stopped at AZS marina
+  author: bergie
+  position:
+    longitude: 14.6265533
+    latitude: 53.3974714
+    source: GPS
+  heading: 285
+  course: 286
+  speed:
+    stw: 0
+    sog: 0
+  log: 3372.6
+  barometer: 1016.48
+  engine:
+    hours: 695.6
+  vhf: "10"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  end: true
+  category: navigation
