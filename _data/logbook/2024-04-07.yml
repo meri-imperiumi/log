@@ -298,3 +298,50 @@
   crewNames:
     - ihmis-suski
     - bergie
+  category: navigation
+- datetime: 2024-04-07T10:00:13.500Z
+  text: Suski on watch
+  author: bergie
+  position:
+    longitude: 14.3471663
+    latitude: 53.1308015
+    source: GPS
+  heading: 29
+  course: 27
+  speed:
+    stw: 5.4
+    sog: 5.3
+  log: 3350.2
+  barometer: 1015.88
+  engine:
+    hours: 691.5
+  vhf: "10"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: navigation
+- datetime: 2024-04-07T10:32:02.499Z
+  text: "Courtesy flag of Poland up. "
+  author: ihmis-suski
+  position:
+    longitude: 14.3684981
+    latitude: 53.174909
+    source: GPS
+  heading: 14
+  course: 12
+  speed:
+    stw: 5.2
+    sog: 5.9
+  log: 3353.1
+  barometer: 1016.03
+  engine:
+    hours: 692.1
+  vhf: "10"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: navigation
+  observations:
+    seaState: 1
+    cloudCoverage: 8
+    visibility: 7
