@@ -819,3 +819,53 @@
     - ihmis-suski
     - bergie
   category: navigation
+- datetime: 2024-04-08T15:00:49.100Z
+  text: ""
+  author: ""
+  position:
+    longitude: 14.5003558
+    latitude: 53.6921271
+    source: GPS
+  heading: 330
+  course: 325
+  speed:
+    stw: 5.2
+    sog: 5.1
+  log: 3392.8
+  barometer: 1010.77
+  wind:
+    speed: 10
+    direction: 338
+  engine:
+    hours: 699.5
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: navigation
+- datetime: 2024-04-08T15:00:49.100Z
+  text: Turns out the erratic autopilot steering was a software not hardware
+    issue. Moved Orca Core back to its place and disabled sending data to
+    SeaTalk from YDNR. Will need to add a filter later.
+  author: bergie
+  position:
+    longitude: 14.5003558
+    latitude: 53.6921271
+    source: GPS
+  heading: 330
+  course: 325
+  speed:
+    stw: 5.2
+    sog: 5.1
+  log: 3392.8
+  barometer: 1010.77
+  wind:
+    speed: 10
+    direction: 338
+  engine:
+    hours: 699.5
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: maintenance
