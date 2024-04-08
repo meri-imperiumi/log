@@ -18,3 +18,44 @@
     - ihmis-suski
     - bergie
   category: navigation
+- datetime: 2024-04-08T06:00:28.600Z
+  text: Motoring
+  author: ""
+  position:
+    longitude: 14.6278575
+    latitude: 53.3981254
+    source: GPS
+  heading: 20
+  course: 19
+  speed:
+    stw: 4
+    sog: 3.7
+  log: 3372.6
+  barometer: 1012.81
+  engine:
+    hours: 695.7
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: navigation
+- datetime: 2024-04-08T06:05:42.600Z
+  text: Stopped, Marina Club mast crane
+  author: bergie
+  position:
+    longitude: 14.6260491
+    latitude: 53.3992151
+    source: GPS
+  heading: 251
+  course: 257
+  speed:
+    stw: 0
+    sog: 0
+  log: 3372.7
+  barometer: 1013.08
+  engine:
+    hours: 695.8
+  crewNames:
+    - ihmis-suski
+    - bergie
+  end: true
+  category: navigation
