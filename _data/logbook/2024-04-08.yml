@@ -461,3 +461,103 @@
     - ihmis-suski
     - bergie
   category: navigation
+- datetime: 2024-04-08T17:00:23.097Z
+  text: "Entered the Swinoujscie channel. Bergie on watch "
+  author: bergie
+  position:
+    longitude: 14.344835344950358
+    latitude: 53.80389283498128
+    source: GPS
+  heading: 324
+  course: 311
+  speed:
+    stw: 4.9
+    sog: 4.2
+  log: 3401.5
+  barometer: 1010.52
+  wind:
+    speed: 14.2
+    direction: 359
+  engine:
+    hours: 701.5
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: navigation
+  observations:
+    seaState: 2
+    cloudCoverage: 5
+    visibility: 6
+- datetime: 2024-04-08T17:35:19.097Z
+  text: 1.5kt countercurrent
+  author: bergie
+  position:
+    longitude: 14.3061574
+    latitude: 53.8323673
+    source: GPS
+  heading: 327
+  course: 320
+  speed:
+    stw: 5.3
+    sog: 3.9
+  log: 3403.7
+  barometer: 1010.5
+  wind:
+    speed: 3.3
+    direction: 338
+  engine:
+    hours: 702
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: navigation
+  observations: {}
+- datetime: 2024-04-08T17:50:25.100Z
+  text: Autopilot deactivated
+  author: ""
+  position:
+    longitude: 14.2886213
+    latitude: 53.8460203
+    source: GPS
+  heading: 325
+  course: 317
+  speed:
+    stw: 5.4
+    sog: 4.1
+  log: 3404.7
+  barometer: 1010.64
+  wind:
+    speed: 5
+    direction: 337
+  engine:
+    hours: 702.3
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: navigation
+- datetime: 2024-04-08T18:00:11.097Z
+  text: ""
+  author: ""
+  position:
+    longitude: 14.28147
+    latitude: 53.8569111
+    source: GPS
+  heading: 352
+  course: 344
+  speed:
+    stw: 5.3
+    sog: 4.5
+  log: 3405.4
+  barometer: 1010.67
+  wind:
+    speed: 5.2
+    direction: 4
+  engine:
+    hours: 702.5
+  vhf: "12"
+  crewNames:
+    - ihmis-suski
+    - bergie
