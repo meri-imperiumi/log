@@ -634,3 +634,74 @@
     - ihmis-suski
     - bergie
   category: navigation
+- datetime: 2024-04-08T20:13:33.100Z
+  text: Entered German waters
+  author: bergie
+  position:
+    longitude: 14.226321331659953
+    latitude: 53.98943564097087
+    source: GPS
+  heading: 350
+  course: 340
+  speed:
+    stw: 3.9
+    sog: 4.4
+  log: 3414.4
+  barometer: 1010.54
+  wind:
+    speed: 6.9
+    direction: 44
+  engine:
+    hours: 703.7
+  vhf: "87"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: navigation
+- datetime: 2024-04-08T20:34:25.401Z
+  text: Topping lift shackle let go. Tied topping lift to mast for now
+  author: bergie
+  position:
+    longitude: 14.2170653
+    latitude: 54.00897
+    source: GPS
+  heading: 357
+  course: 326
+  speed:
+    stw: 1.6
+    sog: 1.6
+  log: 3415.7
+  barometer: 1010.53
+  wind:
+    speed: 4.4
+    direction: 37
+  engine:
+    hours: 703.7
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: navigation
+- datetime: 2024-04-08T21:00:17.401Z
+  text: ""
+  author: ""
+  position:
+    longitude: 14.2077493
+    latitude: 54.0290573
+    source: GPS
+  heading: 353
+  course: 342
+  speed:
+    stw: 4.6
+    sog: 4.3
+  log: 3416.9
+  barometer: 1010.17
+  wind:
+    speed: 8.2
+    direction: 62
+  engine:
+    hours: 703.7
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
