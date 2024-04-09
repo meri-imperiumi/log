@@ -252,7 +252,7 @@
     - bergie
   category: navigation
 - datetime: 2024-04-09T06:00:55.299Z
-  text: We're starting to hear Sweden Rescue and Lyngby Radio
+  text: We're starting to hear Sweden Traffic and Lyngby Radio
   author: bergie
   position:
     longitude: 13.7357808
@@ -370,3 +370,28 @@
   crewNames:
     - ihmis-suski
     - bergie
+  category: navigation
+- datetime: 2024-04-09T09:00:31.600Z
+  text: ""
+  author: ""
+  position:
+    longitude: 13.5544675
+    latitude: 54.8162878
+    source: GPS
+  heading: 346
+  course: 356
+  speed:
+    stw: 5.1
+    sog: 5.6
+  log: 3469.9
+  barometer: 1008.6
+  wind:
+    speed: 14.2
+    direction: 110
+  engine:
+    hours: 704.2
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: navigation
