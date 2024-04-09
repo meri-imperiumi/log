@@ -251,3 +251,51 @@
     - ihmis-suski
     - bergie
   category: navigation
+- datetime: 2024-04-09T06:00:55.299Z
+  text: We're starting to hear Sweden Rescue and Lyngby Radio
+  author: bergie
+  position:
+    longitude: 13.7357808
+    latitude: 54.6004626
+    source: GPS
+  heading: 329
+  course: 314
+  speed:
+    stw: 2.8
+    sog: 2.9
+  log: 3455.2
+  barometer: 1009.42
+  wind:
+    speed: 7.9
+    direction: 85
+  engine:
+    hours: 704.2
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: radio
+- datetime: 2024-04-09T06:29:46.300Z
+  text: "Deployed hydrogenerator "
+  author: bergie
+  position:
+    longitude: 13.7113744
+    latitude: 54.6280818
+    source: GPS
+  heading: 344
+  course: 337
+  speed:
+    stw: 5
+    sog: 4.7
+  log: 3457.1
+  barometer: 1009.16
+  wind:
+    speed: 12
+    direction: 100
+  engine:
+    hours: 704.2
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: navigation
