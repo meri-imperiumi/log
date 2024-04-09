@@ -729,3 +729,128 @@
   crewNames:
     - ihmis-suski
     - bergie
+  category: navigation
+- datetime: 2024-04-08T23:00:51.398Z
+  text: ""
+  author: ""
+  position:
+    longitude: 14.1154346
+    latitude: 54.1357208
+    source: GPS
+  heading: 339
+  course: 343
+  speed:
+    stw: 3.9
+    sog: 3.8
+  log: 3424.1
+  barometer: 1009.37
+  wind:
+    speed: 8.7
+    direction: 97
+  engine:
+    hours: 703.7
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: navigation
+- datetime: 2024-04-08T23:06:51.398Z
+  text: Suski to watch, Bergie to sleep. Starry night
+  author: ihmis-suski
+  position:
+    longitude: 14.1104376633962
+    latitude: 54.140616496404014
+    source: GPS
+  heading: 334
+  course: 331
+  speed:
+    stw: 3.3
+    sog: 3.1
+  log: 3424.5
+  barometer: 1009.34
+  wind:
+    speed: 8.6
+    direction: 90
+  engine:
+    hours: 703.7
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: navigation
+  observations:
+    seaState: 2
+    cloudCoverage: 0
+    visibility: 7
+- datetime: 2024-04-08T23:50:45.401Z
+  text: Autopilot deactivated
+  author: ""
+  position:
+    longitude: 14.0834101
+    latitude: 54.1720653
+    source: GPS
+  heading: 83
+  course: 52
+  speed:
+    stw: 0
+    sog: 1.3
+  log: 3426.6
+  barometer: 1009.45
+  wind:
+    speed: 10
+    direction: 335
+  engine:
+    hours: 703.7
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: navigation
+- datetime: 2024-04-08T23:57:11.398Z
+  text: Sails down, motoring
+  author: ""
+  position:
+    longitude: 14.0838256
+    latitude: 54.1721553
+    source: GPS
+  heading: 305
+  course: 306
+  speed:
+    stw: 1.3
+    sog: 1.6
+  log: 3426.7
+  barometer: 1009.2
+  wind:
+    speed: 5.2
+    direction: 35
+  engine:
+    hours: 703.7
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: navigation
+- datetime: 2024-04-08T23:57:14.400Z
+  text: Autopilot activated
+  author: ""
+  position:
+    longitude: 14.0837958
+    latitude: 54.172169
+    source: GPS
+  heading: 303
+  course: 304
+  speed:
+    stw: 1.6
+    sog: 1.8
+  log: 3426.7
+  barometer: 1009.2
+  wind:
+    speed: 5.2
+    direction: 22
+  engine:
+    hours: 703.7
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: navigation
