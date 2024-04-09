@@ -172,7 +172,7 @@
     - bergie
   category: navigation
 - datetime: 2024-04-09T04:21:22.300Z
-  text: Hydrogenator deployed.
+  text: Hydrogenerator deployed.
   author: ihmis-suski
   position:
     longitude: 13.8444186
@@ -199,3 +199,55 @@
     seaState: 2
     cloudCoverage: 2
     visibility: 7
+- datetime: 2024-04-09T05:00:11.299Z
+  text: Bergie on watch
+  author: bergie
+  position:
+    longitude: 13.8020081
+    latitude: 54.5437653
+    source: GPS
+  heading: 338
+  course: 326
+  speed:
+    stw: 4.4
+    sog: 4.1
+  log: 3451.1
+  barometer: 1009.3
+  wind:
+    speed: 11.3
+    direction: 94
+  engine:
+    hours: 704.2
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: navigation
+  observations:
+    seaState: 2
+    cloudCoverage: 3
+    visibility: 7
+- datetime: 2024-04-09T05:42:00.300Z
+  text: "Stowed hydrogenerator "
+  author: bergie
+  position:
+    longitude: 13.7550696
+    latitude: 54.586424
+    source: GPS
+  heading: 328
+  course: 324
+  speed:
+    stw: 3.9
+    sog: 3.9
+  log: 3454.2
+  barometer: 1009.4
+  wind:
+    speed: 10.2
+    direction: 100
+  engine:
+    hours: 704.2
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: navigation
