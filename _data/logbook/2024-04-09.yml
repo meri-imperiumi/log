@@ -1,0 +1,77 @@
+- datetime: 2024-04-09T00:00:47.400Z
+  text: ""
+  author: ""
+  position:
+    longitude: 14.0799168
+    latitude: 54.1760181
+    source: GPS
+  heading: 344
+  course: 339
+  speed:
+    stw: 5.6
+    sog: 5.4
+  log: 3426.9
+  barometer: 1009.17
+  wind:
+    speed: 4.8
+    direction: 19
+  engine:
+    hours: 703.7
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: navigation
+- datetime: 2024-04-09T00:02:47.400Z
+  text: A very 360 windshift. Wind died, turned. Needed to wake Bergie to steer
+    for getting the genoa untangled from stay sail vantti.
+  author: ihmis-suski
+  position:
+    longitude: 14.0778088
+    latitude: 54.1787493
+    source: GPS
+  heading: 343
+  course: 341
+  speed:
+    stw: 5.5
+    sog: 5.3
+  log: 3427.1
+  barometer: 1009.27
+  wind:
+    speed: 6.4
+    direction: 4
+  engine:
+    hours: 703.8
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: navigation
+  observations:
+    seaState: 2
+    cloudCoverage: 1
+    visibility: 6
+- datetime: 2024-04-09T00:28:22.400Z
+  text: Motor stopped, sailing with Main, Genoa 1
+  author: ""
+  position:
+    longitude: 14.0521058
+    latitude: 54.2118848
+    source: GPS
+  heading: 344
+  course: 338
+  speed:
+    stw: 3.7
+    sog: 3.5
+  log: 3429.3
+  barometer: 1009.2
+  wind:
+    speed: 7.4
+    direction: 27
+  engine:
+    hours: 704.2
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: navigation
