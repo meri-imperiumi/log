@@ -470,3 +470,107 @@
   crewNames:
     - ihmis-suski
     - bergie
+  category: navigation
+- datetime: 2024-04-09T12:00:32.601Z
+  text: ""
+  author: ""
+  position:
+    longitude: 13.2317881
+    latitude: 55.0545536
+    source: GPS
+  heading: 331
+  course: 314
+  speed:
+    stw: 6.7
+    sog: 6.4
+  log: 3488.2
+  barometer: 1006.26
+  wind:
+    speed: 19.8
+    direction: 102
+  engine:
+    hours: 704.2
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: navigation
+- datetime: 2024-04-09T12:28:51.600Z
+  text: Autopilot activated
+  author: ""
+  position:
+    longitude: 13.187715339660645
+    latitude: 55.0846293369929
+    source: GPS
+  heading: 332
+  course: 323
+  speed:
+    stw: 1.1
+    sog: 1
+  log: 3490.6
+  barometer: 1007.48
+  wind:
+    speed: 8.1
+    direction: 104
+  engine:
+    hours: 704.2
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: navigation
+- datetime: 2024-04-09T12:29:52.601Z
+  text: Sails down, motoring
+  author: ""
+  position:
+    longitude: 13.1873148
+    latitude: 55.0848999
+    source: GPS
+  heading: 330
+  course: 279
+  speed:
+    stw: 1.4
+    sog: 2.4
+  log: 3490.6
+  barometer: 1007.32
+  wind:
+    speed: 8.1
+    direction: 112
+  engine:
+    hours: 704.2
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: navigation
+- datetime: 2024-04-09T12:51:33.600Z
+  text: Between 2 fronts. Wind is going all over the place, east to west, 0 to
+    10kn. As the wind started dropping from the easterly we knew what to expect,
+    so we took the sails down before it too got too hairy. Now motoring in big
+    swell and waiting for the westerly to prevail.
+  author: ihmis-suski
+  position:
+    longitude: 13.1588229
+    latitude: 55.1097206
+    source: GPS
+  heading: 306
+  course: 303
+  speed:
+    stw: 5.4
+    sog: 4.3
+  log: 3492.5
+  barometer: 1007.41
+  wind:
+    speed: 6
+    direction: 76
+  engine:
+    hours: 704.5
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: navigation
+  observations:
+    seaState: 3
+    cloudCoverage: 8
+    visibility: 7
