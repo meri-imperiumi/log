@@ -146,3 +146,56 @@
   crewNames:
     - ihmis-suski
     - bergie
+  category: navigation
+- datetime: 2024-04-09T04:00:25.299Z
+  text: ""
+  author: ""
+  position:
+    longitude: 13.8689098
+    latitude: 54.46522
+    source: GPS
+  heading: 347
+  course: 343
+  speed:
+    stw: 6
+    sog: 6.1
+  log: 3445.8
+  barometer: 1009.12
+  wind:
+    speed: 14.1
+    direction: 71
+  engine:
+    hours: 704.2
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: navigation
+- datetime: 2024-04-09T04:21:22.300Z
+  text: Hydrogenator deployed.
+  author: ihmis-suski
+  position:
+    longitude: 13.8444186
+    latitude: 54.4958223
+    source: GPS
+  heading: 341
+  course: 331
+  speed:
+    stw: 5.8
+    sog: 5.8
+  log: 3447.9
+  barometer: 1009.11
+  wind:
+    speed: 13.9
+    direction: 78
+  engine:
+    hours: 704.2
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: navigation
+  observations:
+    seaState: 2
+    cloudCoverage: 2
+    visibility: 7
