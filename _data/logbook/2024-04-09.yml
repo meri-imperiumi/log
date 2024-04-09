@@ -395,3 +395,55 @@
     - ihmis-suski
     - bergie
   category: navigation
+- datetime: 2024-04-09T10:00:32.601Z
+  text: ""
+  author: ""
+  position:
+    longitude: 13.4673478
+    latitude: 54.8911408
+    source: GPS
+  heading: 319
+  course: 307
+  speed:
+    stw: 5.8
+    sog: 5.4
+  log: 3475.4
+  barometer: 1007.94
+  wind:
+    speed: 15.3
+    direction: 74
+  engine:
+    hours: 704.2
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: navigation
+- datetime: 2024-04-09T10:35:32.601Z
+  text: Past the traffic lanes to NOK
+  author: bergie
+  position:
+    longitude: 13.3977958
+    latitude: 54.9341691
+    source: GPS
+  heading: 324
+  course: 316
+  speed:
+    stw: 5.9
+    sog: 6.1
+  log: 3478.9
+  barometer: 1007.65
+  wind:
+    speed: 15.8
+    direction: 97
+  engine:
+    hours: 704.2
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: navigation
+  observations:
+    seaState: 3
+    cloudCoverage: 5
+    visibility: 7
