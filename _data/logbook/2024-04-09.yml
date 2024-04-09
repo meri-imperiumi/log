@@ -24,7 +24,7 @@
   category: navigation
 - datetime: 2024-04-09T00:02:47.400Z
   text: A very 360 windshift. Wind died, turned. Needed to wake Bergie to steer
-    for getting the genoa untangled from stay sail vantti.
+    for getting the genoa untangled from stay sail staagi.
   author: ihmis-suski
   position:
     longitude: 14.0778088
@@ -68,6 +68,30 @@
   wind:
     speed: 7.4
     direction: 27
+  engine:
+    hours: 704.2
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: navigation
+- datetime: 2024-04-09T01:00:45.400Z
+  text: ""
+  author: ""
+  position:
+    longitude: 14.0253244
+    latitude: 54.2487931
+    source: GPS
+  heading: 342
+  course: 327
+  speed:
+    stw: 4.8
+    sog: 4.2
+  log: 3431.7
+  barometer: 1009.24
+  wind:
+    speed: 7.7
+    direction: 35
   engine:
     hours: 704.2
   vhf: "16"
