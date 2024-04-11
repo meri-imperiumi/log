@@ -571,3 +571,100 @@
   crewNames:
     - ihmis-suski
     - bergie
+  category: navigation
+- datetime: 2024-04-11T20:30:42.803Z
+  text: "Autopilot deactivated, close traffic situation and autopilot having
+    trouble with the gusts "
+  author: bergie
+  position:
+    longitude: 12.338589
+    latitude: 56.3100388
+    source: GPS
+  heading: 335
+  course: 355
+  speed:
+    stw: 6.4
+    sog: 8.1
+  log: 3580.6
+  barometer: 1026.07
+  wind:
+    speed: 23.7
+    direction: 248
+  engine:
+    hours: 712
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: navigation
+- datetime: 2024-04-11T20:46:08.800Z
+  text: Autopilot activated
+  author: ""
+  position:
+    longitude: 12.3294403
+    latitude: 56.3376501
+    source: GPS
+  heading: 24
+  course: 16
+  speed:
+    stw: 6.2
+    sog: 6.6
+  log: 3582.3
+  barometer: 1026.09
+  wind:
+    speed: 23.5
+    direction: 248
+  engine:
+    hours: 712
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: navigation
+- datetime: 2024-04-11T20:52:41.798Z
+  text: "Autopilot deactivated, windvane steering "
+  author: bergie
+  position:
+    longitude: 12.325422509511311
+    latitude: 56.34882717132568
+    source: GPS
+  heading: 325
+  course: 318
+  speed:
+    stw: 6
+    sog: 6.4
+  log: 3583
+  barometer: 1026.05
+  wind:
+    speed: 23.6
+    direction: 244
+  engine:
+    hours: 712
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: navigation
+- datetime: 2024-04-11T21:00:03.801Z
+  text: ""
+  author: ""
+  position:
+    longitude: 12.315606848398845
+    latitude: 56.360701656341554
+    source: GPS
+  heading: 339
+  course: 345
+  speed:
+    stw: 6.4
+    sog: 6.4
+  log: 3583.8
+  barometer: 1026.19
+  wind:
+    speed: 22
+    direction: 237
+  engine:
+    hours: 712
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
