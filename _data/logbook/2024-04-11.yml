@@ -444,3 +444,55 @@
     seaState: 3
     cloudCoverage: 3
     visibility: 7
+- datetime: 2024-04-11T18:00:41.900Z
+  text: Bergie on watch
+  author: bergie
+  position:
+    longitude: 12.5081819
+    latitude: 56.1046583
+    source: GPS
+  heading: 290
+  course: 294
+  speed:
+    stw: 5.8
+    sog: 5.2
+  log: 3567
+  barometer: 1025.37
+  wind:
+    speed: 18.9
+    direction: 236
+  engine:
+    hours: 712
+  vhf: "73"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: navigation
+  observations:
+    seaState: 2
+    cloudCoverage: 2
+    visibility: 7
+- datetime: 2024-04-11T18:06:40.902Z
+  text: "Deployed hydrogenerator "
+  author: bergie
+  position:
+    longitude: 12.4969456
+    latitude: 56.1101279
+    source: GPS
+  heading: 320
+  course: 326
+  speed:
+    stw: 5.1
+    sog: 5.1
+  log: 3567.5
+  barometer: 1025.47
+  wind:
+    speed: 16
+    direction: 225
+  engine:
+    hours: 712
+  vhf: "73"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: navigation
