@@ -392,3 +392,55 @@
     - ihmis-suski
     - bergie
   category: navigation
+- datetime: 2024-04-11T17:00:54.899Z
+  text: ""
+  author: ""
+  position:
+    longitude: 12.5939603
+    latitude: 56.0647835
+    source: GPS
+  heading: 306
+  course: 304
+  speed:
+    stw: 5.4
+    sog: 4.3
+  log: 3563.2
+  barometer: 1025.14
+  wind:
+    speed: 15.1
+    direction: 245
+  engine:
+    hours: 712
+  vhf: "73"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: navigation
+- datetime: 2024-04-11T17:27:48.902Z
+  text: 50 degree wind changes and anything between 7 and 15 knots. Just like Havel.
+  author: ihmis-suski
+  position:
+    longitude: 12.5598921
+    latitude: 56.0821283
+    source: GPS
+  heading: 308
+  course: 308
+  speed:
+    stw: 4.4
+    sog: 3.5
+  log: 3564.8
+  barometer: 1025.19
+  wind:
+    speed: 12.4
+    direction: 266
+  engine:
+    hours: 712
+  vhf: "73"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: navigation
+  observations:
+    seaState: 3
+    cloudCoverage: 3
+    visibility: 7
