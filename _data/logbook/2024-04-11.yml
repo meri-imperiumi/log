@@ -496,3 +496,78 @@
     - ihmis-suski
     - bergie
   category: navigation
+- datetime: 2024-04-11T19:00:30.899Z
+  text: Back in Swedish waters
+  author: bergie
+  position:
+    longitude: 12.4466248
+    latitude: 56.1748455
+    source: GPS
+  heading: 339
+  course: 344
+  speed:
+    stw: 4.4
+    sog: 4.2
+  log: 3571.7
+  barometer: 1025.97
+  wind:
+    speed: 14.1
+    direction: 234
+  engine:
+    hours: 712
+  vhf: "73"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: navigation
+- datetime: 2024-04-11T19:23:27.801Z
+  text: Low bank of clouds rolling in
+  author: bergie
+  position:
+    longitude: 12.4235663
+    latitude: 56.2054835
+    source: GPS
+  heading: 338
+  course: 345
+  speed:
+    stw: 6.1
+    sog: 5.8
+  log: 3573.7
+  barometer: 1026.18
+  wind:
+    speed: 19.3
+    direction: 255
+  engine:
+    hours: 712
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: navigation
+  observations:
+    seaState: 3
+    cloudCoverage: 5
+    visibility: 7
+- datetime: 2024-04-11T20:00:20.800Z
+  text: ""
+  author: ""
+  position:
+    longitude: 12.3776226
+    latitude: 56.2608319
+    source: GPS
+  heading: 325
+  course: 345
+  speed:
+    stw: 5.9
+    sog: 6.7
+  log: 3577.4
+  barometer: 1026.17
+  wind:
+    speed: 19.7
+    direction: 228
+  engine:
+    hours: 712
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
