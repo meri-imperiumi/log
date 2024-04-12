@@ -298,3 +298,50 @@
     seaState: 3
     cloudCoverage: 8
     visibility: 5
+- datetime: 2024-04-12T08:00:58.000Z
+  text: ""
+  author: ""
+  position:
+    longitude: 11.6411699
+    latitude: 57.1630146
+    source: GPS
+  heading: 354
+  course: 345
+  speed:
+    stw: 5.8
+    sog: 6
+  log: 3637.8
+  barometer: 1022.2
+  wind:
+    speed: 21
+    direction: 203
+  engine:
+    hours: 712
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: navigation
+- datetime: 2024-04-12T08:59:59.001Z
+  text: ""
+  author: ""
+  position:
+    longitude: 11.6043425
+    latitude: 57.2543318
+    source: GPS
+  heading: 352
+  course: 352
+  speed:
+    stw: 6.2
+    sog: 6
+  log: 3643.5
+  barometer: 1021.31
+  wind:
+    speed: 19.5
+    direction: 208
+  engine:
+    hours: 712
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
