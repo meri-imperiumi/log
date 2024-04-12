@@ -520,7 +520,7 @@
   category: navigation
 - datetime: 2024-04-12T16:28:55.897Z
   text: Sails down, motoring
-  author: ""
+  author: bergie
   position:
     longitude: 11.5454546
     latitude: 57.9361528
@@ -541,4 +541,55 @@
   crewNames:
     - ihmis-suski
     - bergie
+  category: navigation
+  observations:
+    cloudCoverage: 8
+    seaState: 2
+    visibility: 2
+- datetime: 2024-04-12T17:00:35.897Z
+  text: ""
+  author: ""
+  position:
+    longitude: 11.5292388
+    latitude: 57.9670988
+    source: GPS
+  heading: 10
+  course: 1
+  speed:
+    stw: 5.5
+    sog: 5.2
+  log: 3689.1
+  barometer: 1018.39
+  wind:
+    speed: 12.4
+    direction: 282
+  engine:
+    hours: 712.5
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: navigation
+- datetime: 2024-04-12T17:28:29.900Z
+  text: Stopped, SXK buoy
+  author: bergie
+  position:
+    longitude: 11.5293433
+    latitude: 57.9842264
+    source: GPS
+  heading: 246
+  course: 228
+  speed:
+    stw: 0
+    sog: 0
+  log: 3690.3
+  barometer: 1018.61
+  wind:
+    speed: 6.2
+    direction: 271
+  engine:
+    hours: 712.8
+  crewNames:
+    - ihmis-suski
+    - bergie
+  end: true
   category: navigation
