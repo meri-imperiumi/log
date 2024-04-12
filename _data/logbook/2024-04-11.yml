@@ -696,3 +696,52 @@
   crewNames:
     - ihmis-suski
     - bergie
+  category: navigation
+- datetime: 2024-04-11T23:00:40.800Z
+  text: ""
+  author: ""
+  position:
+    longitude: 12.1921721
+    latitude: 56.5190056
+    source: GPS
+  heading: 334
+  course: 339
+  speed:
+    stw: 4.9
+    sog: 4.4
+  log: 3594.3
+  barometer: 1027.23
+  wind:
+    speed: 14.2
+    direction: 238
+  engine:
+    hours: 712
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: navigation
+- datetime: 2024-04-11T23:24:39.801Z
+  text: Pretty strong contrary current again, about 0.6kt
+  author: bergie
+  position:
+    longitude: 12.1737653
+    latitude: 56.5462263
+    source: GPS
+  heading: 340
+  course: 320
+  speed:
+    stw: 4.8
+    sog: 4.7
+  log: 3596.1
+  barometer: 1027.21
+  wind:
+    speed: 16.9
+    direction: 253
+  engine:
+    hours: 712
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: navigation
