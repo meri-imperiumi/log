@@ -465,3 +465,32 @@
   crewNames:
     - ihmis-suski
     - bergie
+  category: navigation
+- datetime: 2024-04-12T15:46:53.900Z
+  text: "Stowed hydrogenerator and hand steering. "
+  author: bergie
+  position:
+    longitude: 11.5130131
+    latitude: 57.8840128
+    source: GPS
+  heading: 64
+  course: 61
+  speed:
+    stw: 5.4
+    sog: 6.2
+  log: 3682.6
+  barometer: 1018.15
+  wind:
+    speed: 19.9
+    direction: 273
+  engine:
+    hours: 712
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: navigation
+  observations:
+    seaState: 2
+    cloudCoverage: 8
+    visibility: 2
