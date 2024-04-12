@@ -246,3 +246,55 @@
     cloudCoverage: 8
     visibility: 4
     seaState: 3
+- datetime: 2024-04-12T07:00:58.000Z
+  text: ""
+  author: ""
+  position:
+    longitude: 11.718291
+    latitude: 57.0761144
+    source: GPS
+  heading: 334
+  course: 341
+  speed:
+    stw: 5.3
+    sog: 6
+  log: 3631.9
+  barometer: 1023.56
+  wind:
+    speed: 17.8
+    direction: 204
+  engine:
+    hours: 712
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: navigation
+- datetime: 2024-04-12T07:32:59.001Z
+  text: "Fog is lifting, but occasional showers.  Current has turned favourable "
+  author: bergie
+  position:
+    longitude: 11.682524172465007
+    latitude: 57.120865829785664
+    source: GPS
+  heading: 340
+  course: 332
+  speed:
+    stw: 5.6
+    sog: 4.9
+  log: 3634.9
+  barometer: 1022.73
+  wind:
+    speed: 20.1
+    direction: 214
+  engine:
+    hours: 712
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: navigation
+  observations:
+    seaState: 3
+    cloudCoverage: 8
+    visibility: 5
