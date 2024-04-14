@@ -334,3 +334,77 @@
     - ihmis-suski
     - bergie
   category: navigation
+- datetime: 2024-04-14T14:45:11.900Z
+  text: Started main engine
+  author: ""
+  position:
+    longitude: 11.5503175
+    latitude: 58.2650155
+    source: GPS
+  heading: 286
+  course: 269
+  speed:
+    stw: 0
+    sog: 0
+  log: 3713.9
+  barometer: 1006.07
+  wind:
+    speed: 6.5
+    direction: 15
+  engine:
+    hours: 718.5
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: navigation
+- datetime: 2024-04-14T14:47:49.900Z
+  text: Stopped main engine
+  author: ""
+  position:
+    longitude: 11.5503471
+    latitude: 58.2649973
+    source: GPS
+  heading: 358
+  course: 355
+  speed:
+    stw: 0
+    sog: 0.3
+  log: 3713.9
+  barometer: 1006.28
+  wind:
+    speed: 5.4
+    direction: 332
+  engine:
+    hours: 718.6
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: navigation
+- datetime: 2024-04-14T14:55:56.902Z
+  text: Switched Orion XS to a shorter 10mm² cable, and added ferrite blocks.
+    Appears to eliminate VHF interference on channel 16, at least on idle. Also
+    fitted SAE connectors for mast light cables.
+  author: bergie
+  position:
+    longitude: 11.550329
+    latitude: 58.2650181
+    source: GPS
+  heading: 339
+  course: 300
+  speed:
+    stw: 0
+    sog: 0
+  log: 3713.9
+  barometer: 1006.28
+  wind:
+    speed: 7
+    direction: 4
+  engine:
+    hours: 718.6
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: maintenance
