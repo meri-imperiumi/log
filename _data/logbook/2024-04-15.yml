@@ -46,52 +46,103 @@
     - ihmis-suski
     - bergie
   category: navigation
-- datetime: 2024-04-15T07:19:46.300Z
-  text: Stopped
+- datetime: 2024-04-15T08:00:34.201Z
+  text: ""
   author: ""
   position:
-    longitude: 11.5514165
-    latitude: 58.2650276
+    longitude: 11.5739571
+    latitude: 58.2428931
     source: GPS
-  heading: 127
-  course: 128
+  heading: 187
+  course: 194
   speed:
-    stw: 1.2
-    sog: 1.3
-  log: 3713.9
-  barometer: 1006.66
+    stw: 5.3
+    sog: 5.1
+  log: 3716
+  barometer: 1006.72
   wind:
-    speed: 4.9
-    direction: 272
+    speed: 6.5
+    direction: 187
   engine:
-    hours: 718.7
-  vhf: "16"
-  crewNames:
-    - ihmis-suski
-    - bergie
-  end: true
-  category: navigation
-- datetime: 2024-04-15T07:23:45.299Z
-  text: Motoring
-  author: ""
-  position:
-    longitude: 11.5528231
-    latitude: 58.2640583
-    source: GPS
-  heading: 128
-  course: 136
-  speed:
-    stw: 1.8
-    sog: 1.8
-  log: 3713.9
-  barometer: 1006.65
-  wind:
-    speed: 3.5
-    direction: 351
-  engine:
-    hours: 718.8
+    hours: 719.4
   vhf: "16"
   crewNames:
     - ihmis-suski
     - bergie
   category: navigation
+- datetime: 2024-04-15T08:37:24.300Z
+  text: 2kt current against us here in the narrows. Probably rising tide.
+  author: bergie
+  position:
+    longitude: 11.5092586
+    latitude: 58.2098218
+    source: GPS
+  heading: 237
+  course: 242
+  speed:
+    stw: 5.4
+    sog: 4.1
+  log: 3719.1
+  barometer: 1006.76
+  wind:
+    speed: 5.4
+    direction: 234
+  engine:
+    hours: 720
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: navigation
+  observations:
+    seaState: 1
+    cloudCoverage: 2
+    visibility: 8
+- datetime: 2024-04-15T08:54:19.200Z
+  text: Past the cable ferry. On land there was a display telling next departure
+    (11:00)
+  author: bergie
+  position:
+    longitude: 11.4857743
+    latitude: 58.1948586
+    source: GPS
+  heading: 238
+  course: 245
+  speed:
+    stw: 5.2
+    sog: 4.4
+  log: 3720.4
+  barometer: 1006.6
+  wind:
+    speed: 7.2
+    direction: 238
+  engine:
+    hours: 720.3
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: navigation
+- datetime: 2024-04-15T09:00:17.200Z
+  text: ""
+  author: ""
+  position:
+    longitude: 11.4739375
+    latitude: 58.1910525
+    source: GPS
+  heading: 248
+  course: 252
+  speed:
+    stw: 5.3
+    sog: 4.3
+  log: 3720.8
+  barometer: 1006.51
+  wind:
+    speed: 5.5
+    direction: 244
+  engine:
+    hours: 720.4
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
