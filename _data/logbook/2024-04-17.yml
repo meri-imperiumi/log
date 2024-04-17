@@ -477,8 +477,8 @@
     - bergie
   category: navigation
 - datetime: 2024-04-17T17:56:12.697Z
-  text: Autopilot deactivated
-  author: ""
+  text: Autopilot deactivated,  can't cope with the wind with full sail up
+  author: bergie
   position:
     longitude: 11.2710083
     latitude: 58.2618118
@@ -517,6 +517,108 @@
   wind:
     speed: 22.7
     direction: 336
+  engine:
+    hours: 724.7
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: navigation
+- datetime: 2024-04-17T18:21:41.702Z
+  text: |-
+    Sails set: Main (2nd reef), Genoa 1 (60% furled)
+    Wow, that totally wasn't in the forecast. Wind up to 34kt instead of 14kt
+  author: bergie
+  position:
+    longitude: 11.2026721
+    latitude: 58.2322964
+    source: GPS
+  heading: 255
+  course: 244
+  speed:
+    stw: 6.9
+    sog: 8.7
+  log: 3741.2
+  barometer: 1011.76
+  wind:
+    speed: 28.8
+    direction: 358
+  engine:
+    hours: 724.7
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: navigation
+- datetime: 2024-04-17T18:34:02.700Z
+  text: Autopilot activated
+  author: ""
+  position:
+    longitude: 11.1629728
+    latitude: 58.2267745
+    source: GPS
+  heading: 271
+  course: 281
+  speed:
+    stw: 5.6
+    sog: 6
+  log: 3742.5
+  barometer: 1012.1
+  wind:
+    speed: 24.6
+    direction: 351
+  engine:
+    hours: 724.7
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: navigation
+- datetime: 2024-04-17T18:41:03.699Z
+  text: "Almost 1kt current.  Wind is against it, so sharp seas "
+  author: bergie
+  position:
+    longitude: 11.1378888
+    latitude: 58.2227056
+    source: GPS
+  heading: 252
+  course: 252
+  speed:
+    stw: 6.4
+    sog: 6.9
+  log: 3743.4
+  barometer: 1012.16
+  wind:
+    speed: 26.6
+    direction: 0
+  engine:
+    hours: 724.7
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: navigation
+  observations:
+    seaState: 4
+    cloudCoverage: 6
+    visibility: 8
+- datetime: 2024-04-17T19:00:00.697Z
+  text: ""
+  author: ""
+  position:
+    longitude: 11.072744
+    latitude: 58.218495
+    source: GPS
+  heading: 275
+  course: 256
+  speed:
+    stw: 6.4
+    sog: 7.1
+  log: 3745.5
+  barometer: 1012.54
+  wind:
+    speed: 28.8
+    direction: 14
   engine:
     hours: 724.7
   vhf: "16"
