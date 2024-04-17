@@ -649,3 +649,100 @@
   crewNames:
     - ihmis-suski
     - bergie
+  category: navigation
+- datetime: 2024-04-17T21:00:53.702Z
+  text: ""
+  author: ""
+  position:
+    longitude: 10.7065724
+    latitude: 58.2767553
+    source: GPS
+  heading: 308
+  course: 303
+  speed:
+    stw: 4
+    sog: 5.4
+  log: 3757.8
+  barometer: 1013.55
+  wind:
+    speed: 16.4
+    direction: 61
+  engine:
+    hours: 724.7
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: navigation
+- datetime: 2024-04-17T21:26:14.700Z
+  text: "Sails set: Main (2nd reef), Genoa 1"
+  author: ""
+  position:
+    longitude: 10.6578441
+    latitude: 58.2940146
+    source: GPS
+  heading: 327
+  course: 310
+  speed:
+    stw: 4.9
+    sog: 4.7
+  log: 3759.7
+  barometer: 1013.77
+  wind:
+    speed: 11.6
+    direction: 34
+  engine:
+    hours: 724.7
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: navigation
+- datetime: 2024-04-17T21:42:54.700Z
+  text: "Deployed hydrogenerator "
+  author: bergie
+  position:
+    longitude: 10.6176183
+    latitude: 58.3054606
+    source: GPS
+  heading: 296
+  course: 275
+  speed:
+    stw: 4.1
+    sog: 4.6
+  log: 3761.1
+  barometer: 1013.85
+  wind:
+    speed: 11.7
+    direction: 39
+  engine:
+    hours: 724.7
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: navigation
+- datetime: 2024-04-17T21:50:53.702Z
+  text: Pumped the bilge
+  author: bergie
+  position:
+    longitude: 10.6024904
+    latitude: 58.310713
+    source: GPS
+  heading: 315
+  course: 308
+  speed:
+    stw: 4.2
+    sog: 4.1
+  log: 3761.7
+  barometer: 1013.87
+  wind:
+    speed: 8.6
+    direction: 84
+  engine:
+    hours: 724.7
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: maintenance
