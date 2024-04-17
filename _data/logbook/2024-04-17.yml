@@ -117,3 +117,122 @@
     - bergie
   end: true
   category: navigation
+- datetime: 2024-04-17T11:05:15.398Z
+  text: Filled up 48l diesel
+  author: bergie
+  position:
+    longitude: 11.4424463
+    latitude: 58.2750273
+    source: GPS
+  heading: 312
+  course: 161
+  speed:
+    stw: 0
+    sog: 0
+  log: 3730.4
+  barometer: 1010.49
+  wind:
+    speed: 8.3
+    direction: 254
+  engine:
+    hours: 723.2
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: engine
+- datetime: 2024-04-17T11:06:29.401Z
+  text: Started main engine
+  author: ""
+  position:
+    longitude: 11.4424518
+    latitude: 58.2750161
+    source: GPS
+  heading: 314
+  course: 161
+  speed:
+    stw: 0
+    sog: 0
+  log: 3730.4
+  barometer: 1010.48
+  wind:
+    speed: 5.7
+    direction: 253
+  engine:
+    hours: 723.2
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: navigation
+- datetime: 2024-04-17T11:11:14.400Z
+  text: Motoring
+  author: ""
+  position:
+    longitude: 11.4438346
+    latitude: 58.2726341
+    source: GPS
+  heading: 182
+  course: 187
+  speed:
+    stw: 5.4
+    sog: 5.2
+  log: 3730.4
+  barometer: 1010.37
+  wind:
+    speed: 8.8
+    direction: 223
+  engine:
+    hours: 723.3
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: navigation
+- datetime: 2024-04-17T11:51:43.398Z
+  text: Motor stopped, sailing with Main (1st reef), Staysail
+  author: ""
+  position:
+    longitude: 11.397425
+    latitude: 58.2437466
+    source: GPS
+  heading: 282
+  course: 251
+  speed:
+    stw: 0
+    sog: 0.2
+  log: 3733.4
+  barometer: 1010.66
+  wind:
+    speed: 8.9
+    direction: 240
+  engine:
+    hours: 724
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: navigation
+- datetime: 2024-04-17T11:59:00.400Z
+  text: Stopped
+  author: ""
+  position:
+    longitude: 11.397421
+    latitude: 58.2437646
+    source: GPS
+  heading: 259
+  course: 102
+  speed:
+    stw: 0
+    sog: 0
+  log: 3733.4
+  barometer: 1010.64
+  wind:
+    speed: 9.9
+    direction: 240
+  engine:
+    hours: 724
+  crewNames:
+    - ihmis-suski
+    - bergie
+  end: true
+  category: navigation
