@@ -165,3 +165,80 @@
   crewNames:
     - ihmis-suski
     - bergie
+  category: navigation
+- datetime: 2024-04-18T05:00:59.500Z
+  text: Norwegian courtesy flag up with snowcapped mountains in the horizon.
+    Bergie on watch,  Suski to bed
+  author: bergie
+  position:
+    longitude: 9.561016654968261
+    latitude: 58.559199523925784
+    source: GPS
+  heading: 286
+  course: 256
+  speed:
+    stw: 5.7
+    sog: 6.2
+  log: 3798.2
+  barometer: 1016.19
+  wind:
+    speed: 18.1
+    direction: 44
+  engine:
+    hours: 724.7
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: navigation
+  observations:
+    seaState: 3
+    cloudCoverage: 1
+    visibility: 8
+- datetime: 2024-04-18T05:52:44.499Z
+  text: "Sails set: Main (2nd reef), Genoa 1 (20% furled)"
+  author: ""
+  position:
+    longitude: 9.4046161
+    latitude: 58.5574619
+    source: GPS
+  heading: 284
+  course: 255
+  speed:
+    stw: 6.1
+    sog: 7.1
+  log: 3803.2
+  barometer: 1016.5
+  wind:
+    speed: 18.7
+    direction: 42
+  engine:
+    hours: 724.7
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: navigation
+- datetime: 2024-04-18T05:59:59.500Z
+  text: ""
+  author: ""
+  position:
+    longitude: 9.3802724
+    latitude: 58.5572704
+    source: GPS
+  heading: 281
+  course: 267
+  speed:
+    stw: 5.6
+    sog: 6.3
+  log: 3803.9
+  barometer: 1016.58
+  wind:
+    speed: 14.9
+    direction: 15
+  engine:
+    hours: 724.7
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
