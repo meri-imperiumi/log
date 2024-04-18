@@ -291,3 +291,75 @@
     - ihmis-suski
     - bergie
   category: navigation
+- datetime: 2024-04-18T07:00:44.499Z
+  text: ""
+  author: ""
+  position:
+    longitude: 9.1648836
+    latitude: 58.5390201
+    source: GPS
+  heading: 299
+  course: 267
+  speed:
+    stw: 5.1
+    sog: 6.9
+  log: 3810.8
+  barometer: 1016.82
+  wind:
+    speed: 12.2
+    direction: 21
+  engine:
+    hours: 724.7
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: navigation
+- datetime: 2024-04-18T07:11:42.499Z
+  text: "Stowed hydrogenerator "
+  author: bergie
+  position:
+    longitude: 9.1253071
+    latitude: 58.5371381
+    source: GPS
+  heading: 295
+  course: 268
+  speed:
+    stw: 5.5
+    sog: 6.9
+  log: 3812
+  barometer: 1016.78
+  wind:
+    speed: 11.4
+    direction: 13
+  engine:
+    hours: 724.7
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: navigation
+- datetime: 2024-04-18T07:58:19.500Z
+  text: "Sails set: Genoa 1"
+  author: ""
+  position:
+    longitude: 8.9995075
+    latitude: 58.528214
+    source: GPS
+  heading: 248
+  course: 243
+  speed:
+    stw: 3.3
+    sog: 3.9
+  log: 3816.1
+  barometer: 1017.13
+  wind:
+    speed: 8.8
+    direction: 35
+  engine:
+    hours: 724.7
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: navigation
