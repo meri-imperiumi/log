@@ -242,3 +242,52 @@
   crewNames:
     - ihmis-suski
     - bergie
+  category: navigation
+- datetime: 2024-04-18T06:00:58.499Z
+  text: ""
+  author: ""
+  position:
+    longitude: 9.3769066
+    latitude: 58.5573033
+    source: GPS
+  heading: 285
+  course: 271
+  speed:
+    stw: 6.2
+    sog: 6.8
+  log: 3804
+  barometer: 1016.61
+  wind:
+    speed: 17.4
+    direction: 46
+  engine:
+    hours: 724.7
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: navigation
+- datetime: 2024-04-18T06:42:40.499Z
+  text: "Sails set: Main (2nd reef), Genoa 1"
+  author: ""
+  position:
+    longitude: 9.2307298
+    latitude: 58.5465796
+    source: GPS
+  heading: 284
+  course: 262
+  speed:
+    stw: 5.5
+    sog: 7
+  log: 3808.7
+  barometer: 1016.77
+  wind:
+    speed: 14.5
+    direction: 15
+  engine:
+    hours: 724.7
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: navigation
