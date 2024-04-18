@@ -341,7 +341,7 @@
   category: navigation
 - datetime: 2024-04-18T07:58:19.500Z
   text: "Sails set: Genoa 1"
-  author: ""
+  author: bergie
   position:
     longitude: 8.9995075
     latitude: 58.528214
@@ -358,6 +358,131 @@
     direction: 35
   engine:
     hours: 724.7
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: navigation
+  observations:
+    seaState: 2
+    cloudCoverage: 2
+    visibility: 8
+- datetime: 2024-04-18T08:00:29.500Z
+  text: ""
+  author: ""
+  position:
+    longitude: 8.995747502644857
+    latitude: 58.52724599838257
+    source: GPS
+  heading: 252
+  course: 248
+  speed:
+    stw: 3
+    sog: 3.4
+  log: 3816.2
+  barometer: 1017.08
+  wind:
+    speed: 7.6
+    direction: 50
+  engine:
+    hours: 724.7
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: navigation
+- datetime: 2024-04-18T08:21:19.398Z
+  text: Autopilot deactivated
+  author: ""
+  position:
+    longitude: 8.9582203
+    latitude: 58.5188201
+    source: GPS
+  heading: 262
+  course: 256
+  speed:
+    stw: 4
+    sog: 4.3
+  log: 3817.5
+  barometer: 1017
+  wind:
+    speed: 9.3
+    direction: 71
+  engine:
+    hours: 724.7
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: navigation
+- datetime: 2024-04-18T08:30:41.401Z
+  text: Sails down, motoring
+  author: ""
+  position:
+    longitude: 8.939524
+    latitude: 58.5168896
+    source: GPS
+  heading: 258
+  course: 261
+  speed:
+    stw: 3.8
+    sog: 3.6
+  log: 3818.1
+  barometer: 1016.91
+  wind:
+    speed: 8.5
+    direction: 68
+  engine:
+    hours: 724.7
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: navigation
+- datetime: 2024-04-18T08:44:35.398Z
+  text: Anchored
+  author: ""
+  position:
+    longitude: 8.9226181
+    latitude: 58.5183243
+    source: GPS
+  heading: 58
+  course: 102
+  speed:
+    stw: 0
+    sog: 0
+  log: 3818.7
+  barometer: 1016.88
+  wind:
+    speed: 7
+    direction: 136
+  engine:
+    hours: 724.9
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  end: true
+  category: navigation
+- datetime: 2024-04-18T08:49:53.401Z
+  text: Stopped main engine
+  author: ""
+  position:
+    longitude: 8.922481
+    latitude: 58.5183613
+    source: GPS
+  heading: 72
+  course: 93
+  speed:
+    stw: 0
+    sog: 0
+  log: 3818.7
+  barometer: 1016.9
+  wind:
+    speed: 5.6
+    direction: 103
+  engine:
+    hours: 725
   vhf: "16"
   crewNames:
     - ihmis-suski
