@@ -769,3 +769,58 @@
   crewNames:
     - ihmis-suski
     - bergie
+  category: navigation
+- datetime: 2024-04-17T23:00:54.598Z
+  text: ""
+  author: ""
+  position:
+    longitude: 10.5068873
+    latitude: 58.3572946
+    source: GPS
+  heading: 303
+  course: 290
+  speed:
+    stw: 5.3
+    sog: 5.7
+  log: 3765.8
+  barometer: 1014.55
+  wind:
+    speed: 8.7
+    direction: 0
+  engine:
+    hours: 724.7
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: navigation
+- datetime: 2024-04-17T23:05:54.598Z
+  text: Bergie gave the watch report and went inside. Suski on watch. Wind has
+    died down to expected 10 knots, sea state has also calmed down
+    significantly.
+  author: ihmis-suski
+  position:
+    longitude: 10.4948746
+    latitude: 58.3603014
+    source: GPS
+  heading: 299
+  course: 298
+  speed:
+    stw: 5
+    sog: 5.7
+  log: 3766.3
+  barometer: 1014.56
+  wind:
+    speed: 10.9
+    direction: 19
+  engine:
+    hours: 724.7
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: navigation
+  observations:
+    seaState: 3
+    cloudCoverage: 1
+    visibility: 8
