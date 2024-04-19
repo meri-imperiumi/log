@@ -549,3 +549,29 @@
   crewNames:
     - ihmis-suski
     - bergie
+  category: navigation
+- datetime: 2024-04-19T16:06:23.398Z
+  text: Stopped, Mandal guest harbour
+  author: bergie
+  position:
+    longitude: 7.4526078
+    latitude: 58.0245566
+    source: GPS
+  heading: 329
+  course: 104
+  speed:
+    stw: 0
+    sog: 0
+  log: 3885.2
+  barometer: 1010.94
+  wind:
+    speed: 4.6
+    direction: 100
+  engine:
+    hours: 725.8
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  end: true
+  category: navigation
