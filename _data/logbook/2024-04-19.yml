@@ -238,3 +238,74 @@
   observations:
     seaState: 3
     cloudCoverage: 6
+- datetime: 2024-04-19T08:00:18.201Z
+  text: ""
+  author: ""
+  position:
+    longitude: 8.7325596
+    latitude: 58.3795508
+    source: GPS
+  heading: 215
+  course: 216
+  speed:
+    stw: 6.4
+    sog: 7.9
+  log: 3830.1
+  barometer: 1008.82
+  wind:
+    speed: 25.5
+    direction: 55
+  engine:
+    hours: 725.5
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: navigation
+- datetime: 2024-04-19T08:38:08.499Z
+  text: "Windvane steering "
+  author: bergie
+  position:
+    longitude: 8.6497294
+    latitude: 58.3203301
+    source: GPS
+  heading: 188
+  course: 192
+  speed:
+    stw: 6.2
+    sog: 6.5
+  log: 3834.6
+  barometer: 1008.87
+  wind:
+    speed: 22.9
+    direction: 55
+  engine:
+    hours: 725.5
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: navigation
+- datetime: 2024-04-19T09:00:01.500Z
+  text: ""
+  author: ""
+  position:
+    longitude: 8.6089769
+    latitude: 58.2847711
+    source: GPS
+  heading: 199
+  course: 206
+  speed:
+    stw: 6.4
+    sog: 7.2
+  log: 3837.1
+  barometer: 1009
+  wind:
+    speed: 22.1
+    direction: 65
+  engine:
+    hours: 725.5
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
