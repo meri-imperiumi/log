@@ -482,3 +482,26 @@
     - bergie
   end: true
   category: navigation
+- datetime: 2024-04-19T19:13:16.403Z
+  text: Pumped the bilge
+  author: bergie
+  position:
+    longitude: 7.45267
+    latitude: 58.0245689
+    source: GPS
+  heading: 327
+  course: 171
+  speed:
+    stw: 0
+    sog: 0
+  log: 3885.2
+  barometer: 1013.47
+  wind:
+    speed: 2.4
+    direction: 353
+  engine:
+    hours: 725.8
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: maintenance
