@@ -265,3 +265,103 @@
     - ihmis-suski
     - bergie
   category: navigation
+- datetime: 2024-04-21T10:00:57.299Z
+  text: ""
+  author: ""
+  position:
+    longitude: 7.1390873
+    latitude: 57.9701744
+    source: GPS
+  heading: 278
+  course: 276
+  speed:
+    stw: 3.1
+    sog: 3.2
+  log: 3897.2
+  barometer: 1031.36
+  wind:
+    speed: 7.5
+    direction: 102
+  engine:
+    hours: 726.1
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: navigation
+- datetime: 2024-04-21T10:38:57.299Z
+  text: Passing Cape Lindesnes
+  author: bergie
+  position:
+    longitude: 7.0476619
+    latitude: 57.9744988
+    source: GPS
+  heading: 316
+  course: 314
+  speed:
+    stw: 3.6
+    sog: 3.8
+  log: 3900.3
+  barometer: 1031.47
+  wind:
+    speed: 11.2
+    direction: 152
+  engine:
+    hours: 726.1
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: navigation
+  observations:
+    seaState: 2
+    cloudCoverage: 1
+    visibility: 8
+- datetime: 2024-04-21T10:40:17.299Z
+  text: "Sails set: Main (1st reef)"
+  author: ""
+  position:
+    longitude: 7.0456725
+    latitude: 57.9755696
+    source: GPS
+  heading: 321
+  course: 311
+  speed:
+    stw: 3.4
+    sog: 4
+  log: 3900.4
+  barometer: 1031.47
+  wind:
+    speed: 9.9
+    direction: 149
+  engine:
+    hours: 726.1
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: navigation
+- datetime: 2024-04-21T10:43:16.300Z
+  text: Autopilot deactivated
+  author: ""
+  position:
+    longitude: 7.0415086
+    latitude: 57.9781269
+    source: GPS
+  heading: 323
+  course: 314
+  speed:
+    stw: 3.4
+    sog: 4
+  log: 3900.6
+  barometer: 1031.49
+  wind:
+    speed: 11.4
+    direction: 151
+  engine:
+    hours: 726.1
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: navigation
