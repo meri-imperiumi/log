@@ -365,3 +365,75 @@
     - ihmis-suski
     - bergie
   category: navigation
+- datetime: 2024-04-21T11:00:57.299Z
+  text: ""
+  author: ""
+  position:
+    longitude: 7.0250426
+    latitude: 57.9938513
+    source: GPS
+  heading: 329
+  course: 336
+  speed:
+    stw: 3.9
+    sog: 4
+  log: 3901.6
+  barometer: 1031.65
+  wind:
+    speed: 11.7
+    direction: 154
+  engine:
+    hours: 726.1
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: navigation
+- datetime: 2024-04-21T11:17:05.299Z
+  text: Sails down, motoring
+  author: ""
+  position:
+    longitude: 7.0103145
+    latitude: 58.0086456
+    source: GPS
+  heading: 339
+  course: 332
+  speed:
+    stw: 3.8
+    sog: 3.9
+  log: 3902.7
+  barometer: 1031.86
+  wind:
+    speed: 12.4
+    direction: 179
+  engine:
+    hours: 726.1
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: navigation
+- datetime: 2024-04-21T11:32:54.300Z
+  text: Stopped, Seløyhamn wavebreak with stern buoy
+  author: bergie
+  position:
+    longitude: 6.9978751
+    latitude: 58.0058906
+    source: GPS
+  heading: 187
+  course: 335
+  speed:
+    stw: 0
+    sog: 0
+  log: 3903.3
+  barometer: 1032.12
+  wind:
+    speed: 8.6
+    direction: 173
+  engine:
+    hours: 726.4
+  crewNames:
+    - ihmis-suski
+    - bergie
+  end: true
+  category: navigation
