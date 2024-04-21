@@ -92,3 +92,79 @@
     - ihmis-suski
     - bergie
   category: navigation
+- datetime: 2024-04-21T07:59:57.299Z
+  text: "Started watermaker "
+  author: bergie
+  position:
+    longitude: 7.3762428
+    latitude: 57.9835165
+    source: GPS
+  heading: 260
+  course: 260
+  speed:
+    stw: 5.1
+    sog: 5.9
+  log: 3889.6
+  barometer: 1031.52
+  wind:
+    speed: 14.6
+    direction: 36
+  engine:
+    hours: 726.1
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: navigation
+- datetime: 2024-04-21T08:00:56.300Z
+  text: ""
+  author: ""
+  position:
+    longitude: 7.3732356
+    latitude: 57.9832115
+    source: GPS
+  heading: 259
+  course: 256
+  speed:
+    stw: 5.4
+    sog: 5.9
+  log: 3889.7
+  barometer: 1031.52
+  wind:
+    speed: 13.5
+    direction: 13
+  engine:
+    hours: 726.1
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: navigation
+- datetime: 2024-04-21T08:30:57.299Z
+  text: Poled out genoa
+  author: bergie
+  position:
+    longitude: 7.3015083
+    latitude: 57.9772293
+    source: GPS
+  heading: 246
+  course: 250
+  speed:
+    stw: 4.4
+    sog: 4.2
+  log: 3892
+  barometer: 1031.63
+  wind:
+    speed: 9.7
+    direction: 37
+  engine:
+    hours: 726.1
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: navigation
+  observations:
+    seaState: 2
+    cloudCoverage: 0
+    visibility: 8
