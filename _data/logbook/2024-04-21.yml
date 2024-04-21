@@ -1,0 +1,46 @@
+- datetime: 2024-04-21T06:30:56.200Z
+  text: Filled fresh water at Mandal, 39ppm
+  author: bergie
+  position:
+    longitude: 7.4525703
+    latitude: 58.0245846
+    source: GPS
+  heading: 321
+  course: 323
+  speed:
+    stw: 0
+    sog: 0
+  log: 3885.2
+  barometer: 1030.97
+  wind:
+    speed: 9.4
+    direction: 58
+  engine:
+    hours: 725.8
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: maintenance
+- datetime: 2024-04-21T06:57:06.200Z
+  text: Started main engine
+  author: ""
+  position:
+    longitude: 7.4525743
+    latitude: 58.0245769
+    source: GPS
+  heading: 323
+  course: 275
+  speed:
+    stw: 0
+    sog: 0
+  log: 3885.2
+  barometer: 1031.26
+  wind:
+    speed: 7.6
+    direction: 28
+  engine:
+    hours: 725.8
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: navigation
