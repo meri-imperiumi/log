@@ -168,3 +168,100 @@
     seaState: 2
     cloudCoverage: 0
     visibility: 8
+- datetime: 2024-04-21T09:00:57.299Z
+  text: ""
+  author: ""
+  position:
+    longitude: 7.2482399
+    latitude: 57.9745325
+    source: GPS
+  heading: 272
+  course: 265
+  speed:
+    stw: 3.4
+    sog: 3.3
+  log: 3893.7
+  barometer: 1031.62
+  wind:
+    speed: 7.4
+    direction: 64
+  engine:
+    hours: 726.1
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: navigation
+- datetime: 2024-04-21T09:14:10.300Z
+  text: Autopilot activated
+  author: ""
+  position:
+    longitude: 7.2271018
+    latitude: 57.9737764
+    source: GPS
+  heading: 253
+  course: 270
+  speed:
+    stw: 2.8
+    sog: 3.1
+  log: 3894.4
+  barometer: 1031.58
+  wind:
+    speed: 6.3
+    direction: 38
+  engine:
+    hours: 726.1
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: navigation
+- datetime: 2024-04-21T09:26:44.300Z
+  text: "Sails set: Main (1st reef), Genoa 1. Trying to prevent the sail from
+    banging so much in light winds"
+  author: bergie
+  position:
+    longitude: 7.2070223
+    latitude: 57.9721026
+    source: GPS
+  heading: 259
+  course: 258
+  speed:
+    stw: 4.3
+    sog: 4.6
+  log: 3895
+  barometer: 1031.51
+  wind:
+    speed: 9.6
+    direction: 74
+  engine:
+    hours: 726.1
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: navigation
+- datetime: 2024-04-21T09:49:57.299Z
+  text: Stopped watermaker, 94ppm. Jug full
+  author: bergie
+  position:
+    longitude: 7.1583598
+    latitude: 57.9687193
+    source: GPS
+  heading: 266
+  course: 266
+  speed:
+    stw: 2.8
+    sog: 2.9
+  log: 3896.6
+  barometer: 1031.45
+  wind:
+    speed: 5.8
+    direction: 90
+  engine:
+    hours: 726.1
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: navigation
