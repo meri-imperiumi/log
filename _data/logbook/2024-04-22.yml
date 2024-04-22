@@ -190,3 +190,79 @@
     - ihmis-suski
     - bergie
   category: navigation
+- datetime: 2024-04-22T08:00:54.300Z
+  text: ""
+  author: ""
+  position:
+    longitude: 6.8927341
+    latitude: 58.0108194
+    source: GPS
+  heading: 292
+  course: 281
+  speed:
+    stw: 1.8
+    sog: 1.8
+  log: 3907.3
+  barometer: 1029.22
+  wind:
+    speed: 4.6
+    direction: 83
+  engine:
+    hours: 727.2
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: navigation
+- datetime: 2024-04-22T08:38:54.300Z
+  text: Wind finally shifted, gybed the schmetti over
+  author: bergie
+  position:
+    longitude: 6.8531735
+    latitude: 58.0179825
+    source: GPS
+  heading: 285
+  course: 288
+  speed:
+    stw: 2.9
+    sog: 3.1
+  log: 3908.6
+  barometer: 1029.06
+  wind:
+    speed: 6.6
+    direction: 144
+  engine:
+    hours: 727.2
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: navigation
+- datetime: 2024-04-22T08:41:54.300Z
+  text: "Fishing with the Swedish set. "
+  author: ihmis-suski
+  position:
+    longitude: 6.8485141
+    latitude: 58.0188041
+    source: GPS
+  heading: 288
+  course: 287
+  speed:
+    stw: 2.8
+    sog: 3.2
+  log: 3908.8
+  barometer: 1029.04
+  wind:
+    speed: 7.1
+    direction: 154
+  engine:
+    hours: 727.2
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: navigation
+  observations:
+    seaState: 2
+    cloudCoverage: 1
+    visibility: 8
