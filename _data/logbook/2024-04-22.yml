@@ -313,3 +313,80 @@
   crewNames:
     - ihmis-suski
     - bergie
+  category: navigation
+- datetime: 2024-04-22T11:00:55.299Z
+  text: ""
+  author: ""
+  position:
+    longitude: 6.5639601
+    latitude: 58.0846774
+    source: GPS
+  heading: 315
+  course: 324
+  speed:
+    stw: 4.3
+    sog: 4.5
+  log: 3918.8
+  barometer: 1028.18
+  wind:
+    speed: 9.8
+    direction: 198
+  engine:
+    hours: 727.2
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: navigation
+- datetime: 2024-04-22T11:16:56.300Z
+  text: Passed the Lista lighthouse
+  author: bergie
+  position:
+    longitude: 6.5362469
+    latitude: 58.1000266
+    source: GPS
+  heading: 317
+  course: 325
+  speed:
+    stw: 4.9
+    sog: 5.2
+  log: 3920.1
+  barometer: 1027.95
+  wind:
+    speed: 11.7
+    direction: 189
+  engine:
+    hours: 727.2
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: navigation
+  observations:
+    seaState: 2
+    cloudCoverage: 2
+    visibility: 8
+- datetime: 2024-04-22T11:37:57.299Z
+  text: Gybe towards Flekkefjord
+  author: bergie
+  position:
+    longitude: 6.5089303
+    latitude: 58.1213041
+    source: GPS
+  heading: 27
+  course: 24
+  speed:
+    stw: 4.4
+    sog: 4.4
+  log: 3921.7
+  barometer: 1027.81
+  wind:
+    speed: 11.1
+    direction: 163
+  engine:
+    hours: 727.2
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: navigation
