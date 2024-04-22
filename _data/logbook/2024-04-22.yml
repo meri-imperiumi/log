@@ -390,3 +390,51 @@
     - ihmis-suski
     - bergie
   category: navigation
+- datetime: 2024-04-22T12:00:57.299Z
+  text: ""
+  author: ""
+  position:
+    longitude: 6.5413874
+    latitude: 58.1394758
+    source: GPS
+  heading: 42
+  course: 43
+  speed:
+    stw: 3.8
+    sog: 2.9
+  log: 3923.2
+  barometer: 1027.75
+  wind:
+    speed: 10
+    direction: 183
+  engine:
+    hours: 727.2
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: navigation
+- datetime: 2024-04-22T12:25:08.300Z
+  text: "Sails set: Main"
+  author: ""
+  position:
+    longitude: 6.575726
+    latitude: 58.1537851
+    source: GPS
+  heading: 50
+  course: 59
+  speed:
+    stw: 3.8
+    sog: 3.1
+  log: 3924.6
+  barometer: 1027.65
+  wind:
+    speed: 8.9
+    direction: 199
+  engine:
+    hours: 727.2
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: navigation
