@@ -1,0 +1,71 @@
+- datetime: 2024-04-24T09:30:37.500Z
+  text: Installed and end-to-end tested the large bilge pump. Still needs
+    electrical. Bilge alarm fires up around 15l water in bilge, which is the
+    level to where we can pump with the big pump
+  author: bergie
+  position:
+    longitude: 6.6590791
+    latitude: 58.2646625
+    source: GPS
+  heading: 330
+  course: 157
+  speed:
+    stw: 0
+    sog: 0
+  log: 3933.4
+  barometer: 1011.68
+  wind:
+    speed: 2.8
+    direction: 359
+  engine:
+    hours: 727.5
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: maintenance
+- datetime: 2024-04-24T09:49:18.499Z
+  text: Started main engine
+  author: ""
+  position:
+    longitude: 6.6590469
+    latitude: 58.2646701
+    source: GPS
+  heading: 331
+  course: 91
+  speed:
+    stw: 0
+    sog: 0
+  log: 3933.4
+  barometer: 1011.53
+  wind:
+    speed: 3.5
+    direction: 355
+  engine:
+    hours: 727.5
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: navigation
+- datetime: 2024-04-24T09:55:39.500Z
+  text: Motoring
+  author: ""
+  position:
+    longitude: 6.6615489
+    latitude: 58.2612861
+    source: GPS
+  heading: 152
+  course: 161
+  speed:
+    stw: 5.4
+    sog: 5.7
+  log: 3933.4
+  barometer: 1011.48
+  wind:
+    speed: 3.8
+    direction: 284
+  engine:
+    hours: 727.6
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: navigation
