@@ -238,3 +238,51 @@
   crewNames:
     - ihmis-suski
     - bergie
+  category: navigation
+- datetime: 2024-04-25T06:44:10.800Z
+  text: "Smallish cumulonimbus at the south horizon "
+  author: bergie
+  position:
+    longitude: 6.2252961
+    latitude: 58.2957858
+    source: GPS
+  heading: 294
+  course: 297
+  speed:
+    stw: 3.6
+    sog: 4.8
+  log: 3951.7
+  barometer: 1005.16
+  wind:
+    speed: 8.4
+    direction: 90
+  engine:
+    hours: 730.4
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: navigation
+- datetime: 2024-04-25T07:00:10.700Z
+  text: ""
+  author: ""
+  position:
+    longitude: 6.1898949
+    latitude: 58.3036043
+    source: GPS
+  heading: 295
+  course: 291
+  speed:
+    stw: 3.3
+    sog: 3.8
+  log: 3952.9
+  barometer: 1005.16
+  wind:
+    speed: 7.2
+    direction: 110
+  engine:
+    hours: 730.4
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
