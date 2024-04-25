@@ -334,3 +334,55 @@
   crewNames:
     - ihmis-suski
     - bergie
+  category: navigation
+- datetime: 2024-04-25T10:00:14.099Z
+  text: ""
+  author: ""
+  position:
+    longitude: 5.8896013
+    latitude: 58.4056626
+    source: GPS
+  heading: 299
+  course: 293
+  speed:
+    stw: 2.1
+    sog: 3.1
+  log: 3964.2
+  barometer: 1005.02
+  wind:
+    speed: 3.9
+    direction: 250
+  engine:
+    hours: 730.4
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: navigation
+- datetime: 2024-04-25T10:00:14.099Z
+  text: Hydro out.
+  author: ihmis-suski
+  position:
+    longitude: 5.8896013
+    latitude: 58.4056626
+    source: GPS
+  heading: 299
+  course: 293
+  speed:
+    stw: 2.1
+    sog: 3.1
+  log: 3964.2
+  barometer: 1005.02
+  wind:
+    speed: 3.9
+    direction: 250
+  engine:
+    hours: 730.4
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: navigation
+  observations:
+    cloudCoverage: 6
+    visibility: 7
