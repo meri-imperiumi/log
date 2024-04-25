@@ -1,0 +1,167 @@
+- datetime: 2024-04-25T04:06:48.800Z
+  text: Started main engine
+  author: ""
+  position:
+    longitude: 6.4713873
+    latitude: 58.2697403
+    source: GPS
+  heading: 104
+  course: 123
+  speed:
+    stw: 0
+    sog: 0
+  log: 3942.9
+  barometer: 1005.56
+  wind:
+    speed: 4.3
+    direction: 81
+  engine:
+    hours: 730
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: navigation
+- datetime: 2024-04-25T04:16:09.800Z
+  text: Motoring
+  author: ""
+  position:
+    longitude: 6.468940003712972
+    latitude: 58.26945298512777
+    source: GPS
+  heading: 263
+  course: 255
+  speed:
+    stw: 2.1
+    sog: 1.7
+  log: 3942.9
+  barometer: 1005.49
+  wind:
+    speed: 4.4
+    direction: 103
+  engine:
+    hours: 730.1
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: navigation
+- datetime: 2024-04-25T04:31:36.800Z
+  text: Motor stopped, sailing with Main
+  author: ""
+  position:
+    longitude: 6.4646698
+    latitude: 58.2626858
+    source: GPS
+  heading: 175
+  course: 173
+  speed:
+    stw: 1.8
+    sog: 1.8
+  log: 3943.5
+  barometer: 1005.35
+  wind:
+    speed: 5.5
+    direction: 56
+  engine:
+    hours: 730.4
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: navigation
+- datetime: 2024-04-25T04:52:42.800Z
+  text: "Sails set: Main, Genoa 1"
+  author: ""
+  position:
+    longitude: 6.4502545
+    latitude: 58.2583553
+    source: GPS
+  heading: 284
+  course: 278
+  speed:
+    stw: 3.4
+    sog: 3.6
+  log: 3944.2
+  barometer: 1005.3
+  wind:
+    speed: 8.2
+    direction: 14
+  engine:
+    hours: 730.4
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: navigation
+- datetime: 2024-04-25T04:56:18.800Z
+  text: Autopilot activated
+  author: ""
+  position:
+    longitude: 6.4415816
+    latitude: 58.2588488
+    source: GPS
+  heading: 280
+  course: 280
+  speed:
+    stw: 4.5
+    sog: 4.4
+  log: 3944.4
+  barometer: 1005.34
+  wind:
+    speed: 10.4
+    direction: 13
+  engine:
+    hours: 730.4
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: navigation
+- datetime: 2024-04-25T04:59:08.800Z
+  text: "Deployed hydrogenerator "
+  author: bergie
+  position:
+    longitude: 6.4357146
+    latitude: 58.2594126
+    source: GPS
+  heading: 284
+  course: 282
+  speed:
+    stw: 3.3
+    sog: 3.5
+  log: 3944.6
+  barometer: 1005.36
+  wind:
+    speed: 8.6
+    direction: 30
+  engine:
+    hours: 730.4
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: navigation
+  observations:
+    seaState: 2
+    cloudCoverage: 3
+    visibility: 7
+- datetime: 2024-04-25T05:00:08.800Z
+  text: ""
+  author: ""
+  position:
+    longitude: 6.4340516
+    latitude: 58.2595801
+    source: GPS
+  heading: 286
+  course: 286
+  speed:
+    stw: 3.1
+    sog: 3.6
+  log: 3944.7
+  barometer: 1005.36
+  wind:
+    speed: 8.6
+    direction: 31
+  engine:
+    hours: 730.4
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
