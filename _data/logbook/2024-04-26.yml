@@ -339,7 +339,7 @@
     - bergie
   category: navigation
 - datetime: 2024-04-26T09:28:18.201Z
-  text: Hydrogenator out.
+  text: Hydrogenerator out.
   author: ihmis-suski
   position:
     longitude: 5.5279331
@@ -366,3 +366,75 @@
     seaState: 2
     cloudCoverage: 2
     visibility: 7
+- datetime: 2024-04-26T10:00:19.200Z
+  text: ""
+  author: ""
+  position:
+    longitude: 5.5516713
+    latitude: 58.9287493
+    source: GPS
+  heading: 13
+  course: 4
+  speed:
+    stw: 6.1
+    sog: 6.4
+  log: 4003.6
+  barometer: 1008.25
+  wind:
+    speed: 12.5
+    direction: 78
+  engine:
+    hours: 731.7
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: navigation
+- datetime: 2024-04-26T10:10:19.200Z
+  text: Stopped watermaker, 97ppm
+  author: bergie
+  position:
+    longitude: 5.5524033
+    latitude: 58.9455354
+    source: GPS
+  heading: 11
+  course: 4
+  speed:
+    stw: 5.9
+    sog: 5.8
+  log: 4004.6
+  barometer: 1008.31
+  wind:
+    speed: 12.2
+    direction: 85
+  engine:
+    hours: 731.7
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: navigation
+- datetime: 2024-04-26T10:52:53.200Z
+  text: Autopilot deactivated
+  author: ""
+  position:
+    longitude: 5.5554969
+    latitude: 59.0155186
+    source: GPS
+  heading: 28
+  course: 22
+  speed:
+    stw: 5.6
+    sog: 5.6
+  log: 4008.9
+  barometer: 1008.32
+  wind:
+    speed: 11.1
+    direction: 75
+  engine:
+    hours: 731.7
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: navigation
