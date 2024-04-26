@@ -94,3 +94,55 @@
     - ihmis-suski
     - bergie
   category: navigation
+- datetime: 2024-04-26T05:00:16.300Z
+  text: ""
+  author: ""
+  position:
+    longitude: 5.7997443
+    latitude: 58.4815773
+    source: GPS
+  heading: 305
+  course: 297
+  speed:
+    stw: 5.3
+    sog: 5
+  log: 3971.9
+  barometer: 1006.88
+  wind:
+    speed: 13.8
+    direction: 88
+  engine:
+    hours: 731.7
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: navigation
+- datetime: 2024-04-26T05:12:16.300Z
+  text: "Deployed hydrogenerator "
+  author: bergie
+  position:
+    longitude: 5.7674161
+    latitude: 58.4916611
+    source: GPS
+  heading: 317
+  course: 316
+  speed:
+    stw: 5.5
+    sog: 6.3
+  log: 3973.1
+  barometer: 1006.85
+  wind:
+    speed: 15.6
+    direction: 92
+  engine:
+    hours: 731.7
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: navigation
+  observations:
+    seaState: 2
+    cloudCoverage: 2
+    visibility: 7
