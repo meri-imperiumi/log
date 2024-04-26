@@ -1,0 +1,96 @@
+- datetime: 2024-04-26T04:19:32.300Z
+  text: Started main engine
+  author: ""
+  position:
+    longitude: 5.871924845377604
+    latitude: 58.47926082611083
+    source: GPS
+  heading: 66
+  course: 85
+  speed:
+    stw: 0
+    sog: 0
+  log: 3969.5
+  barometer: 1006.77
+  wind:
+    speed: 4.4
+    direction: 54
+  engine:
+    hours: 731.2
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: navigation
+- datetime: 2024-04-26T04:25:17.299Z
+  text: Motoring
+  author: ""
+  position:
+    longitude: 5.8688374
+    latitude: 58.478752
+    source: GPS
+  heading: 273
+  course: 274
+  speed:
+    stw: 4.1
+    sog: 3.9
+  log: 3969.5
+  barometer: 1006.83
+  wind:
+    speed: 6
+    direction: 81
+  engine:
+    hours: 731.3
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: navigation
+- datetime: 2024-04-26T04:44:50.300Z
+  text: Motor stopped, sailing with Main, Genoa 1
+  author: ""
+  position:
+    longitude: 5.8305801
+    latitude: 58.4750933
+    source: GPS
+  heading: 291
+  course: 287
+  speed:
+    stw: 3.4
+    sog: 2.7
+  log: 3970.8
+  barometer: 1006.84
+  wind:
+    speed: 10.6
+    direction: 68
+  engine:
+    hours: 731.7
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: navigation
+- datetime: 2024-04-26T04:59:03.299Z
+  text: Autopilot activated
+  author: ""
+  position:
+    longitude: 5.8024866
+    latitude: 58.4807556
+    source: GPS
+  heading: 313
+  course: 293
+  speed:
+    stw: 4.8
+    sog: 3.9
+  log: 3971.8
+  barometer: 1006.87
+  wind:
+    speed: 10.8
+    direction: 56
+  engine:
+    hours: 731.7
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: navigation
