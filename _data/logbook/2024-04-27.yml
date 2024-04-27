@@ -1,0 +1,96 @@
+- datetime: 2024-04-27T10:00:38.499Z
+  text: Started main engine
+  author: ""
+  position:
+    longitude: 5.6810601
+    latitude: 59.0377858
+    source: GPS
+  heading: 70
+  course: 279
+  speed:
+    stw: 0
+    sog: 0
+  log: 4015.7
+  barometer: 1013.31
+  wind:
+    speed: 2.3
+    direction: 212
+  engine:
+    hours: 732
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: navigation
+- datetime: 2024-04-27T10:06:09.500Z
+  text: Motoring
+  author: ""
+  position:
+    longitude: 5.683777364095052
+    latitude: 59.03814949989318
+    source: GPS
+  heading: 84
+  course: 82
+  speed:
+    stw: 3.4
+    sog: 3.1
+  log: 4015.7
+  barometer: 1013.26
+  wind:
+    speed: 3.2
+    direction: 123
+  engine:
+    hours: 732.1
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: navigation
+- datetime: 2024-04-27T10:19:06.499Z
+  text: Motor stopped, sailing with Parasailor
+  author: bergie
+  position:
+    longitude: 5.6926033
+    latitude: 59.0309988
+    source: GPS
+  heading: 227
+  course: 230
+  speed:
+    stw: 2.1
+    sog: 1.8
+  log: 4016.3
+  barometer: 1013.27
+  wind:
+    speed: 4.5
+    direction: 90
+  engine:
+    hours: 732.3
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: navigation
+  observations:
+    seaState: 1
+    cloudCoverage: 3
+    visibility: 8
+- datetime: 2024-04-27T11:00:08.499Z
+  text: ""
+  author: ""
+  position:
+    longitude: 5.6774228
+    latitude: 59.0152133
+    source: GPS
+  heading: 164
+  course: 176
+  speed:
+    stw: 2.8
+    sog: 2.9
+  log: 4017.5
+  barometer: 1013.18
+  wind:
+    speed: 6.7
+    direction: 29
+  engine:
+    hours: 732.3
+  vhf: "18"
+  crewNames:
+    - ihmis-suski
+    - bergie
