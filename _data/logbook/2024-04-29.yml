@@ -22,3 +22,103 @@
     - ihmis-suski
     - bergie
   category: maintenance
+- datetime: 2024-04-29T12:04:25.299Z
+  text: Started main engine
+  author: ""
+  position:
+    longitude: 5.7329486
+    latitude: 58.9739068
+    source: GPS
+  heading: 237
+  course: 106
+  speed:
+    stw: 0
+    sog: 0
+  log: 4020.6
+  barometer: 1016.72
+  wind:
+    speed: 8.2
+    direction: 157
+  engine:
+    hours: 732.7
+  vhf: "18"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: navigation
+- datetime: 2024-04-29T12:16:56.300Z
+  text: Motoring
+  author: ""
+  position:
+    longitude: 5.7349691
+    latitude: 58.9743565
+    source: GPS
+  heading: 90
+  course: 90
+  speed:
+    stw: 4.5
+    sog: 4.4
+  log: 4020.6
+  barometer: 1016.57
+  wind:
+    speed: 18.3
+    direction: 155
+  engine:
+    hours: 732.9
+  vhf: "18"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: navigation
+- datetime: 2024-04-29T12:26:56.300Z
+  text: Motor stopped, sailing with Main (1st reef), Staysail
+  author: ""
+  position:
+    longitude: 5.7604281
+    latitude: 58.9736998
+    source: GPS
+  heading: 96
+  course: 98
+  speed:
+    stw: 3.4
+    sog: 4
+  log: 4021.5
+  barometer: 1016.47
+  wind:
+    speed: 13.9
+    direction: 182
+  engine:
+    hours: 733.1
+  vhf: "18"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: navigation
+- datetime: 2024-04-29T12:51:48.300Z
+  text: "Sails set: Main (2nd reef), Staysail. Gusts pack a punch"
+  author: bergie
+  position:
+    longitude: 5.8368028
+    latitude: 58.9681098
+    source: GPS
+  heading: 92
+  course: 96
+  speed:
+    stw: 5.6
+    sog: 5.4
+  log: 4024
+  barometer: 1016.89
+  wind:
+    speed: 15.4
+    direction: 177
+  engine:
+    hours: 733.1
+  vhf: "18"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: navigation
+  observations:
+    cloudCoverage: 7
+    seaState: 2
+    visibility: 7
