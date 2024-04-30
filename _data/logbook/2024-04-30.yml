@@ -143,3 +143,55 @@
     - ihmis-suski
     - bergie
   category: navigation
+- datetime: 2024-04-30T08:00:19.900Z
+  text: ""
+  author: ""
+  position:
+    longitude: 6.0619973
+    latitude: 58.9049846
+    source: GPS
+  heading: 302
+  course: 305
+  speed:
+    stw: 5.1
+    sog: 5.5
+  log: 4046.3
+  barometer: 1022.95
+  wind:
+    speed: 19.2
+    direction: 139
+  engine:
+    hours: 734
+  vhf: "18"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: navigation
+- datetime: 2024-04-30T08:56:50.899Z
+  text: "Sails set: Main, Staysail"
+  author: ihmis-suski
+  position:
+    longitude: 5.9600894
+    latitude: 58.9535183
+    source: GPS
+  heading: 303
+  course: 299
+  speed:
+    stw: 2.8
+    sog: 2.6
+  log: 4050.6
+  barometer: 1023.12
+  wind:
+    speed: 10.3
+    direction: 149
+  engine:
+    hours: 734
+  vhf: "18"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: navigation
+  observations:
+    seaState: 2
+    cloudCoverage: 7
+    visibility: 8
