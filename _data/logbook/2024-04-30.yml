@@ -67,3 +67,79 @@
     - ihmis-suski
     - bergie
   category: navigation
+- datetime: 2024-04-30T07:00:21.900Z
+  text: ""
+  author: ""
+  position:
+    longitude: 6.1041814
+    latitude: 58.935426
+    source: GPS
+  heading: 207
+  course: 208
+  speed:
+    stw: 2.2
+    sog: 2.6
+  log: 4042.7
+  barometer: 1022.56
+  wind:
+    speed: 4.1
+    direction: 219
+  engine:
+    hours: 734
+  vhf: "18"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: navigation
+- datetime: 2024-04-30T07:04:35.900Z
+  text: "Sails set: Main (2nd reef), Staysail"
+  author: ihmis-suski
+  position:
+    longitude: 6.1020118
+    latitude: 58.9338019
+    source: GPS
+  heading: 203
+  course: 195
+  speed:
+    stw: 1.6
+    sog: 2.4
+  log: 4042.9
+  barometer: 1022.69
+  wind:
+    speed: 5.5
+    direction: 171
+  engine:
+    hours: 734
+  vhf: "18"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: navigation
+  observations:
+    seaState: 1
+    cloudCoverage: 3
+    visibility: 7
+- datetime: 2024-04-30T07:56:19.900Z
+  text: Back in Høgsfjord and downwind course
+  author: bergie
+  position:
+    longitude: 6.0720933
+    latitude: 58.9013586
+    source: GPS
+  heading: 296
+  course: 298
+  speed:
+    stw: 5.6
+    sog: 5.9
+  log: 4045.9
+  barometer: 1023.01
+  wind:
+    speed: 21.5
+    direction: 152
+  engine:
+    hours: 734
+  vhf: "18"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: navigation
