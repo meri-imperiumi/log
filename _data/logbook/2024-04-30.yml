@@ -389,3 +389,51 @@
   crewNames:
     - ihmis-suski
     - bergie
+  category: navigation
+- datetime: 2024-04-30T13:11:19.900Z
+  text: Stopped
+  author: ""
+  position:
+    longitude: 5.8028734
+    latitude: 59.2291596
+    source: GPS
+  heading: 18
+  course: 54
+  speed:
+    stw: 0
+    sog: 0
+  log: 4070.4
+  barometer: 1023
+  wind:
+    speed: 1.7
+    direction: 154
+  engine:
+    hours: 734.6
+  crewNames:
+    - ihmis-suski
+    - bergie
+  end: true
+  category: navigation
+- datetime: 2024-04-30T13:36:14.899Z
+  text: Started watermaker, 124 ppm
+  author: bergie
+  position:
+    longitude: 5.8028233
+    latitude: 59.2291631
+    source: GPS
+  heading: 23
+  course: 11
+  speed:
+    stw: 0
+    sog: 0
+  log: 4070.4
+  barometer: 1022.95
+  wind:
+    speed: 9.4
+    direction: 154
+  engine:
+    hours: 734.6
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: maintenance
