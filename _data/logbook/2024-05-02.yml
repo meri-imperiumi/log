@@ -219,3 +219,76 @@
     seaState: 1
     cloudCoverage: 1
     visibility: 8
+- datetime: 2024-05-02T13:00:22.899Z
+  text: ""
+  author: ""
+  position:
+    longitude: 5.326292165120443
+    latitude: 59.32227818171183
+    source: GPS
+  heading: 358
+  course: 350
+  speed:
+    stw: 4.7
+    sog: 4.7
+  log: 4089.5
+  barometer: 1017.21
+  wind:
+    speed: 6.5
+    direction: 58
+  engine:
+    hours: 734.9
+  vhf: "19"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: navigation
+- datetime: 2024-05-02T13:21:58.899Z
+  text: Sails down, motoring
+  author: ""
+  position:
+    longitude: 5.3111764
+    latitude: 59.3553654
+    source: GPS
+  heading: 329
+  course: 323
+  speed:
+    stw: 4
+    sog: 4.2
+  log: 4091.6
+  barometer: 1017
+  wind:
+    speed: 13.5
+    direction: 90
+  engine:
+    hours: 734.9
+  vhf: "19"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: navigation
+- datetime: 2024-05-02T13:33:16.899Z
+  text: Stopped
+  author: ""
+  position:
+    longitude: 5.3019766
+    latitude: 59.3548321
+    source: GPS
+  heading: 158
+  course: 354
+  speed:
+    stw: 0
+    sog: 0
+  log: 4092
+  barometer: 1017.05
+  wind:
+    speed: 3.3
+    direction: 94
+  engine:
+    hours: 735.1
+  vhf: "19"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  end: true
+  category: navigation
