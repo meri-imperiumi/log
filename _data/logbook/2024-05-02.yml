@@ -21,3 +21,49 @@
     - ihmis-suski
     - bergie
   category: navigation
+- datetime: 2024-05-02T09:04:21.500Z
+  text: Motoring
+  author: ""
+  position:
+    longitude: 5.8008384
+    latitude: 59.2285783
+    source: GPS
+  heading: 220
+  course: 220
+  speed:
+    stw: 2.6
+    sog: 2.6
+  log: 4070.4
+  barometer: 1018.95
+  wind:
+    speed: 10.6
+    direction: 66
+  engine:
+    hours: 734.7
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: navigation
+- datetime: 2024-05-02T09:18:01.500Z
+  text: Motor stopped, sailing with Main (1st reef)
+  author: ""
+  position:
+    longitude: 5.7822691
+    latitude: 59.2347671
+    source: GPS
+  heading: 278
+  course: 270
+  speed:
+    stw: 5.4
+    sog: 5.6
+  log: 4071.2
+  barometer: 1018.74
+  wind:
+    speed: 21.7
+    direction: 62
+  engine:
+    hours: 734.9
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: navigation
