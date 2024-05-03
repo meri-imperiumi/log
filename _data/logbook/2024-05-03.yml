@@ -138,8 +138,8 @@
     - bergie
   category: navigation
 - datetime: 2024-05-03T11:59:59.801Z
-  text: ""
-  author: ""
+  text: Bergie on watch, lunch
+  author: bergie
   position:
     longitude: 5.1966048
     latitude: 59.4293265
@@ -157,6 +157,34 @@
   engine:
     hours: 735.6
   vhf: "19"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: navigation
+  observations:
+    seaState: 2
+    cloudCoverage: 2
+    visibility: 8
+- datetime: 2024-05-03T13:00:00.800Z
+  text: ""
+  author: ""
+  position:
+    longitude: 5.1161104
+    latitude: 59.4545993
+    source: GPS
+  heading: 289
+  course: 284
+  speed:
+    stw: 3.1
+    sog: 3.5
+  log: 4100.7
+  barometer: 1014.89
+  wind:
+    speed: 7.1
+    direction: 0
+  engine:
+    hours: 735.6
+  vhf: "16"
   crewNames:
     - ihmis-suski
     - bergie
