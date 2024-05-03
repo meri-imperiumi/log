@@ -188,3 +188,51 @@
   crewNames:
     - ihmis-suski
     - bergie
+  category: navigation
+- datetime: 2024-05-03T13:22:00.800Z
+  text: Past the Røvær lighthouse. 1kt current against us
+  author: bergie
+  position:
+    longitude: 5.0700603
+    latitude: 59.4610693
+    source: GPS
+  heading: 275
+  course: 280
+  speed:
+    stw: 4.6
+    sog: 3.8
+  log: 4102.2
+  barometer: 1015.08
+  wind:
+    speed: 12.2
+    direction: 38
+  engine:
+    hours: 735.6
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: navigation
+- datetime: 2024-05-03T14:00:01.798Z
+  text: ""
+  author: ""
+  position:
+    longitude: 4.9964174
+    latitude: 59.4622526
+    source: GPS
+  heading: 262
+  course: 273
+  speed:
+    stw: 3.4
+    sog: 3.2
+  log: 4104.4
+  barometer: 1015.04
+  wind:
+    speed: 9
+    direction: 342
+  engine:
+    hours: 735.6
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
