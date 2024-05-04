@@ -117,3 +117,56 @@
   crewNames:
     - ihmis-suski
     - bergie
+  category: navigation
+- datetime: 2024-05-04T03:00:53.100Z
+  text: ""
+  author: ""
+  position:
+    longitude: 3.6819985
+    latitude: 59.7176426
+    source: GPS
+  heading: 306
+  course: 301
+  speed:
+    stw: 4.2
+    sog: 5.1
+  log: 4149.6
+  barometer: 1013.52
+  wind:
+    speed: 11.5
+    direction: 97
+  engine:
+    hours: 735.8
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: navigation
+- datetime: 2024-05-04T03:33:54.100Z
+  text: Sun coming up. Still some peaks of Norway in the horizon
+  author: bergie
+  position:
+    longitude: 3.610139
+    latitude: 59.7430978
+    source: GPS
+  heading: 311
+  course: 314
+  speed:
+    stw: 4.2
+    sog: 4.9
+  log: 4152.2
+  barometer: 1013.38
+  wind:
+    speed: 12
+    direction: 94
+  engine:
+    hours: 735.8
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: navigation
+  observations:
+    seaState: 2
+    cloudCoverage: 2
+    visibility: 8
