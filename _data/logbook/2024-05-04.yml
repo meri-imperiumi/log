@@ -962,3 +962,58 @@
   crewNames:
     - ihmis-suski
     - bergie
+  category: navigation
+- datetime: 2024-05-04T19:33:00.000Z
+  text: "Spi fall is rolled in with genoa. The only way to get it out is to roll
+    out, go to bow and move it on the wind ward side and then roll. Woke up
+    Bergie to help sort it out. "
+  author: ihmis-suski
+  position:
+    longitude: 1.0619746
+    latitude: 59.9825661
+    source: GPS
+  heading: 263
+  course: 257
+  speed:
+    stw: 5.3
+    sog: 5.4
+  log: 4232.1
+  barometer: 1011.75
+  wind:
+    speed: 19.8
+    direction: 132
+  engine:
+    hours: 735.8
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: navigation
+  observations:
+    seaState: 3
+    cloudCoverage: 8
+    visibility: 4
+- datetime: 2024-05-04T19:49:32.000Z
+  text: "Sails set: Main, Genoa 1 (50% furled)"
+  author: ""
+  position:
+    longitude: 1.0104271
+    latitude: 59.9818414
+    source: GPS
+  heading: 285
+  course: 282
+  speed:
+    stw: 5.8
+    sog: 6
+  log: 4233.7
+  barometer: 1011.59
+  wind:
+    speed: 16.9
+    direction: 141
+  engine:
+    hours: 735.8
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: navigation
