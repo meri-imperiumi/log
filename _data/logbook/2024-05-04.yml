@@ -612,8 +612,8 @@
     cloudCoverage: 4
     visibility: 7
 - datetime: 2024-05-04T12:00:01.401Z
-  text: ""
-  author: ""
+  text: Lunch. Bergie on watch, Suski to bed.
+  author: bergie
   position:
     longitude: 2.3551413
     latitude: 59.9346158
@@ -627,6 +627,34 @@
   barometer: 1014.11
   wind:
     speed: 10.6
+    direction: 147
+  engine:
+    hours: 735.8
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: navigation
+  observations:
+    seaState: 3
+    cloudCoverage: 2
+    visibility: 7
+- datetime: 2024-05-04T13:00:02.400Z
+  text: ""
+  author: ""
+  position:
+    longitude: 2.2054804
+    latitude: 59.9416673
+    source: GPS
+  heading: 272
+  course: 267
+  speed:
+    stw: 4.9
+    sog: 4.5
+  log: 4197.5
+  barometer: 1013.66
+  wind:
+    speed: 10.9
     direction: 147
   engine:
     hours: 735.8
