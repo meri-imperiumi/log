@@ -170,3 +170,51 @@
     seaState: 2
     cloudCoverage: 2
     visibility: 8
+- datetime: 2024-05-04T04:00:54.099Z
+  text: ""
+  author: ""
+  position:
+    longitude: 3.5532529
+    latitude: 59.7645148
+    source: GPS
+  heading: 310
+  course: 307
+  speed:
+    stw: 3.8
+    sog: 4.7
+  log: 4154.4
+  barometer: 1013.39
+  wind:
+    speed: 11.8
+    direction: 97
+  engine:
+    hours: 735.8
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: navigation
+- datetime: 2024-05-04T04:42:55.100Z
+  text: We got a fish! A nice mackerel
+  author: bergie
+  position:
+    longitude: 3.471783510843913
+    latitude: 59.79354947408039
+    source: GPS
+  heading: 304
+  course: 298
+  speed:
+    stw: 4
+    sog: 4.5
+  log: 4157.4
+  barometer: 1013.34
+  wind:
+    speed: 9.5
+    direction: 94
+  engine:
+    hours: 735.8
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: navigation
