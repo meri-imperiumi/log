@@ -710,3 +710,79 @@
   crewNames:
     - ihmis-suski
     - bergie
+  category: navigation
+- datetime: 2024-05-04T14:25:04.099Z
+  text: Low clouds, let's see if we end up in fog again
+  author: bergie
+  position:
+    longitude: 1.9770205
+    latitude: 59.9470221
+    source: GPS
+  heading: 267
+  course: 255
+  speed:
+    stw: 5.7
+    sog: 5.7
+  log: 4204.4
+  barometer: 1013.34
+  wind:
+    speed: 15.5
+    direction: 158
+  engine:
+    hours: 735.8
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: navigation
+  observations:
+    seaState: 3
+    cloudCoverage: 8
+    visibility: 6
+- datetime: 2024-05-04T14:43:05.100Z
+  text: "Deployed hydrogenerator "
+  author: bergie
+  position:
+    longitude: 1.9252068
+    latitude: 59.9496331
+    source: GPS
+  heading: 278
+  course: 271
+  speed:
+    stw: 5.1
+    sog: 5
+  log: 4206
+  barometer: 1013.17
+  wind:
+    speed: 13.4
+    direction: 154
+  engine:
+    hours: 735.8
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: navigation
+- datetime: 2024-05-04T15:00:04.102Z
+  text: ""
+  author: ""
+  position:
+    longitude: 1.8791483
+    latitude: 59.9536839
+    source: GPS
+  heading: 282
+  course: 281
+  speed:
+    stw: 5.2
+    sog: 4.9
+  log: 4207.4
+  barometer: 1013.11
+  wind:
+    speed: 12.9
+    direction: 136
+  engine:
+    hours: 735.8
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
