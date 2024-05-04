@@ -375,3 +375,134 @@
   crewNames:
     - ihmis-suski
     - bergie
+  category: navigation
+- datetime: 2024-05-04T09:00:58.400Z
+  text: ""
+  author: ""
+  position:
+    longitude: 2.8800746
+    latitude: 59.8908551
+    source: GPS
+  heading: 292
+  course: 294
+  speed:
+    stw: 6
+    sog: 5.6
+  log: 4176.8
+  barometer: 1013.92
+  wind:
+    speed: 14.6
+    direction: 187
+  engine:
+    hours: 735.8
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: navigation
+- datetime: 2024-05-04T09:21:59.398Z
+  text: Sea fog ahead.
+  author: ihmis-suski
+  position:
+    longitude: 2.8209448
+    latitude: 59.9002136
+    source: GPS
+  heading: 286
+  course: 287
+  speed:
+    stw: 5.1
+    sog: 4.9
+  log: 4178.6
+  barometer: 1013.91
+  wind:
+    speed: 11.3
+    direction: 189
+  engine:
+    hours: 735.8
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: navigation
+  observations:
+    seaState: 3
+    cloudCoverage: 4
+    visibility: 5
+- datetime: 2024-05-04T09:32:59.398Z
+  text: Fog horn and positional lights on.
+  author: ihmis-suski
+  position:
+    longitude: 2.7886643
+    latitude: 59.9047344
+    source: GPS
+  heading: 287
+  course: 284
+  speed:
+    stw: 5.6
+    sog: 5.9
+  log: 4179.7
+  barometer: 1013.95
+  wind:
+    speed: 12.8
+    direction: 184
+  engine:
+    hours: 735.8
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: navigation
+  observations:
+    seaState: 3
+    visibility: 5
+- datetime: 2024-05-04T09:54:59.398Z
+  text: Fog lifted a lot. Position lights on, fog horn off.
+  author: ihmis-suski
+  position:
+    longitude: 2.7230766
+    latitude: 59.9114523
+    source: GPS
+  heading: 274
+  course: 273
+  speed:
+    stw: 6.1
+    sog: 6.1
+  log: 4181.7
+  barometer: 1014.09
+  wind:
+    speed: 14.9
+    direction: 183
+  engine:
+    hours: 735.8
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: navigation
+  observations:
+    seaState: 3
+    cloudCoverage: 7
+    visibility: 6
+- datetime: 2024-05-04T09:59:59.398Z
+  text: ""
+  author: ""
+  position:
+    longitude: 2.7065431
+    latitude: 59.9125556
+    source: GPS
+  heading: 277
+  course: 270
+  speed:
+    stw: 6.1
+    sog: 6.2
+  log: 4182.2
+  barometer: 1014.16
+  wind:
+    speed: 18.3
+    direction: 182
+  engine:
+    hours: 735.8
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
