@@ -887,3 +887,78 @@
     - ihmis-suski
     - bergie
   category: navigation
+- datetime: 2024-05-04T18:00:57.996Z
+  text: ""
+  author: ""
+  position:
+    longitude: 1.3493659
+    latitude: 59.9796424
+    source: GPS
+  heading: 274
+  course: 267
+  speed:
+    stw: 6.2
+    sog: 5.9
+  log: 4223.4
+  barometer: 1012.15
+  wind:
+    speed: 16
+    direction: 144
+  engine:
+    hours: 735.8
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: navigation
+- datetime: 2024-05-04T18:05:59.001Z
+  text: Bergie to off watch, Suski on watch. Still in fog.
+  author: ihmis-suski
+  position:
+    longitude: 1.3340783
+    latitude: 59.9802486
+    source: GPS
+  heading: 277
+  course: 275
+  speed:
+    stw: 5.9
+    sog: 5.6
+  log: 4223.9
+  barometer: 1012.14
+  wind:
+    speed: 17.3
+    direction: 146
+  engine:
+    hours: 735.8
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: navigation
+  observations:
+    seaState: 3
+    cloudCoverage: 8
+    visibility: 4
+- datetime: 2024-05-04T19:00:00.000Z
+  text: ""
+  author: ""
+  position:
+    longitude: 1.1650208
+    latitude: 59.9866758
+    source: GPS
+  heading: 272
+  course: 277
+  speed:
+    stw: 5.5
+    sog: 6.4
+  log: 4229
+  barometer: 1011.92
+  wind:
+    speed: 17.6
+    direction: 123
+  engine:
+    hours: 735.8
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
