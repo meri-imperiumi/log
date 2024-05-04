@@ -786,3 +786,55 @@
   crewNames:
     - ihmis-suski
     - bergie
+  category: navigation
+- datetime: 2024-05-04T15:27:05.100Z
+  text: Back in fog
+  author: bergie
+  position:
+    longitude: 1.8033233
+    latitude: 59.9590746
+    source: GPS
+  heading: 281
+  course: 285
+  speed:
+    stw: 5.4
+    sog: 5
+  log: 4209.7
+  barometer: 1013.02
+  wind:
+    speed: 13
+    direction: 173
+  engine:
+    hours: 735.8
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: navigation
+  observations:
+    seaState: 3
+    cloudCoverage: 8
+    visibility: 3
+- datetime: 2024-05-04T16:00:06.099Z
+  text: ""
+  author: ""
+  position:
+    longitude: 1.7102668
+    latitude: 59.9666963
+    source: GPS
+  heading: 276
+  course: 286
+  speed:
+    stw: 5.3
+    sog: 5.9
+  log: 4212.5
+  barometer: 1012.85
+  wind:
+    speed: 14.6
+    direction: 121
+  engine:
+    hours: 735.8
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
