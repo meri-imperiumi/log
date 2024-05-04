@@ -582,3 +582,55 @@
   crewNames:
     - ihmis-suski
     - bergie
+  category: navigation
+- datetime: 2024-05-04T11:14:00.400Z
+  text: Fog lifted.
+  author: ihmis-suski
+  position:
+    longitude: 2.4726845
+    latitude: 59.9186786
+    source: GPS
+  heading: 286
+  course: 283
+  speed:
+    stw: 5.5
+    sog: 5.6
+  log: 4189.3
+  barometer: 1014.3
+  wind:
+    speed: 12.9
+    direction: 189
+  engine:
+    hours: 735.8
+  vhf: "6"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: navigation
+  observations:
+    seaState: 3
+    cloudCoverage: 4
+    visibility: 7
+- datetime: 2024-05-04T12:00:01.401Z
+  text: ""
+  author: ""
+  position:
+    longitude: 2.3551413
+    latitude: 59.9346158
+    source: GPS
+  heading: 282
+  course: 272
+  speed:
+    stw: 4.8
+    sog: 4.6
+  log: 4192.9
+  barometer: 1014.11
+  wind:
+    speed: 10.6
+    direction: 147
+  engine:
+    hours: 735.8
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
