@@ -1,0 +1,48 @@
+- datetime: 2024-05-04T00:00:51.100Z
+  text: Bergie on watch, Suski to bed. Sails seem to stay filled a lot better in
+    these conditions doing 140°TWA instead of dead downwind
+  author: bergie
+  position:
+    longitude: 4.0003685
+    latitude: 59.5773203
+    source: GPS
+  heading: 310
+  course: 300
+  speed:
+    stw: 3.3
+    sog: 3.4
+  log: 4136.6
+  barometer: 1014.12
+  wind:
+    speed: 9
+    direction: 77
+  engine:
+    hours: 735.8
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: navigation
+- datetime: 2024-05-04T00:33:51.100Z
+  text: Stowed hydrogenerator, not enough wind for output
+  author: bergie
+  position:
+    longitude: 3.9564578
+    latitude: 59.601984
+    source: GPS
+  heading: 328
+  course: 325
+  speed:
+    stw: 3.1
+    sog: 3.3
+  log: 4138.6
+  barometer: 1013.98
+  wind:
+    speed: 9.8
+    direction: 100
+  engine:
+    hours: 735.8
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: navigation
