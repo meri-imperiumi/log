@@ -46,3 +46,51 @@
     - ihmis-suski
     - bergie
   category: navigation
+- datetime: 2024-05-04T01:00:51.100Z
+  text: ""
+  author: ""
+  position:
+    longitude: 3.926172
+    latitude: 59.6243131
+    source: GPS
+  heading: 333
+  course: 318
+  speed:
+    stw: 3.8
+    sog: 4
+  log: 4140.2
+  barometer: 1013.89
+  wind:
+    speed: 11.9
+    direction: 105
+  engine:
+    hours: 735.8
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: navigation
+- datetime: 2024-05-04T01:22:52.100Z
+  text: Wind is slightly up, so back to schmetti at 160°
+  author: bergie
+  position:
+    longitude: 3.8932176
+    latitude: 59.6458473
+    source: GPS
+  heading: 317
+  course: 314
+  speed:
+    stw: 4.6
+    sog: 5.4
+  log: 4141.8
+  barometer: 1013.85
+  wind:
+    speed: 14
+    direction: 104
+  engine:
+    hours: 735.8
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: navigation
