@@ -506,3 +506,79 @@
   crewNames:
     - ihmis-suski
     - bergie
+  category: navigation
+- datetime: 2024-05-04T10:19:00.400Z
+  text: >
+    Got hailed in the radio to move to 06, but they didn't come with me. Said
+    I'll move to 06 on 16 but they didn't come. They wanted to know If I see
+    Buoy 2. I did. They started with Norwegian first.
+  author: ihmis-suski
+  position:
+    longitude: 2.6433271
+    latitude: 59.9162398
+    source: GPS
+  heading: 269
+  course: 259
+  speed:
+    stw: 6.1
+    sog: 6.2
+  log: 4184.1
+  barometer: 1014.29
+  wind:
+    speed: 16.1
+    direction: 181
+  engine:
+    hours: 735.8
+  vhf: "6"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: radio
+- datetime: 2024-05-04T10:46:00.400Z
+  text: |
+    Lol. Their buoy sender is in board their vessel. Not on the byou.
+  author: ihmis-suski
+  position:
+    longitude: 2.5580996
+    latitude: 59.918544
+    source: GPS
+  heading: 268
+  course: 246
+  speed:
+    stw: 5.6
+    sog: 5.5
+  log: 4186.7
+  barometer: 1014.29
+  wind:
+    speed: 13.1
+    direction: 186
+  engine:
+    hours: 735.8
+  vhf: "6"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: navigation
+- datetime: 2024-05-04T11:00:00.400Z
+  text: ""
+  author: ""
+  position:
+    longitude: 2.5149386
+    latitude: 59.9168121
+    source: GPS
+  heading: 260
+  course: 274
+  speed:
+    stw: 5.4
+    sog: 5.8
+  log: 4188
+  barometer: 1014.33
+  wind:
+    speed: 11.3
+    direction: 152
+  engine:
+    hours: 735.8
+  vhf: "6"
+  crewNames:
+    - ihmis-suski
+    - bergie
