@@ -1,0 +1,864 @@
+- datetime: 2024-05-04T00:00:51.100Z
+  text: Bergie on watch, Suski to bed. Sails seem to stay filled a lot better in
+    these conditions doing 140°TWA instead of dead downwind
+  author: bergie
+  position:
+    longitude: 4.0003685
+    latitude: 59.5773203
+    source: GPS
+  heading: 310
+  course: 300
+  speed:
+    stw: 3.3
+    sog: 3.4
+  log: 4136.6
+  barometer: 1014.12
+  wind:
+    speed: 9
+    direction: 77
+  engine:
+    hours: 735.8
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: navigation
+- datetime: 2024-05-04T00:33:51.100Z
+  text: Stowed hydrogenerator, not enough wind for output
+  author: bergie
+  position:
+    longitude: 3.9564578
+    latitude: 59.601984
+    source: GPS
+  heading: 328
+  course: 325
+  speed:
+    stw: 3.1
+    sog: 3.3
+  log: 4138.6
+  barometer: 1013.98
+  wind:
+    speed: 9.8
+    direction: 100
+  engine:
+    hours: 735.8
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: navigation
+- datetime: 2024-05-04T01:00:51.100Z
+  text: ""
+  author: ""
+  position:
+    longitude: 3.926172
+    latitude: 59.6243131
+    source: GPS
+  heading: 333
+  course: 318
+  speed:
+    stw: 3.8
+    sog: 4
+  log: 4140.2
+  barometer: 1013.89
+  wind:
+    speed: 11.9
+    direction: 105
+  engine:
+    hours: 735.8
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: navigation
+- datetime: 2024-05-04T01:22:52.100Z
+  text: Wind is slightly up, so back to schmetti at 160°
+  author: bergie
+  position:
+    longitude: 3.8932176
+    latitude: 59.6458473
+    source: GPS
+  heading: 317
+  course: 314
+  speed:
+    stw: 4.6
+    sog: 5.4
+  log: 4141.8
+  barometer: 1013.85
+  wind:
+    speed: 14
+    direction: 104
+  engine:
+    hours: 735.8
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: navigation
+- datetime: 2024-05-04T02:00:52.100Z
+  text: ""
+  author: ""
+  position:
+    longitude: 3.8123223
+    latitude: 59.6778315
+    source: GPS
+  heading: 310
+  course: 313
+  speed:
+    stw: 4.4
+    sog: 4.1
+  log: 4145
+  barometer: 1013.81
+  wind:
+    speed: 10.2
+    direction: 96
+  engine:
+    hours: 735.8
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: navigation
+- datetime: 2024-05-04T03:00:53.100Z
+  text: ""
+  author: ""
+  position:
+    longitude: 3.6819985
+    latitude: 59.7176426
+    source: GPS
+  heading: 306
+  course: 301
+  speed:
+    stw: 4.2
+    sog: 5.1
+  log: 4149.6
+  barometer: 1013.52
+  wind:
+    speed: 11.5
+    direction: 97
+  engine:
+    hours: 735.8
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: navigation
+- datetime: 2024-05-04T03:33:54.100Z
+  text: Sun coming up. Still some peaks of Norway in the horizon
+  author: bergie
+  position:
+    longitude: 3.610139
+    latitude: 59.7430978
+    source: GPS
+  heading: 311
+  course: 314
+  speed:
+    stw: 4.2
+    sog: 4.9
+  log: 4152.2
+  barometer: 1013.38
+  wind:
+    speed: 12
+    direction: 94
+  engine:
+    hours: 735.8
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: navigation
+  observations:
+    seaState: 2
+    cloudCoverage: 2
+    visibility: 8
+- datetime: 2024-05-04T04:00:54.099Z
+  text: ""
+  author: ""
+  position:
+    longitude: 3.5532529
+    latitude: 59.7645148
+    source: GPS
+  heading: 310
+  course: 307
+  speed:
+    stw: 3.8
+    sog: 4.7
+  log: 4154.4
+  barometer: 1013.39
+  wind:
+    speed: 11.8
+    direction: 97
+  engine:
+    hours: 735.8
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: navigation
+- datetime: 2024-05-04T04:42:55.100Z
+  text: We got a fish! A nice mackerel
+  author: bergie
+  position:
+    longitude: 3.471783510843913
+    latitude: 59.79354947408039
+    source: GPS
+  heading: 304
+  course: 298
+  speed:
+    stw: 4
+    sog: 4.5
+  log: 4157.4
+  barometer: 1013.34
+  wind:
+    speed: 9.5
+    direction: 94
+  engine:
+    hours: 735.8
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: navigation
+- datetime: 2024-05-04T05:00:55.100Z
+  text: "Mackerel was gutted, filleted, and fried in garlic and olive oil for
+    breakfast "
+  author: bergie
+  position:
+    longitude: 3.4324631
+    latitude: 59.8073323
+    source: GPS
+  heading: 305
+  course: 305
+  speed:
+    stw: 4.2
+    sog: 4.7
+  log: 4158.9
+  barometer: 1013.33
+  wind:
+    speed: 11.1
+    direction: 93
+  engine:
+    hours: 735.8
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: navigation
+  observations:
+    seaState: 2
+    cloudCoverage: 5
+    visibility: 8
+- datetime: 2024-05-04T06:00:55.400Z
+  text: ""
+  author: ""
+  position:
+    longitude: 3.3313086
+    latitude: 59.8466483
+    source: GPS
+  heading: 273
+  course: 254
+  speed:
+    stw: 2.7
+    sog: 2.9
+  log: 4162.8
+  barometer: 1013.5
+  wind:
+    speed: 9.9
+    direction: 131
+  engine:
+    hours: 735.8
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: navigation
+- datetime: 2024-05-04T06:05:56.400Z
+  text: Bergie to off watch. We turned the wing on wing around.
+  author: ihmis-suski
+  position:
+    longitude: 3.322288
+    latitude: 59.8472174
+    source: GPS
+  heading: 285
+  course: 286
+  speed:
+    stw: 3.6
+    sog: 3.6
+  log: 4163
+  barometer: 1013.48
+  wind:
+    speed: 9.9
+    direction: 117
+  engine:
+    hours: 735.8
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: navigation
+  observations:
+    seaState: 2
+    cloudCoverage: 7
+    visibility: 8
+- datetime: 2024-05-04T06:35:55.400Z
+  text: Wind turned more.Took wing on wing down and now sailing smoothly along a
+    nice beam reach.
+  author: ihmis-suski
+  position:
+    longitude: 3.2511591
+    latitude: 59.8583238
+    source: GPS
+  heading: 283
+  course: 284
+  speed:
+    stw: 4.8
+    sog: 4.8
+  log: 4165.3
+  barometer: 1013.88
+  wind:
+    speed: 12.6
+    direction: 169
+  engine:
+    hours: 735.8
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: navigation
+  observations:
+    seaState: 2
+    cloudCoverage: 6
+    visibility: 8
+- datetime: 2024-05-04T07:00:56.400Z
+  text: ""
+  author: ""
+  position:
+    longitude: 3.1849323
+    latitude: 59.8629425
+    source: GPS
+  heading: 279
+  course: 268
+  speed:
+    stw: 5
+    sog: 4.5
+  log: 4167.4
+  barometer: 1013.84
+  wind:
+    speed: 13
+    direction: 141
+  engine:
+    hours: 735.8
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: navigation
+- datetime: 2024-05-04T08:00:58.400Z
+  text: ""
+  author: ""
+  position:
+    longitude: 3.0503581
+    latitude: 59.8683846
+    source: GPS
+  heading: 288
+  course: 297
+  speed:
+    stw: 4.8
+    sog: 4.3
+  log: 4171.4
+  barometer: 1013.76
+  wind:
+    speed: 10.6
+    direction: 158
+  engine:
+    hours: 735.8
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: navigation
+- datetime: 2024-05-04T09:00:58.400Z
+  text: ""
+  author: ""
+  position:
+    longitude: 2.8800746
+    latitude: 59.8908551
+    source: GPS
+  heading: 292
+  course: 294
+  speed:
+    stw: 6
+    sog: 5.6
+  log: 4176.8
+  barometer: 1013.92
+  wind:
+    speed: 14.6
+    direction: 187
+  engine:
+    hours: 735.8
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: navigation
+- datetime: 2024-05-04T09:21:59.398Z
+  text: Sea fog ahead.
+  author: ihmis-suski
+  position:
+    longitude: 2.8209448
+    latitude: 59.9002136
+    source: GPS
+  heading: 286
+  course: 287
+  speed:
+    stw: 5.1
+    sog: 4.9
+  log: 4178.6
+  barometer: 1013.91
+  wind:
+    speed: 11.3
+    direction: 189
+  engine:
+    hours: 735.8
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: navigation
+  observations:
+    seaState: 3
+    cloudCoverage: 4
+    visibility: 5
+- datetime: 2024-05-04T09:32:59.398Z
+  text: Fog horn and positional lights on.
+  author: ihmis-suski
+  position:
+    longitude: 2.7886643
+    latitude: 59.9047344
+    source: GPS
+  heading: 287
+  course: 284
+  speed:
+    stw: 5.6
+    sog: 5.9
+  log: 4179.7
+  barometer: 1013.95
+  wind:
+    speed: 12.8
+    direction: 184
+  engine:
+    hours: 735.8
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: navigation
+  observations:
+    seaState: 3
+    visibility: 5
+- datetime: 2024-05-04T09:54:59.398Z
+  text: Fog lifted a lot. Position lights on, fog horn off.
+  author: ihmis-suski
+  position:
+    longitude: 2.7230766
+    latitude: 59.9114523
+    source: GPS
+  heading: 274
+  course: 273
+  speed:
+    stw: 6.1
+    sog: 6.1
+  log: 4181.7
+  barometer: 1014.09
+  wind:
+    speed: 14.9
+    direction: 183
+  engine:
+    hours: 735.8
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: navigation
+  observations:
+    seaState: 3
+    cloudCoverage: 7
+    visibility: 6
+- datetime: 2024-05-04T09:59:59.398Z
+  text: ""
+  author: ""
+  position:
+    longitude: 2.7065431
+    latitude: 59.9125556
+    source: GPS
+  heading: 277
+  course: 270
+  speed:
+    stw: 6.1
+    sog: 6.2
+  log: 4182.2
+  barometer: 1014.16
+  wind:
+    speed: 18.3
+    direction: 182
+  engine:
+    hours: 735.8
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: navigation
+- datetime: 2024-05-04T10:19:00.400Z
+  text: >
+    Got hailed in the radio to move to 06, but they didn't come with me. Said
+    I'll move to 06 on 16 but they didn't come. They wanted to know If I see
+    Buoy 2. I did. They started with Norwegian first.
+  author: ihmis-suski
+  position:
+    longitude: 2.6433271
+    latitude: 59.9162398
+    source: GPS
+  heading: 269
+  course: 259
+  speed:
+    stw: 6.1
+    sog: 6.2
+  log: 4184.1
+  barometer: 1014.29
+  wind:
+    speed: 16.1
+    direction: 181
+  engine:
+    hours: 735.8
+  vhf: "6"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: radio
+- datetime: 2024-05-04T10:46:00.400Z
+  text: |
+    Lol. Their buoy sender is in board their vessel. Not on the byou.
+  author: ihmis-suski
+  position:
+    longitude: 2.5580996
+    latitude: 59.918544
+    source: GPS
+  heading: 268
+  course: 246
+  speed:
+    stw: 5.6
+    sog: 5.5
+  log: 4186.7
+  barometer: 1014.29
+  wind:
+    speed: 13.1
+    direction: 186
+  engine:
+    hours: 735.8
+  vhf: "6"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: navigation
+- datetime: 2024-05-04T11:00:00.400Z
+  text: ""
+  author: ""
+  position:
+    longitude: 2.5149386
+    latitude: 59.9168121
+    source: GPS
+  heading: 260
+  course: 274
+  speed:
+    stw: 5.4
+    sog: 5.8
+  log: 4188
+  barometer: 1014.33
+  wind:
+    speed: 11.3
+    direction: 152
+  engine:
+    hours: 735.8
+  vhf: "6"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: navigation
+- datetime: 2024-05-04T11:14:00.400Z
+  text: Fog lifted.
+  author: ihmis-suski
+  position:
+    longitude: 2.4726845
+    latitude: 59.9186786
+    source: GPS
+  heading: 286
+  course: 283
+  speed:
+    stw: 5.5
+    sog: 5.6
+  log: 4189.3
+  barometer: 1014.3
+  wind:
+    speed: 12.9
+    direction: 189
+  engine:
+    hours: 735.8
+  vhf: "6"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: navigation
+  observations:
+    seaState: 3
+    cloudCoverage: 4
+    visibility: 7
+- datetime: 2024-05-04T12:00:01.401Z
+  text: Lunch. Bergie on watch, Suski to bed.
+  author: bergie
+  position:
+    longitude: 2.3551413
+    latitude: 59.9346158
+    source: GPS
+  heading: 282
+  course: 272
+  speed:
+    stw: 4.8
+    sog: 4.6
+  log: 4192.9
+  barometer: 1014.11
+  wind:
+    speed: 10.6
+    direction: 147
+  engine:
+    hours: 735.8
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: navigation
+  observations:
+    seaState: 3
+    cloudCoverage: 2
+    visibility: 7
+- datetime: 2024-05-04T13:01:02.400Z
+  text: Across the halfway mark to Lerwick, 105NM left
+  author: bergie
+  position:
+    longitude: 2.2028133
+    latitude: 59.9417801
+    source: GPS
+  heading: 270
+  course: 277
+  speed:
+    stw: 4.9
+    sog: 4.7
+  log: 4197.6
+  barometer: 1013.64
+  wind:
+    speed: 10.6
+    direction: 164
+  engine:
+    hours: 735.8
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: navigation
+- datetime: 2024-05-04T13:55:04.099Z
+  text: Rebooted N2K, the upper B&G Triton2 was stuck again
+  author: bergie
+  position:
+    longitude: 2.0623231
+    latitude: 59.9454703
+    source: GPS
+  heading: 268
+  course: 286
+  speed:
+    stw: 5.4
+    sog: 5.7
+  log: 4201.8
+  barometer: 1013.43
+  wind:
+    speed: 12.1
+    direction: 149
+  engine:
+    hours: 735.8
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: maintenance
+- datetime: 2024-05-04T14:00:04.099Z
+  text: ""
+  author: ""
+  position:
+    longitude: 2.0480701
+    latitude: 59.9457421
+    source: GPS
+  heading: 272
+  course: 269
+  speed:
+    stw: 5.2
+    sog: 4.9
+  log: 4202.2
+  barometer: 1013.39
+  wind:
+    speed: 12.6
+    direction: 153
+  engine:
+    hours: 735.8
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: navigation
+- datetime: 2024-05-04T14:25:04.099Z
+  text: Low clouds, let's see if we end up in fog again
+  author: bergie
+  position:
+    longitude: 1.9770205
+    latitude: 59.9470221
+    source: GPS
+  heading: 267
+  course: 255
+  speed:
+    stw: 5.7
+    sog: 5.7
+  log: 4204.4
+  barometer: 1013.34
+  wind:
+    speed: 15.5
+    direction: 158
+  engine:
+    hours: 735.8
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: navigation
+  observations:
+    seaState: 3
+    cloudCoverage: 8
+    visibility: 6
+- datetime: 2024-05-04T14:43:05.100Z
+  text: "Deployed hydrogenerator "
+  author: bergie
+  position:
+    longitude: 1.9252068
+    latitude: 59.9496331
+    source: GPS
+  heading: 278
+  course: 271
+  speed:
+    stw: 5.1
+    sog: 5
+  log: 4206
+  barometer: 1013.17
+  wind:
+    speed: 13.4
+    direction: 154
+  engine:
+    hours: 735.8
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: navigation
+- datetime: 2024-05-04T15:00:04.102Z
+  text: ""
+  author: ""
+  position:
+    longitude: 1.8791483
+    latitude: 59.9536839
+    source: GPS
+  heading: 282
+  course: 281
+  speed:
+    stw: 5.2
+    sog: 4.9
+  log: 4207.4
+  barometer: 1013.11
+  wind:
+    speed: 12.9
+    direction: 136
+  engine:
+    hours: 735.8
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: navigation
+- datetime: 2024-05-04T15:27:05.100Z
+  text: Back in fog
+  author: bergie
+  position:
+    longitude: 1.8033233
+    latitude: 59.9590746
+    source: GPS
+  heading: 281
+  course: 285
+  speed:
+    stw: 5.4
+    sog: 5
+  log: 4209.7
+  barometer: 1013.02
+  wind:
+    speed: 13
+    direction: 173
+  engine:
+    hours: 735.8
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: navigation
+  observations:
+    seaState: 3
+    cloudCoverage: 8
+    visibility: 3
+- datetime: 2024-05-04T16:00:06.099Z
+  text: ""
+  author: ""
+  position:
+    longitude: 1.7102668
+    latitude: 59.9666963
+    source: GPS
+  heading: 276
+  course: 286
+  speed:
+    stw: 5.3
+    sog: 5.9
+  log: 4212.5
+  barometer: 1012.85
+  wind:
+    speed: 14.6
+    direction: 121
+  engine:
+    hours: 735.8
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: navigation
+- datetime: 2024-05-04T17:00:04.102Z
+  text: ""
+  author: ""
+  position:
+    longitude: 1.5347226
+    latitude: 59.9752611
+    source: GPS
+  heading: 274
+  course: 289
+  speed:
+    stw: 5.9
+    sog: 6
+  log: 4217.8
+  barometer: 1012.5
+  wind:
+    speed: 15
+    direction: 131
+  engine:
+    hours: 735.8
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
