@@ -639,23 +639,71 @@
     seaState: 3
     cloudCoverage: 2
     visibility: 7
-- datetime: 2024-05-04T13:00:02.400Z
+- datetime: 2024-05-04T13:01:02.400Z
+  text: Across the halfway mark to Lerwick, 105NM left
+  author: bergie
+  position:
+    longitude: 2.2028133
+    latitude: 59.9417801
+    source: GPS
+  heading: 270
+  course: 277
+  speed:
+    stw: 4.9
+    sog: 4.7
+  log: 4197.6
+  barometer: 1013.64
+  wind:
+    speed: 10.6
+    direction: 164
+  engine:
+    hours: 735.8
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: navigation
+- datetime: 2024-05-04T13:55:04.099Z
+  text: Rebooted N2K, the upper B&G Triton2 was stuck again
+  author: bergie
+  position:
+    longitude: 2.0623231
+    latitude: 59.9454703
+    source: GPS
+  heading: 268
+  course: 286
+  speed:
+    stw: 5.4
+    sog: 5.7
+  log: 4201.8
+  barometer: 1013.43
+  wind:
+    speed: 12.1
+    direction: 149
+  engine:
+    hours: 735.8
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: maintenance
+- datetime: 2024-05-04T14:00:04.099Z
   text: ""
   author: ""
   position:
-    longitude: 2.2054804
-    latitude: 59.9416673
+    longitude: 2.0480701
+    latitude: 59.9457421
     source: GPS
   heading: 272
-  course: 267
+  course: 269
   speed:
-    stw: 4.9
-    sog: 4.5
-  log: 4197.5
-  barometer: 1013.66
+    stw: 5.2
+    sog: 4.9
+  log: 4202.2
+  barometer: 1013.39
   wind:
-    speed: 10.9
-    direction: 147
+    speed: 12.6
+    direction: 153
   engine:
     hours: 735.8
   vhf: "16"
