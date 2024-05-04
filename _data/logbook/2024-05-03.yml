@@ -728,3 +728,55 @@
   crewNames:
     - ihmis-suski
     - bergie
+  category: navigation
+- datetime: 2024-05-03T23:00:50.099Z
+  text: ""
+  author: ""
+  position:
+    longitude: 4.1005003
+    latitude: 59.5582991
+    source: GPS
+  heading: 280
+  course: 285
+  speed:
+    stw: 3.6
+    sog: 3.4
+  log: 4133.2
+  barometer: 1014.39
+  wind:
+    speed: 9.6
+    direction: 63
+  engine:
+    hours: 735.8
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: navigation
+- datetime: 2024-05-03T23:03:50.099Z
+  text: The Pensastasku died. Maybe it was just too tired and we didn't have any
+    food for it.
+  author: ihmis-suski
+  position:
+    longitude: 4.094803333282471
+    latitude: 59.55878518422445
+    source: GPS
+  heading: 280
+  course: 280
+  speed:
+    stw: 3.4
+    sog: 3.5
+  log: 4133.3
+  barometer: 1014.4
+  wind:
+    speed: 10.2
+    direction: 62
+  engine:
+    hours: 735.8
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: navigation
+  observations:
+    seaState: 2
+    cloudCoverage: 1
+    visibility: 8
