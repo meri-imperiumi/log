@@ -52,3 +52,51 @@
     - ihmis-suski
     - bergie
   category: navigation
+- datetime: 2024-05-05T01:00:05.000Z
+  text: ""
+  author: ""
+  position:
+    longitude: 0.0373868
+    latitude: 60.1140695
+    source: GPS
+  heading: 287
+  course: 282
+  speed:
+    stw: 6
+    sog: 5.2
+  log: 4264
+  barometer: 1009.77
+  wind:
+    speed: 17
+    direction: 131
+  engine:
+    hours: 735.8
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: navigation
+- datetime: 2024-05-05T01:12:04.900Z
+  text: Western hemisphere!
+  author: bergie
+  position:
+    longitude: -0.0027434999744097
+    latitude: 60.11981166998546
+    source: GPS
+  heading: 285
+  course: 298
+  speed:
+    stw: 5.8
+    sog: 6.6
+  log: 4265.3
+  barometer: 1009.7
+  wind:
+    speed: 16.4
+    direction: 131
+  engine:
+    hours: 735.8
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: navigation
