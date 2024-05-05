@@ -173,3 +173,75 @@
     - ihmis-suski
     - bergie
   category: radio
+- datetime: 2024-05-05T04:00:06.899Z
+  text: ""
+  author: ""
+  position:
+    longitude: -0.5293356
+    latitude: 60.1891783
+    source: GPS
+  heading: 252
+  course: 255
+  speed:
+    stw: 5.8
+    sog: 5.1
+  log: 4281.8
+  barometer: 1008.78
+  wind:
+    speed: 16.9
+    direction: 135
+  engine:
+    hours: 735.8
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: navigation
+- datetime: 2024-05-05T04:19:06.899Z
+  text: Entering UK waters. Time to put up the Q flag
+  author: bergie
+  position:
+    longitude: -0.5828315
+    latitude: 60.1869298
+    source: GPS
+  heading: 271
+  course: 275
+  speed:
+    stw: 5.8
+    sog: 5.3
+  log: 4283.4
+  barometer: 1008.72
+  wind:
+    speed: 16.2
+    direction: 128
+  engine:
+    hours: 735.8
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: navigation
+- datetime: 2024-05-05T04:43:07.900Z
+  text: "Started watermaker,  222ppm "
+  author: bergie
+  position:
+    longitude: -0.6535296
+    latitude: 60.1863009
+    source: GPS
+  heading: 269
+  course: 281
+  speed:
+    stw: 5.8
+    sog: 5.8
+  log: 4285.5
+  barometer: 1008.71
+  wind:
+    speed: 17.1
+    direction: 135
+  engine:
+    hours: 735.8
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: navigation
