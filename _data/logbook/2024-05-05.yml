@@ -346,3 +346,123 @@
     seaState: 3
     cloudCoverage: 8
     visibility: 5
+- datetime: 2024-05-05T07:00:08.899Z
+  text: ""
+  author: ""
+  position:
+    longitude: -1.0405766
+    latitude: 60.1961984
+    source: GPS
+  heading: 283
+  course: 276
+  speed:
+    stw: 5.1
+    sog: 5
+  log: 4297.1
+  barometer: 1008.27
+  wind:
+    speed: 14.7
+    direction: 122
+  engine:
+    hours: 735.8
+  vhf: "12"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: navigation
+- datetime: 2024-05-05T07:07:09.900Z
+  text: Called Lerwick Port Control, received clearance to go to Victoria Pier South
+  author: bergie
+  position:
+    longitude: -1.0586238
+    latitude: 60.1979929
+    source: GPS
+  heading: 284
+  course: 305
+  speed:
+    stw: 4.8
+    sog: 4.9
+  log: 4297.7
+  barometer: 1008.23
+  wind:
+    speed: 13.3
+    direction: 114
+  engine:
+    hours: 735.8
+  vhf: "12"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: radio
+- datetime: 2024-05-05T07:18:09.900Z
+  text: "Stowed hydrogenerator "
+  author: bergie
+  position:
+    longitude: -1.0886106
+    latitude: 60.1956396
+    source: GPS
+  heading: 256
+  course: 249
+  speed:
+    stw: 5
+    sog: 5
+  log: 4298.6
+  barometer: 1008.22
+  wind:
+    speed: 12.9
+    direction: 142
+  engine:
+    hours: 735.8
+  vhf: "12"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: navigation
+- datetime: 2024-05-05T07:31:52.899Z
+  text: Autopilot deactivated
+  author: ""
+  position:
+    longitude: -1.1259649
+    latitude: 60.1896103
+    source: GPS
+  heading: 239
+  course: 242
+  speed:
+    stw: 5.5
+    sog: 5.5
+  log: 4299.8
+  barometer: 1008.13
+  wind:
+    speed: 13.8
+    direction: 117
+  engine:
+    hours: 735.8
+  vhf: "12"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: navigation
+- datetime: 2024-05-05T07:33:36.899Z
+  text: Sails down, motoring
+  author: ""
+  position:
+    longitude: -1.1310494
+    latitude: 60.1887013
+    source: GPS
+  heading: 239
+  course: 242
+  speed:
+    stw: 5.7
+    sog: 5.3
+  log: 4300
+  barometer: 1008.11
+  wind:
+    speed: 15.3
+    direction: 137
+  engine:
+    hours: 735.8
+  vhf: "12"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: navigation
