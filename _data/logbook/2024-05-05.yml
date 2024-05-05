@@ -123,3 +123,53 @@
   crewNames:
     - ihmis-suski
     - bergie
+  category: navigation
+- datetime: 2024-05-05T03:00:06.900Z
+  text: ""
+  author: ""
+  position:
+    longitude: -0.3505563
+    latitude: 60.1750076
+    source: GPS
+  heading: 274
+  course: 290
+  speed:
+    stw: 7
+    sog: 7.6
+  log: 4276.2
+  barometer: 1009.14
+  wind:
+    speed: 18.5
+    direction: 134
+  engine:
+    hours: 735.8
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: navigation
+- datetime: 2024-05-05T03:16:05.900Z
+  text: "Listened to the weather from Shetland Coast Guard. Similar conditions to
+    remain, chance of thunder in afternoon "
+  author: bergie
+  position:
+    longitude: -0.3985639
+    latitude: 60.1841708
+    source: GPS
+  heading: 292
+  course: 288
+  speed:
+    stw: 6.1
+    sog: 6.2
+  log: 4277.8
+  barometer: 1009
+  wind:
+    speed: 17.4
+    direction: 132
+  engine:
+    hours: 735.8
+  vhf: "64"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: radio
