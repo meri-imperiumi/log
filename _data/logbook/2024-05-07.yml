@@ -143,3 +143,51 @@
     - ihmis-suski
     - bergie
   category: maintenance
+- datetime: 2024-05-07T11:00:35.001Z
+  text: ""
+  author: ""
+  position:
+    longitude: -1.1766534
+    latitude: 59.9669371
+    source: GPS
+  heading: 204
+  course: 209
+  speed:
+    stw: 5.3
+    sog: 6.2
+  log: 4314.6
+  barometer: 1024.28
+  wind:
+    speed: 16.8
+    direction: 325
+  engine:
+    hours: 736.5
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: navigation
+- datetime: 2024-05-07T11:55:48.998Z
+  text: Sails down, motoring
+  author: ""
+  position:
+    longitude: -1.2637038
+    latitude: 59.8867879
+    source: GPS
+  heading: 223
+  course: 216
+  speed:
+    stw: 5.9
+    sog: 6.8
+  log: 4320.1
+  barometer: 1024.89
+  wind:
+    speed: 16.3
+    direction: 310
+  engine:
+    hours: 736.5
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: navigation
