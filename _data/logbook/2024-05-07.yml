@@ -93,3 +93,53 @@
   crewNames:
     - ihmis-suski
     - bergie
+  category: navigation
+- datetime: 2024-05-07T10:00:34.000Z
+  text: ""
+  author: ""
+  position:
+    longitude: -1.1357146
+    latitude: 60.0497055
+    source: GPS
+  heading: 176
+  course: 188
+  speed:
+    stw: 5.7
+    sog: 5.5
+  log: 4309.3
+  barometer: 1023.55
+  wind:
+    speed: 16.7
+    direction: 329
+  engine:
+    hours: 736.5
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: navigation
+- datetime: 2024-05-07T10:16:34.000Z
+  text: "Bracket holding vang to the boom is loose and moving, making squeaky
+    noises. Needs investigation "
+  author: bergie
+  position:
+    longitude: -1.1391403
+    latitude: 60.0267046
+    source: GPS
+  heading: 181
+  course: 194
+  speed:
+    stw: 4.1
+    sog: 5.2
+  log: 4310.7
+  barometer: 1023.77
+  wind:
+    speed: 11.9
+    direction: 323
+  engine:
+    hours: 736.5
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: maintenance
