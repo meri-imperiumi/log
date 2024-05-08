@@ -193,7 +193,7 @@
     - bergie
   category: navigation
 - datetime: 2024-05-08T05:57:30.499Z
-  text: Over 2kt tidal current against us
+  text: Over 2.5kt tidal current against us
   author: bergie
   position:
     longitude: -1.3824303
@@ -216,3 +216,56 @@
     - ihmis-suski
     - bergie
   category: navigation
+- datetime: 2024-05-08T06:00:30.499Z
+  text: ""
+  author: ""
+  position:
+    longitude: -1.3850584
+    latitude: 59.873913
+    source: GPS
+  heading: 322
+  course: 350
+  speed:
+    stw: 5
+    sog: 2.3
+  log: 4327.6
+  barometer: 1026.86
+  wind:
+    speed: 13.4
+    direction: 164
+  engine:
+    hours: 737.8
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: navigation
+- datetime: 2024-05-08T06:30:31.500Z
+  text: "Past the headlands it seems the tidal stream reduces a bit. SOG starting
+    to improve. Gentle swell from the Atlantic "
+  author: bergie
+  position:
+    longitude: -1.4162515
+    latitude: 59.8925001
+    source: GPS
+  heading: 323
+  course: 329
+  speed:
+    stw: 5.4
+    sog: 4.3
+  log: 4329.1
+  barometer: 1026.48
+  wind:
+    speed: 14.7
+    direction: 146
+  engine:
+    hours: 737.8
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: navigation
+  observations:
+    seaState: 2
+    cloudCoverage: 7
+    visibility: 8
