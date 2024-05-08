@@ -1,0 +1,70 @@
+- datetime: 2024-05-08T04:18:22.499Z
+  text: Started main engine
+  author: ""
+  position:
+    longitude: -1.2805131
+    latitude: 59.8749174
+    source: GPS
+  heading: 149
+  course: 154
+  speed:
+    stw: 0
+    sog: 0
+  log: 4321
+  barometer: 1027.62
+  wind:
+    speed: 5
+    direction: 157
+  engine:
+    hours: 736.9
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: navigation
+- datetime: 2024-05-08T04:26:59.500Z
+  text: Anchor up, motoring
+  author: ""
+  position:
+    longitude: -1.2792161
+    latitude: 59.8757005
+    source: GPS
+  heading: 37
+  course: 33
+  speed:
+    stw: 0
+    sog: 5.2
+  log: 4321
+  barometer: 1027.66
+  wind:
+    speed: 6.3
+    direction: 118
+  engine:
+    hours: 737.1
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: navigation
+- datetime: 2024-05-08T04:41:27.500Z
+  text: STW paddlewheel appears to be stuck
+  author: bergie
+  position:
+    longitude: -1.2613578
+    latitude: 59.8716169
+    source: GPS
+  heading: 169
+  course: 178
+  speed:
+    stw: 0
+    sog: 4.4
+  log: 4322.1
+  barometer: 1027.56
+  wind:
+    speed: 11
+    direction: 166
+  engine:
+    hours: 737.3
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: maintenance
