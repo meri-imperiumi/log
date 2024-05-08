@@ -68,3 +68,151 @@
     - ihmis-suski
     - bergie
   category: maintenance
+- datetime: 2024-05-08T05:00:27.500Z
+  text: ""
+  author: ""
+  position:
+    longitude: -1.2716864
+    latitude: 59.8506278
+    source: GPS
+  heading: 235
+  course: 246
+  speed:
+    stw: 0
+    sog: 5
+  log: 4323.4
+  barometer: 1027.42
+  wind:
+    speed: 12.6
+    direction: 168
+  engine:
+    hours: 737.6
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: navigation
+- datetime: 2024-05-08T05:09:14.499Z
+  text: Motor stopped, sailing with Main (1st reef), Staysail
+  author: bergie
+  position:
+    longitude: -1.2953908
+    latitude: 59.8465683
+    source: GPS
+  heading: 260
+  course: 267
+  speed:
+    stw: 4.8
+    sog: 4.6
+  log: 4324.2
+  barometer: 1027.37
+  wind:
+    speed: 16.7
+    direction: 145
+  engine:
+    hours: 737.8
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: navigation
+  observations:
+    cloudCoverage: 3
+    seaState: 2
+    visibility: 8
+- datetime: 2024-05-08T05:11:25.500Z
+  text: Paddle wheel working again, just needed some wave action to dislodge it
+  author: bergie
+  position:
+    longitude: -1.3012588
+    latitude: 59.846084
+    source: GPS
+  heading: 263
+  course: 263
+  speed:
+    stw: 5.2
+    sog: 4.8
+  log: 4324.4
+  barometer: 1027.37
+  wind:
+    speed: 15.4
+    direction: 171
+  engine:
+    hours: 737.8
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: maintenance
+- datetime: 2024-05-08T05:29:30.499Z
+  text: Out of the Sumburgh Roost. Poled out
+  author: bergie
+  position:
+    longitude: -1.3426474
+    latitude: 59.8514381
+    source: GPS
+  heading: 311
+  course: 290
+  speed:
+    stw: 5.1
+    sog: 4.8
+  log: 4325.7
+  barometer: 1027.12
+  wind:
+    speed: 15.6
+    direction: 164
+  engine:
+    hours: 737.8
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: navigation
+- datetime: 2024-05-08T05:34:29.500Z
+  text: "Windvane steering, hydrogenerator deployed "
+  author: bergie
+  position:
+    longitude: -1.3512263
+    latitude: 59.8549586
+    source: GPS
+  heading: 303
+  course: 269
+  speed:
+    stw: 4.7
+    sog: 3.4
+  log: 4326.1
+  barometer: 1027.06
+  wind:
+    speed: 14.2
+    direction: 172
+  engine:
+    hours: 737.8
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: navigation
+- datetime: 2024-05-08T05:57:30.499Z
+  text: Over 2kt tidal current against us
+  author: bergie
+  position:
+    longitude: -1.3824303
+    latitude: 59.8718468
+    source: GPS
+  heading: 322
+  course: 337
+  speed:
+    stw: 5.1
+    sog: 2.4
+  log: 4327.5
+  barometer: 1026.88
+  wind:
+    speed: 13.5
+    direction: 160
+  engine:
+    hours: 737.8
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: navigation
