@@ -444,3 +444,32 @@
   crewNames:
     - ihmis-suski
     - bergie
+  category: navigation
+- datetime: 2024-05-08T11:00:34.499Z
+  text: Gybed towards the Papa Stour channel
+  author: bergie
+  position:
+    longitude: -1.7560965
+    latitude: 60.1986058
+    source: GPS
+  heading: 341
+  course: 349
+  speed:
+    stw: 5.5
+    sog: 2.8
+  log: 4350.5
+  barometer: 1024.17
+  wind:
+    speed: 16.6
+    direction: 166
+  engine:
+    hours: 737.8
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: navigation
+  observations:
+    seaState: 4
+    cloudCoverage: 8
+    visibility: 7
