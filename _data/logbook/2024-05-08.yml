@@ -344,3 +344,80 @@
   crewNames:
     - ihmis-suski
     - bergie
+  category: navigation
+- datetime: 2024-05-08T09:00:32.499Z
+  text: ""
+  author: ""
+  position:
+    longitude: -1.6356854
+    latitude: 60.0601198
+    source: GPS
+  heading: 338
+  course: 327
+  speed:
+    stw: 5.7
+    sog: 5.7
+  log: 4341.3
+  barometer: 1025.41
+  wind:
+    speed: 18.2
+    direction: 171
+  engine:
+    hours: 737.8
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: navigation
+- datetime: 2024-05-08T09:26:33.500Z
+  text: Suski went for a nap
+  author: bergie
+  position:
+    longitude: -1.6685213
+    latitude: 60.0920451
+    source: GPS
+  heading: 341
+  course: 354
+  speed:
+    stw: 6
+    sog: 3.6
+  log: 4343.5
+  barometer: 1024.78
+  wind:
+    speed: 16.4
+    direction: 160
+  engine:
+    hours: 737.8
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: navigation
+  observations:
+    cloudCoverage: 8
+    seaState: 3
+    visibility: 7
+- datetime: 2024-05-08T09:42:34.499Z
+  text: "Wind is piping up a but, up to 25kt. Some slight surfing "
+  author: bergie
+  position:
+    longitude: -1.6880461
+    latitude: 60.1110666
+    source: GPS
+  heading: 337
+  course: 331
+  speed:
+    stw: 5.4
+    sog: 4.2
+  log: 4344.8
+  barometer: 1024.78
+  wind:
+    speed: 20.5
+    direction: 165
+  engine:
+    hours: 737.8
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: navigation
