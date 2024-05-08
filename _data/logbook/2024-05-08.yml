@@ -473,3 +473,103 @@
     seaState: 4
     cloudCoverage: 8
     visibility: 7
+- datetime: 2024-05-08T12:00:36.499Z
+  text: ""
+  author: ""
+  position:
+    longitude: -1.7414271
+    latitude: 60.2722799
+    source: GPS
+  heading: 17
+  course: 29
+  speed:
+    stw: 5.5
+    sog: 4.8
+  log: 4355.1
+  barometer: 1023.63
+  wind:
+    speed: 16.2
+    direction: 163
+  engine:
+    hours: 737.8
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: navigation
+- datetime: 2024-05-08T12:08:36.499Z
+  text: "Hand steering "
+  author: bergie
+  position:
+    longitude: -1.7351953
+    latitude: 60.2832574
+    source: GPS
+  heading: 22
+  course: 35
+  speed:
+    stw: 5.3
+    sog: 5.4
+  log: 4355.7
+  barometer: 1023.57
+  wind:
+    speed: 15.8
+    direction: 154
+  engine:
+    hours: 737.8
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: navigation
+- datetime: 2024-05-08T12:47:36.499Z
+  text: "Stowed hydrogenerator "
+  author: bergie
+  position:
+    longitude: -1.6528788
+    latitude: 60.3260921
+    source: GPS
+  heading: 8
+  course: 355
+  speed:
+    stw: 5.5
+    sog: 5.2
+  log: 4359.6
+  barometer: 1023.04
+  wind:
+    speed: 17.6
+    direction: 179
+  engine:
+    hours: 737.8
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: navigation
+  observations:
+    seaState: 2
+    cloudCoverage: 8
+    visibility: 6
+- datetime: 2024-05-08T12:52:09.500Z
+  text: Sails down, motoring
+  author: ""
+  position:
+    longitude: -1.6536466
+    latitude: 60.3322783
+    source: GPS
+  heading: 337
+  course: 335
+  speed:
+    stw: 5.1
+    sog: 5.6
+  log: 4360
+  barometer: 1023.36
+  wind:
+    speed: 22.9
+    direction: 198
+  engine:
+    hours: 737.8
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: navigation
