@@ -269,3 +269,55 @@
     seaState: 2
     cloudCoverage: 7
     visibility: 8
+- datetime: 2024-05-08T07:00:31.500Z
+  text: ""
+  author: ""
+  position:
+    longitude: -1.465909
+    latitude: 59.9145978
+    source: GPS
+  heading: 341
+  course: 339
+  speed:
+    stw: 5.2
+    sog: 4.9
+  log: 4331.1
+  barometer: 1026.26
+  wind:
+    speed: 15
+    direction: 172
+  engine:
+    hours: 737.8
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: navigation
+- datetime: 2024-05-08T07:47:32.499Z
+  text: Bergie went for a nap.
+  author: ihmis-suski
+  position:
+    longitude: -1.5417096
+    latitude: 59.9664106
+    source: GPS
+  heading: 345
+  course: 350
+  speed:
+    stw: 5.3
+    sog: 4.6
+  log: 4335
+  barometer: 1025.91
+  wind:
+    speed: 13.5
+    direction: 157
+  engine:
+    hours: 737.8
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: navigation
+  observations:
+    seaState: 3
+    cloudCoverage: 8
+    visibility: 8
