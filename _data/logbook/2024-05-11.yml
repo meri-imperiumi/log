@@ -578,3 +578,76 @@
     - bergie
   end: true
   category: navigation
+- datetime: 2024-05-11T16:00:36.902Z
+  text: Started main engine
+  author: ""
+  position:
+    longitude: -1.2847446
+    latitude: 60.1336403
+    source: GPS
+  heading: 276
+  course: 224
+  speed:
+    stw: 0
+    sog: 0
+  log: 4387.1
+  barometer: 1021.02
+  wind:
+    speed: 7.1
+    direction: 171
+  engine:
+    hours: 740.1
+  vhf: "14"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: navigation
+- datetime: 2024-05-11T16:02:17.900Z
+  text: Motoring
+  author: ""
+  position:
+    longitude: -1.2844114
+    latitude: 60.1334081
+    source: GPS
+  heading: 9
+  course: 329
+  speed:
+    stw: 0
+    sog: 0.8
+  log: 4387.1
+  barometer: 1021.03
+  wind:
+    speed: 5.5
+    direction: 195
+  engine:
+    hours: 740.2
+  vhf: "14"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: navigation
+- datetime: 2024-05-11T16:07:51.897Z
+  text: Stopped
+  author: ""
+  position:
+    longitude: -1.2850468
+    latitude: 60.1337113
+    source: GPS
+  heading: 272
+  course: 187
+  speed:
+    stw: 0
+    sog: 0
+  log: 4387.2
+  barometer: 1020.98
+  wind:
+    speed: 5.7
+    direction: 215
+  engine:
+    hours: 740.3
+  vhf: "14"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  end: true
+  category: navigation
