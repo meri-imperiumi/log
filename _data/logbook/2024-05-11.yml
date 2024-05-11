@@ -114,3 +114,51 @@
     - ihmis-suski
     - bergie
   category: navigation
+- datetime: 2024-05-11T10:03:24.899Z
+  text: Motoring
+  author: ""
+  position:
+    longitude: -1.6714808
+    latitude: 60.3283601
+    source: GPS
+  heading: 111
+  course: 135
+  speed:
+    stw: 0
+    sog: 0.8
+  log: 4360.7
+  barometer: 1021.13
+  wind:
+    speed: 15.2
+    direction: 210
+  engine:
+    hours: 738.4
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: navigation
+- datetime: 2024-05-11T10:44:11.900Z
+  text: Motor stopped, sailing with Main (1st reef), Staysail
+  author: ""
+  position:
+    longitude: -1.712564
+    latitude: 60.3065533
+    source: GPS
+  heading: 241
+  course: 247
+  speed:
+    stw: 4
+    sog: 5.2
+  log: 4364.1
+  barometer: 1021.39
+  wind:
+    speed: 15.6
+    direction: 195
+  engine:
+    hours: 739
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: navigation
