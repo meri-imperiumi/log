@@ -44,103 +44,10 @@
     - ihmis-suski
     - bergie
   category: navigation
-- datetime: 2024-05-11T09:51:24.899Z
-  text: Stopped
-  author: ""
-  position:
-    longitude: -1.6697413
-    latitude: 60.3280154
-    source: GPS
-  heading: 212
-  course: 229
-  speed:
-    stw: 0
-    sog: 0.5
-  log: 4360.7
-  barometer: 1021.19
-  wind:
-    speed: 9.1
-    direction: 205
-  engine:
-    hours: 738.2
-  crewNames:
-    - ihmis-suski
-    - bergie
-  end: true
-  category: navigation
-- datetime: 2024-05-11T09:58:11.900Z
-  text: Stopped main engine
-  author: ""
-  position:
-    longitude: -1.6697785
-    latitude: 60.3280161
-    source: GPS
-  heading: 260
-  course: 292
-  speed:
-    stw: 0
-    sog: 0.4
-  log: 4360.7
-  barometer: 1021.26
-  wind:
-    speed: 13.4
-    direction: 203
-  engine:
-    hours: 738.3
-  crewNames:
-    - ihmis-suski
-    - bergie
-  category: navigation
-- datetime: 2024-05-11T09:58:16.899Z
-  text: Started main engine
-  author: ""
-  position:
-    longitude: -1.6697816
-    latitude: 60.3280218
-    source: GPS
-  heading: 260
-  course: 336
-  speed:
-    stw: 0
-    sog: 0.6
-  log: 4360.7
-  barometer: 1021.27
-  wind:
-    speed: 12.5
-    direction: 205
-  engine:
-    hours: 738.3
-  crewNames:
-    - ihmis-suski
-    - bergie
-  category: navigation
-- datetime: 2024-05-11T10:03:24.899Z
-  text: Motoring
-  author: ""
-  position:
-    longitude: -1.6714808
-    latitude: 60.3283601
-    source: GPS
-  heading: 111
-  course: 135
-  speed:
-    stw: 0
-    sog: 0.8
-  log: 4360.7
-  barometer: 1021.13
-  wind:
-    speed: 15.2
-    direction: 210
-  engine:
-    hours: 738.4
-  vhf: "16"
-  crewNames:
-    - ihmis-suski
-    - bergie
-  category: navigation
 - datetime: 2024-05-11T10:44:11.900Z
-  text: Motor stopped, sailing with Main (1st reef), Staysail
-  author: ""
+  text: Motor stopped, sailing with Main (1st reef), Staysail. Tidal race in the
+    strait was nasty, with 4kt current against wind and Atlantic swell
+  author: bergie
   position:
     longitude: -1.712564
     latitude: 60.3065533
@@ -155,6 +62,106 @@
   wind:
     speed: 15.6
     direction: 195
+  engine:
+    hours: 739
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: navigation
+- datetime: 2024-05-11T11:00:23.900Z
+  text: ""
+  author: ""
+  position:
+    longitude: -1.7454699
+    latitude: 60.2907368
+    source: GPS
+  heading: 211
+  course: 211
+  speed:
+    stw: 4.3
+    sog: 4.8
+  log: 4365.5
+  barometer: 1021.4
+  wind:
+    speed: 14.5
+    direction: 151
+  engine:
+    hours: 739
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: navigation
+- datetime: 2024-05-11T11:06:24.899Z
+  text: "Windvane steering "
+  author: bergie
+  position:
+    longitude: -1.7530249
+    latitude: 60.2839244
+    source: GPS
+  heading: 211
+  course: 197
+  speed:
+    stw: 4.4
+    sog: 4.9
+  log: 4366
+  barometer: 1021.42
+  wind:
+    speed: 12.9
+    direction: 169
+  engine:
+    hours: 739
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: navigation
+  observations:
+    seaState: 3
+    cloudCoverage: 3
+    visibility: 7
+- datetime: 2024-05-11T11:12:24.899Z
+  text: Started watermaker, 222ppm
+  author: bergie
+  position:
+    longitude: -1.7602928
+    latitude: 60.2769691
+    source: GPS
+  heading: 212
+  course: 210
+  speed:
+    stw: 4.6
+    sog: 5.1
+  log: 4366.5
+  barometer: 1021.42
+  wind:
+    speed: 12.7
+    direction: 148
+  engine:
+    hours: 739
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: navigation
+- datetime: 2024-05-11T11:52:09.900Z
+  text: "Sails set: Main, Genoa 1, Staysail"
+  author: ""
+  position:
+    longitude: -1.7806231
+    latitude: 60.2238341
+    source: GPS
+  heading: 198
+  course: 192
+  speed:
+    stw: 3.8
+    sog: 5
+  log: 4369.7
+  barometer: 1021.46
+  wind:
+    speed: 6.9
+    direction: 156
   engine:
     hours: 739
   vhf: "16"
