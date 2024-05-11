@@ -1,0 +1,116 @@
+- datetime: 2024-05-11T09:48:08.899Z
+  text: Started main engine
+  author: ""
+  position:
+    longitude: -1.6696073
+    latitude: 60.3280893
+    source: GPS
+  heading: 225
+  course: 76
+  speed:
+    stw: 0
+    sog: 0
+  log: 4360.7
+  barometer: 1021.2
+  wind:
+    speed: 12.8
+    direction: 200
+  engine:
+    hours: 738.1
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: navigation
+- datetime: 2024-05-11T09:50:54.899Z
+  text: Anchor up, motoring
+  author: ""
+  position:
+    longitude: -1.6696146
+    latitude: 60.3280441
+    source: GPS
+  heading: 228
+  course: 230
+  speed:
+    stw: 0
+    sog: 1.9
+  log: 4360.7
+  barometer: 1021.2
+  wind:
+    speed: 9.2
+    direction: 208
+  engine:
+    hours: 738.2
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: navigation
+- datetime: 2024-05-11T09:51:24.899Z
+  text: Stopped
+  author: ""
+  position:
+    longitude: -1.6697413
+    latitude: 60.3280154
+    source: GPS
+  heading: 212
+  course: 229
+  speed:
+    stw: 0
+    sog: 0.5
+  log: 4360.7
+  barometer: 1021.19
+  wind:
+    speed: 9.1
+    direction: 205
+  engine:
+    hours: 738.2
+  crewNames:
+    - ihmis-suski
+    - bergie
+  end: true
+  category: navigation
+- datetime: 2024-05-11T09:58:11.900Z
+  text: Stopped main engine
+  author: ""
+  position:
+    longitude: -1.6697785
+    latitude: 60.3280161
+    source: GPS
+  heading: 260
+  course: 292
+  speed:
+    stw: 0
+    sog: 0.4
+  log: 4360.7
+  barometer: 1021.26
+  wind:
+    speed: 13.4
+    direction: 203
+  engine:
+    hours: 738.3
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: navigation
+- datetime: 2024-05-11T09:58:16.899Z
+  text: Started main engine
+  author: ""
+  position:
+    longitude: -1.6697816
+    latitude: 60.3280218
+    source: GPS
+  heading: 260
+  course: 336
+  speed:
+    stw: 0
+    sog: 0.6
+  log: 4360.7
+  barometer: 1021.27
+  wind:
+    speed: 12.5
+    direction: 205
+  engine:
+    hours: 738.3
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: navigation
