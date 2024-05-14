@@ -163,3 +163,98 @@
   crewNames:
     - ihmis-suski
     - bergie
+  category: navigation
+- datetime: 2024-05-14T11:14:49.600Z
+  text: Sails down, motoring
+  author: ""
+  position:
+    longitude: -1.3414664
+    latitude: 59.9818979
+    source: GPS
+  heading: 186
+  course: 202
+  speed:
+    stw: 4.8
+    sog: 5.3
+  log: 4402.4
+  barometer: 1008.88
+  wind:
+    speed: 18.9
+    direction: 145
+  engine:
+    hours: 741.1
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: navigation
+- datetime: 2024-05-14T11:29:37.600Z
+  text: Anchored
+  author: ""
+  position:
+    longitude: -1.3350703
+    latitude: 59.9718908
+    source: GPS
+  heading: 188
+  course: 98
+  speed:
+    stw: 0
+    sog: 0
+  log: 4403.1
+  barometer: 1008.74
+  wind:
+    speed: 18.1
+    direction: 150
+  engine:
+    hours: 741.3
+  crewNames:
+    - ihmis-suski
+    - bergie
+  end: true
+  category: navigation
+- datetime: 2024-05-14T11:33:27.600Z
+  text: Stopped main engine
+  author: ""
+  position:
+    longitude: -1.3355606
+    latitude: 59.972075
+    source: GPS
+  heading: 122
+  course: 30
+  speed:
+    stw: 0
+    sog: 0
+  log: 4403.1
+  barometer: 1008.62
+  wind:
+    speed: 17.1
+    direction: 140
+  engine:
+    hours: 741.4
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: navigation
+- datetime: 2024-05-14T11:43:16.601Z
+  text: Watermaker on. 114ppm
+  author: ihmis-suski
+  position:
+    longitude: -1.335424
+    latitude: 59.9721064
+    source: GPS
+  heading: 194
+  course: 240
+  speed:
+    stw: 0
+    sog: 0.4
+  log: 4403.1
+  barometer: 1008.72
+  wind:
+    speed: 15.5
+    direction: 134
+  engine:
+    hours: 741.4
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: maintenance
