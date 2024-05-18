@@ -270,3 +270,51 @@
     - ihmis-suski
     - bergie
   category: navigation
+- datetime: 2024-05-18T09:00:45.600Z
+  text: ""
+  author: ""
+  position:
+    longitude: -1.5206668
+    latitude: 59.7503748
+    source: GPS
+  heading: 196
+  course: 198
+  speed:
+    stw: 4.6
+    sog: 4.3
+  log: 4419.1
+  barometer: 1018.75
+  wind:
+    speed: 7.2
+    direction: 275
+  engine:
+    hours: 742.4
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: navigation
+- datetime: 2024-05-18T09:16:45.600Z
+  text: Looks like Fair Isle is starting to materialise from the mists
+  author: bergie
+  position:
+    longitude: -1.5306654
+    latitude: 59.7299858
+    source: GPS
+  heading: 188
+  course: 190
+  speed:
+    stw: 4.4
+    sog: 4.8
+  log: 4420.3
+  barometer: 1018.75
+  wind:
+    speed: 9.5
+    direction: 312
+  engine:
+    hours: 742.4
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: navigation
