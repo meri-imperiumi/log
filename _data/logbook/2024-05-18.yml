@@ -122,3 +122,103 @@
     - ihmis-suski
     - bergie
   category: navigation
+- datetime: 2024-05-18T07:00:42.600Z
+  text: ""
+  author: ""
+  position:
+    longitude: -1.4426120122273762
+    latitude: 59.89858652750651
+    source: GPS
+  heading: 184
+  course: 186
+  speed:
+    stw: 4.7
+    sog: 5.3
+  log: 4409.8
+  barometer: 1017.62
+  wind:
+    speed: 12.5
+    direction: 292
+  engine:
+    hours: 742.2
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: navigation
+- datetime: 2024-05-18T07:11:42.600Z
+  text: "Deployed hydrogenerator "
+  author: bergie
+  position:
+    longitude: -1.448171
+    latitude: 59.8814253
+    source: GPS
+  heading: 186
+  course: 190
+  speed:
+    stw: 4.9
+    sog: 5.8
+  log: 4410.8
+  barometer: 1017.8
+  wind:
+    speed: 13.2
+    direction: 323
+  engine:
+    hours: 742.2
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: navigation
+- datetime: 2024-05-18T07:14:42.600Z
+  text: "Fishing with the Swedish gear "
+  author: bergie
+  position:
+    longitude: -1.4491168
+    latitude: 59.8767234
+    source: GPS
+  heading: 185
+  course: 184
+  speed:
+    stw: 4.8
+    sog: 6
+  log: 4411.1
+  barometer: 1017.84
+  wind:
+    speed: 13.1
+    direction: 296
+  engine:
+    hours: 742.2
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: navigation
+- datetime: 2024-05-18T07:34:42.598Z
+  text: "Stowed hydrogenerator "
+  author: bergie
+  position:
+    longitude: -1.4529156
+    latitude: 59.8498571
+    source: GPS
+  heading: 194
+  course: 188
+  speed:
+    stw: 3.6
+    sog: 3.8
+  log: 4412.7
+  barometer: 1017.96
+  wind:
+    speed: 8.3
+    direction: 306
+  engine:
+    hours: 742.2
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: navigation
+  observations:
+    seaState: 3
+    cloudCoverage: 8
+    visibility: 6
