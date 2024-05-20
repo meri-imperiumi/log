@@ -213,3 +213,79 @@
   crewNames:
     - ihmis-suski
     - bergie
+  category: navigation
+- datetime: 2024-05-20T12:00:02.099Z
+  text: ""
+  author: ""
+  position:
+    longitude: -1.9102796
+    latitude: 59.5077156
+    source: GPS
+  heading: 244
+  course: 255
+  speed:
+    stw: 4.4
+    sog: 3.5
+  log: 4443.8
+  barometer: 1021.08
+  wind:
+    speed: 9.8
+    direction: 111
+  engine:
+    hours: 743.5
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: navigation
+- datetime: 2024-05-20T12:57:03.100Z
+  text: Changed for Orkney courtesy flag.
+  author: ihmis-suski
+  position:
+    longitude: -2.0495938340822857
+    latitude: 59.48204882939657
+    source: GPS
+  heading: 243
+  course: 256
+  speed:
+    stw: 4.7
+    sog: 5.2
+  log: 4448.3
+  barometer: 1020.91
+  wind:
+    speed: 10.9
+    direction: 136
+  engine:
+    hours: 743.5
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: navigation
+  observations:
+    seaState: 3
+    cloudCoverage: 0
+    visibility: 8
+- datetime: 2024-05-20T13:00:02.099Z
+  text: ""
+  author: ""
+  position:
+    longitude: -2.0578233
+    latitude: 59.480731
+    source: GPS
+  heading: 238
+  course: 250
+  speed:
+    stw: 4.9
+    sog: 5.2
+  log: 4448.6
+  barometer: 1020.92
+  wind:
+    speed: 12.1
+    direction: 120
+  engine:
+    hours: 743.5
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
