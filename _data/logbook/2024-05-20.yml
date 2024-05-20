@@ -434,3 +434,52 @@
   crewNames:
     - ihmis-suski
     - bergie
+  category: navigation
+- datetime: 2024-05-20T15:39:04.102Z
+  text: "Passing Ronaldsay. Now tidal stream 1.6kt against us. Fair Isle almost
+    below the horizon "
+  author: bergie
+  position:
+    longitude: -2.4497035
+    latitude: 59.4054731
+    source: GPS
+  heading: 233
+  course: 226
+  speed:
+    stw: 5.5
+    sog: 3.5
+  log: 4461.7
+  barometer: 1019.64
+  wind:
+    speed: 14.3
+    direction: 113
+  engine:
+    hours: 743.5
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: navigation
+- datetime: 2024-05-20T16:00:04.102Z
+  text: ""
+  author: ""
+  position:
+    longitude: -2.4869956
+    latitude: 59.393918
+    source: GPS
+  heading: 244
+  course: 250
+  speed:
+    stw: 5.3
+    sog: 4.2
+  log: 4463
+  barometer: 1019.45
+  wind:
+    speed: 13.8
+    direction: 115
+  engine:
+    hours: 743.5
+  vhf: "11"
+  crewNames:
+    - ihmis-suski
+    - bergie
