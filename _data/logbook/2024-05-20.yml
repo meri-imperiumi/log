@@ -386,3 +386,51 @@
   crewNames:
     - ihmis-suski
     - bergie
+  category: navigation
+- datetime: 2024-05-20T14:35:03.100Z
+  text: "Stowed hydrogenerator "
+  author: bergie
+  position:
+    longitude: -2.3199276606241863
+    latitude: 59.44365634918213
+    source: GPS
+  heading: 226
+  course: 259
+  speed:
+    stw: 4.7
+    sog: 5
+  log: 4456.9
+  barometer: 1020.24
+  wind:
+    speed: 9.8
+    direction: 123
+  engine:
+    hours: 743.5
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: navigation
+- datetime: 2024-05-20T15:00:04.102Z
+  text: ""
+  author: ""
+  position:
+    longitude: -2.3800184
+    latitude: 59.4358889
+    source: GPS
+  heading: 205
+  course: 234
+  speed:
+    stw: 4.7
+    sog: 4.2
+  log: 4458.8
+  barometer: 1020
+  wind:
+    speed: 9.4
+    direction: 123
+  engine:
+    hours: 743.5
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
