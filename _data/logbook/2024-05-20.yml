@@ -436,8 +436,8 @@
     - bergie
   category: navigation
 - datetime: 2024-05-20T15:39:04.102Z
-  text: "Passing Ronaldsay. Now tidal stream 1.6kt against us. Fair Isle almost
-    below the horizon "
+  text: "Passing North Ronaldsay. Now tidal stream 1.6kt against us. Fair Isle
+    almost below the horizon "
   author: bergie
   position:
     longitude: -2.4497035
@@ -477,6 +477,79 @@
   wind:
     speed: 13.8
     direction: 115
+  engine:
+    hours: 743.5
+  vhf: "11"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: navigation
+- datetime: 2024-05-20T16:05:04.102Z
+  text: Received DSC all ships call from Norwegian Coastal Radio, asking all
+    vessels to check their radio equipment (and same in Norwegian)
+  author: bergie
+  position:
+    longitude: -2.497565
+    latitude: 59.3911985
+    source: GPS
+  heading: 244
+  course: 245
+  speed:
+    stw: 5.2
+    sog: 4.5
+  log: 4463.4
+  barometer: 1019.43
+  wind:
+    speed: 14.2
+    direction: 105
+  engine:
+    hours: 743.5
+  vhf: "11"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: radio
+- datetime: 2024-05-20T16:24:04.102Z
+  text: "Deployed hydrogenerator "
+  author: bergie
+  position:
+    longitude: -2.5360844
+    latitude: 59.3811121
+    source: GPS
+  heading: 237
+  course: 238
+  speed:
+    stw: 5.5
+    sog: 4.2
+  log: 4464.7
+  barometer: 1019.25
+  wind:
+    speed: 11.9
+    direction: 136
+  engine:
+    hours: 743.5
+  vhf: "11"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: navigation
+- datetime: 2024-05-20T17:00:05.100Z
+  text: ""
+  author: ""
+  position:
+    longitude: -2.5970473
+    latitude: 59.3443916
+    source: GPS
+  heading: 221
+  course: 219
+  speed:
+    stw: 5.4
+    sog: 4.4
+  log: 4467.6
+  barometer: 1019.12
+  wind:
+    speed: 13.8
+    direction: 92
   engine:
     hours: 743.5
   vhf: "11"
