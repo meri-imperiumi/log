@@ -22,8 +22,8 @@
     - bergie
   category: navigation
 - datetime: 2024-05-20T08:47:00.099Z
-  text: Motoring
-  author: ""
+  text: "Motoring, out of the päkchen sandwich "
+  author: bergie
   position:
     longitude: -1.6036971
     latitude: 59.5399256
@@ -63,6 +63,81 @@
     direction: 61
   engine:
     hours: 742.9
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: navigation
+- datetime: 2024-05-20T09:31:28.099Z
+  text: Motor stopped, sailing with Main, Genoa 1
+  author: bergie
+  position:
+    longitude: -1.6564306
+    latitude: 59.5569308
+    source: GPS
+  heading: 261
+  course: 241
+  speed:
+    stw: 4
+    sog: 4.1
+  log: 4435.5
+  barometer: 1021.11
+  wind:
+    speed: 11.8
+    direction: 116
+  engine:
+    hours: 743.5
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: navigation
+  observations:
+    cloudCoverage: 1
+    seaState: 2
+    visibility: 8
+- datetime: 2024-05-20T09:37:23.100Z
+  text: Autopilot activated
+  author: ""
+  position:
+    longitude: -1.6677813
+    latitude: 59.5560008
+    source: GPS
+  heading: 257
+  course: 261
+  speed:
+    stw: 3.5
+    sog: 3.1
+  log: 4435.8
+  barometer: 1021.15
+  wind:
+    speed: 9.2
+    direction: 105
+  engine:
+    hours: 743.5
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: navigation
+- datetime: 2024-05-20T10:00:00.099Z
+  text: ""
+  author: ""
+  position:
+    longitude: -1.6939549763997395
+    latitude: 59.549372673034675
+    source: GPS
+  heading: 261
+  course: 245
+  speed:
+    stw: 2.5
+    sog: 2.3
+  log: 4436.7
+  barometer: 1021.14
+  wind:
+    speed: 6.3
+    direction: 124
+  engine:
+    hours: 743.5
+  vhf: "16"
   crewNames:
     - ihmis-suski
     - bergie
