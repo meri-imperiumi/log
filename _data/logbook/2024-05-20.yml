@@ -556,3 +556,51 @@
   crewNames:
     - ihmis-suski
     - bergie
+  category: navigation
+- datetime: 2024-05-20T17:55:05.100Z
+  text: Favourable tidal current now
+  author: bergie
+  position:
+    longitude: -2.6901784
+    latitude: 59.2960706
+    source: GPS
+  heading: 222
+  course: 219
+  speed:
+    stw: 5.9
+    sog: 5.7
+  log: 4471.7
+  barometer: 1018.72
+  wind:
+    speed: 15
+    direction: 129
+  engine:
+    hours: 743.5
+  vhf: "11"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: navigation
+- datetime: 2024-05-20T18:00:05.100Z
+  text: ""
+  author: ""
+  position:
+    longitude: -2.7003701
+    latitude: 59.2896279
+    source: GPS
+  heading: 216
+  course: 209
+  speed:
+    stw: 6
+    sog: 5.8
+  log: 4472.2
+  barometer: 1018.63
+  wind:
+    speed: 16.5
+    direction: 125
+  engine:
+    hours: 743.5
+  vhf: "11"
+  crewNames:
+    - ihmis-suski
+    - bergie
