@@ -289,3 +289,100 @@
   crewNames:
     - ihmis-suski
     - bergie
+  category: navigation
+- datetime: 2024-05-20T13:26:03.100Z
+  text: "Deployed hydrogenerator "
+  author: bergie
+  position:
+    longitude: -2.134477663040161
+    latitude: 59.46589148839315
+    source: GPS
+  heading: 230
+  course: 242
+  speed:
+    stw: 5
+    sog: 5.6
+  log: 4451.1
+  barometer: 1020.66
+  wind:
+    speed: 12.9
+    direction: 126
+  engine:
+    hours: 743.5
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: navigation
+- datetime: 2024-05-20T13:43:03.100Z
+  text: Stopped watermaker,  154ppm. Two full jugs
+  author: bergie
+  position:
+    longitude: -2.1834119
+    latitude: 59.4578046
+    source: GPS
+  heading: 240
+  course: 254
+  speed:
+    stw: 4.1
+    sog: 4.9
+  log: 4452.7
+  barometer: 1020.61
+  wind:
+    speed: 11.7
+    direction: 122
+  engine:
+    hours: 743.5
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: maintenance
+- datetime: 2024-05-20T13:58:03.100Z
+  text: Some play has developed in boomvang lower bracket, causing noise.
+    Immobilised with a rope
+  author: bergie
+  position:
+    longitude: -2.2233495
+    latitude: 59.4555011
+    source: GPS
+  heading: 247
+  course: 264
+  speed:
+    stw: 4.1
+    sog: 5.7
+  log: 4453.9
+  barometer: 1020.44
+  wind:
+    speed: 10.8
+    direction: 114
+  engine:
+    hours: 743.5
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: maintenance
+- datetime: 2024-05-20T14:00:03.100Z
+  text: ""
+  author: ""
+  position:
+    longitude: -2.2290546
+    latitude: 59.4551386
+    source: GPS
+  heading: 238
+  course: 265
+  speed:
+    stw: 4.4
+    sog: 5.4
+  log: 4454.1
+  barometer: 1020.42
+  wind:
+    speed: 12.1
+    direction: 114
+  engine:
+    hours: 743.5
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
