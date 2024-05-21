@@ -218,3 +218,27 @@
     - ihmis-suski
     - bergie
   category: maintenance
+- datetime: 2024-05-21T15:14:27.200Z
+  text: Anchored
+  author: ""
+  position:
+    longitude: -2.9055736
+    latitude: 59.0319893
+    source: GPS
+  heading: 137
+  course: 358
+  speed:
+    stw: 0
+    sog: 0
+  log: 4493.3
+  barometer: 1015.06
+  wind:
+    speed: 17.1
+    direction: 121
+  engine:
+    hours: 744.1
+  crewNames:
+    - ihmis-suski
+    - bergie
+  end: true
+  category: navigation
