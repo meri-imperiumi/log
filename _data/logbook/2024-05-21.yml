@@ -145,3 +145,76 @@
   crewNames:
     - ihmis-suski
     - bergie
+  category: navigation
+- datetime: 2024-05-21T09:13:57.100Z
+  text: Sails down, motoring
+  author: ""
+  position:
+    longitude: -2.9122473
+    latitude: 59.0263405
+    source: GPS
+  heading: 54
+  course: 47
+  speed:
+    stw: 3.9
+    sog: 3.3
+  log: 4492.8
+  barometer: 1015.89
+  wind:
+    speed: 10.1
+    direction: 128
+  engine:
+    hours: 743.9
+  vhf: "11"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: navigation
+- datetime: 2024-05-21T09:29:11.100Z
+  text: Stopped, OSC mooring buoy
+  author: bergie
+  position:
+    longitude: -2.9053936640421547
+    latitude: 59.03200133244197
+    source: GPS
+  heading: 160
+  course: 99
+  speed:
+    stw: 0
+    sog: 0
+  log: 4493.3
+  barometer: 1016
+  wind:
+    speed: 7
+    direction: 151
+  engine:
+    hours: 744.1
+  crewNames:
+    - ihmis-suski
+    - bergie
+  end: true
+  category: navigation
+- datetime: 2024-05-21T09:36:10.099Z
+  text: Reattached the drop cable to Orca Core and now it sees the rest of the bus
+    again
+  author: bergie
+  position:
+    longitude: -2.9054534
+    latitude: 59.0319858
+    source: GPS
+  heading: 123
+  course: 354
+  speed:
+    stw: 0
+    sog: 0
+  log: 4493.3
+  barometer: 1015.91
+  wind:
+    speed: 10.5
+    direction: 154
+  engine:
+    hours: 744.1
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: maintenance
