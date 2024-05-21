@@ -22,55 +22,6 @@
     - ihmis-suski
     - bergie
   category: navigation
-- datetime: 2024-05-21T06:52:09.699Z
-  text: Stopped
-  author: ""
-  position:
-    longitude: -2.7826405
-    latitude: 59.1925166
-    source: GPS
-  heading: 123
-  course: 16
-  speed:
-    stw: 0
-    sog: 0
-  log: 4479.4
-  barometer: 1016.03
-  wind:
-    speed: 8.4
-    direction: 135
-  engine:
-    hours: 743.9
-  vhf: "11"
-  crewNames:
-    - ihmis-suski
-    - bergie
-  end: true
-  category: navigation
-- datetime: 2024-05-21T06:56:09.699Z
-  text: Sailing with Main, Genoa 1
-  author: ""
-  position:
-    longitude: -2.7857968
-    latitude: 59.1923641
-    source: GPS
-  heading: 299
-  course: 289
-  speed:
-    stw: 3.1
-    sog: 3.1
-  log: 4479.4
-  barometer: 1016.17
-  wind:
-    speed: 10.6
-    direction: 161
-  engine:
-    hours: 743.9
-  vhf: "11"
-  crewNames:
-    - ihmis-suski
-    - bergie
-  category: navigation
 - datetime: 2024-05-21T07:00:08.700Z
   text: ""
   author: ""
@@ -88,6 +39,82 @@
   wind:
     speed: 10
     direction: 147
+  engine:
+    hours: 743.9
+  vhf: "11"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: navigation
+- datetime: 2024-05-21T07:26:09.299Z
+  text: Orca doesn't get N2k network at all. Doesn't see any other devices.
+  author: ihmis-suski
+  position:
+    longitude: -2.8458265
+    latitude: 59.1790903
+    source: GPS
+  heading: 194
+  course: 184
+  speed:
+    stw: 5.6
+    sog: 8.6
+  log: 4481.9
+  barometer: 1016.27
+  wind:
+    speed: 13.1
+    direction: 158
+  engine:
+    hours: 743.9
+  vhf: "11"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: maintenance
+- datetime: 2024-05-21T07:40:09.100Z
+  text: Position lights on
+  author: ihmis-suski
+  position:
+    longitude: -2.8550758
+    latitude: 59.145617
+    source: GPS
+  heading: 214
+  course: 199
+  speed:
+    stw: 6.1
+    sog: 8.6
+  log: 4484
+  barometer: 1016.32
+  wind:
+    speed: 13.8
+    direction: 164
+  engine:
+    hours: 743.9
+  vhf: "11"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: navigation
+  observations:
+    seaState: 2
+    cloudCoverage: 8
+    visibility: 6
+- datetime: 2024-05-21T08:00:09.100Z
+  text: ""
+  author: ""
+  position:
+    longitude: -2.8884986
+    latitude: 59.1102456
+    source: GPS
+  heading: 195
+  course: 200
+  speed:
+    stw: 5.4
+    sog: 6.6
+  log: 4486.4
+  barometer: 1016.2
+  wind:
+    speed: 10.5
+    direction: 158
   engine:
     hours: 743.9
   vhf: "11"
