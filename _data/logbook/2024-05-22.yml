@@ -44,25 +44,30 @@
     - ihmis-suski
     - bergie
   category: navigation
-- datetime: 2024-05-22T09:58:05.200Z
+  observations:
+    cloudCoverage: 8
+    seaState: 2
+    visibility: 3
+- datetime: 2024-05-22T10:50:49.200Z
   text: Stopped
   author: ""
   position:
-    longitude: -2.9054456
-    latitude: 59.0318733
+    longitude: -2.9571866
+    latitude: 58.9877133
     source: GPS
-  heading: 42
-  course: 10
+  heading: 9
+  course: 185
   speed:
     stw: 0
-    sog: 0.6
-  log: 4493.3
-  barometer: 1013.22
+    sog: 0
+  log: 4496.8
+  barometer: 1013.11
   wind:
-    speed: 1
-    direction: 139
+    speed: 2.3
+    direction: 48
   engine:
-    hours: 744.1
+    hours: 745
+  vhf: "11"
   crewNames:
     - ihmis-suski
     - bergie
