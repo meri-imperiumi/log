@@ -240,7 +240,8 @@
     - bergie
   category: navigation
 - datetime: 2024-05-25T13:50:37.401Z
-  text: Autopilot activated, we're through. Current was >6kt at worst
+  text: Autopilot activated, we're through. Current was >6kt at worst. Big waves
+    an poor steering through low apparent wind
   author: bergie
   position:
     longitude: -3.1375978
@@ -263,3 +264,104 @@
     - ihmis-suski
     - bergie
   category: navigation
+- datetime: 2024-05-25T14:00:35.398Z
+  text: ""
+  author: ""
+  position:
+    longitude: -3.1627641
+    latitude: 59.1515148
+    source: GPS
+  heading: 295
+  course: 300
+  speed:
+    stw: 5.4
+    sog: 5.9
+  log: 4511.8
+  barometer: 1020.17
+  wind:
+    speed: 13
+    direction: 121
+  engine:
+    hours: 745.4
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: navigation
+- datetime: 2024-05-25T14:11:48.400Z
+  text: Autopilot deactivated, windvane steering
+  author: bergie
+  position:
+    longitude: -3.1962145
+    latitude: 59.1582965
+    source: GPS
+  heading: 291
+  course: 288
+  speed:
+    stw: 5.5
+    sog: 6.8
+  log: 4512.9
+  barometer: 1019.94
+  wind:
+    speed: 21.6
+    direction: 135
+  engine:
+    hours: 745.4
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: navigation
+- datetime: 2024-05-25T14:20:36.400Z
+  text: Stowed the whiskerpole, it should be broad reach from here on. This side
+    of Orkney is pretty cool
+  author: bergie
+  position:
+    longitude: -3.2279848
+    latitude: 59.1584806
+    source: GPS
+  heading: 267
+  course: 266
+  speed:
+    stw: 5.8
+    sog: 6.6
+  log: 4513.9
+  barometer: 1019.97
+  wind:
+    speed: 24.4
+    direction: 121
+  engine:
+    hours: 745.4
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: navigation
+- datetime: 2024-05-25T14:55:36.396Z
+  text: Past Brough Head light. Somewhat confused sea
+  author: bergie
+  position:
+    longitude: -3.3532585
+    latitude: 59.1451674
+    source: GPS
+  heading: 267
+  course: 266
+  speed:
+    stw: 5.6
+    sog: 7.1
+  log: 4517.9
+  barometer: 1019.69
+  wind:
+    speed: 18
+    direction: 163
+  engine:
+    hours: 745.4
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: navigation
+  observations:
+    seaState: 3
+    cloudCoverage: 8
+    visibility: 7
