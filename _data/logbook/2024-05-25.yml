@@ -338,7 +338,7 @@
     - bergie
   category: navigation
 - datetime: 2024-05-25T14:55:36.396Z
-  text: Past Brough Head light. Somewhat confused sea
+  text: Past Brough Head light. Somewhat confused lumpy sea
   author: bergie
   position:
     longitude: -3.3532585
@@ -365,3 +365,79 @@
     seaState: 3
     cloudCoverage: 8
     visibility: 7
+- datetime: 2024-05-25T15:00:37.401Z
+  text: ""
+  author: ""
+  position:
+    longitude: -3.3716991
+    latitude: 59.1419666
+    source: GPS
+  heading: 253
+  course: 254
+  speed:
+    stw: 5
+    sog: 6.2
+  log: 4518.5
+  barometer: 1019.73
+  wind:
+    speed: 15.9
+    direction: 136
+  engine:
+    hours: 745.4
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: navigation
+- datetime: 2024-05-25T15:03:36.396Z
+  text: The new windvane adjustment line is too thin, can get stuck inside the roller
+  author: bergie
+  position:
+    longitude: -3.3814073
+    latitude: 59.1396728
+    source: GPS
+  heading: 235
+  course: 246
+  speed:
+    stw: 5.3
+    sog: 7
+  log: 4518.8
+  barometer: 1019.67
+  wind:
+    speed: 17.9
+    direction: 151
+  engine:
+    hours: 745.4
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: maintenance
+- datetime: 2024-05-25T15:28:37.401Z
+  text: Slightly more comfortable going as we're further from the shore
+  author: bergie
+  position:
+    longitude: -3.4405003229777016
+    latitude: 59.11095116933186
+    source: GPS
+  heading: 228
+  course: 238
+  speed:
+    stw: 6.4
+    sog: 7.4
+  log: 4521.4
+  barometer: 1019.32
+  wind:
+    speed: 23.1
+    direction: 132
+  engine:
+    hours: 745.4
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: navigation
+  observations:
+    cloudCoverage: 7
+    seaState: 3
+    visibility: 6
