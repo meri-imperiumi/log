@@ -90,3 +90,79 @@
     - ihmis-suski
     - bergie
   category: navigation
+- datetime: 2024-05-25T12:00:34.400Z
+  text: ""
+  author: ""
+  position:
+    longitude: -2.9375211
+    latitude: 59.0313069
+    source: GPS
+  heading: 12
+  course: 1
+  speed:
+    stw: 5.9
+    sog: 5.7
+  log: 4499.6
+  barometer: 1020.53
+  wind:
+    speed: 17
+    direction: 127
+  engine:
+    hours: 745.4
+  vhf: "12"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: navigation
+- datetime: 2024-05-25T12:01:37.401Z
+  text: Autopilot activated
+  author: bergie
+  position:
+    longitude: -2.9369658
+    latitude: 59.0328421
+    source: GPS
+  heading: 17
+  course: 8
+  speed:
+    stw: 5.6
+    sog: 5.5
+  log: 4499.7
+  barometer: 1020.53
+  wind:
+    speed: 17.3
+    direction: 122
+  engine:
+    hours: 745.4
+  vhf: "12"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: navigation
+  observations:
+    seaState: 2
+    cloudCoverage: 8
+    visibility: 7
+- datetime: 2024-05-25T12:49:35.398Z
+  text: Gybed to course, set preventer. Sunglasses on, for the moment
+  author: bergie
+  position:
+    longitude: -2.9359128
+    latitude: 59.1004456
+    source: GPS
+  heading: 277
+  course: 283
+  speed:
+    stw: 5.4
+    sog: 6
+  log: 4504
+  barometer: 1020.48
+  wind:
+    speed: 18.9
+    direction: 141
+  engine:
+    hours: 745.4
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: navigation
