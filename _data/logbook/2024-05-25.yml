@@ -166,3 +166,100 @@
     - ihmis-suski
     - bergie
   category: navigation
+- datetime: 2024-05-25T13:00:35.398Z
+  text: "We're being pushed along by a >1kt current "
+  author: bergie
+  position:
+    longitude: -2.9735346
+    latitude: 59.1036538
+    source: GPS
+  heading: 281
+  course: 280
+  speed:
+    stw: 5.5
+    sog: 6.6
+  log: 4505.1
+  barometer: 1020.43
+  wind:
+    speed: 20.3
+    direction: 137
+  engine:
+    hours: 745.4
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: navigation
+- datetime: 2024-05-25T13:25:36.400Z
+  text: 2.5kt current now. Wind died for a bit. Poled out. Puffins, cormorants,
+    fish traps
+  author: bergie
+  position:
+    longitude: -3.0497794
+    latitude: 59.1181094
+    source: GPS
+  heading: 304
+  course: 306
+  speed:
+    stw: 3.1
+    sog: 5.4
+  log: 4507.7
+  barometer: 1020.38
+  wind:
+    speed: 12.2
+    direction: 107
+  engine:
+    hours: 745.4
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: navigation
+- datetime: 2024-05-25T13:46:28.400Z
+  text: Autopilot deactivated, entering tidal race with standing waves
+  author: bergie
+  position:
+    longitude: -3.1233465
+    latitude: 59.1345624
+    source: GPS
+  heading: 290
+  course: 290
+  speed:
+    stw: 5.1
+    sog: 9.4
+  log: 4510.2
+  barometer: 1019.93
+  wind:
+    speed: 21.2
+    direction: 139
+  engine:
+    hours: 745.4
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: navigation
+- datetime: 2024-05-25T13:50:37.401Z
+  text: Autopilot activated, we're through. Current was >6kt at worst
+  author: bergie
+  position:
+    longitude: -3.1375978
+    latitude: 59.1409673
+    source: GPS
+  heading: 330
+  course: 324
+  speed:
+    stw: 5.3
+    sog: 6.2
+  log: 4510.8
+  barometer: 1020.05
+  wind:
+    speed: 15.2
+    direction: 128
+  engine:
+    hours: 745.4
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: navigation
