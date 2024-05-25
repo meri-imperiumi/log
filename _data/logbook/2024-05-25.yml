@@ -464,3 +464,84 @@
   crewNames:
     - ihmis-suski
     - bergie
+  category: navigation
+- datetime: 2024-05-25T17:00:37.401Z
+  text: ""
+  author: ""
+  position:
+    longitude: -3.6965639
+    latitude: 59.0235163
+    source: GPS
+  heading: 258
+  course: 263
+  speed:
+    stw: 5.6
+    sog: 5.1
+  log: 4531.1
+  barometer: 1018.69
+  wind:
+    speed: 20.4
+    direction: 125
+  engine:
+    hours: 745.4
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: navigation
+- datetime: 2024-05-25T17:04:37.401Z
+  text: Bergie to off watch and Suski to sea watch slightly sea sick.
+  author: ihmis-suski
+  position:
+    longitude: -3.709077
+    latitude: 59.0221629
+    source: GPS
+  heading: 250
+  course: 255
+  speed:
+    stw: 5.6
+    sog: 6.7
+  log: 4531.5
+  barometer: 1018.69
+  wind:
+    speed: 21.2
+    direction: 130
+  engine:
+    hours: 745.4
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: navigation
+  observations:
+    seaState: 3
+    cloudCoverage: 7
+    visibility: 7
+- datetime: 2024-05-25T17:54:38.400Z
+  text: Going into thr fog bank way more wind. Went from 15 to 30 kn.
+  author: ihmis-suski
+  position:
+    longitude: -3.8548541
+    latitude: 58.9967416
+    source: GPS
+  heading: 234
+  course: 228
+  speed:
+    stw: 6.5
+    sog: 6.2
+  log: 4536.4
+  barometer: 1018.35
+  wind:
+    speed: 25.3
+    direction: 128
+  engine:
+    hours: 745.4
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: navigation
+  observations:
+    seaState: 4
+    cloudCoverage: 8
+    visibility: 6
