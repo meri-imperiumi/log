@@ -21,3 +21,32 @@
   crewNames:
     - ihmis-suski
     - bergie
+  category: navigation
+- datetime: 2024-05-26T01:00:42.700Z
+  text: Current turned favourable. Very short slack
+  author: bergie
+  position:
+    longitude: -4.8226021
+    latitude: 58.7271276
+    source: GPS
+  heading: 248
+  course: 265
+  speed:
+    stw: 3
+    sog: 3.6
+  log: 4571.4
+  barometer: 1016.31
+  wind:
+    speed: 9
+    direction: 117
+  engine:
+    hours: 745.4
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: navigation
+  observations:
+    seaState: 3
+    cloudCoverage: 4
+    visibility: 7
