@@ -50,3 +50,51 @@
     seaState: 3
     cloudCoverage: 4
     visibility: 7
+- datetime: 2024-05-26T02:00:43.700Z
+  text: ""
+  author: ""
+  position:
+    longitude: -4.9637414
+    latitude: 58.6817204
+    source: GPS
+  heading: 243
+  course: 237
+  speed:
+    stw: 5.6
+    sog: 5
+  log: 4576.6
+  barometer: 1015.49
+  wind:
+    speed: 20.3
+    direction: 112
+  engine:
+    hours: 745.4
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: navigation
+- datetime: 2024-05-26T02:36:43.600Z
+  text: Passing Cape Wrath light. 3.2kt current
+  author: bergie
+  position:
+    longitude: -5.0451703
+    latitude: 58.6373838
+    source: GPS
+  heading: 190
+  course: 210
+  speed:
+    stw: 5.6
+    sog: 7.6
+  log: 4580.4
+  barometer: 1015.09
+  wind:
+    speed: 19.5
+    direction: 92
+  engine:
+    hours: 745.4
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: navigation
