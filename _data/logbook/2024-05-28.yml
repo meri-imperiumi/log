@@ -1,0 +1,137 @@
+- datetime: 2024-05-28T11:12:09.500Z
+  text: "Added an additional back stopper for the boom vang. "
+  author: ihmis-suski
+  position:
+    longitude: -5.0561144
+    latitude: 58.4111818
+    source: GPS
+  heading: 168
+  course: 137
+  speed:
+    stw: 0
+    sog: 0
+  log: 4598.1
+  barometer: 1005.81
+  wind:
+    speed: 8
+    direction: 57
+  engine:
+    hours: 747.2
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: maintenance
+- datetime: 2024-05-28T11:32:02.499Z
+  text: Started main engine
+  author: ""
+  position:
+    longitude: -5.056447
+    latitude: 58.4109679
+    source: GPS
+  heading: 65
+  course: 301
+  speed:
+    stw: 0
+    sog: 0
+  log: 4598.1
+  barometer: 1005.68
+  wind:
+    speed: 4.7
+    direction: 73
+  engine:
+    hours: 747.2
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: navigation
+- datetime: 2024-05-28T11:35:29.500Z
+  text: Anchor up, motoring
+  author: ""
+  position:
+    longitude: -5.056391
+    latitude: 58.4109976
+    source: GPS
+  heading: 66
+  course: 90
+  speed:
+    stw: 0
+    sog: 0.4
+  log: 4598.1
+  barometer: 1005.67
+  wind:
+    speed: 6.8
+    direction: 75
+  engine:
+    hours: 747.2
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: navigation
+- datetime: 2024-05-28T11:43:09.500Z
+  text: "Suspiciously low output from alternator "
+  author: bergie
+  position:
+    longitude: -5.055830999215444
+    latitude: 58.41132634480793
+    source: GPS
+  heading: 49
+  course: 43
+  speed:
+    stw: 0
+    sog: 0.9
+  log: 4598.1
+  barometer: 1005.58
+  wind:
+    speed: 6.9
+    direction: 98
+  engine:
+    hours: 747.4
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: engine
+- datetime: 2024-05-28T11:47:42.499Z
+  text: Motor stopped, sailing with Main, Genoa 1
+  author: ""
+  position:
+    longitude: -5.0545111
+    latitude: 58.41253
+    source: GPS
+  heading: 324
+  course: 322
+  speed:
+    stw: 3.4
+    sog: 3.4
+  log: 4598.2
+  barometer: 1005.5
+  wind:
+    speed: 8.9
+    direction: 124
+  engine:
+    hours: 747.4
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: navigation
+- datetime: 2024-05-28T12:00:09.500Z
+  text: ""
+  author: ""
+  position:
+    longitude: -5.0659541
+    latitude: 58.4082438
+    source: GPS
+  heading: 213
+  course: 224
+  speed:
+    stw: 2.5
+    sog: 2.8
+  log: 4598.8
+  barometer: 1005.52
+  wind:
+    speed: 9.4
+    direction: 122
+  engine:
+    hours: 747.4
+  crewNames:
+    - ihmis-suski
+    - bergie
