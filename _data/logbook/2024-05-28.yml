@@ -68,7 +68,8 @@
     - bergie
   category: navigation
 - datetime: 2024-05-28T11:43:09.500Z
-  text: "Suspiciously low output from alternator "
+  text: Suspiciously low output from alternator. VictronConnect says the last run
+    ended with a "software reset"
   author: bergie
   position:
     longitude: -5.055830999215444
@@ -132,6 +133,58 @@
     direction: 122
   engine:
     hours: 747.4
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: navigation
+- datetime: 2024-05-28T12:56:11.500Z
+  text: Seeing a distant mountaintop at 268°M, must be on Lewis
+  author: bergie
+  position:
+    longitude: -5.1519561
+    latitude: 58.4106748
+    source: GPS
+  heading: 234
+  course: 225
+  speed:
+    stw: 4.1
+    sog: 3.8
+  log: 4602.2
+  barometer: 1004.85
+  wind:
+    speed: 12.6
+    direction: 341
+  engine:
+    hours: 747.4
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: navigation
+  observations:
+    seaState: 2
+    cloudCoverage: 7
+    visibility: 9
+- datetime: 2024-05-28T13:00:11.500Z
+  text: ""
+  author: ""
+  position:
+    longitude: -5.1587313
+    latitude: 58.4073895
+    source: GPS
+  heading: 234
+  course: 224
+  speed:
+    stw: 4.4
+    sog: 4.4
+  log: 4602.5
+  barometer: 1004.83
+  wind:
+    speed: 11.5
+    direction: 338
+  engine:
+    hours: 747.4
+  vhf: "16"
   crewNames:
     - ihmis-suski
     - bergie
