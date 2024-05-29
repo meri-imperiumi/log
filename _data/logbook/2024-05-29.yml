@@ -24,7 +24,8 @@
 - datetime: 2024-05-29T13:35:46.598Z
   text: Spade connector on DC-DC wire from starter battery had burned out,
     switched to slightly beefier ring terminal. Seems to have fixed the
-    alternator output issue
+    alternator output issue. Seeing up to 40A output. Also added ferrite blocks
+    to the rest of the DC-DC cables
   author: bergie
   position:
     longitude: -5.104971
@@ -86,6 +87,30 @@
   wind:
     speed: 4.4
     direction: 243
+  engine:
+    hours: 748.8
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: navigation
+- datetime: 2024-05-29T15:57:06.598Z
+  text: Started main engine
+  author: ""
+  position:
+    longitude: -5.1049355
+    latitude: 58.2784316
+    source: GPS
+  heading: 261
+  course: 356
+  speed:
+    stw: 0
+    sog: 0
+  log: 4615.6
+  barometer: 1008.59
+  wind:
+    speed: 8.7
+    direction: 267
   engine:
     hours: 748.8
   vhf: "16"
