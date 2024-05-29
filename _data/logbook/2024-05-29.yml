@@ -21,3 +21,51 @@
     - ihmis-suski
     - bergie
   category: engine
+- datetime: 2024-05-29T13:35:46.598Z
+  text: Spade connector on DC-DC wire from starter battery had burned out,
+    switched to slightly beefier ring terminal. Seems to have fixed the
+    alternator output issue
+  author: bergie
+  position:
+    longitude: -5.104971
+    latitude: 58.27854
+    source: GPS
+  heading: 209
+  course: 55
+  speed:
+    stw: 0
+    sog: 0
+  log: 4615.6
+  barometer: 1008.05
+  wind:
+    speed: 5.7
+    direction: 250
+  engine:
+    hours: 748.3
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: maintenance
+- datetime: 2024-05-29T13:43:11.600Z
+  text: Started main engine
+  author: ""
+  position:
+    longitude: -5.1049635
+    latitude: 58.2785248
+    source: GPS
+  heading: 238
+  course: 219
+  speed:
+    stw: 0
+    sog: 0
+  log: 4615.6
+  barometer: 1008.13
+  wind:
+    speed: 4.2
+    direction: 236
+  engine:
+    hours: 748.3
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: navigation
