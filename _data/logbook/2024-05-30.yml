@@ -298,3 +298,80 @@
   crewNames:
     - ihmis-suski
     - bergie
+  category: navigation
+- datetime: 2024-05-30T12:00:24.300Z
+  text: ""
+  author: ""
+  position:
+    longitude: -5.6361603
+    latitude: 58.2507329
+    source: GPS
+  heading: 256
+  course: 289
+  speed:
+    stw: 2.9
+    sog: 2.3
+  log: 4633
+  barometer: 1018.08
+  wind:
+    speed: 6.9
+    direction: 341
+  engine:
+    hours: 749.7
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: navigation
+- datetime: 2024-05-30T12:16:23.299Z
+  text: Some wind again. Adverse current
+  author: bergie
+  position:
+    longitude: -5.6606986
+    latitude: 58.2455351
+    source: GPS
+  heading: 205
+  course: 227
+  speed:
+    stw: 5.1
+    sog: 3.8
+  log: 4633.9
+  barometer: 1018.23
+  wind:
+    speed: 12.7
+    direction: 333
+  engine:
+    hours: 749.7
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: navigation
+  observations:
+    seaState: 3
+    cloudCoverage: 8
+    visibility: 7
+- datetime: 2024-05-30T12:33:43.299Z
+  text: "Sails set: Main, Genoa 1 (20% furled). Gusts up to 23kt"
+  author: bergie
+  position:
+    longitude: -5.6955723
+    latitude: 58.2299113
+    source: GPS
+  heading: 196
+  course: 193
+  speed:
+    stw: 5.9
+    sog: 5.4
+  log: 4635.5
+  barometer: 1018.4
+  wind:
+    speed: 15.1
+    direction: 350
+  engine:
+    hours: 749.7
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: navigation
