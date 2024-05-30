@@ -594,3 +594,100 @@
   crewNames:
     - ihmis-suski
     - bergie
+  category: navigation
+- datetime: 2024-05-30T18:00:27.200Z
+  text: "Sound of Shiant. 2kt favourable current "
+  author: bergie
+  position:
+    longitude: -6.4699131
+    latitude: 57.9294856
+    source: GPS
+  heading: 240
+  course: 233
+  speed:
+    stw: 5.4
+    sog: 7.4
+  log: 4667
+  barometer: 1021.73
+  wind:
+    speed: 13
+    direction: 354
+  engine:
+    hours: 749.7
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: navigation
+- datetime: 2024-05-30T18:07:27.200Z
+  text: Hand steering
+  author: bergie
+  position:
+    longitude: -6.4908896
+    latitude: 57.9224346
+    source: GPS
+  heading: 267
+  course: 248
+  speed:
+    stw: 4.9
+    sog: 6.2
+  log: 4667.8
+  barometer: 1021.87
+  wind:
+    speed: 11.8
+    direction: 320
+  engine:
+    hours: 749.7
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: navigation
+- datetime: 2024-05-30T18:11:27.200Z
+  text: "Stowed hydrogenerator "
+  author: bergie
+  position:
+    longitude: -6.5030333
+    latitude: 57.9195095
+    source: GPS
+  heading: 251
+  course: 241
+  speed:
+    stw: 4.8
+    sog: 6.1
+  log: 4668.2
+  barometer: 1021.88
+  wind:
+    speed: 10.1
+    direction: 323
+  engine:
+    hours: 749.7
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: navigation
+- datetime: 2024-05-30T18:31:15.200Z
+  text: Sails down, motoring
+  author: ""
+  position:
+    longitude: -6.5580254
+    latitude: 57.9105845
+    source: GPS
+  heading: 267
+  course: 257
+  speed:
+    stw: 2.8
+    sog: 2.3
+  log: 4670.1
+  barometer: 1021.87
+  wind:
+    speed: 12.2
+    direction: 317
+  engine:
+    hours: 749.7
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: navigation
