@@ -165,3 +165,27 @@
     - bergie
   end: true
   category: navigation
+- datetime: 2024-05-31T13:53:44.899Z
+  text: Orion XS is alternating between connected and disconnected to Cerbo.
+    Wiring issue? Causes NULL values in SK
+  author: bergie
+  position:
+    longitude: -6.8004201
+    latitude: 57.8968921
+    source: GPS
+  heading: 108
+  course: 11
+  speed:
+    stw: 0
+    sog: 0
+  log: 4681.5
+  barometer: 1027.4
+  wind:
+    speed: 6.6
+    direction: 293
+  engine:
+    hours: 752.3
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: maintenance
