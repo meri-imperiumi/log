@@ -383,3 +383,76 @@
   crewNames:
     - ihmis-suski
     - bergie
+  category: navigation
+- datetime: 2024-06-01T16:00:38.201Z
+  text: ""
+  author: ""
+  position:
+    longitude: -6.0591133
+    latitude: 57.5714616
+    source: GPS
+  heading: 140
+  course: 138
+  speed:
+    stw: 4.3
+    sog: 3.9
+  log: 4715.1
+  barometer: 1031.32
+  wind:
+    speed: 10.4
+    direction: 274
+  engine:
+    hours: 752.4
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: navigation
+- datetime: 2024-06-01T16:28:53.196Z
+  text: Autopilot deactivated
+  author: ""
+  position:
+    longitude: -6.0278074
+    latitude: 57.5480263
+    source: GPS
+  heading: 131
+  course: 140
+  speed:
+    stw: 4.1
+    sog: 3.6
+  log: 4716.8
+  barometer: 1031.3
+  wind:
+    speed: 10.8
+    direction: 304
+  engine:
+    hours: 752.4
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: navigation
+- datetime: 2024-06-01T16:50:43.200Z
+  text: Sails down, motoring
+  author: ""
+  position:
+    longitude: -6.0005458
+    latitude: 57.5353328
+    source: GPS
+  heading: 98
+  course: 100
+  speed:
+    stw: 3.9
+    sog: 3.6
+  log: 4718
+  barometer: 1031.17
+  wind:
+    speed: 9
+    direction: 297
+  engine:
+    hours: 752.4
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: navigation
