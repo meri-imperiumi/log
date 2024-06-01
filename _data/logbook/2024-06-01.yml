@@ -45,8 +45,8 @@
     - bergie
   category: navigation
 - datetime: 2024-06-01T08:59:51.900Z
-  text: Motor stopped, sailing with Main, Genoa 1
-  author: ""
+  text: Motor stopped, sailing with Main
+  author: bergie
   position:
     longitude: -6.7983506
     latitude: 57.895921
@@ -63,6 +63,58 @@
     direction: 267
   engine:
     hours: 752.4
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: navigation
+- datetime: 2024-06-01T09:00:42.899Z
+  text: ""
+  author: bergie
+  position:
+    longitude: -6.7976275
+    latitude: 57.8957663
+    source: GPS
+  heading: 112
+  course: 118
+  speed:
+    stw: 1.8
+    sog: 2.1
+  log: 4681.6
+  barometer: 1030.93
+  wind:
+    speed: 7.7
+    direction: 279
+  engine:
+    hours: 752.4
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: navigation
+  observations:
+    seaState: 2
+    cloudCoverage: 7
+    visibility: 9
+- datetime: 2024-06-01T09:51:37.900Z
+  text: "Sails set: Main, Genoa 1. Decided to set for Skye today instead of
+    tomorrow "
+  author: bergie
+  position:
+    longitude: -6.7795208
+    latitude: 57.8781323
+    source: GPS
+  heading: 125
+  course: 129
+  speed:
+    stw: 4.9
+    sog: 4.8
+  log: 4684.3
+  barometer: 1030.91
+  wind:
+    speed: 11.4
+    direction: 278
+  engine:
+    hours: 752.4
+  vhf: "16"
   crewNames:
     - ihmis-suski
     - bergie
