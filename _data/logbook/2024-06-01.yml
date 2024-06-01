@@ -167,3 +167,75 @@
     - ihmis-suski
     - bergie
   category: navigation
+- datetime: 2024-06-01T11:00:38.899Z
+  text: ""
+  author: ""
+  position:
+    longitude: -6.6388413
+    latitude: 57.8282223
+    source: GPS
+  heading: 108
+  course: 109
+  speed:
+    stw: 4.7
+    sog: 4.8
+  log: 4689.8
+  barometer: 1031.17
+  wind:
+    speed: 11.9
+    direction: 244
+  engine:
+    hours: 752.4
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: navigation
+- datetime: 2024-06-01T11:39:41.900Z
+  text: Pod of dolphins came to play in our bow wave
+  author: bergie
+  position:
+    longitude: -6.5382871
+    latitude: 57.8133136
+    source: GPS
+  heading: 102
+  course: 99
+  speed:
+    stw: 4.7
+    sog: 5.1
+  log: 4693.2
+  barometer: 1031.39
+  wind:
+    speed: 12.2
+    direction: 244
+  engine:
+    hours: 752.4
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: navigation
+- datetime: 2024-06-01T11:56:41.200Z
+  text: "Started watermaker "
+  author: bergie
+  position:
+    longitude: -6.4954181
+    latitude: 57.8060348
+    source: GPS
+  heading: 114
+  course: 106
+  speed:
+    stw: 4.3
+    sog: 4.7
+  log: 4694.6
+  barometer: 1031.31
+  wind:
+    speed: 10
+    direction: 258
+  engine:
+    hours: 752.4
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: maintenance
