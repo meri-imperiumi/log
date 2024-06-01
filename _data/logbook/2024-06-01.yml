@@ -216,7 +216,7 @@
     - bergie
   category: navigation
 - datetime: 2024-06-01T11:56:41.200Z
-  text: "Started watermaker "
+  text: Started watermaker, 146ppm
   author: bergie
   position:
     longitude: -6.4954181
@@ -239,3 +239,52 @@
     - ihmis-suski
     - bergie
   category: maintenance
+- datetime: 2024-06-01T12:00:40.198Z
+  text: ""
+  author: ""
+  position:
+    longitude: -6.4858963
+    latitude: 57.8043619
+    source: GPS
+  heading: 117
+  course: 108
+  speed:
+    stw: 4.1
+    sog: 4.7
+  log: 4694.9
+  barometer: 1031.3
+  wind:
+    speed: 11.4
+    direction: 261
+  engine:
+    hours: 752.4
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: navigation
+- datetime: 2024-06-01T12:14:40.198Z
+  text: Received multiple DSC all ships urgency calls from 002320024 (Stornoway
+    CG) for channel 16. No voice traffic following
+  author: bergie
+  position:
+    longitude: -6.450357151031494
+    latitude: 57.79875164031982
+    source: GPS
+  heading: 113
+  course: 118
+  speed:
+    stw: 4.8
+    sog: 4.5
+  log: 4696.1
+  barometer: 1031.3
+  wind:
+    speed: 12.8
+    direction: 237
+  engine:
+    hours: 752.4
+  vhf: "62"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: radio
