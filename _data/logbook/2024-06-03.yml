@@ -114,3 +114,54 @@
   crewNames:
     - ihmis-suski
     - bergie
+  category: navigation
+- datetime: 2024-06-03T13:08:11.801Z
+  text: |-
+    Hydro off. 
+
+    Watermarker 184 bpm.
+  author: ihmis-suski
+  position:
+    longitude: -5.8684658
+    latitude: 57.3837448
+    source: GPS
+  heading: 143
+  course: 142
+  speed:
+    stw: 5.5
+    sog: 5.8
+  log: 4729.2
+  barometer: 1018.55
+  wind:
+    speed: 16.9
+    direction: 240
+  engine:
+    hours: 753.2
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: maintenance
+- datetime: 2024-06-03T14:00:12.800Z
+  text: ""
+  author: ""
+  position:
+    longitude: -5.7533496
+    latitude: 57.342391
+    source: GPS
+  heading: 76
+  course: 73
+  speed:
+    stw: 4.9
+    sog: 5.1
+  log: 4734.2
+  barometer: 1018.21
+  wind:
+    speed: 21.1
+    direction: 291
+  engine:
+    hours: 753.2
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
