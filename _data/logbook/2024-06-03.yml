@@ -214,55 +214,9 @@
     - ihmis-suski
     - bergie
   category: navigation
-- datetime: 2024-06-03T14:53:43.801Z
-  text: Motor stopped, sailing with Main (1st reef), Staysail
-  author: ""
-  position:
-    longitude: -5.6395879
-    latitude: 57.3430294
-    source: GPS
-  heading: 250
-  course: 340
-  speed:
-    stw: 0
-    sog: 0.3
-  log: 4738.3
-  barometer: 1017.82
-  wind:
-    speed: 14.4
-    direction: 227
-  engine:
-    hours: 753.4
-  crewNames:
-    - ihmis-suski
-    - bergie
-  category: navigation
-- datetime: 2024-06-03T15:00:13.798Z
-  text: ""
-  author: ""
-  position:
-    longitude: -5.6395526
-    latitude: 57.3430133
-    source: GPS
-  heading: 271
-  course: 335
-  speed:
-    stw: 0
-    sog: 0.4
-  log: 4738.3
-  barometer: 1017.7
-  wind:
-    speed: 15.4
-    direction: 223
-  engine:
-    hours: 753.4
-  crewNames:
-    - ihmis-suski
-    - bergie
-  category: navigation
 - datetime: 2024-06-03T15:00:14.796Z
-  text: Stopped
-  author: ""
+  text: Stopped, Plockton visitor mooring
+  author: bergie
   position:
     longitude: -5.6395528
     latitude: 57.3430111
