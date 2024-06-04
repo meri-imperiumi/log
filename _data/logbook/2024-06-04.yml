@@ -1,0 +1,48 @@
+- datetime: 2024-06-04T15:04:21.497Z
+  text: Tightened all N2K connectors from Orca Core to bow terminator. Now Orca
+    again sees the rest of the bus
+  author: bergie
+  position:
+    longitude: -5.6396063
+    latitude: 57.3428396
+    source: GPS
+  heading: 309
+  course: 339
+  speed:
+    stw: 0
+    sog: 0.9
+  log: 4738.3
+  barometer: 1004.22
+  wind:
+    speed: 14.1
+    direction: 318
+  engine:
+    hours: 753.4
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: maintenance
+- datetime: 2024-06-04T15:20:21.497Z
+  text: Removed 12V-to-1.2V DC-DC from heads as the new fan is 12V. Re-tightened
+    festoon connectors of the light there to stop blinking
+  author: bergie
+  position:
+    longitude: -5.6396511
+    latitude: 57.3428004
+    source: GPS
+  heading: 295
+  course: 221
+  speed:
+    stw: 0
+    sog: 0.8
+  log: 4738.3
+  barometer: 1004.08
+  wind:
+    speed: 14.8
+    direction: 306
+  engine:
+    hours: 753.4
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: maintenance
