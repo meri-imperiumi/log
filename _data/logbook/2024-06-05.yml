@@ -1,0 +1,69 @@
+- datetime: 2024-06-05T07:12:16.400Z
+  text: Started main engine
+  author: ""
+  position:
+    longitude: -5.6395953
+    latitude: 57.3430091
+    source: GPS
+  heading: 221
+  course: 169
+  speed:
+    stw: 0
+    sog: 0
+  log: 4738.3
+  barometer: 1005.69
+  wind:
+    speed: 8.1
+    direction: 242
+  engine:
+    hours: 753.4
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: navigation
+- datetime: 2024-06-05T07:28:50.400Z
+  text: Suski added patches where main touches aft lowers on 1st reef
+  author: bergie
+  position:
+    longitude: -5.6396146
+    latitude: 57.3430239
+    source: GPS
+  heading: 197
+  course: 328
+  speed:
+    stw: 0
+    sog: 0
+  log: 4738.3
+  barometer: 1005.56
+  wind:
+    speed: 11.2
+    direction: 240
+  engine:
+    hours: 753.7
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: maintenance
+- datetime: 2024-06-05T07:36:39.398Z
+  text: Motor stopped, sailing with Main (1st reef), Staysail
+  author: ""
+  position:
+    longitude: -5.6413789
+    latitude: 57.3450628
+    source: GPS
+  heading: 346
+  course: 349
+  speed:
+    stw: 2.7
+    sog: 2.9
+  log: 4738.5
+  barometer: 1005.58
+  wind:
+    speed: 8.7
+    direction: 235
+  engine:
+    hours: 753.8
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: navigation
