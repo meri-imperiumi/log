@@ -67,3 +67,154 @@
     - ihmis-suski
     - bergie
   category: navigation
+- datetime: 2024-06-06T08:00:44.899Z
+  text: ""
+  author: ""
+  position:
+    longitude: -5.7805606
+    latitude: 57.1529748
+    source: GPS
+  heading: 100
+  course: 100
+  speed:
+    stw: 0.6
+    sog: 1.2
+  log: 4762.5
+  barometer: 1012.15
+  wind:
+    speed: 2.5
+    direction: 154
+  engine:
+    hours: 755.2
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: navigation
+- datetime: 2024-06-06T08:13:44.899Z
+  text: "Mayday relay from Stornoway CG: Beacon alert 0749Z 15Nm from 56°40.5N
+    008°08.2W. 82NM SW from us. There is a vessel (freighter Ross Eagle) under
+    way"
+  author: bergie
+  position:
+    longitude: -5.7685688
+    latitude: 57.1492558
+    source: GPS
+  heading: 130
+  course: 133
+  speed:
+    stw: 2.7
+    sog: 2.7
+  log: 4763
+  barometer: 1012.08
+  wind:
+    speed: 7.1
+    direction: 172
+  engine:
+    hours: 755.3
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: radio
+- datetime: 2024-06-06T08:30:44.899Z
+  text: Beacon alert  56°40.5N 008°08.2W confirmed false alert, no distress.
+    Silence fini
+  author: bergie
+  position:
+    longitude: -5.7554574
+    latitude: 57.1388951
+    source: GPS
+  heading: 167
+  course: 186
+  speed:
+    stw: 2.3
+    sog: 2.3
+  log: 4763.8
+  barometer: 1012.13
+  wind:
+    speed: 5.9
+    direction: 209
+  engine:
+    hours: 755.3
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: radio
+- datetime: 2024-06-06T08:31:31.900Z
+  text: "Sails set: Main, Genoa 1"
+  author: ""
+  position:
+    longitude: -5.7551415
+    latitude: 57.1384013
+    source: GPS
+  heading: 150
+  course: 174
+  speed:
+    stw: 2.8
+    sog: 2.1
+  log: 4763.8
+  barometer: 1012.09
+  wind:
+    speed: 7.4
+    direction: 209
+  engine:
+    hours: 755.3
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: navigation
+- datetime: 2024-06-06T08:35:44.899Z
+  text: "Deployed hydrogenerator "
+  author: bergie
+  position:
+    longitude: -5.7573163
+    latitude: 57.1340818
+    source: GPS
+  heading: 210
+  course: 213
+  speed:
+    stw: 4.6
+    sog: 4.5
+  log: 4764.1
+  barometer: 1012.04
+  wind:
+    speed: 10
+    direction: 243
+  engine:
+    hours: 755.3
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: navigation
+- datetime: 2024-06-06T08:48:07.900Z
+  text: "Sails set: Main, Staysail.  Gusts up to 18kt"
+  author: bergie
+  position:
+    longitude: -5.7702114
+    latitude: 57.1198966
+    source: GPS
+  heading: 213
+  course: 207
+  speed:
+    stw: 4
+    sog: 4.1
+  log: 4765.1
+  barometer: 1012.18
+  wind:
+    speed: 11.1
+    direction: 255
+  engine:
+    hours: 755.3
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: navigation
+  observations:
+    cloudCoverage: 6
+    seaState: 3
+    visibility: 8
