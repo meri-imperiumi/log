@@ -390,3 +390,51 @@
     cloudCoverage: 3
     seaState: 3
     visibility: 8
+- datetime: 2024-06-06T14:00:50.201Z
+  text: ""
+  author: ""
+  position:
+    longitude: -6.2281266
+    latitude: 56.771724
+    source: GPS
+  heading: 206
+  course: 209
+  speed:
+    stw: 5.5
+    sog: 4.6
+  log: 4791
+  barometer: 1015.11
+  wind:
+    speed: 14.9
+    direction: 274
+  engine:
+    hours: 755.3
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: navigation
+- datetime: 2024-06-06T14:29:51.200Z
+  text: Passing Ardnamurchan light
+  author: bergie
+  position:
+    longitude: -6.2498028
+    latitude: 56.7339463
+    source: GPS
+  heading: 201
+  course: 199
+  speed:
+    stw: 6.4
+    sog: 5.8
+  log: 4793.4
+  barometer: 1015.01
+  wind:
+    speed: 19.3
+    direction: 280
+  engine:
+    hours: 755.3
+  vhf: "68"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: navigation
