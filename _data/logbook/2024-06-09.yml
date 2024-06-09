@@ -44,3 +44,189 @@
     - ihmis-suski
     - bergie
   category: navigation
+- datetime: 2024-06-09T10:00:59.699Z
+  text: ""
+  author: ""
+  position:
+    longitude: -6.0663581
+    latitude: 56.620432
+    source: GPS
+  heading: 272
+  course: 100
+  speed:
+    stw: 0
+    sog: 0
+  log: 4804
+  barometer: 1011.67
+  wind:
+    speed: 3
+    direction: 336
+  engine:
+    hours: 755.9
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: navigation
+- datetime: 2024-06-09T10:01:16.700Z
+  text: Stopped
+  author: ""
+  position:
+    longitude: -6.066375001271566
+    latitude: 56.620431137084964
+    source: GPS
+  heading: 263
+  course: 226
+  speed:
+    stw: 0
+    sog: 0
+  log: 4804
+  barometer: 1011.67
+  wind:
+    speed: 3.5
+    direction: 327
+  engine:
+    hours: 755.9
+  crewNames:
+    - ihmis-suski
+    - bergie
+  end: true
+  category: navigation
+- datetime: 2024-06-09T10:10:58.700Z
+  text: Filled up 45l red diesel + 10l in canister
+  author: bergie
+  position:
+    longitude: -6.0664076
+    latitude: 56.6204358
+    source: GPS
+  heading: 279
+  course: 249
+  speed:
+    stw: 0
+    sog: 0
+  log: 4804
+  barometer: 1011.6
+  wind:
+    speed: 4.6
+    direction: 338
+  engine:
+    hours: 755.9
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: engine
+- datetime: 2024-06-09T10:13:51.699Z
+  text: Started main engine
+  author: ""
+  position:
+    longitude: -6.0663961
+    latitude: 56.6204276
+    source: GPS
+  heading: 278
+  course: 31
+  speed:
+    stw: 0
+    sog: 0
+  log: 4804
+  barometer: 1011.64
+  wind:
+    speed: 6.5
+    direction: 301
+  engine:
+    hours: 755.9
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: navigation
+- datetime: 2024-06-09T10:17:59.699Z
+  text: Motoring
+  author: ""
+  position:
+    longitude: -6.0611706
+    latitude: 56.6203554
+    source: GPS
+  heading: 92
+  course: 93
+  speed:
+    stw: 5.1
+    sog: 5.1
+  log: 4804
+  barometer: 1011.74
+  wind:
+    speed: 13.9
+    direction: 342
+  engine:
+    hours: 756
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: navigation
+- datetime: 2024-06-09T10:21:34.700Z
+  text: Motor stopped, sailing with Main, Genoa 1 (40% furled)
+  author: bergie
+  position:
+    longitude: -6.0576074
+    latitude: 56.621534
+    source: GPS
+  heading: 18
+  course: 18
+  speed:
+    stw: 2.3
+    sog: 2.3
+  log: 4804.2
+  barometer: 1011.75
+  wind:
+    speed: 12.2
+    direction: 283
+  engine:
+    hours: 756
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: navigation
+- datetime: 2024-06-09T10:46:12.700Z
+  text: "Sails set: Main"
+  author: ""
+  position:
+    longitude: -6.0139823
+    latitude: 56.6090683
+    source: GPS
+  heading: 132
+  course: 140
+  speed:
+    stw: 4.9
+    sog: 5.5
+  log: 4806.4
+  barometer: 1011.5
+  wind:
+    speed: 11.3
+    direction: 316
+  engine:
+    hours: 756
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: navigation
+- datetime: 2024-06-09T10:59:59.699Z
+  text: ""
+  author: ""
+  position:
+    longitude: -5.9928078
+    latitude: 56.5921523
+    source: GPS
+  heading: 144
+  course: 147
+  speed:
+    stw: 4.8
+    sog: 5.3
+  log: 4807.6
+  barometer: 1011.43
+  wind:
+    speed: 11.6
+    direction: 317
+  engine:
+    hours: 756
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
