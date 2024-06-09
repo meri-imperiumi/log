@@ -278,3 +278,75 @@
   crewNames:
     - ihmis-suski
     - bergie
+  category: navigation
+- datetime: 2024-06-09T12:08:59.699Z
+  text: Stopped watermaker, 140ppm, jug full
+  author: bergie
+  position:
+    longitude: -5.8504931
+    latitude: 56.5374734
+    source: GPS
+  heading: 101
+  course: 107
+  speed:
+    stw: 5.2
+    sog: 5.6
+  log: 4813.6
+  barometer: 1011.26
+  wind:
+    speed: 12.2
+    direction: 286
+  engine:
+    hours: 756
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: maintenance
+- datetime: 2024-06-09T12:41:38.700Z
+  text: Sails down, motoring
+  author: ""
+  position:
+    longitude: -5.7736078
+    latitude: 56.5352976
+    source: GPS
+  heading: 3
+  course: 3
+  speed:
+    stw: 4.5
+    sog: 2.4
+  log: 4816.3
+  barometer: 1011.11
+  wind:
+    speed: 7.5
+    direction: 323
+  engine:
+    hours: 756
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: navigation
+- datetime: 2024-06-09T13:00:00.700Z
+  text: ""
+  author: ""
+  position:
+    longitude: -5.7569945
+    latitude: 56.5551949
+    source: GPS
+  heading: 357
+  course: 348
+  speed:
+    stw: 2.2
+    sog: 1.9
+  log: 4817.6
+  barometer: 1010.87
+  wind:
+    speed: 9.2
+    direction: 358
+  engine:
+    hours: 756.3
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
