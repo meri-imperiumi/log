@@ -350,3 +350,52 @@
   crewNames:
     - ihmis-suski
     - bergie
+  category: navigation
+- datetime: 2024-06-09T13:01:26.700Z
+  text: Anchored
+  author: ""
+  position:
+    longitude: -5.7572598
+    latitude: 56.5557125
+    source: GPS
+  heading: 325
+  course: 287
+  speed:
+    stw: 0.7
+    sog: 0.3
+  log: 4817.7
+  barometer: 1010.79
+  wind:
+    speed: 6.4
+    direction: 1
+  engine:
+    hours: 756.4
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  end: true
+  category: navigation
+- datetime: 2024-06-09T13:06:46.700Z
+  text: Stopped main engine
+  author: ""
+  position:
+    longitude: -5.7572161
+    latitude: 56.5555193
+    source: GPS
+  heading: 1
+  course: 350
+  speed:
+    stw: 0.3
+    sog: 0.3
+  log: 4817.7
+  barometer: 1010.94
+  wind:
+    speed: 6.5
+    direction: 301
+  engine:
+    hours: 756.5
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: navigation
