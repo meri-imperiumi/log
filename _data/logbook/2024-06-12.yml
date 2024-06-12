@@ -235,3 +235,151 @@
     - ihmis-suski
     - bergie
   category: navigation
+- datetime: 2024-06-12T12:00:39.001Z
+  text: ""
+  author: ""
+  position:
+    longitude: -5.6886273
+    latitude: 56.4749743
+    source: GPS
+  heading: 135
+  course: 139
+  speed:
+    stw: 1.1
+    sog: 2
+  log: 4823.9
+  barometer: 1020.9
+  wind:
+    speed: 3.9
+    direction: 99
+  engine:
+    hours: 757.3
+  vhf: "12"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: navigation
+- datetime: 2024-06-12T12:04:16.998Z
+  text: Autopilot deactivated
+  author: ""
+  position:
+    longitude: -5.6863811
+    latitude: 56.4735806
+    source: GPS
+  heading: 76
+  course: 129
+  speed:
+    stw: 0.4
+    sog: 1.4
+  log: 4824
+  barometer: 1020.89
+  wind:
+    speed: 3.3
+    direction: 99
+  engine:
+    hours: 757.3
+  vhf: "12"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: navigation
+- datetime: 2024-06-12T12:07:31.001Z
+  text: Motorsailing with the cone. Too many eddies to keep course under sail
+  author: bergie
+  position:
+    longitude: -5.6860568
+    latitude: 56.4731133
+    source: GPS
+  heading: 197
+  course: 190
+  speed:
+    stw: 0.8
+    sog: 1.6
+  log: 4824.1
+  barometer: 1020.96
+  wind:
+    speed: 4.4
+    direction: 102
+  engine:
+    hours: 757.3
+  vhf: "12"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: navigation
+- datetime: 2024-06-12T12:07:36.998Z
+  text: Stopped watermaker, 141ppm
+  author: bergie
+  position:
+    longitude: -5.6860521
+    latitude: 56.473066
+    source: GPS
+  heading: 179
+  course: 178
+  speed:
+    stw: 1.2
+    sog: 2
+  log: 4824.1
+  barometer: 1020.96
+  wind:
+    speed: 3.5
+    direction: 109
+  engine:
+    hours: 757.3
+  vhf: "12"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: maintenance
+- datetime: 2024-06-12T12:07:44.000Z
+  text: Autopilot activated
+  author: bergie
+  position:
+    longitude: -5.6860206
+    latitude: 56.4729891
+    source: GPS
+  heading: 176
+  course: 165
+  speed:
+    stw: 1.6
+    sog: 2.4
+  log: 4824.1
+  barometer: 1020.96
+  wind:
+    speed: 3.4
+    direction: 132
+  engine:
+    hours: 757.3
+  vhf: "12"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: navigation
+  observations:
+    cloudCoverage: 6
+    seaState: 1
+    visibility: 8
+- datetime: 2024-06-12T12:50:12.000Z
+  text: Motor stopped, sailing with Main, Genoa 1. We're now past the tidal eddies
+  author: bergie
+  position:
+    longitude: -5.6036071
+    latitude: 56.4409701
+    source: GPS
+  heading: 84
+  course: 74
+  speed:
+    stw: 3
+    sog: 2.5
+  log: 4827.5
+  barometer: 1020.79
+  wind:
+    speed: 10.1
+    direction: 207
+  engine:
+    hours: 758
+  vhf: "12"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: navigation
