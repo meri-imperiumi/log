@@ -1,0 +1,116 @@
+- datetime: 2024-06-15T11:09:00.899Z
+  text: Filled water tank, 79ppm
+  author: bergie
+  position:
+    longitude: -5.4758263
+    latitude: 56.4159413
+    source: GPS
+  heading: 65
+  course: 14
+  speed:
+    stw: 0
+    sog: 0
+  log: 4847.5
+  barometer: 997.22
+  wind:
+    speed: 1.3
+    direction: 256
+  engine:
+    hours: 758.7
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: maintenance
+- datetime: 2024-06-15T11:26:09.798Z
+  text: Started main engine
+  author: ""
+  position:
+    longitude: -5.475842157999675
+    latitude: 56.415935325622556
+    source: GPS
+  heading: 66
+  course: 352
+  speed:
+    stw: 0
+    sog: 0
+  log: 4847.5
+  barometer: 997.16
+  wind:
+    speed: 1.9
+    direction: 263
+  engine:
+    hours: 758.7
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: navigation
+- datetime: 2024-06-15T11:32:02.899Z
+  text: Motoring
+  author: ""
+  position:
+    longitude: -5.4791471
+    latitude: 56.4161073
+    source: GPS
+  heading: 276
+  course: 276
+  speed:
+    stw: 4.1
+    sog: 3.9
+  log: 4847.5
+  barometer: 997.19
+  wind:
+    speed: 3.3
+    direction: 250
+  engine:
+    hours: 758.8
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: navigation
+- datetime: 2024-06-15T11:47:31.900Z
+  text: Motor stopped, sailing with Main, Genoa 1
+  author: ""
+  position:
+    longitude: -5.4961846
+    latitude: 56.4268316
+    source: GPS
+  heading: 295
+  course: 293
+  speed:
+    stw: 1.9
+    sog: 1.7
+  log: 4848.5
+  barometer: 997.24
+  wind:
+    speed: 4.3
+    direction: 240
+  engine:
+    hours: 759
+  vhf: "12"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: navigation
+- datetime: 2024-06-15T11:59:59.200Z
+  text: ""
+  author: ""
+  position:
+    longitude: -5.5149913
+    latitude: 56.4334408
+    source: GPS
+  heading: 294
+  course: 293
+  speed:
+    stw: 5
+    sog: 5
+  log: 4849.3
+  barometer: 997.47
+  wind:
+    speed: 10
+    direction: 244
+  engine:
+    hours: 759
+  vhf: "12"
+  crewNames:
+    - ihmis-suski
+    - bergie
