@@ -315,3 +315,53 @@
     - bergie
     - martin
   category: radio
+- datetime: 2024-06-16T19:00:55.897Z
+  text: ""
+  author: ""
+  position:
+    longitude: -5.6765794
+    latitude: 56.3796146
+    source: GPS
+  heading: 306
+  course: 294
+  speed:
+    stw: 4.4
+    sog: 4.4
+  log: 4873.5
+  barometer: 1001.43
+  wind:
+    speed: 9.4
+    direction: 310
+  engine:
+    hours: 762.6
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
+    - martin
+  category: navigation
+- datetime: 2024-06-16T19:09:55.897Z
+  text: Mayday 1842z beacon activated 0.7nm of 55deg40.40N 005deg43.3W, Belfast CG
+  author: bergie
+  position:
+    longitude: -5.6881526
+    latitude: 56.3846418
+    source: GPS
+  heading: 306
+  course: 299
+  speed:
+    stw: 3.4
+    sog: 2.8
+  log: 4874
+  barometer: 1001.55
+  wind:
+    speed: 11.6
+    direction: 320
+  engine:
+    hours: 762.7
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
+    - martin
+  category: radio
