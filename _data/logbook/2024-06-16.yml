@@ -341,7 +341,8 @@
     - martin
   category: navigation
 - datetime: 2024-06-16T19:09:55.897Z
-  text: Mayday 1842z beacon activated 0.7nm of 55deg40.40N 005deg43.3W, Belfast CG
+  text: "Mayday relay: at 1842z beacon activated 0.7nm of 55deg40.40N 005deg43.3W,
+    Belfast CG"
   author: bergie
   position:
     longitude: -5.6881526
@@ -365,3 +366,76 @@
     - bergie
     - martin
   category: radio
+- datetime: 2024-06-16T20:00:54.297Z
+  text: ""
+  author: ""
+  position:
+    longitude: -5.7330168
+    latitude: 56.4074891
+    source: GPS
+  heading: 289
+  course: 287
+  speed:
+    stw: 4
+    sog: 3.4
+  log: 4877.6
+  barometer: 1002.02
+  wind:
+    speed: 8.1
+    direction: 279
+  engine:
+    hours: 763.6
+  crewNames:
+    - ihmis-suski
+    - bergie
+    - martin
+  category: navigation
+- datetime: 2024-06-16T20:08:43.302Z
+  text: Anchored
+  author: ""
+  position:
+    longitude: -5.7403978
+    latitude: 56.4094078
+    source: GPS
+  heading: 22
+  course: 359
+  speed:
+    stw: 0
+    sog: 0
+  log: 4877.9
+  barometer: 1002.28
+  wind:
+    speed: 14.2
+    direction: 268
+  engine:
+    hours: 763.7
+  crewNames:
+    - ihmis-suski
+    - bergie
+    - martin
+  end: true
+  category: navigation
+- datetime: 2024-06-16T20:15:15.302Z
+  text: Stopped main engine
+  author: ""
+  position:
+    longitude: -5.7398563
+    latitude: 56.4094164
+    source: GPS
+  heading: 301
+  course: 281
+  speed:
+    stw: 0
+    sog: 0
+  log: 4877.9
+  barometer: 1002.29
+  wind:
+    speed: 11.2
+    direction: 292
+  engine:
+    hours: 763.8
+  crewNames:
+    - ihmis-suski
+    - bergie
+    - martin
+  category: navigation
