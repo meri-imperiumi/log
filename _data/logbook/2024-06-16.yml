@@ -240,3 +240,78 @@
     - bergie
     - martin
   category: navigation
+- datetime: 2024-06-16T18:00:56.902Z
+  text: ""
+  author: ""
+  position:
+    longitude: -5.5839255
+    latitude: 56.414621
+    source: GPS
+  heading: 243
+  course: 237
+  speed:
+    stw: 5.1
+    sog: 5.6
+  log: 4869.6
+  barometer: 1001.29
+  wind:
+    speed: 12.1
+    direction: 330
+  engine:
+    hours: 762.3
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
+    - martin
+  category: navigation
+- datetime: 2024-06-16T18:42:09.900Z
+  text: Sails down, motoring
+  author: ""
+  position:
+    longitude: -5.6476285
+    latitude: 56.3850623
+    source: GPS
+  heading: 125
+  course: 181
+  speed:
+    stw: 0
+    sog: 2.2
+  log: 4872.4
+  barometer: 1001.55
+  wind:
+    speed: 5.8
+    direction: 263
+  engine:
+    hours: 762.3
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
+    - martin
+  category: navigation
+- datetime: 2024-06-16T18:42:55.897Z
+  text: "Pan pan concerning lost microlight aircraft lost north of Ardnamurchan "
+  author: bergie
+  position:
+    longitude: -5.6475585
+    latitude: 56.3846291
+    source: GPS
+  heading: 185
+  course: 178
+  speed:
+    stw: 0.9
+    sog: 2.8
+  log: 4872.4
+  barometer: 1001.55
+  wind:
+    speed: 5.3
+    direction: 257
+  engine:
+    hours: 762.3
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
+    - martin
+  category: radio
