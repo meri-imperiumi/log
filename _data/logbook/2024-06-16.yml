@@ -117,3 +117,325 @@
     - bergie
   end: true
   category: navigation
+- datetime: 2024-06-16T15:46:00.998Z
+  text: martin joined the crew
+  author: ""
+  position:
+    longitude: -5.4756426
+    latitude: 56.4157318
+    source: GPS
+  heading: 65
+  course: 149
+  speed:
+    stw: 0
+    sog: 0
+  log: 4865.1
+  barometer: 1000.63
+  wind:
+    speed: 17.7
+    direction: 299
+  engine:
+    hours: 761.8
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: navigation
+- datetime: 2024-06-16T16:46:48.998Z
+  text: Started main engine
+  author: ""
+  position:
+    longitude: -5.4756616
+    latitude: 56.4157643
+    source: GPS
+  heading: 66
+  course: 207
+  speed:
+    stw: 0
+    sog: 0
+  log: 4865.1
+  barometer: 1000.72
+  wind:
+    speed: 17.1
+    direction: 303
+  engine:
+    hours: 761.8
+  vhf: "12"
+  crewNames:
+    - ihmis-suski
+    - bergie
+    - martin
+  category: navigation
+- datetime: 2024-06-16T16:55:00.000Z
+  text: Motoring
+  author: ""
+  position:
+    longitude: -5.4780483
+    latitude: 56.4162283
+    source: GPS
+  heading: 255
+  course: 256
+  speed:
+    stw: 4
+    sog: 4
+  log: 4865.1
+  barometer: 1000.68
+  wind:
+    speed: 14.6
+    direction: 313
+  engine:
+    hours: 761.9
+  vhf: "12"
+  crewNames:
+    - ihmis-suski
+    - bergie
+    - martin
+  category: navigation
+- datetime: 2024-06-16T16:59:58.899Z
+  text: ""
+  author: ""
+  position:
+    longitude: -5.4849205
+    latitude: 56.4189553
+    source: GPS
+  heading: 338
+  course: 336
+  speed:
+    stw: 4.1
+    sog: 3.2
+  log: 4865.4
+  barometer: 1000.83
+  wind:
+    speed: 15.2
+    direction: 310
+  engine:
+    hours: 762
+  vhf: "12"
+  crewNames:
+    - ihmis-suski
+    - bergie
+    - martin
+  category: navigation
+- datetime: 2024-06-16T17:17:38.899Z
+  text: Motor stopped, sailing with Main (1st reef), Staysail
+  author: ""
+  position:
+    longitude: -5.5033765
+    latitude: 56.4274814
+    source: GPS
+  heading: 254
+  course: 252
+  speed:
+    stw: 3.8
+    sog: 4.1
+  log: 4866.3
+  barometer: 1000.76
+  wind:
+    speed: 14.1
+    direction: 288
+  engine:
+    hours: 762.3
+  vhf: "12"
+  crewNames:
+    - ihmis-suski
+    - bergie
+    - martin
+  category: navigation
+- datetime: 2024-06-16T18:00:56.902Z
+  text: ""
+  author: ""
+  position:
+    longitude: -5.5839255
+    latitude: 56.414621
+    source: GPS
+  heading: 243
+  course: 237
+  speed:
+    stw: 5.1
+    sog: 5.6
+  log: 4869.6
+  barometer: 1001.29
+  wind:
+    speed: 12.1
+    direction: 330
+  engine:
+    hours: 762.3
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
+    - martin
+  category: navigation
+- datetime: 2024-06-16T18:42:09.900Z
+  text: Sails down, motoring
+  author: ""
+  position:
+    longitude: -5.6476285
+    latitude: 56.3850623
+    source: GPS
+  heading: 125
+  course: 181
+  speed:
+    stw: 0
+    sog: 2.2
+  log: 4872.4
+  barometer: 1001.55
+  wind:
+    speed: 5.8
+    direction: 263
+  engine:
+    hours: 762.3
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
+    - martin
+  category: navigation
+- datetime: 2024-06-16T18:42:55.897Z
+  text: "Pan pan concerning lost microlight aircraft lost north of Ardnamurchan "
+  author: bergie
+  position:
+    longitude: -5.6475585
+    latitude: 56.3846291
+    source: GPS
+  heading: 185
+  course: 178
+  speed:
+    stw: 0.9
+    sog: 2.8
+  log: 4872.4
+  barometer: 1001.55
+  wind:
+    speed: 5.3
+    direction: 257
+  engine:
+    hours: 762.3
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
+    - martin
+  category: radio
+- datetime: 2024-06-16T19:00:55.897Z
+  text: ""
+  author: ""
+  position:
+    longitude: -5.6765794
+    latitude: 56.3796146
+    source: GPS
+  heading: 306
+  course: 294
+  speed:
+    stw: 4.4
+    sog: 4.4
+  log: 4873.5
+  barometer: 1001.43
+  wind:
+    speed: 9.4
+    direction: 310
+  engine:
+    hours: 762.6
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
+    - martin
+  category: navigation
+- datetime: 2024-06-16T19:09:55.897Z
+  text: "Mayday relay: at 1842z beacon activated 0.7nm of 55deg40.40N 005deg43.3W,
+    Belfast CG"
+  author: bergie
+  position:
+    longitude: -5.6881526
+    latitude: 56.3846418
+    source: GPS
+  heading: 306
+  course: 299
+  speed:
+    stw: 3.4
+    sog: 2.8
+  log: 4874
+  barometer: 1001.55
+  wind:
+    speed: 11.6
+    direction: 320
+  engine:
+    hours: 762.7
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
+    - martin
+  category: radio
+- datetime: 2024-06-16T20:00:54.297Z
+  text: ""
+  author: ""
+  position:
+    longitude: -5.7330168
+    latitude: 56.4074891
+    source: GPS
+  heading: 289
+  course: 287
+  speed:
+    stw: 4
+    sog: 3.4
+  log: 4877.6
+  barometer: 1002.02
+  wind:
+    speed: 8.1
+    direction: 279
+  engine:
+    hours: 763.6
+  crewNames:
+    - ihmis-suski
+    - bergie
+    - martin
+  category: navigation
+- datetime: 2024-06-16T20:08:43.302Z
+  text: Anchored
+  author: ""
+  position:
+    longitude: -5.7403978
+    latitude: 56.4094078
+    source: GPS
+  heading: 22
+  course: 359
+  speed:
+    stw: 0
+    sog: 0
+  log: 4877.9
+  barometer: 1002.28
+  wind:
+    speed: 14.2
+    direction: 268
+  engine:
+    hours: 763.7
+  crewNames:
+    - ihmis-suski
+    - bergie
+    - martin
+  end: true
+  category: navigation
+- datetime: 2024-06-16T20:15:15.302Z
+  text: Stopped main engine
+  author: ""
+  position:
+    longitude: -5.7398563
+    latitude: 56.4094164
+    source: GPS
+  heading: 301
+  course: 281
+  speed:
+    stw: 0
+    sog: 0
+  log: 4877.9
+  barometer: 1002.29
+  wind:
+    speed: 11.2
+    direction: 292
+  engine:
+    hours: 763.8
+  crewNames:
+    - ihmis-suski
+    - bergie
+    - martin
+  category: navigation
