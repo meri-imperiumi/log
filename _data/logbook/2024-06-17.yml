@@ -1,0 +1,147 @@
+- datetime: 2024-06-17T08:14:37.600Z
+  text: Started main engine
+  author: ""
+  position:
+    longitude: -5.7398356
+    latitude: 56.4093976
+    source: GPS
+  heading: 295
+  course: 212
+  speed:
+    stw: 0
+    sog: 0.2
+  log: 4877.9
+  barometer: 1008.78
+  wind:
+    speed: 9.6
+    direction: 342
+  engine:
+    hours: 763.8
+  crewNames:
+    - ihmis-suski
+    - bergie
+    - martin
+  category: navigation
+- datetime: 2024-06-17T08:15:55.600Z
+  text: Anchor up, motoring
+  author: ""
+  position:
+    longitude: -5.7399284
+    latitude: 56.4094563
+    source: GPS
+  heading: 309
+  course: 333
+  speed:
+    stw: 0.5
+    sog: 0.6
+  log: 4877.9
+  barometer: 1008.83
+  wind:
+    speed: 9.4
+    direction: 276
+  engine:
+    hours: 763.8
+  crewNames:
+    - ihmis-suski
+    - bergie
+    - martin
+  category: navigation
+- datetime: 2024-06-17T08:16:43.600Z
+  text: Stopped
+  author: ""
+  position:
+    longitude: -5.740012168884277
+    latitude: 56.40949166615804
+    source: GPS
+  heading: 222
+  course: 282
+  speed:
+    stw: 0.1
+    sog: 0
+  log: 4877.9
+  barometer: 1008.76
+  wind:
+    speed: 14.1
+    direction: 302
+  engine:
+    hours: 763.8
+  crewNames:
+    - ihmis-suski
+    - bergie
+    - martin
+  end: true
+  category: navigation
+- datetime: 2024-06-17T08:24:43.600Z
+  text: Motoring
+  author: ""
+  position:
+    longitude: -5.7375434
+    latitude: 56.4089854
+    source: GPS
+  heading: 117
+  course: 125
+  speed:
+    stw: 2.8
+    sog: 3.1
+  log: 4877.9
+  barometer: 1008.84
+  wind:
+    speed: 22.1
+    direction: 315
+  engine:
+    hours: 764
+  crewNames:
+    - ihmis-suski
+    - bergie
+    - martin
+  category: navigation
+- datetime: 2024-06-17T08:59:28.601Z
+  text: Motor stopped, sailing with Main (1st reef), Staysail
+  author: ""
+  position:
+    longitude: -5.693437
+    latitude: 56.3865523
+    source: GPS
+  heading: 111
+  course: 115
+  speed:
+    stw: 4.9
+    sog: 4.8
+  log: 4880.3
+  barometer: 1009.19
+  wind:
+    speed: 14.7
+    direction: 311
+  engine:
+    hours: 764.5
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
+    - martin
+  category: navigation
+- datetime: 2024-06-17T08:59:42.598Z
+  text: Sails down, motoring
+  author: ""
+  position:
+    longitude: -5.6929553
+    latitude: 56.3863988
+    source: GPS
+  heading: 118
+  course: 121
+  speed:
+    stw: 4.8
+    sog: 4.6
+  log: 4880.3
+  barometer: 1009.16
+  wind:
+    speed: 14.6
+    direction: 286
+  engine:
+    hours: 764.6
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
+    - martin
+  category: navigation
