@@ -145,3 +145,79 @@
     - ihmis-suski
     - bergie
     - martin
+  category: navigation
+- datetime: 2024-06-17T11:00:44.601Z
+  text: ""
+  author: ""
+  position:
+    longitude: -5.9064586
+    latitude: 56.2951591
+    source: GPS
+  heading: 262
+  course: 254
+  speed:
+    stw: 5.3
+    sog: 6.1
+  log: 4890.6
+  barometer: 1010.28
+  wind:
+    speed: 11.8
+    direction: 358
+  engine:
+    hours: 764.9
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
+    - martin
+  category: navigation
+- datetime: 2024-06-17T11:10:44.601Z
+  text: Stopped watermaker, 145ppm
+  author: bergie
+  position:
+    longitude: -5.9311319
+    latitude: 56.2917858
+    source: GPS
+  heading: 265
+  course: 262
+  speed:
+    stw: 5.7
+    sog: 5.6
+  log: 4891.4
+  barometer: 1010.37
+  wind:
+    speed: 17.3
+    direction: 330
+  engine:
+    hours: 764.9
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
+    - martin
+  category: maintenance
+- datetime: 2024-06-17T11:47:57.600Z
+  text: "Sails set: Main, Genoa 1. Turned to follow Lady of Avenel"
+  author: bergie
+  position:
+    longitude: -5.979206021626791
+    latitude: 56.28616600036621
+    source: GPS
+  heading: 74
+  course: 79
+  speed:
+    stw: 6.1
+    sog: 6.1
+  log: 4894.7
+  barometer: 1011.14
+  wind:
+    speed: 16.2
+    direction: 326
+  engine:
+    hours: 764.9
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
+    - martin
+  category: navigation
