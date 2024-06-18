@@ -49,8 +49,8 @@
     - martin
   category: navigation
 - datetime: 2024-06-18T11:55:35.900Z
-  text: Motor stopped, sailing with Main, Staysail
-  author: ""
+  text: Motor stopped, sailing with Main, Genoa 1
+  author: bergie
   position:
     longitude: -5.4860671
     latitude: 56.4165283
@@ -65,6 +65,56 @@
   wind:
     speed: 12.1
     direction: 302
+  engine:
+    hours: 765.9
+  vhf: "12"
+  crewNames:
+    - ihmis-suski
+    - bergie
+    - martin
+  category: navigation
+- datetime: 2024-06-18T12:00:37.900Z
+  text: ""
+  author: ""
+  position:
+    longitude: -5.4958201
+    latitude: 56.4114498
+    source: GPS
+  heading: 222
+  course: 223
+  speed:
+    stw: 4.6
+    sog: 4.4
+  log: 4914.9
+  barometer: 1019.54
+  wind:
+    speed: 9.6
+    direction: 276
+  engine:
+    hours: 765.9
+  vhf: "12"
+  crewNames:
+    - ihmis-suski
+    - bergie
+    - martin
+  category: navigation
+- datetime: 2024-06-18T12:20:55.900Z
+  text: "Sails set: Main, Staysail"
+  author: ""
+  position:
+    longitude: -5.5192671
+    latitude: 56.3972828
+    source: GPS
+  heading: 238
+  course: 229
+  speed:
+    stw: 3.9
+    sog: 4
+  log: 4916.3
+  barometer: 1019.58
+  wind:
+    speed: 15.1
+    direction: 337
   engine:
     hours: 765.9
   vhf: "12"
