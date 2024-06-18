@@ -147,3 +147,54 @@
     - ihmis-suski
     - bergie
     - martin
+  category: navigation
+- datetime: 2024-06-18T14:00:39.900Z
+  text: ""
+  author: ""
+  position:
+    longitude: -5.6680818
+    latitude: 56.2954681
+    source: GPS
+  heading: 223
+  course: 221
+  speed:
+    stw: 4.3
+    sog: 4.1
+  log: 4924.4
+  barometer: 1019.86
+  wind:
+    speed: 11.9
+    direction: 333
+  engine:
+    hours: 765.9
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
+    - martin
+  category: navigation
+- datetime: 2024-06-18T14:25:39.900Z
+  text: All ships DSC securite call about somebody leaning on their microphone on 16
+  author: bergie
+  position:
+    longitude: -5.6947168
+    latitude: 56.273792
+    source: GPS
+  heading: 197
+  course: 195
+  speed:
+    stw: 3.7
+    sog: 4.1
+  log: 4926
+  barometer: 1020.14
+  wind:
+    speed: 12.6
+    direction: 339
+  engine:
+    hours: 765.9
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
+    - martin
+  category: radio
