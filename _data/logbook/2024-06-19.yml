@@ -1,0 +1,126 @@
+- datetime: 2024-06-19T10:07:07.600Z
+  text: Started main engine
+  author: ""
+  position:
+    longitude: -5.7167341
+    latitude: 56.2347249
+    source: GPS
+  heading: 253
+  course: 267
+  speed:
+    stw: 0
+    sog: 0
+  log: 4928.6
+  barometer: 1023.87
+  wind:
+    speed: 10.1
+    direction: 243
+  engine:
+    hours: 766.2
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
+    - martin
+  category: navigation
+- datetime: 2024-06-19T10:09:10.598Z
+  text: Anchor up, motoring
+  author: ""
+  position:
+    longitude: -5.7167788
+    latitude: 56.2347121
+    source: GPS
+  heading: 246
+  course: 242
+  speed:
+    stw: 0
+    sog: 0.6
+  log: 4928.6
+  barometer: 1023.92
+  wind:
+    speed: 10.1
+    direction: 237
+  engine:
+    hours: 766.3
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
+    - martin
+  category: navigation
+- datetime: 2024-06-19T10:09:36.601Z
+  text: Stopped
+  author: ""
+  position:
+    longitude: -5.7168311
+    latitude: 56.2346863
+    source: GPS
+  heading: 260
+  course: 285
+  speed:
+    stw: 0
+    sog: 0.2
+  log: 4928.6
+  barometer: 1023.92
+  wind:
+    speed: 10.4
+    direction: 239
+  engine:
+    hours: 766.3
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
+    - martin
+  end: true
+  category: navigation
+- datetime: 2024-06-19T10:14:36.601Z
+  text: Motoring
+  author: ""
+  position:
+    longitude: -5.7153511
+    latitude: 56.2351751
+    source: GPS
+  heading: 57
+  course: 57
+  speed:
+    stw: 2.1
+    sog: 2.2
+  log: 4928.6
+  barometer: 1023.9
+  wind:
+    speed: 10.3
+    direction: 244
+  engine:
+    hours: 766.4
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
+    - martin
+  category: navigation
+- datetime: 2024-06-19T10:26:08.601Z
+  text: Motor stopped, sailing with Main, Staysail
+  author: ""
+  position:
+    longitude: -5.7071554
+    latitude: 56.2431029
+    source: GPS
+  heading: 15
+  course: 3
+  speed:
+    stw: 4.3
+    sog: 4.5
+  log: 4929.3
+  barometer: 1023.96
+  wind:
+    speed: 13.7
+    direction: 252
+  engine:
+    hours: 766.6
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
+    - martin
+  category: navigation
