@@ -73,3 +73,79 @@
     - bergie
     - martin
   category: navigation
+- datetime: 2024-06-20T10:00:26.300Z
+  text: ""
+  author: ""
+  position:
+    longitude: -5.5594293
+    latitude: 56.3560948
+    source: GPS
+  heading: 25
+  course: 30
+  speed:
+    stw: 2.4
+    sog: 3.4
+  log: 4939.7
+  barometer: 1020.25
+  wind:
+    speed: 8.5
+    direction: 253
+  engine:
+    hours: 767.5
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
+    - martin
+  category: navigation
+- datetime: 2024-06-20T10:14:22.300Z
+  text: "DSC Securité: one person kayak departed 14.6. sightings requested.
+    Apparently somebody mostly out of our VHF range has a sighting"
+  author: bergie
+  position:
+    longitude: -5.5518738
+    latitude: 56.3653889
+    source: GPS
+  heading: 29
+  course: 26
+  speed:
+    stw: 2.1
+    sog: 2.1
+  log: 4940.3
+  barometer: 1020.24
+  wind:
+    speed: 6.8
+    direction: 250
+  engine:
+    hours: 767.5
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
+    - martin
+  category: radio
+- datetime: 2024-06-20T10:21:14.300Z
+  text: Sails down, motoring
+  author: ""
+  position:
+    longitude: -5.5482458
+    latitude: 56.3692681
+    source: GPS
+  heading: 38
+  course: 34
+  speed:
+    stw: 1.7
+    sog: 1.6
+  log: 4940.6
+  barometer: 1020.24
+  wind:
+    speed: 4.8
+    direction: 264
+  engine:
+    hours: 767.5
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
+    - martin
+  category: navigation
