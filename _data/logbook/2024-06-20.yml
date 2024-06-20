@@ -48,29 +48,28 @@
     - bergie
     - martin
   category: navigation
-- datetime: 2024-06-20T08:59:43.299Z
-  text: Stopped
+- datetime: 2024-06-20T09:16:41.299Z
+  text: Motor stopped, sailing with Main, Genoa 1
   author: ""
   position:
-    longitude: -5.5901038
-    latitude: 56.3218559
+    longitude: -5.582571983337402
+    latitude: 56.33023166656494
     source: GPS
-  heading: 196
-  course: 73
+  heading: 357
+  course: 345
   speed:
-    stw: 0
-    sog: 0
-  log: 4937.4
-  barometer: 1020.45
+    stw: 1.3
+    sog: 1.7
+  log: 4938
+  barometer: 1020.46
   wind:
-    speed: 5.8
-    direction: 193
+    speed: 6.9
+    direction: 191
   engine:
-    hours: 767
+    hours: 767.3
   vhf: "16"
   crewNames:
     - ihmis-suski
     - bergie
     - martin
-  end: true
   category: navigation
