@@ -372,3 +372,122 @@
     - ihmis-suski
     - bergie
     - karin
+  category: navigation
+- datetime: 2024-06-21T14:13:11.500Z
+  text: Sailing towards Ardnamurchan
+  author: ihmis-suski
+  position:
+    longitude: -6.1510781
+    latitude: 56.6657141
+    source: GPS
+  heading: 282
+  course: 299
+  speed:
+    stw: 6.1
+    sog: 6.9
+  log: 4972.1
+  barometer: 1006
+  wind:
+    speed: 22.2
+    direction: 152
+  engine:
+    hours: 768.9
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
+    - karin
+  category: navigation
+  observations:
+    seaState: 3
+    cloudCoverage: 8
+    visibility: 7
+- datetime: 2024-06-21T14:37:12.499Z
+  text: Mayday FAC4521 Belfast coastguard on channel 16
+  author: ihmis-suski
+  position:
+    longitude: -6.2228915
+    latitude: 56.6855906
+    source: GPS
+  heading: 310
+  course: 308
+  speed:
+    stw: 5.4
+    sog: 7.2
+  log: 4974.8
+  barometer: 1005.84
+  wind:
+    speed: 20.3
+    direction: 160
+  engine:
+    hours: 768.9
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
+    - karin
+  category: radio
+- datetime: 2024-06-21T14:46:12.499Z
+  text: >-
+    Mayday relay
+
+
+    1
+
+    Mob
+
+    55 50,4 N 000 29,067 W islay 2.9 miles from Cull Point. Timegroup 14211444
+    utc
+
+
+    Dutch boat being talked to. 16.6 nautical miles off .
+
+
+    Are you (Dutch boat) able to establish communication, CG is not.
+  author: ihmis-suski
+  position:
+    longitude: -6.241082000732422
+    latitude: 56.697645823160805
+    source: GPS
+  heading: 328
+  course: 325
+  speed:
+    stw: 5.2
+    sog: 6.4
+  log: 4975.8
+  barometer: 1005.68
+  wind:
+    speed: 17
+    direction: 164
+  engine:
+    hours: 768.9
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
+    - karin
+  category: navigation
+- datetime: 2024-06-21T15:00:12.499Z
+  text: ""
+  author: ""
+  position:
+    longitude: -6.2597038
+    latitude: 56.7198483
+    source: GPS
+  heading: 338
+  course: 350
+  speed:
+    stw: 5.1
+    sog: 6.5
+  log: 4977.3
+  barometer: 1005.6
+  wind:
+    speed: 15.8
+    direction: 181
+  engine:
+    hours: 768.9
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
+    - karin
