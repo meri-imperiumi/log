@@ -147,3 +147,103 @@
     - ihmis-suski
     - bergie
     - karin
+  category: navigation
+- datetime: 2024-06-21T10:14:01.100Z
+  text: Sails down, motoring
+  author: ""
+  position:
+    longitude: -5.6096073
+    latitude: 56.4499623
+    source: GPS
+  heading: 317
+  course: 305
+  speed:
+    stw: 1
+    sog: 1.9
+  log: 4949.6
+  barometer: 1007.95
+  wind:
+    speed: 4
+    direction: 212
+  engine:
+    hours: 768.9
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
+    - karin
+  category: navigation
+- datetime: 2024-06-21T10:18:05.100Z
+  text: Motor stopped, sailing with Main, Staysail
+  author: ""
+  position:
+    longitude: -5.6155518
+    latitude: 56.4527805
+    source: GPS
+  heading: 308
+  course: 296
+  speed:
+    stw: 3.6
+    sog: 3.4
+  log: 4949.8
+  barometer: 1007.99
+  wind:
+    speed: 11
+    direction: 174
+  engine:
+    hours: 768.9
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
+    - karin
+  category: navigation
+- datetime: 2024-06-21T10:19:09.100Z
+  text: "Started watermaker "
+  author: bergie
+  position:
+    longitude: -5.6171201
+    latitude: 56.4532065
+    source: GPS
+  heading: 302
+  course: 296
+  speed:
+    stw: 3.4
+    sog: 3.3
+  log: 4949.9
+  barometer: 1007.94
+  wind:
+    speed: 10
+    direction: 183
+  engine:
+    hours: 768.9
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
+    - karin
+  category: maintenance
+- datetime: 2024-06-21T11:00:10.499Z
+  text: ""
+  author: ""
+  position:
+    longitude: -5.6768704
+    latitude: 56.4806665
+    source: GPS
+  heading: 314
+  course: 308
+  speed:
+    stw: 5.1
+    sog: 4.1
+  log: 4952.5
+  barometer: 1007.55
+  wind:
+    speed: 17.9
+    direction: 160
+  engine:
+    hours: 768.9
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
+    - karin
