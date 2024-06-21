@@ -247,3 +247,53 @@
     - ihmis-suski
     - bergie
     - karin
+  category: navigation
+- datetime: 2024-06-21T11:20:10.499Z
+  text: Lost our second mackerel set
+  author: bergie
+  position:
+    longitude: -5.7187049
+    latitude: 56.5009646
+    source: GPS
+  heading: 300
+  course: 298
+  speed:
+    stw: 5.8
+    sog: 6.3
+  log: 4954.3
+  barometer: 1007.58
+  wind:
+    speed: 19.8
+    direction: 173
+  engine:
+    hours: 768.9
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
+    - karin
+  category: maintenance
+- datetime: 2024-06-21T12:00:10.499Z
+  text: ""
+  author: ""
+  position:
+    longitude: -5.8239233
+    latitude: 56.5285533
+    source: GPS
+  heading: 296
+  course: 290
+  speed:
+    stw: 4.8
+    sog: 5.1
+  log: 4958.2
+  barometer: 1007.37
+  wind:
+    speed: 14
+    direction: 160
+  engine:
+    hours: 768.9
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
+    - karin
