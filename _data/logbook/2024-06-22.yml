@@ -102,3 +102,32 @@
     seaState: 3
     cloudCoverage: 7
     visibility: 7
+- datetime: 2024-06-22T11:00:41.200Z
+  text: We can see some peaks from Outer Hebrides in the horizon
+  author: bergie
+  position:
+    longitude: -6.2013643
+    latitude: 56.8458986
+    source: GPS
+  heading: 351
+  course: 349
+  speed:
+    stw: 5
+    sog: 4.3
+  log: 4987.7
+  barometer: 1010.2
+  wind:
+    speed: 15
+    direction: 219
+  engine:
+    hours: 769.9
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
+    - karin
+  category: navigation
+  observations:
+    seaState: 2
+    cloudCoverage: 6
+    visibility: 9
