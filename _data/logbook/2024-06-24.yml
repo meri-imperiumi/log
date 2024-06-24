@@ -172,3 +172,53 @@
     - bergie
     - karin
   category: radio
+- datetime: 2024-06-24T11:00:53.699Z
+  text: ""
+  author: ""
+  position:
+    longitude: -5.980189
+    latitude: 56.9983109
+    source: GPS
+  heading: 274
+  course: 263
+  speed:
+    stw: 4.2
+    sog: 4
+  log: 5028.3
+  barometer: 1016.01
+  wind:
+    speed: 14.1
+    direction: 168
+  engine:
+    hours: 770.8
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
+    - karin
+  category: navigation
+- datetime: 2024-06-24T11:37:04.700Z
+  text: Sails down, motoring
+  author: ""
+  position:
+    longitude: -6.0332709
+    latitude: 57.004556
+    source: GPS
+  heading: 293
+  course: 290
+  speed:
+    stw: 0.6
+    sog: 1.7
+  log: 5030.1
+  barometer: 1016.09
+  wind:
+    speed: 5.7
+    direction: 158
+  engine:
+    hours: 770.8
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
+    - karin
+  category: navigation
