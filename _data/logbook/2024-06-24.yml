@@ -1,0 +1,73 @@
+- datetime: 2024-06-24T08:48:04.700Z
+  text: Started main engine
+  author: ""
+  position:
+    longitude: -5.6856926
+    latitude: 57.0362745
+    source: GPS
+  heading: 145
+  course: 99
+  speed:
+    stw: 0
+    sog: 0
+  log: 5018.3
+  barometer: 1015.97
+  wind:
+    speed: 7.3
+    direction: 165
+  engine:
+    hours: 770.6
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
+    - karin
+  category: navigation
+- datetime: 2024-06-24T08:53:04.700Z
+  text: Motoring
+  author: ""
+  position:
+    longitude: -5.6862046
+    latitude: 57.0349036
+    source: GPS
+  heading: 163
+  course: 171
+  speed:
+    stw: 2.8
+    sog: 2.8
+  log: 5018.3
+  barometer: 1016.05
+  wind:
+    speed: 8
+    direction: 161
+  engine:
+    hours: 770.8
+  crewNames:
+    - ihmis-suski
+    - bergie
+    - karin
+  category: navigation
+- datetime: 2024-06-24T08:54:41.699Z
+  text: Motor stopped, sailing with Main, Staysail
+  author: ""
+  position:
+    longitude: -5.6872871
+    latitude: 57.0341276
+    source: GPS
+  heading: 245
+  course: 252
+  speed:
+    stw: 2.1
+    sog: 2.2
+  log: 5018.4
+  barometer: 1016.11
+  wind:
+    speed: 8.8
+    direction: 158
+  engine:
+    hours: 770.8
+  crewNames:
+    - ihmis-suski
+    - bergie
+    - karin
+  category: navigation
