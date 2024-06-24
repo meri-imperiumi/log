@@ -222,3 +222,53 @@
     - bergie
     - karin
   category: navigation
+- datetime: 2024-06-24T12:00:51.699Z
+  text: ""
+  author: ""
+  position:
+    longitude: -6.051863499482473
+    latitude: 57.0337019999822
+    source: GPS
+  heading: 354
+  course: 348
+  speed:
+    stw: 5
+    sog: 4.8
+  log: 5032.1
+  barometer: 1015.93
+  wind:
+    speed: 10.6
+    direction: 146
+  engine:
+    hours: 771.2
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
+    - karin
+  category: navigation
+- datetime: 2024-06-24T12:02:40.700Z
+  text: Motor stopped, sailing with Genoa 1
+  author: ""
+  position:
+    longitude: -6.0520525
+    latitude: 57.0357826
+    source: GPS
+  heading: 9
+  course: 13
+  speed:
+    stw: 4
+    sog: 4
+  log: 5032.2
+  barometer: 1015.89
+  wind:
+    speed: 13.1
+    direction: 137
+  engine:
+    hours: 771.2
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
+    - karin
+  category: navigation
