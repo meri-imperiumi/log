@@ -95,3 +95,80 @@
     - ihmis-suski
     - bergie
     - karin
+  category: navigation
+- datetime: 2024-06-24T10:00:55.699Z
+  text: ""
+  author: ""
+  position:
+    longitude: -5.840236663818359
+    latitude: 57.01424866716067
+    source: GPS
+  heading: 246
+  course: 260
+  speed:
+    stw: 4.7
+    sog: 4.7
+  log: 5023.6
+  barometer: 1016.11
+  wind:
+    speed: 15.8
+    direction: 200
+  engine:
+    hours: 770.8
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
+    - karin
+  category: navigation
+- datetime: 2024-06-24T10:26:54.700Z
+  text: "PAN PAN Yacht aground of Cuan Sound, contact Stornoway CG. Grey Dog
+    reported being on site "
+  author: bergie
+  position:
+    longitude: -5.9062128
+    latitude: 57.0051428
+    source: GPS
+  heading: 252
+  course: 260
+  speed:
+    stw: 4.7
+    sog: 5.2
+  log: 5025.8
+  barometer: 1016.16
+  wind:
+    speed: 16.1
+    direction: 178
+  engine:
+    hours: 770.8
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
+    - karin
+  category: radio
+- datetime: 2024-06-24T10:39:54.700Z
+  text: Apparently the aground yacht (Mocking J) didn't require assistance
+  author: bergie
+  position:
+    longitude: -5.935929679870606
+    latitude: 56.99971580505371
+    source: GPS
+  heading: 246
+  course: 248
+  speed:
+    stw: 4.6
+    sog: 5
+  log: 5026.9
+  barometer: 1016.16
+  wind:
+    speed: 14.8
+    direction: 175
+  engine:
+    hours: 770.8
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
+    - karin
+  category: radio
