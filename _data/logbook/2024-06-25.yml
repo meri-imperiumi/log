@@ -93,3 +93,98 @@
     - ihmis-suski
     - bergie
     - karin
+  category: navigation
+- datetime: 2024-06-25T09:00:55.398Z
+  text: ""
+  author: ""
+  position:
+    longitude: -6.157441838582357
+    latitude: 57.18659216562907
+    source: GPS
+  heading: 343
+  course: 333
+  speed:
+    sog: 4
+  log: 5054.4
+  barometer: 1020.72
+  wind:
+    speed: 11.3
+    direction: 360
+  engine:
+    hours: 774.5
+  crewNames:
+    - ihmis-suski
+    - bergie
+    - karin
+  category: navigation
+- datetime: 2024-06-25T09:23:50.400Z
+  text: Anchored
+  author: ""
+  position:
+    longitude: -6.1653548
+    latitude: 57.1974218
+    source: GPS
+  heading: 65
+  course: 107
+  speed:
+    sog: 0.3
+  log: 5055.3
+  barometer: 1020.67
+  wind:
+    speed: 5.1
+    direction: 81
+  engine:
+    hours: 774.9
+  crewNames:
+    - ihmis-suski
+    - bergie
+    - karin
+  end: true
+  category: navigation
+- datetime: 2024-06-25T09:32:20.400Z
+  text: Stopped main engine
+  author: ""
+  position:
+    longitude: -6.1655739
+    latitude: 57.197359
+    source: GPS
+  heading: 83
+  course: 89
+  speed:
+    sog: 0.4
+  log: 5055.3
+  barometer: 1020.73
+  wind:
+    speed: 8.9
+    direction: 338
+  engine:
+    hours: 775.1
+  crewNames:
+    - ihmis-suski
+    - bergie
+    - karin
+  category: navigation
+- datetime: 2024-06-25T09:51:54.800Z
+  text: Speed through water wasn't working today, looks like YDNR-02 had gotten a
+    factory reset for some reason
+  author: bergie
+  position:
+    longitude: -6.1655268
+    latitude: 57.19737
+    source: GPS
+  heading: 92
+  course: 144
+  speed:
+    sog: 0
+  log: 5055.3
+  barometer: 1020.99
+  wind:
+    speed: 5
+    direction: 54
+  engine:
+    hours: 775.3
+  crewNames:
+    - ihmis-suski
+    - bergie
+    - karin
+  category: maintenance
