@@ -21,56 +21,9 @@
     - bergie
     - karin
   category: navigation
-- datetime: 2024-06-26T06:49:23.900Z
-  text: Anchor up, motoring
-  author: ""
-  position:
-    longitude: -6.1655166
-    latitude: 57.1973166
-    source: GPS
-  heading: 66
-  course: 30
-  speed:
-    sog: 0
-  log: 5055.3
-  barometer: 1016.1
-  wind:
-    speed: 3
-    direction: 33
-  engine:
-    hours: 775.3
-  crewNames:
-    - ihmis-suski
-    - bergie
-    - karin
-  category: navigation
-- datetime: 2024-06-26T06:50:17.900Z
-  text: Stopped
-  author: ""
-  position:
-    longitude: -6.1654801
-    latitude: 57.197314
-    source: GPS
-  heading: 65
-  course: 293
-  speed:
-    sog: 0
-  log: 5055.3
-  barometer: 1016.08
-  wind:
-    speed: 5
-    direction: 21
-  engine:
-    hours: 775.3
-  crewNames:
-    - ihmis-suski
-    - bergie
-    - karin
-  end: true
-  category: navigation
 - datetime: 2024-06-26T06:57:16.899Z
-  text: Motoring
-  author: ""
+  text: Anchor up, motoring
+  author: bergie
   position:
     longitude: -6.1660776
     latitude: 57.196483
@@ -91,3 +44,50 @@
     - bergie
     - karin
   category: navigation
+- datetime: 2024-06-26T07:00:15.900Z
+  text: ""
+  author: ""
+  position:
+    longitude: -6.1636014
+    latitude: 57.1934843
+    source: GPS
+  heading: 149
+  course: 158
+  speed:
+    sog: 2.6
+  log: 5055.5
+  barometer: 1015.94
+  wind:
+    speed: 4.8
+    direction: 5
+  engine:
+    hours: 775.5
+  crewNames:
+    - ihmis-suski
+    - bergie
+    - karin
+  category: navigation
+- datetime: 2024-06-26T07:10:18.899Z
+  text: STW came back after configuring YDNR-02 to use 4800bps also for NMEA#2
+  author: bergie
+  position:
+    longitude: -6.1548299
+    latitude: 57.1816423
+    source: GPS
+  heading: 151
+  course: 160
+  speed:
+    stw: 5
+    sog: 5
+  log: 5056.3
+  barometer: 1015.75
+  wind:
+    speed: 4.2
+    direction: 335
+  engine:
+    hours: 775.7
+  crewNames:
+    - ihmis-suski
+    - bergie
+    - karin
+  category: maintenance
