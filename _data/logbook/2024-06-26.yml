@@ -218,3 +218,58 @@
     - bergie
     - karin
   category: navigation
+- datetime: 2024-06-26T10:00:22.300Z
+  text: ""
+  author: ""
+  position:
+    longitude: -6.0278844
+    latitude: 57.0169603
+    source: GPS
+  heading: 120
+  course: 129
+  speed:
+    stw: 5.2
+    sog: 4.3
+  log: 5067.1
+  barometer: 1012.81
+  wind:
+    speed: 2.5
+    direction: 156
+  engine:
+    hours: 777.4
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
+    - karin
+  category: navigation
+- datetime: 2024-06-26T10:42:21.299Z
+  text: "There is a low long swell coming from SW. Seems most lobster pots have
+    been collected away "
+  author: bergie
+  position:
+    longitude: -5.9381161
+    latitude: 57.0336724
+    source: GPS
+  heading: 46
+  course: 42
+  speed:
+    stw: 5.1
+    sog: 4.9
+  log: 5070.3
+  barometer: 1012.16
+  wind:
+    speed: 5.8
+    direction: 294
+  engine:
+    hours: 778.1
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
+    - karin
+  category: navigation
+  observations:
+    seaState: 1
+    cloudCoverage: 8
+    visibility: 8
