@@ -91,3 +91,80 @@
     - bergie
     - karin
   category: maintenance
+- datetime: 2024-06-26T08:00:18.899Z
+  text: ""
+  author: ""
+  position:
+    longitude: -6.1094223
+    latitude: 57.1211156
+    source: GPS
+  heading: 155
+  course: 166
+  speed:
+    stw: 5
+    sog: 5
+  log: 5060.2
+  barometer: 1014.67
+  wind:
+    speed: 7
+    direction: 81
+  engine:
+    hours: 776.5
+  crewNames:
+    - ihmis-suski
+    - bergie
+    - karin
+  category: navigation
+- datetime: 2024-06-26T08:03:29.900Z
+  text: Motor stopped, sailing with Main, Genoa 1
+  author: ""
+  position:
+    longitude: -6.1078438
+    latitude: 57.1199208
+    source: GPS
+  heading: 153
+  course: 170
+  speed:
+    stw: 2.6
+    sog: 2.5
+  log: 5060.4
+  barometer: 1014.63
+  wind:
+    speed: 7.7
+    direction: 41
+  engine:
+    hours: 776.6
+  crewNames:
+    - ihmis-suski
+    - bergie
+    - karin
+  category: navigation
+- datetime: 2024-06-26T08:54:20.198Z
+  text: Went through a big patch of jellyfish
+  author: bergie
+  position:
+    longitude: -6.0796173
+    latitude: 57.0829891
+    source: GPS
+  heading: 151
+  course: 157
+  speed:
+    stw: 2.5
+    sog: 2.3
+  log: 5062.8
+  barometer: 1013.42
+  wind:
+    speed: 7.2
+    direction: 28
+  engine:
+    hours: 776.6
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
+    - karin
+  category: navigation
+  observations:
+    seaState: 1
+    cloudCoverage: 2
+    visibility: 9
