@@ -323,3 +323,78 @@
     - bergie
     - karin
   category: navigation
+- datetime: 2024-06-26T12:00:23.299Z
+  text: ""
+  author: ""
+  position:
+    longitude: -5.8277275
+    latitude: 57.0964109
+    source: GPS
+  heading: 44
+  course: 42
+  speed:
+    stw: 2.1
+    sog: 1.9
+  log: 5075.6
+  barometer: 1011
+  wind:
+    speed: 6.6
+    direction: 253
+  engine:
+    hours: 779.2
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
+    - karin
+  category: navigation
+- datetime: 2024-06-26T12:12:23.299Z
+  text: Started watermaker, 185ppm
+  author: bergie
+  position:
+    longitude: -5.8232886
+    latitude: 57.1007368
+    source: GPS
+  heading: 28
+  course: 51
+  speed:
+    stw: 1
+    sog: 1.1
+  log: 5075.9
+  barometer: 1010.92
+  wind:
+    speed: 3.7
+    direction: 235
+  engine:
+    hours: 779.2
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
+    - karin
+  category: maintenance
+- datetime: 2024-06-26T12:23:22.300Z
+  text: Stopped watermaker, oil in water
+  author: bergie
+  position:
+    longitude: -5.820513979593913
+    latitude: 57.10310633182526
+    source: GPS
+  heading: 30
+  course: 11
+  speed:
+    stw: 1.2
+    sog: 1.2
+  log: 5076.1
+  barometer: 1010.71
+  wind:
+    speed: 4.4
+    direction: 244
+  engine:
+    hours: 779.2
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
+    - karin
+  category: maintenance
