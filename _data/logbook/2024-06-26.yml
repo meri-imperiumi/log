@@ -168,3 +168,53 @@
     seaState: 1
     cloudCoverage: 2
     visibility: 9
+- datetime: 2024-06-26T09:00:20.198Z
+  text: ""
+  author: ""
+  position:
+    longitude: -6.0764136
+    latitude: 57.0795198
+    source: GPS
+  heading: 155
+  course: 155
+  speed:
+    stw: 2.5
+    sog: 2.2
+  log: 5063
+  barometer: 1013.33
+  wind:
+    speed: 7.4
+    direction: 19
+  engine:
+    hours: 776.6
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
+    - karin
+  category: navigation
+- datetime: 2024-06-26T09:09:28.198Z
+  text: Motorsailing with the cone
+  author: bergie
+  position:
+    longitude: -6.0719406
+    latitude: 57.076744
+    source: GPS
+  heading: 192
+  course: 221
+  speed:
+    stw: 0.5
+    sog: 0.5
+  log: 5063.2
+  barometer: 1013.36
+  wind:
+    speed: 3.3
+    direction: 334
+  engine:
+    hours: 776.6
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
+    - karin
+  category: navigation
