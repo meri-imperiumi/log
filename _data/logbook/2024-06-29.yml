@@ -22,58 +22,9 @@
     - bergie
     - karin
   category: navigation
-- datetime: 2024-06-29T06:52:51.299Z
-  text: Anchor up, motoring
-  author: ""
-  position:
-    longitude: -5.5273495
-    latitude: 57.2692228
-    source: GPS
-  heading: 103
-  course: 353
-  speed:
-    stw: 0
-    sog: 0
-  log: 5091.3
-  barometer: 1011.18
-  wind:
-    speed: 0.9
-    direction: 234
-  engine:
-    hours: 783
-  crewNames:
-    - ihmis-suski
-    - bergie
-    - karin
-  category: navigation
-- datetime: 2024-06-29T06:53:26.300Z
-  text: Stopped
-  author: ""
-  position:
-    longitude: -5.5273299
-    latitude: 57.2692218
-    source: GPS
-  heading: 99
-  course: 194
-  speed:
-    stw: 0
-    sog: 0
-  log: 5091.3
-  barometer: 1011.17
-  wind:
-    speed: 3.8
-    direction: 136
-  engine:
-    hours: 783
-  crewNames:
-    - ihmis-suski
-    - bergie
-    - karin
-  end: true
-  category: navigation
 - datetime: 2024-06-29T07:02:27.299Z
-  text: Motoring
-  author: ""
+  text: Anchor up, motoring
+  author: bergie
   position:
     longitude: -5.5254591
     latitude: 57.2700576
@@ -143,30 +94,6 @@
     - bergie
     - karin
   category: navigation
-- datetime: 2024-06-29T09:21:42.300Z
-  text: Motor stopped, sailing with Main, Genoa 1
-  author: ""
-  position:
-    longitude: -5.7287111
-    latitude: 57.2802603
-    source: GPS
-  heading: 285
-  course: 344
-  speed:
-    stw: 0
-    sog: 0.4
-  log: 5098.8
-  barometer: 1011.67
-  wind:
-    speed: 12.9
-    direction: 251
-  engine:
-    hours: 785.5
-  crewNames:
-    - ihmis-suski
-    - bergie
-    - karin
-  category: navigation
 - datetime: 2024-06-29T09:29:28.300Z
   text: Stopped
   author: ""
@@ -191,4 +118,28 @@
     - bergie
     - karin
   end: true
+  category: navigation
+- datetime: 2024-06-29T11:19:37.299Z
+  text: karin left the crew
+  author: ""
+  position:
+    longitude: -5.7287429
+    latitude: 57.2803194
+    source: GPS
+  heading: 260
+  course: 179
+  speed:
+    stw: 0
+    sog: 0.3
+  log: 5098.9
+  barometer: 1011.51
+  wind:
+    speed: 12.3
+    direction: 236
+  engine:
+    hours: 785.5
+  crewNames:
+    - ihmis-suski
+    - bergie
+    - karin
   category: navigation
