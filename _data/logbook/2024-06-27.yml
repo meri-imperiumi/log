@@ -1,0 +1,121 @@
+- datetime: 2024-06-27T14:24:12.099Z
+  text: We got strafed by three F-35s
+  author: bergie
+  position:
+    longitude: -5.5266583
+    latitude: 57.269128
+    source: GPS
+  heading: 103
+  course: 182
+  speed:
+    stw: 0
+    sog: 0
+  log: 5091.3
+  barometer: 993.52
+  wind:
+    speed: 1.2
+    direction: 271
+  engine:
+    hours: 782.6
+  crewNames:
+    - ihmis-suski
+    - bergie
+    - karin
+  category: navigation
+- datetime: 2024-06-27T14:31:38.099Z
+  text: Started main engine
+  author: ""
+  position:
+    longitude: -5.5266909
+    latitude: 57.2691411
+    source: GPS
+  heading: 91
+  course: 197
+  speed:
+    stw: 0
+    sog: 0
+  log: 5091.3
+  barometer: 993.45
+  wind:
+    speed: 1.6
+    direction: 351
+  engine:
+    hours: 782.6
+  crewNames:
+    - ihmis-suski
+    - bergie
+    - karin
+  category: navigation
+- datetime: 2024-06-27T14:41:42.099Z
+  text: Anchor up, motoring
+  author: ""
+  position:
+    longitude: -5.5269763
+    latitude: 57.2693076
+    source: GPS
+  heading: 171
+  course: 247
+  speed:
+    stw: 0
+    sog: 0.4
+  log: 5091.3
+  barometer: 993.24
+  wind:
+    speed: 2.2
+    direction: 305
+  engine:
+    hours: 782.8
+  crewNames:
+    - ihmis-suski
+    - bergie
+    - karin
+  category: navigation
+- datetime: 2024-06-27T14:43:32.099Z
+  text: Anchored
+  author: ""
+  position:
+    longitude: -5.527121671040852
+    latitude: 57.26926482518514
+    source: GPS
+  heading: 113
+  course: 269
+  speed:
+    stw: 0
+    sog: 0
+  log: 5091.3
+  barometer: 993.24
+  wind:
+    speed: 0.5
+    direction: 336
+  engine:
+    hours: 782.8
+  crewNames:
+    - ihmis-suski
+    - bergie
+    - karin
+  end: true
+  category: navigation
+- datetime: 2024-06-27T14:54:13.100Z
+  text: Stopped main engine
+  author: ""
+  position:
+    longitude: -5.5273698
+    latitude: 57.2692476
+    source: GPS
+  heading: 77
+  course: 337
+  speed:
+    stw: 0
+    sog: 0
+  log: 5091.3
+  barometer: 993.21
+  wind:
+    speed: 0.7
+    direction: 56
+  engine:
+    hours: 783
+  crewNames:
+    - ihmis-suski
+    - bergie
+    - karin
+  category: navigation

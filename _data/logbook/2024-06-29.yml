@@ -1,0 +1,145 @@
+- datetime: 2024-06-29T06:51:09.299Z
+  text: Started main engine
+  author: ""
+  position:
+    longitude: -5.5273053
+    latitude: 57.2692413
+    source: GPS
+  heading: 138
+  course: 65
+  speed:
+    stw: 0
+    sog: 0
+  log: 5091.3
+  barometer: 1011.15
+  wind:
+    speed: 6
+    direction: 136
+  engine:
+    hours: 783
+  crewNames:
+    - ihmis-suski
+    - bergie
+    - karin
+  category: navigation
+- datetime: 2024-06-29T07:02:27.299Z
+  text: Anchor up, motoring
+  author: bergie
+  position:
+    longitude: -5.5254591
+    latitude: 57.2700576
+    source: GPS
+  heading: 46
+  course: 47
+  speed:
+    stw: 3.1
+    sog: 3.1
+  log: 5091.3
+  barometer: 1011.38
+  wind:
+    speed: 1.2
+    direction: 29
+  engine:
+    hours: 783.2
+  crewNames:
+    - ihmis-suski
+    - bergie
+    - karin
+  category: navigation
+- datetime: 2024-06-29T08:00:27.299Z
+  text: ""
+  author: ""
+  position:
+    longitude: -5.6043689
+    latitude: 57.2691001
+    source: GPS
+  heading: 245
+  course: 250
+  speed:
+    stw: 2.7
+    sog: 2.5
+  log: 5094.5
+  barometer: 1011.12
+  wind:
+    speed: 23.6
+    direction: 220
+  engine:
+    hours: 784.1
+  crewNames:
+    - ihmis-suski
+    - bergie
+    - karin
+  category: navigation
+- datetime: 2024-06-29T09:00:27.299Z
+  text: ""
+  author: ""
+  position:
+    longitude: -5.6968379
+    latitude: 57.2740121
+    source: GPS
+  heading: 271
+  course: 274
+  speed:
+    stw: 3.1
+    sog: 3.1
+  log: 5097.5
+  barometer: 1011.29
+  wind:
+    speed: 22.8
+    direction: 246
+  engine:
+    hours: 785.1
+  crewNames:
+    - ihmis-suski
+    - bergie
+    - karin
+  category: navigation
+- datetime: 2024-06-29T09:29:28.300Z
+  text: Stopped
+  author: ""
+  position:
+    longitude: -5.7287696
+    latitude: 57.2803354
+    source: GPS
+  heading: 216
+  course: 141
+  speed:
+    stw: 0
+    sog: 0.4
+  log: 5098.9
+  barometer: 1011.63
+  wind:
+    speed: 13.9
+    direction: 241
+  engine:
+    hours: 785.5
+  crewNames:
+    - ihmis-suski
+    - bergie
+    - karin
+  end: true
+  category: navigation
+- datetime: 2024-06-29T11:19:37.299Z
+  text: karin left the crew
+  author: ""
+  position:
+    longitude: -5.7287429
+    latitude: 57.2803194
+    source: GPS
+  heading: 260
+  course: 179
+  speed:
+    stw: 0
+    sog: 0.3
+  log: 5098.9
+  barometer: 1011.51
+  wind:
+    speed: 12.3
+    direction: 236
+  engine:
+    hours: 785.5
+  crewNames:
+    - ihmis-suski
+    - bergie
+    - karin
+  category: navigation
