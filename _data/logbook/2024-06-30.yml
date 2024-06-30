@@ -45,8 +45,8 @@
     - bergie
   category: navigation
 - datetime: 2024-06-30T07:53:32.899Z
-  text: Stopped
-  author: ""
+  text: "Stopped, Kyle of Lochalsh pontoon "
+  author: bergie
   position:
     longitude: -5.7173088
     latitude: 57.2795783
@@ -137,3 +137,56 @@
     - ihmis-suski
     - bergie
   category: navigation
+- datetime: 2024-06-30T10:00:33.200Z
+  text: ""
+  author: bergie
+  position:
+    longitude: -5.8444493
+    latitude: 57.3679679
+    source: GPS
+  heading: 346
+  course: 335
+  speed:
+    stw: 4.7
+    sog: 4.3
+  log: 5106.4
+  barometer: 1015.98
+  wind:
+    speed: 6.5
+    direction: 359
+  engine:
+    hours: 788.5
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: navigation
+  observations:
+    seaState: 2
+    cloudCoverage: 8
+    visibility: 7
+- datetime: 2024-06-30T10:25:34.201Z
+  text: Autopilot remote works again. Magic incantation to YDNR filters is "APB
+    S82 S85 S86 S9E SA1 SA2 MWV S10 S11 VTG S53 S52 S99"
+  author: bergie
+  position:
+    longitude: -5.8631591
+    latitude: 57.3967088
+    source: GPS
+  heading: 355
+  course: 348
+  speed:
+    stw: 4.7
+    sog: 4.4
+  log: 5108.2
+  barometer: 1015.8
+  wind:
+    speed: 5.3
+    direction: 355
+  engine:
+    hours: 788.9
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: maintenance
