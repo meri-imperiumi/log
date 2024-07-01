@@ -558,3 +558,76 @@
   crewNames:
     - ihmis-suski
     - bergie
+  category: navigation
+- datetime: 2024-07-01T12:00:43.900Z
+  text: ""
+  author: ""
+  position:
+    longitude: -6.2987438
+    latitude: 57.7502239
+    source: GPS
+  heading: 227
+  course: 180
+  speed:
+    stw: 2.1
+    sog: 1.2
+  log: 5154.6
+  barometer: 1016.95
+  wind:
+    speed: 7.9
+    direction: 284
+  engine:
+    hours: 793.6
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: navigation
+- datetime: 2024-07-01T12:09:02.899Z
+  text: "Sails set: Main, Genoa 1"
+  author: ""
+  position:
+    longitude: -6.3042318
+    latitude: 57.7460811
+    source: GPS
+  heading: 226
+  course: 211
+  speed:
+    stw: 3.8
+    sog: 2.8
+  log: 5155
+  barometer: 1017.05
+  wind:
+    speed: 9.9
+    direction: 268
+  engine:
+    hours: 793.6
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: navigation
+- datetime: 2024-07-01T12:34:43.900Z
+  text: Going is much easier in lee of Fladda Chuain. But 2.3kt tide against us
+  author: bergie
+  position:
+    longitude: -6.3291121
+    latitude: 57.7372369
+    source: GPS
+  heading: 252
+  course: 238
+  speed:
+    stw: 5.3
+    sog: 3.7
+  log: 5156
+  barometer: 1017.29
+  wind:
+    speed: 13.2
+    direction: 298
+  engine:
+    hours: 793.6
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: navigation
