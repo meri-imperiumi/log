@@ -727,3 +727,79 @@
     - ihmis-suski
     - bergie
   category: navigation
+- datetime: 2024-07-01T16:00:44.902Z
+  text: ""
+  author: ""
+  position:
+    longitude: -6.6108364
+    latitude: 57.6279208
+    source: GPS
+  heading: 333
+  course: 348
+  speed:
+    stw: 3.1
+    sog: 3.2
+  log: 5167.9
+  barometer: 1019.25
+  wind:
+    speed: 15.4
+    direction: 292
+  engine:
+    hours: 793.6
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: navigation
+- datetime: 2024-07-01T16:22:45.900Z
+  text: Passing Waternish Point light
+  author: bergie
+  position:
+    longitude: -6.640892664591472
+    latitude: 57.621681149800615
+    source: GPS
+  heading: 254
+  course: 255
+  speed:
+    stw: 4.4
+    sog: 4.3
+  log: 5169.2
+  barometer: 1019
+  wind:
+    speed: 15.5
+    direction: 294
+  engine:
+    hours: 793.6
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: navigation
+  observations:
+    seaState: 4
+    cloudCoverage: 6
+    visibility: 6
+- datetime: 2024-07-01T16:46:13.900Z
+  text: Autopilot activated
+  author: ""
+  position:
+    longitude: -6.6739524
+    latitude: 57.5992271
+    source: GPS
+  heading: 202
+  course: 200
+  speed:
+    stw: 6
+    sog: 6.4
+  log: 5171.1
+  barometer: 1019.27
+  wind:
+    speed: 21.3
+    direction: 286
+  engine:
+    hours: 793.6
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: navigation
