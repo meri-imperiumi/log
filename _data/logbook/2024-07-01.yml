@@ -359,3 +359,107 @@
     - ihmis-suski
     - bergie
   category: navigation
+- datetime: 2024-07-01T09:00:40.899Z
+  text: ""
+  author: ""
+  position:
+    longitude: -6.1585729
+    latitude: 57.7874434
+    source: GPS
+  heading: 249
+  course: 238
+  speed:
+    stw: 4.8
+    sog: 4.9
+  log: 5146.9
+  barometer: 1014.52
+  wind:
+    speed: 12.5
+    direction: 290
+  engine:
+    hours: 793.6
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: navigation
+- datetime: 2024-07-01T09:21:52.899Z
+  text: "Sails set: Main, Staysail"
+  author: ihmis-suski
+  position:
+    longitude: -6.1914185
+    latitude: 57.7762374
+    source: GPS
+  heading: 260
+  course: 276
+  speed:
+    stw: 2.3
+    sog: 3.6
+  log: 5148.2
+  barometer: 1014.87
+  wind:
+    speed: 12.6
+    direction: 297
+  engine:
+    hours: 793.6
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: navigation
+  observations:
+    seaState: 3
+    cloudCoverage: 8
+    visibility: 8
+- datetime: 2024-07-01T09:42:17.900Z
+  text: Autopilot deactivated, windvane steering
+  author: bergie
+  position:
+    longitude: -6.2144583
+    latitude: 57.7666203
+    source: GPS
+  heading: 239
+  course: 208
+  speed:
+    stw: 2.6
+    sog: 3.6
+  log: 5149.2
+  barometer: 1015.35
+  wind:
+    speed: 10.1
+    direction: 284
+  engine:
+    hours: 793.6
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: navigation
+- datetime: 2024-07-01T09:51:41.900Z
+  text: Very difficult to make progress against the swell
+  author: bergie
+  position:
+    longitude: -6.2223176
+    latitude: 57.7618324
+    source: GPS
+  heading: 240
+  course: 220
+  speed:
+    stw: 2.5
+    sog: 2.6
+  log: 5149.6
+  barometer: 1015.51
+  wind:
+    speed: 11.8
+    direction: 295
+  engine:
+    hours: 793.6
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: navigation
+  observations:
+    seaState: 3
+    cloudCoverage: 8
+    visibility: 7
