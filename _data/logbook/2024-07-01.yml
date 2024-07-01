@@ -463,3 +463,75 @@
     seaState: 3
     cloudCoverage: 8
     visibility: 7
+- datetime: 2024-07-01T10:00:41.900Z
+  text: ""
+  author: ""
+  position:
+    longitude: -6.2277416
+    latitude: 57.7586139
+    source: GPS
+  heading: 329
+  course: 326
+  speed:
+    stw: 2.5
+    sog: 2.8
+  log: 5149.9
+  barometer: 1015.85
+  wind:
+    speed: 10.6
+    direction: 292
+  engine:
+    hours: 793.6
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: navigation
+- datetime: 2024-07-01T10:39:34.899Z
+  text: "Sails set: Main, Genoa 1"
+  author: ""
+  position:
+    longitude: -6.245004
+    latitude: 57.7766611
+    source: GPS
+  heading: 242
+  course: 239
+  speed:
+    stw: 3.4
+    sog: 3.1
+  log: 5151.6
+  barometer: 1015.99
+  wind:
+    speed: 12.3
+    direction: 278
+  engine:
+    hours: 793.6
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: navigation
+- datetime: 2024-07-01T10:56:24.899Z
+  text: "Sails set: Main, Staysail"
+  author: ""
+  position:
+    longitude: -6.2523176
+    latitude: 57.7764259
+    source: GPS
+  heading: 326
+  course: 346
+  speed:
+    stw: 4
+    sog: 4.1
+  log: 5152.3
+  barometer: 1016.51
+  wind:
+    speed: 17.9
+    direction: 289
+  engine:
+    hours: 793.6
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: navigation
