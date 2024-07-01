@@ -678,3 +678,52 @@
   crewNames:
     - ihmis-suski
     - bergie
+  category: navigation
+- datetime: 2024-07-01T15:00:44.902Z
+  text: ""
+  author: ""
+  position:
+    longitude: -6.5374433
+    latitude: 57.6556473
+    source: GPS
+  heading: 251
+  course: 227
+  speed:
+    stw: 4.4
+    sog: 3.4
+  log: 5164.3
+  barometer: 1018.34
+  wind:
+    speed: 16.1
+    direction: 283
+  engine:
+    hours: 793.6
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: navigation
+- datetime: 2024-07-01T15:57:24.902Z
+  text: "Sails set: Main, Staysail"
+  author: ""
+  position:
+    longitude: -6.6101431
+    latitude: 57.6253141
+    source: GPS
+  heading: 335
+  course: 360
+  speed:
+    stw: 2.9
+    sog: 3.7
+  log: 5167.8
+  barometer: 1019.23
+  wind:
+    speed: 15.3
+    direction: 298
+  engine:
+    hours: 793.6
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: navigation
