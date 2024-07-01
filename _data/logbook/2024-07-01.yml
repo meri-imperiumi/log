@@ -91,3 +91,103 @@
     - ihmis-suski
     - bergie
   category: navigation
+- datetime: 2024-07-01T06:00:39.600Z
+  text: ""
+  author: ""
+  position:
+    longitude: -5.902455
+    latitude: 57.7130866
+    source: GPS
+  heading: 260
+  course: 268
+  speed:
+    stw: 5.5
+    sog: 5.7
+  log: 5135.6
+  barometer: 1012.6
+  wind:
+    speed: 17.4
+    direction: 181
+  engine:
+    hours: 793.6
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: navigation
+- datetime: 2024-07-01T06:07:29.600Z
+  text: "Autopilot deactivated, windvane steering "
+  author: bergie
+  position:
+    longitude: -5.9218996
+    latitude: 57.7140558
+    source: GPS
+  heading: 272
+  course: 287
+  speed:
+    stw: 5
+    sog: 5.4
+  log: 5136.3
+  barometer: 1012.64
+  wind:
+    speed: 16.2
+    direction: 204
+  engine:
+    hours: 793.6
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: navigation
+  observations:
+    seaState: 3
+    cloudCoverage: 8
+    visibility: 6
+- datetime: 2024-07-01T06:23:38.899Z
+  text: Dolphins! Played in our bow wave for a long while
+  author: bergie
+  position:
+    longitude: -5.9616973
+    latitude: 57.7203233
+    source: GPS
+  heading: 280
+  course: 280
+  speed:
+    stw: 4.6
+    sog: 4.6
+  log: 5137.6
+  barometer: 1013.2
+  wind:
+    speed: 11.8
+    direction: 229
+  engine:
+    hours: 793.6
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: navigation
+- datetime: 2024-07-01T06:42:39.900Z
+  text: Started watermaker, 177ppm
+  author: bergie
+  position:
+    longitude: -5.9962914
+    latitude: 57.7293029
+    source: GPS
+  heading: 301
+  course: 292
+  speed:
+    stw: 3.8
+    sog: 3.8
+  log: 5138.8
+  barometer: 1013.17
+  wind:
+    speed: 11.3
+    direction: 258
+  engine:
+    hours: 793.6
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: maintenance
