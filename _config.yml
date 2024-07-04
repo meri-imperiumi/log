@@ -23,6 +23,8 @@ collections:
     permalink: /:name/
   texts:
     output: false
+  videos:
+    output: false
 exclude:
   - fetchais.mjs
   - .github

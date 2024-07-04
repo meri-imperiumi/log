@@ -128,7 +128,8 @@ main hr {
   border: none;
 }
 
-main img {
+main img,
+main li.video iframe {
   max-width: 100%;
   max-height: 90vh;
   display: block;
