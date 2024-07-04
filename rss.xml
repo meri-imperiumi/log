@@ -11,6 +11,7 @@
     <lastBuildDate>{{ site.time | date_to_rfc822 }}</lastBuildDate>
     {% assign logs = site.logs | reverse %}
     {% for post in logs limit:10 %}
+    {% include videos_before_post_rss.html %}
     <item>
       {% assign post_year = post.created | slice: 0,4 %}
       {% assign post_id = post.created | date: "%Y%m%d" %}

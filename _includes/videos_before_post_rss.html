@@ -1,0 +1,36 @@
+{% assign nexttime = site.created | date: '%s' %}
+
+{% if post.collection %}
+    {% assign links = site[post.collection]  %}
+{% endif %}
+{% for link in links %}
+  {% if link.created == post.created %}
+    {% unless forloop.first %}
+      {% assign prevtime = tmpprev.created | date: '%s' %}
+    {% endunless %}
+    {% unless forloop.last %}
+      {% assign nexttime = links[forloop.index].created | date: '%s' %}
+    {% endunless %}
+  {% endif %}
+  {% assign tmpprev = link %}
+{% endfor %}
+
+{% assign posttime = post.created | date: '%s' %}
+
+{% for video in site.videos %}
+  {% assign videotime = video.timestamp | date: '%s' %}
+  {% if videotime < nexttime %}
+    {% if videotime > posttime %}
+    <item>
+      {% assign video_year = video.timestamp | slice: 0,4 %}
+      {% assign video_id = video.timestamp | date: "%Y%m%d" %}
+      <title>Video postcard: {{ video.title }}</title>
+      <description>{{ video.content | xml_escape }}</description>
+      <pubDate>{{ video.timestamp | date_to_rfc822 }}</pubDate>
+      <link>{{ video.link }}</link>
+      <guid isPermaLink="true">{{ video.link }}</guid>
+    </item>
+    {% endif %}
+  {% endif %}
+{% endfor %}
+
