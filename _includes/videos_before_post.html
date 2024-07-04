@@ -24,9 +24,9 @@
       <li id="{{ video.timestamp | date: "%Y%m%d" }}" class="video">
         <article>
           <h2 class="meta">{{ video.timestamp | date: "%A, %B %-d, %Y" }}<h2>
-          <h1><a href="{{ video.url }}">Video postcard: {{ video.title }}</a></h1>
+          <h1><a href="{{ video.link }}">Video postcard: {{ video.title }}</a></h1>
           {{ video.content }}
-          <p>Finnish audio, English subtitles</p>
+          <p class="meta">Finnish audio, English subtitles</p>
           <hr>
         </article>
       </li>
