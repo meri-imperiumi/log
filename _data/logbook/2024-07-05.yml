@@ -293,3 +293,51 @@
     seaState: 2
     cloudCoverage: 7
     visibility: 8
+- datetime: 2024-07-05T12:00:36.700Z
+  text: ""
+  author: ""
+  position:
+    longitude: -6.8799806
+    latitude: 57.5481001
+    source: GPS
+  heading: 308
+  course: 280
+  speed:
+    stw: 2.1
+    sog: 1.6
+  log: 5193.7
+  barometer: 1002.36
+  wind:
+    speed: 4.6
+    direction: 237
+  engine:
+    hours: 800.4
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: navigation
+- datetime: 2024-07-05T12:17:36.700Z
+  text: Big pod of dolphins on our port beam
+  author: bergie
+  position:
+    longitude: -6.8998576
+    latitude: 57.5543551
+    source: GPS
+  heading: 330
+  course: 326
+  speed:
+    stw: 1.7
+    sog: 2.2
+  log: 5194.4
+  barometer: 1002.3
+  wind:
+    speed: 2.8
+    direction: 289
+  engine:
+    hours: 800.4
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: navigation
