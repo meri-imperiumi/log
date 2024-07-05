@@ -194,7 +194,7 @@
     - bergie
   category: navigation
 - datetime: 2024-07-05T10:32:35.699Z
-  text: "Started watermaker "
+  text: Started watermaker, 166ppm
   author: bergie
   position:
     longitude: -6.7081241
@@ -217,3 +217,79 @@
     - ihmis-suski
     - bergie
   category: maintenance
+- datetime: 2024-07-05T11:00:36.700Z
+  text: ""
+  author: ""
+  position:
+    longitude: -6.7652401
+    latitude: 57.5244885
+    source: GPS
+  heading: 257
+  course: 264
+  speed:
+    stw: 3.7
+    sog: 3.3
+  log: 5189.5
+  barometer: 1001.85
+  wind:
+    speed: 8.3
+    direction: 211
+  engine:
+    hours: 800.4
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: navigation
+- datetime: 2024-07-05T11:04:26.700Z
+  text: Autopilot set to wind mode
+  author: ""
+  position:
+    longitude: -6.7724128
+    latitude: 57.5239618
+    source: GPS
+  heading: 264
+  course: 264
+  speed:
+    stw: 3.4
+    sog: 3.9
+  log: 5189.8
+  barometer: 1001.92
+  wind:
+    speed: 8.2
+    direction: 206
+  engine:
+    hours: 800.4
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: navigation
+- datetime: 2024-07-05T11:32:55.699Z
+  text: Autopilot deactivated, windvane steering
+  author: bergie
+  position:
+    longitude: -6.8358888
+    latitude: 57.5302449
+    source: GPS
+  heading: 298
+  course: 306
+  speed:
+    stw: 4.7
+    sog: 5.3
+  log: 5191.9
+  barometer: 1002.22
+  wind:
+    speed: 10.8
+    direction: 262
+  engine:
+    hours: 800.4
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: navigation
+  observations:
+    seaState: 2
+    cloudCoverage: 7
+    visibility: 8
