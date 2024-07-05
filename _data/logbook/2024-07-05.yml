@@ -341,3 +341,51 @@
     - ihmis-suski
     - bergie
   category: navigation
+- datetime: 2024-07-05T13:00:36.700Z
+  text: Wind is about 180° of forecasted, but at least there is wind again
+  author: bergie
+  position:
+    longitude: -6.920697
+    latitude: 57.5571154
+    source: GPS
+  heading: 231
+  course: 234
+  speed:
+    stw: 1.7
+    sog: 2.3
+  log: 5195.2
+  barometer: 1002.26
+  wind:
+    speed: 4.5
+    direction: 130
+  engine:
+    hours: 800.4
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: navigation
+- datetime: 2024-07-05T13:28:37.600Z
+  text: Some 20-30 dolphins swimming around us
+  author: bergie
+  position:
+    longitude: -6.9464121
+    latitude: 57.5448461
+    source: GPS
+  heading: 218
+  course: 227
+  speed:
+    stw: 2.3
+    sog: 2.8
+  log: 5196.3
+  barometer: 1002.17
+  wind:
+    speed: 4.6
+    direction: 167
+  engine:
+    hours: 800.4
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: navigation
