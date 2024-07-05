@@ -121,3 +121,99 @@
     - ihmis-suski
     - bergie
   category: navigation
+- datetime: 2024-07-05T10:00:34.700Z
+  text: ""
+  author: ""
+  position:
+    longitude: -6.6492656
+    latitude: 57.4867991
+    source: GPS
+  heading: 333
+  course: 328
+  speed:
+    stw: 4.3
+    sog: 4.7
+  log: 5184.8
+  barometer: 1001.44
+  wind:
+    speed: 2.3
+    direction: 288
+  engine:
+    hours: 799.9
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: navigation
+- datetime: 2024-07-05T10:06:03.699Z
+  text: Autopilot activated
+  author: ""
+  position:
+    longitude: -6.6577163
+    latitude: 57.493131
+    source: GPS
+  heading: 325
+  course: 315
+  speed:
+    stw: 4.9
+    sog: 5
+  log: 5185.3
+  barometer: 1001.39
+  wind:
+    speed: 1.7
+    direction: 329
+  engine:
+    hours: 800
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: navigation
+- datetime: 2024-07-05T10:30:54.700Z
+  text: Motor stopped, sailing with Main, Genoa 1
+  author: ""
+  position:
+    longitude: -6.7057703018188475
+    latitude: 57.5177973429362
+    source: GPS
+  heading: 315
+  course: 317
+  speed:
+    stw: 2.9
+    sog: 3.8
+  log: 5187.4
+  barometer: 1001.64
+  wind:
+    speed: 6.4
+    direction: 250
+  engine:
+    hours: 800.4
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: navigation
+- datetime: 2024-07-05T10:32:35.699Z
+  text: "Started watermaker "
+  author: bergie
+  position:
+    longitude: -6.7081241
+    latitude: 57.5191426
+    source: GPS
+  heading: 316
+  course: 315
+  speed:
+    stw: 3.3
+    sog: 4
+  log: 5187.5
+  barometer: 1001.65
+  wind:
+    speed: 7.5
+    direction: 264
+  engine:
+    hours: 800.4
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: maintenance
