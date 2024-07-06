@@ -186,3 +186,32 @@
   crewNames:
     - ihmis-suski
     - bergie
+  category: navigation
+- datetime: 2024-07-06T11:00:28.300Z
+  text: ""
+  author: bergie
+  position:
+    longitude: -7.1711373
+    latitude: 57.2889844
+    source: GPS
+  heading: 181
+  course: 189
+  speed:
+    stw: 3.4
+    sog: 4.8
+  log: 5219.9
+  barometer: 1002.25
+  wind:
+    speed: 10
+    direction: 14
+  engine:
+    hours: 802.6
+  vhf: "63"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: navigation
+  observations:
+    seaState: 2
+    cloudCoverage: 5
+    visibility: 8
