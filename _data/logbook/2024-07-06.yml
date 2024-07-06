@@ -388,8 +388,9 @@
     - bergie
   category: navigation
 - datetime: 2024-07-06T15:53:06.700Z
-  text: "Sails set: Main"
-  author: ""
+  text: "Sails set: Main. That was a pretty drastic wind shift. From 3kt 170° to
+    20kt 90°"
+  author: bergie
   position:
     longitude: -7.2762141
     latitude: 57.0217053
@@ -428,6 +429,30 @@
   wind:
     speed: 19.6
     direction: 321
+  engine:
+    hours: 802.6
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: navigation
+- datetime: 2024-07-06T17:00:08.697Z
+  text: ""
+  author: ""
+  position:
+    longitude: -7.3732326
+    latitude: 56.9588936
+    source: GPS
+  heading: 233
+  course: 235
+  speed:
+    stw: 4.4
+    sog: 4
+  log: 5241.7
+  barometer: 1003.29
+  wind:
+    speed: 14.7
+    direction: 326
   engine:
     hours: 802.6
   vhf: "16"
