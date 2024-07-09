@@ -590,3 +590,123 @@
     - ihmis-suski
     - bergie
   category: navigation
+- datetime: 2024-07-09T19:00:44.902Z
+  text: ""
+  author: ""
+  position:
+    longitude: -6.4244318
+    latitude: 56.2893316
+    source: GPS
+  heading: 128
+  course: 133
+  speed:
+    stw: 4
+    sog: 3.6
+  log: 5301.2
+  barometer: 1012.68
+  wind:
+    speed: 8.9
+    direction: 82
+  engine:
+    hours: 804.3
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: navigation
+- datetime: 2024-07-09T19:00:45.900Z
+  text: "Sails set: Main, Genoa 1"
+  author: ""
+  position:
+    longitude: -6.4244125
+    latitude: 56.2893193
+    source: GPS
+  heading: 128
+  course: 131
+  speed:
+    stw: 4
+    sog: 3.8
+  log: 5301.2
+  barometer: 1012.68
+  wind:
+    speed: 8.7
+    direction: 83
+  engine:
+    hours: 804.3
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: navigation
+- datetime: 2024-07-09T19:19:03.897Z
+  text: Autopilot deactivated
+  author: ""
+  position:
+    longitude: -6.3884661
+    latitude: 56.2796646
+    source: GPS
+  heading: 95
+  course: 98
+  speed:
+    stw: 4.7
+    sog: 5.1
+  log: 5302.5
+  barometer: 1012.57
+  wind:
+    speed: 10.5
+    direction: 63
+  engine:
+    hours: 804.3
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: navigation
+- datetime: 2024-07-09T19:19:47.897Z
+  text: Sails down, motoring
+  author: ""
+  position:
+    longitude: -6.3867714
+    latitude: 56.2796826
+    source: GPS
+  heading: 86
+  course: 103
+  speed:
+    stw: 3.9
+    sog: 4.1
+  log: 5302.6
+  barometer: 1012.55
+  wind:
+    speed: 9.2
+    direction: 53
+  engine:
+    hours: 804.3
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: navigation
+- datetime: 2024-07-09T20:00:00.800Z
+  text: Anchored
+  author: ""
+  position:
+    longitude: -6.3859491
+    latitude: 56.2940753
+    source: GPS
+  heading: 120
+  course: 126
+  speed:
+    stw: 0
+    sog: 0.5
+  log: 5304.5
+  barometer: 1012.56
+  wind:
+    speed: 5.3
+    direction: 64
+  engine:
+    hours: 804.9
+  crewNames:
+    - ihmis-suski
+    - bergie
+  end: true
+  category: navigation
