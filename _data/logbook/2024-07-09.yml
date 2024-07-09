@@ -489,3 +489,56 @@
   crewNames:
     - ihmis-suski
     - bergie
+  category: navigation
+- datetime: 2024-07-09T17:00:43.801Z
+  text: ""
+  author: ""
+  position:
+    longitude: -6.5421246
+    latitude: 56.3814831
+    source: GPS
+  heading: 138
+  course: 138
+  speed:
+    stw: 4.7
+    sog: 4.9
+  log: 5294.2
+  barometer: 1012.88
+  wind:
+    speed: 14.1
+    direction: 23
+  engine:
+    hours: 804.3
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: navigation
+- datetime: 2024-07-09T17:37:43.897Z
+  text: Wind is dying and shifting.
+  author: bergie
+  position:
+    longitude: -6.5069713
+    latitude: 56.3597308
+    source: GPS
+  heading: 148
+  course: 118
+  speed:
+    stw: 2.1
+    sog: 1.7
+  log: 5296
+  barometer: 1012.85
+  wind:
+    speed: 7.3
+    direction: 109
+  engine:
+    hours: 804.3
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: navigation
+  observations:
+    seaState: 2
+    cloudCoverage: 8
+    visibility: 7
