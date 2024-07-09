@@ -418,8 +418,8 @@
     cloudCoverage: 7
     visibility: 8
 - datetime: 2024-07-09T14:51:46.800Z
-  text: "PAN PAN Stornoway CG: Near Mull island people stranded in Arisaigh(?)
-    bay, paddle boarders surprised by weather. Really poor reception "
+  text: "PAN PAN Stornoway CG: Near Mull island people stranded in Arisaig(?) bay,
+    paddle boarders surprised by weather. Really poor reception "
   author: bergie
   position:
     longitude: -6.6883249
@@ -442,3 +442,27 @@
     - ihmis-suski
     - bergie
   category: radio
+- datetime: 2024-07-09T15:00:46.899Z
+  text: ""
+  author: ""
+  position:
+    longitude: -6.6819591
+    latitude: 56.5147969
+    source: GPS
+  heading: 150
+  course: 163
+  speed:
+    stw: 3.2
+    sog: 3.4
+  log: 5284.9
+  barometer: 1013.73
+  wind:
+    speed: 8.4
+    direction: 56
+  engine:
+    hours: 804.3
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: navigation
