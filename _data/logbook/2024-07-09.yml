@@ -364,3 +364,81 @@
   crewNames:
     - ihmis-suski
     - bergie
+  category: navigation
+- datetime: 2024-07-09T14:00:45.798Z
+  text: ""
+  author: ""
+  position:
+    longitude: -6.74988702138265
+    latitude: 56.562994194030765
+    source: GPS
+  heading: 130
+  course: 139
+  speed:
+    stw: 4.9
+    sog: 4.7
+  log: 5281.1
+  barometer: 1014.3
+  wind:
+    speed: 14.5
+    direction: 22
+  engine:
+    hours: 804.3
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: navigation
+- datetime: 2024-07-09T14:10:45.798Z
+  text: Past Gunna Sound green buoy
+  author: bergie
+  position:
+    longitude: -6.7342848
+    latitude: 56.5535999
+    source: GPS
+  heading: 122
+  course: 133
+  speed:
+    stw: 5
+    sog: 4.8
+  log: 5281.9
+  barometer: 1014.25
+  wind:
+    speed: 13.4
+    direction: 3
+  engine:
+    hours: 804.3
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: navigation
+  observations:
+    seaState: 2
+    cloudCoverage: 7
+    visibility: 8
+- datetime: 2024-07-09T14:51:46.800Z
+  text: "PAN PAN Stornoway CG: Near Mull island people stranded in Arisaigh(?)
+    bay, paddle boarders surprised by weather. Really poor reception "
+  author: bergie
+  position:
+    longitude: -6.6883249
+    latitude: 56.5229516
+    source: GPS
+  heading: 147
+  course: 155
+  speed:
+    stw: 2.9
+    sog: 3.3
+  log: 5284.4
+  barometer: 1013.92
+  wind:
+    speed: 8.2
+    direction: 40
+  engine:
+    hours: 804.3
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: radio
