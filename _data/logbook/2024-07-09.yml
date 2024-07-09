@@ -312,3 +312,55 @@
   crewNames:
     - ihmis-suski
     - bergie
+  category: navigation
+- datetime: 2024-07-09T12:09:17.798Z
+  text: |+
+    56° 41,41N 006,°16, 10W 30 meters of black pipe floating 
+
+    2.5 miles west of Ardnamurchan light 
+
+  author: ihmis-suski
+  position:
+    longitude: -6.9644558
+    latitude: 56.6779643
+    source: GPS
+  heading: 133
+  course: 139
+  speed:
+    stw: 5.3
+    sog: 5.5
+  log: 5271.2
+  barometer: 1014.98
+  wind:
+    speed: 13.8
+    direction: 47
+  engine:
+    hours: 804.3
+  vhf: "67"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: radio
+- datetime: 2024-07-09T13:00:04.800Z
+  text: ""
+  author: ""
+  position:
+    longitude: -6.8690801
+    latitude: 56.623563
+    source: GPS
+  heading: 120
+  course: 125
+  speed:
+    stw: 5.3
+    sog: 5.4
+  log: 5275.8
+  barometer: 1014.61
+  wind:
+    speed: 14.5
+    direction: 4
+  engine:
+    hours: 804.3
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
