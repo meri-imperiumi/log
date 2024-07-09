@@ -542,3 +542,51 @@
     seaState: 2
     cloudCoverage: 8
     visibility: 7
+- datetime: 2024-07-09T18:00:44.902Z
+  text: ""
+  author: ""
+  position:
+    longitude: -6.4889086
+    latitude: 56.3450433
+    source: GPS
+  heading: 162
+  course: 156
+  speed:
+    stw: 5.2
+    sog: 4.6
+  log: 5297.1
+  barometer: 1012.75
+  wind:
+    speed: 12.2
+    direction: 97
+  engine:
+    hours: 804.3
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: navigation
+- datetime: 2024-07-09T18:21:57.900Z
+  text: "Sails set: Main, Staysail"
+  author: ""
+  position:
+    longitude: -6.4687498
+    latitude: 56.3199876
+    source: GPS
+  heading: 158
+  course: 158
+  speed:
+    stw: 5.2
+    sog: 4.7
+  log: 5298.7
+  barometer: 1012.83
+  wind:
+    speed: 17.4
+    direction: 78
+  engine:
+    hours: 804.3
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: navigation
