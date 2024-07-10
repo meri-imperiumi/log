@@ -113,3 +113,75 @@
     - ihmis-suski
     - bergie
   category: navigation
+- datetime: 2024-07-10T10:00:41.500Z
+  text: ""
+  author: ""
+  position:
+    longitude: -6.3570353
+    latitude: 56.2620456
+    source: GPS
+  heading: 132
+  course: 131
+  speed:
+    stw: 0
+    sog: 6.5
+  log: 5307
+  barometer: 1011.55
+  wind:
+    speed: 13.6
+    direction: 21
+  engine:
+    hours: 805.4
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: navigation
+- datetime: 2024-07-10T10:00:41.500Z
+  text: "Speed through water showing zero again "
+  author: bergie
+  position:
+    longitude: -6.3570353
+    latitude: 56.2620456
+    source: GPS
+  heading: 132
+  course: 131
+  speed:
+    stw: 0
+    sog: 6.5
+  log: 5307
+  barometer: 1011.55
+  wind:
+    speed: 13.6
+    direction: 21
+  engine:
+    hours: 805.4
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: maintenance
+- datetime: 2024-07-10T10:21:58.499Z
+  text: "Sails set: Main, Genoa 1"
+  author: ""
+  position:
+    longitude: -6.3192313
+    latitude: 56.2397106
+    source: GPS
+  heading: 132
+  course: 137
+  speed:
+    stw: 0
+    sog: 4.8
+  log: 5308.8
+  barometer: 1011.58
+  wind:
+    speed: 13
+    direction: 21
+  engine:
+    hours: 805.4
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: navigation
