@@ -259,3 +259,50 @@
     - ihmis-suski
     - bergie
   category: maintenance
+- datetime: 2024-07-12T11:00:18.000Z
+  text: Motor stopped, sailing with Main, Genoa 1
+  author: ""
+  position:
+    longitude: -6.0828998
+    latitude: 55.9271863
+    source: GPS
+  heading: 209
+  course: 208
+  speed:
+    stw: 3.4
+    sog: 5.4
+  log: 5340.6
+  barometer: 1021.98
+  wind:
+    speed: 9
+    direction: 317
+  engine:
+    hours: 810.9
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: navigation
+- datetime: 2024-07-12T11:00:40.998Z
+  text: ""
+  author: ""
+  position:
+    longitude: -6.0833528
+    latitude: 55.926656
+    source: GPS
+  heading: 205
+  course: 205
+  speed:
+    stw: 3.2
+    sog: 5.4
+  log: 5340.6
+  barometer: 1021.98
+  wind:
+    speed: 8.7
+    direction: 311
+  engine:
+    hours: 810.9
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
