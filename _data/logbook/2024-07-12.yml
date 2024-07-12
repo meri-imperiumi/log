@@ -91,3 +91,99 @@
     - ihmis-suski
     - bergie
   category: navigation
+- datetime: 2024-07-12T09:00:40.000Z
+  text: ""
+  author: ""
+  position:
+    longitude: -5.9244901
+    latitude: 55.9619719
+    source: GPS
+  heading: 266
+  course: 266
+  speed:
+    stw: 4.2
+    sog: 3.6
+  log: 5334.1
+  barometer: 1022.27
+  wind:
+    speed: 4.2
+    direction: 305
+  engine:
+    hours: 810.2
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: navigation
+- datetime: 2024-07-12T09:19:14.000Z
+  text: Motor stopped, sailing with Main, Genoa 1
+  author: ""
+  position:
+    longitude: -5.9613309
+    latitude: 55.9623488
+    source: GPS
+  heading: 272
+  course: 259
+  speed:
+    stw: 3.7
+    sog: 3.7
+  log: 5335.4
+  barometer: 1022.09
+  wind:
+    speed: 8.3
+    direction: 300
+  engine:
+    hours: 810.5
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: navigation
+- datetime: 2024-07-12T09:24:40.000Z
+  text: Started watermaker, 177ppm
+  author: bergie
+  position:
+    longitude: -5.9711706
+    latitude: 55.9612891
+    source: GPS
+  heading: 273
+  course: 256
+  speed:
+    stw: 3.2
+    sog: 3.4
+  log: 5335.7
+  barometer: 1022.09
+  wind:
+    speed: 8.6
+    direction: 310
+  engine:
+    hours: 810.5
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: maintenance
+- datetime: 2024-07-12T09:51:40.000Z
+  text: Split ring was gone from inner forestay lower toggle. Replaced. Time for a
+    rigging check
+  author: bergie
+  position:
+    longitude: -5.9991261
+    latitude: 55.9584299
+    source: GPS
+  heading: 336
+  course: 340
+  speed:
+    stw: 1.6
+    sog: 1.8
+  log: 5336.9
+  barometer: 1022.19
+  wind:
+    speed: 4.3
+    direction: 301
+  engine:
+    hours: 810.5
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: maintenance
