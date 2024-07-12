@@ -187,3 +187,75 @@
     - ihmis-suski
     - bergie
   category: maintenance
+- datetime: 2024-07-12T10:00:40.000Z
+  text: ""
+  author: ""
+  position:
+    longitude: -6.0031424
+    latitude: 55.9610681
+    source: GPS
+  heading: 248
+  course: 244
+  speed:
+    stw: 1.9
+    sog: 2.3
+  log: 5337.1
+  barometer: 1022.2
+  wind:
+    speed: 4
+    direction: 300
+  engine:
+    hours: 810.5
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: navigation
+- datetime: 2024-07-12T10:32:14.000Z
+  text: Motorsailing with cone up
+  author: bergie
+  position:
+    longitude: -6.0263971
+    latitude: 55.9545556
+    source: GPS
+  heading: 174
+  course: 215
+  speed:
+    stw: 0
+    sog: 0.9
+  log: 5338
+  barometer: 1022
+  wind:
+    speed: 1.3
+    direction: 229
+  engine:
+    hours: 810.5
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: navigation
+- datetime: 2024-07-12T10:32:40.998Z
+  text: Stopped watermaker, 155ppm
+  author: bergie
+  position:
+    longitude: -6.0265246
+    latitude: 55.9544008
+    source: GPS
+  heading: 230
+  course: 218
+  speed:
+    stw: 1.6
+    sog: 1.9
+  log: 5338
+  barometer: 1022
+  wind:
+    speed: 1.8
+    direction: 254
+  engine:
+    hours: 810.5
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: maintenance
