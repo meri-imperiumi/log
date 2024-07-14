@@ -16,11 +16,15 @@
 {% endfor %}
 
 {% assign posttime = post.created | date: '%s' %}
+{% assign currentyear = page.year %}
+{% assign currentyearnumber = currentyear | abs %}
 
 {% for video in site.videos %}
   {% assign videotime = video.timestamp | date: '%s' %}
+  {% assign videoyear = video.timestamp | date: '%Y' | abs %}
   {% if videotime < nexttime %}
     {% if videotime > posttime %}
+      {% if currentyear == nil or currentyearnumber == videoyear %}
       <li id="{{ video.timestamp | date: "%Y%m%d" }}" class="video">
         <article>
           <h2 class="meta">{{ video.timestamp | date: "%A, %B %-d, %Y" }}<h2>
@@ -30,6 +34,7 @@
           <hr>
         </article>
       </li>
+      {% endif %}
     {% endif %}
   {% endif %}
 {% endfor %}

@@ -17,11 +17,15 @@
 {% endfor %}
 
 {% assign posttime = post.created | date: '%s' %}
+{% assign currentyear = page.year %}
+{% assign currentyearnumber = currentyear | abs %}
 
 {% for text in site.texts %}
   {% assign texttime = text.timestamp | date: '%s' %}
+  {% assign textyear = text.timestamp | date: '%Y' | abs %}
   {% if texttime < nexttime %}
     {% if texttime > posttime %}
+      {% if currentyear == nil or currentyearnumber == textyear %}
       <li id="{{ text.timestamp | date: "%Y%m%d" }}" class="text">
         <article>
           <h2 class="meta">{{ text.timestamp | date: "%A, %B %-d, %Y" }} via <span class="source">{{ text.source }}</span></h2>
@@ -29,6 +33,7 @@
           <hr>
         </article>
       </li>
+      {% endif %}
     {% endif %}
   {% endif %}
 {% endfor %}
