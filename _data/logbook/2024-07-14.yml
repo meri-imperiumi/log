@@ -21,48 +21,48 @@
     - ihmis-suski
     - bergie
   category: navigation
-- datetime: 2024-07-14T10:57:50.000Z
+- datetime: 2024-07-14T11:02:31.001Z
   text: Anchor up, motoring
-  author: ""
+  author: bergie
   position:
-    longitude: -6.126272
-    latitude: 55.6341761
+    longitude: -6.1249278
+    latitude: 55.633724
     source: GPS
-  heading: 198
-  course: 332
+  heading: 146
+  course: 141
   speed:
-    stw: 0
-    sog: 0
+    stw: 1.7
+    sog: 2.1
   log: 5363
-  barometer: 1012.51
+  barometer: 1012.45
   wind:
-    speed: 4.3
-    direction: 191
+    speed: 3.4
+    direction: 180
   engine:
-    hours: 811.5
+    hours: 811.6
   crewNames:
     - ihmis-suski
     - bergie
   category: navigation
-- datetime: 2024-07-14T10:58:31.001Z
-  text: Stopped
-  author: ""
+- datetime: 2024-07-14T11:19:16.998Z
+  text: Stopped, Ardbeg visitor mooring
+  author: bergie
   position:
-    longitude: -6.126279
-    latitude: 55.6341684
+    longitude: -6.1067253
+    latitude: 55.6387159
     source: GPS
   heading: 180
-  course: 332
+  course: 22
   speed:
     stw: 0
     sog: 0
-  log: 5363
-  barometer: 1012.51
+  log: 5363.8
+  barometer: 1012.33
   wind:
-    speed: 4.4
-    direction: 185
+    speed: 6.3
+    direction: 209
   engine:
-    hours: 811.5
+    hours: 811.9
   crewNames:
     - ihmis-suski
     - bergie
