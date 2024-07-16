@@ -94,3 +94,55 @@
     - ihmis-suski
     - bergie
   category: navigation
+- datetime: 2024-07-16T06:00:18.800Z
+  text: ""
+  author: ""
+  position:
+    longitude: -6.0797408
+    latitude: 55.5794441
+    source: GPS
+  heading: 147
+  course: 150
+  speed:
+    stw: 4.2
+    sog: 4.7
+  log: 5367.7
+  barometer: 1009.96
+  wind:
+    speed: 9.9
+    direction: 307
+  engine:
+    hours: 812.3
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: navigation
+- datetime: 2024-07-16T06:23:20.800Z
+  text: Grey day.
+  author: ihmis-suski
+  position:
+    longitude: -6.0557746
+    latitude: 55.5502981
+    source: GPS
+  heading: 148
+  course: 150
+  speed:
+    stw: 4.3
+    sog: 5
+  log: 5369.7
+  barometer: 1010.2
+  wind:
+    speed: 13.8
+    direction: 306
+  engine:
+    hours: 812.3
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: navigation
+  observations:
+    seaState: 2
+    cloudCoverage: 8
+    visibility: 7
