@@ -749,3 +749,29 @@
   crewNames:
     - ihmis-suski
     - bergie
+  category: navigation
+- datetime: 2024-07-16T18:20:26.803Z
+  text: Stopped
+  author: ""
+  position:
+    longitude: -5.6706040064493815
+    latitude: 54.6646546681722
+    source: GPS
+  heading: 355
+  course: 142
+  speed:
+    stw: 0
+    sog: 0
+  log: 5425.5
+  barometer: 1015.1
+  wind:
+    speed: 2.3
+    direction: 56
+  engine:
+    hours: 814.2
+  vhf: "11"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  end: true
+  category: navigation
