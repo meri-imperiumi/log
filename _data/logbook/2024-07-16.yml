@@ -476,3 +476,56 @@
   crewNames:
     - ihmis-suski
     - bergie
+  category: navigation
+- datetime: 2024-07-16T13:32:27.801Z
+  text: "Starting to get good views of Ireland. Quite different landscape from
+    Scotland "
+  author: bergie
+  position:
+    longitude: -5.7719168
+    latitude: 55.0648015
+    source: GPS
+  heading: 165
+  course: 175
+  speed:
+    stw: 4.5
+    sog: 4.5
+  log: 5400.7
+  barometer: 1014.01
+  wind:
+    speed: 16
+    direction: 308
+  engine:
+    hours: 812.3
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: navigation
+  observations:
+    seaState: 3
+    cloudCoverage: 4
+    visibility: 8
+- datetime: 2024-07-16T14:00:28.800Z
+  text: ""
+  author: ""
+  position:
+    longitude: -5.7545863
+    latitude: 55.0242709
+    source: GPS
+  heading: 158
+  course: 159
+  speed:
+    stw: 4.6
+    sog: 5.8
+  log: 5403.2
+  barometer: 1013.92
+  wind:
+    speed: 14.1
+    direction: 325
+  engine:
+    hours: 812.3
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
