@@ -377,7 +377,7 @@
     cloudCoverage: 8
     visibility: 8
 - datetime: 2024-07-16T11:48:25.798Z
-  text: "Started watermaker "
+  text: Started watermaker, 169ppm
   author: bergie
   position:
     longitude: -5.8258399
@@ -417,6 +417,59 @@
   wind:
     speed: 20.7
     direction: 271
+  engine:
+    hours: 812.3
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: navigation
+- datetime: 2024-07-16T12:22:25.798Z
+  text: Dolphins look epic when they're inside a wave rolling towards you at eye
+    height
+  author: bergie
+  position:
+    longitude: -5.8020739
+    latitude: 55.169596
+    source: GPS
+  heading: 163
+  course: 164
+  speed:
+    stw: 5.5
+    sog: 4.3
+  log: 5394.3
+  barometer: 1013.33
+  wind:
+    speed: 16.1
+    direction: 279
+  engine:
+    hours: 812.3
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: navigation
+  observations:
+    seaState: 3
+    cloudCoverage: 7
+    visibility: 8
+- datetime: 2024-07-16T13:00:26.800Z
+  text: ""
+  author: ""
+  position:
+    longitude: -5.7859331
+    latitude: 55.1134338
+    source: GPS
+  heading: 171
+  course: 171
+  speed:
+    stw: 5.2
+    sog: 6.7
+  log: 5397.7
+  barometer: 1013.74
+  wind:
+    speed: 18.4
+    direction: 288
   engine:
     hours: 812.3
   vhf: "16"
