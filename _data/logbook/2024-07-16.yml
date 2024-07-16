@@ -347,3 +347,79 @@
   crewNames:
     - ihmis-suski
     - bergie
+  category: navigation
+- datetime: 2024-07-16T11:26:25.798Z
+  text: We made the turn out of Scotland. Tide now only half against us.
+  author: ihmis-suski
+  position:
+    longitude: -5.8387278
+    latitude: 55.2473083
+    source: GPS
+  heading: 150
+  course: 171
+  speed:
+    stw: 6
+    sog: 5.5
+  log: 5389.4
+  barometer: 1012.71
+  wind:
+    speed: 23
+    direction: 286
+  engine:
+    hours: 812.3
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: navigation
+  observations:
+    seaState: 3
+    cloudCoverage: 8
+    visibility: 8
+- datetime: 2024-07-16T11:48:25.798Z
+  text: "Started watermaker "
+  author: bergie
+  position:
+    longitude: -5.8258399
+    latitude: 55.2176709
+    source: GPS
+  heading: 149
+  course: 166
+  speed:
+    stw: 5.9
+    sog: 4.8
+  log: 5391.3
+  barometer: 1012.93
+  wind:
+    speed: 19.6
+    direction: 296
+  engine:
+    hours: 812.3
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: maintenance
+- datetime: 2024-07-16T12:00:25.798Z
+  text: ""
+  author: ""
+  position:
+    longitude: -5.8178296
+    latitude: 55.2008526
+    source: GPS
+  heading: 136
+  course: 161
+  speed:
+    stw: 5.7
+    sog: 5.2
+  log: 5392.3
+  barometer: 1013.04
+  wind:
+    speed: 20.7
+    direction: 271
+  engine:
+    hours: 812.3
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
