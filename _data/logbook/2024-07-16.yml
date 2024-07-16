@@ -146,3 +146,55 @@
     seaState: 2
     cloudCoverage: 8
     visibility: 7
+- datetime: 2024-07-16T07:00:20.800Z
+  text: ""
+  author: ""
+  position:
+    longitude: -6.0166688
+    latitude: 55.5002988
+    source: GPS
+  heading: 150
+  course: 144
+  speed:
+    stw: 4.6
+    sog: 5.2
+  log: 5372.9
+  barometer: 1010.53
+  wind:
+    speed: 14.3
+    direction: 339
+  engine:
+    hours: 812.3
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: navigation
+- datetime: 2024-07-16T07:27:21.800Z
+  text: Sails flapping a bit in the growing swell
+  author: ihmis-suski
+  position:
+    longitude: -5.992748196919759
+    latitude: 55.469261995951335
+    source: GPS
+  heading: 149
+  course: 138
+  speed:
+    stw: 4.9
+    sog: 5
+  log: 5375
+  barometer: 1010.76
+  wind:
+    speed: 13.1
+    direction: 325
+  engine:
+    hours: 812.3
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: navigation
+  observations:
+    seaState: 3
+    cloudCoverage: 7
+    visibility: 8
