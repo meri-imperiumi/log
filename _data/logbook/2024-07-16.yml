@@ -223,7 +223,7 @@
     - bergie
   category: navigation
 - datetime: 2024-07-16T08:49:22.800Z
-  text: "Current has turned against now. Let's see what wind against current does
+  text: "Current has turned contrary now. Let's see what wind against current does
     today "
   author: bergie
   position:
@@ -268,6 +268,55 @@
   wind:
     speed: 14.8
     direction: 298
+  engine:
+    hours: 812.3
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: navigation
+- datetime: 2024-07-16T09:26:23.801Z
+  text: Waves are getting a bit steeper, but so far we surf them quite fine. 2-3kt
+    current
+  author: bergie
+  position:
+    longitude: -5.8961219
+    latitude: 55.3453738
+    source: GPS
+  heading: 153
+  course: 175
+  speed:
+    stw: 5.1
+    sog: 2.6
+  log: 5383.1
+  barometer: 1011.94
+  wind:
+    speed: 15.9
+    direction: 305
+  engine:
+    hours: 812.3
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: navigation
+- datetime: 2024-07-16T10:00:23.801Z
+  text: ""
+  author: ""
+  position:
+    longitude: -5.8863618
+    latitude: 55.3244618
+    source: GPS
+  heading: 150
+  course: 187
+  speed:
+    stw: 4.7
+    sog: 2.2
+  log: 5384.5
+  barometer: 1012.13
+  wind:
+    speed: 11.3
+    direction: 308
   engine:
     hours: 812.3
   vhf: "16"
