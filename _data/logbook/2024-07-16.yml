@@ -198,3 +198,79 @@
     seaState: 3
     cloudCoverage: 7
     visibility: 8
+- datetime: 2024-07-16T08:00:21.798Z
+  text: ""
+  author: ""
+  position:
+    longitude: -5.9626496
+    latitude: 55.4317308
+    source: GPS
+  heading: 146
+  course: 149
+  speed:
+    stw: 4.6
+    sog: 4.3
+  log: 5377.5
+  barometer: 1011.19
+  wind:
+    speed: 11.3
+    direction: 314
+  engine:
+    hours: 812.3
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: navigation
+- datetime: 2024-07-16T08:49:22.800Z
+  text: "Current has turned against now. Let's see what wind against current does
+    today "
+  author: bergie
+  position:
+    longitude: -5.9237148
+    latitude: 55.380836
+    source: GPS
+  heading: 147
+  course: 145
+  speed:
+    stw: 4.8
+    sog: 4.7
+  log: 5380.8
+  barometer: 1011.63
+  wind:
+    speed: 14.6
+    direction: 279
+  engine:
+    hours: 812.3
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: navigation
+  observations:
+    seaState: 3
+    cloudCoverage: 8
+    visibility: 7
+- datetime: 2024-07-16T09:00:22.800Z
+  text: ""
+  author: ""
+  position:
+    longitude: -5.915622
+    latitude: 55.368728
+    source: GPS
+  heading: 144
+  course: 151
+  speed:
+    stw: 5.1
+    sog: 4.5
+  log: 5381.6
+  barometer: 1011.76
+  wind:
+    speed: 14.8
+    direction: 298
+  engine:
+    hours: 812.3
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
