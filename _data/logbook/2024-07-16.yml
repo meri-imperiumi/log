@@ -602,9 +602,33 @@
     - ihmis-suski
     - bergie
   category: maintenance
+- datetime: 2024-07-16T15:59:29.798Z
+  text: Wind shift, we had to gybe the schmetti
+  author: bergie
+  position:
+    longitude: -5.6845936
+    latitude: 54.8558919
+    source: GPS
+  heading: 154
+  course: 173
+  speed:
+    stw: 3.4
+    sog: 4
+  log: 5413.6
+  barometer: 1014.42
+  wind:
+    speed: 11.5
+    direction: 349
+  engine:
+    hours: 812.3
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: navigation
 - datetime: 2024-07-16T16:00:30.796Z
   text: ""
-  author: ""
+  author: bergie
   position:
     longitude: -5.6840578
     latitude: 54.8547488
@@ -622,6 +646,58 @@
   engine:
     hours: 812.3
   vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: navigation
+  observations:
+    seaState: 2
+    cloudCoverage: 6
+    visibility: 8
+- datetime: 2024-07-16T16:25:47.801Z
+  text: Sails down, motoring. Not enough apparent to keep sails from slatting
+  author: bergie
+  position:
+    longitude: -5.670815
+    latitude: 54.8228166
+    source: GPS
+  heading: 162
+  course: 158
+  speed:
+    stw: 2.1
+    sog: 3.7
+  log: 5415.7
+  barometer: 1014.51
+  wind:
+    speed: 8.3
+    direction: 19
+  engine:
+    hours: 812.3
+  vhf: "11"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: navigation
+- datetime: 2024-07-16T17:00:29.798Z
+  text: ""
+  author: ""
+  position:
+    longitude: -5.6694086
+    latitude: 54.7666531
+    source: GPS
+  heading: 176
+  course: 183
+  speed:
+    stw: 4.9
+    sog: 5.9
+  log: 5419
+  barometer: 1014.45
+  wind:
+    speed: 7.3
+    direction: 24
+  engine:
+    hours: 812.9
+  vhf: "11"
   crewNames:
     - ihmis-suski
     - bergie
