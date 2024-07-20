@@ -289,3 +289,103 @@
   crewNames:
     - ihmis-suski
     - bergie
+  category: navigation
+- datetime: 2024-07-20T18:10:31.603Z
+  text: Starbuck on steering duty. Nipa couldn't cope.
+  author: ihmis-suski
+  position:
+    longitude: -5.1795131
+    latitude: 54.5589241
+    source: GPS
+  heading: 101
+  course: 115
+  speed:
+    stw: 5.4
+    sog: 6.9
+  log: 5446.1
+  barometer: 1006.39
+  wind:
+    speed: 25.6
+    direction: 332
+  engine:
+    hours: 816.1
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: navigation
+  observations:
+    seaState: 4
+    cloudCoverage: 8
+    visibility: 8
+- datetime: 2024-07-20T18:25:13.600Z
+  text: "Sails set: Main (1st reef), Staysail"
+  author: ""
+  position:
+    longitude: -5.1411601
+    latitude: 54.5431366
+    source: GPS
+  heading: 129
+  course: 129
+  speed:
+    stw: 5.9
+    sog: 6.5
+  log: 5447.8
+  barometer: 1006.31
+  wind:
+    speed: 24.6
+    direction: 338
+  engine:
+    hours: 816.1
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: navigation
+- datetime: 2024-07-20T18:28:32.601Z
+  text: Stopped watermaker, 168ppm
+  author: bergie
+  position:
+    longitude: -5.132376
+    latitude: 54.5400625
+    source: GPS
+  heading: 115
+  course: 130
+  speed:
+    stw: 5.4
+    sog: 6
+  log: 5448.2
+  barometer: 1006.31
+  wind:
+    speed: 25.3
+    direction: 337
+  engine:
+    hours: 816.1
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: maintenance
+- datetime: 2024-07-20T19:00:33.600Z
+  text: ""
+  author: ""
+  position:
+    longitude: -5.0456591
+    latitude: 54.5092694
+    source: GPS
+  heading: 116
+  course: 115
+  speed:
+    stw: 6
+    sog: 6.5
+  log: 5451.7
+  barometer: 1006.63
+  wind:
+    speed: 26.4
+    direction: 328
+  engine:
+    hours: 816.1
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
