@@ -1,0 +1,120 @@
+- datetime: 2024-07-20T14:49:06.300Z
+  text: Started main engine
+  author: ""
+  position:
+    longitude: -5.643739
+    latitude: 54.669721
+    source: GPS
+  heading: 359
+  course: 166
+  speed:
+    stw: 0
+    sog: 0
+  log: 5427.2
+  barometer: 1005.4
+  wind:
+    speed: 4.3
+    direction: 16
+  engine:
+    hours: 814.9
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: navigation
+- datetime: 2024-07-20T14:49:25.299Z
+  text: Anchor up, motoring
+  author: ""
+  position:
+    longitude: -5.6437523
+    latitude: 54.6697206
+    source: GPS
+  heading: 7
+  course: 164
+  speed:
+    stw: 0
+    sog: 0
+  log: 5427.2
+  barometer: 1005.39
+  wind:
+    speed: 3.9
+    direction: 22
+  engine:
+    hours: 814.9
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: navigation
+- datetime: 2024-07-20T14:49:30.300Z
+  text: Stopped
+  author: ""
+  position:
+    longitude: -5.6437541
+    latitude: 54.6697195
+    source: GPS
+  heading: 9
+  course: 164
+  speed:
+    stw: 0
+    sog: 0
+  log: 5427.2
+  barometer: 1005.39
+  wind:
+    speed: 4
+    direction: 23
+  engine:
+    hours: 814.9
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  end: true
+  category: navigation
+- datetime: 2024-07-20T14:55:30.297Z
+  text: Motoring
+  author: ""
+  position:
+    longitude: -5.6445395
+    latitude: 54.6710881
+    source: GPS
+  heading: 355
+  course: 349
+  speed:
+    stw: 2.2
+    sog: 2.6
+  log: 5427.2
+  barometer: 1005.44
+  wind:
+    speed: 4.2
+    direction: 12
+  engine:
+    hours: 815
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: navigation
+- datetime: 2024-07-20T15:00:30.297Z
+  text: ""
+  author: ""
+  position:
+    longitude: -5.644757
+    latitude: 54.6776905
+    source: GPS
+  heading: 4
+  course: 358
+  speed:
+    stw: 4.6
+    sog: 5.2
+  log: 5427.5
+  barometer: 1005.42
+  wind:
+    speed: 3.8
+    direction: 21
+  engine:
+    hours: 815.1
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
