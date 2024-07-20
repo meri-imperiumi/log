@@ -495,3 +495,53 @@
   crewNames:
     - ihmis-suski
     - bergie
+  category: navigation
+- datetime: 2024-07-20T21:24:01.600Z
+  text: Called Peel Harbour on VHF. Need to call again near breakwater to get a
+    berth and bridge opening
+  author: bergie
+  position:
+    longitude: -4.7538663
+    latitude: 54.3195186
+    source: GPS
+  heading: 162
+  course: 167
+  speed:
+    stw: 5.1
+    sog: 4.5
+  log: 5467.5
+  barometer: 1007.59
+  wind:
+    speed: 19
+    direction: 305
+  engine:
+    hours: 816.1
+  vhf: "12"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: radio
+- datetime: 2024-07-20T21:58:28.601Z
+  text: Autopilot activated
+  author: ""
+  position:
+    longitude: -4.7247863
+    latitude: 54.2756675
+    source: GPS
+  heading: 159
+  course: 159
+  speed:
+    stw: 4.3
+    sog: 4.7
+  log: 5470.3
+  barometer: 1008.16
+  wind:
+    speed: 17
+    direction: 310
+  engine:
+    hours: 816.1
+  vhf: "12"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: navigation
