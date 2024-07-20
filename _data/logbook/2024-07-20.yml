@@ -291,7 +291,7 @@
     - bergie
   category: navigation
 - datetime: 2024-07-20T18:10:31.603Z
-  text: Starbuck on steering duty. Nipa couldn't cope.
+  text: Starbuck windvane on steering duty. Nipa couldn't cope.
   author: ihmis-suski
   position:
     longitude: -5.1795131
@@ -367,7 +367,7 @@
     - bergie
   category: maintenance
 - datetime: 2024-07-20T19:00:33.600Z
-  text: Windvane steering
+  text: ""
   author: bergie
   position:
     longitude: -5.0456591
@@ -419,3 +419,79 @@
     - ihmis-suski
     - bergie
   category: maintenance
+- datetime: 2024-07-20T20:00:24.601Z
+  text: ""
+  author: ""
+  position:
+    longitude: -4.9058746
+    latitude: 54.428479
+    source: GPS
+  heading: 139
+  course: 126
+  speed:
+    stw: 5.3
+    sog: 6.1
+  log: 5458.7
+  barometer: 1007.07
+  wind:
+    speed: 21.9
+    direction: 341
+  engine:
+    hours: 816.1
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: navigation
+- datetime: 2024-07-20T20:24:18.598Z
+  text: "Current and wind reducing somewhat, but se state is still quite
+    something. Peel in horizon "
+  author: bergie
+  position:
+    longitude: -4.846017
+    latitude: 54.3985899
+    source: GPS
+  heading: 121
+  course: 119
+  speed:
+    stw: 5.4
+    sog: 6.9
+  log: 5461.4
+  barometer: 1007.14
+  wind:
+    speed: 25.3
+    direction: 333
+  engine:
+    hours: 816.1
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: navigation
+  observations:
+    seaState: 4
+    cloudCoverage: 2
+    visibility: 8
+- datetime: 2024-07-20T21:00:08.601Z
+  text: ""
+  author: ""
+  position:
+    longitude: -4.7716898
+    latitude: 54.354089
+    source: GPS
+  heading: 154
+  course: 153
+  speed:
+    stw: 5.4
+    sog: 7.7
+  log: 5465.3
+  barometer: 1007.3
+  wind:
+    speed: 17.6
+    direction: 321
+  engine:
+    hours: 816.1
+  vhf: "12"
+  crewNames:
+    - ihmis-suski
+    - bergie
