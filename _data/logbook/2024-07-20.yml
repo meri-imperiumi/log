@@ -367,8 +367,8 @@
     - bergie
   category: maintenance
 - datetime: 2024-07-20T19:00:33.600Z
-  text: ""
-  author: ""
+  text: Windvane steering
+  author: bergie
   position:
     longitude: -5.0456591
     latitude: 54.5092694
@@ -389,3 +389,33 @@
   crewNames:
     - ihmis-suski
     - bergie
+  category: navigation
+  observations:
+    seaState: 4
+    cloudCoverage: 7
+    visibility: 8
+- datetime: 2024-07-20T19:33:32.601Z
+  text: Tightened the Starbuck steering line by two links, seems to steer a lot
+    better
+  author: bergie
+  position:
+    longitude: -4.9701041
+    latitude: 54.463239
+    source: GPS
+  heading: 146
+  course: 146
+  speed:
+    stw: 5.4
+    sog: 7.6
+  log: 5455.6
+  barometer: 1006.89
+  wind:
+    speed: 23.1
+    direction: 333
+  engine:
+    hours: 816.1
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: maintenance
