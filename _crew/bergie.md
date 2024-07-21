@@ -28,6 +28,7 @@ countries-sailed:
   - Shetland
   - Orkney
   - Scotland
+  - IM
 ---
 Started cruising career with viking ship replicas in Russia.
 Atlantic crossing on schooner Helena in 2014.
