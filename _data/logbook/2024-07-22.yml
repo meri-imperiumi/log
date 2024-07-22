@@ -118,3 +118,80 @@
     - ihmis-suski
     - bergie
   category: navigation
+- datetime: 2024-07-22T22:00:32.198Z
+  text: Motoring
+  author: ""
+  position:
+    longitude: -4.6975936
+    latitude: 54.2257168
+    source: GPS
+  heading: 33
+  course: 23
+  speed:
+    stw: 2.4
+    sog: 2.9
+  log: 5474.1
+  barometer: 1014.18
+  wind:
+    speed: 4.2
+    direction: 212
+  engine:
+    hours: 816.9
+  vhf: "12"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: navigation
+- datetime: 2024-07-22T22:07:49.196Z
+  text: Autopilot activated
+  author: ""
+  position:
+    longitude: -4.6978251
+    latitude: 54.2320075
+    source: GPS
+  heading: 305
+  course: 302
+  speed:
+    stw: 4.6
+    sog: 4.4
+  log: 5474.7
+  barometer: 1014.2
+  wind:
+    speed: 4.7
+    direction: 253
+  engine:
+    hours: 817.1
+  vhf: "12"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: navigation
+- datetime: 2024-07-22T22:28:31.200Z
+  text: Hoisted Main in 1st reef in anticipation of the eventual wind shift. So,
+    motorsailing into the night
+  author: bergie
+  position:
+    longitude: -4.729925
+    latitude: 54.2290565
+    source: GPS
+  heading: 213
+  course: 213
+  speed:
+    stw: 4.4
+    sog: 4.5
+  log: 5476.2
+  barometer: 1014.31
+  wind:
+    speed: 6.7
+    direction: 207
+  engine:
+    hours: 817.4
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: navigation
+  observations:
+    seaState: 2
+    cloudCoverage: 6
+    visibility: 7
