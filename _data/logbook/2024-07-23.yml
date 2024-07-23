@@ -587,3 +587,99 @@
     - ihmis-suski
     - bergie
   category: radio
+- datetime: 2024-07-23T10:00:37.600Z
+  text: ""
+  author: ""
+  position:
+    longitude: -5.8095595
+    latitude: 53.5232611
+    source: GPS
+  heading: 228
+  course: 256
+  speed:
+    stw: 4.5
+    sog: 3.9
+  log: 5534.7
+  barometer: 1021.48
+  wind:
+    speed: 11.5
+    direction: 312
+  engine:
+    hours: 820.5
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: navigation
+- datetime: 2024-07-23T10:25:58.598Z
+  text: "Sails set: Main, Genoa 1"
+  author: ""
+  position:
+    longitude: -5.8471583
+    latitude: 53.5109446
+    source: GPS
+  heading: 215
+  course: 234
+  speed:
+    stw: 4.3
+    sog: 2.9
+  log: 5536.2
+  barometer: 1022.14
+  wind:
+    speed: 9.8
+    direction: 294
+  engine:
+    hours: 820.5
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: navigation
+- datetime: 2024-07-23T10:43:38.598Z
+  text: Watermaker second canister 156 ppm
+  author: ihmis-suski
+  position:
+    longitude: -5.8729056
+    latitude: 53.5004894
+    source: GPS
+  heading: 216
+  course: 238
+  speed:
+    stw: 4.4
+    sog: 3.3
+  log: 5537.3
+  barometer: 1022.3
+  wind:
+    speed: 10
+    direction: 309
+  engine:
+    hours: 820.5
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: maintenance
+- datetime: 2024-07-23T10:53:22.598Z
+  text: Autopilot activated
+  author: ""
+  position:
+    longitude: -5.8871344
+    latitude: 53.4957046
+    source: GPS
+  heading: 241
+  course: 253
+  speed:
+    stw: 2.7
+    sog: 2.7
+  log: 5537.9
+  barometer: 1022.33
+  wind:
+    speed: 7.4
+    direction: 317
+  engine:
+    hours: 820.5
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: navigation
