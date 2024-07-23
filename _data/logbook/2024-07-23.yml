@@ -539,3 +539,51 @@
     - ihmis-suski
     - bergie
   category: radio
+- datetime: 2024-07-23T09:00:37.600Z
+  text: ""
+  author: ""
+  position:
+    longitude: -5.7078088
+    latitude: 53.5575186
+    source: GPS
+  heading: 214
+  course: 219
+  speed:
+    stw: 4.8
+    sog: 4.4
+  log: 5530.5
+  barometer: 1020.9
+  wind:
+    speed: 13.1
+    direction: 310
+  engine:
+    hours: 820.5
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: navigation
+- datetime: 2024-07-23T09:15:37.600Z
+  text: Disturbance on 16 cleared.
+  author: ihmis-suski
+  position:
+    longitude: -5.7341963
+    latitude: 53.5472
+    source: GPS
+  heading: 222
+  course: 237
+  speed:
+    stw: 4.8
+    sog: 4.4
+  log: 5531.6
+  barometer: 1021.17
+  wind:
+    speed: 15.9
+    direction: 310
+  engine:
+    hours: 820.5
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: radio
