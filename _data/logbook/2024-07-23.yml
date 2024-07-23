@@ -23,7 +23,7 @@
     - bergie
   category: navigation
 - datetime: 2024-07-23T00:54:33.200Z
-  text: Green nav light is off
+  text: Green nav light is offline, and the spare didn't work either
   author: bergie
   position:
     longitude: -4.9383494
@@ -266,3 +266,103 @@
     - ihmis-suski
     - bergie
   category: navigation
+- datetime: 2024-07-23T04:00:34.200Z
+  text: ""
+  author: ""
+  position:
+    longitude: -5.1495268
+    latitude: 53.8614639
+    source: GPS
+  heading: 205
+  course: 215
+  speed:
+    stw: 5.6
+    sog: 7.3
+  log: 5503.1
+  barometer: 1016.8
+  wind:
+    speed: 18.4
+    direction: 345
+  engine:
+    hours: 820.5
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: navigation
+- datetime: 2024-07-23T04:09:15.200Z
+  text: "Sails set: Main (1st reef), Genoa 1 (20% furled)"
+  author: ""
+  position:
+    longitude: -5.1631181
+    latitude: 53.8479506
+    source: GPS
+  heading: 202
+  course: 213
+  speed:
+    stw: 5
+    sog: 6.2
+  log: 5504
+  barometer: 1016.91
+  wind:
+    speed: 17.3
+    direction: 356
+  engine:
+    hours: 820.5
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: navigation
+- datetime: 2024-07-23T04:18:41.200Z
+  text: "Sails set: Main (1st reef), Staysail"
+  author: ""
+  position:
+    longitude: -5.1775249
+    latitude: 53.8347416
+    source: GPS
+  heading: 214
+  course: 215
+  speed:
+    stw: 4.7
+    sog: 6.1
+  log: 5505
+  barometer: 1017.1
+  wind:
+    speed: 16.8
+    direction: 358
+  engine:
+    hours: 820.5
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: navigation
+- datetime: 2024-07-23T04:35:52.200Z
+  text: Autopilot deactivated, windvane steering
+  author: bergie
+  position:
+    longitude: -5.215824
+    latitude: 53.8139401
+    source: GPS
+  heading: 235
+  course: 236
+  speed:
+    stw: 5.3
+    sog: 6.3
+  log: 5506.8
+  barometer: 1017.43
+  wind:
+    speed: 18
+    direction: 339
+  engine:
+    hours: 820.5
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: navigation
+  observations:
+    seaState: 3
+    cloudCoverage: 4
+    visibility: 7
