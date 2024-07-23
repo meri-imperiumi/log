@@ -169,3 +169,52 @@
     - ihmis-suski
     - bergie
   category: navigation
+- datetime: 2024-07-23T02:00:33.200Z
+  text: ""
+  author: ""
+  position:
+    longitude: -5.0091949
+    latitude: 54.0244383
+    source: GPS
+  heading: 193
+  course: 201
+  speed:
+    stw: 4.6
+    sog: 4.3
+  log: 5492.1
+  barometer: 1015.31
+  wind:
+    speed: 10.9
+    direction: 355
+  engine:
+    hours: 820.5
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: navigation
+- datetime: 2024-07-23T02:18:33.200Z
+  text: Orca has shittified the app. The AIS estimations now have only distance,
+    no time fpr CPA. 'Nice' to notice in the middle of the night on a passage.
+  author: ihmis-suski
+  position:
+    longitude: -5.0267835
+    latitude: 54.0021998
+    source: GPS
+  heading: 194
+  course: 199
+  speed:
+    stw: 4.5
+    sog: 4.1
+  log: 5493.5
+  barometer: 1015.66
+  wind:
+    speed: 13.2
+    direction: 1
+  engine:
+    hours: 820.5
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: navigation
