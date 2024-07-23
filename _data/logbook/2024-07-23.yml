@@ -1,0 +1,48 @@
+- datetime: 2024-07-23T00:00:31.200Z
+  text: Wind shift has happened, but it still needs to pick up
+  author: bergie
+  position:
+    longitude: -4.8586465
+    latitude: 54.137681
+    source: GPS
+  heading: 224
+  course: 223
+  speed:
+    stw: 4.3
+    sog: 4.4
+  log: 5483.4
+  barometer: 1014.68
+  wind:
+    speed: 3.7
+    direction: 281
+  engine:
+    hours: 818.9
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: navigation
+- datetime: 2024-07-23T00:54:33.200Z
+  text: Green nav light is off
+  author: bergie
+  position:
+    longitude: -4.9383494
+    latitude: 54.0913693
+    source: GPS
+  heading: 200
+  course: 216
+  speed:
+    stw: 4.4
+    sog: 4
+  log: 5487.3
+  barometer: 1014.74
+  wind:
+    speed: 6.5
+    direction: 29
+  engine:
+    hours: 819.6
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: maintenance
