@@ -466,3 +466,76 @@
     seaState: 3
     cloudCoverage: 2
     visibility: 8
+- datetime: 2024-07-23T08:00:36.499Z
+  text: ""
+  author: ""
+  position:
+    longitude: -5.6304595
+    latitude: 53.6084251
+    source: GPS
+  heading: 203
+  course: 206
+  speed:
+    stw: 4.9
+    sog: 4.4
+  log: 5526.3
+  barometer: 1020.18
+  wind:
+    speed: 14.5
+    direction: 326
+  engine:
+    hours: 820.5
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: navigation
+- datetime: 2024-07-23T08:43:37.500Z
+  text: Watermaker to canister at 192
+  author: ihmis-suski
+  position:
+    longitude: -5.6835486
+    latitude: 53.5708106
+    source: GPS
+  heading: 228
+  course: 232
+  speed:
+    stw: 4.3
+    sog: 4.6
+  log: 5529.3
+  barometer: 1020.6
+  wind:
+    speed: 11.1
+    direction: 317
+  engine:
+    hours: 820.5
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: maintenance
+- datetime: 2024-07-23T08:55:37.600Z
+  text: Open microphone on channel 16 in Dublin area. Coastguard trying to get
+    everyone to check their VHF equipment. Ours seems fine.
+  author: ihmis-suski
+  position:
+    longitude: -5.7006573
+    latitude: 53.5617546
+    source: GPS
+  heading: 218
+  course: 241
+  speed:
+    stw: 4.8
+    sog: 4.6
+  log: 5530.1
+  barometer: 1020.78
+  wind:
+    speed: 13.1
+    direction: 320
+  engine:
+    hours: 820.5
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: radio
