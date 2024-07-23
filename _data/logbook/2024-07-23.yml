@@ -755,3 +755,51 @@
     - ihmis-suski
     - bergie
   category: maintenance
+- datetime: 2024-07-23T12:00:39.600Z
+  text: ""
+  author: ""
+  position:
+    longitude: -5.9575931
+    latitude: 53.4576679
+    source: GPS
+  heading: 227
+  course: 217
+  speed:
+    stw: 4.9
+    sog: 5.8
+  log: 5541.4
+  barometer: 1022.37
+  wind:
+    speed: 7.5
+    direction: 123
+  engine:
+    hours: 820.8
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: navigation
+- datetime: 2024-07-23T12:39:11.600Z
+  text: Autopilot deactivated
+  author: ""
+  position:
+    longitude: -6.0256304
+    latitude: 53.4136491
+    source: GPS
+  heading: 218
+  course: 220
+  speed:
+    stw: 4.9
+    sog: 5.5
+  log: 5545
+  barometer: 1022.73
+  wind:
+    speed: 7.2
+    direction: 129
+  engine:
+    hours: 821.5
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: navigation
