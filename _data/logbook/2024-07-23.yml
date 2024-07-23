@@ -218,3 +218,51 @@
     - ihmis-suski
     - bergie
   category: navigation
+- datetime: 2024-07-23T03:00:34.200Z
+  text: ""
+  author: ""
+  position:
+    longitude: -5.0671404
+    latitude: 53.9511063
+    source: GPS
+  heading: 193
+  course: 204
+  speed:
+    stw: 4.5
+    sog: 5
+  log: 5496.9
+  barometer: 1015.94
+  wind:
+    speed: 11.6
+    direction: 354
+  engine:
+    hours: 820.5
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: navigation
+- datetime: 2024-07-23T03:28:34.200Z
+  text: Fishing with new weights.
+  author: ihmis-suski
+  position:
+    longitude: -5.0986521
+    latitude: 53.9108121
+    source: GPS
+  heading: 191
+  course: 194
+  speed:
+    stw: 4.9
+    sog: 6
+  log: 5499.6
+  barometer: 1016.24
+  wind:
+    speed: 13.4
+    direction: 9
+  engine:
+    hours: 820.5
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: navigation
