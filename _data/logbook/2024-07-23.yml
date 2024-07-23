@@ -46,3 +46,126 @@
     - ihmis-suski
     - bergie
   category: maintenance
+- datetime: 2024-07-23T01:00:33.200Z
+  text: ""
+  author: ""
+  position:
+    longitude: -4.945074
+    latitude: 54.0856428
+    source: GPS
+  heading: 204
+  course: 213
+  speed:
+    stw: 4.6
+    sog: 4.2
+  log: 5487.8
+  barometer: 1014.75
+  wind:
+    speed: 7
+    direction: 21
+  engine:
+    hours: 819.7
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: navigation
+- datetime: 2024-07-23T01:14:33.200Z
+  text: >
+    In the new met forecast only 3 or less for Isle of Man. Still motoring.
+    Bergie in bed, Suski on watch.
+  author: ihmis-suski
+  position:
+    longitude: -4.9612415
+    latitude: 54.0715756
+    source: GPS
+  heading: 202
+  course: 216
+  speed:
+    stw: 4.6
+    sog: 4.6
+  log: 5488.8
+  barometer: 1014.73
+  wind:
+    speed: 7.1
+    direction: 35
+  engine:
+    hours: 819.9
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: navigation
+- datetime: 2024-07-23T01:49:12.200Z
+  text: Motor stopped, sailing with Main (1st reef), Staysail
+  author: ""
+  position:
+    longitude: -4.9984884
+    latitude: 54.0351833
+    source: GPS
+  heading: 193
+  course: 216
+  speed:
+    stw: 3.1
+    sog: 3.6
+  log: 5491.3
+  barometer: 1015.02
+  wind:
+    speed: 11.9
+    direction: 351
+  engine:
+    hours: 820.5
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: navigation
+- datetime: 2024-07-23T01:50:38.200Z
+  text: "Sails set: Main (1st reef), Genoa 1"
+  author: ""
+  position:
+    longitude: -4.9998839
+    latitude: 54.0338913
+    source: GPS
+  heading: 192
+  course: 211
+  speed:
+    stw: 3.3
+    sog: 3.8
+  log: 5491.4
+  barometer: 1015.05
+  wind:
+    speed: 10.7
+    direction: 5
+  engine:
+    hours: 820.5
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: navigation
+- datetime: 2024-07-23T01:51:33.200Z
+  text: Finally wind. With the swell sails slapping around a bit. The new deck
+    light works amazing when setting up the pole.
+  author: ihmis-suski
+  position:
+    longitude: -5.0007464
+    latitude: 54.0330636
+    source: GPS
+  heading: 192
+  course: 229
+  speed:
+    stw: 3.5
+    sog: 3.9
+  log: 5491.5
+  barometer: 1015.06
+  wind:
+    speed: 9.8
+    direction: 347
+  engine:
+    hours: 820.5
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: navigation
