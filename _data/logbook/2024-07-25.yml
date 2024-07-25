@@ -137,54 +137,6 @@
     - ihmis-suski
     - bergie
   category: navigation
-- datetime: 2024-07-25T15:18:39.699Z
-  text: Autopilot deactivated
-  author: ""
-  position:
-    longitude: -6.0205109
-    latitude: 53.3628096
-    source: GPS
-  heading: 109
-  course: 132
-  speed:
-    stw: 2.5
-    sog: 3.5
-  log: 5550.4
-  barometer: 1006.8
-  wind:
-    speed: 9.2
-    direction: 187
-  engine:
-    hours: 822.8
-  vhf: "16"
-  crewNames:
-    - ihmis-suski
-    - bergie
-  category: navigation
-- datetime: 2024-07-25T15:18:40.697Z
-  text: Autopilot activated
-  author: ""
-  position:
-    longitude: -6.02049
-    latitude: 53.3627981
-    source: GPS
-  heading: 109
-  course: 143
-  speed:
-    stw: 2.5
-    sog: 4
-  log: 5550.4
-  barometer: 1006.8
-  wind:
-    speed: 8.4
-    direction: 193
-  engine:
-    hours: 822.8
-  vhf: "16"
-  crewNames:
-    - ihmis-suski
-    - bergie
-  category: navigation
 - datetime: 2024-07-25T15:40:06.700Z
   text: Dolphins in the bow wave!
   author: ihmis-suski
@@ -230,6 +182,54 @@
   wind:
     speed: 9.3
     direction: 130
+  engine:
+    hours: 822.8
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: navigation
+- datetime: 2024-07-25T16:52:44.102Z
+  text: "Sails set: Main, Staysail"
+  author: ""
+  position:
+    longitude: -5.8762709
+    latitude: 53.2823898
+    source: GPS
+  heading: 126
+  course: 142
+  speed:
+    stw: 4.5
+    sog: 6.4
+  log: 5557.7
+  barometer: 1006.58
+  wind:
+    speed: 13.9
+    direction: 169
+  engine:
+    hours: 822.8
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: navigation
+- datetime: 2024-07-25T17:00:08.102Z
+  text: ""
+  author: ""
+  position:
+    longitude: -5.8662839
+    latitude: 53.2711078
+    source: GPS
+  heading: 163
+  course: 168
+  speed:
+    stw: 5.4
+    sog: 6.8
+  log: 5558.5
+  barometer: 1006.48
+  wind:
+    speed: 18.8
+    direction: 219
   engine:
     hours: 822.8
   vhf: "16"
