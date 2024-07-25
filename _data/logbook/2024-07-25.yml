@@ -433,3 +433,80 @@
   crewNames:
     - ihmis-suski
     - bergie
+  category: navigation
+- datetime: 2024-07-25T20:08:44.102Z
+  text: "Sails set: Main, Genoa 1"
+  author: ""
+  position:
+    longitude: -5.7289586
+    latitude: 53.1100553
+    source: GPS
+  heading: 201
+  course: 201
+  speed:
+    stw: 3.8
+    sog: 2.4
+  log: 5571.1
+  barometer: 1007.43
+  wind:
+    speed: 13.5
+    direction: 236
+  engine:
+    hours: 822.8
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: navigation
+- datetime: 2024-07-25T20:15:11.097Z
+  text: Finally the westerly wind we have been waiting for! About 1.5kt
+    countercurrent. Current is smoothening the swell a bit
+  author: bergie
+  position:
+    longitude: -5.7309381
+    latitude: 53.106848
+    source: GPS
+  heading: 211
+  course: 217
+  speed:
+    stw: 3.7
+    sog: 1.9
+  log: 5571.3
+  barometer: 1007.41
+  wind:
+    speed: 14.1
+    direction: 251
+  engine:
+    hours: 822.8
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: navigation
+  observations:
+    seaState: 3
+    cloudCoverage: 6
+    visibility: 7
+- datetime: 2024-07-25T21:00:12.102Z
+  text: ""
+  author: ""
+  position:
+    longitude: -5.7675208
+    latitude: 53.0853796
+    source: GPS
+  heading: 223
+  course: 239
+  speed:
+    stw: 4.7
+    sog: 3.2
+  log: 5573.2
+  barometer: 1008.2
+  wind:
+    speed: 13.5
+    direction: 272
+  engine:
+    hours: 822.8
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
