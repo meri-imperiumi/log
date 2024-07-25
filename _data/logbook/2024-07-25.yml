@@ -287,7 +287,7 @@
   category: navigation
 - datetime: 2024-07-25T17:38:08.102Z
   text: Pogo pins for chartplotter tablet charging are stuck down. Sprayed with
-    Kontakt, hopefully helps
+    Kontakt, hopefully helps. For the moment, we need to charge with USB
   author: bergie
   position:
     longitude: -5.8414545
@@ -327,6 +327,30 @@
   wind:
     speed: 11.6
     direction: 206
+  engine:
+    hours: 822.8
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: navigation
+- datetime: 2024-07-25T19:00:09.100Z
+  text: ""
+  author: ""
+  position:
+    longitude: -5.7478251
+    latitude: 53.1447321
+    source: GPS
+  heading: 233
+  course: 228
+  speed:
+    stw: 4
+    sog: 3.7
+  log: 5567.8
+  barometer: 1007.16
+  wind:
+    speed: 12.7
+    direction: 202
   engine:
     hours: 822.8
   vhf: "16"
