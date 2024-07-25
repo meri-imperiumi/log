@@ -1,0 +1,91 @@
+- datetime: 2024-07-25T14:06:22.700Z
+  text: Rewired starboard light from doom locker, red wire had corroded through
+  author: bergie
+  position:
+    longitude: -6.0659036
+    latitude: 53.3894846
+    source: GPS
+  heading: 81
+  course: 72
+  speed:
+    stw: 0
+    sog: 0
+  log: 5547.4
+  barometer: 1007.35
+  wind:
+    speed: 2
+    direction: 236
+  engine:
+    hours: 822.1
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: maintenance
+- datetime: 2024-07-25T14:34:58.700Z
+  text: Started main engine
+  author: ""
+  position:
+    longitude: -6.0659166
+    latitude: 53.3894511
+    source: GPS
+  heading: 81
+  course: 18
+  speed:
+    stw: 0
+    sog: 0
+  log: 5547.4
+  barometer: 1007.13
+  wind:
+    speed: 7.5
+    direction: 215
+  engine:
+    hours: 822.1
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: navigation
+- datetime: 2024-07-25T14:42:13.699Z
+  text: Motoring
+  author: ""
+  position:
+    longitude: -6.0677728
+    latitude: 53.3904178
+    source: GPS
+  heading: 16
+  course: 9
+  speed:
+    stw: 2.3
+    sog: 2.9
+  log: 5547.4
+  barometer: 1007.1
+  wind:
+    speed: 7.6
+    direction: 232
+  engine:
+    hours: 822.2
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: navigation
+- datetime: 2024-07-25T15:00:07.699Z
+  text: ""
+  author: ""
+  position:
+    longitude: -6.0358608
+    latitude: 53.3829345
+    source: GPS
+  heading: 122
+  course: 130
+  speed:
+    stw: 4.3
+    sog: 5.9
+  log: 5549.1
+  barometer: 1006.93
+  wind:
+    speed: 7.5
+    direction: 164
+  engine:
+    hours: 822.5
+  crewNames:
+    - ihmis-suski
+    - bergie
