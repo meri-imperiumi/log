@@ -236,3 +236,100 @@
   crewNames:
     - ihmis-suski
     - bergie
+  category: navigation
+- datetime: 2024-07-25T17:10:47.097Z
+  text: "Autopilot deactivated, windvane steering "
+  author: bergie
+  position:
+    longitude: -5.860050519307454
+    latitude: 53.25267349878947
+    source: GPS
+  heading: 165
+  course: 173
+  speed:
+    stw: 3.5
+    sog: 5.6
+  log: 5559.6
+  barometer: 1006.45
+  wind:
+    speed: 12
+    direction: 215
+  engine:
+    hours: 822.8
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: navigation
+- datetime: 2024-07-25T17:21:06.099Z
+  text: "Sails set: Main, Genoa 1"
+  author: ""
+  position:
+    longitude: -5.8543153
+    latitude: 53.2432648
+    source: GPS
+  heading: 148
+  course: 159
+  speed:
+    stw: 3.4
+    sog: 5.2
+  log: 5560.2
+  barometer: 1006.41
+  wind:
+    speed: 9.4
+    direction: 216
+  engine:
+    hours: 822.8
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: navigation
+- datetime: 2024-07-25T17:38:08.102Z
+  text: Pogo pins for chartplotter tablet charging are stuck down. Sprayed with
+    Kontakt, hopefully helps
+  author: bergie
+  position:
+    longitude: -5.8414545
+    latitude: 53.2253171
+    source: GPS
+  heading: 141
+  course: 158
+  speed:
+    stw: 2.2
+    sog: 3.6
+  log: 5561.4
+  barometer: 1006.41
+  wind:
+    speed: 7.9
+    direction: 195
+  engine:
+    hours: 822.8
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: maintenance
+- datetime: 2024-07-25T18:00:08.102Z
+  text: ""
+  author: ""
+  position:
+    longitude: -5.813345
+    latitude: 53.1982519
+    source: GPS
+  heading: 153
+  course: 159
+  speed:
+    stw: 4.1
+    sog: 4.5
+  log: 5563.3
+  barometer: 1006.34
+  wind:
+    speed: 11.6
+    direction: 206
+  engine:
+    hours: 822.8
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
