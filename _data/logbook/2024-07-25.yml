@@ -89,3 +89,150 @@
   crewNames:
     - ihmis-suski
     - bergie
+  category: navigation
+- datetime: 2024-07-25T15:06:22.700Z
+  text: Motor stopped, sailing with Main, Genoa 1
+  author: ""
+  position:
+    longitude: -6.0304076
+    latitude: 53.3740654
+    source: GPS
+  heading: 131
+  course: 148
+  speed:
+    stw: 2
+    sog: 3.6
+  log: 5549.7
+  barometer: 1006.98
+  wind:
+    speed: 5.9
+    direction: 196
+  engine:
+    hours: 822.6
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: navigation
+- datetime: 2024-07-25T15:09:33.702Z
+  text: Autopilot activated
+  author: ""
+  position:
+    longitude: -6.0280176
+    latitude: 53.3712606
+    source: GPS
+  heading: 125
+  course: 152
+  speed:
+    stw: 2
+    sog: 3.5
+  log: 5549.9
+  barometer: 1006.99
+  wind:
+    speed: 7.4
+    direction: 178
+  engine:
+    hours: 822.6
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: navigation
+- datetime: 2024-07-25T15:18:39.699Z
+  text: Autopilot deactivated
+  author: ""
+  position:
+    longitude: -6.0205109
+    latitude: 53.3628096
+    source: GPS
+  heading: 109
+  course: 132
+  speed:
+    stw: 2.5
+    sog: 3.5
+  log: 5550.4
+  barometer: 1006.8
+  wind:
+    speed: 9.2
+    direction: 187
+  engine:
+    hours: 822.8
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: navigation
+- datetime: 2024-07-25T15:18:40.697Z
+  text: Autopilot activated
+  author: ""
+  position:
+    longitude: -6.02049
+    latitude: 53.3627981
+    source: GPS
+  heading: 109
+  course: 143
+  speed:
+    stw: 2.5
+    sog: 4
+  log: 5550.4
+  barometer: 1006.8
+  wind:
+    speed: 8.4
+    direction: 193
+  engine:
+    hours: 822.8
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: navigation
+- datetime: 2024-07-25T15:40:06.700Z
+  text: Dolphins in the bow wave!
+  author: ihmis-suski
+  position:
+    longitude: -6.0009451
+    latitude: 53.3416764
+    source: GPS
+  heading: 131
+  course: 151
+  speed:
+    stw: 1.9
+    sog: 3.2
+  log: 5551.9
+  barometer: 1006.55
+  wind:
+    speed: 6.6
+    direction: 184
+  engine:
+    hours: 822.8
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: navigation
+  observations:
+    seaState: 2
+    visibility: 8
+    cloudCoverage: 2
+- datetime: 2024-07-25T16:00:06.700Z
+  text: ""
+  author: ""
+  position:
+    longitude: -5.975789006551107
+    latitude: 53.329403495788576
+    source: GPS
+  heading: 91
+  course: 113
+  speed:
+    stw: 3.7
+    sog: 4.2
+  log: 5553.1
+  barometer: 1006.41
+  wind:
+    speed: 9.3
+    direction: 130
+  engine:
+    hours: 822.8
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
