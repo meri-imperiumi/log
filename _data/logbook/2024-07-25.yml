@@ -357,3 +357,79 @@
   crewNames:
     - ihmis-suski
     - bergie
+  category: navigation
+- datetime: 2024-07-25T19:12:22.099Z
+  text: "Sails set: Main, Staysail"
+  author: ""
+  position:
+    longitude: -5.7637945
+    latitude: 53.1379918
+    source: GPS
+  heading: 246
+  course: 243
+  speed:
+    stw: 3.6
+    sog: 3.9
+  log: 5568.5
+  barometer: 1007.11
+  wind:
+    speed: 15.7
+    direction: 203
+  engine:
+    hours: 822.8
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: navigation
+- datetime: 2024-07-25T19:21:10.099Z
+  text: Seas get up a bit here on Codling Bank. Tide about to turn against us, too
+  author: bergie
+  position:
+    longitude: -5.7591426
+    latitude: 53.1311641
+    source: GPS
+  heading: 141
+  course: 146
+  speed:
+    stw: 3
+    sog: 2.9
+  log: 5569.1
+  barometer: 1006.85
+  wind:
+    speed: 13.6
+    direction: 189
+  engine:
+    hours: 822.8
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: navigation
+  observations:
+    seaState: 3
+    cloudCoverage: 4
+    visibility: 7
+- datetime: 2024-07-25T20:00:10.099Z
+  text: ""
+  author: ""
+  position:
+    longitude: -5.7339675
+    latitude: 53.1100234
+    source: GPS
+  heading: 180
+  course: 112
+  speed:
+    stw: 1.6
+    sog: 1.2
+  log: 5570.9
+  barometer: 1007.34
+  wind:
+    speed: 11.4
+    direction: 226
+  engine:
+    hours: 822.8
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
