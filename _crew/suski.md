@@ -27,6 +27,7 @@ countries-sailed:
   - Orkney
   - Scotland
   - IM
+  - IE
 ---
 Volunteered as a deck hand on schooner Helena for couple of years.
 Atlantic crossing on schooner Helena in 2014.
