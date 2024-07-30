@@ -587,3 +587,79 @@
     - ihmis-suski
     - bergie
   category: maintenance
+- datetime: 2024-07-30T13:00:24.899Z
+  text: Bergie on watch, Suski to bed
+  author: bergie
+  position:
+    longitude: -6.2930223
+    latitude: 52.1032516
+    source: GPS
+  heading: 167
+  course: 173
+  speed:
+    stw: 4.5
+    sog: 4.9
+  log: 5643.3
+  barometer: 1021.6
+  wind:
+    speed: 14.8
+    direction: 43
+  engine:
+    hours: 825.1
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: navigation
+  observations:
+    seaState: 3
+    cloudCoverage: 6
+    visibility: 8
+- datetime: 2024-07-30T13:03:41.900Z
+  text: Autopilot deactivated,  windvane steering
+  author: bergie
+  position:
+    longitude: -6.292205174763997
+    latitude: 52.099404668807985
+    source: GPS
+  heading: 169
+  course: 163
+  speed:
+    stw: 3.8
+    sog: 4.2
+  log: 5643.5
+  barometer: 1021.63
+  wind:
+    speed: 13.1
+    direction: 44
+  engine:
+    hours: 825.1
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: navigation
+- datetime: 2024-07-30T13:21:26.899Z
+  text: So far the catch of the day has been a chunk of seaweed
+  author: bergie
+  position:
+    longitude: -6.288860321044922
+    latitude: 52.07955133120219
+    source: GPS
+  heading: 163
+  course: 170
+  speed:
+    stw: 4.2
+    sog: 4
+  log: 5644.7
+  barometer: 1021.67
+  wind:
+    speed: 9.5
+    direction: 64
+  engine:
+    hours: 825.1
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: maintenance
