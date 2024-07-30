@@ -212,3 +212,81 @@
   crewNames:
     - ihmis-suski
     - bergie
+  category: navigation
+- datetime: 2024-07-30T08:00:22.499Z
+  text: ""
+  author: ""
+  position:
+    longitude: -6.131112
+    latitude: 52.5530518
+    source: GPS
+  heading: 176
+  course: 184
+  speed:
+    stw: 4.1
+    sog: 6.3
+  log: 5615.3
+  barometer: 1021.68
+  wind:
+    speed: 12.7
+    direction: 41
+  engine:
+    hours: 825.1
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: navigation
+- datetime: 2024-07-30T08:18:22.499Z
+  text: Bergie on off watch, Suski on deck.
+  author: ihmis-suski
+  position:
+    longitude: -6.1339751
+    latitude: 52.5191258
+    source: GPS
+  heading: 175
+  course: 185
+  speed:
+    stw: 4.8
+    sog: 6.9
+  log: 5617.3
+  barometer: 1021.85
+  wind:
+    speed: 15.1
+    direction: 26
+  engine:
+    hours: 825.1
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: navigation
+  observations:
+    seaState: 2
+    cloudCoverage: 8
+    visibility: 8
+- datetime: 2024-07-30T08:33:23.500Z
+  text: Staysail prepared a secured on deck. Unlikely that we will need it on this
+    passage, but better safe than sorry.
+  author: ihmis-suski
+  position:
+    longitude: -6.1359731
+    latitude: 52.4906181
+    source: GPS
+  heading: 172
+  course: 179
+  speed:
+    stw: 4.3
+    sog: 6.5
+  log: 5619
+  barometer: 1021.88
+  wind:
+    speed: 13
+    direction: 31
+  engine:
+    hours: 825.1
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: navigation
