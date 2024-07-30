@@ -782,3 +782,53 @@
   crewNames:
     - ihmis-suski
     - bergie
+  category: navigation
+- datetime: 2024-07-30T16:00:28.902Z
+  text: ""
+  author: ""
+  position:
+    longitude: -6.2379556
+    latitude: 51.9310274
+    source: GPS
+  heading: 183
+  course: 190
+  speed:
+    stw: 4.2
+    sog: 3.7
+  log: 5653.9
+  barometer: 1020.72
+  wind:
+    speed: 12.5
+    direction: 47
+  engine:
+    hours: 825.1
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: navigation
+- datetime: 2024-07-30T16:50:28.902Z
+  text: "Contacted Athena Seaways (head-on collision course) on VHF, they said
+    they see us on radar and will avoid "
+  author: bergie
+  position:
+    longitude: -6.2248435
+    latitude: 51.8858571
+    source: GPS
+  heading: 172
+  course: 161
+  speed:
+    stw: 3.9
+    sog: 3.4
+  log: 5656.7
+  barometer: 1020.42
+  wind:
+    speed: 10.3
+    direction: 29
+  engine:
+    hours: 825.1
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: radio
