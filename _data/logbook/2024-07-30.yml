@@ -855,3 +855,103 @@
   crewNames:
     - ihmis-suski
     - bergie
+  category: navigation
+- datetime: 2024-07-30T18:00:30.899Z
+  text: ""
+  author: ""
+  position:
+    longitude: -6.2165595
+    latitude: 51.8219943
+    source: GPS
+  heading: 173
+  course: 181
+  speed:
+    stw: 3.7
+    sog: 3.6
+  log: 5660.6
+  barometer: 1020.49
+  wind:
+    speed: 13
+    direction: 37
+  engine:
+    hours: 825.1
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: navigation
+- datetime: 2024-07-30T18:02:30.899Z
+  text: Dolphins!
+  author: bergie
+  position:
+    longitude: -6.2159839
+    latitude: 51.8200075
+    source: GPS
+  heading: 171
+  course: 175
+  speed:
+    stw: 4
+    sog: 4
+  log: 5660.7
+  barometer: 1020.51
+  wind:
+    speed: 11.9
+    direction: 45
+  engine:
+    hours: 825.1
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: navigation
+- datetime: 2024-07-30T18:19:29.900Z
+  text: "Tide is turning to favourable "
+  author: bergie
+  position:
+    longitude: -6.2150928
+    latitude: 51.8010136
+    source: GPS
+  heading: 172
+  course: 169
+  speed:
+    stw: 4.3
+    sog: 4.5
+  log: 5661.8
+  barometer: 1020.42
+  wind:
+    speed: 14.3
+    direction: 41
+  engine:
+    hours: 825.1
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: navigation
+  observations:
+    seaState: 3
+    cloudCoverage: 4
+    visibility: 8
+- datetime: 2024-07-30T19:00:24.902Z
+  text: ""
+  author: ""
+  position:
+    longitude: -6.2098978
+    latitude: 51.7498328
+    source: GPS
+  heading: 161
+  course: 172
+  speed:
+    stw: 4.8
+    sog: 5.2
+  log: 5664.9
+  barometer: 1020.16
+  wind:
+    speed: 15.5
+    direction: 15
+  engine:
+    hours: 825.1
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
