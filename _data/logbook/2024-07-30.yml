@@ -1031,3 +1031,56 @@
   crewNames:
     - ihmis-suski
     - bergie
+  category: navigation
+- datetime: 2024-07-30T21:29:23.302Z
+  text: Night time dolphins! You can hear them splash around and see the aftermath
+    ot the splashes.
+  author: ihmis-suski
+  position:
+    longitude: -6.1936248
+    latitude: 51.5250205
+    source: GPS
+  heading: 169
+  course: 178
+  speed:
+    stw: 5.1
+    sog: 5.9
+  log: 5678.6
+  barometer: 1019.64
+  wind:
+    speed: 15.6
+    direction: 25
+  engine:
+    hours: 825.1
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: navigation
+  observations:
+    seaState: 3
+    cloudCoverage: 2
+    visibility: 8
+- datetime: 2024-07-30T22:00:23.302Z
+  text: ""
+  author: ""
+  position:
+    longitude: -6.1854548
+    latitude: 51.4729143
+    source: GPS
+  heading: 164
+  course: 171
+  speed:
+    stw: 5.1
+    sog: 5.5
+  log: 5681.8
+  barometer: 1019.62
+  wind:
+    speed: 15.6
+    direction: 24
+  engine:
+    hours: 825.1
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
