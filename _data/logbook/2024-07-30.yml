@@ -342,3 +342,100 @@
     seaState: 2
     cloudCoverage: 8
     visibility: 8
+- datetime: 2024-07-30T10:00:23.500Z
+  text: ""
+  author: ""
+  position:
+    longitude: -6.1581803
+    latitude: 52.3505473
+    source: GPS
+  heading: 177
+  course: 184
+  speed:
+    stw: 4
+    sog: 5.6
+  log: 5627.5
+  barometer: 1022.07
+  wind:
+    speed: 12
+    direction: 50
+  engine:
+    hours: 825.1
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: navigation
+- datetime: 2024-07-30T10:07:24.499Z
+  text: Changed to wing on wing
+  author: ihmis-suski
+  position:
+    longitude: -6.1606506
+    latitude: 52.3404548
+    source: GPS
+  heading: 191
+  course: 192
+  speed:
+    stw: 4.2
+    sog: 5.6
+  log: 5628.1
+  barometer: 1022.09
+  wind:
+    speed: 12.7
+    direction: 51
+  engine:
+    hours: 825.1
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: navigation
+- datetime: 2024-07-30T10:15:24.499Z
+  text: Fishing with makrill lures, biggest weight, yoyo and 3.8 kn through water,
+    5.4 sog
+  author: ihmis-suski
+  position:
+    longitude: -6.166546328862508
+    latitude: 52.32902132670085
+    source: GPS
+  heading: 192
+  course: 196
+  speed:
+    stw: 3.6
+    sog: 5.4
+  log: 5628.8
+  barometer: 1022.05
+  wind:
+    speed: 12
+    direction: 56
+  engine:
+    hours: 825.1
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: maintenance
+- datetime: 2024-07-30T10:35:23.900Z
+  text: Added second heaviest weight at 4.1stw and 5.8 sog
+  author: ihmis-suski
+  position:
+    longitude: -6.1819336
+    latitude: 52.300706
+    source: GPS
+  heading: 193
+  course: 196
+  speed:
+    stw: 4
+    sog: 5.2
+  log: 5630.6
+  barometer: 1022.26
+  wind:
+    speed: 12
+    direction: 56
+  engine:
+    hours: 825.1
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: maintenance
