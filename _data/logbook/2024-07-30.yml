@@ -1,0 +1,68 @@
+- datetime: 2024-07-30T04:48:06.499Z
+  text: Started main engine
+  author: ""
+  position:
+    longitude: -6.1389609
+    latitude: 52.7775496
+    source: GPS
+  heading: 345
+  course: 337
+  speed:
+    stw: 0
+    sog: 0
+  log: 5601.4
+  barometer: 1019.95
+  wind:
+    speed: 7.3
+    direction: 322
+  engine:
+    hours: 824.2
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: navigation
+- datetime: 2024-07-30T04:57:21.500Z
+  text: Anchor up, motoring
+  author: bergie
+  position:
+    longitude: -6.1381471
+    latitude: 52.7779446
+    source: GPS
+  heading: 56
+  course: 65
+  speed:
+    stw: 2.2
+    sog: 2.9
+  log: 5601.4
+  barometer: 1020.03
+  wind:
+    speed: 6.9
+    direction: 352
+  engine:
+    hours: 824.3
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: navigation
+- datetime: 2024-07-30T05:00:20.499Z
+  text: ""
+  author: ""
+  position:
+    longitude: -6.1344561
+    latitude: 52.7786608
+    source: GPS
+  heading: 67
+  course: 71
+  speed:
+    stw: 2.8
+    sog: 3.4
+  log: 5601.6
+  barometer: 1020.02
+  wind:
+    speed: 8.7
+    direction: 343
+  engine:
+    hours: 824.4
+  crewNames:
+    - ihmis-suski
+    - bergie
