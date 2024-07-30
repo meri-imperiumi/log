@@ -464,7 +464,7 @@
     - bergie
   category: navigation
 - datetime: 2024-07-30T11:10:24.899Z
-  text: "52 25,61n 004.44w 2 nm radius, firing live ammunition "
+  text: 52 25,61n 004.44w 2 nm radius, firing live ammunition  Aberport firing range.
   author: ihmis-suski
   position:
     longitude: -6.2129841
@@ -487,3 +487,103 @@
     - ihmis-suski
     - bergie
   category: radio
+- datetime: 2024-07-30T12:00:25.900Z
+  text: ""
+  author: ""
+  position:
+    longitude: -6.2590461
+    latitude: 52.1751306
+    source: GPS
+  heading: 195
+  course: 190
+  speed:
+    stw: 4.5
+    sog: 4.7
+  log: 5638.7
+  barometer: 1021.84
+  wind:
+    speed: 12.3
+    direction: 59
+  engine:
+    hours: 825.1
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: navigation
+- datetime: 2024-07-30T12:10:24.899Z
+  text: First Falmouth CG on radio
+  author: ihmis-suski
+  position:
+    longitude: -6.2667941
+    latitude: 52.1612106
+    source: GPS
+  heading: 199
+  course: 202
+  speed:
+    stw: 4.6
+    sog: 5
+  log: 5639.6
+  barometer: 1021.86
+  wind:
+    speed: 13.2
+    direction: 50
+  engine:
+    hours: 825.1
+  vhf: "62"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: radio
+- datetime: 2024-07-30T12:17:25.900Z
+  text: "Tide just turned. "
+  author: ihmis-suski
+  position:
+    longitude: -6.271498
+    latitude: 52.1521193
+    source: GPS
+  heading: 198
+  course: 198
+  speed:
+    stw: 4.9
+    sog: 4
+  log: 5640.1
+  barometer: 1021.8
+  wind:
+    speed: 13.5
+    direction: 62
+  engine:
+    hours: 825.1
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: navigation
+  observations:
+    seaState: 3
+    cloudCoverage: 6
+    visibility: 8
+- datetime: 2024-07-30T12:44:25.900Z
+  text: "Started watermaker "
+  author: bergie
+  position:
+    longitude: -6.2935393
+    latitude: 52.1216666
+    source: GPS
+  heading: 197
+  course: 215
+  speed:
+    stw: 3.6
+    sog: 3.8
+  log: 5642.1
+  barometer: 1021.79
+  wind:
+    speed: 10.3
+    direction: 41
+  engine:
+    hours: 825.1
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: maintenance
