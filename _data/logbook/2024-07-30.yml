@@ -663,3 +663,99 @@
     - ihmis-suski
     - bergie
   category: maintenance
+- datetime: 2024-07-30T14:00:25.900Z
+  text: ""
+  author: ""
+  position:
+    longitude: -6.2744145
+    latitude: 52.0382041
+    source: GPS
+  heading: 165
+  course: 160
+  speed:
+    stw: 4.1
+    sog: 3.5
+  log: 5647.3
+  barometer: 1021.41
+  wind:
+    speed: 9.7
+    direction: 28
+  engine:
+    hours: 825.1
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: navigation
+- datetime: 2024-07-30T14:26:26.899Z
+  text: "Catch and release: more seaweed"
+  author: bergie
+  position:
+    longitude: -6.263145
+    latitude: 52.0148998
+    source: GPS
+  heading: 154
+  course: 154
+  speed:
+    stw: 3.9
+    sog: 3.4
+  log: 5648.7
+  barometer: 1021.05
+  wind:
+    speed: 10.8
+    direction: 21
+  engine:
+    hours: 825.1
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: maintenance
+- datetime: 2024-07-30T14:40:26.899Z
+  text: Stopped watermaker, 176ppm
+  author: bergie
+  position:
+    longitude: -6.2577436
+    latitude: 52.001924
+    source: GPS
+  heading: 155
+  course: 157
+  speed:
+    stw: 3.9
+    sog: 3.2
+  log: 5649.5
+  barometer: 1020.95
+  wind:
+    speed: 10.5
+    direction: 25
+  engine:
+    hours: 825.1
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: maintenance
+- datetime: 2024-07-30T14:59:27.897Z
+  text: Out of Irish waters. Current now around 1kt against
+  author: bergie
+  position:
+    longitude: -6.2546076
+    latitude: 51.9859998
+    source: GPS
+  heading: 167
+  course: 176
+  speed:
+    stw: 3.6
+    sog: 2.7
+  log: 5650.5
+  barometer: 1021.01
+  wind:
+    speed: 9.7
+    direction: 40
+  engine:
+    hours: 825.1
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: navigation
