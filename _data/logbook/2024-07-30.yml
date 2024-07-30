@@ -290,3 +290,55 @@
     - ihmis-suski
     - bergie
   category: navigation
+- datetime: 2024-07-30T09:00:23.500Z
+  text: ""
+  author: ""
+  position:
+    longitude: -6.1441188
+    latitude: 52.4448875
+    source: GPS
+  heading: 174
+  course: 187
+  speed:
+    stw: 3.3
+    sog: 5.7
+  log: 5621.8
+  barometer: 1021.85
+  wind:
+    speed: 12.3
+    direction: 48
+  engine:
+    hours: 825.1
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: navigation
+- datetime: 2024-07-30T09:11:22.499Z
+  text: Passing the east marker and thusly being more south than ever on Lille Ø!
+  author: ihmis-suski
+  position:
+    longitude: -6.1470884
+    latitude: 52.4281336
+    source: GPS
+  heading: 179
+  course: 187
+  speed:
+    stw: 2.6
+    sog: 4.6
+  log: 5622.8
+  barometer: 1021.84
+  wind:
+    speed: 9.5
+    direction: 41
+  engine:
+    hours: 825.1
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: navigation
+  observations:
+    seaState: 2
+    cloudCoverage: 8
+    visibility: 8
