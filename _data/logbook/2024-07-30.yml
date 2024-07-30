@@ -118,8 +118,8 @@
     cloudCoverage: 7
     visibility: 8
 - datetime: 2024-07-30T05:59:47.500Z
-  text: Sails down, motoring
-  author: ""
+  text: "Motorsailing with the cone "
+  author: bergie
   position:
     longitude: -6.1269196
     latitude: 52.7227818
@@ -164,3 +164,28 @@
   crewNames:
     - ihmis-suski
     - bergie
+  category: navigation
+- datetime: 2024-07-30T06:25:11.500Z
+  text: Motor stopped, sailing with Main, Genoa 1
+  author: ""
+  position:
+    longitude: -6.1286808
+    latitude: 52.6810643
+    source: GPS
+  heading: 164
+  course: 180
+  speed:
+    stw: 2.2
+    sog: 3.4
+  log: 5607.6
+  barometer: 1020.59
+  wind:
+    speed: 8.3
+    direction: 28
+  engine:
+    hours: 825
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: navigation
