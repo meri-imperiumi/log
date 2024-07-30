@@ -439,3 +439,51 @@
     - ihmis-suski
     - bergie
   category: maintenance
+- datetime: 2024-07-30T11:00:24.899Z
+  text: ""
+  author: ""
+  position:
+    longitude: -6.2042044
+    latitude: 52.2617628
+    source: GPS
+  heading: 196
+  course: 203
+  speed:
+    stw: 5.1
+    sog: 6.7
+  log: 5633.1
+  barometer: 1022.21
+  wind:
+    speed: 15.6
+    direction: 42
+  engine:
+    hours: 825.1
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: navigation
+- datetime: 2024-07-30T11:10:24.899Z
+  text: "52 25,61n 004.44w 2 nm radius, firing live ammunition "
+  author: ihmis-suski
+  position:
+    longitude: -6.2129841
+    latitude: 52.2463563
+    source: GPS
+  heading: 190
+  course: 191
+  speed:
+    stw: 5.3
+    sog: 6.5
+  log: 5634.1
+  barometer: 1022.09
+  wind:
+    speed: 16
+    direction: 47
+  engine:
+    hours: 825.1
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: radio
