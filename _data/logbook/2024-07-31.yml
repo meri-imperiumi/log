@@ -593,3 +593,76 @@
     - ihmis-suski
     - bergie
   category: navigation
+- datetime: 2024-07-31T14:00:28.800Z
+  text: ""
+  author: ""
+  position:
+    longitude: -6.1812831
+    latitude: 50.2289635
+    source: GPS
+  heading: 191
+  course: 190
+  speed:
+    stw: 4.7
+    sog: 5.2
+  log: 5757.8
+  barometer: 1015.35
+  wind:
+    speed: 7.9
+    direction: 322
+  engine:
+    hours: 826.7
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: navigation
+- datetime: 2024-07-31T14:36:28.800Z
+  text: "PAN PAN from Roslare CG: small vessel taking on water at vicinity of
+    <garbled> beach. Lifeboat under way"
+  author: bergie
+  position:
+    longitude: -6.2032886
+    latitude: 50.1812603
+    source: GPS
+  heading: 197
+  course: 210
+  speed:
+    stw: 4.8
+    sog: 4.4
+  log: 5760.8
+  barometer: 1015.43
+  wind:
+    speed: 7.6
+    direction: 304
+  engine:
+    hours: 827.3
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: radio
+- datetime: 2024-07-31T14:42:29.798Z
+  text: Entered UK waters
+  author: bergie
+  position:
+    longitude: -6.2078773
+    latitude: 50.1733033
+    source: GPS
+  heading: 195
+  course: 206
+  speed:
+    stw: 4.9
+    sog: 4.6
+  log: 5761.3
+  barometer: 1015.34
+  wind:
+    speed: 7.8
+    direction: 316
+  engine:
+    hours: 827.4
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: navigation
