@@ -293,3 +293,81 @@
   crewNames:
     - ihmis-suski
     - bergie
+  category: navigation
+- datetime: 2024-07-31T09:00:33.699Z
+  text: ""
+  author: ""
+  position:
+    longitude: -6.104236165682475
+    latitude: 50.54349416097005
+    source: GPS
+  heading: 172
+  course: 170
+  speed:
+    stw: 4.2
+    sog: 5.1
+  log: 5738.5
+  barometer: 1015.92
+  wind:
+    speed: 9.1
+    direction: 3
+  engine:
+    hours: 825.1
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: navigation
+- datetime: 2024-07-31T09:32:55.699Z
+  text: >-
+    Sails set: Main (2nd reef), Genoa 1, Staysail.
+
+
+    Being adventurous with the sail configuration. Anything but the whole main
+    banging around.
+  author: ihmis-suski
+  position:
+    longitude: -6.1093724
+    latitude: 50.5085948
+    source: GPS
+  heading: 193
+  course: 194
+  speed:
+    stw: 3.6
+    sog: 5.2
+  log: 5740.6
+  barometer: 1015.88
+  wind:
+    speed: 11.7
+    direction: 356
+  engine:
+    hours: 825.1
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: navigation
+- datetime: 2024-07-31T09:33:39.699Z
+  text: Autopilot activated
+  author: ""
+  position:
+    longitude: -6.1095386
+    latitude: 50.5078616
+    source: GPS
+  heading: 174
+  course: 189
+  speed:
+    stw: 3.7
+    sog: 3.6
+  log: 5740.7
+  barometer: 1015.89
+  wind:
+    speed: 7.8
+    direction: 1
+  engine:
+    hours: 825.1
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: navigation
