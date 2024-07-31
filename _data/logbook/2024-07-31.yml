@@ -666,3 +666,51 @@
     - ihmis-suski
     - bergie
   category: navigation
+- datetime: 2024-07-31T15:00:29.798Z
+  text: ""
+  author: ""
+  position:
+    longitude: -6.2220729
+    latitude: 50.1493205
+    source: GPS
+  heading: 202
+  course: 209
+  speed:
+    stw: 4.8
+    sog: 5.3
+  log: 5762.8
+  barometer: 1015.37
+  wind:
+    speed: 9.6
+    direction: 313
+  engine:
+    hours: 827.7
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: navigation
+- datetime: 2024-07-31T15:07:29.798Z
+  text: "PAN PAN Roslare CG: person rescued, PAN PAN canceled"
+  author: bergie
+  position:
+    longitude: -6.2283486
+    latitude: 50.1397435
+    source: GPS
+  heading: 196
+  course: 203
+  speed:
+    stw: 4.7
+    sog: 5.3
+  log: 5763.5
+  barometer: 1015.34
+  wind:
+    speed: 9.6
+    direction: 309
+  engine:
+    hours: 827.9
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: radio
