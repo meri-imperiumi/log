@@ -714,3 +714,100 @@
     - ihmis-suski
     - bergie
   category: radio
+- datetime: 2024-07-31T16:00:23.897Z
+  text: ""
+  author: ""
+  position:
+    longitude: -6.2784456
+    latitude: 50.0662935
+    source: GPS
+  heading: 199
+  course: 200
+  speed:
+    stw: 4.7
+    sog: 5.3
+  log: 5768.3
+  barometer: 1015.26
+  wind:
+    speed: 7
+    direction: 309
+  engine:
+    hours: 828.7
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: navigation
+- datetime: 2024-07-31T16:01:23.897Z
+  text: PAN PAN Roslare CG, kayaker overdue Kelgare beach
+  author: bergie
+  position:
+    longitude: -6.2793051
+    latitude: 50.0649028
+    source: GPS
+  heading: 195
+  course: 201
+  speed:
+    stw: 4.8
+    sog: 5.2
+  log: 5768.4
+  barometer: 1015.28
+  wind:
+    speed: 7.7
+    direction: 297
+  engine:
+    hours: 828.8
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: radio
+- datetime: 2024-07-31T16:17:19.897Z
+  text: "PAN PAN Roslare CG: missing kayaker has been located safe and well,
+    cancel PAN"
+  author: bergie
+  position:
+    longitude: -6.2915346
+    latitude: 50.0419956
+    source: GPS
+  heading: 191
+  course: 192
+  speed:
+    stw: 4.6
+    sog: 5.7
+  log: 5769.8
+  barometer: 1015.36
+  wind:
+    speed: 8.4
+    direction: 290
+  engine:
+    hours: 829
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: radio
+- datetime: 2024-07-31T16:50:48.902Z
+  text: Autopilot deactivated
+  author: ""
+  position:
+    longitude: -6.3131601
+    latitude: 49.9939873
+    source: GPS
+  heading: 190
+  course: 190
+  speed:
+    stw: 4.7
+    sog: 5.2
+  log: 5772.8
+  barometer: 1015.25
+  wind:
+    speed: 8.3
+    direction: 299
+  engine:
+    hours: 829.6
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: navigation
