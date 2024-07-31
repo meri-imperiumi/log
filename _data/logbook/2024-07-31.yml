@@ -543,3 +543,53 @@
     seaState: 3
     cloudCoverage: 5
     visibility: 7
+- datetime: 2024-07-31T13:00:35.801Z
+  text: Motor stopped, sailing with Genoa 1, Staysail. Trying the classic twin
+    headsail poled out trade wind setup
+  author: bergie
+  position:
+    longitude: -6.1684685
+    latitude: 50.2837301
+    source: GPS
+  heading: 198
+  course: 199
+  speed:
+    stw: 2.4
+    sog: 2.5
+  log: 196
+  barometer: 1015.72
+  wind:
+    speed: 5.9
+    direction: 330
+  engine:
+    hours: 826.4
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: navigation
+- datetime: 2024-07-31T13:41:14.800Z
+  text: Sails down, motoring. Not quite enough wind to keep that setup stable in
+    the swell
+  author: bergie
+  position:
+    longitude: -6.172348
+    latitude: 50.2547959
+    source: GPS
+  heading: 191
+  course: 213
+  speed:
+    stw: 1.9
+    sog: 2.5
+  log: 5756.2
+  barometer: 1015.45
+  wind:
+    speed: 7.6
+    direction: 346
+  engine:
+    hours: 826.4
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: navigation
