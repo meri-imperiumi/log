@@ -117,3 +117,56 @@
   crewNames:
     - ihmis-suski
     - bergie
+  category: navigation
+- datetime: 2024-07-31T05:00:29.299Z
+  text: Seems sunrise took the wind away
+  author: bergie
+  position:
+    longitude: -6.1207985
+    latitude: 50.8613798
+    source: GPS
+  heading: 170
+  course: 188
+  speed:
+    stw: 3.2
+    sog: 3.6
+  log: 5719
+  barometer: 1016.77
+  wind:
+    speed: 8.2
+    direction: 328
+  engine:
+    hours: 825.1
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: navigation
+- datetime: 2024-07-31T05:52:30.300Z
+  text: Wind is back, but so is some rain
+  author: bergie
+  position:
+    longitude: -6.1212173
+    latitude: 50.7966199
+    source: GPS
+  heading: 164
+  course: 176
+  speed:
+    stw: 4.8
+    sog: 4.5
+  log: 5723.1
+  barometer: 1016.32
+  wind:
+    speed: 11.8
+    direction: 9
+  engine:
+    hours: 825.1
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: navigation
+  observations:
+    cloudCoverage: 6
+    seaState: 3
+    visibility: 7
