@@ -23,7 +23,7 @@
     - bergie
   category: navigation
 - datetime: 2024-07-31T01:00:25.300Z
-  text: Bergie on watch, Suski to bed. Shooting stats above
+  text: Bergie on watch, Suski to bed. Shooting stars above
   author: bergie
   position:
     longitude: -6.1352736
@@ -170,3 +170,51 @@
     cloudCoverage: 6
     seaState: 3
     visibility: 7
+- datetime: 2024-07-31T06:00:30.300Z
+  text: ""
+  author: ""
+  position:
+    longitude: -6.1219571
+    latitude: 50.7858871
+    source: GPS
+  heading: 179
+  course: 179
+  speed:
+    stw: 4.4
+    sog: 5
+  log: 5723.7
+  barometer: 1016.29
+  wind:
+    speed: 11.6
+    direction: 344
+  engine:
+    hours: 825.1
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: navigation
+- datetime: 2024-07-31T06:07:30.300Z
+  text: Couple of dolphins in the bow wave!
+  author: bergie
+  position:
+    longitude: -6.1234516
+    latitude: 50.7770486
+    source: GPS
+  heading: 178
+  course: 183
+  speed:
+    stw: 4.1
+    sog: 4.2
+  log: 5724.3
+  barometer: 1016.33
+  wind:
+    speed: 11.6
+    direction: 17
+  engine:
+    hours: 825.1
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: navigation
