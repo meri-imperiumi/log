@@ -19,5 +19,6 @@ countries-sailed:
   - Scotland
   - IM
   - IE
+  - UK
 ---
 Starbuck is a [WindPilot Pacific](https://windpilot.com/n/wind/en/prod/paci/) self-steering windvane bought in February 2023 from Hamburg. The windvane steers us when we're sailing offshore.
