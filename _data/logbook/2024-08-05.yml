@@ -284,3 +284,31 @@
     - ihmis-suski
     - bergie
   category: navigation
+- datetime: 2024-08-05T22:00:15.603Z
+  text: 400NM to go says Orca. Getting to the NW corner of the south Scilly TSS
+  author: bergie
+  position:
+    longitude: -6.3650058
+    latitude: 49.8273045
+    source: GPS
+  heading: 225
+  course: 225
+  speed:
+    stw: 4.3
+    sog: 6.7
+  log: 5790.3
+  barometer: 1008.55
+  wind:
+    speed: 11.6
+    direction: 294
+  engine:
+    hours: 832
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: navigation
+  observations:
+    cloudCoverage: 4
+    seaState: 4
+    visibility: 7
