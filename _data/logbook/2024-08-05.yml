@@ -186,3 +186,101 @@
     - ihmis-suski
     - bergie
   category: navigation
+- datetime: 2024-08-05T21:00:17.600Z
+  text: ""
+  author: ""
+  position:
+    longitude: -6.2858325
+    latitude: 49.8840204
+    source: GPS
+  heading: 212
+  course: 229
+  speed:
+    stw: 2.5
+    sog: 4.3
+  log: 5785.7
+  barometer: 1008.16
+  wind:
+    speed: 10.7
+    direction: 273
+  engine:
+    hours: 832
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: navigation
+- datetime: 2024-08-05T21:24:26.598Z
+  text: "Sails set: Main, Genoa 1"
+  author: ""
+  position:
+    longitude: -6.3095271
+    latitude: 49.8642548
+    source: GPS
+  heading: 218
+  course: 220
+  speed:
+    stw: 4.5
+    sog: 6.4
+  log: 5787.2
+  barometer: 1007.8
+  wind:
+    speed: 11.5
+    direction: 268
+  engine:
+    hours: 832
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: navigation
+- datetime: 2024-08-05T21:28:16.601Z
+  text: PAN PAN Falmouth,  Mr Dya cancel PAN PAN, engine failure 7stones light,
+    now towed by lifeboat
+  author: bergie
+  position:
+    longitude: -6.3154451
+    latitude: 49.8598006
+    source: GPS
+  heading: 221
+  course: 215
+  speed:
+    stw: 3.2
+    sog: 4.1
+  log: 5787.5
+  barometer: 1007.88
+  wind:
+    speed: 10.9
+    direction: 262
+  engine:
+    hours: 832
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: radio
+- datetime: 2024-08-05T21:52:15.699Z
+  text: 2kt current helping us along.  Sadly also making the Atlantic swell quite
+    steep, as we slam into it
+  author: bergie
+  position:
+    longitude: -6.3527173
+    latitude: 49.8353428
+    source: GPS
+  heading: 228
+  course: 216
+  speed:
+    stw: 4
+    sog: 4.6
+  log: 5789.6
+  barometer: 1008.52
+  wind:
+    speed: 12.5
+    direction: 294
+  engine:
+    hours: 832
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: navigation
