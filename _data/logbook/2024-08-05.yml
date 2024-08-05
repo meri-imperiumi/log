@@ -85,3 +85,104 @@
   crewNames:
     - ihmis-suski
     - bergie
+  category: navigation
+- datetime: 2024-08-05T20:00:18.598Z
+  text: ""
+  author: ""
+  position:
+    longitude: -6.234707
+    latitude: 49.9655161
+    source: GPS
+  heading: 146
+  course: 157
+  speed:
+    stw: 4.6
+    sog: 7.3
+  log: 5780
+  barometer: 1009.5
+  wind:
+    speed: 14.1
+    direction: 231
+  engine:
+    hours: 831.3
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: navigation
+- datetime: 2024-08-05T20:28:18.598Z
+  text: Rounding the Scilly Isles.
+  author: ihmis-suski
+  position:
+    longitude: -6.2423791
+    latitude: 49.9204248
+    source: GPS
+  heading: 205
+  course: 226
+  speed:
+    stw: 3.6
+    sog: 5.8
+  log: 5782.9
+  barometer: 1007.99
+  wind:
+    speed: 8.1
+    direction: 275
+  engine:
+    hours: 831.8
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: navigation
+  observations:
+    seaState: 4
+    cloudCoverage: 8
+    visibility: 5
+- datetime: 2024-08-05T20:36:51.596Z
+  text: Autopilot activated
+  author: ""
+  position:
+    longitude: -6.253916660944621
+    latitude: 49.90912399291992
+    source: GPS
+  heading: 220
+  course: 218
+  speed:
+    stw: 3.9
+    sog: 6.2
+  log: 5783.7
+  barometer: 1008.67
+  wind:
+    speed: 11.2
+    direction: 279
+  engine:
+    hours: 831.9
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: navigation
+- datetime: 2024-08-05T20:43:38.598Z
+  text: Motor stopped, sailing with Main (1st reef), Staysail
+  author: ""
+  position:
+    longitude: -6.2658291
+    latitude: 49.9014558
+    source: GPS
+  heading: 219
+  course: 227
+  speed:
+    stw: 3.6
+    sog: 4.7
+  log: 5784.4
+  barometer: 1008.99
+  wind:
+    speed: 11.6
+    direction: 281
+  engine:
+    hours: 832
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: navigation
