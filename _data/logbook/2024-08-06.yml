@@ -867,8 +867,9 @@
     - bergie
   category: navigation
 - datetime: 2024-08-06T20:58:10.803Z
-  text: "Sails set: Main (1st reef), Staysail"
-  author: ""
+  text: "Sails set: Main (1st reef), Staysail. I dont like the look of the cloud
+    approaching us."
+  author: bergie
   position:
     longitude: -7.1770476
     latitude: 48.1425183
@@ -883,6 +884,30 @@
   wind:
     speed: 18.6
     direction: 267
+  engine:
+    hours: 832
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: navigation
+- datetime: 2024-08-06T21:00:10.803Z
+  text: ""
+  author: ""
+  position:
+    longitude: -7.1764663
+    latitude: 48.1389816
+    source: GPS
+  heading: 166
+  course: 171
+  speed:
+    stw: 5.2
+    sog: 5.7
+  log: 5899.8
+  barometer: 1016.1
+  wind:
+    speed: 15.2
+    direction: 240
   engine:
     hours: 832
   vhf: "16"
