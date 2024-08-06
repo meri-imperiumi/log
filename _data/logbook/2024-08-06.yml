@@ -147,3 +147,80 @@
     - ihmis-suski
     - bergie
   category: navigation
+- datetime: 2024-08-06T03:00:07.700Z
+  text: ""
+  author: ""
+  position:
+    longitude: -6.7255388
+    latitude: 49.5399969
+    source: GPS
+  heading: 191
+  course: 186
+  speed:
+    stw: 4.3
+    sog: 3.4
+  log: 5812.9
+  barometer: 1011.3
+  wind:
+    speed: 15.2
+    direction: 249
+  engine:
+    hours: 832
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: navigation
+- datetime: 2024-08-06T03:16:07.700Z
+  text: A proper big shooting star!
+  author: ihmis-suski
+  position:
+    longitude: -6.7341761
+    latitude: 49.5234805
+    source: GPS
+  heading: 197
+  course: 186
+  speed:
+    stw: 4.8
+    sog: 3.5
+  log: 5813.9
+  barometer: 1011.28
+  wind:
+    speed: 13.4
+    direction: 269
+  engine:
+    hours: 832
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: navigation
+- datetime: 2024-08-06T03:25:06.700Z
+  text: Slowly I'm able to tell where the horizon goes in the east. Maybe the sun
+    will rise also today.
+  author: ihmis-suski
+  position:
+    longitude: -6.7382333
+    latitude: 49.5153796
+    source: GPS
+  heading: 198
+  course: 208
+  speed:
+    stw: 4.3
+    sog: 3.7
+  log: 5814.4
+  barometer: 1011.26
+  wind:
+    speed: 14.2
+    direction: 259
+  engine:
+    hours: 832
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: navigation
+  observations:
+    cloudCoverage: 3
+    seaState: 3
+    visibility: 8
