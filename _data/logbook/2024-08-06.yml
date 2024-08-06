@@ -693,3 +693,52 @@
   crewNames:
     - ihmis-suski
     - bergie
+  category: navigation
+- datetime: 2024-08-06T18:00:15.801Z
+  text: ""
+  author: ""
+  position:
+    longitude: -7.1319188
+    latitude: 48.4222561
+    source: GPS
+  heading: 200
+  course: 195
+  speed:
+    stw: 5.2
+    sog: 4.1
+  log: 5882.5
+  barometer: 1014.52
+  wind:
+    speed: 15.6
+    direction: 250
+  engine:
+    hours: 832
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: navigation
+- datetime: 2024-08-06T18:07:16.800Z
+  text: Bilge alarm, pumped bilge. Salty, but can come from deck too
+  author: bergie
+  position:
+    longitude: -7.1368159
+    latitude: 48.4136746
+    source: GPS
+  heading: 221
+  course: 198
+  speed:
+    stw: 5.4
+    sog: 4.5
+  log: 5883
+  barometer: 1014.67
+  wind:
+    speed: 20.7
+    direction: 284
+  engine:
+    hours: 832
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: maintenance
