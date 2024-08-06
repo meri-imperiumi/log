@@ -548,3 +548,53 @@
     seaState: 4
     cloudCoverage: 2
     visibility: 8
+- datetime: 2024-08-06T13:00:12.800Z
+  text: ""
+  author: ""
+  position:
+    longitude: -7.0387984
+    latitude: 48.7822301
+    source: GPS
+  heading: 177
+  course: 175
+  speed:
+    stw: 5.7
+    sog: 5.9
+  log: 5860.3
+  barometer: 1014.13
+  wind:
+    speed: 15.8
+    direction: 247
+  engine:
+    hours: 832
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: navigation
+- datetime: 2024-08-06T13:56:13.798Z
+  text: >
+    Front ratchet for Isosaari had slipped. Re-attached it. Now soaking wet. It
+    is splashy in tye bow.
+  author: ihmis-suski
+  position:
+    longitude: -7.0483173
+    latitude: 48.7043981
+    source: GPS
+  heading: 183
+  course: 174
+  speed:
+    stw: 5.4
+    sog: 5.7
+  log: 5865
+  barometer: 1014.3
+  wind:
+    speed: 18.9
+    direction: 241
+  engine:
+    hours: 832
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: navigation
