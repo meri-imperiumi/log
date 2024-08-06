@@ -300,3 +300,51 @@
     seaState: 4
     cloudCoverage: 2
     visibility: 8
+- datetime: 2024-08-06T07:00:06.700Z
+  text: ""
+  author: ""
+  position:
+    longitude: -6.8415278
+    latitude: 49.2969651
+    source: GPS
+  heading: 206
+  course: 194
+  speed:
+    stw: 4.2
+    sog: 4.1
+  log: 5828.2
+  barometer: 1012.02
+  wind:
+    speed: 11.4
+    direction: 266
+  engine:
+    hours: 832
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: navigation
+- datetime: 2024-08-06T07:28:52.700Z
+  text: "Sails set: Main, Genoa 1"
+  author: ""
+  position:
+    longitude: -6.8460128
+    latitude: 49.2711696
+    source: GPS
+  heading: 211
+  course: 195
+  speed:
+    stw: 3.4
+    sog: 2.9
+  log: 5829.8
+  barometer: 1012.26
+  wind:
+    speed: 11.5
+    direction: 246
+  engine:
+    hours: 832
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: navigation
