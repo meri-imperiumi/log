@@ -472,3 +472,27 @@
     seaState: 4
     cloudCoverage: 7
     visibility: 8
+- datetime: 2024-08-06T11:14:10.700Z
+  text: Splash splash splash, current against wind!
+  author: bergie
+  position:
+    longitude: -6.9702564
+    latitude: 48.9372923
+    source: GPS
+  heading: 193
+  course: 191
+  speed:
+    stw: 4.9
+    sog: 5.7
+  log: 5850.5
+  barometer: 1013.61
+  wind:
+    speed: 17.5
+    direction: 241
+  engine:
+    hours: 832
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: navigation
