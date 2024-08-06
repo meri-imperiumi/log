@@ -695,8 +695,8 @@
     - bergie
   category: navigation
 - datetime: 2024-08-06T18:00:15.801Z
-  text: ""
-  author: ""
+  text: Bergie on watch
+  author: bergie
   position:
     longitude: -7.1319188
     latitude: 48.4222561
@@ -742,3 +742,51 @@
     - ihmis-suski
     - bergie
   category: maintenance
+- datetime: 2024-08-06T18:39:09.798Z
+  text: Starlink took 1h to connect, but did its job
+  author: bergie
+  position:
+    longitude: -7.1485669
+    latitude: 48.3723134
+    source: GPS
+  heading: 181
+  course: 189
+  speed:
+    stw: 5.3
+    sog: 5.2
+  log: 5885.6
+  barometer: 1014.89
+  wind:
+    speed: 15.9
+    direction: 244
+  engine:
+    hours: 832
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: maintenance
+- datetime: 2024-08-06T18:58:10.803Z
+  text: A dolphin swam by, but looks like just one
+  author: bergie
+  position:
+    longitude: -7.1521029
+    latitude: 48.3419956
+    source: GPS
+  heading: 190
+  course: 203
+  speed:
+    stw: 5.2
+    sog: 5.5
+  log: 5887.5
+  barometer: 1014.93
+  wind:
+    speed: 16.5
+    direction: 253
+  engine:
+    hours: 832
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: navigation
