@@ -818,3 +818,75 @@
     seaState: 4
     cloudCoverage: 4
     visibility: 8
+- datetime: 2024-08-06T20:00:10.803Z
+  text: ""
+  author: ""
+  position:
+    longitude: -7.1611498
+    latitude: 48.2433961
+    source: GPS
+  heading: 185
+  course: 184
+  speed:
+    stw: 5.3
+    sog: 5.9
+  log: 5893.4
+  barometer: 1015.4
+  wind:
+    speed: 17.1
+    direction: 254
+  engine:
+    hours: 832
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: navigation
+- datetime: 2024-08-06T20:28:10.803Z
+  text: 300NM to go. Now we're more south than Brest. Sea feels slightly mellower now
+  author: bergie
+  position:
+    longitude: -7.1682946
+    latitude: 48.1953238
+    source: GPS
+  heading: 176
+  course: 190
+  speed:
+    stw: 5.3
+    sog: 6.3
+  log: 5896.3
+  barometer: 1015.8
+  wind:
+    speed: 16
+    direction: 251
+  engine:
+    hours: 832
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: navigation
+- datetime: 2024-08-06T20:58:10.803Z
+  text: "Sails set: Main (1st reef), Staysail"
+  author: ""
+  position:
+    longitude: -7.1770476
+    latitude: 48.1425183
+    source: GPS
+  heading: 175
+  course: 183
+  speed:
+    stw: 5
+    sog: 7
+  log: 5899.5
+  barometer: 1016.09
+  wind:
+    speed: 18.6
+    direction: 267
+  engine:
+    hours: 832
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: navigation
