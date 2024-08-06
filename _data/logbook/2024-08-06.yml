@@ -496,3 +496,55 @@
     - ihmis-suski
     - bergie
   category: navigation
+- datetime: 2024-08-06T12:00:11.699Z
+  text: ""
+  author: ""
+  position:
+    longitude: -7.0106715
+    latitude: 48.8704619
+    source: GPS
+  heading: 201
+  course: 203
+  speed:
+    stw: 5
+    sog: 5.2
+  log: 5854.8
+  barometer: 1013.82
+  wind:
+    speed: 20.9
+    direction: 256
+  engine:
+    hours: 832
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: navigation
+- datetime: 2024-08-06T12:02:11.699Z
+  text: Bergie to bed, Suski on watch.
+  author: ihmis-suski
+  position:
+    longitude: -7.012591
+    latitude: 48.8678276
+    source: GPS
+  heading: 199
+  course: 213
+  speed:
+    stw: 4.9
+    sog: 5.1
+  log: 5855
+  barometer: 1013.85
+  wind:
+    speed: 19.8
+    direction: 240
+  engine:
+    hours: 832
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: navigation
+  observations:
+    seaState: 4
+    cloudCoverage: 2
+    visibility: 8
