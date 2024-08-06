@@ -312,3 +312,80 @@
     cloudCoverage: 4
     seaState: 4
     visibility: 7
+- datetime: 2024-08-05T23:00:14.700Z
+  text: ""
+  author: ""
+  position:
+    longitude: -6.4733299
+    latitude: 49.7668586
+    source: GPS
+  heading: 247
+  course: 227
+  speed:
+    stw: 3.8
+    sog: 5.4
+  log: 5795.9
+  barometer: 1011.8
+  wind:
+    speed: 10
+    direction: 286
+  engine:
+    hours: 832
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: navigation
+- datetime: 2024-08-05T23:33:13.702Z
+  text: Going feels a lot smoother with the swell on the beam instead of on the
+    nose. Nice starry sky now
+  author: bergie
+  position:
+    longitude: -6.5266278
+    latitude: 49.7399398
+    source: GPS
+  heading: 221
+  course: 228
+  speed:
+    stw: 4.9
+    sog: 5.3
+  log: 5798.5
+  barometer: 1011.94
+  wind:
+    speed: 12
+    direction: 272
+  engine:
+    hours: 832
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: navigation
+  observations:
+    seaState: 4
+    cloudCoverage: 1
+    visibility: 7
+- datetime: 2024-08-05T23:54:13.702Z
+  text: Out of UK territorial waters
+  author: bergie
+  position:
+    longitude: -6.5571916
+    latitude: 49.7147938
+    source: GPS
+  heading: 207
+  course: 219
+  speed:
+    stw: 3.9
+    sog: 4.1
+  log: 5800.4
+  barometer: 1011.91
+  wind:
+    speed: 11.3
+    direction: 274
+  engine:
+    hours: 832
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: navigation
