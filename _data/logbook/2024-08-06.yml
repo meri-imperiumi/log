@@ -52,3 +52,26 @@
     seaState: 3
     cloudCoverage: 2
     visibility: 8
+- datetime: 2024-08-06T01:00:10.700Z
+  text: ""
+  author: ""
+  position:
+    longitude: -6.6218011
+    latitude: 49.6599858
+    source: GPS
+  heading: 204
+  course: 220
+  speed:
+    stw: 4.3
+    sog: 3.2
+  log: 5804.6
+  barometer: 1011.92
+  wind:
+    speed: 11.2
+    direction: 265
+  engine:
+    hours: 832
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
