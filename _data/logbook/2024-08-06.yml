@@ -575,7 +575,7 @@
 - datetime: 2024-08-06T13:56:13.798Z
   text: >
     Front ratchet for Isosaari had slipped. Re-attached it. Now soaking wet. It
-    is splashy in tye bow.
+    is splashy in the bow.
   author: ihmis-suski
   position:
     longitude: -7.0483173
@@ -591,6 +591,30 @@
   wind:
     speed: 18.9
     direction: 241
+  engine:
+    hours: 832
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: navigation
+- datetime: 2024-08-06T14:00:13.798Z
+  text: ""
+  author: ""
+  position:
+    longitude: -7.0502786
+    latitude: 48.6994453
+    source: GPS
+  heading: 190
+  course: 211
+  speed:
+    stw: 4.7
+    sog: 4.1
+  log: 5865.3
+  barometer: 1014.3
+  wind:
+    speed: 20.4
+    direction: 233
   engine:
     hours: 832
   vhf: "16"
