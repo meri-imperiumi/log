@@ -1,0 +1,54 @@
+- datetime: 2024-08-06T00:00:12.700Z
+  text: ""
+  author: ""
+  position:
+    longitude: -6.5633531
+    latitude: 49.7090933
+    source: GPS
+  heading: 202
+  course: 200
+  speed:
+    stw: 2.6
+    sog: 2.7
+  log: 5800.8
+  barometer: 1011.87
+  wind:
+    speed: 8.6
+    direction: 289
+  engine:
+    hours: 832
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: navigation
+- datetime: 2024-08-06T00:54:11.700Z
+  text: "Dealing with slight nausea after your off watch is tricky when there is
+    no clear horizon and your brain hasn't decided if it's the stars or the boat
+    that should be moving. "
+  author: ihmis-suski
+  position:
+    longitude: -6.6148353
+    latitude: 49.6657393
+    source: GPS
+  heading: 208
+  course: 232
+  speed:
+    stw: 3.4
+    sog: 3.6
+  log: 5804.1
+  barometer: 1011.94
+  wind:
+    speed: 10.3
+    direction: 284
+  engine:
+    hours: 832
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: navigation
+  observations:
+    seaState: 3
+    cloudCoverage: 2
+    visibility: 8
