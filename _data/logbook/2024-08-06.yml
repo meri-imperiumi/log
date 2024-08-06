@@ -348,3 +348,51 @@
     - ihmis-suski
     - bergie
   category: navigation
+- datetime: 2024-08-06T08:00:07.699Z
+  text: About 100NM to go to the continental shelf
+  author: bergie
+  position:
+    longitude: -6.8527848
+    latitude: 49.2335538
+    source: GPS
+  heading: 201
+  course: 184
+  speed:
+    stw: 4.7
+    sog: 5.8
+  log: 5832.1
+  barometer: 1012.35
+  wind:
+    speed: 11.1
+    direction: 257
+  engine:
+    hours: 832
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: navigation
+- datetime: 2024-08-06T08:44:08.700Z
+  text: "Sails set: Main, Staysail"
+  author: ""
+  position:
+    longitude: -6.8693483
+    latitude: 49.1675875
+    source: GPS
+  heading: 198
+  course: 194
+  speed:
+    stw: 3.7
+    sog: 4.8
+  log: 5836.1
+  barometer: 1012.71
+  wind:
+    speed: 14.1
+    direction: 245
+  engine:
+    hours: 832
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: navigation
