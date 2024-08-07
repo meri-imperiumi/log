@@ -691,3 +691,56 @@
   crewNames:
     - ihmis-suski
     - bergie
+  category: navigation
+- datetime: 2024-08-07T12:00:24.300Z
+  text: ""
+  author: ""
+  position:
+    longitude: -7.473657
+    latitude: 47.1675163
+    source: GPS
+  heading: 202
+  course: 176
+  speed:
+    stw: 4.5
+    sog: 5.4
+  log: 5960.9
+  barometer: 1018.87
+  wind:
+    speed: 10.9
+    direction: 243
+  engine:
+    hours: 832
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: navigation
+- datetime: 2024-08-07T12:01:24.300Z
+  text: Watch change. Suski on duty.
+  author: ihmis-suski
+  position:
+    longitude: -7.4738211
+    latitude: 47.1663171
+    source: GPS
+  heading: 195
+  course: 191
+  speed:
+    stw: 4.5
+    sog: 4
+  log: 5961
+  barometer: 1018.84
+  wind:
+    speed: 11.9
+    direction: 247
+  engine:
+    hours: 832
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: navigation
+  observations:
+    seaState: 4
+    cloudCoverage: 2
+    visibility: 8
