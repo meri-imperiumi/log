@@ -224,3 +224,124 @@
     - ihmis-suski
     - bergie
   category: navigation
+- datetime: 2024-08-07T03:00:16.800Z
+  text: ""
+  author: ""
+  position:
+    longitude: -7.2508004
+    latitude: 47.6945599
+    source: GPS
+  heading: 177
+  course: 164
+  speed:
+    stw: 4.5
+    sog: 2.9
+  log: 5927.2
+  barometer: 1016.15
+  wind:
+    speed: 7.9
+    direction: 260
+  engine:
+    hours: 832
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: navigation
+- datetime: 2024-08-07T03:03:18.800Z
+  text: "Sails set: Main, Genoa 1"
+  author: ""
+  position:
+    longitude: -7.2505605
+    latitude: 47.6922121
+    source: GPS
+  heading: 188
+  course: 191
+  speed:
+    stw: 4.8
+    sog: 3.1
+  log: 5927.3
+  barometer: 1016.13
+  wind:
+    speed: 11.3
+    direction: 248
+  engine:
+    hours: 832
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: navigation
+- datetime: 2024-08-07T03:04:16.800Z
+  text: Securite  (weather) in french. Pretty much garbled mess so far out.
+  author: ihmis-suski
+  position:
+    longitude: -7.250765005747478
+    latitude: 47.69132086435954
+    source: GPS
+  heading: 191
+  course: 209
+  speed:
+    stw: 4.9
+    sog: 3.1
+  log: 5927.4
+  barometer: 1016.18
+  wind:
+    speed: 11
+    direction: 239
+  engine:
+    hours: 832
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: radio
+- datetime: 2024-08-07T03:17:33.800Z
+  text: "Sails set: Main, Genoa 1 (30% furled)"
+  author: ""
+  position:
+    longitude: -7.2595589
+    latitude: 47.6802244
+    source: GPS
+  heading: 194
+  course: 206
+  speed:
+    stw: 4.9
+    sog: 3.9
+  log: 5928.2
+  barometer: 1016.05
+  wind:
+    speed: 14.5
+    direction: 284
+  engine:
+    hours: 832
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: navigation
+- datetime: 2024-08-07T03:38:16.800Z
+  text: Arrived to the edge of the continental shelf. Lumpy sea state is back.
+    Also a lot of fishing boats to our starboard.
+  author: ihmis-suski
+  position:
+    longitude: -7.2706493
+    latitude: 47.6578101
+    source: GPS
+  heading: 188
+  course: 216
+  speed:
+    stw: 4.9
+    sog: 3.5
+  log: 5929.6
+  barometer: 1016.08
+  wind:
+    speed: 17.1
+    direction: 279
+  engine:
+    hours: 832
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: navigation
