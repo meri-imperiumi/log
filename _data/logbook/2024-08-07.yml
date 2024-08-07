@@ -1020,3 +1020,51 @@
     seaState: 4
     cloudCoverage: 1
     visibility: 8
+- datetime: 2024-08-07T21:00:21.401Z
+  text: ""
+  author: ""
+  position:
+    longitude: -7.6978314
+    latitude: 46.575439
+    source: GPS
+  heading: 169
+  course: 189
+  speed:
+    stw: 3.7
+    sog: 3
+  log: 5998.4
+  barometer: 1019.71
+  wind:
+    speed: 9
+    direction: 232
+  engine:
+    hours: 832
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: navigation
+- datetime: 2024-08-07T21:27:21.401Z
+  text: "Polaris between the aft stays, milky way overhead. And shooting stars "
+  author: bergie
+  position:
+    longitude: -7.6897834
+    latitude: 46.5484373
+    source: GPS
+  heading: 177
+  course: 156
+  speed:
+    stw: 4.4
+    sog: 5.1
+  log: 6000
+  barometer: 1019.77
+  wind:
+    speed: 7.8
+    direction: 219
+  engine:
+    hours: 832
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: navigation
