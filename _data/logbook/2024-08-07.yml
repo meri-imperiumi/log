@@ -441,3 +441,80 @@
     - ihmis-suski
     - bergie
   category: navigation
+- datetime: 2024-08-07T06:00:18.899Z
+  text: Bergie on watch. The huge Spanish fishing fleet to our starboard even
+    brought their own SAR. About to cross the main shipping lane
+  author: bergie
+  position:
+    longitude: -7.3107264
+    latitude: 47.5349386
+    source: GPS
+  heading: 212
+  course: 232
+  speed:
+    stw: 3
+    sog: 2.4
+  log: 5937.4
+  barometer: 1016.92
+  wind:
+    speed: 6.7
+    direction: 255
+  engine:
+    hours: 832
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: navigation
+  observations:
+    seaState: 4
+    cloudCoverage: 4
+    visibility: 8
+- datetime: 2024-08-07T06:45:18.899Z
+  text: Small pod of dolphins went by
+  author: bergie
+  position:
+    longitude: -7.314529832204184
+    latitude: 47.50642232894897
+    source: GPS
+  heading: 190
+  course: 182
+  speed:
+    stw: 3
+    sog: 3.8
+  log: 5939.1
+  barometer: 1016.91
+  wind:
+    speed: 6.9
+    direction: 234
+  engine:
+    hours: 832
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: navigation
+- datetime: 2024-08-07T06:57:07.900Z
+  text: Autopilot deactivated, windvane steering
+  author: bergie
+  position:
+    longitude: -7.3136159
+    latitude: 47.4993693
+    source: GPS
+  heading: 189
+  course: 176
+  speed:
+    stw: 4
+    sog: 3
+  log: 5939.6
+  barometer: 1016.97
+  wind:
+    speed: 9.5
+    direction: 231
+  engine:
+    hours: 832
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: navigation
