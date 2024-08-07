@@ -1,0 +1,49 @@
+- datetime: 2024-08-07T00:00:13.800Z
+  text: ""
+  author: ""
+  position:
+    longitude: -7.1958309
+    latitude: 47.8498838
+    source: GPS
+  heading: 167
+  course: 181
+  speed:
+    stw: 4.8
+    sog: 5.3
+  log: 5917.3
+  barometer: 1016.7
+  wind:
+    speed: 16.8
+    direction: 263
+  engine:
+    hours: 832
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: navigation
+- datetime: 2024-08-07T00:28:13.800Z
+  text: "The night is even darker tonight. New moon and clouds. Passing ships are
+    the only visible item outside Lille Ø "
+  author: ihmis-suski
+  position:
+    longitude: -7.1961893
+    latitude: 47.8135681
+    source: GPS
+  heading: 153
+  course: 153
+  speed:
+    stw: 4.4
+    sog: 3.8
+  log: 5919.5
+  barometer: 1016.64
+  wind:
+    speed: 12.8
+    direction: 228
+  engine:
+    hours: 832
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: navigation
