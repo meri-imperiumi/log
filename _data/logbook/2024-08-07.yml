@@ -967,3 +967,56 @@
     - ihmis-suski
     - bergie
   category: navigation
+- datetime: 2024-08-07T20:00:20.403Z
+  text: ""
+  author: ""
+  position:
+    longitude: -7.6996428
+    latitude: 46.6422831
+    source: GPS
+  heading: 194
+  course: 187
+  speed:
+    stw: 4.4
+    sog: 4.3
+  log: 5994.3
+  barometer: 1019.39
+  wind:
+    speed: 7.4
+    direction: 240
+  engine:
+    hours: 832
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: navigation
+- datetime: 2024-08-07T20:26:21.401Z
+  text: 200NM to go. Getting dark enough that I can distinguish the lights of
+    passing shipping
+  author: bergie
+  position:
+    longitude: -7.7027385
+    latitude: 46.6116849
+    source: GPS
+  heading: 172
+  course: 181
+  speed:
+    stw: 4.6
+    sog: 4.2
+  log: 5996.2
+  barometer: 1019.66
+  wind:
+    speed: 9.8
+    direction: 233
+  engine:
+    hours: 832
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: navigation
+  observations:
+    seaState: 4
+    cloudCoverage: 1
+    visibility: 8
