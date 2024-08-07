@@ -443,7 +443,7 @@
   category: navigation
 - datetime: 2024-08-07T06:00:18.899Z
   text: Bergie on watch. The huge Spanish fishing fleet to our starboard even
-    brought their own SAR. About to cross the main shipping lane
+    brought their own SAR
   author: bergie
   position:
     longitude: -7.3107264
@@ -511,6 +511,54 @@
   wind:
     speed: 9.5
     direction: 231
+  engine:
+    hours: 832
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: navigation
+- datetime: 2024-08-07T07:00:19.900Z
+  text: ""
+  author: ""
+  position:
+    longitude: -7.313312848409016
+    latitude: 47.49661782582601
+    source: GPS
+  heading: 195
+  course: 178
+  speed:
+    stw: 3.9
+    sog: 3.3
+  log: 5939.7
+  barometer: 1017.06
+  wind:
+    speed: 10.4
+    direction: 240
+  engine:
+    hours: 832
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: navigation
+- datetime: 2024-08-07T07:21:19.900Z
+  text: For the first time ever there is over 1000m of water under the keel
+  author: bergie
+  position:
+    longitude: -7.3248836
+    latitude: 47.4774774
+    source: GPS
+  heading: 217
+  course: 205
+  speed:
+    stw: 4.6
+    sog: 4.3
+  log: 5941
+  barometer: 1017.23
+  wind:
+    speed: 12.6
+    direction: 258
   engine:
     hours: 832
   vhf: "16"
