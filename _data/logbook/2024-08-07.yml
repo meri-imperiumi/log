@@ -47,3 +47,105 @@
     - ihmis-suski
     - bergie
   category: navigation
+- datetime: 2024-08-07T01:00:14.800Z
+  text: ""
+  author: ""
+  position:
+    longitude: -7.1995736
+    latitude: 47.7799474
+    source: GPS
+  heading: 181
+  course: 272
+  speed:
+    stw: 2.9
+    sog: 3.2
+  log: 5921.5
+  barometer: 1016.55
+  wind:
+    speed: 11.8
+    direction: 249
+  engine:
+    hours: 832
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: navigation
+- datetime: 2024-08-07T01:27:14.800Z
+  text: "Sky partially cleared. "
+  author: ihmis-suski
+  position:
+    longitude: -7.2137235
+    latitude: 47.7617708
+    source: GPS
+  heading: 203
+  course: 195
+  speed:
+    stw: 3.4
+    sog: 3.1
+  log: 5922.8
+  barometer: 1016.51
+  wind:
+    speed: 11.6
+    direction: 256
+  engine:
+    hours: 832
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: navigation
+  observations:
+    seaState: 3
+    cloudCoverage: 3
+    visibility: 7
+- datetime: 2024-08-07T01:37:15.800Z
+  text: Back to no stars.
+  author: ihmis-suski
+  position:
+    longitude: -7.2188048
+    latitude: 47.7560771
+    source: GPS
+  heading: 200
+  course: 233
+  speed:
+    stw: 3.1
+    sog: 2.2
+  log: 5923.2
+  barometer: 1016.43
+  wind:
+    speed: 10.2
+    direction: 269
+  engine:
+    hours: 832
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: navigation
+  observations:
+    cloudCoverage: 8
+- datetime: 2024-08-07T01:49:30.800Z
+  text: "Sails set: Main, Staysail. Let's see when I need to roll out the genoa"
+  author: ihmis-suski
+  position:
+    longitude: -7.2241638
+    latitude: 47.7495133
+    source: GPS
+  heading: 211
+  course: 220
+  speed:
+    stw: 3.2
+    sog: 2.9
+  log: 5923.6
+  barometer: 1016.39
+  wind:
+    speed: 9.2
+    direction: 253
+  engine:
+    hours: 832
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: navigation
