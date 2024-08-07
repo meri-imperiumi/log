@@ -590,3 +590,57 @@
     - ihmis-suski
     - bergie
   category: navigation
+- datetime: 2024-08-07T09:00:22.899Z
+  text: ""
+  author: ""
+  position:
+    longitude: -7.387515
+    latitude: 47.3616748
+    source: GPS
+  heading: 196
+  course: 200
+  speed:
+    stw: 4
+    sog: 3.4
+  log: 5948.5
+  barometer: 1018.23
+  wind:
+    speed: 8.6
+    direction: 241
+  engine:
+    hours: 832
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: navigation
+- datetime: 2024-08-07T09:39:22.899Z
+  text: "This is a slight taste of ocean sailing: windvane steers, there is
+    nothing near us, water is deep, the swell big but a gentle up-a-hill,
+    down-a-hill. And, it is warm!"
+  author: bergie
+  position:
+    longitude: -7.4052521
+    latitude: 47.3301866
+    source: GPS
+  heading: 219
+  course: 213
+  speed:
+    stw: 3.4
+    sog: 3.3
+  log: 5950.6
+  barometer: 1018.59
+  wind:
+    speed: 8
+    direction: 262
+  engine:
+    hours: 832
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: navigation
+  observations:
+    cloudCoverage: 5
+    seaState: 4
+    visibility: 8
