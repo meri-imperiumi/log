@@ -863,3 +863,58 @@
   crewNames:
     - ihmis-suski
     - bergie
+  category: navigation
+- datetime: 2024-08-07T18:00:19.398Z
+  text: Bergie on watch
+  author: bergie
+  position:
+    longitude: -7.6328226
+    latitude: 46.7790968
+    source: GPS
+  heading: 207
+  course: 196
+  speed:
+    stw: 4.2
+    sog: 4.2
+  log: 5985.6
+  barometer: 1018.63
+  wind:
+    speed: 9.3
+    direction: 247
+  engine:
+    hours: 832
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: navigation
+  observations:
+    seaState: 4
+    cloudCoverage: 2
+    visibility: 8
+- datetime: 2024-08-07T18:41:20.396Z
+  text: |-
+    Pumped the bilge. Electric can't quite reach the bottom.
+    There is also a weird new creak at the mast
+  author: bergie
+  position:
+    longitude: -7.658889516194662
+    latitude: 46.73429851531982
+    source: GPS
+  heading: 202
+  course: 201
+  speed:
+    stw: 4.3
+    sog: 4.5
+  log: 5988.5
+  barometer: 1019.09
+  wind:
+    speed: 7.3
+    direction: 230
+  engine:
+    hours: 832
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: maintenance
