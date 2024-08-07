@@ -126,7 +126,9 @@
   observations:
     cloudCoverage: 8
 - datetime: 2024-08-07T01:49:30.800Z
-  text: "Sails set: Main, Staysail. Let's see when I need to roll out the genoa"
+  text: "Sails set: Main, Staysail. Let's see when I need to roll out the genoa.
+    Prepping for this change found first dead fish on the deck. Long an narrow,
+    very much dead as it was already stiff."
   author: ihmis-suski
   position:
     longitude: -7.2241638
@@ -142,6 +144,79 @@
   wind:
     speed: 9.2
     direction: 253
+  engine:
+    hours: 832
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: navigation
+- datetime: 2024-08-07T02:00:15.800Z
+  text: ""
+  author: ""
+  position:
+    longitude: -7.2288975
+    latitude: 47.7437738
+    source: GPS
+  heading: 225
+  course: 235
+  speed:
+    stw: 0.8
+    sog: 0.8
+  log: 5924
+  barometer: 1016.42
+  wind:
+    speed: 7.9
+    direction: 255
+  engine:
+    hours: 832
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: navigation
+- datetime: 2024-08-07T02:03:43.800Z
+  text: "Sails set: Main, Genoa 1"
+  author: ""
+  position:
+    longitude: -7.2299858
+    latitude: 47.7424476
+    source: GPS
+  heading: 195
+  course: 180
+  speed:
+    stw: 3.6
+    sog: 3.4
+  log: 5924.1
+  barometer: 1016.4
+  wind:
+    speed: 10.4
+    direction: 264
+  engine:
+    hours: 832
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: navigation
+- datetime: 2024-08-07T02:43:32.800Z
+  text: "Sails set: Main, Genoa 1 (20% furled). Gust over 15 kn and a slight
+    drizzle in my face. "
+  author: ihmis-suski
+  position:
+    longitude: -7.2495659
+    latitude: 47.7095131
+    source: GPS
+  heading: 175
+  course: 178
+  speed:
+    stw: 4.8
+    sog: 3.1
+  log: 5926.3
+  barometer: 1016.22
+  wind:
+    speed: 9.9
+    direction: 252
   engine:
     hours: 832
   vhf: "16"
