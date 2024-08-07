@@ -918,3 +918,52 @@
     - ihmis-suski
     - bergie
   category: maintenance
+- datetime: 2024-08-07T19:00:20.403Z
+  text: ""
+  author: ""
+  position:
+    longitude: -7.6713553
+    latitude: 46.7128801
+    source: GPS
+  heading: 214
+  course: 210
+  speed:
+    stw: 4.6
+    sog: 5
+  log: 5989.9
+  barometer: 1019.19
+  wind:
+    speed: 7.4
+    direction: 240
+  engine:
+    hours: 832
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: navigation
+- datetime: 2024-08-07T19:15:20.396Z
+  text: We're now properly in the shipping lane. Tankers and freighters passing us
+    from both sides
+  author: bergie
+  position:
+    longitude: -7.6789786
+    latitude: 46.6959603
+    source: GPS
+  heading: 188
+  course: 178
+  speed:
+    stw: 4.2
+    sog: 4.7
+  log: 5990.9
+  barometer: 1019.32
+  wind:
+    speed: 8.8
+    direction: 245
+  engine:
+    hours: 832
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: navigation
