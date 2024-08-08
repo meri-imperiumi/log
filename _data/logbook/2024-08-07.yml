@@ -1116,3 +1116,55 @@
     - ihmis-suski
     - bergie
   category: navigation
+- datetime: 2024-08-07T23:00:22.796Z
+  text: ""
+  author: ""
+  position:
+    longitude: -7.6759058
+    latitude: 46.4438896
+    source: GPS
+  heading: 167
+  course: 160
+  speed:
+    stw: 4.5
+    sog: 5.7
+  log: 6006.4
+  barometer: 1019.81
+  wind:
+    speed: 8.7
+    direction: 206
+  engine:
+    hours: 832
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: navigation
+- datetime: 2024-08-07T23:35:22.803Z
+  text: Some clouds rolling in, but thankfully also wind
+  author: bergie
+  position:
+    longitude: -7.6812661
+    latitude: 46.402466
+    source: GPS
+  heading: 188
+  course: 193
+  speed:
+    stw: 4.7
+    sog: 5.4
+  log: 6008.9
+  barometer: 1019.79
+  wind:
+    speed: 11.5
+    direction: 226
+  engine:
+    hours: 832
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: navigation
+  observations:
+    seaState: 4
+    cloudCoverage: 4
+    visibility: 8
