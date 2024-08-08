@@ -569,3 +569,51 @@
     seaState: 4
     cloudCoverage: 2
     visibility: 9
+- datetime: 2024-08-08T14:00:33.299Z
+  text: ""
+  author: ""
+  position:
+    longitude: -7.5180199
+    latitude: 45.5272974
+    source: GPS
+  heading: 191
+  course: 188
+  speed:
+    stw: 3.6
+    sog: 3.5
+  log: 6063.4
+  barometer: 1021.06
+  wind:
+    speed: 7.1
+    direction: 259
+  engine:
+    hours: 832
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: navigation
+- datetime: 2024-08-08T14:43:33.401Z
+  text: Spanish weather forecast!
+  author: ihmis-suski
+  position:
+    longitude: -7.508815
+    latitude: 45.4892054
+    source: GPS
+  heading: 206
+  course: 205
+  speed:
+    stw: 2.4
+    sog: 1.5
+  log: 6065.8
+  barometer: 1020.77
+  wind:
+    speed: 6.3
+    direction: 234
+  engine:
+    hours: 832
+  vhf: "11"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: radio
