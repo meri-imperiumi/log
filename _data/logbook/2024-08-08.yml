@@ -764,3 +764,52 @@
   crewNames:
     - ihmis-suski
     - bergie
+  category: navigation
+- datetime: 2024-08-08T20:00:36.800Z
+  text: ""
+  author: ""
+  position:
+    longitude: -7.5097145
+    latitude: 45.2455735
+    source: GPS
+  heading: 178
+  course: 213
+  speed:
+    stw: 2.8
+    sog: 2.3
+  log: 6080.8
+  barometer: 1020.95
+  wind:
+    speed: 5.6
+    direction: 222
+  engine:
+    hours: 832
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: navigation
+- datetime: 2024-08-08T20:06:36.800Z
+  text: Two whales surfaced maybe 100m to our port side. Big ones!
+  author: bergie
+  position:
+    longitude: -7.5093778
+    latitude: 45.2420191
+    source: GPS
+  heading: 179
+  course: 161
+  speed:
+    stw: 2.5
+    sog: 3
+  log: 6081
+  barometer: 1021.04
+  wind:
+    speed: 5.8
+    direction: 213
+  engine:
+    hours: 832
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: navigation
