@@ -96,3 +96,53 @@
   crewNames:
     - ihmis-suski
     - bergie
+  category: navigation
+- datetime: 2024-08-08T02:00:24.800Z
+  text: Confirmed with Folegrandos that we go starboard -starboard
+  author: ihmis-suski
+  position:
+    longitude: -7.667027028401693
+    latitude: 46.23569266001383
+    source: GPS
+  heading: 134
+  course: 106
+  speed:
+    stw: 3.8
+    sog: 4.4
+  log: 6019.3
+  barometer: 1019.51
+  wind:
+    speed: 10.6
+    direction: 223
+  engine:
+    hours: 832
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: navigation
+- datetime: 2024-08-08T02:51:25.800Z
+  text: Difficult to get Starbuck to steer to a wind angle..the wind keeps going
+    between 7 and 12 knots, so adjustments needed.
+  author: ihmis-suski
+  position:
+    longitude: -7.654296684265136
+    latitude: 46.18914300600688
+    source: GPS
+  heading: 168
+  course: 151
+  speed:
+    stw: 3.7
+    sog: 3.1
+  log: 6022.2
+  barometer: 1019.26
+  wind:
+    speed: 6.7
+    direction: 213
+  engine:
+    hours: 832
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: navigation
