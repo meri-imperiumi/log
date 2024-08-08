@@ -1,0 +1,75 @@
+- datetime: 2024-08-08T00:00:22.800Z
+  text: ""
+  author: ""
+  position:
+    longitude: -7.687582
+    latitude: 46.3729278
+    source: GPS
+  heading: 191
+  course: 201
+  speed:
+    stw: 4.4
+    sog: 3.8
+  log: 6010.7
+  barometer: 1019.7
+  wind:
+    speed: 11.5
+    direction: 243
+  engine:
+    hours: 832
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: navigation
+- datetime: 2024-08-08T00:11:24.800Z
+  text: Watch change. Suski on duty.
+  author: ihmis-suski
+  position:
+    longitude: -7.689737
+    latitude: 46.3606161
+    source: GPS
+  heading: 189
+  course: 195
+  speed:
+    stw: 4.6
+    sog: 3.9
+  log: 6011.5
+  barometer: 1019.62
+  wind:
+    speed: 12
+    direction: 229
+  engine:
+    hours: 832
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: navigation
+  observations:
+    cloudCoverage: 3
+    visibility: 8
+- datetime: 2024-08-08T00:16:24.800Z
+  text: Shooting stars on the clear patch of sky.
+  author: ihmis-suski
+  position:
+    longitude: -7.6915013
+    latitude: 46.3549936
+    source: GPS
+  heading: 186
+  course: 195
+  speed:
+    stw: 5.1
+    sog: 4.8
+  log: 6011.8
+  barometer: 1019.63
+  wind:
+    speed: 11.3
+    direction: 227
+  engine:
+    hours: 832
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: navigation
