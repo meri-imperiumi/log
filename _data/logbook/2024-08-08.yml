@@ -146,3 +146,76 @@
     - ihmis-suski
     - bergie
   category: navigation
+- datetime: 2024-08-08T03:00:25.800Z
+  text: ""
+  author: ""
+  position:
+    longitude: -7.6524098
+    latitude: 46.1811958
+    source: GPS
+  heading: 191
+  course: 151
+  speed:
+    stw: 4.2
+    sog: 4.5
+  log: 6022.7
+  barometer: 1019.08
+  wind:
+    speed: 8.9
+    direction: 245
+  engine:
+    hours: 832
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: navigation
+- datetime: 2024-08-08T03:27:26.800Z
+  text: Orca lost the route and would only take it in on the nav-tablet. Would not
+    reset to route set on the phone.
+  author: ihmis-suski
+  position:
+    longitude: -7.6468409
+    latitude: 46.1572551
+    source: GPS
+  heading: 179
+  course: 206
+  speed:
+    stw: 4
+    sog: 2.1
+  log: 6024.2
+  barometer: 1018.87
+  wind:
+    speed: 9.3
+    direction: 227
+  engine:
+    hours: 832
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: maintenance
+- datetime: 2024-08-08T03:35:26.800Z
+  text: ISS flew over.
+  author: ihmis-suski
+  position:
+    longitude: -7.646270306905111
+    latitude: 46.15044199625651
+    source: GPS
+  heading: 188
+  course: 166
+  speed:
+    stw: 4.4
+    sog: 3.5
+  log: 6024.6
+  barometer: 1018.92
+  wind:
+    speed: 9.1
+    direction: 221
+  engine:
+    hours: 832
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: navigation
