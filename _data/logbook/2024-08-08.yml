@@ -345,3 +345,52 @@
     - ihmis-suski
     - bergie
   category: navigation
+- datetime: 2024-08-08T08:00:28.899Z
+  text: ""
+  author: ""
+  position:
+    longitude: -7.5332038
+    latitude: 45.9096794
+    source: GPS
+  heading: 200
+  course: 183
+  speed:
+    stw: 4.5
+    sog: 4.5
+  log: 6040
+  barometer: 1020.13
+  wind:
+    speed: 9.8
+    direction: 230
+  engine:
+    hours: 832
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: navigation
+- datetime: 2024-08-08T08:40:28.899Z
+  text: Sail in the horizon! Starboard of us, heading opposite direction. First
+    vessel without AIS we've seen since Scilly
+  author: bergie
+  position:
+    longitude: -7.5385585
+    latitude: 45.8660813
+    source: GPS
+  heading: 202
+  course: 200
+  speed:
+    stw: 4.8
+    sog: 4.8
+  log: 6042.6
+  barometer: 1020.39
+  wind:
+    speed: 9.5
+    direction: 240
+  engine:
+    hours: 832
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: navigation
