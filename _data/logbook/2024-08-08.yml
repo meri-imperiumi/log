@@ -120,7 +120,7 @@
   crewNames:
     - ihmis-suski
     - bergie
-  category: navigation
+  category: radio
 - datetime: 2024-08-08T02:51:25.800Z
   text: Difficult to get Starbuck to steer to a wind angle..the wind keeps going
     between 7 and 12 knots, so adjustments needed.
@@ -242,3 +242,28 @@
   crewNames:
     - ihmis-suski
     - bergie
+  category: navigation
+- datetime: 2024-08-08T05:00:26.800Z
+  text: ""
+  author: ""
+  position:
+    longitude: -7.6099008
+    latitude: 46.081422
+    source: GPS
+  heading: 174
+  course: 152
+  speed:
+    stw: 4
+    sog: 3.8
+  log: 6029.1
+  barometer: 1019.04
+  wind:
+    speed: 8.3
+    direction: 214
+  engine:
+    hours: 832
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: navigation
