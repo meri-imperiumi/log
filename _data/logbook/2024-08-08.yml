@@ -441,3 +441,54 @@
   crewNames:
     - ihmis-suski
     - bergie
+  category: navigation
+- datetime: 2024-08-08T11:00:31.299Z
+  text: All hands enjoyed a freshwater shower now that we're heeled less
+  author: bergie
+  position:
+    longitude: -7.5265689
+    latitude: 45.714679
+    source: GPS
+  heading: 180
+  course: 178
+  speed:
+    stw: 4.5
+    sog: 4.5
+  log: 6052
+  barometer: 1020.61
+  wind:
+    speed: 8.4
+    direction: 208
+  engine:
+    hours: 832
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: maintenance
+- datetime: 2024-08-08T11:07:31.299Z
+  text: "Very nice that both weather routers (Orca and LuckGrib) agree with the
+    course we had already taken: stay close reached on starboard tack until wind
+    dies, then punch through towards destination under engine"
+  author: bergie
+  position:
+    longitude: -7.5262951
+    latitude: 45.7073839
+    source: GPS
+  heading: 169
+  course: 169
+  speed:
+    stw: 3.7
+    sog: 4
+  log: 6052.5
+  barometer: 1020.64
+  wind:
+    speed: 8.6
+    direction: 221
+  engine:
+    hours: 832
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: navigation
