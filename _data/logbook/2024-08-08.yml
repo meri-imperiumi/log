@@ -813,3 +813,55 @@
     - ihmis-suski
     - bergie
   category: navigation
+- datetime: 2024-08-08T21:00:37.798Z
+  text: ""
+  author: ""
+  position:
+    longitude: -7.4992481
+    latitude: 45.2025773
+    source: GPS
+  heading: 175
+  course: 184
+  speed:
+    stw: 4.1
+    sog: 2.5
+  log: 6083.4
+  barometer: 1021.43
+  wind:
+    speed: 8.8
+    direction: 227
+  engine:
+    hours: 832
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: navigation
+- datetime: 2024-08-08T21:22:37.798Z
+  text: Surprisingly good wind, was supposed to die by now
+  author: bergie
+  position:
+    longitude: -7.4904291
+    latitude: 45.1850989
+    source: GPS
+  heading: 164
+  course: 153
+  speed:
+    stw: 3.9
+    sog: 3.9
+  log: 6084.5
+  barometer: 1021.62
+  wind:
+    speed: 9
+    direction: 208
+  engine:
+    hours: 832
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: navigation
+  observations:
+    seaState: 4
+    cloudCoverage: 0
+    visibility: 8
