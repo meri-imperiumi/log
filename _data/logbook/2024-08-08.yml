@@ -295,3 +295,53 @@
     seaState: 4
     cloudCoverage: 1
     visibility: 8
+- datetime: 2024-08-08T07:00:28.899Z
+  text: ""
+  author: ""
+  position:
+    longitude: -7.5652433
+    latitude: 45.9724571
+    source: GPS
+  heading: 172
+  course: 146
+  speed:
+    stw: 3.6
+    sog: 4.8
+  log: 6035.9
+  barometer: 1019.78
+  wind:
+    speed: 7.5
+    direction: 208
+  engine:
+    hours: 832
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: navigation
+- datetime: 2024-08-08T07:44:28.899Z
+  text: "This is a milestone, too: A Coruña is now closer (170NM) than Brest
+    (190NM). This means our closest diversion ports are now on the Spanish
+    peninsula east of Coruña,  at around 120NM "
+  author: bergie
+  position:
+    longitude: -7.5382041
+    latitude: 45.9267035
+    source: GPS
+  heading: 188
+  course: 167
+  speed:
+    stw: 4
+    sog: 4.3
+  log: 6038.9
+  barometer: 1020.04
+  wind:
+    speed: 6.7
+    direction: 220
+  engine:
+    hours: 832
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: navigation
