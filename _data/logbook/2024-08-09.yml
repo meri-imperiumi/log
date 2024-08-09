@@ -266,3 +266,56 @@
   crewNames:
     - ihmis-suski
     - bergie
+  category: navigation
+- datetime: 2024-08-09T06:00:43.900Z
+  text: Bergie on watch
+  author: bergie
+  position:
+    longitude: -7.6022718
+    latitude: 44.7056723
+    source: GPS
+  heading: 215
+  course: 210
+  speed:
+    stw: 4.4
+    sog: 5.1
+  log: 6114.7
+  barometer: 1021.49
+  wind:
+    speed: 1.9
+    direction: 193
+  engine:
+    hours: 833.1
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: navigation
+  observations:
+    seaState: 4
+    cloudCoverage: 1
+    visibility: 8
+- datetime: 2024-08-09T06:45:44.300Z
+  text: A lone Croc floated by. Didn't manage to catch
+  author: bergie
+  position:
+    longitude: -7.6470593
+    latitude: 44.6535776
+    source: GPS
+  heading: 215
+  course: 208
+  speed:
+    stw: 4.5
+    sog: 5.9
+  log: 6118.4
+  barometer: 1021.93
+  wind:
+    speed: 4
+    direction: 197
+  engine:
+    hours: 833.9
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: navigation
