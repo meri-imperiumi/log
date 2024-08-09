@@ -936,3 +936,31 @@
   crewNames:
     - ihmis-suski
     - bergie
+  category: navigation
+- datetime: 2024-08-08T23:58:38.899Z
+  text: "Watch change "
+  author: ihmis-suski
+  position:
+    longitude: -7.4752088
+    latitude: 45.0403105
+    source: GPS
+  heading: 186
+  course: 188
+  speed:
+    stw: 3.4
+    sog: 3.9
+  log: 6093.3
+  barometer: 1021.96
+  wind:
+    speed: 6.8
+    direction: 220
+  engine:
+    hours: 832
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: navigation
+  observations:
+    cloudCoverage: 2
+    visibility: 8
