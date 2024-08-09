@@ -1087,3 +1087,55 @@
     - ihmis-suski
     - bergie
   category: navigation
+- datetime: 2024-08-09T20:00:44.998Z
+  text: "Around 2kt current going along the coast westwards "
+  author: bergie
+  position:
+    longitude: -8.2314506
+    latitude: 43.8016788
+    source: GPS
+  heading: 190
+  course: 203
+  speed:
+    stw: 5.1
+    sog: 7.1
+  log: 6175.7
+  barometer: 1020.94
+  wind:
+    speed: 22.5
+    direction: 62
+  engine:
+    hours: 838.9
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: navigation
+  observations:
+    cloudCoverage: 1
+    seaState: 4
+    visibility: 7
+- datetime: 2024-08-09T20:13:45.996Z
+  text: Depth sounder found the bottom! 154m
+  author: bergie
+  position:
+    longitude: -8.2430616
+    latitude: 43.7807573
+    source: GPS
+  heading: 191
+  course: 192
+  speed:
+    stw: 5.2
+    sog: 6.1
+  log: 6177.1
+  barometer: 1021.02
+  wind:
+    speed: 22.3
+    direction: 47
+  engine:
+    hours: 838.9
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: navigation
