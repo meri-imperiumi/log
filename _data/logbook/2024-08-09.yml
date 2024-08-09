@@ -444,3 +444,57 @@
   crewNames:
     - ihmis-suski
     - bergie
+  category: navigation
+- datetime: 2024-08-09T09:00:45.299Z
+  text: ""
+  author: ""
+  position:
+    longitude: -7.7745666
+    latitude: 44.4856641
+    source: GPS
+  heading: 216
+  course: 217
+  speed:
+    stw: 4.5
+    sog: 5.1
+  log: 6129.9
+  barometer: 1022.68
+  wind:
+    speed: 2.2
+    direction: 242
+  engine:
+    hours: 836.1
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: navigation
+- datetime: 2024-08-09T09:30:42.400Z
+  text: This side of the high, the seas are a confused mess. This means we'll need
+    a bit more wind than usual before we can sail again
+  author: bergie
+  position:
+    longitude: -7.8090058
+    latitude: 44.4504516
+    source: GPS
+  heading: 216
+  course: 218
+  speed:
+    stw: 4.5
+    sog: 5.1
+  log: 6132.5
+  barometer: 1022.87
+  wind:
+    speed: 4.2
+    direction: 271
+  engine:
+    hours: 836.6
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: navigation
+  observations:
+    seaState: 4
+    cloudCoverage: 1
+    visibility: 8
