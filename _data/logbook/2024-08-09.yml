@@ -498,3 +498,52 @@
     seaState: 4
     cloudCoverage: 1
     visibility: 8
+- datetime: 2024-08-09T10:00:42.400Z
+  text: ""
+  author: ""
+  position:
+    longitude: -7.8443768
+    latitude: 44.4168808
+    source: GPS
+  heading: 213
+  course: 216
+  speed:
+    stw: 4.4
+    sog: 5.9
+  log: 6135
+  barometer: 1022.94
+  wind:
+    speed: 4.9
+    direction: 277
+  engine:
+    hours: 837.1
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: navigation
+- datetime: 2024-08-09T10:22:43.398Z
+  text: "Securité from Coruña traffic (garbled bad signal): vessels in harbour
+    area requested to reduce speed and keep sharp lookout"
+  author: bergie
+  position:
+    longitude: -7.8674221
+    latitude: 44.3900898
+    source: GPS
+  heading: 203
+  course: 210
+  speed:
+    stw: 4.5
+    sog: 5.5
+  log: 6136.9
+  barometer: 1022.94
+  wind:
+    speed: 6
+    direction: 312
+  engine:
+    hours: 837.5
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: radio
