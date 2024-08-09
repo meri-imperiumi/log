@@ -963,3 +963,79 @@
     - ihmis-suski
     - bergie
   category: navigation
+- datetime: 2024-08-09T17:00:46.598Z
+  text: ""
+  author: ""
+  position:
+    longitude: -8.0797778
+    latitude: 44.0350359
+    source: GPS
+  heading: 195
+  course: 179
+  speed:
+    stw: 3.6
+    sog: 4
+  log: 6160.2
+  barometer: 1021.78
+  wind:
+    speed: 13.9
+    direction: 65
+  engine:
+    hours: 838.9
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: navigation
+- datetime: 2024-08-09T17:19:45.900Z
+  text: "Lots of fishing boats around "
+  author: ihmis-suski
+  position:
+    longitude: -8.0933025
+    latitude: 44.0167158
+    source: GPS
+  heading: 197
+  course: 189
+  speed:
+    stw: 4
+    sog: 4.3
+  log: 6161.5
+  barometer: 1021.66
+  wind:
+    speed: 16.1
+    direction: 51
+  engine:
+    hours: 838.9
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: navigation
+  observations:
+    seaState: 4
+    cloudCoverage: 0
+    visibility: 8
+- datetime: 2024-08-09T17:43:09.900Z
+  text: "Sails set: Main (2nd reef), Staysail"
+  author: ""
+  position:
+    longitude: -8.1117733
+    latitude: 43.9943661
+    source: GPS
+  heading: 192
+  course: 205
+  speed:
+    stw: 4.8
+    sog: 5.8
+  log: 6163.1
+  barometer: 1021.43
+  wind:
+    speed: 19
+    direction: 63
+  engine:
+    hours: 838.9
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: navigation
