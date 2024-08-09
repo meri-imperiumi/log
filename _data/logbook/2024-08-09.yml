@@ -319,3 +319,105 @@
     - ihmis-suski
     - bergie
   category: navigation
+- datetime: 2024-08-09T07:00:44.300Z
+  text: ""
+  author: ""
+  position:
+    longitude: -7.6610026
+    latitude: 44.6350218
+    source: GPS
+  heading: 218
+  course: 219
+  speed:
+    stw: 4.5
+    sog: 4.7
+  log: 6119.7
+  barometer: 1022.09
+  wind:
+    speed: 2.8
+    direction: 208
+  engine:
+    hours: 834.1
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: navigation
+- datetime: 2024-08-09T07:06:44.300Z
+  text: DSC Mayday relay. Sailing vessel Tamara with 6 persons at Cape Finisterre
+    in distress, vessels in vicinity requested to assist. That's 130NM SW of us.
+  author: bergie
+  position:
+    longitude: -7.6663341
+    latitude: 44.6278361
+    source: GPS
+  heading: 216
+  course: 211
+  speed:
+    stw: 4.5
+    sog: 4.5
+  log: 6120.1
+  barometer: 1022.13
+  wind:
+    speed: 1.7
+    direction: 205
+  engine:
+    hours: 834.2
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: radio
+- datetime: 2024-08-09T07:30:45.299Z
+  text: Think bank of clouds is rolling in from the west. I wonder how that will
+    affect the high pressure ridge we're in
+  author: bergie
+  position:
+    longitude: -7.6872081
+    latitude: 44.5993904
+    source: GPS
+  heading: 213
+  course: 221
+  speed:
+    stw: 4.6
+    sog: 5
+  log: 6122.1
+  barometer: 1022.38
+  wind:
+    speed: 2.2
+    direction: 179
+  engine:
+    hours: 834.6
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: navigation
+  observations:
+    seaState: 4
+    cloudCoverage: 2
+    visibility: 8
+- datetime: 2024-08-09T07:36:45.299Z
+  text: "Finisterre radio: silence fini on the Tamara mayday"
+  author: bergie
+  position:
+    longitude: -7.6930741
+    latitude: 44.5916079
+    source: GPS
+  heading: 214
+  course: 206
+  speed:
+    stw: 4.6
+    sog: 5.1
+  log: 6122.6
+  barometer: 1022.42
+  wind:
+    speed: 1.4
+    direction: 201
+  engine:
+    hours: 834.7
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: radio
