@@ -547,3 +547,76 @@
     - ihmis-suski
     - bergie
   category: radio
+- datetime: 2024-08-09T11:00:43.398Z
+  text: ""
+  author: ""
+  position:
+    longitude: -7.9000226
+    latitude: 44.3445249
+    source: GPS
+  heading: 187
+  course: 202
+  speed:
+    stw: 4.4
+    sog: 4.3
+  log: 6140
+  barometer: 1023.05
+  wind:
+    speed: 4.8
+    direction: 106
+  engine:
+    hours: 838.1
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: navigation
+- datetime: 2024-08-09T11:47:04.400Z
+  text: "Motor stopped, sailing with Main (1st reef), Genoa 1.  Let's see if the
+    schmetti can be flown "
+  author: bergie
+  position:
+    longitude: -7.9241316
+    latitude: 44.2993595
+    source: GPS
+  heading: 174
+  course: 178
+  speed:
+    stw: 2.5
+    sog: 1.9
+  log: 6142.9
+  barometer: 1023.14
+  wind:
+    speed: 8.7
+    direction: 46
+  engine:
+    hours: 838.9
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: navigation
+- datetime: 2024-08-09T11:48:43.398Z
+  text: "Started watermaker "
+  author: bergie
+  position:
+    longitude: -7.9242776
+    latitude: 44.2983218
+    source: GPS
+  heading: 177
+  course: 219
+  speed:
+    stw: 2.5
+    sog: 1.9
+  log: 6142.9
+  barometer: 1023.17
+  wind:
+    speed: 6.8
+    direction: 47
+  engine:
+    hours: 838.9
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: maintenance
