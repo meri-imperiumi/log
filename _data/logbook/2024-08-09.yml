@@ -99,3 +99,75 @@
   observations:
     cloudCoverage: 1
     visibility: 8
+- datetime: 2024-08-09T02:00:40.900Z
+  text: ""
+  author: ""
+  position:
+    longitude: -7.4920993
+    latitude: 44.928689
+    source: GPS
+  heading: 218
+  course: 213
+  speed:
+    stw: 2.9
+    sog: 3.2
+  log: 6100.2
+  barometer: 1021.57
+  wind:
+    speed: 6.1
+    direction: 256
+  engine:
+    hours: 832
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: navigation
+- datetime: 2024-08-09T02:41:41.900Z
+  text: ISS flew over.
+  author: ihmis-suski
+  position:
+    longitude: -7.5078686
+    latitude: 44.8964691
+    source: GPS
+  heading: 203
+  course: 176
+  speed:
+    stw: 3.1
+    sog: 3.9
+  log: 6102.3
+  barometer: 1021.34
+  wind:
+    speed: 4.1
+    direction: 250
+  engine:
+    hours: 832
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: navigation
+- datetime: 2024-08-09T02:54:41.900Z
+  text: Need to check hydro attachment. It can klönk a bit.
+  author: ihmis-suski
+  position:
+    longitude: -7.5100174
+    latitude: 44.8855566
+    source: GPS
+  heading: 205
+  course: 204
+  speed:
+    stw: 2.7
+    sog: 3
+  log: 6103
+  barometer: 1021.31
+  wind:
+    speed: 5.1
+    direction: 258
+  engine:
+    hours: 832
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: maintenance
