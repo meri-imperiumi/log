@@ -597,7 +597,7 @@
     - bergie
   category: navigation
 - datetime: 2024-08-09T11:48:43.398Z
-  text: "Started watermaker "
+  text: Started watermaker, was giving 375ppm still after first 30min
   author: bergie
   position:
     longitude: -7.9242776
@@ -613,6 +613,79 @@
   wind:
     speed: 6.8
     direction: 47
+  engine:
+    hours: 838.9
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: maintenance
+- datetime: 2024-08-09T12:00:43.398Z
+  text: ""
+  author: ""
+  position:
+    longitude: -7.9263813
+    latitude: 44.2916661
+    source: GPS
+  heading: 184
+  course: 196
+  speed:
+    stw: 2.4
+    sog: 1
+  log: 6143.4
+  barometer: 1023.13
+  wind:
+    speed: 5.6
+    direction: 51
+  engine:
+    hours: 838.9
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: navigation
+- datetime: 2024-08-09T12:32:44.499Z
+  text: "Stopped watermaker and cleaned the filter. The intake hose has some
+    knicks and should be exchanged "
+  author: bergie
+  position:
+    longitude: -7.9366694
+    latitude: 44.2710296
+    source: GPS
+  heading: 183
+  course: 209
+  speed:
+    stw: 2.9
+    sog: 1.6
+  log: 6144.7
+  barometer: 1023.13
+  wind:
+    speed: 5.8
+    direction: 64
+  engine:
+    hours: 838.9
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: maintenance
+- datetime: 2024-08-09T12:49:44.499Z
+  text: "Started watermaker "
+  author: bergie
+  position:
+    longitude: -7.941383361816406
+    latitude: 44.256652164459226
+    source: GPS
+  heading: 188
+  course: 190
+  speed:
+    stw: 3.5
+    sog: 3.3
+  log: 6145.6
+  barometer: 1022.97
+  wind:
+    speed: 9.7
+    direction: 58
   engine:
     hours: 838.9
   vhf: "16"
