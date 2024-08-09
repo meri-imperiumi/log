@@ -21,3 +21,81 @@
   crewNames:
     - ihmis-suski
     - bergie
+  category: navigation
+- datetime: 2024-08-09T01:00:40.900Z
+  text: ""
+  author: ""
+  position:
+    longitude: -7.4724985
+    latitude: 44.9833913
+    source: GPS
+  heading: 198
+  course: 183
+  speed:
+    stw: 3.3
+    sog: 3.5
+  log: 6096.8
+  barometer: 1021.66
+  wind:
+    speed: 7.2
+    direction: 243
+  engine:
+    hours: 832
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: navigation
+- datetime: 2024-08-09T01:18:39.900Z
+  text: 🐬🐬🐬
+  author: ihmis-suski
+  position:
+    longitude: -7.473473
+    latitude: 44.9674298
+    source: GPS
+  heading: 202
+  course: 175
+  speed:
+    stw: 3.1
+    sog: 2.4
+  log: 6097.8
+  barometer: 1021.62
+  wind:
+    speed: 6.9
+    direction: 240
+  engine:
+    hours: 832
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: navigation
+- datetime: 2024-08-09T01:56:40.900Z
+  text: New moon has its perks. The stars are well visible, especially now as we
+    are getting closer to the peak of Perseid meteor cloud. Nearly every time
+    you look up, you see a shooting star or two.
+  author: ihmis-suski
+  position:
+    longitude: -7.4901115
+    latitude: 44.9318163
+    source: GPS
+  heading: 213
+  course: 200
+  speed:
+    stw: 3.5
+    sog: 3.4
+  log: 6100
+  barometer: 1021.59
+  wind:
+    speed: 7.2
+    direction: 268
+  engine:
+    hours: 832
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: navigation
+  observations:
+    cloudCoverage: 1
+    visibility: 8
