@@ -1063,3 +1063,151 @@
     - ihmis-suski
     - bergie
   category: navigation
+- datetime: 2024-08-09T19:00:44.902Z
+  text: Entered Spanish waters
+  author: bergie
+  position:
+    longitude: -8.1773111
+    latitude: 43.8924678
+    source: GPS
+  heading: 196
+  course: 183
+  speed:
+    stw: 4.7
+    sog: 5.2
+  log: 6169.8
+  barometer: 1021.19
+  wind:
+    speed: 21
+    direction: 68
+  engine:
+    hours: 838.9
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: navigation
+- datetime: 2024-08-09T20:00:44.998Z
+  text: "Around 2kt current going along the coast westwards "
+  author: bergie
+  position:
+    longitude: -8.2314506
+    latitude: 43.8016788
+    source: GPS
+  heading: 190
+  course: 203
+  speed:
+    stw: 5.1
+    sog: 7.1
+  log: 6175.7
+  barometer: 1020.94
+  wind:
+    speed: 22.5
+    direction: 62
+  engine:
+    hours: 838.9
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: navigation
+  observations:
+    cloudCoverage: 1
+    seaState: 4
+    visibility: 7
+- datetime: 2024-08-09T20:13:45.996Z
+  text: Depth sounder found the bottom! 154m
+  author: bergie
+  position:
+    longitude: -8.2430616
+    latitude: 43.7807573
+    source: GPS
+  heading: 191
+  course: 192
+  speed:
+    stw: 5.2
+    sog: 6.1
+  log: 6177.1
+  barometer: 1021.02
+  wind:
+    speed: 22.3
+    direction: 47
+  engine:
+    hours: 838.9
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: navigation
+- datetime: 2024-08-09T21:00:44.998Z
+  text: ""
+  author: ""
+  position:
+    longitude: -8.2837085
+    latitude: 43.7020451
+    source: GPS
+  heading: 191
+  course: 199
+  speed:
+    stw: 5.2
+    sog: 7.7
+  log: 6182.1
+  barometer: 1020.97
+  wind:
+    speed: 20.8
+    direction: 51
+  engine:
+    hours: 838.9
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: navigation
+- datetime: 2024-08-09T22:00:46.003Z
+  text: ""
+  author: ""
+  position:
+    longitude: -8.3317351659139
+    latitude: 43.614986483256025
+    source: GPS
+  heading: 192
+  course: 211
+  speed:
+    stw: 4
+    sog: 4.3
+  log: 6187.8
+  barometer: 1020.86
+  wind:
+    speed: 16.6
+    direction: 39
+  engine:
+    hours: 838.9
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: navigation
+- datetime: 2024-08-09T23:00:56.998Z
+  text: "Sails set: Main, Staysail"
+  author: ""
+  position:
+    longitude: -8.3629555
+    latitude: 43.5453528
+    source: GPS
+  heading: 178
+  course: 198
+  speed:
+    stw: 4.1
+    sog: 4.1
+  log: 6192.2
+  barometer: 1020.57
+  wind:
+    speed: 15.3
+    direction: 50
+  engine:
+    hours: 838.9
+  vhf: "9"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: navigation
