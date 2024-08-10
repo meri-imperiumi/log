@@ -1,0 +1,72 @@
+- datetime: 2024-08-10T00:00:47.000Z
+  text: ""
+  author: ""
+  position:
+    longitude: -8.3633509
+    latitude: 43.4841216
+    source: GPS
+  heading: 171
+  course: 185
+  speed:
+    stw: 2.9
+    sog: 3.6
+  log: 6195.9
+  barometer: 1020.2
+  wind:
+    speed: 14.4
+    direction: 16
+  engine:
+    hours: 838.9
+  vhf: "9"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: navigation
+- datetime: 2024-08-10T00:06:44.000Z
+  text: "Sails set: Main, Genoa 1"
+  author: ""
+  position:
+    longitude: -8.364020156860352
+    latitude: 43.477681668599445
+    source: GPS
+  heading: 177
+  course: 187
+  speed:
+    stw: 4.6
+    sog: 5.2
+  log: 6196.3
+  barometer: 1020.16
+  wind:
+    speed: 12.3
+    direction: 23
+  engine:
+    hours: 838.9
+  vhf: "9"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: navigation
+- datetime: 2024-08-10T00:55:51.000Z
+  text: Sails down, motoring
+  author: ""
+  position:
+    longitude: -8.3686323
+    latitude: 43.4406123
+    source: GPS
+  heading: 175
+  course: 156
+  speed:
+    stw: 0.9
+    sog: 1.6
+  log: 6198.5
+  barometer: 1019.85
+  wind:
+    speed: 3.2
+    direction: 40
+  engine:
+    hours: 838.9
+  vhf: "9"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: navigation
