@@ -220,3 +220,51 @@
     - ihmis-suski
     - bergie
   category: navigation
+- datetime: 2024-08-14T12:00:31.398Z
+  text: ""
+  author: ""
+  position:
+    longitude: -8.6307508
+    latitude: 43.4185964
+    source: GPS
+  heading: 280
+  course: 276
+  speed:
+    stw: 4.6
+    sog: 4.9
+  log: 6218.7
+  barometer: 1022.25
+  wind:
+    speed: 13.3
+    direction: 14
+  engine:
+    hours: 843.1
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: navigation
+- datetime: 2024-08-14T12:40:31.398Z
+  text: Dolphins! One was just a baby
+  author: bergie
+  position:
+    longitude: -8.7052673
+    latitude: 43.4145779
+    source: GPS
+  heading: 256
+  course: 259
+  speed:
+    stw: 4.9
+    sog: 4.7
+  log: 6222
+  barometer: 1022.38
+  wind:
+    speed: 15.2
+    direction: 1
+  engine:
+    hours: 843.1
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: navigation
