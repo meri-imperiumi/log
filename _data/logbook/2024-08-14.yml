@@ -390,7 +390,7 @@
     - bergie
   category: navigation
 - datetime: 2024-08-14T14:59:32.403Z
-  text: Stopped watermaker
+  text: Stopped watermaker, 187ppm. Made two jugs
   author: bergie
   position:
     longitude: -8.9593709
@@ -413,3 +413,75 @@
     - ihmis-suski
     - bergie
   category: maintenance
+- datetime: 2024-08-14T15:00:32.396Z
+  text: ""
+  author: ""
+  position:
+    longitude: -8.960607528686523
+    latitude: 43.315803654988606
+    source: GPS
+  heading: 214
+  course: 219
+  speed:
+    stw: 3.9
+    sog: 5.3
+  log: 6235.1
+  barometer: 1022.02
+  wind:
+    speed: 11.6
+    direction: 4
+  engine:
+    hours: 843.1
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: navigation
+- datetime: 2024-08-14T15:08:32.396Z
+  text: DSC Securité from Finisterre Radio. NW of Coruña light buoy fl 5 Y 20s
+  author: bergie
+  position:
+    longitude: -8.9721743
+    latitude: 43.3077116
+    source: GPS
+  heading: 231
+  course: 228
+  speed:
+    stw: 3.6
+    sog: 4.2
+  log: 6235.8
+  barometer: 1021.94
+  wind:
+    speed: 11.6
+    direction: 21
+  engine:
+    hours: 843.1
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: radio
+- datetime: 2024-08-14T15:39:32.403Z
+  text: "Hand steering "
+  author: bergie
+  position:
+    longitude: -9.0101585
+    latitude: 43.2772078
+    source: GPS
+  heading: 142
+  course: 166
+  speed:
+    stw: 4.5
+    sog: 4.5
+  log: 6238.4
+  barometer: 1022.03
+  wind:
+    speed: 12.1
+    direction: 16
+  engine:
+    hours: 843.1
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: navigation
