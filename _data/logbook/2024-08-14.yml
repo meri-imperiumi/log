@@ -268,3 +268,52 @@
     - ihmis-suski
     - bergie
   category: navigation
+- datetime: 2024-08-14T13:00:31.398Z
+  text: ""
+  author: ""
+  position:
+    longitude: -8.7406459
+    latitude: 43.4083343
+    source: GPS
+  heading: 255
+  course: 241
+  speed:
+    stw: 4.1
+    sog: 5.1
+  log: 6223.6
+  barometer: 1022.36
+  wind:
+    speed: 11.6
+    direction: 19
+  engine:
+    hours: 843.1
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: navigation
+- datetime: 2024-08-14T13:19:32.400Z
+  text: DSC Urgency about a missing sailboat that left Portugal. Very poor signal
+    from Finisterre radio
+  author: bergie
+  position:
+    longitude: -8.7772246
+    latitude: 43.3996219
+    source: GPS
+  heading: 274
+  course: 246
+  speed:
+    stw: 4.6
+    sog: 5.5
+  log: 6225.2
+  barometer: 1022.49
+  wind:
+    speed: 13.1
+    direction: 359
+  engine:
+    hours: 843.1
+  vhf: "2"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: radio
