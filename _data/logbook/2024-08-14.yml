@@ -120,3 +120,103 @@
     - ihmis-suski
     - bergie
   category: navigation
+- datetime: 2024-08-14T11:00:30.300Z
+  text: ""
+  author: ""
+  position:
+    longitude: -8.5487056
+    latitude: 43.413628
+    source: GPS
+  heading: 278
+  course: 262
+  speed:
+    stw: 3.9
+    sog: 2.8
+  log: 6215.1
+  barometer: 1022.38
+  wind:
+    speed: 8.9
+    direction: 9
+  engine:
+    hours: 843.1
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: navigation
+- datetime: 2024-08-14T11:04:30.300Z
+  text: Dolphins!
+  author: bergie
+  position:
+    longitude: -8.5541014
+    latitude: 43.4139358
+    source: GPS
+  heading: 280
+  course: 275
+  speed:
+    stw: 3.5
+    sog: 3.2
+  log: 6215.3
+  barometer: 1022.42
+  wind:
+    speed: 8.6
+    direction: 15
+  engine:
+    hours: 843.1
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: navigation
+  observations:
+    cloudCoverage: 2
+    seaState: 4
+    visibility: 7
+- datetime: 2024-08-14T11:14:30.300Z
+  text: Started watermaker, 221ppm
+  author: bergie
+  position:
+    longitude: -8.5666463
+    latitude: 43.4150719
+    source: GPS
+  heading: 280
+  course: 271
+  speed:
+    stw: 3.6
+    sog: 4.5
+  log: 6215.9
+  barometer: 1022.43
+  wind:
+    speed: 9.6
+    direction: 1
+  engine:
+    hours: 843.1
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: maintenance
+- datetime: 2024-08-14T11:44:30.400Z
+  text: "Windvane steering "
+  author: bergie
+  position:
+    longitude: -8.6048001
+    latitude: 43.4173181
+    source: GPS
+  heading: 293
+  course: 282
+  speed:
+    stw: 4.3
+    sog: 3.6
+  log: 6217.5
+  barometer: 1022.37
+  wind:
+    speed: 11.2
+    direction: 29
+  engine:
+    hours: 843.1
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: navigation
