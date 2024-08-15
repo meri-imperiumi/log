@@ -538,3 +538,51 @@
     - ihmis-suski
     - bergie
   category: maintenance
+- datetime: 2024-08-15T16:00:40.396Z
+  text: ""
+  author: ""
+  position:
+    longitude: -9.2281031
+    latitude: 42.7460749
+    source: GPS
+  heading: 127
+  course: 139
+  speed:
+    stw: 5.7
+    sog: 6.3
+  log: 6283.9
+  barometer: 1020
+  wind:
+    speed: 22
+    direction: 329
+  engine:
+    hours: 844
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: navigation
+- datetime: 2024-08-15T16:19:41.401Z
+  text: "Sails set: Main, Genoa 1 (20% furled)"
+  author: ""
+  position:
+    longitude: -9.198215
+    latitude: 42.7265103
+    source: GPS
+  heading: 111
+  course: 113
+  speed:
+    stw: 5.2
+    sog: 4.8
+  log: 6285.7
+  barometer: 1019.82
+  wind:
+    speed: 19.3
+    direction: 340
+  engine:
+    hours: 844
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: navigation
