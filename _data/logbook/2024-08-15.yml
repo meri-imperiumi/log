@@ -265,3 +265,75 @@
     - ihmis-suski
     - bergie
   category: navigation
+- datetime: 2024-08-15T11:00:38.300Z
+  text: ""
+  author: ""
+  position:
+    longitude: -9.1961583
+    latitude: 43.2026456
+    source: GPS
+  heading: 217
+  course: 233
+  speed:
+    stw: 3.7
+    sog: 5
+  log: 6252.9
+  barometer: 1022.26
+  wind:
+    speed: 11.5
+    direction: 37
+  engine:
+    hours: 844
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: navigation
+- datetime: 2024-08-15T11:15:37.299Z
+  text: PAN PAN Finisterre Radio, cancel urgency about the overdue sailing boat
+  author: bergie
+  position:
+    longitude: -9.2183395
+    latitude: 43.1880424
+    source: GPS
+  heading: 213
+  course: 222
+  speed:
+    stw: 4.5
+    sog: 5
+  log: 6254.2
+  barometer: 1022.07
+  wind:
+    speed: 12.8
+    direction: 33
+  engine:
+    hours: 844
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: radio
+- datetime: 2024-08-15T11:26:38.300Z
+  text: Passing Cabo Vilán light
+  author: bergie
+  position:
+    longitude: -9.2332163
+    latitude: 43.1744733
+    source: GPS
+  heading: 203
+  course: 209
+  speed:
+    stw: 4.8
+    sog: 6.6
+  log: 6255.3
+  barometer: 1022
+  wind:
+    speed: 14.2
+    direction: 13
+  engine:
+    hours: 844
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: navigation
