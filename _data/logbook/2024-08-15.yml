@@ -438,3 +438,55 @@
     - ihmis-suski
     - bergie
   category: radio
+- datetime: 2024-08-15T14:00:39.299Z
+  text: ""
+  author: ""
+  position:
+    longitude: -9.3486316
+    latitude: 42.9500768
+    source: GPS
+  heading: 154
+  course: 156
+  speed:
+    stw: 6.1
+    sog: 7.4
+  log: 6270.4
+  barometer: 1021.2
+  wind:
+    speed: 21
+    direction: 354
+  engine:
+    hours: 844
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: navigation
+- datetime: 2024-08-15T14:36:39.299Z
+  text: Passing Cabo Finisterre light
+  author: bergie
+  position:
+    longitude: -9.3232716
+    latitude: 42.8845249
+    source: GPS
+  heading: 164
+  course: 174
+  speed:
+    stw: 5.8
+    sog: 6.6
+  log: 6274.5
+  barometer: 1020.89
+  wind:
+    speed: 23.5
+    direction: 355
+  engine:
+    hours: 844
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: navigation
+  observations:
+    seaState: 3
+    cloudCoverage: 0
+    visibility: 7
