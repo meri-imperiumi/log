@@ -490,3 +490,51 @@
     seaState: 3
     cloudCoverage: 0
     visibility: 7
+- datetime: 2024-08-15T15:00:39.302Z
+  text: ""
+  author: ""
+  position:
+    longitude: -9.3026108
+    latitude: 42.8431685
+    source: GPS
+  heading: 147
+  course: 156
+  speed:
+    stw: 6.1
+    sog: 7.4
+  log: 6277.1
+  barometer: 1020.57
+  wind:
+    speed: 20.1
+    direction: 334
+  engine:
+    hours: 844
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: navigation
+- datetime: 2024-08-15T15:08:39.302Z
+  text: Stopped watermaker, 164ppm
+  author: bergie
+  position:
+    longitude: -9.2931793
+    latitude: 42.8294979
+    source: GPS
+  heading: 140
+  course: 151
+  speed:
+    stw: 6
+    sog: 7.4
+  log: 6278.1
+  barometer: 1020.53
+  wind:
+    speed: 26.7
+    direction: 339
+  engine:
+    hours: 844
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: maintenance
