@@ -194,7 +194,7 @@
     cloudCoverage: 0
     visibility: 7
 - datetime: 2024-08-15T09:30:37.200Z
-  text: "Started watermaker "
+  text: Started watermaker, 266ppm
   author: bergie
   position:
     longitude: -9.0671046
@@ -217,3 +217,51 @@
     - ihmis-suski
     - bergie
   category: maintenance
+- datetime: 2024-08-15T10:00:38.300Z
+  text: ""
+  author: ""
+  position:
+    longitude: -9.115121165911356
+    latitude: 43.23608233133952
+    source: GPS
+  heading: 267
+  course: 261
+  speed:
+    stw: 2.5
+    sog: 4
+  log: 6248.7
+  barometer: 1022.5
+  wind:
+    speed: 10.7
+    direction: 46
+  engine:
+    hours: 844
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: navigation
+- datetime: 2024-08-15T10:03:37.200Z
+  text: Dolphins in our bow wave
+  author: bergie
+  position:
+    longitude: -9.1196729
+    latitude: 43.2358416
+    source: GPS
+  heading: 275
+  course: 263
+  speed:
+    stw: 3
+    sog: 4.5
+  log: 6248.9
+  barometer: 1022.45
+  wind:
+    speed: 9.3
+    direction: 40
+  engine:
+    hours: 844
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: navigation
