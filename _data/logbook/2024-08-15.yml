@@ -360,3 +360,81 @@
   crewNames:
     - ihmis-suski
     - bergie
+  category: navigation
+- datetime: 2024-08-15T13:00:39.299Z
+  text: ""
+  author: ""
+  position:
+    longitude: -9.3421526
+    latitude: 43.0511305
+    source: GPS
+  heading: 197
+  course: 199
+  speed:
+    stw: 5
+    sog: 5.6
+  log: 6264.1
+  barometer: 1021.52
+  wind:
+    speed: 14.2
+    direction: 18
+  engine:
+    hours: 844
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: navigation
+- datetime: 2024-08-15T13:25:38.300Z
+  text: Turned wing on wing to have main on starboard side.
+  author: ihmis-suski
+  position:
+    longitude: -9.353509998321533
+    latitude: 43.01188016633193
+    source: GPS
+  heading: 181
+  course: 187
+  speed:
+    stw: 5.4
+    sog: 6
+  log: 6266.6
+  barometer: 1021.22
+  wind:
+    speed: 16.8
+    direction: 16
+  engine:
+    hours: 844
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: navigation
+  observations:
+    seaState: 3
+    cloudCoverage: 0
+    visibility: 7
+- datetime: 2024-08-15T13:41:39.299Z
+  text: Someone is sending the Canary Islands weather forecast bulleting from the
+    wrong radio towers. No way we can hear the actual towers in here
+  author: ihmis-suski
+  position:
+    longitude: -9.3553781
+    latitude: 42.9837566
+    source: GPS
+  heading: 173
+  course: 178
+  speed:
+    stw: 5.7
+    sog: 7.4
+  log: 6268.3
+  barometer: 1021.25
+  wind:
+    speed: 17.2
+    direction: 11
+  engine:
+    hours: 844
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: radio
