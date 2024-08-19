@@ -209,3 +209,149 @@
   crewNames:
     - ihmis-suski
     - bergie
+  category: navigation
+- datetime: 2024-08-19T14:00:52.400Z
+  text: ""
+  author: ""
+  position:
+    longitude: -9.0226514
+    latitude: 42.7640481
+    source: GPS
+  heading: 356
+  course: 355
+  speed:
+    stw: 1.7
+    sog: 2.2
+  log: 6303.3
+  barometer: 1017.3
+  wind:
+    speed: 7.1
+    direction: 198
+  engine:
+    hours: 845.2
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: navigation
+- datetime: 2024-08-19T14:13:52.400Z
+  text: Lots of dolphins leaping between us and Muros
+  author: bergie
+  position:
+    longitude: -9.0229604
+    latitude: 42.7710353
+    source: GPS
+  heading: 3
+  course: 4
+  speed:
+    stw: 1.6
+    sog: 1.9
+  log: 6303.7
+  barometer: 1017.11
+  wind:
+    speed: 5.6
+    direction: 217
+  engine:
+    hours: 845.2
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: navigation
+- datetime: 2024-08-19T14:18:53.401Z
+  text: Stopped watermaker, 212ppm
+  author: bergie
+  position:
+    longitude: -9.0230229
+    latitude: 42.7734514
+    source: GPS
+  heading: 352
+  course: 349
+  speed:
+    stw: 1.3
+    sog: 1.7
+  log: 6303.9
+  barometer: 1017.09
+  wind:
+    speed: 5.8
+    direction: 206
+  engine:
+    hours: 845.2
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: maintenance
+- datetime: 2024-08-19T14:31:48.400Z
+  text: Sails down, motoring
+  author: ""
+  position:
+    longitude: -9.0217691
+    latitude: 42.7796411
+    source: GPS
+  heading: 1
+  course: 357
+  speed:
+    stw: 0.7
+    sog: 1.4
+  log: 6304.3
+  barometer: 1016.94
+  wind:
+    speed: 4.5
+    direction: 252
+  engine:
+    hours: 845.2
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: navigation
+- datetime: 2024-08-19T14:56:48.396Z
+  text: Anchored
+  author: ""
+  position:
+    longitude: -9.0189721
+    latitude: 42.7960433
+    source: GPS
+  heading: 45
+  course: 80
+  speed:
+    stw: 0
+    sog: 0.4
+  log: 6305.5
+  barometer: 1016.73
+  wind:
+    speed: 10.7
+    direction: 7
+  engine:
+    hours: 845.6
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  end: true
+  category: navigation
+- datetime: 2024-08-19T14:58:42.400Z
+  text: Anchor up, motoring
+  author: ""
+  position:
+    longitude: -9.0188881
+    latitude: 42.7959124
+    source: GPS
+  heading: 24
+  course: 74
+  speed:
+    stw: 0
+    sog: 0.4
+  log: 6305.5
+  barometer: 1016.74
+  wind:
+    speed: 11.4
+    direction: 2
+  engine:
+    hours: 845.6
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: navigation
