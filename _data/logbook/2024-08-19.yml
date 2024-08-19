@@ -22,8 +22,8 @@
     - bergie
   category: navigation
 - datetime: 2024-08-19T10:52:18.300Z
-  text: Anchor up, motoring
-  author: ""
+  text: Anchor up
+  author: bergie
   position:
     longitude: -9.0591856
     latitude: 42.7799948
@@ -45,8 +45,8 @@
     - bergie
   category: navigation
 - datetime: 2024-08-19T10:52:50.300Z
-  text: Stopped
-  author: ""
+  text: Reanchored, visit by Spanish customs
+  author: bergie
   position:
     longitude: -9.0591356
     latitude: 42.7800208
@@ -68,3 +68,73 @@
     - bergie
   end: true
   category: navigation
+- datetime: 2024-08-19T11:08:51.299Z
+  text: Anchor up, motoring
+  author: bergie
+  position:
+    longitude: -9.0570693
+    latitude: 42.7798018
+    source: GPS
+  heading: 96
+  course: 96
+  speed:
+    stw: 4.4
+    sog: 4.7
+  log: 6296.3
+  barometer: 1018.08
+  wind:
+    speed: 2.5
+    direction: 119
+  engine:
+    hours: 845
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: navigation
+- datetime: 2024-08-19T11:16:02.300Z
+  text: Motor stopped, sailing with Main, Genoa 1
+  author: ""
+  position:
+    longitude: -9.0490581
+    latitude: 42.7783556
+    source: GPS
+  heading: 102
+  course: 71
+  speed:
+    stw: 1.4
+    sog: 1.3
+  log: 6296.6
+  barometer: 1018.14
+  wind:
+    speed: 8.3
+    direction: 174
+  engine:
+    hours: 845.1
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: navigation
+- datetime: 2024-08-19T11:20:49.299Z
+  text: "Started watermaker "
+  author: bergie
+  position:
+    longitude: -9.0447993
+    latitude: 42.7762033
+    source: GPS
+  heading: 134
+  course: 136
+  speed:
+    stw: 3.6
+    sog: 3.5
+  log: 6296.9
+  barometer: 1018.21
+  wind:
+    speed: 6.8
+    direction: 160
+  engine:
+    hours: 845.2
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: maintenance
