@@ -21,3 +21,49 @@
     - ihmis-suski
     - bergie
   category: maintenance
+- datetime: 2024-08-21T12:59:50.800Z
+  text: Stopped watermaker and bled air from the pre-filter
+  author: bergie
+  position:
+    longitude: -9.019274
+    latitude: 42.7958175
+    source: GPS
+  heading: 103
+  course: 96
+  speed:
+    stw: 0
+    sog: 0
+  log: 6305.5
+  barometer: 1016.96
+  wind:
+    speed: 7.3
+    direction: 7
+  engine:
+    hours: 845.9
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: maintenance
+- datetime: 2024-08-21T13:23:50.800Z
+  text: "Started watermaker "
+  author: bergie
+  position:
+    longitude: -9.019176334142685
+    latitude: 42.795728492736814
+    source: GPS
+  heading: 34
+  course: 337
+  speed:
+    stw: 0
+    sog: 0.4
+  log: 6305.5
+  barometer: 1016.62
+  wind:
+    speed: 4.4
+    direction: 104
+  engine:
+    hours: 845.9
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: maintenance
