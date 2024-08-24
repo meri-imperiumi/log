@@ -142,3 +142,103 @@
     - ihmis-suski
     - bergie
   category: navigation
+- datetime: 2024-08-24T12:00:04.000Z
+  text: ""
+  author: ""
+  position:
+    longitude: -9.0522133
+    latitude: 42.7279421
+    source: GPS
+  heading: 203
+  course: 199
+  speed:
+    stw: 0
+    sog: 5.5
+  log: 6309.9
+  barometer: 1018.8
+  wind:
+    speed: 14
+    direction: 288
+  engine:
+    hours: 846.6
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: navigation
+- datetime: 2024-08-24T12:20:15.001Z
+  text: "Sails set: Main, Genoa 1"
+  author: ""
+  position:
+    longitude: -9.0684208
+    latitude: 42.6997306
+    source: GPS
+  heading: 206
+  course: 206
+  speed:
+    stw: 0
+    sog: 4
+  log: 6311.7
+  barometer: 1019.23
+  wind:
+    speed: 14
+    direction: 304
+  engine:
+    hours: 846.6
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: navigation
+- datetime: 2024-08-24T12:32:04.998Z
+  text: 273 ppm on watermaker.
+  author: ihmis-suski
+  position:
+    longitude: -9.0728476
+    latitude: 42.6820749
+    source: GPS
+  heading: 190
+  course: 192
+  speed:
+    stw: 0
+    sog: 7.5
+  log: 6312.8
+  barometer: 1019.2
+  wind:
+    speed: 21.5
+    direction: 299
+  engine:
+    hours: 846.6
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: maintenance
+- datetime: 2024-08-24T12:34:04.998Z
+  text: Watching gannets fish.
+  author: ihmis-suski
+  position:
+    longitude: -9.0732314
+    latitude: 42.6787306
+    source: GPS
+  heading: 191
+  course: 191
+  speed:
+    stw: 0
+    sog: 6.4
+  log: 6313
+  barometer: 1019.26
+  wind:
+    speed: 21.1
+    direction: 309
+  engine:
+    hours: 846.6
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: navigation
+  observations:
+    seaState: 3
+    cloudCoverage: 2
+    visibility: 7
