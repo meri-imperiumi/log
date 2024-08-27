@@ -119,3 +119,52 @@
     visibility: 4
     seaState: 0
     cloudCoverage: 8
+- datetime: 2024-08-27T09:00:31.398Z
+  text: ""
+  author: ""
+  position:
+    longitude: -8.9336038
+    latitude: 42.6051593
+    source: GPS
+  heading: 300
+  course: 318
+  speed:
+    stw: 1.9
+    sog: 2.1
+  log: 6340.2
+  barometer: 1017.56
+  wind:
+    speed: 2.6
+    direction: 119
+  engine:
+    hours: 848.6
+  vhf: "9"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: navigation
+- datetime: 2024-08-27T09:03:44.400Z
+  text: Stopped
+  author: ""
+  position:
+    longitude: -8.9347416
+    latitude: 42.6051146
+    source: GPS
+  heading: 341
+  course: 214
+  speed:
+    stw: 0
+    sog: 0
+  log: 6340.2
+  barometer: 1017.52
+  wind:
+    speed: 2.8
+    direction: 109
+  engine:
+    hours: 848.6
+  vhf: "9"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  end: true
+  category: navigation
