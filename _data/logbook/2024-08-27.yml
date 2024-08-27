@@ -1,0 +1,121 @@
+- datetime: 2024-08-27T07:59:30.400Z
+  text: "Big pod of dolphins jumping in the anchorage "
+  author: bergie
+  position:
+    longitude: -8.9511199
+    latitude: 42.5827861
+    source: GPS
+  heading: 73
+  course: 42
+  speed:
+    stw: 0
+    sog: 0
+  log: 6336.5
+  barometer: 1017.2
+  wind:
+    speed: 2.6
+    direction: 80
+  engine:
+    hours: 847.7
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: navigation
+- datetime: 2024-08-27T08:05:15.398Z
+  text: Started main engine
+  author: ""
+  position:
+    longitude: -8.9511346
+    latitude: 42.5827995
+    source: GPS
+  heading: 82
+  course: 118
+  speed:
+    stw: 0
+    sog: 0
+  log: 6336.5
+  barometer: 1017.25
+  wind:
+    speed: 2.3
+    direction: 105
+  engine:
+    hours: 847.7
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: navigation
+- datetime: 2024-08-27T08:14:32.400Z
+  text: Anchor up, motoring
+  author: bergie
+  position:
+    longitude: -8.9505976
+    latitude: 42.5817319
+    source: GPS
+  heading: 162
+  course: 168
+  speed:
+    stw: 0
+    sog: 3.7
+  log: 6336.5
+  barometer: 1017.32
+  wind:
+    speed: 2.9
+    direction: 178
+  engine:
+    hours: 847.8
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: navigation
+- datetime: 2024-08-27T08:22:31.398Z
+  text: Missing STW was again YDNR having wrong baud setting, should be 4800
+  author: bergie
+  position:
+    longitude: -8.9373348
+    latitude: 42.5792709
+    source: GPS
+  heading: 85
+  course: 85
+  speed:
+    stw: 5.1
+    sog: 5.1
+  log: 6337.1
+  barometer: 1017.35
+  wind:
+    speed: 2.3
+    direction: 107
+  engine:
+    hours: 847.9
+  vhf: "9"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: maintenance
+- datetime: 2024-08-27T08:26:31.398Z
+  text: Lights on, fog is thickening a bit
+  author: bergie
+  position:
+    longitude: -8.9296831
+    latitude: 42.5801169
+    source: GPS
+  heading: 74
+  course: 78
+  speed:
+    stw: 5.2
+    sog: 5.2
+  log: 6337.5
+  barometer: 1017.39
+  wind:
+    speed: 2.2
+    direction: 98
+  engine:
+    hours: 848
+  vhf: "9"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: navigation
+  observations:
+    visibility: 4
+    seaState: 0
+    cloudCoverage: 8
