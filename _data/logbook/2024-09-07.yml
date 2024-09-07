@@ -189,3 +189,50 @@
     - ihmis-suski
     - bergie
   category: maintenance
+- datetime: 2024-09-07T13:24:25.200Z
+  text: Stopped watermaker, too many two-stroke outboards around. Output was
+    around 300-400ppm
+  author: bergie
+  position:
+    longitude: -8.8886831
+    latitude: 42.569193
+    source: GPS
+  heading: 200
+  course: 164
+  speed:
+    stw: 0
+    sog: 0
+  log: 6343.4
+  barometer: 1014.08
+  wind:
+    speed: 7.4
+    direction: 214
+  engine:
+    hours: 849.5
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: maintenance
+- datetime: 2024-09-07T13:42:25.200Z
+  text: Started watermaker
+  author: bergie
+  position:
+    longitude: -8.8887074
+    latitude: 42.5692104
+    source: GPS
+  heading: 179
+  course: 125
+  speed:
+    stw: 0
+    sog: 0
+  log: 6343.4
+  barometer: 1014.06
+  wind:
+    speed: 10.7
+    direction: 211
+  engine:
+    hours: 849.5
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: maintenance
