@@ -68,3 +68,124 @@
     - ihmis-suski
     - bergie
   category: navigation
+- datetime: 2024-09-07T11:00:37.100Z
+  text: ""
+  author: ""
+  position:
+    longitude: -8.908407147725423
+    latitude: 42.58907966613769
+    source: GPS
+  heading: 157
+  course: 163
+  speed:
+    stw: 3.2
+    sog: 3
+  log: 6341.8
+  barometer: 1014
+  wind:
+    speed: 5.7
+    direction: 219
+  engine:
+    hours: 849.1
+  vhf: "10"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: navigation
+- datetime: 2024-09-07T11:14:11.100Z
+  text: Sails down, motoring
+  author: ""
+  position:
+    longitude: -8.9040246
+    latitude: 42.5832398
+    source: GPS
+  heading: 136
+  course: 145
+  speed:
+    stw: 0
+    sog: 0.5
+  log: 6342.2
+  barometer: 1014.16
+  wind:
+    speed: 2.7
+    direction: 258
+  engine:
+    hours: 849.1
+  vhf: "9"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: navigation
+- datetime: 2024-09-07T11:36:17.100Z
+  text: Anchored
+  author: ""
+  position:
+    longitude: -8.8888959
+    latitude: 42.5689831
+    source: GPS
+  heading: 191
+  course: 123
+  speed:
+    stw: 0
+    sog: 0.6
+  log: 6343.4
+  barometer: 1014.27
+  wind:
+    speed: 3.6
+    direction: 196
+  engine:
+    hours: 849.4
+  vhf: "9"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  end: true
+  category: navigation
+- datetime: 2024-09-07T11:42:05.100Z
+  text: Stopped main engine
+  author: ""
+  position:
+    longitude: -8.8887918
+    latitude: 42.569116
+    source: GPS
+  heading: 118
+  course: 15
+  speed:
+    stw: 0
+    sog: 0
+  log: 6343.4
+  barometer: 1014.22
+  wind:
+    speed: 4
+    direction: 207
+  engine:
+    hours: 849.5
+  vhf: "9"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: navigation
+- datetime: 2024-09-07T11:48:36.099Z
+  text: "Started watermaker "
+  author: bergie
+  position:
+    longitude: -8.8888298
+    latitude: 42.5691896
+    source: GPS
+  heading: 146
+  course: 22
+  speed:
+    stw: 0
+    sog: 0
+  log: 6343.4
+  barometer: 1014.18
+  wind:
+    speed: 3.5
+    direction: 223
+  engine:
+    hours: 849.5
+  vhf: "9"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: maintenance
