@@ -236,3 +236,95 @@
     - ihmis-suski
     - bergie
   category: maintenance
+- datetime: 2024-09-07T14:12:26.201Z
+  text: Stopped watermaker, consistently above 400ppm
+  author: bergie
+  position:
+    longitude: -8.8886791
+    latitude: 42.5692003
+    source: GPS
+  heading: 200
+  course: 150
+  speed:
+    stw: 0
+    sog: 0
+  log: 6343.4
+  barometer: 1013.84
+  wind:
+    speed: 7.4
+    direction: 223
+  engine:
+    hours: 849.5
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: maintenance
+- datetime: 2024-09-07T14:19:26.201Z
+  text: "Started watermaker "
+  author: bergie
+  position:
+    longitude: -8.8886808
+    latitude: 42.5691978
+    source: GPS
+  heading: 240
+  course: 5
+  speed:
+    stw: 0
+    sog: 0
+  log: 6343.4
+  barometer: 1013.85
+  wind:
+    speed: 10.2
+    direction: 212
+  engine:
+    hours: 849.5
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: maintenance
+- datetime: 2024-09-07T14:29:26.201Z
+  text: Stopped watermaker, 600ppm. Time to clean the filter
+  author: bergie
+  position:
+    longitude: -8.8886433
+    latitude: 42.5692104
+    source: GPS
+  heading: 245
+  course: 287
+  speed:
+    stw: 0
+    sog: 0
+  log: 6343.4
+  barometer: 1013.89
+  wind:
+    speed: 11.8
+    direction: 222
+  engine:
+    hours: 849.5
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: maintenance
+- datetime: 2024-09-07T14:55:26.201Z
+  text: Started watermaker with new filter
+  author: bergie
+  position:
+    longitude: -8.8886615
+    latitude: 42.5692073
+    source: GPS
+  heading: 189
+  course: 291
+  speed:
+    stw: 0
+    sog: 0
+  log: 6343.4
+  barometer: 1013.81
+  wind:
+    speed: 11.4
+    direction: 219
+  engine:
+    hours: 849.5
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: maintenance
