@@ -21,3 +21,49 @@
     - ihmis-suski
     - bergie
   category: maintenance
+- datetime: 2024-09-08T14:00:36.998Z
+  text: Stop water maker 502 ppm.
+  author: ihmis-suski
+  position:
+    longitude: -8.8886183
+    latitude: 42.5691811
+    source: GPS
+  heading: 250
+  course: 82
+  speed:
+    stw: 0
+    sog: 0
+  log: 6343.4
+  barometer: 1018.51
+  wind:
+    speed: 9.3
+    direction: 227
+  engine:
+    hours: 849.5
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: maintenance
+- datetime: 2024-09-08T14:53:38.099Z
+  text: Lubricated watermaker pump and did a 15min test run. 592ppm
+  author: bergie
+  position:
+    longitude: -8.8886013
+    latitude: 42.5691846
+    source: GPS
+  heading: 240
+  course: 303
+  speed:
+    stw: 0
+    sog: 0
+  log: 6343.4
+  barometer: 1018.5
+  wind:
+    speed: 10.4
+    direction: 226
+  engine:
+    hours: 849.5
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: maintenance
