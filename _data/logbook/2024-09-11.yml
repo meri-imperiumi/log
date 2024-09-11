@@ -22,3 +22,124 @@
     - ihmis-suski
     - bergie
   category: navigation
+- datetime: 2024-09-11T06:00:24.800Z
+  text: ""
+  author: ""
+  position:
+    longitude: -8.9231433
+    latitude: 42.5818653
+    source: GPS
+  heading: 62
+  course: 61
+  speed:
+    stw: 4.9
+    sog: 5.2
+  log: 6346.6
+  barometer: 1023.82
+  wind:
+    speed: 1.6
+    direction: 263
+  engine:
+    hours: 850.6
+  vhf: "9"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: navigation
+- datetime: 2024-09-11T06:01:25.800Z
+  text: DSC all ships call on channel 64, but no audio in two minutes
+  author: bergie
+  position:
+    longitude: -8.9213473
+    latitude: 42.5825768
+    source: GPS
+  heading: 63
+  course: 61
+  speed:
+    stw: 4.9
+    sog: 5.3
+  log: 6346.7
+  barometer: 1023.81
+  wind:
+    speed: 1.2
+    direction: 58
+  engine:
+    hours: 850.6
+  vhf: "9"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: radio
+- datetime: 2024-09-11T06:29:50.800Z
+  text: Anchored
+  author: ""
+  position:
+    longitude: -8.9325286
+    latitude: 42.6011063
+    source: GPS
+  heading: 281
+  course: 283
+  speed:
+    stw: 0
+    sog: 0
+  log: 6348.8
+  barometer: 1023.94
+  wind:
+    speed: 0.9
+    direction: 318
+  engine:
+    hours: 851.1
+  vhf: "9"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  end: true
+  category: navigation
+- datetime: 2024-09-11T06:34:24.800Z
+  text: Two rays swam under us
+  author: bergie
+  position:
+    longitude: -8.9325064
+    latitude: 42.6010621
+    source: GPS
+  heading: 336
+  course: 245
+  speed:
+    stw: 0
+    sog: 0
+  log: 6348.8
+  barometer: 1024.03
+  wind:
+    speed: 2.2
+    direction: 313
+  engine:
+    hours: 851.1
+  vhf: "9"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: navigation
+- datetime: 2024-09-11T06:34:26.800Z
+  text: Stopped main engine
+  author: ""
+  position:
+    longitude: -8.9325086
+    latitude: 42.6010613
+    source: GPS
+  heading: 337
+  course: 241
+  speed:
+    stw: 0
+    sog: 0
+  log: 6348.8
+  barometer: 1024.03
+  wind:
+    speed: 2.2
+    direction: 317
+  engine:
+    hours: 851.1
+  vhf: "9"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: navigation
