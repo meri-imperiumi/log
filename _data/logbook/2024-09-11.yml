@@ -336,3 +336,124 @@
     - ihmis-suski
     - bergie
   category: navigation
+- datetime: 2024-09-11T11:00:27.200Z
+  text: ""
+  author: ""
+  position:
+    longitude: -8.9305703
+    latitude: 42.5475379
+    source: GPS
+  heading: 196
+  course: 203
+  speed:
+    stw: 4.6
+    sog: 5.5
+  log: 6352.8
+  barometer: 1024.84
+  wind:
+    speed: 2.6
+    direction: 355
+  engine:
+    hours: 851.9
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: navigation
+- datetime: 2024-09-11T11:24:34.201Z
+  text: Motor stopped, sailing with Main, Genoa 1
+  author: ""
+  position:
+    longitude: -8.9454095
+    latitude: 42.5128976
+    source: GPS
+  heading: 196
+  course: 201
+  speed:
+    stw: 1.5
+    sog: 2.3
+  log: 6355
+  barometer: 1024.7
+  wind:
+    speed: 2.7
+    direction: 240
+  engine:
+    hours: 852.3
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: navigation
+- datetime: 2024-09-11T11:25:26.201Z
+  text: "Started watermaker "
+  author: bergie
+  position:
+    longitude: -8.9456539
+    latitude: 42.5123903
+    source: GPS
+  heading: 192
+  course: 196
+  speed:
+    stw: 1.4
+    sog: 2.2
+  log: 6355
+  barometer: 1024.66
+  wind:
+    speed: 2.3
+    direction: 228
+  engine:
+    hours: 852.3
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: maintenance
+- datetime: 2024-09-11T11:52:27.200Z
+  text: "Securité from Vigo Radio: navigational warning Vigo Bay, St. CHRISTINA
+    port, red light unlit"
+  author: bergie
+  position:
+    longitude: -8.9533186
+    latitude: 42.4906114
+    source: GPS
+  heading: 192
+  course: 195
+  speed:
+    stw: 2.1
+    sog: 2.7
+  log: 6356.4
+  barometer: 1024.39
+  wind:
+    speed: 4.5
+    direction: 281
+  engine:
+    hours: 852.5
+  vhf: "64"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: radio
+- datetime: 2024-09-11T11:55:27.200Z
+  text: Watermaker still bad, 511ppm
+  author: bergie
+  position:
+    longitude: -8.954297
+    latitude: 42.4882503
+    source: GPS
+  heading: 201
+  course: 197
+  speed:
+    stw: 2.9
+    sog: 3.5
+  log: 6356.5
+  barometer: 1024.32
+  wind:
+    speed: 7.7
+    direction: 259
+  engine:
+    hours: 852.5
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: maintenance
