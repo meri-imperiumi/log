@@ -457,3 +457,76 @@
     - ihmis-suski
     - bergie
   category: maintenance
+- datetime: 2024-09-11T12:00:27.200Z
+  text: ""
+  author: ""
+  position:
+    longitude: -8.9550686
+    latitude: 42.4821251
+    source: GPS
+  heading: 173
+  course: 179
+  speed:
+    stw: 4.3
+    sog: 4.8
+  log: 6356.9
+  barometer: 1024.32
+  wind:
+    speed: 10.1
+    direction: 288
+  engine:
+    hours: 852.5
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: navigation
+- datetime: 2024-09-11T12:05:27.200Z
+  text: Watermaker off. It appears to draw 80W, which is about double. So that
+    suggests time for membrane cleaning cycle
+  author: bergie
+  position:
+    longitude: -8.9539293
+    latitude: 42.4751018
+    source: GPS
+  heading: 169
+  course: 173
+  speed:
+    stw: 3.9
+    sog: 4.4
+  log: 6357.3
+  barometer: 1024.4
+  wind:
+    speed: 9.9
+    direction: 302
+  engine:
+    hours: 852.5
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: navigation
+- datetime: 2024-09-11T12:49:27.299Z
+  text: Windex appears to be moving a bit. Will need to be tightened
+  author: bergie
+  position:
+    longitude: -8.932581329345703
+    latitude: 42.42576681772868
+    source: GPS
+  heading: 148
+  course: 154
+  speed:
+    stw: 4.5
+    sog: 5.3
+  log: 6360.5
+  barometer: 1024.2
+  wind:
+    speed: 13.3
+    direction: 282
+  engine:
+    hours: 852.5
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: maintenance
