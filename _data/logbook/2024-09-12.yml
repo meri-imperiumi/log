@@ -159,3 +159,51 @@
     - ihmis-suski
     - bergie
   category: maintenance
+- datetime: 2024-09-12T18:00:40.601Z
+  text: Running watermaker cleaning cycle with the "bad" product water to flush
+    the system a bit
+  author: bergie
+  position:
+    longitude: -8.9274858
+    latitude: 42.3786951
+    source: GPS
+  heading: 323
+  course: 160
+  speed:
+    stw: 0
+    sog: 0
+  log: 6363.9
+  barometer: 1022.04
+  wind:
+    speed: 12.5
+    direction: 317
+  engine:
+    hours: 853.2
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: maintenance
+- datetime: 2024-09-12T18:41:40.697Z
+  text: At end of freshwater flush, watermaker was pushing 1000ppm out of the
+    reject brine hose. Slightly fishy smell
+  author: bergie
+  position:
+    longitude: -8.9275958
+    latitude: 42.3786316
+    source: GPS
+  heading: 337
+  course: 187
+  speed:
+    stw: 0
+    sog: 0
+  log: 6363.9
+  barometer: 1021.57
+  wind:
+    speed: 11.3
+    direction: 336
+  engine:
+    hours: 853.2
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: maintenance
