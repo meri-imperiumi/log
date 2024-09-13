@@ -21,55 +21,6 @@
     - ihmis-suski
     - bergie
   category: navigation
-- datetime: 2024-09-13T07:44:12.000Z
-  text: Anchor up, motoring
-  author: ""
-  position:
-    longitude: -8.9272935
-    latitude: 42.3784568
-    source: GPS
-  heading: 110
-  course: 125
-  speed:
-    stw: 0
-    sog: 4.3
-  log: 6363.9
-  barometer: 1023.65
-  wind:
-    speed: 21.5
-    direction: 17
-  engine:
-    hours: 853.3
-  vhf: "16"
-  crewNames:
-    - ihmis-suski
-    - bergie
-  category: navigation
-- datetime: 2024-09-13T07:44:48.000Z
-  text: Stopped
-  author: ""
-  position:
-    longitude: -8.9264193
-    latitude: 42.3781495
-    source: GPS
-  heading: 142
-  course: 154
-  speed:
-    stw: 4.3
-    sog: 5.4
-  log: 6363.9
-  barometer: 1023.72
-  wind:
-    speed: 21.6
-    direction: 34
-  engine:
-    hours: 853.3
-  vhf: "16"
-  crewNames:
-    - ihmis-suski
-    - bergie
-  end: true
-  category: navigation
 - datetime: 2024-09-13T07:45:48.000Z
   text: Motoring
   author: ""
@@ -117,3 +68,77 @@
   crewNames:
     - ihmis-suski
     - bergie
+  category: navigation
+- datetime: 2024-09-13T09:00:47.001Z
+  text: ""
+  author: ""
+  position:
+    longitude: -8.9010921
+    latitude: 42.2690036
+    source: GPS
+  heading: 171
+  course: 162
+  speed:
+    stw: 4.7
+    sog: 5.8
+  log: 6370.5
+  barometer: 1023.67
+  wind:
+    speed: 21.5
+    direction: 50
+  engine:
+    hours: 854.6
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: navigation
+- datetime: 2024-09-13T09:48:44.099Z
+  text: Anchored
+  author: ""
+  position:
+    longitude: -8.9017805
+    latitude: 42.2146719
+    source: GPS
+  heading: 3
+  course: 253
+  speed:
+    stw: 0
+    sog: 0.2
+  log: 6374.4
+  barometer: 1023.53
+  wind:
+    speed: 7.8
+    direction: 13
+  engine:
+    hours: 855.4
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  end: true
+  category: navigation
+- datetime: 2024-09-13T09:52:59.100Z
+  text: Stopped main engine
+  author: ""
+  position:
+    longitude: -8.9020061
+    latitude: 42.2144574
+    source: GPS
+  heading: 65
+  course: 182
+  speed:
+    stw: 0
+    sog: 0.6
+  log: 6374.4
+  barometer: 1023.62
+  wind:
+    speed: 13.6
+    direction: 356
+  engine:
+    hours: 855.5
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: navigation
