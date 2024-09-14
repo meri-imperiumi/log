@@ -1,0 +1,116 @@
+- datetime: 2024-09-14T08:39:52.000Z
+  text: Started main engine
+  author: ""
+  position:
+    longitude: -8.902069
+    latitude: 42.2145326
+    source: GPS
+  heading: 78
+  course: 354
+  speed:
+    stw: 0
+    sog: 0
+  log: 6374.4
+  barometer: 1022.2
+  wind:
+    speed: 4.8
+    direction: 53
+  engine:
+    hours: 855.5
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: navigation
+- datetime: 2024-09-14T08:41:24.000Z
+  text: Anchor up, motoring
+  author: ""
+  position:
+    longitude: -8.902023315429688
+    latitude: 42.21453766822815
+    source: GPS
+  heading: 75
+  course: 119
+  speed:
+    stw: 0
+    sog: 0
+  log: 6374.4
+  barometer: 1022.23
+  wind:
+    speed: 3.8
+    direction: 53
+  engine:
+    hours: 855.5
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: navigation
+- datetime: 2024-09-14T08:41:51.001Z
+  text: Stopped
+  author: ""
+  position:
+    longitude: -8.9019463
+    latitude: 42.2145571
+    source: GPS
+  heading: 42
+  course: 47
+  speed:
+    stw: 0
+    sog: 1.5
+  log: 6374.4
+  barometer: 1022.22
+  wind:
+    speed: 1.7
+    direction: 27
+  engine:
+    hours: 855.5
+  crewNames:
+    - ihmis-suski
+    - bergie
+  end: true
+  category: navigation
+- datetime: 2024-09-14T08:45:51.001Z
+  text: Motoring
+  author: ""
+  position:
+    longitude: -8.9001596
+    latitude: 42.2133375
+    source: GPS
+  heading: 113
+  course: 118
+  speed:
+    stw: 4.3
+    sog: 4.7
+  log: 6374.4
+  barometer: 1022.25
+  wind:
+    speed: 5.2
+    direction: 59
+  engine:
+    hours: 855.6
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: navigation
+- datetime: 2024-09-14T08:52:39.001Z
+  text: Motor stopped, sailing with Main, Genoa 1
+  author: ""
+  position:
+    longitude: -8.8931268
+    latitude: 42.2092195
+    source: GPS
+  heading: 135
+  course: 148
+  speed:
+    stw: 1.5
+    sog: 1.9
+  log: 6374.8
+  barometer: 1022.29
+  wind:
+    speed: 9.8
+    direction: 53
+  engine:
+    hours: 855.7
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: navigation
