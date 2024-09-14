@@ -21,56 +21,9 @@
     - ihmis-suski
     - bergie
   category: navigation
-- datetime: 2024-09-14T08:41:24.000Z
-  text: Anchor up, motoring
-  author: ""
-  position:
-    longitude: -8.902023315429688
-    latitude: 42.21453766822815
-    source: GPS
-  heading: 75
-  course: 119
-  speed:
-    stw: 0
-    sog: 0
-  log: 6374.4
-  barometer: 1022.23
-  wind:
-    speed: 3.8
-    direction: 53
-  engine:
-    hours: 855.5
-  crewNames:
-    - ihmis-suski
-    - bergie
-  category: navigation
-- datetime: 2024-09-14T08:41:51.001Z
-  text: Stopped
-  author: ""
-  position:
-    longitude: -8.9019463
-    latitude: 42.2145571
-    source: GPS
-  heading: 42
-  course: 47
-  speed:
-    stw: 0
-    sog: 1.5
-  log: 6374.4
-  barometer: 1022.22
-  wind:
-    speed: 1.7
-    direction: 27
-  engine:
-    hours: 855.5
-  crewNames:
-    - ihmis-suski
-    - bergie
-  end: true
-  category: navigation
 - datetime: 2024-09-14T08:45:51.001Z
-  text: Motoring
-  author: ""
+  text: Anchor up, motoring
+  author: bergie
   position:
     longitude: -8.9001596
     latitude: 42.2133375
@@ -283,3 +236,26 @@
     - ihmis-suski
     - bergie
   category: navigation
+- datetime: 2024-09-14T11:20:50.400Z
+  text: Swapped the navigation tablet holder to new one
+  author: bergie
+  position:
+    longitude: -8.8288648
+    latitude: 42.1453299
+    source: GPS
+  heading: 318
+  course: 167
+  speed:
+    stw: 0
+    sog: 0
+  log: 6380.1
+  barometer: 1021.95
+  wind:
+    speed: 4.3
+    direction: 0
+  engine:
+    hours: 856.7
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: maintenance
