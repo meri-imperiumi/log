@@ -70,3 +70,79 @@
     - ihmis-suski
     - bergie
   category: navigation
+- datetime: 2024-09-15T08:00:55.299Z
+  text: ""
+  author: ""
+  position:
+    longitude: -8.8610936
+    latitude: 42.1347428
+    source: GPS
+  heading: 254
+  course: 255
+  speed:
+    stw: 4.8
+    sog: 5.2
+  log: 6381.6
+  barometer: 1020.68
+  wind:
+    speed: 4.8
+    direction: 189
+  engine:
+    hours: 857.1
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: navigation
+- datetime: 2024-09-15T08:32:55.299Z
+  text: Dolphins!
+  author: ihmis-suski
+  position:
+    longitude: -8.9090861
+    latitude: 42.1151933
+    source: GPS
+  heading: 166
+  course: 172
+  speed:
+    stw: 4.8
+    sog: 4.6
+  log: 6384.4
+  barometer: 1020.66
+  wind:
+    speed: 4
+    direction: 129
+  engine:
+    hours: 857.6
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: navigation
+  observations:
+    seaState: 2
+    cloudCoverage: 1
+    visibility: 7
+- datetime: 2024-09-15T08:50:55.299Z
+  text: Watermaker on.
+  author: ihmis-suski
+  position:
+    longitude: -8.9019683
+    latitude: 42.0912176
+    source: GPS
+  heading: 177
+  course: 189
+  speed:
+    stw: 4.8
+    sog: 4.8
+  log: 6385.9
+  barometer: 1020.79
+  wind:
+    speed: 3.5
+    direction: 218
+  engine:
+    hours: 857.9
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: maintenance
