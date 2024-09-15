@@ -1,0 +1,72 @@
+- datetime: 2024-09-15T07:31:55.299Z
+  text: Pumped the bilge
+  author: bergie
+  position:
+    longitude: -8.8288803
+    latitude: 42.1455066
+    source: GPS
+  heading: 216
+  course: 195
+  speed:
+    stw: 0
+    sog: 0
+  log: 6380.1
+  barometer: 1020.61
+  wind:
+    speed: 0.6
+    direction: 15
+  engine:
+    hours: 856.7
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: maintenance
+- datetime: 2024-09-15T07:36:32.300Z
+  text: Started main engine
+  author: ""
+  position:
+    longitude: -8.8288719
+    latitude: 42.1454445
+    source: GPS
+  heading: 238
+  course: 188
+  speed:
+    stw: 0
+    sog: 0
+  log: 6380.1
+  barometer: 1020.69
+  wind:
+    speed: 1.2
+    direction: 296
+  engine:
+    hours: 856.7
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: navigation
+- datetime: 2024-09-15T07:41:56.300Z
+  text: Anchor up, motoring
+  author: bergie
+  position:
+    longitude: -8.8301608
+    latitude: 42.1446401
+    source: GPS
+  heading: 220
+  course: 221
+  speed:
+    stw: 2.6
+    sog: 2.8
+  log: 6380.1
+  barometer: 1020.73
+  wind:
+    speed: 1.9
+    direction: 224
+  engine:
+    hours: 856.8
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: navigation
