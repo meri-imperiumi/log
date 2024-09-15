@@ -146,3 +146,133 @@
     - ihmis-suski
     - bergie
   category: maintenance
+- datetime: 2024-09-15T09:00:56.300Z
+  text: ""
+  author: ""
+  position:
+    longitude: -8.9021316
+    latitude: 42.0772634
+    source: GPS
+  heading: 172
+  course: 175
+  speed:
+    stw: 4.8
+    sog: 5.2
+  log: 6386.7
+  barometer: 1020.91
+  wind:
+    speed: 2
+    direction: 328
+  engine:
+    hours: 858.1
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: navigation
+- datetime: 2024-09-15T09:36:01.299Z
+  text: >-
+    Motor stopped, sailing with Main, Genoa 1
+
+
+
+    Stopped watermaker with slightly open prefilter. Engine immediately sucked
+    air from there and created an air lock into the system. 
+
+
+    Problem solved with opening sea-strainer and letting air out.  And closing
+    all valves on water maker side.
+  author: ihmis-suski
+  position:
+    longitude: -8.8997725
+    latitude: 42.031435
+    source: GPS
+  heading: 274
+  course: 319
+  speed:
+    stw: 0
+    sog: 0.6
+  log: 6389.5
+  barometer: 1020.81
+  wind:
+    speed: 2.5
+    direction: 319
+  engine:
+    hours: 858.7
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: navigation
+- datetime: 2024-09-15T09:40:44.300Z
+  text: Sails down, motoring
+  author: ""
+  position:
+    longitude: -8.9015586
+    latitude: 42.0297083
+    source: GPS
+  heading: 221
+  course: 222
+  speed:
+    stw: 2
+    sog: 2.2
+  log: 6389.7
+  barometer: 1020.82
+  wind:
+    speed: 3.2
+    direction: 318
+  engine:
+    hours: 858.8
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: navigation
+- datetime: 2024-09-15T09:41:41.299Z
+  text: Motor stopped, sailing with Main, Genoa 1
+  author: ""
+  position:
+    longitude: -8.9020275
+    latitude: 42.0292445
+    source: GPS
+  heading: 224
+  course: 216
+  speed:
+    stw: 1.9
+    sog: 2.1
+  log: 6389.7
+  barometer: 1020.82
+  wind:
+    speed: 2.8
+    direction: 312
+  engine:
+    hours: 858.8
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: navigation
+- datetime: 2024-09-15T09:44:02.300Z
+  text: Sails down, motoring
+  author: ""
+  position:
+    longitude: -8.9031265
+    latitude: 42.0280095
+    source: GPS
+  heading: 203
+  course: 206
+  speed:
+    stw: 2
+    sog: 2.3
+  log: 6389.8
+  barometer: 1020.86
+  wind:
+    speed: 3.5
+    direction: 274
+  engine:
+    hours: 858.8
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: navigation
