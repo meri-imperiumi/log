@@ -205,8 +205,15 @@
     - bergie
   category: navigation
 - datetime: 2024-09-15T09:40:44.300Z
-  text: Sails down, motoring
-  author: ""
+  text: >-
+    Sails down, motoring
+
+
+    Still no water, but that was closed sea cock as getting the lid back on to
+    the sea strainer was too difficult when water was spilling out. Opening sea
+    cock and water comes out of cooling side immediately. Motor temp went maybe
+    10 degrees up from normal in the whole process as we noticed it immediately.
+  author: ihmis-suski
   position:
     longitude: -8.9015586
     latitude: 42.0297083
@@ -276,3 +283,26 @@
     - ihmis-suski
     - bergie
   category: navigation
+- datetime: 2024-09-15T10:00:55.299Z
+  text: ""
+  author: ""
+  position:
+    longitude: -8.9010031
+    latitude: 42.0071254
+    source: GPS
+  heading: 167
+  course: 177
+  speed:
+    stw: 4.5
+    sog: 4.8
+  log: 6391.1
+  barometer: 1020.82
+  wind:
+    speed: 2.3
+    direction: 171
+  engine:
+    hours: 859.1
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
