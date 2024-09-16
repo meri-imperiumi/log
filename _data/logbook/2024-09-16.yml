@@ -117,3 +117,76 @@
   crewNames:
     - ihmis-suski
     - bergie
+  category: navigation
+- datetime: 2024-09-16T13:00:44.400Z
+  text: ""
+  author: ""
+  position:
+    longitude: -8.7539851
+    latitude: 41.2758374
+    source: GPS
+  heading: 164
+  course: 173
+  speed:
+    stw: 4.5
+    sog: 4.5
+  log: 6441.4
+  barometer: 1015.9
+  wind:
+    speed: 11.6
+    direction: 38
+  engine:
+    hours: 862.6
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: navigation
+- datetime: 2024-09-16T13:15:44.400Z
+  text: Stopped watermaker, 156ppm
+  author: bergie
+  position:
+    longitude: -8.749794006347656
+    latitude: 41.25791200002035
+    source: GPS
+  heading: 165
+  course: 171
+  speed:
+    stw: 3.8
+    sog: 4.1
+  log: 6442.5
+  barometer: 1015.75
+  wind:
+    speed: 7.7
+    direction: 75
+  engine:
+    hours: 862.6
+  vhf: "9"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: maintenance
+- datetime: 2024-09-16T13:17:49.401Z
+  text: "Sails set: Main (1st reef), Genoa 1"
+  author: ""
+  position:
+    longitude: -8.7496181
+    latitude: 41.2560083
+    source: GPS
+  heading: 165
+  course: 172
+  speed:
+    stw: 2.6
+    sog: 3.1
+  log: 6442.7
+  barometer: 1015.71
+  wind:
+    speed: 7.7
+    direction: 71
+  engine:
+    hours: 862.6
+  vhf: "9"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: navigation
