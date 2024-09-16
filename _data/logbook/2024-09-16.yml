@@ -190,3 +190,76 @@
     - ihmis-suski
     - bergie
   category: navigation
+- datetime: 2024-09-16T14:00:44.400Z
+  text: ""
+  author: ""
+  position:
+    longitude: -8.7341588
+    latitude: 41.2170534
+    source: GPS
+  heading: 159
+  course: 166
+  speed:
+    stw: 4.2
+    sog: 4.1
+  log: 6445.1
+  barometer: 1015.3
+  wind:
+    speed: 11.7
+    direction: 64
+  engine:
+    hours: 862.6
+  vhf: "9"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: navigation
+- datetime: 2024-09-16T14:14:43.398Z
+  text: "Sails set: Main (1st reef). The wind shift finally came, but we're only
+    20min from dropping sails anyway"
+  author: bergie
+  position:
+    longitude: -8.7271001
+    latitude: 41.1991106
+    source: GPS
+  heading: 156
+  course: 162
+  speed:
+    stw: 4.1
+    sog: 4.2
+  log: 6446.2
+  barometer: 1015.07
+  wind:
+    speed: 14.6
+    direction: 0
+  engine:
+    hours: 862.6
+  vhf: "9"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: navigation
+- datetime: 2024-09-16T14:27:18.400Z
+  text: Sails down, motoring
+  author: ""
+  position:
+    longitude: -8.7210896
+    latitude: 41.1863543
+    source: GPS
+  heading: 151
+  course: 161
+  speed:
+    stw: 2.3
+    sog: 2.1
+  log: 6447.1
+  barometer: 1015.03
+  wind:
+    speed: 8.9
+    direction: 303
+  engine:
+    hours: 862.6
+  vhf: "9"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: navigation
