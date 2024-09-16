@@ -165,3 +165,75 @@
     - ihmis-suski
     - bergie
   category: maintenance
+- datetime: 2024-09-16T09:00:40.899Z
+  text: ""
+  author: ""
+  position:
+    longitude: -8.8463958
+    latitude: 41.5966493
+    source: GPS
+  heading: 156
+  course: 156
+  speed:
+    stw: 3.2
+    sog: 3.4
+  log: 6421.5
+  barometer: 1018.51
+  wind:
+    speed: 8.7
+    direction: 26
+  engine:
+    hours: 862.6
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: navigation
+- datetime: 2024-09-16T09:47:41.900Z
+  text: Watermaker 150ppm
+  author: bergie
+  position:
+    longitude: -8.830591
+    latitude: 41.5499689
+    source: GPS
+  heading: 158
+  course: 158
+  speed:
+    stw: 3.2
+    sog: 3.4
+  log: 6424.4
+  barometer: 1018.3
+  wind:
+    speed: 8.9
+    direction: 78
+  engine:
+    hours: 862.6
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: maintenance
+- datetime: 2024-09-16T09:53:36.899Z
+  text: "Sails set: Main, Genoa 1 (20% furled)"
+  author: ""
+  position:
+    longitude: -8.8286184
+    latitude: 41.5421319
+    source: GPS
+  heading: 167
+  course: 176
+  speed:
+    stw: 6
+    sog: 5.8
+  log: 6424.9
+  barometer: 1018.3
+  wind:
+    speed: 18.4
+    direction: 72
+  engine:
+    hours: 862.6
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: navigation
