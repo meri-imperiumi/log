@@ -1,6 +1,19 @@
 ---
 layout: boat
 title: 'Isosaari - Spindrift 9N'
+countries-sailed:
+  - DE
+  - SWE
+  - 'NO'
+  - Shetland
+  - Scotland
+  - UK
+  - ES
+unlinked_countries:
+   - AX
+   - Shetland
+   - Orkney
+   - Scotland
 cover: '../2024/spindrift.jpg'
 gallery:
   - title: "Beach landing in Shetland Islands"
@@ -60,6 +73,21 @@ excerpt: 'We have a Spindrift 9N nesting dinghy that we built ourselves'
     <li>Weight: 36.5kg (14kg bow section, 22.5kg aft section)</li>
     <li>Anchor: 2.5kg grapnel</li>
   </ul>
+  <div class="flags">
+      <ul>
+          {% for country_code in page.countries-sailed %}
+              <li>
+                  {% unless page.unlinked_countries contains country_code %}
+                  <a href="https://countrycode.org/{{ country_code }}">
+                    <img src="/style/flags/iso/{{ country_code | downcase }}.png" alt="{{ country_code }}" title="{{ country_code }}" />
+                  </a>
+                  {% else %}
+                    <img src="/style/flags/iso/{{ country_code | downcase }}.png" alt="{{ country_code }}" title="{{ country_code }}" />
+                  {% endunless %}
+              </li>
+          {% endfor %}
+      </ul>
+  </div>
 </div>
 
 {% include gallery.html %}
