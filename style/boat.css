@@ -59,3 +59,15 @@ div.details li {
     column-count: 1;
   }
 }
+.flags ul{
+    padding-left: unset;
+}
+
+.flags ul li{
+   display: inline-block;
+}
+
+.flags ul li img{
+    height: 20px;
+    border-radius: 0px;
+}
