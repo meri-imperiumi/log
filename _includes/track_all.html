@@ -1,0 +1,55 @@
+{% assign map_longitude = site.data.position.longitude %}
+{% assign map_latitude = site.data.position.latitude %}
+<section class="track">
+  <div class="map" id="map_all"></div>
+  <link href="https://unpkg.com/maplibre-gl@2.1.7/dist/maplibre-gl.css" rel="stylesheet" />
+  <script src="https://unpkg.com/maplibre-gl@2.1.7/dist/maplibre-gl.js"></script>
+  <script>
+    const mapall = new maplibregl.Map({
+      container: 'map_all',
+      style: 'https://api.maptiler.com/maps/voyager/style.json?key=BgltQL3i6kfpoIy9GMqW',
+      center: [{{ map_longitude}}, {{ map_latitude }}],
+      zoom: 6,
+      scrollZoom: false,
+    });
+    mapall.on('load', () => {
+      mapall.touchZoomRotate.disableRotation();
+      {% for year in site.years %}
+        {% capture track_name %}{{ year.year }}.json{% endcapture %}
+      fetch('/tracks/{{ track_name }}')
+        .then((data) => data.json())
+        .then((geoJson) => {
+          mapall.addSource('{{ track_name }}', {
+            type: 'geojson',
+            data: geoJson,
+          });
+          mapall.addLayer({
+            'id': '{{ track_name }}',
+            'type': 'line',
+            'source': '{{ track_name }}',
+            'layout': {
+              'line-join': 'round',
+              'line-cap': 'round'
+            },
+            'paint': {
+              'line-color': '#cf1d39',
+              'line-width': 5
+            }
+          });
+          const coordinates = geoJson.coordinates[0];
+          const bounds = coordinates.reduce((bounds, coord) => {
+            return bounds.extend(coord);
+          }, new maplibregl.LngLatBounds(coordinates[0], coordinates[1]));
+
+          mapall.fitBounds(bounds, {
+            padding: 40
+          });
+        })
+        .catch((e) => {
+              console.log(e);
+          document.getElementById('map_all').style.display = 'none';
+        });
+      {% endfor %}
+    });
+  </script>
+</section>
