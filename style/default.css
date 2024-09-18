@@ -418,7 +418,7 @@ h2.meta {
   font-style: italic;
   font-size: smaller;
 }
-#rss, #youtube {
+#rss {
   float: right;
   margin-top: 0.7em;
   margin-left: 1em;
@@ -467,6 +467,28 @@ h2.meta {
   z-index: 2;
   right: -60vw;
   transition: 0.3s;
+}
+footer {
+  display: block;
+}
+footer ul {
+  margin: 1em;
+  margin-left: auto;
+  margin-right: auto;
+  padding: 0px;
+  text-align: center;
+  display: block;
+}
+footer ul li {
+  padding: 1em;
+  margin: 0em;
+  list-style: none;
+  display: inline-block;
+}
+footer ul li img {
+  width: calc(1.2em + 16px);
+  height: calc(1.2em + 16px);
+  border-radius: 4px;
 }
 @media (max-width: 760px) {
   main img {
