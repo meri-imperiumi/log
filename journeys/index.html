@@ -3,16 +3,36 @@ layout: default
 title: Journeys
 ---
 <h1>{{ page.title }}</h1>
+{% include track_all.html %}
+<hr />
 <ul class="logs">
 {% for year in site.years %}
   <li id="{{ year.year }}">
     <article>
       <h1><a href="{{ site.baseurl }}{{ year.url }}">{{ year.title }}</a></h1>
-      <aside class="map">
-        {% assign current_year = year.year | string %}
-        {% include track_year.html %}
-      </aside>
       {{ year.content | replace: 'img src="..', 'img src="https://meri-imperiumi.github.io/log'| replace: 'https://meri-imperiumi.github.io/log',site.baseurl | replace: "Lille Ø", "<i>Lille Ø</i>" }}
+    {% assign year_images = "" | split: "" %}
+
+    {% for post in site.logs %}
+      {% assign post_year = post.created | date: "%Y" %}
+      {% if post_year contains year.year %}
+        {% assign images = post.content | split:"<img " %}
+        {% for image in images %}
+          {% if image contains 'src' %}
+            {% assign html = image | split:"/>" | first %}
+            {% capture image_tag %}<a href="{{ site.baseurl }}{{ post.url }}"><img {{ html }} /></a>BREAK{% endcapture %}
+            {% assign image_tags = image_tag | split: 'BREAK' %}
+            {% assign year_images = year_images | concat: image_tags %}
+          {% endif %}
+        {% endfor %}
+      {% endif %}
+    {% endfor %}
+    {% assign featured_images = year_images | sample: 6 %}
+      <ul class="image_slideshow">
+      {% for image in featured_images %}
+        <li>{{ image }}</li>
+      {% endfor %}
+      </ul>
       <p class="meta"><a href="{{ site.baseurl }}{{ year.url }}">Read more &raquo;</a></p>
       {% if forloop.last == false %}
         <hr>

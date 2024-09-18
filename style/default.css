@@ -139,14 +139,22 @@ main li.video iframe {
 }
 
 
-ul.logs {
+ul.logs, ul.image_slideshow {
   margin: 0;
   padding: 0;
 }
-ul.logs > li {
+ul.logs > li, ul.image_slideshow > li {
   list-style: none;
   margin: 0;
   padding: 0;
+}
+ul.image_slideshow > li {
+  display: inline-block;
+}
+ul.image_slideshow > li img {
+  max-width: 18vw;
+  max-height: 18vw;
+  object-fit: contain;
 }
 ul.logs article h1 {
   font-size: 22pt;
