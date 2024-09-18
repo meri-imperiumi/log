@@ -7,8 +7,8 @@
       const map = new maplibregl.Map({
         container: 'map',
         style: 'https://api.maptiler.com/maps/voyager/style.json?key=BgltQL3i6kfpoIy9GMqW',
-        center: [{{ site.data.position.longitude | plus: 0.2 }}, {{ site.data.position.latitude | plus: 0.2 }}],
-        zoom: 8,
+        center: [{{ site.data.position.longitude | plus: 0.2 }}, {{ site.data.position.latitude | plus: 0.8 }}],
+        zoom: 6,
       });
 
       const marker = new maplibregl.Marker({
