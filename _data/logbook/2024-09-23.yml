@@ -220,3 +220,51 @@
   category: navigation
   observations:
     visibility: 5
+- datetime: 2024-09-23T12:00:49.699Z
+  text: ""
+  author: ""
+  position:
+    longitude: -8.717181
+    latitude: 40.9266388
+    source: GPS
+  heading: 190
+  course: 184
+  speed:
+    stw: 4.7
+    sog: 5.3
+  log: 6465.3
+  barometer: 1020.64
+  wind:
+    speed: 5.3
+    direction: 241
+  engine:
+    hours: 866.7
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: navigation
+- datetime: 2024-09-23T12:43:32.700Z
+  text: Motor stopped, sailing with Main, Genoa 1
+  author: ""
+  position:
+    longitude: -8.7283866
+    latitude: 40.8675198
+    source: GPS
+  heading: 177
+  course: 179
+  speed:
+    stw: 4.1
+    sog: 4.5
+  log: 6469
+  barometer: 1020.28
+  wind:
+    speed: 8.3
+    direction: 248
+  engine:
+    hours: 867.4
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: navigation
