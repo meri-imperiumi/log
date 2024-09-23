@@ -291,3 +291,77 @@
   crewNames:
     - ihmis-suski
     - bergie
+  category: navigation
+- datetime: 2024-09-23T14:00:40.700Z
+  text: ""
+  author: ""
+  position:
+    longitude: -8.7508239
+    latitude: 40.769948
+    source: GPS
+  heading: 199
+  course: 192
+  speed:
+    stw: 4.8
+    sog: 5.5
+  log: 6474.9
+  barometer: 1020.12
+  wind:
+    speed: 10.2
+    direction: 270
+  engine:
+    hours: 867.4
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: navigation
+- datetime: 2024-09-23T14:46:40.700Z
+  text: "Was able to reach Aveiro club harbour master over phone, and apparently
+    we can fit in tonight "
+  author: bergie
+  position:
+    longitude: -8.763786506652831
+    latitude: 40.71365998586019
+    source: GPS
+  heading: 181
+  course: 177
+  speed:
+    stw: 3
+    sog: 3.7
+  log: 6478.3
+  barometer: 1019.73
+  wind:
+    speed: 6.9
+    direction: 274
+  engine:
+    hours: 867.4
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: radio
+- datetime: 2024-09-23T14:49:46.700Z
+  text: Sails down, motoring
+  author: ""
+  position:
+    longitude: -8.7637208
+    latitude: 40.7108353
+    source: GPS
+  heading: 178
+  course: 177
+  speed:
+    stw: 2
+    sog: 2.5
+  log: 6478.5
+  barometer: 1019.68
+  wind:
+    speed: 6.3
+    direction: 280
+  engine:
+    hours: 867.4
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: navigation
