@@ -139,3 +139,84 @@
   crewNames:
     - ihmis-suski
     - bergie
+  category: navigation
+- datetime: 2024-09-23T11:00:04.300Z
+  text: ""
+  author: bergie
+  position:
+    longitude: -8.7044605
+    latitude: 41.0121358
+    source: GPS
+  heading: 174
+  course: 172
+  speed:
+    stw: 4.8
+    sog: 4.9
+  log: 6460.1
+  barometer: 1020.64
+  wind:
+    speed: 6.1
+    direction: 254
+  engine:
+    hours: 865.8
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: navigation
+  observations:
+    seaState: 2
+    cloudCoverage: 1
+    visibility: 5
+- datetime: 2024-09-23T11:09:02.300Z
+  text: Can't see the sailboat 0.5NM ahead of us any longer, started fog horn
+  author: bergie
+  position:
+    longitude: -8.7046239
+    latitude: 40.9995175
+    source: GPS
+  heading: 190
+  course: 189
+  speed:
+    stw: 4.8
+    sog: 5
+  log: 6460.9
+  barometer: 1020.67
+  wind:
+    speed: 6.2
+    direction: 255
+  engine:
+    hours: 865.9
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: navigation
+  observations:
+    visibility: 3
+- datetime: 2024-09-23T11:56:49.699Z
+  text: Better visibility now. Still wet and cold
+  author: bergie
+  position:
+    longitude: -8.716098
+    latitude: 40.9322136
+    source: GPS
+  heading: 187
+  course: 193
+  speed:
+    stw: 4.8
+    sog: 5.1
+  log: 6465
+  barometer: 1020.61
+  wind:
+    speed: 6.4
+    direction: 243
+  engine:
+    hours: 866.6
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: navigation
+  observations:
+    visibility: 5
