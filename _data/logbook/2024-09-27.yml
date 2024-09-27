@@ -339,8 +339,8 @@
     - bergie
   category: navigation
 - datetime: 2024-09-27T15:49:59.001Z
-  text: "Sails set: Main, Genoa 1 (20% furled)"
-  author: ""
+  text: "Sails set: Main, Genoa 1 (20% furled). Autopilot activated "
+  author: bergie
   position:
     longitude: -9.1240125
     latitude: 40.596356
@@ -481,3 +481,28 @@
   crewNames:
     - ihmis-suski
     - bergie
+  category: navigation
+- datetime: 2024-09-27T20:00:54.003Z
+  text: ""
+  author: ""
+  position:
+    longitude: -9.6575248
+    latitude: 40.474735
+    source: GPS
+  heading: 244
+  course: 227
+  speed:
+    stw: 5.3
+    sog: 6.1
+  log: 6537.6
+  barometer: 1025.66
+  wind:
+    speed: 18.3
+    direction: 350
+  engine:
+    hours: 870.9
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: navigation
