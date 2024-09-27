@@ -142,3 +142,79 @@
     - ihmis-suski
     - bergie
   category: radio
+- datetime: 2024-09-27T12:00:49.900Z
+  text: ""
+  author: ""
+  position:
+    longitude: -8.7496126
+    latitude: 40.6458723
+    source: GPS
+  heading: 265
+  course: 258
+  speed:
+    stw: 0
+    sog: 4.4
+  log: 6494.1
+  barometer: 1023.43
+  wind:
+    speed: 9.8
+    direction: 330
+  engine:
+    hours: 870.5
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: navigation
+- datetime: 2024-09-27T12:21:26.899Z
+  text: Motor stopped, sailing with Main, Genoa 1
+  author: bergie
+  position:
+    longitude: -8.7799466
+    latitude: 40.6329286
+    source: GPS
+  heading: 251
+  course: 249
+  speed:
+    stw: 0
+    sog: 5.1
+  log: 6495.8
+  barometer: 1023.5
+  wind:
+    speed: 13.2
+    direction: 341
+  engine:
+    hours: 870.9
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: navigation
+  observations:
+    seaState: 5
+    cloudCoverage: 1
+    visibility: 7
+- datetime: 2024-09-27T12:48:50.899Z
+  text: "Started watermaker "
+  author: bergie
+  position:
+    longitude: -8.8309688
+    latitude: 40.6266298
+    source: GPS
+  heading: 270
+  course: 273
+  speed:
+    stw: 0
+    sog: 5.8
+  log: 6498.1
+  barometer: 1023.46
+  wind:
+    speed: 11.7
+    direction: 340
+  engine:
+    hours: 870.9
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: maintenance
