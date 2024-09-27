@@ -290,3 +290,75 @@
     - ihmis-suski
     - bergie
   category: navigation
+- datetime: 2024-09-27T15:00:52.000Z
+  text: ""
+  author: ""
+  position:
+    longitude: -9.0474171
+    latitude: 40.6057336
+    source: GPS
+  heading: 266
+  course: 273
+  speed:
+    stw: 3.8
+    sog: 4.2
+  log: 6508.2
+  barometer: 1023.63
+  wind:
+    speed: 13.1
+    direction: 4
+  engine:
+    hours: 870.9
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: navigation
+- datetime: 2024-09-27T15:33:58.003Z
+  text: "Sails set: Main, Genoa 1"
+  author: ""
+  position:
+    longitude: -9.0939531
+    latitude: 40.5993583
+    source: GPS
+  heading: 267
+  course: 251
+  speed:
+    stw: 4.8
+    sog: 4.6
+  log: 6510.3
+  barometer: 1023.77
+  wind:
+    speed: 13.2
+    direction: 353
+  engine:
+    hours: 870.9
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: navigation
+- datetime: 2024-09-27T15:49:59.001Z
+  text: "Sails set: Main, Genoa 1 (20% furled)"
+  author: ""
+  position:
+    longitude: -9.1240125
+    latitude: 40.596356
+    source: GPS
+  heading: 271
+  course: 279
+  speed:
+    stw: 5.2
+    sog: 4.6
+  log: 6511.7
+  barometer: 1023.8
+  wind:
+    speed: 15.3
+    direction: 2
+  engine:
+    hours: 870.9
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: navigation
