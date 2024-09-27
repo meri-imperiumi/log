@@ -45,3 +45,100 @@
     - ihmis-suski
     - bergie
   category: navigation
+- datetime: 2024-09-27T11:00:49.900Z
+  text: ""
+  author: ""
+  position:
+    longitude: -8.6851058
+    latitude: 40.6386911
+    source: GPS
+  heading: 258
+  course: 259
+  speed:
+    stw: 0
+    sog: 4.5
+  log: 6490.1
+  barometer: 1023.03
+  wind:
+    speed: 12.1
+    direction: 333
+  engine:
+    hours: 869.5
+  vhf: "9"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: navigation
+- datetime: 2024-09-27T11:12:49.900Z
+  text: Main up, motorsailing with the cone
+  author: bergie
+  position:
+    longitude: -8.6964011
+    latitude: 40.6470343
+    source: GPS
+  heading: 348
+  course: 348
+  speed:
+    stw: 0
+    sog: 3.8
+  log: 6491
+  barometer: 1023.26
+  wind:
+    speed: 11
+    direction: 345
+  engine:
+    hours: 869.7
+  vhf: "9"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: navigation
+- datetime: 2024-09-27T11:14:49.900Z
+  text: We're not getting data from depth sounder or paddlewheel. Fouling or
+    sensor fault?
+  author: bergie
+  position:
+    longitude: -8.6971033
+    latitude: 40.6491336
+    source: GPS
+  heading: 344
+  course: 341
+  speed:
+    stw: 0
+    sog: 4
+  log: 6491.1
+  barometer: 1023.37
+  wind:
+    speed: 11.4
+    direction: 335
+  engine:
+    hours: 869.8
+  vhf: "9"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: maintenance
+- datetime: 2024-09-27T11:29:49.900Z
+  text: Checked in with Aveiro Port Control, bar is open and "you may leave"
+  author: bergie
+  position:
+    longitude: -8.7110169
+    latitude: 40.6602834
+    source: GPS
+  heading: 275
+  course: 273
+  speed:
+    stw: 0
+    sog: 3.8
+  log: 6492.1
+  barometer: 1023.22
+  wind:
+    speed: 8.8
+    direction: 318
+  engine:
+    hours: 870
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: radio
