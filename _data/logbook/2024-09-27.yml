@@ -506,3 +506,51 @@
     - ihmis-suski
     - bergie
   category: navigation
+- datetime: 2024-09-27T21:00:55.001Z
+  text: ""
+  author: ""
+  position:
+    longitude: -9.7822439
+    latitude: 40.4273303
+    source: GPS
+  heading: 254
+  course: 244
+  speed:
+    stw: 5.4
+    sog: 7.7
+  log: 6543.9
+  barometer: 1025.77
+  wind:
+    speed: 18.8
+    direction: 356
+  engine:
+    hours: 870.9
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: navigation
+- datetime: 2024-09-27T21:46:55.001Z
+  text: "Bioluminescence "
+  author: bergie
+  position:
+    longitude: -9.8701379
+    latitude: 40.3846819
+    source: GPS
+  heading: 231
+  course: 206
+  speed:
+    stw: 4.5
+    sog: 6.9
+  log: 6548.8
+  barometer: 1026.29
+  wind:
+    speed: 13.7
+    direction: 27
+  engine:
+    hours: 870.9
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: navigation
