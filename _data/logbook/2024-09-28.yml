@@ -94,3 +94,52 @@
     - ihmis-suski
     - bergie
   category: maintenance
+- datetime: 2024-09-28T03:00:58.000Z
+  text: ""
+  author: ""
+  position:
+    longitude: -10.4240318
+    latitude: 40.1318568
+    source: GPS
+  heading: 243
+  course: 240
+  speed:
+    stw: 4.9
+    sog: 4.5
+  log: 6578.9
+  barometer: 1025.44
+  wind:
+    speed: 18.4
+    direction: 17
+  engine:
+    hours: 870.9
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: navigation
+- datetime: 2024-09-28T03:14:58.000Z
+  text: Plan. Replace with soft shackle. Long so it can twist. One of the clothing
+    ones from inside.
+  author: ihmis-suski
+  position:
+    longitude: -10.4496581
+    latitude: 40.1244165
+    source: GPS
+  heading: 247
+  course: 231
+  speed:
+    stw: 4.8
+    sog: 4.3
+  log: 6580.2
+  barometer: 1025.21
+  wind:
+    speed: 13.2
+    direction: 20
+  engine:
+    hours: 870.9
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: navigation
