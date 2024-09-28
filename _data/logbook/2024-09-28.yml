@@ -827,3 +827,52 @@
   crewNames:
     - ihmis-suski
     - bergie
+  category: navigation
+- datetime: 2024-09-28T19:00:56.499Z
+  text: ""
+  author: ""
+  position:
+    longitude: -11.148224
+    latitude: 39.2975099
+    source: GPS
+  heading: 216
+  course: 214
+  speed:
+    stw: 2.5
+    sog: 2.5
+  log: 6646.2
+  barometer: 1023.42
+  wind:
+    speed: 7.2
+    direction: 344
+  engine:
+    hours: 870.9
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: navigation
+- datetime: 2024-09-28T19:19:56.499Z
+  text: We caught a dorado!
+  author: bergie
+  position:
+    longitude: -11.1582808
+    latitude: 39.2788486
+    source: GPS
+  heading: 205
+  course: 211
+  speed:
+    stw: 3.1
+    sog: 3.5
+  log: 6647.4
+  barometer: 1023.52
+  wind:
+    speed: 8.3
+    direction: 340
+  engine:
+    hours: 870.9
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: maintenance
