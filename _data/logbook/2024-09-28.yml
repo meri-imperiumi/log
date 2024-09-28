@@ -876,3 +876,79 @@
     - ihmis-suski
     - bergie
   category: maintenance
+- datetime: 2024-09-28T20:00:56.499Z
+  text: ""
+  author: ""
+  position:
+    longitude: -11.1771306
+    latitude: 39.242617
+    source: GPS
+  heading: 219
+  course: 237
+  speed:
+    stw: 1.8
+    sog: 2.5
+  log: 6649.8
+  barometer: 1023.84
+  wind:
+    speed: 6
+    direction: 36
+  engine:
+    hours: 870.9
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: navigation
+- datetime: 2024-09-28T20:05:43.500Z
+  text: Sails down, motoring
+  author: ""
+  position:
+    longitude: -11.1795983
+    latitude: 39.2399606
+    source: GPS
+  heading: 231
+  course: 220
+  speed:
+    stw: 1.6
+    sog: 1.7
+  log: 6650
+  barometer: 1023.79
+  wind:
+    speed: 6.3
+    direction: 15
+  engine:
+    hours: 870.9
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: navigation
+- datetime: 2024-09-28T20:46:55.500Z
+  text: "Milky way visible, some shooting stars "
+  author: bergie
+  position:
+    longitude: -11.205236
+    latitude: 39.1829833
+    source: GPS
+  heading: 193
+  course: 197
+  speed:
+    stw: 4.8
+    sog: 5.7
+  log: 6653.6
+  barometer: 1023.95
+  wind:
+    speed: 5
+    direction: 140
+  engine:
+    hours: 871.6
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: navigation
+  observations:
+    seaState: 4
+    cloudCoverage: 1
+    visibility: 7
