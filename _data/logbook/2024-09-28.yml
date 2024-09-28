@@ -268,7 +268,7 @@
     - bergie
   category: navigation
 - datetime: 2024-09-28T08:02:59.001Z
-  text: "Paddle wheel sensor started working again "
+  text: Paddle wheel sensor started working again (apparently already yesterday)
   author: bergie
   position:
     longitude: -10.905385526021321
@@ -332,6 +332,30 @@
   wind:
     speed: 16
     direction: 44
+  engine:
+    hours: 870.9
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: navigation
+- datetime: 2024-09-28T10:00:00.099Z
+  text: ""
+  author: ""
+  position:
+    longitude: -10.9285711
+    latitude: 39.7868389
+    source: GPS
+  heading: 181
+  course: 206
+  speed:
+    stw: 4.9
+    sog: 4.9
+  log: 6613.7
+  barometer: 1026.03
+  wind:
+    speed: 12.9
+    direction: 51
   engine:
     hours: 870.9
   vhf: "16"
