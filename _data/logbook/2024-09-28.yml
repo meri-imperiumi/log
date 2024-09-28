@@ -634,3 +634,51 @@
   crewNames:
     - ihmis-suski
     - bergie
+  category: navigation
+- datetime: 2024-09-28T14:57:00.499Z
+  text: Watermaker 2nd canister 279 ppm
+  author: ihmis-suski
+  position:
+    longitude: -11.0163231
+    latitude: 39.5152026
+    source: GPS
+  heading: 223
+  course: 202
+  speed:
+    stw: 3.8
+    sog: 4.3
+  log: 6631.7
+  barometer: 1024.06
+  wind:
+    speed: 8.7
+    direction: 25
+  engine:
+    hours: 870.9
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: maintenance
+- datetime: 2024-09-28T15:00:00.499Z
+  text: ""
+  author: ""
+  position:
+    longitude: -11.018431500593822
+    latitude: 39.5129358291626
+    source: GPS
+  heading: 214
+  course: 225
+  speed:
+    stw: 3.7
+    sog: 3.8
+  log: 6631.9
+  barometer: 1023.95
+  wind:
+    speed: 10.4
+    direction: 348
+  engine:
+    hours: 870.9
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
