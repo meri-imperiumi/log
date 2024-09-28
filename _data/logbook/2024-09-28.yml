@@ -242,3 +242,99 @@
   crewNames:
     - ihmis-suski
     - bergie
+  category: navigation
+- datetime: 2024-09-28T08:00:59.001Z
+  text: ""
+  author: ""
+  position:
+    longitude: -10.9026001
+    latitude: 39.9327723
+    source: GPS
+  heading: 232
+  course: 241
+  speed:
+    stw: 4.3
+    sog: 4.1
+  log: 6604.6
+  barometer: 1025.58
+  wind:
+    speed: 11.3
+    direction: 56
+  engine:
+    hours: 870.9
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: navigation
+- datetime: 2024-09-28T08:02:59.001Z
+  text: "Paddle wheel sensor started working again "
+  author: bergie
+  position:
+    longitude: -10.905385526021321
+    latitude: 39.93123086293539
+    source: GPS
+  heading: 231
+  course: 214
+  speed:
+    stw: 4.3
+    sog: 6.7
+  log: 6604.7
+  barometer: 1025.55
+  wind:
+    speed: 15.5
+    direction: 39
+  engine:
+    hours: 870.9
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: maintenance
+- datetime: 2024-09-28T08:16:59.001Z
+  text: Gybe towards Madeira
+  author: bergie
+  position:
+    longitude: -10.9197253
+    latitude: 39.9173466
+    source: GPS
+  heading: 183
+  course: 192
+  speed:
+    stw: 4.3
+    sog: 3.3
+  log: 6605.8
+  barometer: 1025.78
+  wind:
+    speed: 11
+    direction: 25
+  engine:
+    hours: 870.9
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: navigation
+- datetime: 2024-09-28T08:59:59.001Z
+  text: ""
+  author: ""
+  position:
+    longitude: -10.9249891
+    latitude: 39.8630905
+    source: GPS
+  heading: 175
+  course: 171
+  speed:
+    stw: 5
+    sog: 4
+  log: 6609.1
+  barometer: 1025.95
+  wind:
+    speed: 16
+    direction: 44
+  engine:
+    hours: 870.9
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
