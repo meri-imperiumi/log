@@ -45,3 +45,52 @@
   crewNames:
     - ihmis-suski
     - bergie
+  category: navigation
+- datetime: 2024-09-28T02:00:57.000Z
+  text: ""
+  author: ""
+  position:
+    longitude: -10.3185654
+    latitude: 40.1627286
+    source: GPS
+  heading: 246
+  course: 261
+  speed:
+    stw: 5.3
+    sog: 6.4
+  log: 6573.7
+  barometer: 1025.86
+  wind:
+    speed: 17.8
+    direction: 18
+  engine:
+    hours: 870.9
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: navigation
+- datetime: 2024-09-28T02:28:57.000Z
+  text: Port side mainsheet detached from the boom, bent shackle
+  author: bergie
+  position:
+    longitude: -10.3676446
+    latitude: 40.149197
+    source: GPS
+  heading: 249
+  course: 240
+  speed:
+    stw: 5
+    sog: 5.6
+  log: 6576.1
+  barometer: 1025.63
+  wind:
+    speed: 16.2
+    direction: 13
+  engine:
+    hours: 870.9
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: maintenance
