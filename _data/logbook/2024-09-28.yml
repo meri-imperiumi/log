@@ -706,3 +706,76 @@
   crewNames:
     - ihmis-suski
     - bergie
+  category: navigation
+- datetime: 2024-09-28T16:13:00.499Z
+  text: Fishing with the finnish tackticue. Only the octopussy out. No weights.
+    And pretty far from the boat.
+  author: ihmis-suski
+  position:
+    longitude: -11.0535896
+    latitude: 39.4496011
+    source: GPS
+  heading: 210
+  course: 214
+  speed:
+    stw: 3.7
+    sog: 3.7
+  log: 6636
+  barometer: 1023.57
+  wind:
+    speed: 8.6
+    direction: 4
+  engine:
+    hours: 870.9
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: maintenance
+- datetime: 2024-09-28T16:36:01.497Z
+  text: Watermaker 276ppm 2 canisters full.
+  author: ihmis-suski
+  position:
+    longitude: -11.0658924
+    latitude: 39.4270553
+    source: GPS
+  heading: 203
+  course: 204
+  speed:
+    stw: 3.7
+    sog: 3.1
+  log: 6637.5
+  barometer: 1023.4
+  wind:
+    speed: 8.6
+    direction: 347
+  engine:
+    hours: 870.9
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: maintenance
+- datetime: 2024-09-28T17:00:00.499Z
+  text: ""
+  author: ""
+  position:
+    longitude: -11.0786358
+    latitude: 39.4025603
+    source: GPS
+  heading: 209
+  course: 204
+  speed:
+    stw: 3.6
+    sog: 5
+  log: 6639.1
+  barometer: 1023.33
+  wind:
+    speed: 9.3
+    direction: 33
+  engine:
+    hours: 870.9
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
