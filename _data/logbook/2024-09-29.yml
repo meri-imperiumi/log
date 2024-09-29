@@ -119,3 +119,77 @@
   crewNames:
     - ihmis-suski
     - bergie
+  category: navigation
+- datetime: 2024-09-29T02:00:56.900Z
+  text: ""
+  author: ""
+  position:
+    longitude: -11.2670483
+    latitude: 38.7515806
+    source: GPS
+  heading: 184
+  course: 179
+  speed:
+    stw: 2.8
+    sog: 3.1
+  log: 6679.8
+  barometer: 1022.99
+  wind:
+    speed: 8.8
+    direction: 357
+  engine:
+    hours: 875.2
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: navigation
+- datetime: 2024-09-29T02:15:58.900Z
+  text: Sails down, motoring
+  author: ""
+  position:
+    longitude: -11.272211996714274
+    latitude: 38.739274660746254
+    source: GPS
+  heading: 182
+  course: 208
+  speed:
+    stw: 2.4
+    sog: 2.8
+  log: 6680.6
+  barometer: 1022.85
+  wind:
+    speed: 7.3
+    direction: 338
+  engine:
+    hours: 875.2
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: navigation
+- datetime: 2024-09-29T02:30:57.900Z
+  text: Not enough wind. Genoa down haul line got tangled in the drum. Time to
+    roll it completely out and in.
+  author: ihmis-suski
+  position:
+    longitude: -11.2785736
+    latitude: 38.7214658
+    source: GPS
+  heading: 184
+  course: 198
+  speed:
+    stw: 4.8
+    sog: 5.4
+  log: 6681.7
+  barometer: 1022.71
+  wind:
+    speed: 8.1
+    direction: 334
+  engine:
+    hours: 875.4
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: navigation
