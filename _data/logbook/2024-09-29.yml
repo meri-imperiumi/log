@@ -878,3 +878,28 @@
   crewNames:
     - ihmis-suski
     - bergie
+  category: navigation
+- datetime: 2024-09-29T17:00:53.497Z
+  text: Watermaker off, 240ppm
+  author: bergie
+  position:
+    longitude: -11.509707
+    latitude: 37.7792088
+    source: GPS
+  heading: 189
+  course: 198
+  speed:
+    stw: 2.4
+    sog: 3.1
+  log: 6740.5
+  barometer: 1022.8
+  wind:
+    speed: 6.9
+    direction: 19
+  engine:
+    hours: 880.7
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: maintenance
