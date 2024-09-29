@@ -515,3 +515,99 @@
     - ihmis-suski
     - bergie
   category: maintenance
+- datetime: 2024-09-29T10:59:58.000Z
+  text: Wooden Europalette just floated past
+  author: bergie
+  position:
+    longitude: -11.3762478
+    latitude: 38.1106086
+    source: GPS
+  heading: 203
+  course: 197
+  speed:
+    stw: 2.7
+    sog: 2.8
+  log: 6719.2
+  barometer: 1024.21
+  wind:
+    speed: 7.9
+    direction: 0
+  engine:
+    hours: 880.7
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: navigation
+- datetime: 2024-09-29T11:00:58.000Z
+  text: ""
+  author: ""
+  position:
+    longitude: -11.3764989
+    latitude: 38.1098431
+    source: GPS
+  heading: 197
+  course: 195
+  speed:
+    stw: 2.9
+    sog: 3.2
+  log: 6719.2
+  barometer: 1024.21
+  wind:
+    speed: 7.4
+    direction: 352
+  engine:
+    hours: 880.7
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: navigation
+- datetime: 2024-09-29T11:08:58.000Z
+  text: Watermaker 304ppm
+  author: bergie
+  position:
+    longitude: -11.3780556
+    latitude: 38.1024411
+    source: GPS
+  heading: 196
+  course: 192
+  speed:
+    stw: 3.2
+    sog: 4
+  log: 6719.7
+  barometer: 1024.22
+  wind:
+    speed: 10
+    direction: 340
+  engine:
+    hours: 880.7
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: maintenance
+- datetime: 2024-09-29T11:49:58.099Z
+  text: Watermaker off while crew showers, 302ppm
+  author: bergie
+  position:
+    longitude: -11.3828431
+    latitude: 38.0659019
+    source: GPS
+  heading: 198
+  course: 187
+  speed:
+    stw: 3.4
+    sog: 3.9
+  log: 6721.9
+  barometer: 1024.25
+  wind:
+    speed: 9.2
+    direction: 342
+  engine:
+    hours: 880.7
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: maintenance
