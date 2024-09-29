@@ -264,3 +264,57 @@
   crewNames:
     - ihmis-suski
     - bergie
+  category: navigation
+- datetime: 2024-09-29T06:00:58.000Z
+  text: Watch change. Some tanker traffic around
+  author: bergie
+  position:
+    longitude: -11.3290031
+    latitude: 38.4261535
+    source: GPS
+  heading: 189
+  course: 188
+  speed:
+    stw: 4.7
+    sog: 5.2
+  log: 6699.7
+  barometer: 1023.03
+  wind:
+    speed: 7
+    direction: 42
+  engine:
+    hours: 878.7
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: navigation
+- datetime: 2024-09-29T06:39:57.000Z
+  text: According to latest GRIB, the further south we go, the more we should be
+    out of this high pressure ridge, and hence better winds
+  author: bergie
+  position:
+    longitude: -11.3403279
+    latitude: 38.3707916
+    source: GPS
+  heading: 184
+  course: 185
+  speed:
+    stw: 4.7
+    sog: 5.6
+  log: 6703.1
+  barometer: 1023.24
+  wind:
+    speed: 6.7
+    direction: 60
+  engine:
+    hours: 879.3
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: navigation
+  observations:
+    seaState: 3
+    cloudCoverage: 0
+    visibility: 7
