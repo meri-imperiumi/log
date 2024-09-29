@@ -734,3 +734,75 @@
   crewNames:
     - ihmis-suski
     - bergie
+  category: navigation
+- datetime: 2024-09-29T13:43:00.400Z
+  text: Watermaker 273 ppm. 1 canister full.
+  author: ihmis-suski
+  position:
+    longitude: -11.4023858
+    latitude: 37.9627745
+    source: GPS
+  heading: 204
+  course: 188
+  speed:
+    stw: 4
+    sog: 4.5
+  log: 6728.2
+  barometer: 1023.27
+  wind:
+    speed: 8.4
+    direction: 4
+  engine:
+    hours: 880.7
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: maintenance
+- datetime: 2024-09-29T13:44:00.400Z
+  text: Canary Islands coastal radio! But lets first go to Madeira
+  author: ihmis-suski
+  position:
+    longitude: -11.4028606
+    latitude: 37.9617213
+    source: GPS
+  heading: 211
+  course: 195
+  speed:
+    stw: 3.9
+    sog: 4.1
+  log: 6728.3
+  barometer: 1023.24
+  wind:
+    speed: 8
+    direction: 2
+  engine:
+    hours: 880.7
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: radio
+- datetime: 2024-09-29T13:59:59.398Z
+  text: ""
+  author: ""
+  position:
+    longitude: -11.4103775
+    latitude: 37.944982
+    source: GPS
+  heading: 208
+  course: 205
+  speed:
+    stw: 3.6
+    sog: 3.8
+  log: 6729.3
+  barometer: 1023.13
+  wind:
+    speed: 8.3
+    direction: 346
+  engine:
+    hours: 880.7
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
