@@ -341,3 +341,52 @@
   crewNames:
     - ihmis-suski
     - bergie
+  category: navigation
+- datetime: 2024-09-29T08:00:15.001Z
+  text: Motor stopped, sailing with Parasailor
+  author: ""
+  position:
+    longitude: -11.3398131
+    latitude: 38.266461
+    source: GPS
+  heading: 164
+  course: 162
+  speed:
+    stw: 3.4
+    sog: 4.5
+  log: 6709.4
+  barometer: 1023.62
+  wind:
+    speed: 7.7
+    direction: 354
+  engine:
+    hours: 880.7
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: navigation
+- datetime: 2024-09-29T08:34:58.000Z
+  text: "Gybed the Parasailor "
+  author: bergie
+  position:
+    longitude: -11.3298399
+    latitude: 38.2327576
+    source: GPS
+  heading: 203
+  course: 189
+  speed:
+    stw: 3.1
+    sog: 3.6
+  log: 6711.5
+  barometer: 1023.78
+  wind:
+    speed: 8.5
+    direction: 16
+  engine:
+    hours: 880.7
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: navigation
