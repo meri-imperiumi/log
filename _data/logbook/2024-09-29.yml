@@ -588,7 +588,7 @@
     - bergie
   category: maintenance
 - datetime: 2024-09-29T11:49:58.099Z
-  text: Watermaker off while crew showers, 302ppm
+  text: Watermaker off while the crew showers, 302ppm
   author: bergie
   position:
     longitude: -11.3828431
@@ -611,3 +611,126 @@
     - ihmis-suski
     - bergie
   category: maintenance
+- datetime: 2024-09-29T12:00:59.100Z
+  text: ""
+  author: ""
+  position:
+    longitude: -11.3833318
+    latitude: 38.0562916
+    source: GPS
+  heading: 185
+  course: 164
+  speed:
+    stw: 2.9
+    sog: 3.2
+  log: 6722.5
+  barometer: 1024.16
+  wind:
+    speed: 6.6
+    direction: 342
+  engine:
+    hours: 880.7
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: navigation
+- datetime: 2024-09-29T12:05:58.099Z
+  text: "Started watermaker "
+  author: bergie
+  position:
+    longitude: -11.3838014
+    latitude: 38.0518845
+    source: GPS
+  heading: 206
+  course: 198
+  speed:
+    stw: 3.1
+    sog: 2.4
+  log: 6722.7
+  barometer: 1024.2
+  wind:
+    speed: 6.6
+    direction: 0
+  engine:
+    hours: 880.7
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: maintenance
+- datetime: 2024-09-29T12:22:58.400Z
+  text: Watermaker 307ppm
+  author: bergie
+  position:
+    longitude: -11.3862301
+    latitude: 38.0374869
+    source: GPS
+  heading: 199
+  course: 200
+  speed:
+    stw: 3.3
+    sog: 2.5
+  log: 6723.6
+  barometer: 1024.17
+  wind:
+    speed: 7.5
+    direction: 354
+  engine:
+    hours: 880.7
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: maintenance
+- datetime: 2024-09-29T12:31:59.398Z
+  text: Watch change and shower complete
+  author: ihmis-suski
+  position:
+    longitude: -11.3871263
+    latitude: 38.0294533
+    source: GPS
+  heading: 209
+  course: 178
+  speed:
+    stw: 3.1
+    sog: 3.1
+  log: 6724.1
+  barometer: 1024.06
+  wind:
+    speed: 8.1
+    direction: 350
+  engine:
+    hours: 880.7
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: navigation
+  observations:
+    seaState: 3
+    cloudCoverage: 0
+    visibility: 8
+- datetime: 2024-09-29T13:00:00.400Z
+  text: ""
+  author: ""
+  position:
+    longitude: -11.3906
+    latitude: 38.0037684
+    source: GPS
+  heading: 204
+  course: 191
+  speed:
+    stw: 3.9
+    sog: 3.2
+  log: 6725.7
+  barometer: 1023.94
+  wind:
+    speed: 7.3
+    direction: 358
+  engine:
+    hours: 880.7
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
