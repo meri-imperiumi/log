@@ -367,7 +367,7 @@
     - bergie
   category: navigation
 - datetime: 2024-09-29T08:34:58.000Z
-  text: "Gybed the Parasailor "
+  text: "Gybed the Parasailor, autopilot in wind mode "
   author: bergie
   position:
     longitude: -11.3298399
@@ -390,3 +390,31 @@
     - ihmis-suski
     - bergie
   category: navigation
+- datetime: 2024-09-29T09:00:58.000Z
+  text: We're now 3rd of the way there. 225NM done, 443NM to go
+  author: bergie
+  position:
+    longitude: -11.3365651
+    latitude: 38.2096313
+    source: GPS
+  heading: 204
+  course: 186
+  speed:
+    stw: 3.1
+    sog: 2.2
+  log: 6712.9
+  barometer: 1023.86
+  wind:
+    speed: 4.6
+    direction: 15
+  engine:
+    hours: 880.7
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: navigation
+  observations:
+    seaState: 3
+    cloudCoverage: 0
+    visibility: 7
