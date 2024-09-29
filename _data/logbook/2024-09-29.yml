@@ -1047,3 +1047,53 @@
   crewNames:
     - ihmis-suski
     - bergie
+  category: navigation
+- datetime: 2024-09-29T22:00:39.603Z
+  text: ""
+  author: ""
+  position:
+    longitude: -11.598928
+    latitude: 37.4748044
+    source: GPS
+  heading: 196
+  course: 202
+  speed:
+    stw: 4.2
+    sog: 4.7
+  log: 6759.9
+  barometer: 1023.64
+  wind:
+    speed: 9.8
+    direction: 339
+  engine:
+    hours: 880.7
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: navigation
+- datetime: 2024-09-29T22:33:39.596Z
+  text: Enabled AIS "dangerous vessel alarm" on the Tritons. Let's see how well it
+    works offshore
+  author: bergie
+  position:
+    longitude: -11.6149591
+    latitude: 37.4373813
+    source: GPS
+  heading: 208
+  course: 212
+  speed:
+    stw: 3.4
+    sog: 3.8
+  log: 6762.3
+  barometer: 1023.62
+  wind:
+    speed: 7.8
+    direction: 344
+  engine:
+    hours: 880.7
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: maintenance
