@@ -927,3 +927,76 @@
     - ihmis-suski
     - bergie
   category: navigation
+- datetime: 2024-09-29T19:00:38.502Z
+  text: ""
+  author: ""
+  position:
+    longitude: -11.4987259
+    latitude: 37.6543381
+    source: GPS
+  heading: 176
+  course: 171
+  speed:
+    stw: 3.6
+    sog: 4
+  log: 6748.1
+  barometer: 1023.25
+  wind:
+    speed: 9.9
+    direction: 35
+  engine:
+    hours: 880.7
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: navigation
+- datetime: 2024-09-29T19:02:38.502Z
+  text: Gybed the Parasailor, finally on the Orca route
+  author: bergie
+  position:
+    longitude: -11.4995908
+    latitude: 37.6523335
+    source: GPS
+  heading: 218
+  course: 210
+  speed:
+    stw: 3.6
+    sog: 3.7
+  log: 6748.2
+  barometer: 1023.24
+  wind:
+    speed: 7.3
+    direction: 15
+  engine:
+    hours: 880.7
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: navigation
+- datetime: 2024-09-29T19:37:38.502Z
+  text: Radio weather stays crazy, just heard somebody hailing Figueira da Foz
+    pilot. That's 200NM away!
+  author: bergie
+  position:
+    longitude: -11.5225116
+    latitude: 37.6204223
+    source: GPS
+  heading: 216
+  course: 217
+  speed:
+    stw: 3.9
+    sog: 3.7
+  log: 6750.4
+  barometer: 1023.51
+  wind:
+    speed: 9.5
+    direction: 356
+  engine:
+    hours: 880.7
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: radio
