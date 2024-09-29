@@ -1,0 +1,98 @@
+- datetime: 2024-09-29T00:00:56.600Z
+  text: Watch change.
+  author: ihmis-suski
+  position:
+    longitude: -11.234531164169312
+    latitude: 38.892028172810875
+    source: GPS
+  heading: 174
+  course: 186
+  speed:
+    stw: 4.6
+    sog: 5.2
+  log: 6671.2
+  barometer: 1023.54
+  wind:
+    speed: 7.7
+    direction: 317
+  engine:
+    hours: 874.8
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: navigation
+- datetime: 2024-09-29T00:24:03.600Z
+  text: Motor stopped, sailing with Main (1st reef), Genoa 1
+  author: ""
+  position:
+    longitude: -11.2362206
+    latitude: 38.861606
+    source: GPS
+  heading: 177
+  course: 193
+  speed:
+    stw: 3.3
+    sog: 3.2
+  log: 6673
+  barometer: 1023.55
+  wind:
+    speed: 8.3
+    direction: 348
+  engine:
+    hours: 875.2
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: navigation
+- datetime: 2024-09-29T00:26:03.600Z
+  text: "Sails set: Main, Genoa 1"
+  author: ""
+  position:
+    longitude: -11.236627
+    latitude: 38.8595356
+    source: GPS
+  heading: 180
+  course: 197
+  speed:
+    stw: 3.8
+    sog: 3.4
+  log: 6673.1
+  barometer: 1023.5
+  wind:
+    speed: 11.8
+    direction: 319
+  engine:
+    hours: 875.2
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: navigation
+- datetime: 2024-09-29T00:33:56.600Z
+  text: >
+    Motor control lever seemed stiff. Check that no debris in mechanism on
+    daylight .
+  author: ihmis-suski
+  position:
+    longitude: -11.2388418
+    latitude: 38.849621
+    source: GPS
+  heading: 180
+  course: 203
+  speed:
+    stw: 4.6
+    sog: 3.5
+  log: 6673.7
+  barometer: 1023.38
+  wind:
+    speed: 10.5
+    direction: 328
+  engine:
+    hours: 875.2
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: maintenance
