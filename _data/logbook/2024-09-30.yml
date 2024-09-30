@@ -470,3 +470,56 @@
   crewNames:
     - ihmis-suski
     - bergie
+  category: navigation
+- datetime: 2024-09-30T14:00:47.500Z
+  text: ""
+  author: ""
+  position:
+    longitude: -12.5046766
+    latitude: 36.5670255
+    source: GPS
+  heading: 200
+  course: 217
+  speed:
+    stw: 3.7
+    sog: 4.3
+  log: 6831.3
+  barometer: 1022.24
+  wind:
+    speed: 9.4
+    direction: 26
+  engine:
+    hours: 880.7
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: navigation
+- datetime: 2024-09-30T14:50:48.499Z
+  text: Slow and steady under parasailor.
+  author: ihmis-suski
+  position:
+    longitude: -12.5258831
+    latitude: 36.5142301
+    source: GPS
+  heading: 192
+  course: 178
+  speed:
+    stw: 3.7
+    sog: 4.7
+  log: 6834.6
+  barometer: 1021.91
+  wind:
+    speed: 10.6
+    direction: 52
+  engine:
+    hours: 880.7
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: navigation
+  observations:
+    seaState: 3
+    cloudCoverage: 5
+    visibility: 7
