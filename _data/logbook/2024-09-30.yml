@@ -419,3 +419,31 @@
     - ihmis-suski
     - bergie
   category: maintenance
+- datetime: 2024-09-30T12:00:46.499Z
+  text: Gybed the parasailor with Bergie and sent him to off watch.
+  author: ihmis-suski
+  position:
+    longitude: -12.4563458
+    latitude: 36.6983281
+    source: GPS
+  heading: 209
+  course: 230
+  speed:
+    stw: 3.8
+    sog: 3.4
+  log: 6823
+  barometer: 1023.33
+  wind:
+    speed: 9.3
+    direction: 37
+  engine:
+    hours: 880.7
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: navigation
+  observations:
+    seaState: 3
+    cloudCoverage: 7
+    visibility: 7
