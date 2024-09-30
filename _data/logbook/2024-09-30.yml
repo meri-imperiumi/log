@@ -594,3 +594,52 @@
   crewNames:
     - ihmis-suski
     - bergie
+  category: navigation
+- datetime: 2024-09-30T18:00:50.598Z
+  text: Watch change. We're now shifting watches by 1h to accommodate the sunset time
+  author: bergie
+  position:
+    longitude: -12.5246123
+    latitude: 36.268675
+    source: GPS
+  heading: 175
+  course: 186
+  speed:
+    stw: 4
+    sog: 5.7
+  log: 6849.5
+  barometer: 1021.56
+  wind:
+    speed: 12.1
+    direction: 8
+  engine:
+    hours: 880.7
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: navigation
+- datetime: 2024-09-30T18:49:50.598Z
+  text: Windvane steering
+  author: bergie
+  position:
+    longitude: -12.5383823
+    latitude: 36.210127
+    source: GPS
+  heading: 165
+  course: 182
+  speed:
+    stw: 4
+    sog: 4.5
+  log: 6853.1
+  barometer: 1021.36
+  wind:
+    speed: 10.7
+    direction: 17
+  engine:
+    hours: 880.7
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: navigation
