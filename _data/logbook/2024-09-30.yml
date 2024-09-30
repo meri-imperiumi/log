@@ -1,0 +1,48 @@
+- datetime: 2024-09-30T00:00:39.900Z
+  text: ""
+  author: ""
+  position:
+    longitude: -11.6844151
+    latitude: 37.3559731
+    source: GPS
+  heading: 208
+  course: 204
+  speed:
+    stw: 3.8
+    sog: 4.5
+  log: 6768.3
+  barometer: 1023.31
+  wind:
+    speed: 9.2
+    direction: 9
+  engine:
+    hours: 880.7
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: navigation
+- datetime: 2024-09-30T00:01:39.900Z
+  text: Watch change.
+  author: ihmis-suski
+  position:
+    longitude: -11.6852116
+    latitude: 37.3550088
+    source: GPS
+  heading: 210
+  course: 213
+  speed:
+    stw: 3.5
+    sog: 4.3
+  log: 6768.3
+  barometer: 1023.29
+  wind:
+    speed: 8.4
+    direction: 17
+  engine:
+    hours: 880.7
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: navigation
