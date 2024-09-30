@@ -643,3 +643,99 @@
     - ihmis-suski
     - bergie
   category: navigation
+- datetime: 2024-09-30T19:00:50.598Z
+  text: ""
+  author: ""
+  position:
+    longitude: -12.540567525227864
+    latitude: 36.196023829778035
+    source: GPS
+  heading: 195
+  course: 203
+  speed:
+    stw: 4
+    sog: 4.1
+  log: 6854
+  barometer: 1021.45
+  wind:
+    speed: 9.7
+    direction: 22
+  engine:
+    hours: 880.7
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: navigation
+- datetime: 2024-09-30T19:09:50.598Z
+  text: People are making cat noises on channel 16
+  author: bergie
+  position:
+    longitude: -12.5449061
+    latitude: 36.1847595
+    source: GPS
+  heading: 193
+  course: 178
+  speed:
+    stw: 4.1
+    sog: 5.4
+  log: 6854.7
+  barometer: 1021.43
+  wind:
+    speed: 11.8
+    direction: 30
+  engine:
+    hours: 880.7
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: radio
+- datetime: 2024-09-30T19:28:51.596Z
+  text: Now there's Space Oddity playing on channel 16
+  author: bergie
+  position:
+    longitude: -12.5488931
+    latitude: 36.1625306
+    source: GPS
+  heading: 182
+  course: 190
+  speed:
+    stw: 4.2
+    sog: 4.8
+  log: 6856.1
+  barometer: 1021.48
+  wind:
+    speed: 12.3
+    direction: 20
+  engine:
+    hours: 880.7
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: radio
+- datetime: 2024-09-30T19:41:50.598Z
+  text: More cat noises
+  author: bergie
+  position:
+    longitude: -12.5514275
+    latitude: 36.1460788
+    source: GPS
+  heading: 164
+  course: 163
+  speed:
+    stw: 4.1
+    sog: 5.1
+  log: 6857.1
+  barometer: 1021.72
+  wind:
+    speed: 13.5
+    direction: 11
+  engine:
+    hours: 880.7
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: radio
