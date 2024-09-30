@@ -294,3 +294,56 @@
   crewNames:
     - ihmis-suski
     - bergie
+  category: navigation
+- datetime: 2024-09-30T09:00:45.100Z
+  text: ""
+  author: ""
+  position:
+    longitude: -12.2857101
+    latitude: 36.8590763
+    source: GPS
+  heading: 217
+  course: 213
+  speed:
+    stw: 4.5
+    sog: 5
+  log: 6810.2
+  barometer: 1023.12
+  wind:
+    speed: 13.7
+    direction: 22
+  engine:
+    hours: 880.7
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: navigation
+- datetime: 2024-09-30T09:21:45.100Z
+  text: Halfway point, 323NM behind 323NM ahead
+  author: bergie
+  position:
+    longitude: -12.3065653
+    latitude: 36.8352111
+    source: GPS
+  heading: 215
+  course: 231
+  speed:
+    stw: 4.3
+    sog: 5.2
+  log: 6811.9
+  barometer: 1023.29
+  wind:
+    speed: 13.1
+    direction: 1
+  engine:
+    hours: 880.7
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: navigation
+  observations:
+    seaState: 3
+    cloudCoverage: 8
+    visibility: 7
