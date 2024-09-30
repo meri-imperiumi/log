@@ -194,3 +194,52 @@
     seaState: 3
     cloudCoverage: 6
     visibility: 7
+- datetime: 2024-09-30T06:00:43.000Z
+  text: Watch change
+  author: bergie
+  position:
+    longitude: -12.0889159
+    latitude: 37.0238404
+    source: GPS
+  heading: 219
+  course: 204
+  speed:
+    stw: 4.1
+    sog: 4.4
+  log: 6796.3
+  barometer: 1022.44
+  wind:
+    speed: 9.6
+    direction: 27
+  engine:
+    hours: 880.7
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: navigation
+- datetime: 2024-09-30T06:36:44.000Z
+  text: We're now south of Cape St. Vincent. Many consider that the threshold of
+    being "south"
+  author: bergie
+  position:
+    longitude: -12.1232855
+    latitude: 36.9896429
+    source: GPS
+  heading: 217
+  course: 203
+  speed:
+    stw: 4.3
+    sog: 4.3
+  log: 6798.9
+  barometer: 1022.5
+  wind:
+    speed: 10
+    direction: 37
+  engine:
+    hours: 880.7
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: navigation
