@@ -370,3 +370,52 @@
   crewNames:
     - ihmis-suski
     - bergie
+  category: navigation
+- datetime: 2024-09-30T11:00:46.400Z
+  text: ""
+  author: ""
+  position:
+    longitude: -12.3982091
+    latitude: 36.7412614
+    source: GPS
+  heading: 221
+  course: 225
+  speed:
+    stw: 3.8
+    sog: 4.7
+  log: 6819.1
+  barometer: 1023.57
+  wind:
+    speed: 9.4
+    direction: 15
+  engine:
+    hours: 880.7
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: navigation
+- datetime: 2024-09-30T11:27:45.500Z
+  text: Pumped the bilge
+  author: bergie
+  position:
+    longitude: -12.4244299
+    latitude: 36.7208545
+    source: GPS
+  heading: 231
+  course: 217
+  speed:
+    stw: 4.4
+    sog: 4.2
+  log: 6820.9
+  barometer: 1023.34
+  wind:
+    speed: 9.4
+    direction: 32
+  engine:
+    hours: 880.7
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: maintenance
