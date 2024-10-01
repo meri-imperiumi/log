@@ -511,3 +511,56 @@
   crewNames:
     - ihmis-suski
     - bergie
+  category: navigation
+- datetime: 2024-10-01T16:00:57.702Z
+  text: ""
+  author: ""
+  position:
+    longitude: -13.4245388
+    latitude: 34.9775133
+    source: GPS
+  heading: 247
+  course: 254
+  speed:
+    stw: 4.4
+    sog: 4.9
+  log: 6949.2
+  barometer: 1020.38
+  wind:
+    speed: 13.1
+    direction: 18
+  engine:
+    hours: 880.7
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: navigation
+- datetime: 2024-10-01T16:24:58.700Z
+  text: Firat boat of the watch passing us from behind. Too far to see.
+  author: ihmis-suski
+  position:
+    longitude: -13.4613919
+    latitude: 34.9661871
+    source: GPS
+  heading: 245
+  course: 242
+  speed:
+    stw: 4.1
+    sog: 4.3
+  log: 6951.2
+  barometer: 1020.36
+  wind:
+    speed: 10.8
+    direction: 38
+  engine:
+    hours: 880.7
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: navigation
+  observations:
+    seaState: 3
+    cloudCoverage: 5
+    visibility: 7
