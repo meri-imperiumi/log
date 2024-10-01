@@ -46,3 +46,77 @@
     - ihmis-suski
     - bergie
   category: navigation
+- datetime: 2024-10-01T01:00:53.000Z
+  text: ""
+  author: ""
+  position:
+    longitude: -12.5508906
+    latitude: 35.7298604
+    source: GPS
+  heading: 236
+  course: 240
+  speed:
+    stw: 4.8
+    sog: 5
+  log: 6883.7
+  barometer: 1021.31
+  wind:
+    speed: 19.3
+    direction: 359
+  engine:
+    hours: 880.7
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: navigation
+- datetime: 2024-10-01T01:04:53.000Z
+  text: Watch change.
+  author: ihmis-suski
+  position:
+    longitude: -12.5567948
+    latitude: 35.7265881
+    source: GPS
+  heading: 250
+  course: 233
+  speed:
+    stw: 4.2
+    sog: 5
+  log: 6884.1
+  barometer: 1021.31
+  wind:
+    speed: 14.3
+    direction: 17
+  engine:
+    hours: 880.7
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: navigation
+- datetime: 2024-10-01T01:38:54.000Z
+  text: "It is overcast, so it is very very very dark "
+  author: ihmis-suski
+  position:
+    longitude: -12.6049299
+    latitude: 35.7028034
+    source: GPS
+  heading: 250
+  course: 264
+  speed:
+    stw: 4.4
+    sog: 4.4
+  log: 6886.9
+  barometer: 1021.42
+  wind:
+    speed: 13.4
+    direction: 13
+  engine:
+    hours: 880.7
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: navigation
+  observations:
+    cloudCoverage: 8
