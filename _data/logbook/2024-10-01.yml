@@ -292,3 +292,27 @@
     - ihmis-suski
     - bergie
   category: navigation
+- datetime: 2024-10-01T08:00:56.499Z
+  text: As long as wind is above 10kt, we're trucking along nicely with this setup.
+  author: bergie
+  position:
+    longitude: -13.0075314
+    latitude: 35.4774796
+    source: GPS
+  heading: 204
+  course: 206
+  speed:
+    stw: 4.4
+    sog: 5.3
+  log: 6911.8
+  barometer: 1022.35
+  wind:
+    speed: 13.1
+    direction: 342
+  engine:
+    hours: 880.7
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: navigation
