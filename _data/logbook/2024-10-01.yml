@@ -735,3 +735,56 @@
   crewNames:
     - ihmis-suski
     - bergie
+  category: navigation
+- datetime: 2024-10-01T22:00:48.102Z
+  text: ""
+  author: ""
+  position:
+    longitude: -13.8096398
+    latitude: 34.6513514
+    source: GPS
+  heading: 216
+  course: 227
+  speed:
+    stw: 4.5
+    sog: 4.6
+  log: 6977.3
+  barometer: 1022.19
+  wind:
+    speed: 11.2
+    direction: 13
+  engine:
+    hours: 883.8
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: navigation
+- datetime: 2024-10-01T22:30:49.100Z
+  text: Back to shooting stars and milky way
+  author: bergie
+  position:
+    longitude: -13.8387385
+    latitude: 34.619933
+    source: GPS
+  heading: 219
+  course: 206
+  speed:
+    stw: 4.2
+    sog: 4.1
+  log: 6979.7
+  barometer: 1022.31
+  wind:
+    speed: 10.6
+    direction: 351
+  engine:
+    hours: 883.8
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: navigation
+  observations:
+    seaState: 3
+    cloudCoverage: 2
+    visibility: 7
