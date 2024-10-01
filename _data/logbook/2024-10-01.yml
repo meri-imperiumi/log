@@ -640,3 +640,75 @@
     seaState: 3
     cloudCoverage: 4
     visibility: 7
+- datetime: 2024-10-01T20:00:47.097Z
+  text: ""
+  author: ""
+  position:
+    longitude: -13.7151248
+    latitude: 34.7785779
+    source: GPS
+  heading: 211
+  course: 194
+  speed:
+    stw: 4.4
+    sog: 4.4
+  log: 6968.3
+  barometer: 1021.69
+  wind:
+    speed: 10.3
+    direction: 22
+  engine:
+    hours: 883.4
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: navigation
+- datetime: 2024-10-01T20:18:13.100Z
+  text: Motor stopped, sailing with Main, Genoa 1, Staysail
+  author: ""
+  position:
+    longitude: -13.7310453
+    latitude: 34.7590403
+    source: GPS
+  heading: 221
+  course: 231
+  speed:
+    stw: 3.4
+    sog: 4
+  log: 6969.7
+  barometer: 1021.84
+  wind:
+    speed: 9.7
+    direction: 355
+  engine:
+    hours: 883.7
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: navigation
+- datetime: 2024-10-01T20:23:47.097Z
+  text: "Windvane steering "
+  author: bergie
+  position:
+    longitude: -13.7367156
+    latitude: 34.7521918
+    source: GPS
+  heading: 224
+  course: 224
+  speed:
+    stw: 4.5
+    sog: 5.4
+  log: 6970.2
+  barometer: 1021.82
+  wind:
+    speed: 9.6
+    direction: 3
+  engine:
+    hours: 883.8
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: navigation
