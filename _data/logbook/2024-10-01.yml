@@ -367,3 +367,52 @@
   crewNames:
     - ihmis-suski
     - bergie
+  category: navigation
+- datetime: 2024-10-01T11:00:56.499Z
+  text: ""
+  author: ""
+  position:
+    longitude: -13.1332171
+    latitude: 35.3077063
+    source: GPS
+  heading: 220
+  course: 221
+  speed:
+    stw: 5.3
+    sog: 5.7
+  log: 6924.1
+  barometer: 1022.25
+  wind:
+    speed: 14.7
+    direction: 10
+  engine:
+    hours: 880.7
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: navigation
+- datetime: 2024-10-01T11:45:56.601Z
+  text: Now past the 2/3 mark
+  author: bergie
+  position:
+    longitude: -13.173783
+    latitude: 35.2556529
+    source: GPS
+  heading: 219
+  course: 215
+  speed:
+    stw: 4.2
+    sog: 4.5
+  log: 6927.9
+  barometer: 1022.23
+  wind:
+    speed: 10.4
+    direction: 2
+  engine:
+    hours: 880.7
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: navigation
