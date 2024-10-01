@@ -239,3 +239,56 @@
   crewNames:
     - ihmis-suski
     - bergie
+  category: navigation
+- datetime: 2024-10-01T07:00:55.500Z
+  text: Watch change
+  author: bergie
+  position:
+    longitude: -12.964311
+    latitude: 35.5255313
+    source: GPS
+  heading: 257
+  course: 241
+  speed:
+    stw: 4.2
+    sog: 4.3
+  log: 6908.1
+  barometer: 1021.68
+  wind:
+    speed: 11.2
+    direction: 34
+  engine:
+    hours: 880.7
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: navigation
+  observations:
+    seaState: 3
+    cloudCoverage: 8
+    visibility: 7
+- datetime: 2024-10-01T07:36:53.500Z
+  text: "Sails set: Main, Genoa 1, Staysail. Poled out"
+  author: bergie
+  position:
+    longitude: -12.9941688
+    latitude: 35.5045035
+    source: GPS
+  heading: 197
+  course: 190
+  speed:
+    stw: 4
+    sog: 4.4
+  log: 6910.1
+  barometer: 1022.19
+  wind:
+    speed: 9.5
+    direction: 349
+  engine:
+    hours: 880.7
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: navigation
