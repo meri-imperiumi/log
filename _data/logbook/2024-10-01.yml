@@ -589,8 +589,8 @@
     - bergie
   category: navigation
 - datetime: 2024-10-01T17:14:29.702Z
-  text: Sails down, motoring
-  author: ""
+  text: "Sails down, motoring. Autopilot activated "
+  author: bergie
   position:
     longitude: -13.5171314
     latitude: 34.939407
@@ -612,3 +612,31 @@
     - ihmis-suski
     - bergie
   category: navigation
+- datetime: 2024-10-01T19:00:46.099Z
+  text: Watch change
+  author: bergie
+  position:
+    longitude: -13.6546631
+    latitude: 34.8459086
+    source: GPS
+  heading: 227
+  course: 228
+  speed:
+    stw: 4.4
+    sog: 5.3
+  log: 6963.2
+  barometer: 1020.98
+  wind:
+    speed: 9.1
+    direction: 356
+  engine:
+    hours: 882.4
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: navigation
+  observations:
+    seaState: 3
+    cloudCoverage: 4
+    visibility: 7
