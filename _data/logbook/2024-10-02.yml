@@ -286,3 +286,75 @@
     - ihmis-suski
     - bergie
   category: maintenance
+- datetime: 2024-10-02T07:00:52.600Z
+  text: Watch change, now on broad reach
+  author: bergie
+  position:
+    longitude: -14.3189046
+    latitude: 34.1904041
+    source: GPS
+  heading: 228
+  course: 227
+  speed:
+    stw: 4.2
+    sog: 3.2
+  log: 7015.5
+  barometer: 1020.71
+  wind:
+    speed: 10.6
+    direction: 331
+  engine:
+    hours: 883.8
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: navigation
+- datetime: 2024-10-02T07:21:14.600Z
+  text: "Sails set: Main, Genoa 1"
+  author: ""
+  position:
+    longitude: -14.3413776
+    latitude: 34.175925
+    source: GPS
+  heading: 228
+  course: 237
+  speed:
+    stw: 3.7
+    sog: 4.2
+  log: 7016.9
+  barometer: 1020.75
+  wind:
+    speed: 11.6
+    direction: 340
+  engine:
+    hours: 883.8
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: navigation
+- datetime: 2024-10-02T07:37:53.600Z
+  text: "Hauled fishing gear "
+  author: bergie
+  position:
+    longitude: -14.359482
+    latitude: 34.1645899
+    source: GPS
+  heading: 238
+  course: 242
+  speed:
+    stw: 4
+    sog: 4
+  log: 7018
+  barometer: 1020.79
+  wind:
+    speed: 10.9
+    direction: 343
+  engine:
+    hours: 883.8
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: maintenance
