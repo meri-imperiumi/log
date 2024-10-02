@@ -941,7 +941,7 @@
     - bergie
   category: navigation
 - datetime: 2024-10-02T19:36:10.297Z
-  text: "Whisker pole snapped! When it was gusting 22kt. Sails set: Main, Staysail"
+  text: "Whisker pole buckled! When it was gusting 22kt. Sails set: Main, Staysail"
   author: bergie
   position:
     longitude: -15.2664596
@@ -1040,3 +1040,29 @@
   crewNames:
     - ihmis-suski
     - bergie
+  category: navigation
+- datetime: 2024-10-02T21:55:00.300Z
+  text: Some traffic around, bioluminescence in the water, and our non-AIS boat
+    finally pulling ahead as we're not flying full canvas
+  author: bergie
+  position:
+    longitude: -15.4399456
+    latitude: 33.4811798
+    source: GPS
+  heading: 241
+  course: 244
+  speed:
+    stw: 4.3
+    sog: 5
+  log: 7086.5
+  barometer: 1022.32
+  wind:
+    speed: 18.6
+    direction: 21
+  engine:
+    hours: 883.8
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: navigation
