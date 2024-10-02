@@ -405,3 +405,52 @@
   crewNames:
     - ihmis-suski
     - bergie
+  category: navigation
+- datetime: 2024-10-02T09:59:55.699Z
+  text: There is indeed a sailboat heading roughly same course, our 4 o'clock.
+    Seeing sails but no hull, so maybe 5-6NM away?
+  author: bergie
+  position:
+    longitude: -14.5162878
+    latitude: 34.0656561
+    source: GPS
+  heading: 228
+  course: 230
+  speed:
+    stw: 3.7
+    sog: 4.1
+  log: 7027.9
+  barometer: 1021.73
+  wind:
+    speed: 10.9
+    direction: 347
+  engine:
+    hours: 883.8
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: navigation
+- datetime: 2024-10-02T10:00:54.700Z
+  text: ""
+  author: ""
+  position:
+    longitude: -14.5172351
+    latitude: 34.0649134
+    source: GPS
+  heading: 229
+  course: 227
+  speed:
+    stw: 3.7
+    sog: 3.6
+  log: 7028
+  barometer: 1021.76
+  wind:
+    speed: 11.1
+    direction: 346
+  engine:
+    hours: 883.8
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
