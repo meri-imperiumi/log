@@ -45,3 +45,52 @@
   crewNames:
     - ihmis-suski
     - bergie
+  category: navigation
+- datetime: 2024-10-02T02:00:50.200Z
+  text: ""
+  author: ""
+  position:
+    longitude: -14.0691013
+    latitude: 34.4463301
+    source: GPS
+  heading: 231
+  course: 234
+  speed:
+    stw: 3.5
+    sog: 4.1
+  log: 6995.3
+  barometer: 1020.86
+  wind:
+    speed: 7.7
+    direction: 35
+  engine:
+    hours: 883.8
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: navigation
+- datetime: 2024-10-02T02:41:50.200Z
+  text: A boat behind us on port side, fairly far away, no AIS.
+  author: ihmis-suski
+  position:
+    longitude: -14.114398
+    latitude: 34.4168785
+    source: GPS
+  heading: 219
+  course: 225
+  speed:
+    stw: 4
+    sog: 4.8
+  log: 6998.2
+  barometer: 1020.48
+  wind:
+    speed: 11.8
+    direction: 16
+  engine:
+    hours: 883.8
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: navigation
