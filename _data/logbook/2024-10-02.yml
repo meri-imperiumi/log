@@ -94,3 +94,51 @@
     - ihmis-suski
     - bergie
   category: navigation
+- datetime: 2024-10-02T03:00:50.200Z
+  text: ""
+  author: ""
+  position:
+    longitude: -14.1320341
+    latitude: 34.39944
+    source: GPS
+  heading: 215
+  course: 220
+  speed:
+    stw: 4.6
+    sog: 4.1
+  log: 6999.6
+  barometer: 1020.27
+  wind:
+    speed: 12.1
+    direction: 5
+  engine:
+    hours: 883.8
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: navigation
+- datetime: 2024-10-02T03:57:51.200Z
+  text: Boat without AIS is a sailboat. I see the starboard side green.
+  author: ihmis-suski
+  position:
+    longitude: -14.1758233
+    latitude: 34.3506271
+    source: GPS
+  heading: 201
+  course: 203
+  speed:
+    stw: 3.3
+    sog: 3.1
+  log: 7003.2
+  barometer: 1020.2
+  wind:
+    speed: 5.9
+    direction: 13
+  engine:
+    hours: 883.8
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: navigation
