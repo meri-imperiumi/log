@@ -742,3 +742,104 @@
   crewNames:
     - ihmis-suski
     - bergie
+  category: navigation
+- datetime: 2024-10-02T16:00:59.200Z
+  text: ""
+  author: ""
+  position:
+    longitude: -14.9589083
+    latitude: 33.7918844
+    source: GPS
+  heading: 233
+  course: 243
+  speed:
+    stw: 4.7
+    sog: 4.8
+  log: 7055.6
+  barometer: 1020.75
+  wind:
+    speed: 16.8
+    direction: 0
+  engine:
+    hours: 883.8
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: navigation
+- datetime: 2024-10-02T16:24:59.200Z
+  text: Watermaker off, 490ppm (!) Left side jug needs to be checked
+  author: bergie
+  position:
+    longitude: -14.9942434
+    latitude: 33.7718924
+    source: GPS
+  heading: 234
+  course: 224
+  speed:
+    stw: 5.3
+    sog: 5.8
+  log: 7057.8
+  barometer: 1020.76
+  wind:
+    speed: 17.6
+    direction: 355
+  engine:
+    hours: 883.8
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: maintenance
+- datetime: 2024-10-02T16:58:59.200Z
+  text: The non AIS boat is about 3 miles. You can see the hull from time to time
+    with binoculars.
+  author: ihmis-suski
+  position:
+    longitude: -15.0503048
+    latitude: 33.7457628
+    source: GPS
+  heading: 227
+  course: 218
+  speed:
+    stw: 4.5
+    sog: 5.4
+  log: 7061
+  barometer: 1020.95
+  wind:
+    speed: 16.3
+    direction: 15
+  engine:
+    hours: 883.8
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: navigation
+  observations:
+    seaState: 4
+    cloudCoverage: 6
+    visibility: 7
+- datetime: 2024-10-02T17:00:00.198Z
+  text: ""
+  author: ""
+  position:
+    longitude: -15.0517683
+    latitude: 33.7448535
+    source: GPS
+  heading: 226
+  course: 240
+  speed:
+    stw: 4.7
+    sog: 5.2
+  log: 7061.1
+  barometer: 1020.92
+  wind:
+    speed: 12.3
+    direction: 4
+  engine:
+    hours: 883.8
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
