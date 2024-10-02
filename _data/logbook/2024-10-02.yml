@@ -237,3 +237,52 @@
   crewNames:
     - ihmis-suski
     - bergie
+  category: navigation
+- datetime: 2024-10-02T06:00:52.600Z
+  text: ""
+  author: ""
+  position:
+    longitude: -14.2787901
+    latitude: 34.2431868
+    source: GPS
+  heading: 200
+  course: 201
+  speed:
+    stw: 3.3
+    sog: 3.5
+  log: 7011.6
+  barometer: 1020.34
+  wind:
+    speed: 8.3
+    direction: 9
+  engine:
+    hours: 883.8
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: navigation
+- datetime: 2024-10-02T06:20:52.600Z
+  text: Fishing line out.
+  author: ihmis-suski
+  position:
+    longitude: -14.2899044
+    latitude: 34.224827
+    source: GPS
+  heading: 191
+  course: 194
+  speed:
+    stw: 4
+    sog: 4.4
+  log: 7012.8
+  barometer: 1020.52
+  wind:
+    speed: 10.3
+    direction: 333
+  engine:
+    hours: 883.8
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: maintenance
