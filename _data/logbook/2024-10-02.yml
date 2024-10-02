@@ -599,3 +599,75 @@
     - ihmis-suski
     - bergie
   category: navigation
+- datetime: 2024-10-02T12:53:56.800Z
+  text: Watermaker 322. Into canister.
+  author: ihmis-suski
+  position:
+    longitude: -14.7125098
+    latitude: 33.9424945
+    source: GPS
+  heading: 232
+  course: 235
+  speed:
+    stw: 3.6
+    sog: 3.3
+  log: 7040.3
+  barometer: 1021.16
+  wind:
+    speed: 11.7
+    direction: 353
+  engine:
+    hours: 883.8
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: maintenance
+- datetime: 2024-10-02T13:00:57.798Z
+  text: ""
+  author: ""
+  position:
+    longitude: -14.7208599
+    latitude: 33.9376566
+    source: GPS
+  heading: 244
+  course: 242
+  speed:
+    stw: 4.7
+    sog: 4.8
+  log: 7040.8
+  barometer: 1021.09
+  wind:
+    speed: 12.8
+    direction: 12
+  engine:
+    hours: 883.8
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: navigation
+- datetime: 2024-10-02T13:03:56.800Z
+  text: Watch change.
+  author: ihmis-suski
+  position:
+    longitude: -14.7248588
+    latitude: 33.9355818
+    source: GPS
+  heading: 238
+  course: 232
+  speed:
+    stw: 3.9
+    sog: 4.3
+  log: 7041
+  barometer: 1021.08
+  wind:
+    speed: 11.2
+    direction: 352
+  engine:
+    hours: 883.8
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: navigation
