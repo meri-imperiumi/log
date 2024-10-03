@@ -70,3 +70,52 @@
     - ihmis-suski
     - bergie
   category: navigation
+- datetime: 2024-10-03T03:00:03.800Z
+  text: ""
+  author: ""
+  position:
+    longitude: -15.7656311
+    latitude: 33.282
+    source: GPS
+  heading: 251
+  course: 244
+  speed:
+    stw: 4.4
+    sog: 4.8
+  log: 7106.9
+  barometer: 1020.55
+  wind:
+    speed: 18
+    direction: 25
+  engine:
+    hours: 883.8
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: navigation
+- datetime: 2024-10-03T03:09:03.800Z
+  text: |
+    It would be possible in theory to see the Porto Santo light now, but nope.
+  author: ihmis-suski
+  position:
+    longitude: -15.7779148
+    latitude: 33.2771988
+    source: GPS
+  heading: 233
+  course: 233
+  speed:
+    stw: 3.8
+    sog: 3.5
+  log: 7107.6
+  barometer: 1020.65
+  wind:
+    speed: 11.6
+    direction: 29
+  engine:
+    hours: 883.8
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: navigation
