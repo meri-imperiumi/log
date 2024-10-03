@@ -412,3 +412,99 @@
     - bergie
   end: true
   category: navigation
+- datetime: 2024-10-03T11:14:12.998Z
+  text: Anchor up, motoring
+  author: ""
+  position:
+    longitude: -16.3110796
+    latitude: 33.0617059
+    source: GPS
+  heading: 36
+  course: 22
+  speed:
+    stw: 0
+    sog: 0
+  log: 7139.4
+  barometer: 1022.68
+  wind:
+    speed: 2.3
+    direction: 326
+  engine:
+    hours: 886.1
+  vhf: "9"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: navigation
+- datetime: 2024-10-03T11:14:19.001Z
+  text: Anchored
+  author: ""
+  position:
+    longitude: -16.3110839
+    latitude: 33.0617075
+    source: GPS
+  heading: 35
+  course: 226
+  speed:
+    stw: 0
+    sog: 0.4
+  log: 7139.4
+  barometer: 1022.7
+  wind:
+    speed: 2.9
+    direction: 312
+  engine:
+    hours: 886.1
+  vhf: "9"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  end: true
+  category: navigation
+- datetime: 2024-10-03T11:18:30.000Z
+  text: Stopped main engine
+  author: ""
+  position:
+    longitude: -16.3110518
+    latitude: 33.0616268
+    source: GPS
+  heading: 357
+  course: 351
+  speed:
+    stw: 0
+    sog: 0
+  log: 7139.4
+  barometer: 1022.68
+  wind:
+    speed: 3.3
+    direction: 226
+  engine:
+    hours: 886.2
+  vhf: "9"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: navigation
+- datetime: 2024-10-03T11:59:07.100Z
+  text: Filling depth sounder with 10W40 motor oil, was totally dry
+  author: bergie
+  position:
+    longitude: -16.3110176
+    latitude: 33.0616755
+    source: GPS
+  heading: 346
+  course: 78
+  speed:
+    stw: 0
+    sog: 0
+  log: 7139.4
+  barometer: 1022.7
+  wind:
+    speed: 1.1
+    direction: 281
+  engine:
+    hours: 886.2
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: maintenance
