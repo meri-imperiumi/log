@@ -239,3 +239,55 @@
     - ihmis-suski
     - bergie
   category: navigation
+- datetime: 2024-10-03T07:00:05.800Z
+  text: Portuguese cellular network, and some non-AIS fishing boats
+  author: bergie
+  position:
+    longitude: -16.0253743
+    latitude: 33.1553591
+    source: GPS
+  heading: 239
+  course: 229
+  speed:
+    stw: 4.1
+    sog: 4.7
+  log: 7122.1
+  barometer: 1021.06
+  wind:
+    speed: 12.3
+    direction: 40
+  engine:
+    hours: 883.8
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: navigation
+  observations:
+    seaState: 4
+    cloudCoverage: 7
+    visibility: 7
+- datetime: 2024-10-03T07:18:05.900Z
+  text: Back in Portuguese territorial waters
+  author: bergie
+  position:
+    longitude: -16.0461606
+    latitude: 33.1440636
+    source: GPS
+  heading: 236
+  course: 238
+  speed:
+    stw: 2.8
+    sog: 2.7
+  log: 7123.4
+  barometer: 1021.15
+  wind:
+    speed: 8.3
+    direction: 47
+  engine:
+    hours: 883.8
+  vhf: "11"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: navigation
