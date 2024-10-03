@@ -166,3 +166,76 @@
   crewNames:
     - ihmis-suski
     - bergie
+  category: navigation
+- datetime: 2024-10-03T06:00:04.800Z
+  text: Watch change
+  author: bergie
+  position:
+    longitude: -15.9572125
+    latitude: 33.1899319
+    source: GPS
+  heading: 238
+  course: 228
+  speed:
+    stw: 2.8
+    sog: 3.2
+  log: 7118.1
+  barometer: 1020.62
+  wind:
+    speed: 11
+    direction: 55
+  engine:
+    hours: 883.8
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: navigation
+- datetime: 2024-10-03T06:09:04.800Z
+  text: Positive id of Ilheu de Cima light ahead (3 flashes)
+  author: bergie
+  position:
+    longitude: -15.9667924
+    latitude: 33.1841686
+    source: GPS
+  heading: 237
+  course: 219
+  speed:
+    stw: 3.2
+    sog: 3.3
+  log: 7118.7
+  barometer: 1020.67
+  wind:
+    speed: 12.5
+    direction: 26
+  engine:
+    hours: 883.8
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: navigation
+- datetime: 2024-10-03T06:37:04.800Z
+  text: Started seeing some mountain shapes in the mist ahead
+  author: bergie
+  position:
+    longitude: -15.9977726
+    latitude: 33.1679896
+    source: GPS
+  heading: 248
+  course: 237
+  speed:
+    stw: 3.5
+    sog: 4
+  log: 7120.5
+  barometer: 1021.01
+  wind:
+    speed: 13.2
+    direction: 41
+  engine:
+    hours: 883.8
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: navigation
