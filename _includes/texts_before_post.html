@@ -17,6 +17,11 @@
 {% endfor %}
 
 {% assign posttime = post.created | date: '%s' %}
+{% if forloop.first %}
+  {% if currentyear == nil %}
+    {% assign nexttime = site.time | date: '%s' %}
+  {% endif %}
+{% endif %}
 {% assign currentyear = page.year %}
 {% assign currentyearnumber = currentyear | abs %}
 
