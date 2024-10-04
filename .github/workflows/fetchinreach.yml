@@ -17,6 +17,7 @@ jobs:
     - run: node .github/fetchinreach.mjs
       env:
         INREACH_URL: ${{secrets.INREACH_URL}}
+        INREACH_INTERVAL: 6
     - run: node .github/updateposition.mjs
     - name: Commit files
       run: |
