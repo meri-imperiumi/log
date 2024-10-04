@@ -4,7 +4,14 @@ import { readFile, writeFile } from 'fs/promises';
 import { parseString } from 'xml2js';
 import { stringify } from 'yaml';
 
-const kmlUrl = process.env.INREACH_URL;
+let kmlUrl = process.env.INREACH_URL;
+let kmlFrom = null;
+if (process.env.INREACH_INTERVAL) {
+  const intervalNo = new Number(process.env.INREACH_INTERVAL);
+  kmlFrom = new Date();
+  kmlFrom.setHours(kmlFrom.getHours() - intervalNo);
+  kmlUrl = `${kmlUrl}?d1=${kmlFrom.toISOString()}`;
+}
 
 const texts = [];
 
@@ -20,6 +27,9 @@ fetch(kmlUrl)
     });
   }))
   .then((data) => {
+    if (!data.kml || !data.kml.Document || !data.kml.Document.length || !data.kml.Document[0].Folder) {
+      return Promise.resolve([]);
+    }
     const marks = data.kml.Document[0].Folder[0].Placemark;
     if (!marks || !marks.length) {
       return Promise.resolve([]);
@@ -65,13 +75,12 @@ fetch(kmlUrl)
       });
   })
   .then((checkins) => {
-    const texts = checkins.filter((t) => t.text);
+    const texts = checkins
+      .filter((t) => t.text)
+      .filter((t) => t.event !== 'Quick Text to MapShare received');
+    console.log(`Feed contains ${checkins.length} check-ins, and ${texts.length} texts`);
     return texts.reduce((prev, current) => {
       return prev.then(() => {
-        if (current['event'] === 'Quick Text to MapShare received') {
-          // These are just to update map position
-          return Promise.resolve();
-        }
         const data = {
           ...current,
           source: 'inreach',
@@ -79,7 +88,7 @@ fetch(kmlUrl)
         const text = data.text;
         delete data.text;
         const iso = current.timestamp.toISOString();
-        const path = `_texts/${iso.substr(0, 10)}_${iso.substr(11, 2)}${iso.substr(14, 2)}.md`;
+        const path = `_texts/${iso.substr(0, 10)}_${iso.substr(11, 2)}_${iso.substr(14, 2)}.md`;
         const content = `---\n${stringify(data)}---\n${text}`;
         return writeFile(path, content);
       });
