@@ -13,10 +13,11 @@ jobs:
     - uses: actions/setup-node@v3
       with:
         node-version: 20
-    - run: npm install node-fetch where
+    - run: npm install node-fetch where yaml
     - run: node .github/fetchais.mjs
       env:
         AISHUB_TOKEN: ${{secrets.AISHUB_TOKEN}}
+    - run: node .github/updateposition.mjs
     - name: Commit files
       run: |
         if [ -z "$(git status --porcelain)" ]; then exit 0;fi
