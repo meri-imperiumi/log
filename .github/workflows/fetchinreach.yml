@@ -17,6 +17,7 @@ jobs:
     - run: node .github/fetchinreach.mjs
       env:
         INREACH_URL: ${{secrets.INREACH_URL}}
+    - run: node .github/updateposition.mjs
     - name: Commit files
       run: |
         if [ -z "$(git status --porcelain)" ]; then exit 0;fi
