@@ -1,0 +1,47 @@
+- datetime: 2024-10-05T14:59:45.203Z
+  text: Installed dedicated MPPT for the bow panels. FLIN output still much lower
+    than expected, need to examine the MC4 connectors on it
+  author: bergie
+  position:
+    longitude: -16.3115134
+    latitude: 33.0619801
+    source: GPS
+  heading: 111
+  course: 270
+  speed:
+    stw: 0
+    sog: 0
+  log: 7139.4
+  barometer: 1018.9
+  wind:
+    speed: 1.5
+    direction: 109
+  engine:
+    hours: 886.7
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: maintenance
+- datetime: 2024-10-05T15:51:46.297Z
+  text: Upgraded Cerbo GX firmware to fix the Orion XS disconnection issue
+  author: bergie
+  position:
+    longitude: -16.3112865
+    latitude: 33.0619766
+    source: GPS
+  heading: 226
+  course: 81
+  speed:
+    stw: 0
+    sog: 0
+  log: 7139.4
+  barometer: 1018.91
+  wind:
+    speed: 3.1
+    direction: 202
+  engine:
+    hours: 886.7
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: maintenance
