@@ -1,0 +1,45 @@
+- datetime: 2024-10-07T10:02:51.600Z
+  text: Another round of anchor balette. The Dutch boat Calypso moves to a mooring
+    ball, so we moved to anchor in their spot
+  author: bergie
+  position:
+    longitude: -16.3111524
+    latitude: 33.0615624
+    source: GPS
+  heading: 246
+  course: 157
+  speed:
+    stw: 0
+    sog: 0
+  log: 7139.4
+  wind:
+    speed: 6.5
+    direction: 284
+  engine:
+    hours: 887.1
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: navigation
+- datetime: 2024-10-07T10:36:27.600Z
+  text: Stopped main engine
+  author: ""
+  position:
+    longitude: -16.3111618
+    latitude: 33.0615436
+    source: GPS
+  heading: 297
+  course: 14
+  speed:
+    stw: 0
+    sog: 0
+  log: 7139.4
+  wind:
+    speed: 6
+    direction: 299
+  engine:
+    hours: 887.6
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: navigation
