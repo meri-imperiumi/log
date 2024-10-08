@@ -113,3 +113,72 @@
     - ihmis-suski
     - bergie
   category: navigation
+- datetime: 2024-10-08T04:00:25.699Z
+  text: ""
+  author: ""
+  position:
+    longitude: -16.341713
+    latitude: 33.0280208
+    source: GPS
+  heading: 210
+  course: 212
+  speed:
+    stw: 4.4
+    sog: 4.8
+  log: 7142
+  wind:
+    speed: 5.2
+    direction: 298
+  engine:
+    hours: 888.1
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: navigation
+- datetime: 2024-10-08T04:06:25.699Z
+  text: Madeira is now visible!
+  author: ihmis-suski
+  position:
+    longitude: -16.346934
+    latitude: 33.0209641
+    source: GPS
+  heading: 215
+  course: 220
+  speed:
+    stw: 4.4
+    sog: 5
+  log: 7142.5
+  wind:
+    speed: 6.2
+    direction: 263
+  engine:
+    hours: 888.2
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: navigation
+- datetime: 2024-10-08T04:22:21.699Z
+  text: Motor stopped, sailing with Main, Genoa 1
+  author: ""
+  position:
+    longitude: -16.360751660664878
+    latitude: 33.002332500120005
+    source: GPS
+  heading: 211
+  course: 214
+  speed:
+    stw: 3.3
+    sog: 3.6
+  log: 7143.8
+  wind:
+    speed: 6.7
+    direction: 276
+  engine:
+    hours: 888.5
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: navigation
