@@ -323,3 +323,96 @@
   crewNames:
     - ihmis-suski
     - bergie
+  category: navigation
+- datetime: 2024-10-08T09:00:17.699Z
+  text: ""
+  author: ""
+  position:
+    longitude: -16.5446484
+    latitude: 32.7478531
+    source: GPS
+  heading: 240
+  course: 222
+  speed:
+    stw: 2.7
+    sog: 3.1
+  log: 7162
+  wind:
+    speed: 6.3
+    direction: 279
+  engine:
+    hours: 888.5
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: navigation
+- datetime: 2024-10-08T09:37:17.798Z
+  text: Big whale surfaced next to us
+  author: bergie
+  position:
+    longitude: -16.5607656
+    latitude: 32.7260786
+    source: GPS
+  heading: 201
+  course: 195
+  speed:
+    stw: 2.2
+    sog: 2.2
+  log: 7163.6
+  wind:
+    speed: 5.9
+    direction: 231
+  engine:
+    hours: 888.5
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: navigation
+- datetime: 2024-10-08T09:58:40.800Z
+  text: Autopilot deactivated
+  author: ""
+  position:
+    longitude: -16.5654988
+    latitude: 32.7219313
+    source: GPS
+  heading: 318
+  course: 308
+  speed:
+    stw: 1.5
+    sog: 1
+  log: 7164.2
+  wind:
+    speed: 3.8
+    direction: 257
+  engine:
+    hours: 888.5
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: navigation
+- datetime: 2024-10-08T09:58:41.798Z
+  text: Autopilot activated
+  author: ""
+  position:
+    longitude: -16.5655069
+    latitude: 32.7219311
+    source: GPS
+  heading: 318
+  course: 244
+  speed:
+    stw: 1.4
+    sog: 1.9
+  log: 7164.2
+  wind:
+    speed: 4.9
+    direction: 237
+  engine:
+    hours: 888.5
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: navigation
