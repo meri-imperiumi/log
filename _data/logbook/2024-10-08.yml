@@ -416,3 +416,118 @@
     - ihmis-suski
     - bergie
   category: navigation
+- datetime: 2024-10-08T10:00:17.798Z
+  text: ""
+  author: ""
+  position:
+    longitude: -16.5661866
+    latitude: 32.7222308
+    source: GPS
+  heading: 305
+  course: 292
+  speed:
+    stw: 1.4
+    sog: 2.1
+  log: 7164.3
+  wind:
+    speed: 5.8
+    direction: 260
+  engine:
+    hours: 888.5
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: navigation
+- datetime: 2024-10-08T10:01:54.800Z
+  text: Autopilot deactivated
+  author: ""
+  position:
+    longitude: -16.5667844
+    latitude: 32.7227315
+    source: GPS
+  heading: 321
+  course: 342
+  speed:
+    stw: 1.2
+    sog: 2.6
+  log: 7164.3
+  wind:
+    speed: 5.9
+    direction: 268
+  engine:
+    hours: 888.5
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: navigation
+- datetime: 2024-10-08T10:05:55.100Z
+  text: Sails down, motoring
+  author: ""
+  position:
+    longitude: -16.5682868
+    latitude: 32.7234941
+    source: GPS
+  heading: 320
+  course: 334
+  speed:
+    stw: 1.3
+    sog: 1.9
+  log: 7164.4
+  wind:
+    speed: 5.8
+    direction: 240
+  engine:
+    hours: 888.5
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: navigation
+- datetime: 2024-10-08T10:06:03.100Z
+  text: Autopilot activated
+  author: ""
+  position:
+    longitude: -16.5683431
+    latitude: 32.7235289
+    source: GPS
+  heading: 315
+  course: 299
+  speed:
+    stw: 1.7
+    sog: 1.7
+  log: 7164.4
+  wind:
+    speed: 6.5
+    direction: 225
+  engine:
+    hours: 888.5
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: navigation
+- datetime: 2024-10-08T10:45:00.198Z
+  text: Motor stopped, sailing with Main, Genoa 1
+  author: ""
+  position:
+    longitude: -16.6251778
+    latitude: 32.7200533
+    source: GPS
+  heading: 268
+  course: 261
+  speed:
+    stw: 3.1
+    sog: 3.3
+  log: 7167.3
+  wind:
+    speed: 7.4
+    direction: 214
+  engine:
+    hours: 889.1
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: navigation
