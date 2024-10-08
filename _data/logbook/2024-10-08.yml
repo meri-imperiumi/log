@@ -1,0 +1,115 @@
+- datetime: 2024-10-08T03:12:51.700Z
+  text: Started main engine
+  author: ""
+  position:
+    longitude: -16.311259841918947
+    latitude: 33.061499667167666
+    source: GPS
+  heading: 290
+  course: 326
+  speed:
+    stw: 0
+    sog: 0
+  log: 7139.4
+  wind:
+    speed: 4.8
+    direction: 317
+  engine:
+    hours: 887.7
+  vhf: "9"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: navigation
+- datetime: 2024-10-08T03:13:39.700Z
+  text: Anchor up, motoring
+  author: ""
+  position:
+    longitude: -16.3113085
+    latitude: 33.0615321
+    source: GPS
+  heading: 309
+  course: 318
+  speed:
+    stw: 0
+    sog: 0.7
+  log: 7139.4
+  wind:
+    speed: 4
+    direction: 304
+  engine:
+    hours: 887.7
+  vhf: "9"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: navigation
+- datetime: 2024-10-08T03:27:03.700Z
+  text: Motor stopped, sailing with Main, Genoa 1
+  author: ""
+  position:
+    longitude: -16.318045
+    latitude: 33.0543335
+    source: GPS
+  heading: 207
+  course: 203
+  speed:
+    stw: 2
+    sog: 3
+  log: 7140
+  wind:
+    speed: 7.7
+    direction: 296
+  engine:
+    hours: 887.9
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: navigation
+- datetime: 2024-10-08T03:27:48.700Z
+  text: Autopilot activated
+  author: ""
+  position:
+    longitude: -16.318422158559162
+    latitude: 33.053868834177656
+    source: GPS
+  heading: 219
+  course: 212
+  speed:
+    stw: 2.4
+    sog: 4.1
+  log: 7140.1
+  wind:
+    speed: 7.1
+    direction: 330
+  engine:
+    hours: 887.9
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: navigation
+- datetime: 2024-10-08T03:48:30.700Z
+  text: Sails down, motoring
+  author: ""
+  position:
+    longitude: -16.3306908
+    latitude: 33.0415078
+    source: GPS
+  heading: 221
+  course: 230
+  speed:
+    stw: 1.5
+    sog: 2
+  log: 7141
+  wind:
+    speed: 4.2
+    direction: 300
+  engine:
+    hours: 887.9
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: navigation
