@@ -228,3 +228,53 @@
     - ihmis-suski
     - bergie
   category: maintenance
+- datetime: 2024-10-08T06:00:22.700Z
+  text: ""
+  author: ""
+  position:
+    longitude: -16.4359241
+    latitude: 32.9185448
+    source: GPS
+  heading: 222
+  course: 210
+  speed:
+    stw: 4
+    sog: 4.3
+  log: 7150.2
+  wind:
+    speed: 8.4
+    direction: 281
+  engine:
+    hours: 888.5
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: navigation
+- datetime: 2024-10-08T06:39:20.700Z
+  text: Pretty epic sunrise in progress
+  author: bergie
+  position:
+    longitude: -16.4660825
+    latitude: 32.8816198
+    source: GPS
+  heading: 227
+  course: 221
+  speed:
+    stw: 3.8
+    sog: 4.8
+  log: 7152.9
+  wind:
+    speed: 9.7
+    direction: 294
+  engine:
+    hours: 888.5
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: navigation
+  observations:
+    seaState: 4
+    cloudCoverage: 2
+    visibility: 8
