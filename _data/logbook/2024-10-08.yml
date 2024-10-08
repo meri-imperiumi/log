@@ -182,3 +182,49 @@
     - ihmis-suski
     - bergie
   category: navigation
+- datetime: 2024-10-08T05:00:24.700Z
+  text: ""
+  author: ""
+  position:
+    longitude: -16.3912311
+    latitude: 32.9715926
+    source: GPS
+  heading: 221
+  course: 224
+  speed:
+    stw: 4.3
+    sog: 4.6
+  log: 7146.3
+  wind:
+    speed: 9.4
+    direction: 285
+  engine:
+    hours: 888.5
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: navigation
+- datetime: 2024-10-08T05:34:23.699Z
+  text: Some contact issued with N2K connectivity to Orca Core
+  author: bergie
+  position:
+    longitude: -16.4168118
+    latitude: 32.9435191
+    source: GPS
+  heading: 218
+  course: 221
+  speed:
+    stw: 3.9
+    sog: 4.4
+  log: 7148.4
+  wind:
+    speed: 9.8
+    direction: 283
+  engine:
+    hours: 888.5
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: maintenance
