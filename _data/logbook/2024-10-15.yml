@@ -729,3 +729,79 @@
     - ihmis-suski
     - bergie
   category: maintenance
+- datetime: 2024-10-15T19:00:26.700Z
+  text: ""
+  author: ""
+  position:
+    longitude: -16.0715721
+    latitude: 32.2362351
+    source: GPS
+  heading: 142
+  course: 152
+  speed:
+    stw: 3.3
+    sog: 4.5
+  log: 7218.6
+  barometer: 1011.88
+  wind:
+    speed: 13.8
+    direction: 268
+  engine:
+    hours: 890.6
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: navigation
+- datetime: 2024-10-15T19:12:26.700Z
+  text: Moonlight while night sailing. Ihave missed this!
+  author: ihmis-suski
+  position:
+    longitude: -16.0659723
+    latitude: 32.2250498
+    source: GPS
+  heading: 147
+  course: 140
+  speed:
+    stw: 3.6
+    sog: 3.1
+  log: 7219.3
+  barometer: 1012.04
+  wind:
+    speed: 10.8
+    direction: 287
+  engine:
+    hours: 890.6
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: navigation
+  observations:
+    seaState: 4
+    cloudCoverage: 3
+    visibility: 7
+- datetime: 2024-10-15T19:34:26.700Z
+  text: The comet is now visible.
+  author: ihmis-suski
+  position:
+    longitude: -16.0574128
+    latitude: 32.2043804
+    source: GPS
+  heading: 161
+  course: 132
+  speed:
+    stw: 2.9
+    sog: 3.6
+  log: 7220.7
+  barometer: 1012.36
+  wind:
+    speed: 9.8
+    direction: 302
+  engine:
+    hours: 890.6
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: navigation
