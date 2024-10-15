@@ -69,54 +69,6 @@
     - ihmis-suski
     - bergie
   category: navigation
-- datetime: 2024-10-15T09:37:28.099Z
-  text: Autopilot deactivated
-  author: ""
-  position:
-    longitude: -16.6804541
-    latitude: 32.7188709
-    source: GPS
-  heading: 117
-  course: 120
-  speed:
-    stw: 4.8
-    sog: 5.6
-  log: 7174.8
-  barometer: 1009.55
-  wind:
-    speed: 23.2
-    direction: 331
-  engine:
-    hours: 890.4
-  vhf: "16"
-  crewNames:
-    - ihmis-suski
-    - bergie
-  category: navigation
-- datetime: 2024-10-15T09:42:56.099Z
-  text: Autopilot activated
-  author: ""
-  position:
-    longitude: -16.6730894
-    latitude: 32.7168554
-    source: GPS
-  heading: 118
-  course: 122
-  speed:
-    stw: 5.6
-    sog: 6.2
-  log: 7175.2
-  barometer: 1009.58
-  wind:
-    speed: 23.8
-    direction: 321
-  engine:
-    hours: 890.5
-  vhf: "16"
-  crewNames:
-    - ihmis-suski
-    - bergie
-  category: navigation
 - datetime: 2024-10-15T09:45:03.100Z
   text: Motor stopped, sailing with Main (2nd reef), Staysail
   author: ""
@@ -134,6 +86,54 @@
   wind:
     speed: 23.4
     direction: 322
+  engine:
+    hours: 890.6
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: navigation
+- datetime: 2024-10-15T10:00:37.100Z
+  text: ""
+  author: ""
+  position:
+    longitude: -16.6456223
+    latitude: 32.7038741
+    source: GPS
+  heading: 116
+  course: 107
+  speed:
+    stw: 4.2
+    sog: 5.5
+  log: 7176.8
+  barometer: 1009.83
+  wind:
+    speed: 16.3
+    direction: 322
+  engine:
+    hours: 890.6
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: navigation
+- datetime: 2024-10-15T10:17:41.100Z
+  text: "Sails set: Main (1st reef), Staysail"
+  author: ""
+  position:
+    longitude: -16.6196624
+    latitude: 32.6906574
+    source: GPS
+  heading: 110
+  course: 136
+  speed:
+    stw: 4
+    sog: 6.6
+  log: 7178.4
+  barometer: 1010.01
+  wind:
+    speed: 15.5
+    direction: 297
   engine:
     hours: 890.6
   vhf: "16"
