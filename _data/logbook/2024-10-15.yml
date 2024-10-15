@@ -557,3 +557,75 @@
     - ihmis-suski
     - bergie
   category: maintenance
+- datetime: 2024-10-15T16:00:29.600Z
+  text: ""
+  author: ""
+  position:
+    longitude: -16.2135463
+    latitude: 32.3802966
+    source: GPS
+  heading: 104
+  course: 115
+  speed:
+    stw: 3.7
+    sog: 3.3
+  log: 7206.7
+  barometer: 1010.67
+  wind:
+    speed: 12.7
+    direction: 311
+  engine:
+    hours: 890.6
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: navigation
+- datetime: 2024-10-15T16:19:29.600Z
+  text: Watermaker 360ppm
+  author: bergie
+  position:
+    longitude: -16.1924931
+    latitude: 32.3675686
+    source: GPS
+  heading: 123
+  course: 134
+  speed:
+    stw: 2.9
+    sog: 3.8
+  log: 7208
+  barometer: 1010.69
+  wind:
+    speed: 11.2
+    direction: 304
+  engine:
+    hours: 890.6
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: maintenance
+- datetime: 2024-10-15T16:55:27.603Z
+  text: Watermaker 347ppm. Taste test ok
+  author: bergie
+  position:
+    longitude: -16.1543921
+    latitude: 32.3424496
+    source: GPS
+  heading: 124
+  course: 131
+  speed:
+    stw: 3.7
+    sog: 3.9
+  log: 7210.5
+  barometer: 1010.8
+  wind:
+    speed: 12.7
+    direction: 337
+  engine:
+    hours: 890.6
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: maintenance
