@@ -313,3 +313,103 @@
     - ihmis-suski
     - bergie
   category: maintenance
+- datetime: 2024-10-15T13:00:33.200Z
+  text: ""
+  author: ""
+  position:
+    longitude: -16.3864923
+    latitude: 32.5272288
+    source: GPS
+  heading: 126
+  course: 119
+  speed:
+    stw: 4.3
+    sog: 4.8
+  log: 7193.8
+  barometer: 1009.91
+  wind:
+    speed: 11.9
+    direction: 253
+  engine:
+    hours: 890.6
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: navigation
+- datetime: 2024-10-15T13:29:32.198Z
+  text: Watermaker 480ppm
+  author: bergie
+  position:
+    longitude: -16.3591528
+    latitude: 32.4972473
+    source: GPS
+  heading: 147
+  course: 148
+  speed:
+    stw: 4.2
+    sog: 4.4
+  log: 7196.1
+  barometer: 1009.84
+  wind:
+    speed: 12
+    direction: 244
+  engine:
+    hours: 890.6
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: maintenance
+- datetime: 2024-10-15T13:51:32.198Z
+  text: Again quite confused seas here below Ilhas Desertas
+  author: bergie
+  position:
+    longitude: -16.3495884
+    latitude: 32.4738858
+    source: GPS
+  heading: 196
+  course: 181
+  speed:
+    stw: 2.3
+    sog: 3.2
+  log: 7197.6
+  barometer: 1009.92
+  wind:
+    speed: 12.2
+    direction: 329
+  engine:
+    hours: 890.6
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: navigation
+  observations:
+    seaState: 4
+    cloudCoverage: 6
+    visibility: 7
+- datetime: 2024-10-15T13:54:31.200Z
+  text: Gybed back to wing on wing
+  author: bergie
+  position:
+    longitude: -16.3493653
+    latitude: 32.4715993
+    source: GPS
+  heading: 139
+  course: 123
+  speed:
+    stw: 2.2
+    sog: 2.9
+  log: 7197.8
+  barometer: 1010.01
+  wind:
+    speed: 10.5
+    direction: 311
+  engine:
+    hours: 890.6
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: navigation
