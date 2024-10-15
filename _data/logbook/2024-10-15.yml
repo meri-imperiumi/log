@@ -652,3 +652,80 @@
   crewNames:
     - ihmis-suski
     - bergie
+  category: navigation
+- datetime: 2024-10-15T18:00:27.699Z
+  text: ""
+  author: ""
+  position:
+    longitude: -16.1011148
+    latitude: 32.299958
+    source: GPS
+  heading: 155
+  course: 164
+  speed:
+    stw: 3.6
+    sog: 4.6
+  log: 7214.5
+  barometer: 1011.13
+  wind:
+    speed: 14.3
+    direction: 282
+  engine:
+    hours: 890.6
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: navigation
+- datetime: 2024-10-15T18:10:25.702Z
+  text: Watch change. Bergie to bed.
+  author: ihmis-suski
+  position:
+    longitude: -16.095888
+    latitude: 32.288582
+    source: GPS
+  heading: 163
+  course: 148
+  speed:
+    stw: 3.9
+    sog: 4.4
+  log: 7215.2
+  barometer: 1011.13
+  wind:
+    speed: 12.8
+    direction: 291
+  engine:
+    hours: 890.6
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: navigation
+  observations:
+    seaState: 4
+    cloudCoverage: 7
+    visibility: 7
+- datetime: 2024-10-15T18:40:25.702Z
+  text: 335ppm. Canister full. Rinsing canister to water tank.
+  author: ihmis-suski
+  position:
+    longitude: -16.0813865
+    latitude: 32.25616
+    source: GPS
+  heading: 163
+  course: 166
+  speed:
+    stw: 3.1
+    sog: 4.2
+  log: 7217.3
+  barometer: 1011.58
+  wind:
+    speed: 13
+    direction: 293
+  engine:
+    hours: 890.6
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: maintenance
