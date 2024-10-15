@@ -461,3 +461,99 @@
     - ihmis-suski
     - bergie
   category: maintenance
+- datetime: 2024-10-15T15:00:31.200Z
+  text: ""
+  author: ""
+  position:
+    longitude: -16.2786761
+    latitude: 32.416821
+    source: GPS
+  heading: 135
+  course: 154
+  speed:
+    stw: 3.4
+    sog: 5.6
+  log: 7202.7
+  barometer: 1010.16
+  wind:
+    speed: 12.5
+    direction: 327
+  engine:
+    hours: 890.6
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: navigation
+- datetime: 2024-10-15T15:06:30.201Z
+  text: Watermaker 424ppm
+  author: bergie
+  position:
+    longitude: -16.2729504
+    latitude: 32.4116134
+    source: GPS
+  heading: 132
+  course: 135
+  speed:
+    stw: 3.4
+    sog: 4.8
+  log: 7203.1
+  barometer: 1010.24
+  wind:
+    speed: 14.2
+    direction: 338
+  engine:
+    hours: 890.6
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: maintenance
+- datetime: 2024-10-15T15:17:19.200Z
+  text: "Sails set: Main, Staysail"
+  author: ""
+  position:
+    longitude: -16.2621003
+    latitude: 32.404996
+    source: GPS
+  heading: 117
+  course: 121
+  speed:
+    stw: 3.2
+    sog: 4.3
+  log: 7203.8
+  barometer: 1010.46
+  wind:
+    speed: 11.1
+    direction: 326
+  engine:
+    hours: 890.6
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: navigation
+- datetime: 2024-10-15T15:40:30.598Z
+  text: Watermaker 348ppm
+  author: bergie
+  position:
+    longitude: -16.2361481
+    latitude: 32.3926578
+    source: GPS
+  heading: 108
+  course: 112
+  speed:
+    stw: 3.7
+    sog: 4.9
+  log: 7205.3
+  barometer: 1010.54
+  wind:
+    speed: 14.3
+    direction: 320
+  engine:
+    hours: 890.6
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: maintenance
