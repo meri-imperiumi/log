@@ -805,3 +805,51 @@
     - ihmis-suski
     - bergie
   category: navigation
+- datetime: 2024-10-15T20:00:26.700Z
+  text: ""
+  author: ""
+  position:
+    longitude: -16.0469968
+    latitude: 32.1837454
+    source: GPS
+  heading: 156
+  course: 155
+  speed:
+    stw: 2.2
+    sog: 3
+  log: 7222
+  barometer: 1012.66
+  wind:
+    speed: 11
+    direction: 276
+  engine:
+    hours: 890.6
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: navigation
+- datetime: 2024-10-15T20:25:27.699Z
+  text: 347ppm. Canister full. Tank emptied again to get rid of vinegar rests.
+  author: ihmis-suski
+  position:
+    longitude: -16.0374529
+    latitude: 32.1636685
+    source: GPS
+  heading: 151
+  course: 144
+  speed:
+    stw: 2.6
+    sog: 3.3
+  log: 7223.4
+  barometer: 1012.93
+  wind:
+    speed: 8
+    direction: 265
+  engine:
+    hours: 890.6
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: maintenance
