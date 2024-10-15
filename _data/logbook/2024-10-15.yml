@@ -876,3 +876,56 @@
   crewNames:
     - ihmis-suski
     - bergie
+  category: navigation
+- datetime: 2024-10-15T22:00:29.702Z
+  text: ""
+  author: ""
+  position:
+    longitude: -16.0072906
+    latitude: 32.0995406
+    source: GPS
+  heading: 178
+  course: 195
+  speed:
+    stw: 1.6
+    sog: 1.7
+  log: 7227.6
+  barometer: 1013.72
+  wind:
+    speed: 8.5
+    direction: 291
+  engine:
+    hours: 890.6
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: navigation
+- datetime: 2024-10-15T22:04:30.700Z
+  text: |-
+    293 ppm. Canister full. 
+
+    1st canister =tank l vel 18%
+    2nd canister = tank level 26%
+  author: ihmis-suski
+  position:
+    longitude: -16.006481499969958
+    latitude: 32.09759200414022
+    source: GPS
+  heading: 164
+  course: 151
+  speed:
+    stw: 1.5
+    sog: 3.9
+  log: 7227.8
+  barometer: 1013.75
+  wind:
+    speed: 9.3
+    direction: 277
+  engine:
+    hours: 890.6
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: maintenance
