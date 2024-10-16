@@ -122,3 +122,76 @@
     seaState: 4
     cloudCoverage: 2
     visibility: 7
+- datetime: 2024-10-16T05:00:40.800Z
+  text: ""
+  author: ""
+  position:
+    longitude: -15.6293726
+    latitude: 31.7717141
+    source: GPS
+  heading: 124
+  course: 126
+  speed:
+    stw: 4.1
+    sog: 4.7
+  log: 7256
+  barometer: 1015.18
+  wind:
+    speed: 1.8
+    direction: 340
+  engine:
+    hours: 895.8
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: navigation
+- datetime: 2024-10-16T05:21:41.800Z
+  text: Moon is starting to set
+  author: bergie
+  position:
+    longitude: -15.6060335
+    latitude: 31.7546978
+    source: GPS
+  heading: 121
+  course: 122
+  speed:
+    stw: 4.4
+    sog: 3.6
+  log: 7257.6
+  barometer: 1015.39
+  wind:
+    speed: 3.5
+    direction: 66
+  engine:
+    hours: 896.2
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: navigation
+- datetime: 2024-10-16T05:44:41.900Z
+  text: "Notable: with latest Cerbo update, DC Power is no longer negative when
+    alternator is running, so it knows how to calculate that"
+  author: bergie
+  position:
+    longitude: -15.5810553
+    latitude: 31.7356963
+    source: GPS
+  heading: 123
+  course: 134
+  speed:
+    stw: 4.4
+    sog: 4.5
+  log: 7259.3
+  barometer: 1015.52
+  wind:
+    speed: 1
+    direction: 357
+  engine:
+    hours: 896.3
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: maintenance
