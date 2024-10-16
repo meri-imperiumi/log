@@ -636,3 +636,56 @@
     - ihmis-suski
     - bergie
   category: maintenance
+- datetime: 2024-10-16T18:00:49.497Z
+  text: 632ppm
+  author: ihmis-suski
+  position:
+    longitude: -14.8902546
+    latitude: 31.0188313
+    source: GPS
+  heading: 125
+  course: 129
+  speed:
+    stw: 2.5
+    sog: 3.8
+  log: 7315.4
+  barometer: 1020.58
+  wind:
+    speed: 8.7
+    direction: 348
+  engine:
+    hours: 903.2
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: maintenance
+- datetime: 2024-10-16T18:09:48.499Z
+  text: |-
+    Started at 24 %
+
+    Filled in 1 canister.
+
+    3rd canister is 33%
+  author: ihmis-suski
+  position:
+    longitude: -14.8833581
+    latitude: 31.0119118
+    source: GPS
+  heading: 124
+  course: 151
+  speed:
+    stw: 3.1
+    sog: 3.1
+  log: 7315.9
+  barometer: 1020.67
+  wind:
+    speed: 8.8
+    direction: 330
+  engine:
+    hours: 903.2
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: maintenance
