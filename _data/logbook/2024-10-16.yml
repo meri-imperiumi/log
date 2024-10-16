@@ -515,3 +515,52 @@
   crewNames:
     - ihmis-suski
     - bergie
+  category: navigation
+- datetime: 2024-10-16T16:00:49.100Z
+  text: ""
+  author: ""
+  position:
+    longitude: -14.9970443
+    latitude: 31.1245978
+    source: GPS
+  heading: 136
+  course: 145
+  speed:
+    stw: 4.6
+    sog: 4.5
+  log: 7306.9
+  barometer: 1019.52
+  wind:
+    speed: 4.5
+    direction: 180
+  engine:
+    hours: 902
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: navigation
+- datetime: 2024-10-16T16:38:49.100Z
+  text: Half way mark!
+  author: ihmis-suski
+  position:
+    longitude: -14.9643991
+    latitude: 31.0798914
+    source: GPS
+  heading: 129
+  course: 148
+  speed:
+    stw: 4.4
+    sog: 5.9
+  log: 7310.1
+  barometer: 1019.94
+  wind:
+    speed: 7.6
+    direction: 297
+  engine:
+    hours: 902.7
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: navigation
