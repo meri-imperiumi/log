@@ -390,3 +390,57 @@
   crewNames:
     - ihmis-suski
     - bergie
+  category: navigation
+- datetime: 2024-10-16T12:00:44.998Z
+  text: Watch change
+  author: bergie
+  position:
+    longitude: -15.2336043
+    latitude: 31.3603844
+    source: GPS
+  heading: 149
+  course: 166
+  speed:
+    stw: 4.3
+    sog: 4.6
+  log: 7288.1
+  barometer: 1019.55
+  wind:
+    speed: 2.9
+    direction: 338
+  engine:
+    hours: 900.7
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: navigation
+- datetime: 2024-10-16T12:26:44.998Z
+  text: Starlink took 1h to come online. Weather routing suggests catching wind a
+    little bit quicker if we head further east
+  author: bergie
+  position:
+    longitude: -15.2150096
+    latitude: 31.3293361
+    source: GPS
+  heading: 123
+  course: 143
+  speed:
+    stw: 4.3
+    sog: 6.6
+  log: 7290.2
+  barometer: 1019.51
+  wind:
+    speed: 3.9
+    direction: 147
+  engine:
+    hours: 901.2
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: navigation
+  observations:
+    seaState: 4
+    cloudCoverage: 4
+    visibility: 7
