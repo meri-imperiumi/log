@@ -789,3 +789,51 @@
     seaState: 3
     cloudCoverage: 7
     visibility: 7
+- datetime: 2024-10-16T20:00:45.600Z
+  text: ""
+  author: ""
+  position:
+    longitude: -14.8071069
+    latitude: 30.9020661
+    source: GPS
+  heading: 150
+  course: 153
+  speed:
+    stw: 3.4
+    sog: 4.6
+  log: 7323.7
+  barometer: 1022.08
+  wind:
+    speed: 11.5
+    direction: 9
+  engine:
+    hours: 903.2
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: navigation
+- datetime: 2024-10-16T20:15:45.600Z
+  text: 359ppm starting production water
+  author: ihmis-suski
+  position:
+    longitude: -14.7989896
+    latitude: 30.8854155
+    source: GPS
+  heading: 157
+  course: 167
+  speed:
+    stw: 3.5
+    sog: 3.9
+  log: 7324.8
+  barometer: 1022.25
+  wind:
+    speed: 11.5
+    direction: 15
+  engine:
+    hours: 903.2
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: maintenance
