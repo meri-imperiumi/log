@@ -564,3 +564,75 @@
     - ihmis-suski
     - bergie
   category: navigation
+- datetime: 2024-10-16T17:00:50.502Z
+  text: ""
+  author: ""
+  position:
+    longitude: -14.9381101
+    latitude: 31.0602853
+    source: GPS
+  heading: 119
+  course: 131
+  speed:
+    stw: 4.8
+    sog: 5.8
+  log: 7311.9
+  barometer: 1019.91
+  wind:
+    speed: 9.6
+    direction: 350
+  engine:
+    hours: 903
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: navigation
+- datetime: 2024-10-16T17:05:37.497Z
+  text: Motor stopped, sailing with Main, Staysail
+  author: ""
+  position:
+    longitude: -14.9323076
+    latitude: 31.0565585
+    source: GPS
+  heading: 114
+  course: 128
+  speed:
+    stw: 2.9
+    sog: 4.6
+  log: 7312.3
+  barometer: 1019.99
+  wind:
+    speed: 11.2
+    direction: 345
+  engine:
+    hours: 903.1
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: navigation
+- datetime: 2024-10-16T17:28:50.502Z
+  text: Watermaker on
+  author: ihmis-suski
+  position:
+    longitude: -14.913083
+    latitude: 31.0397811
+    source: GPS
+  heading: 120
+  course: 143
+  speed:
+    stw: 3.6
+    sog: 4.1
+  log: 7313.7
+  barometer: 1020.2
+  wind:
+    speed: 10.8
+    direction: 338
+  engine:
+    hours: 903.2
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: maintenance
