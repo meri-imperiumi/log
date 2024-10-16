@@ -93,3 +93,32 @@
   crewNames:
     - ihmis-suski
     - bergie
+  category: navigation
+- datetime: 2024-10-16T04:00:38.800Z
+  text: Battery is back to full
+  author: bergie
+  position:
+    longitude: -15.6953411
+    latitude: 31.8261128
+    source: GPS
+  heading: 128
+  course: 134
+  speed:
+    stw: 4.6
+    sog: 4.5
+  log: 7251.3
+  barometer: 1015
+  wind:
+    speed: 3.7
+    direction: 342
+  engine:
+    hours: 894.8
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: navigation
+  observations:
+    seaState: 4
+    cloudCoverage: 2
+    visibility: 7
