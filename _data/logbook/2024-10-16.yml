@@ -195,3 +195,79 @@
     - ihmis-suski
     - bergie
   category: maintenance
+- datetime: 2024-10-16T06:00:41.900Z
+  text: ""
+  author: ""
+  position:
+    longitude: -15.5633764
+    latitude: 31.7230626
+    source: GPS
+  heading: 123
+  course: 125
+  speed:
+    stw: 4.5
+    sog: 4.5
+  log: 7260.5
+  barometer: 1015.73
+  wind:
+    speed: 4.8
+    direction: 71
+  engine:
+    hours: 896.6
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: navigation
+- datetime: 2024-10-16T06:04:41.900Z
+  text: Watch change. Bergie to bed.
+  author: ihmis-suski
+  position:
+    longitude: -15.558791160583498
+    latitude: 31.71993567148844
+    source: GPS
+  heading: 123
+  course: 146
+  speed:
+    stw: 4.3
+    sog: 4.3
+  log: 7260.8
+  barometer: 1015.75
+  wind:
+    speed: 2.2
+    direction: 328
+  engine:
+    hours: 896.6
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: navigation
+- datetime: 2024-10-16T06:50:42.899Z
+  text: Still no wind.
+  author: ihmis-suski
+  position:
+    longitude: -15.5069343
+    latitude: 31.6817256
+    source: GPS
+  heading: 137
+  course: 134
+  speed:
+    stw: 4.4
+    sog: 4.8
+  log: 7264.3
+  barometer: 1015.97
+  wind:
+    speed: 3.6
+    direction: 354
+  engine:
+    hours: 897.4
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: navigation
+  observations:
+    seaState: 4
+    cloudCoverage: 2
+    visibility: 7
