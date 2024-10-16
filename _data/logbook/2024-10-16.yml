@@ -860,3 +860,79 @@
   crewNames:
     - ihmis-suski
     - bergie
+  category: navigation
+- datetime: 2024-10-16T21:59:43.603Z
+  text: |-
+    312pp.
+
+    Canister 4 = 44%
+  author: ihmis-suski
+  position:
+    longitude: -14.7423089
+    latitude: 30.761683
+    source: GPS
+  heading: 141
+  course: 141
+  speed:
+    stw: 4.8
+    sog: 4.9
+  log: 7332.9
+  barometer: 1022.83
+  wind:
+    speed: 15
+    direction: 30
+  engine:
+    hours: 903.2
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: maintenance
+- datetime: 2024-10-16T22:00:43.596Z
+  text: ""
+  author: ""
+  position:
+    longitude: -14.7413443
+    latitude: 30.7605488
+    source: GPS
+  heading: 141
+  course: 145
+  speed:
+    stw: 4.4
+    sog: 6
+  log: 7333
+  barometer: 1022.83
+  wind:
+    speed: 15.5
+    direction: 34
+  engine:
+    hours: 903.2
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: navigation
+- datetime: 2024-10-16T22:08:42.598Z
+  text: Hydro on.
+  author: ihmis-suski
+  position:
+    longitude: -14.7337251
+    latitude: 30.7516341
+    source: GPS
+  heading: 136
+  course: 130
+  speed:
+    stw: 4.8
+    sog: 5.8
+  log: 7333.7
+  barometer: 1022.77
+  wind:
+    speed: 15.7
+    direction: 16
+  engine:
+    hours: 903.2
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: maintenance
