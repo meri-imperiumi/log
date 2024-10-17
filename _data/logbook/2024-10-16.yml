@@ -637,7 +637,7 @@
     - bergie
   category: maintenance
 - datetime: 2024-10-16T18:00:49.497Z
-  text: 632ppm
+  text: 632ppm. Watch change
   author: ihmis-suski
   position:
     longitude: -14.8902546
@@ -690,8 +690,8 @@
     - bergie
   category: maintenance
 - datetime: 2024-10-16T19:00:45.497Z
-  text: Autopilot deactivated
-  author: ""
+  text: Autopilot deactivated, windvane steering
+  author: bergie
   position:
     longitude: -14.8434946
     latitude: 30.9656756
@@ -929,6 +929,54 @@
   wind:
     speed: 15.7
     direction: 16
+  engine:
+    hours: 903.2
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: maintenance
+- datetime: 2024-10-16T23:00:41.600Z
+  text: ""
+  author: ""
+  position:
+    longitude: -14.6715748
+    latitude: 30.6959629
+    source: GPS
+  heading: 137
+  course: 134
+  speed:
+    stw: 4.9
+    sog: 5.2
+  log: 7338.3
+  barometer: 1022.88
+  wind:
+    speed: 15.9
+    direction: 34
+  engine:
+    hours: 903.2
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: navigation
+- datetime: 2024-10-16T23:41:40.601Z
+  text: Watermaker 317ppm, 5th canister = 47%
+  author: bergie
+  position:
+    longitude: -14.624217478434247
+    latitude: 30.653005027770995
+    source: GPS
+  heading: 136
+  course: 140
+  speed:
+    stw: 3.9
+    sog: 5.2
+  log: 7341.9
+  barometer: 1023.34
+  wind:
+    speed: 13.9
+    direction: 26
   engine:
     hours: 903.2
   vhf: "16"
