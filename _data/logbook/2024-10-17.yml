@@ -471,3 +471,82 @@
   crewNames:
     - ihmis-suski
     - bergie
+  category: navigation
+- datetime: 2024-10-17T12:00:22.201Z
+  text: Watch change, 35NM to go
+  author: bergie
+  position:
+    longitude: -13.8715391
+    latitude: 29.6903023
+    source: GPS
+  heading: 136
+  course: 143
+  speed:
+    stw: 5.7
+    sog: 7.2
+  log: 7412.5
+  barometer: 1025.92
+  wind:
+    speed: 23.3
+    direction: 38
+  engine:
+    hours: 903.2
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: navigation
+  observations:
+    cloudCoverage: 3
+    seaState: 4
+    visibility: 7
+- datetime: 2024-10-17T12:27:21.200Z
+  text: Land ahoy! There's a mountain in the horizon, dead ahead
+  author: bergie
+  position:
+    longitude: -13.8497395
+    latitude: 29.6501278
+    source: GPS
+  heading: 142
+  course: 130
+  speed:
+    stw: 5.9
+    sog: 5.6
+  log: 7415.2
+  barometer: 1025.37
+  wind:
+    speed: 22.2
+    direction: 42
+  engine:
+    hours: 903.2
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: navigation
+- datetime: 2024-10-17T12:50:21.200Z
+  text: |-
+    On radio "MCC Diana, following message received..." <scrambled>
+    Sounds like a relay for pan pan or mayday
+  author: bergie
+  position:
+    longitude: -13.828531010945637
+    latitude: 29.61557935078939
+    source: GPS
+  heading: 147
+  course: 144
+  speed:
+    stw: 5.2
+    sog: 5.7
+  log: 7417.6
+  barometer: 1025.14
+  wind:
+    speed: 21.5
+    direction: 36
+  engine:
+    hours: 903.2
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: radio
