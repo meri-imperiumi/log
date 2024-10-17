@@ -271,3 +271,55 @@
     - ihmis-suski
     - bergie
   category: maintenance
+- datetime: 2024-10-17T05:00:33.100Z
+  text: "The wind is starting to build some beam seas "
+  author: bergie
+  position:
+    longitude: -14.3238051
+    latitude: 30.2485401
+    source: GPS
+  heading: 138
+  course: 141
+  speed:
+    stw: 5.5
+    sog: 5.8
+  log: 7371.1
+  barometer: 1023.85
+  wind:
+    speed: 22.3
+    direction: 44
+  engine:
+    hours: 903.2
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: navigation
+  observations:
+    seaState: 4
+    cloudCoverage: 1
+    visibility: 7
+- datetime: 2024-10-17T05:09:33.100Z
+  text: Again some music on channel 16
+  author: bergie
+  position:
+    longitude: -14.3140116
+    latitude: 30.2363786
+    source: GPS
+  heading: 135
+  course: 133
+  speed:
+    stw: 5.5
+    sog: 6.6
+  log: 7372
+  barometer: 1023.92
+  wind:
+    speed: 21.7
+    direction: 27
+  engine:
+    hours: 903.2
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: radio
