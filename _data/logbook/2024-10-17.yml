@@ -175,3 +175,51 @@
     - ihmis-suski
     - bergie
   category: navigation
+- datetime: 2024-10-17T03:00:36.700Z
+  text: ""
+  author: ""
+  position:
+    longitude: -14.4344189
+    latitude: 30.4140111
+    source: GPS
+  heading: 155
+  course: 135
+  speed:
+    stw: 4.6
+    sog: 6.3
+  log: 7359.5
+  barometer: 1024.09
+  wind:
+    speed: 19
+    direction: 48
+  engine:
+    hours: 903.2
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: navigation
+- datetime: 2024-10-17T03:14:35.700Z
+  text: Watermaker 324ppm. Filled 7th canister, 57%
+  author: bergie
+  position:
+    longitude: -14.4235383
+    latitude: 30.3946188
+    source: GPS
+  heading: 144
+  course: 155
+  speed:
+    stw: 5.4
+    sog: 5.8
+  log: 7360.8
+  barometer: 1024.04
+  wind:
+    speed: 20.2
+    direction: 33
+  engine:
+    hours: 903.2
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: maintenance
