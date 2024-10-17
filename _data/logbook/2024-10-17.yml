@@ -323,3 +323,32 @@
     - ihmis-suski
     - bergie
   category: radio
+- datetime: 2024-10-17T06:00:30.099Z
+  text: The moon has set and the sun is about to rise. Finally some good old fast
+    sailing!
+  author: ihmis-suski
+  position:
+    longitude: -14.2582691
+    latitude: 30.1654903
+    source: GPS
+  heading: 143
+  course: 144
+  speed:
+    stw: 5.4
+    sog: 6
+  log: 7377.1
+  barometer: 1024.13
+  wind:
+    speed: 25.6
+    direction: 38
+  engine:
+    hours: 903.2
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: navigation
+  observations:
+    seaState: 4
+    cloudCoverage: 2
+    visibility: 7
