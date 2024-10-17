@@ -550,3 +550,52 @@
     - ihmis-suski
     - bergie
   category: radio
+- datetime: 2024-10-17T13:00:20.198Z
+  text: ""
+  author: ""
+  position:
+    longitude: -13.8193576
+    latitude: 29.6010713
+    source: GPS
+  heading: 144
+  course: 158
+  speed:
+    stw: 5.6
+    sog: 8
+  log: 7418.6
+  barometer: 1024.77
+  wind:
+    speed: 22
+    direction: 29
+  engine:
+    hours: 903.2
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: navigation
+- datetime: 2024-10-17T13:42:19.200Z
+  text: "First weather forecast from Canaries GC: F5-6 NE, seas increasing to 3m
+    offshore"
+  author: bergie
+  position:
+    longitude: -13.7942626
+    latitude: 29.5390038
+    source: GPS
+  heading: 167
+  course: 161
+  speed:
+    stw: 5
+    sog: 5.3
+  log: 7422.6
+  barometer: 1024.72
+  wind:
+    speed: 19.2
+    direction: 47
+  engine:
+    hours: 903.2
+  vhf: "1"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: radio
