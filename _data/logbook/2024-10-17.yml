@@ -122,3 +122,56 @@
     - ihmis-suski
     - bergie
   category: maintenance
+- datetime: 2024-10-17T02:00:37.700Z
+  text: ""
+  author: bergie
+  position:
+    longitude: -14.489291
+    latitude: 30.4952144
+    source: GPS
+  heading: 156
+  course: 157
+  speed:
+    stw: 5
+    sog: 6.1
+  log: 7353.9
+  barometer: 1023.82
+  wind:
+    speed: 17.3
+    direction: 48
+  engine:
+    hours: 903.2
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: navigation
+  observations:
+    seaState: 3
+    cloudCoverage: 3
+    visibility: 7
+- datetime: 2024-10-17T02:41:35.700Z
+  text: We're entering a major shipping lane now. Vessels from South Africa,
+    Uruguay, etc
+  author: bergie
+  position:
+    longitude: -14.4490793
+    latitude: 30.4395643
+    source: GPS
+  heading: 149
+  course: 143
+  speed:
+    stw: 5.2
+    sog: 4.3
+  log: 7357.8
+  barometer: 1023.9
+  wind:
+    speed: 19.7
+    direction: 37
+  engine:
+    hours: 903.2
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: navigation
