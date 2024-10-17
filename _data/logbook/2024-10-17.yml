@@ -26,3 +26,99 @@
     seaState: 3
     cloudCoverage: 7
     visibility: 7
+- datetime: 2024-10-17T01:00:38.600Z
+  text: ""
+  author: bergie
+  position:
+    longitude: -14.5406829
+    latitude: 30.5772128
+    source: GPS
+  heading: 142
+  course: 151
+  speed:
+    stw: 4.1
+    sog: 4.6
+  log: 7348.2
+  barometer: 1023.55
+  wind:
+    speed: 13.8
+    direction: 21
+  engine:
+    hours: 903.2
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: navigation
+- datetime: 2024-10-17T01:09:38.600Z
+  text: 99NM to go
+  author: bergie
+  position:
+    longitude: -14.5298879
+    latitude: 30.5673086
+    source: GPS
+  heading: 133
+  course: 138
+  speed:
+    stw: 5.3
+    sog: 6.6
+  log: 7349
+  barometer: 1023.55
+  wind:
+    speed: 19.8
+    direction: 21
+  engine:
+    hours: 903.2
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: navigation
+- datetime: 2024-10-17T01:22:07.600Z
+  text: "Sails set: Main (1st reef), Staysail"
+  author: ""
+  position:
+    longitude: -14.519604
+    latitude: 30.5496326
+    source: GPS
+  heading: 157
+  course: 167
+  speed:
+    stw: 5.1
+    sog: 5.9
+  log: 7350.2
+  barometer: 1023.55
+  wind:
+    speed: 18.2
+    direction: 31
+  engine:
+    hours: 903.2
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: navigation
+- datetime: 2024-10-17T01:31:37.600Z
+  text: Watermaker 294ppm. Filled 6th canister, 50%
+  author: bergie
+  position:
+    longitude: -14.511332
+    latitude: 30.5360086
+    source: GPS
+  heading: 152
+  course: 165
+  speed:
+    stw: 5.1
+    sog: 6.3
+  log: 7351.1
+  barometer: 1023.55
+  wind:
+    speed: 17.4
+    direction: 32
+  engine:
+    hours: 903.2
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: maintenance
