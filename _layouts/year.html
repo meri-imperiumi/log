@@ -4,6 +4,37 @@ layout: default
 <h1>{{ page.title }}</h1>
 {{ content }}
 {% assign current_year = page.year | string %}
+{% assign current_year_i = page.year | to_i %}
+{{ site.data.year_miles[current_year] }}
+{% for year_miles in site.data.year_miles %}
+  {% assign miles_y = year_miles[0] | string %}
+  {% if miles_y contains current_year %}
+  <table>
+    <tr>
+      <th>Distance sailed</th>
+      <td>
+        {{ year_miles[1].sailing }} NM
+      </td>
+      <td>
+        ({{ year_miles[1].sailing | divided_by: year_miles[1].total | times: 100 | round: 1 }}%)
+      </td>
+    </tr>
+    <tr>
+      <th>Distance motored</th>
+      <td>
+        {{ year_miles[1].motoring }} NM
+      </td>
+      <td>
+        ({{ year_miles[1].motoring | divided_by: year_miles[1].total | times: 100 | round: 1 }}%)
+      </td>
+    </tr>
+    <tr>
+      <th>Total</th>
+      <td>{{ year_miles[1].total }} NM</td>
+    </tr>
+  </table>
+  {% endif %}
+{% endfor %}
 {% include track_year.html %}
 <hr>
 {% include logs.html %}
