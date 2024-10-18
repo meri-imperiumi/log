@@ -9,6 +9,8 @@ const crewMiles = {
   nissinen: 0,
   starbuck: 0,
 };
+const yearMiles = {
+};
 
 readdir('_data/logbook')
   .then((files) => {
@@ -29,6 +31,7 @@ readdir('_data/logbook')
     let previousNissinen = false;
     let starbuck = false;
     let previousStarbuck = false;
+    let motoring = false;
     logEntries.forEach((entry) => {
       let countThisStill = false;
       if (entry.text.indexOf('Autopilot activated') !== -1) {
@@ -57,6 +60,10 @@ readdir('_data/logbook')
         // Windvane can't be used while motoring
         previousStarbuck = starbuck;
         starbuck = false;
+        motoring = true;
+      }
+      if (entry.text.toLowerCase().indexOf('sailing with') !== -1) {
+        motoring = false;
       }
       if (entry.end) {
         // When trip ends we don't use either any longer
@@ -64,6 +71,7 @@ readdir('_data/logbook')
         nissinen = false;
         previousStarbuck = starbuck;
         starbuck = false;
+        motoring = false;
       }
 
       if (!previous) {
@@ -95,6 +103,22 @@ readdir('_data/logbook')
         crewMiles.starbuck += distance;
         previousStarbuck = starbuck;
       }
+      const year = entry.datetime.substr(0, 4);
+      if (year) {
+        if (!yearMiles[year]) {
+          yearMiles[year] = {
+            motoring: 0,
+            sailing: 0,
+            total: 0,
+          };
+        }
+        yearMiles[year].total += distance;
+        if (motoring) {
+          yearMiles[year].motoring += distance;
+        } else {
+          yearMiles[year].sailing += distance;
+        }
+      }
       previous = entry;
     });
     return crewMiles;
@@ -111,6 +135,17 @@ readdir('_data/logbook')
   })
   .then((updatedCrew) => {
     return writeFile('_data/crew_miles.yml', stringify(updatedCrew));
+  })
+  .then(() => {
+    const cleanedYears = {
+    };
+    Object.keys(yearMiles).forEach((year) => {
+      cleanedYears[year] = {};
+      cleanedYears[year].total = parseFloat(yearMiles[year].total.toFixed(1)) || 0;
+      cleanedYears[year].motoring = parseFloat(yearMiles[year].motoring.toFixed(1)) || 0;
+      cleanedYears[year].sailing = parseFloat(yearMiles[year].sailing.toFixed(1)) || 0;
+    });
+    return writeFile('_data/year_miles.yml', stringify(cleanedYears));
   })
   .then(() => {
     console.log('Done');

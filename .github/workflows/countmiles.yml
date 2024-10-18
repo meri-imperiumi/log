@@ -22,7 +22,8 @@ jobs:
         if [ -z "$(git status --porcelain)" ]; then exit 0;fi
         git config --local user.email "41898282+github-actions[bot]@users.noreply.github.com"
         git config --local user.name "github-actions[bot]"
-        git add _data/aishub.json
+        git add _data/crew_miles.yml
+        git add _data/year_miles.yml
         git commit -m "Recalculated crew miles" -a
     - name: Push changes
       uses: ad-m/github-push-action@master
