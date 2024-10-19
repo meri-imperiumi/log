@@ -1,0 +1,47 @@
+- datetime: 2024-10-19T12:16:04.099Z
+  text: Started watermaker. Testing a new pre-filter location. Cleaned the filter.
+    Used the cleaning valve to de-air the system
+  author: bergie
+  position:
+    longitude: -13.5303868
+    latitude: 29.2177033
+    source: GPS
+  heading: 24
+  course: 144
+  speed:
+    stw: 0
+    sog: 0.7
+  log: 7447.8
+  barometer: 1021.98
+  wind:
+    speed: 14.4
+    direction: 41
+  engine:
+    hours: 903.7
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: maintenance
+- datetime: 2024-10-19T12:49:04.099Z
+  text: Watermaker 300ppm
+  author: bergie
+  position:
+    longitude: -13.5303883
+    latitude: 29.2177161
+    source: GPS
+  heading: 48
+  course: 288
+  speed:
+    stw: 0
+    sog: 0
+  log: 7447.8
+  barometer: 1021.62
+  wind:
+    speed: 11.2
+    direction: 33
+  engine:
+    hours: 903.7
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: maintenance
