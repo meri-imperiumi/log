@@ -9,6 +9,7 @@ layout: default
   {% assign miles_y = year_miles[0] | string %}
   {% if miles_y contains current_year %}
   <table>
+    {% if year_miles[1].sailing %}
     <tr>
       <th>Distance sailed</th>
       <td>
@@ -18,6 +19,8 @@ layout: default
         ({{ year_miles[1].sailing | divided_by: year_miles[1].total | times: 100 | round: 1 }}%)
       </td>
     </tr>
+    {% endif %}
+    {% if year_miles[1].motoring %}
     <tr>
       <th>Distance motored</th>
       <td>
@@ -27,6 +30,7 @@ layout: default
         ({{ year_miles[1].motoring | divided_by: year_miles[1].total | times: 100 | round: 1 }}%)
       </td>
     </tr>
+    {% endif %}
     <tr>
       <th>Total</th>
       <td>{{ year_miles[1].total }} NM</td>

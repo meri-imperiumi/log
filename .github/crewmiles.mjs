@@ -137,15 +137,17 @@ readdir('_data/logbook')
     return writeFile('_data/crew_miles.yml', stringify(updatedCrew));
   })
   .then(() => {
-    const cleanedYears = {
-    };
+    return readFile('_data/year_miles.yml', 'utf-8')
+      .then((c) => parse(c));
+  })
+  .then((storedYearMiles) => {
     Object.keys(yearMiles).forEach((year) => {
-      cleanedYears[year] = {};
-      cleanedYears[year].total = parseFloat(yearMiles[year].total.toFixed(1)) || 0;
-      cleanedYears[year].motoring = parseFloat(yearMiles[year].motoring.toFixed(1)) || 0;
-      cleanedYears[year].sailing = parseFloat(yearMiles[year].sailing.toFixed(1)) || 0;
+      storedYearMiles[year] = {};
+      storedYearMiles[year].total = parseFloat(yearMiles[year].total.toFixed(1)) || 0;
+      storedYearMiles[year].motoring = parseFloat(yearMiles[year].motoring.toFixed(1)) || 0;
+      storedYearMiles[year].sailing = parseFloat(yearMiles[year].sailing.toFixed(1)) || 0;
     });
-    return writeFile('_data/year_miles.yml', stringify(cleanedYears));
+    return writeFile('_data/year_miles.yml', stringify(storedYearMiles));
   })
   .then(() => {
     console.log('Done');
