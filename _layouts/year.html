@@ -4,8 +4,7 @@ layout: default
 <h1>{{ page.title }}</h1>
 {{ content }}
 {% assign current_year = page.year | string %}
-{% assign current_year_i = page.year | to_i %}
-{{ site.data.year_miles[current_year] }}
+{% include track_year.html %}
 {% for year_miles in site.data.year_miles %}
   {% assign miles_y = year_miles[0] | string %}
   {% if miles_y contains current_year %}
@@ -35,6 +34,5 @@ layout: default
   </table>
   {% endif %}
 {% endfor %}
-{% include track_year.html %}
 <hr>
 {% include logs.html %}
