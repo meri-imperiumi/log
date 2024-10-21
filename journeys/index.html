@@ -4,6 +4,20 @@ title: Journeys
 ---
 <h1>{{ page.title }}</h1>
 {% include track_all.html %}
+<table>
+{% assign total_miles = 0 %}
+{% for year_miles in site.data.year_miles %}
+  {% assign total_miles = total_miles | plus: year_miles[1].total %}
+  <tr>
+    <th>{{ year_miles[0] }}</th>
+    <td>{{ year_miles[1].total }} NM</td>
+  </tr>
+{% endfor %}
+  <tr>
+    <th>Total</th>
+    <td>{{ total_miles }} NM</td>
+  </tr>
+</table>
 <hr />
 <ul class="logs">
 {% for year in site.years %}
