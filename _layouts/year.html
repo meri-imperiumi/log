@@ -8,7 +8,7 @@ layout: default
 {% for year_miles in site.data.year_miles %}
   {% assign miles_y = year_miles[0] | string %}
   {% if miles_y contains current_year %}
-  <table>
+  <table class="year_stats">
     {% if year_miles[1].sailing %}
     <tr>
       <th>Distance sailed</th>

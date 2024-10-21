@@ -4,18 +4,24 @@ title: Journeys
 ---
 <h1>{{ page.title }}</h1>
 {% include track_all.html %}
-<table>
+<table class="year_stats">
 {% assign total_miles = 0 %}
+{% assign total_sailed = 0 %}
 {% for year_miles in site.data.year_miles %}
   {% assign total_miles = total_miles | plus: year_miles[1].total %}
+  {% assign total_sailed = total_sailed | plus: year_miles[1].sailing %}
   <tr>
-    <th>{{ year_miles[0] }}</th>
+    <th><a href="{{ site.baseurl }}/{{ year_miles[0] }}/">{{ year_miles[0] }}</a></th>
     <td>{{ year_miles[1].total }} NM</td>
+    <td>
+      ({{ year_miles[1].sailing | divided_by: year_miles[1].total | times: 100 | round: 1 }}% sailed)
+    </td>
   </tr>
 {% endfor %}
   <tr>
     <th>Total</th>
     <td>{{ total_miles }} NM</td>
+    <td>({{ total_sailed | divided_by: total_miles | times: 100 | round: 1 }}% sailed)</td>
   </tr>
 </table>
 <hr />

@@ -138,6 +138,13 @@ main li.video iframe {
   border-radius: 1em;
 }
 
+table.year_stats {
+  text-align: right;
+}
+table.year_stats th a {
+  color: #000000;
+  text-decoration: none;
+}
 
 ul.logs, ul.image_slideshow {
   margin: 0;
