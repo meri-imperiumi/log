@@ -362,3 +362,50 @@
     - ihmis-suski
     - bergie
   category: maintenance
+- datetime: 2024-10-22T11:59:49.798Z
+  text: 703 ppm
+  author: ihmis-suski
+  position:
+    longitude: -13.4126486
+    latitude: 29.0772163
+    source: GPS
+  heading: 177
+  course: 177
+  speed:
+    stw: 4.3
+    sog: 5.5
+  log: 7463.2
+  barometer: 1021.81
+  wind:
+    speed: 15
+    direction: 27
+  engine:
+    hours: 905.3
+  vhf: "9"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: maintenance
+- datetime: 2024-10-22T12:00:49.798Z
+  text: ""
+  author: ""
+  position:
+    longitude: -13.4126121
+    latitude: 29.0757833
+    source: GPS
+  heading: 178
+  course: 173
+  speed:
+    stw: 4.1
+    sog: 5.2
+  log: 7463.3
+  barometer: 1021.8
+  wind:
+    speed: 15.9
+    direction: 23
+  engine:
+    hours: 905.3
+  vhf: "9"
+  crewNames:
+    - ihmis-suski
+    - bergie
