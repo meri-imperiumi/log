@@ -142,3 +142,103 @@
     - ihmis-suski
     - bergie
   category: navigation
+- datetime: 2024-10-22T10:00:47.398Z
+  text: ""
+  author: ""
+  position:
+    longitude: -13.457247
+    latitude: 29.2417939
+    source: GPS
+  heading: 113
+  course: 118
+  speed:
+    stw: 5.3
+    sog: 5.8
+  log: 7452.3
+  barometer: 1022.26
+  wind:
+    speed: 16.8
+    direction: 18
+  engine:
+    hours: 905.3
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: navigation
+- datetime: 2024-10-22T10:33:48.400Z
+  text: Changed to wing on wing.
+  author: ihmis-suski
+  position:
+    longitude: -13.4139823
+    latitude: 29.2045311
+    source: GPS
+  heading: 157
+  course: 161
+  speed:
+    stw: 5.2
+    sog: 5.9
+  log: 7455.6
+  barometer: 1022.02
+  wind:
+    speed: 17.1
+    direction: 355
+  engine:
+    hours: 905.3
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: navigation
+  observations:
+    seaState: 4
+    cloudCoverage: 6
+    visibility: 7
+- datetime: 2024-10-22T10:37:48.400Z
+  text: Watermaker on
+  author: ihmis-suski
+  position:
+    longitude: -13.4124623
+    latitude: 29.1983699
+    source: GPS
+  heading: 167
+  course: 180
+  speed:
+    stw: 4.9
+    sog: 6.3
+  log: 7456
+  barometer: 1022.11
+  wind:
+    speed: 18.3
+    direction: 4
+  engine:
+    hours: 905.3
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: maintenance
+- datetime: 2024-10-22T10:52:49.401Z
+  text: "Stopped watermaker, the system is taking in air somewhere "
+  author: bergie
+  position:
+    longitude: -13.4106006
+    latitude: 29.1746005
+    source: GPS
+  heading: 172
+  course: 184
+  speed:
+    stw: 4.5
+    sog: 6.8
+  log: 7457.4
+  barometer: 1022.16
+  wind:
+    speed: 18.4
+    direction: 11
+  engine:
+    hours: 905.3
+  vhf: "9"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: maintenance
