@@ -12,7 +12,7 @@ title: Journeys
   {% assign total_sailed = total_sailed | plus: year_miles[1].sailing %}
   <tr>
     <th><a href="{{ site.baseurl }}/{{ year_miles[0] }}/">{{ year_miles[0] }}</a></th>
-    <td>{{ year_miles[1].total }} NM</td>
+    <td>{{ year_miles[1].total }}&nbsp;NM</td>
     <td>
       ({{ year_miles[1].sailing | divided_by: year_miles[1].total | times: 100 | round: 1 }}% sailed)
     </td>
@@ -20,7 +20,7 @@ title: Journeys
 {% endfor %}
   <tr>
     <th>Total</th>
-    <td>{{ total_miles }} NM</td>
+    <td>{{ total_miles }}&nbsp;NM</td>
     <td>({{ total_sailed | divided_by: total_miles | times: 100 | round: 1 }}% sailed)</td>
   </tr>
 </table>
