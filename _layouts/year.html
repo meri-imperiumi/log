@@ -13,7 +13,7 @@ layout: default
     <tr>
       <th>Distance sailed</th>
       <td>
-        {{ year_miles[1].sailing }} NM
+        {{ year_miles[1].sailing }}&nbsp;NM
       </td>
       <td>
         ({{ year_miles[1].sailing | divided_by: year_miles[1].total | times: 100 | round: 1 }}%)
@@ -24,7 +24,7 @@ layout: default
     <tr>
       <th>Distance motored</th>
       <td>
-        {{ year_miles[1].motoring }} NM
+        {{ year_miles[1].motoring }}&nbsp;NM
       </td>
       <td>
         ({{ year_miles[1].motoring | divided_by: year_miles[1].total | times: 100 | round: 1 }}%)
@@ -33,7 +33,7 @@ layout: default
     {% endif %}
     <tr>
       <th>Total</th>
-      <td>{{ year_miles[1].total }} NM</td>
+      <td>{{ year_miles[1].total }}&nbsp;NM</td>
     </tr>
   </table>
   {% endif %}
