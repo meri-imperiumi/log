@@ -789,3 +789,30 @@
     - ihmis-suski
     - bergie
   category: maintenance
+- datetime: 2024-10-29T20:56:06.003Z
+  text: "So, that was weird: anchor alarm tripped. GPS showed us dragging 2kt
+    towards the sea. Basically no wind. When we went to investigate, transits
+    didn't move. Neighbor was also investigating their anchor at the same time.
+    So likely a GPS network error? Signal K switched from the B&G GPS to the AIS
+    GPS for a moment then too"
+  author: bergie
+  position:
+    longitude: -13.7936148
+    latitude: 28.8508168
+    source: GPS
+  heading: 45
+  course: 53
+  speed:
+    stw: 0
+    sog: 1.4
+  log: 7493
+  barometer: 1018.38
+  wind:
+    speed: 2.5
+    direction: 33
+  engine:
+    hours: 907.7
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: navigation
