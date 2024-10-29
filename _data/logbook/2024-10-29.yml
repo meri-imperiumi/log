@@ -461,7 +461,7 @@
   category: maintenance
 - datetime: 2024-10-29T14:49:02.899Z
   text: Sails down, motoring
-  author: ""
+  author: bergie
   position:
     longitude: -13.7202761
     latitude: 28.8596313
@@ -478,6 +478,78 @@
     direction: 153
   engine:
     hours: 906.2
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: navigation
+- datetime: 2024-10-29T14:55:02.899Z
+  text: Stopped watermaker, 474ppm
+  author: bergie
+  position:
+    longitude: -13.7269033
+    latitude: 28.8574651
+    source: GPS
+  heading: 237
+  course: 226
+  speed:
+    stw: 4.2
+    sog: 3.9
+  log: 7488.1
+  barometer: 1016.94
+  wind:
+    speed: 6.4
+    direction: 168
+  engine:
+    hours: 906.3
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: maintenance
+- datetime: 2024-10-29T15:00:02.899Z
+  text: ""
+  author: ""
+  position:
+    longitude: -13.7329838
+    latitude: 28.854813
+    source: GPS
+  heading: 236
+  course: 245
+  speed:
+    stw: 4.3
+    sog: 3.9
+  log: 7488.5
+  barometer: 1016.99
+  wind:
+    speed: 2.3
+    direction: 202
+  engine:
+    hours: 906.4
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: navigation
+- datetime: 2024-10-29T15:45:41.900Z
+  text: Autopilot deactivated
+  author: ""
+  position:
+    longitude: -13.7870016
+    latitude: 28.833451
+    source: GPS
+  heading: 282
+  course: 287
+  speed:
+    stw: 4.2
+    sog: 3.7
+  log: 7491.7
+  barometer: 1016.86
+  wind:
+    speed: 2.7
+    direction: 332
+  engine:
+    hours: 907.2
   vhf: "16"
   crewNames:
     - ihmis-suski
