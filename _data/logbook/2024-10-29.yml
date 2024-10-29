@@ -338,3 +338,75 @@
   crewNames:
     - ihmis-suski
     - bergie
+  category: navigation
+- datetime: 2024-10-29T13:05:03.801Z
+  text: "Sails set: Main, Genoa 1"
+  author: ""
+  position:
+    longitude: -13.6447104
+    latitude: 28.8949571
+    source: GPS
+  heading: 235
+  course: 230
+  speed:
+    stw: 3.4
+    sog: 3.6
+  log: 7483.2
+  barometer: 1017.34
+  wind:
+    speed: 12.3
+    direction: 103
+  engine:
+    hours: 906.2
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: navigation
+- datetime: 2024-10-29T13:25:01.798Z
+  text: Watermaker 505ppm
+  author: bergie
+  position:
+    longitude: -13.6634018
+    latitude: 28.8851438
+    source: GPS
+  heading: 246
+  course: 249
+  speed:
+    stw: 2.9
+    sog: 3
+  log: 7484.4
+  barometer: 1017.14
+  wind:
+    speed: 8.8
+    direction: 124
+  engine:
+    hours: 906.2
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: maintenance
+- datetime: 2024-10-29T14:00:01.798Z
+  text: ""
+  author: ""
+  position:
+    longitude: -13.6896429
+    latitude: 28.8720369
+    source: GPS
+  heading: 234
+  course: 235
+  speed:
+    stw: 2.8
+    sog: 3.2
+  log: 7486
+  barometer: 1017.02
+  wind:
+    speed: 6
+    direction: 152
+  engine:
+    hours: 906.2
+  vhf: "1"
+  crewNames:
+    - ihmis-suski
+    - bergie
