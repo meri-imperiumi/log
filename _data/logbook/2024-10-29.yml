@@ -697,3 +697,49 @@
     - ihmis-suski
     - bergie
   category: maintenance
+- datetime: 2024-10-29T17:11:04.902Z
+  text: Suski cleaned the prop. Lots of small barnacles
+  author: bergie
+  position:
+    longitude: -13.7933131
+    latitude: 28.8510293
+    source: GPS
+  heading: 292
+  course: 222
+  speed:
+    stw: 0
+    sog: 0.6
+  log: 7493
+  barometer: 1016.5
+  wind:
+    speed: 9.8
+    direction: 322
+  engine:
+    hours: 907.7
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: maintenance
+- datetime: 2024-10-29T17:23:05.900Z
+  text: Watermaker 374ppm
+  author: bergie
+  position:
+    longitude: -13.7933438
+    latitude: 28.8509885
+    source: GPS
+  heading: 336
+  course: 20
+  speed:
+    stw: 0
+    sog: 0
+  log: 7493
+  barometer: 1016.6
+  wind:
+    speed: 9.4
+    direction: 328
+  engine:
+    hours: 907.7
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: maintenance
