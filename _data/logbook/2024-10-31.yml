@@ -67,3 +67,73 @@
     - ihmis-suski
     - bergie
   category: maintenance
+- datetime: 2024-10-31T13:15:09.900Z
+  text: Watermaker 406ppm
+  author: bergie
+  position:
+    longitude: -13.7932519
+    latitude: 28.8512213
+    source: GPS
+  heading: 274
+  course: 313
+  speed:
+    stw: 0
+    sog: 0
+  log: 7493
+  barometer: 1018.56
+  wind:
+    speed: 9.8
+    direction: 254
+  engine:
+    hours: 907.8
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: maintenance
+- datetime: 2024-10-31T13:32:27.900Z
+  text: Started main engine. Again some charter power boat moored to our trip
+    line, and pulled our anchor up
+  author: bergie
+  position:
+    longitude: -13.7932471
+    latitude: 28.8512193
+    source: GPS
+  heading: 264
+  course: 78
+  speed:
+    stw: 0
+    sog: 0
+  log: 7493
+  barometer: 1018.41
+  wind:
+    speed: 9.6
+    direction: 262
+  engine:
+    hours: 907.8
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: navigation
+- datetime: 2024-10-31T13:39:04.899Z
+  text: Stopped main engine. Reanchored and removed the trip line
+  author: bergie
+  position:
+    longitude: -13.7932118
+    latitude: 28.8512096
+    source: GPS
+  heading: 274
+  course: 241
+  speed:
+    stw: 0
+    sog: 0
+  log: 7493
+  barometer: 1018.41
+  wind:
+    speed: 10.2
+    direction: 253
+  engine:
+    hours: 907.9
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: navigation
