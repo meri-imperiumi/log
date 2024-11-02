@@ -191,23 +191,23 @@
     - ihmis-suski
     - bergie
   category: navigation
-- datetime: 2024-11-02T12:47:27.398Z
-  text: Autopilot set to wind mode
+- datetime: 2024-11-02T13:00:15.500Z
+  text: ""
   author: ""
   position:
-    longitude: -13.814945475260417
-    latitude: 28.830436197916665
+    longitude: -13.8139613
+    latitude: 28.8262166
     source: GPS
-  heading: 159
-  course: 175
+  heading: 147
+  course: 161
   speed:
-    stw: 1.2
-    sog: 0.5
-  log: 7494.8
-  barometer: 1015.99
+    stw: 1.6
+    sog: 1.7
+  log: 7495
+  barometer: 1015.69
   wind:
-    speed: 3.8
-    direction: 219
+    speed: 3.7
+    direction: 222
   engine:
     hours: 908.1
   vhf: "9"
@@ -215,23 +215,120 @@
     - ihmis-suski
     - bergie
   category: navigation
-- datetime: 2024-11-02T12:47:29.401Z
+- datetime: 2024-11-02T13:01:16.499Z
+  text: Watermaker 980ppm
+  author: bergie
+  position:
+    longitude: -13.8137788
+    latitude: 28.8258151
+    source: GPS
+  heading: 157
+  course: 162
+  speed:
+    stw: 1.5
+    sog: 1.8
+  log: 7495.1
+  barometer: 1015.67
+  wind:
+    speed: 3.3
+    direction: 183
+  engine:
+    hours: 908.1
+  vhf: "9"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: maintenance
+- datetime: 2024-11-02T13:32:00.499Z
+  text: Autopilot deactivated
+  author: ""
+  position:
+    longitude: -13.8126013
+    latitude: 28.8161393
+    source: GPS
+  heading: 187
+  course: 252
+  speed:
+    stw: 0
+    sog: 1.2
+  log: 7495.7
+  barometer: 1015.03
+  wind:
+    speed: 1.9
+    direction: 192
+  engine:
+    hours: 908.1
+  vhf: "9"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: navigation
+- datetime: 2024-11-02T13:41:17.500Z
+  text: Watermaker 1040ppm
+  author: bergie
+  position:
+    longitude: -13.812806
+    latitude: 28.8150328
+    source: GPS
+  heading: 143
+  course: 218
+  speed:
+    stw: 0.7
+    sog: 0.6
+  log: 7495.8
+  barometer: 1015
+  wind:
+    speed: 1.3
+    direction: 198
+  engine:
+    hours: 908.1
+  vhf: "9"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: maintenance
+- datetime: 2024-11-02T13:50:17.500Z
+  text: Tightened all intake side hose clamps and removed air from watermaker
+    intake hose
+  author: bergie
+  position:
+    longitude: -13.8125608
+    latitude: 28.8141031
+    source: GPS
+  heading: 213
+  course: 279
+  speed:
+    stw: 0
+    sog: 0.9
+  log: 7495.8
+  barometer: 1014.93
+  wind:
+    speed: 2
+    direction: 151
+  engine:
+    hours: 908.1
+  vhf: "9"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: maintenance
+- datetime: 2024-11-02T13:53:38.499Z
   text: Autopilot activated
   author: ""
   position:
-    longitude: -13.814946365356445
-    latitude: 28.830431811014808
+    longitude: -13.813726806640625
+    latitude: 28.813596471150717
     source: GPS
-  heading: 159
-  course: 178
+  heading: 203
+  course: 228
   speed:
-    stw: 1.2
-    sog: 0.7
-  log: 7494.8
-  barometer: 1015.99
+    stw: 0.8
+    sog: 1.4
+  log: 7495.9
+  barometer: 1014.87
   wind:
-    speed: 3.4
-    direction: 213
+    speed: 2.9
+    direction: 133
   engine:
     hours: 908.1
   vhf: "9"
