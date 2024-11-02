@@ -1,0 +1,24 @@
+- datetime: 2024-11-02T04:33:03.900Z
+  text: Another false anchor alarm caused by Signal K momentarily losing position
+    from primary GPS and switching to secondary. Third time in last three days
+  author: bergie
+  position:
+    longitude: -13.7934909
+    latitude: 28.8508038
+    source: GPS
+  heading: 340
+  course: 208
+  speed:
+    stw: 0
+    sog: 0
+  log: 7493
+  barometer: 1016.51
+  wind:
+    speed: 4.7
+    direction: 338
+  engine:
+    hours: 907.9
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: navigation
