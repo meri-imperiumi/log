@@ -22,3 +22,100 @@
     - ihmis-suski
     - bergie
   category: navigation
+- datetime: 2024-11-02T11:14:03.398Z
+  text: Started main engine
+  author: ""
+  position:
+    longitude: -13.7936911
+    latitude: 28.8511905
+    source: GPS
+  heading: 166
+  course: 185
+  speed:
+    stw: 0
+    sog: 0
+  log: 7493
+  barometer: 1016.48
+  wind:
+    speed: 6.7
+    direction: 144
+  engine:
+    hours: 907.9
+  vhf: "9"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: navigation
+- datetime: 2024-11-02T11:22:13.401Z
+  text: Anchor up, motoring
+  author: bergie
+  position:
+    longitude: -13.793992169698079
+    latitude: 28.848793983459476
+    source: GPS
+  heading: 168
+  course: 175
+  speed:
+    stw: 4.6
+    sog: 4.6
+  log: 7493
+  barometer: 1016.58
+  wind:
+    speed: 6.3
+    direction: 170
+  engine:
+    hours: 908
+  vhf: "9"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: navigation
+- datetime: 2024-11-02T11:25:59.398Z
+  text: Motor stopped, sailing with Main, Genoa 1
+  author: ""
+  position:
+    longitude: -13.7942678
+    latitude: 28.8460996
+    source: GPS
+  heading: 200
+  course: 233
+  speed:
+    stw: 1.9
+    sog: 2.2
+  log: 7493.2
+  barometer: 1016.61
+  wind:
+    speed: 6.1
+    direction: 164
+  engine:
+    hours: 908.1
+  vhf: "9"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: navigation
+- datetime: 2024-11-02T11:50:14.400Z
+  text: Port side middle stanchion came off. Attached with a new machine screw.
+    Need to tighten all
+  author: bergie
+  position:
+    longitude: -13.8028508
+    latitude: 28.8421993
+    source: GPS
+  heading: 168
+  course: 209
+  speed:
+    stw: 1
+    sog: 0.8
+  log: 7493.8
+  barometer: 1016.62
+  wind:
+    speed: 2.4
+    direction: 208
+  engine:
+    hours: 908.1
+  vhf: "9"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: maintenance
