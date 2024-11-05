@@ -308,3 +308,124 @@
     - ihmis-suski
     - bergie
   category: maintenance
+- datetime: 2024-11-05T14:00:29.699Z
+  text: Started main engine
+  author: ""
+  position:
+    longitude: -13.7911386
+    latitude: 28.8440474
+    source: GPS
+  heading: 106
+  course: 163
+  speed:
+    stw: 0
+    sog: 0.8
+  log: 7509.6
+  barometer: 1017.56
+  wind:
+    speed: 10.7
+    direction: 81
+  engine:
+    hours: 910.9
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: navigation
+- datetime: 2024-11-05T14:02:58.700Z
+  text: Anchor up, motoring
+  author: ""
+  position:
+    longitude: -13.7911146
+    latitude: 28.8440619
+    source: GPS
+  heading: 95
+  course: 245
+  speed:
+    stw: 0
+    sog: 0.4
+  log: 7509.6
+  barometer: 1017.56
+  wind:
+    speed: 11.5
+    direction: 82
+  engine:
+    hours: 910.9
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: navigation
+- datetime: 2024-11-05T14:03:31.699Z
+  text: Stopped
+  author: ""
+  position:
+    longitude: -13.791068
+    latitude: 28.8440544
+    source: GPS
+  heading: 99
+  course: 100
+  speed:
+    stw: 0
+    sog: 0.8
+  log: 7509.6
+  barometer: 1017.65
+  wind:
+    speed: 14.9
+    direction: 70
+  engine:
+    hours: 910.9
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  end: true
+  category: navigation
+- datetime: 2024-11-05T14:07:32.700Z
+  text: Motoring
+  author: ""
+  position:
+    longitude: -13.7919848
+    latitude: 28.8432003
+    source: GPS
+  heading: 226
+  course: 231
+  speed:
+    stw: 2.8
+    sog: 3.2
+  log: 7509.6
+  barometer: 1017.62
+  wind:
+    speed: 14.7
+    direction: 82
+  engine:
+    hours: 911
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: navigation
+- datetime: 2024-11-05T14:14:06.700Z
+  text: Motor stopped, sailing with Main (1st reef), Genoa 1, Staysail
+  author: ""
+  position:
+    longitude: -13.7933721
+    latitude: 28.8393996
+    source: GPS
+  heading: 194
+  course: 190
+  speed:
+    stw: 4.1
+    sog: 4.5
+  log: 7509.9
+  barometer: 1017.69
+  wind:
+    speed: 17
+    direction: 72
+  engine:
+    hours: 911.1
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: navigation
