@@ -67,3 +67,99 @@
     - ihmis-suski
     - bergie
   category: navigation
+- datetime: 2024-11-05T11:00:27.600Z
+  text: ""
+  author: ""
+  position:
+    longitude: -13.8501858
+    latitude: 28.7741734
+    source: GPS
+  heading: 7
+  course: 5
+  speed:
+    stw: 3.3
+    sog: 3.5
+  log: 7504
+  barometer: 1020.65
+  wind:
+    speed: 6.9
+    direction: 256
+  engine:
+    hours: 909.7
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: navigation
+- datetime: 2024-11-05T11:06:26.598Z
+  text: Watermaker 691ppm
+  author: bergie
+  position:
+    longitude: -13.8486925
+    latitude: 28.7763675
+    source: GPS
+  heading: 58
+  course: 113
+  speed:
+    stw: 0
+    sog: 0.6
+  log: 7504.2
+  barometer: 1020.56
+  wind:
+    speed: 6.4
+    direction: 281
+  engine:
+    hours: 909.7
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: maintenance
+- datetime: 2024-11-05T11:18:27.600Z
+  text: Puerto Rosario drifting rib
+  author: ihmis-suski
+  position:
+    longitude: -13.8446583
+    latitude: 28.7792575
+    source: GPS
+  heading: 12
+  course: 35
+  speed:
+    stw: 0.9
+    sog: 1.6
+  log: 7504.5
+  barometer: 1020.48
+  wind:
+    speed: 5.8
+    direction: 263
+  engine:
+    hours: 909.7
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: radio
+- datetime: 2024-11-05T11:26:14.598Z
+  text: Sails down, motoring
+  author: ""
+  position:
+    longitude: -13.842831166585286
+    latitude: 28.781975682576498
+    source: GPS
+  heading: 23
+  course: 75
+  speed:
+    stw: 0.1
+    sog: 1.1
+  log: 7504.7
+  barometer: 1020.37
+  wind:
+    speed: 5
+    direction: 248
+  engine:
+    hours: 909.7
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: navigation
