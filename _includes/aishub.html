@@ -8,7 +8,7 @@
   <script>
     const map = new maplibregl.Map({
       container: 'map',
-      style: 'https://api.maptiler.com/maps/landscape/style.json?key=get_your_own_OpIi9ZULNHzrESv6T2vL',
+      style: 'https://api.maptiler.com/maps/{{ site.map_style }}/style.json?key=BgltQL3i6kfpoIy9GMqW',
       center: [{{ site.data.aishub.LONGITUDE }}, {{ site.data.aishub.LATITUDE }}],
       zoom: 8,
     });
