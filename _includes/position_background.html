@@ -6,7 +6,7 @@
     window.addEventListener('DOMContentLoaded', function() {
       const map = new maplibregl.Map({
         container: 'map',
-        style: 'https://api.maptiler.com/maps/landscape/style.json?key=BgltQL3i6kfpoIy9GMqW',
+        style: 'https://api.maptiler.com/maps/{{ site.map_style }}/style.json?key=BgltQL3i6kfpoIy9GMqW',
         center: [{{ site.data.position.longitude | plus: 0.2 }}, {{ site.data.position.latitude | plus: 0.8 }}],
         zoom: 6,
       });
