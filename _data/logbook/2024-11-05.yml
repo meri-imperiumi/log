@@ -406,8 +406,8 @@
     - bergie
   category: navigation
 - datetime: 2024-11-05T14:14:06.700Z
-  text: Motor stopped, sailing with Main (1st reef), Genoa 1, Staysail
-  author: ""
+  text: Motor stopped, sailing with Main (1st reef), Staysail
+  author: bergie
   position:
     longitude: -13.7933721
     latitude: 28.8393996
@@ -496,30 +496,6 @@
     direction: 68
   engine:
     hours: 911.1
-  vhf: "9"
-  crewNames:
-    - ihmis-suski
-    - bergie
-  category: navigation
-- datetime: 2024-11-05T15:47:45.798Z
-  text: Motor stopped, sailing with Main (1st reef), Genoa 1, Staysail
-  author: ""
-  position:
-    longitude: -13.8651743
-    latitude: 28.7398316
-    source: GPS
-  heading: 156
-  course: 281
-  speed:
-    stw: 0
-    sog: 0
-  log: 7517.5
-  barometer: 1017.6
-  wind:
-    speed: 10.6
-    direction: 67
-  engine:
-    hours: 911.4
   vhf: "9"
   crewNames:
     - ihmis-suski
