@@ -5,10 +5,10 @@ layout: default
 {{ content }}
 {% assign current_year = page.year | string %}
 {% include track_year.html %}
+<table class="year_stats">
 {% for year_miles in site.data.year_miles %}
   {% assign miles_y = year_miles[0] | string %}
   {% if miles_y contains current_year %}
-  <table class="year_stats">
     {% if year_miles[1].sailing %}
     <tr>
       <th>Distance sailed</th>
@@ -35,8 +35,46 @@ layout: default
       <th>Total</th>
       <td>{{ year_miles[1].total }}&nbsp;NM</td>
     </tr>
-  </table>
   {% endif %}
 {% endfor %}
+{% for year_stats in site.data.year_stats %}
+  {% assign stats_y = year_stats[0] | string %}
+  {% if stats_y contains current_year %}
+    {% if year_stats[1].travel_days %}
+    <tr>
+      <th>Travel days</th>
+      <td>
+        {{ year_stats[1].travel_days }}
+      </td>
+      <td>
+        ({{ year_stats[1].travel_days | times: 100 | divided_by: year_stats[1].total_days | round: 1 }}%)
+      </td>
+    </tr>
+    {% endif %}
+    {% if year_stats[1].harbour_days %}
+    <tr>
+      <th>Harbour days</th>
+      <td>
+        {{ year_stats[1].harbour_days }}
+      </td>
+      <td>
+        ({{ year_stats[1].harbour_days | times: 100 | divided_by: year_stats[1].total_days | round: 1 }}%)
+      </td>
+    </tr>
+    {% endif %}
+    {% if year_stats[1].storm_days %}
+    <tr>
+      <th>Storm days</th>
+      <td>
+        {{ year_stats[1].storm_days }}
+      </td>
+      <td>
+        ({{ year_stats[1].storm_days | times: 100 | divided_by: year_stats[1].total_days | round: 1 }}%)
+      </td>
+    </tr>
+    {% endif %}
+  {% endif %}
+{% endfor %}
+  </table>
 <hr>
 {% include logs.html %}
