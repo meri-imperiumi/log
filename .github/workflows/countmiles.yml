@@ -15,6 +15,7 @@ jobs:
         node-version: 20
     - run: npm install yaml
     - run: node .github/crewmiles.mjs
+    - run: node .github/traveldays.mjs
       env:
         AISHUB_TOKEN: ${{secrets.AISHUB_TOKEN}}
     - name: Commit files
@@ -24,6 +25,7 @@ jobs:
         git config --local user.name "github-actions[bot]"
         git add _data/crew_miles.yml
         git add _data/year_miles.yml
+        git add _data/year_stats.yml
         git commit -m "Recalculated crew miles" -a
     - name: Push changes
       uses: ad-m/github-push-action@master
