@@ -1,7 +1,7 @@
 #!/bin/bash
 echo "Updating [b]log repository"
 cd /home/pi/log
-git pull
+git pull origin main
 echo "Backing up digital logbook"
 cp /home/pi/.signalk/plugin-config-data/signalk-logbook/* _data/logbook/
 echo "Producing GeoJson track files"
