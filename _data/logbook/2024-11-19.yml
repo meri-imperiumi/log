@@ -186,3 +186,99 @@
     - ihmis-suski
     - bergie
   category: maintenance
+- datetime: 2024-11-19T12:00:39.001Z
+  text: ""
+  author: ""
+  position:
+    latitude: 28.1634758
+    longitude: -14.1115878
+    source: GPS
+  heading: 249
+  course: 253
+  speed:
+    stw: 4.3
+    sog: 5.6
+  log: 7563.1
+  barometer: 1019.88
+  wind:
+    speed: 13.7
+    direction: 86
+  engine:
+    hours: 913.1
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: navigation
+- datetime: 2024-11-19T12:09:38.000Z
+  text: Watermaker 1250ppm
+  author: bergie
+  position:
+    latitude: 28.1577683
+    longitude: -14.1262568
+    source: GPS
+  heading: 256
+  course: 258
+  speed:
+    stw: 4.3
+    sog: 5.6
+  log: 7563.9
+  barometer: 1019.87
+  wind:
+    speed: 13.9
+    direction: 95
+  engine:
+    hours: 913.1
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: maintenance
+- datetime: 2024-11-19T12:39:48.000Z
+  text: "Sails set: Main, Genoa 1. Beam reach instead of wing on wing"
+  author: ihmis-suski
+  position:
+    latitude: 28.143159
+    longitude: -14.1687394
+    source: GPS
+  heading: 224
+  course: 225
+  speed:
+    stw: 2.9
+    sog: 3.5
+  log: 7566.4
+  barometer: 1019.57
+  wind:
+    speed: 9
+    direction: 97
+  engine:
+    hours: 913.1
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: navigation
+- datetime: 2024-11-19T12:58:36.998Z
+  text: Watermaker 1040ppm
+  author: bergie
+  position:
+    latitude: 28.1318206
+    longitude: -14.182541
+    source: GPS
+  heading: 204
+  course: 224
+  speed:
+    stw: 2.6
+    sog: 3.4
+  log: 7567.4
+  barometer: 1019.21
+  wind:
+    speed: 7.7
+    direction: 90
+  engine:
+    hours: 913.1
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: maintenance
