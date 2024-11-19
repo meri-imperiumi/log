@@ -1,0 +1,91 @@
+- datetime: 2024-11-19T10:10:46.000Z
+  text: YDNR-02 again lost its settings on a N2K reboot
+  author: bergie
+  position:
+    latitude: 28.2074403
+    longitude: -14.0258553
+    source: GPS
+  heading: 249
+  course: 162
+  speed:
+    sog: 0
+  log: 7557.6
+  barometer: 1019.48
+  wind:
+    speed: 4.5
+    direction: 117
+  engine:
+    hours: 912.9
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: maintenance
+- datetime: 2024-11-19T10:45:07.001Z
+  text: Started main engine
+  author: ""
+  position:
+    latitude: 28.2074513
+    longitude: -14.0258476
+    source: GPS
+  heading: 249
+  course: 15
+  speed:
+    sog: 0
+  log: 7557.6
+  barometer: 1019.83
+  wind:
+    speed: 5.6
+    direction: 113
+  engine:
+    hours: 912.9
+  vhf: "9"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: navigation
+- datetime: 2024-11-19T10:49:52.998Z
+  text: Motoring
+  author: ""
+  position:
+    latitude: 28.2068185
+    longitude: -14.0246506
+    source: GPS
+  heading: 132
+  course: 126
+  speed:
+    sog: 4.1
+  log: 7557.6
+  barometer: 1019.87
+  wind:
+    speed: 6.5
+    direction: 106
+  engine:
+    hours: 912.9
+  vhf: "9"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: navigation
+- datetime: 2024-11-19T10:57:27.001Z
+  text: Motor stopped, sailing with Main, Genoa 1 (20% furled)
+  author: ""
+  position:
+    latitude: 28.2003174
+    longitude: -14.0282798
+    source: GPS
+  heading: 224
+  course: 214
+  speed:
+    sog: 3.2
+  log: 7558.1
+  barometer: 1019.84
+  wind:
+    speed: 13
+    direction: 90
+  engine:
+    hours: 913.1
+  vhf: "9"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: navigation
