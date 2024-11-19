@@ -282,3 +282,125 @@
     - ihmis-suski
     - bergie
   category: maintenance
+- datetime: 2024-11-19T13:00:36.998Z
+  text: ""
+  author: ""
+  position:
+    latitude: 28.1303479
+    longitude: -14.1837165
+    source: GPS
+  heading: 215
+  course: 228
+  speed:
+    stw: 2
+    sog: 3.1
+  log: 7567.5
+  barometer: 1019.14
+  wind:
+    speed: 6.5
+    direction: 89
+  engine:
+    hours: 913.1
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: navigation
+- datetime: 2024-11-19T13:02:36.998Z
+  text: Fishing started. Double octopus in the line.
+  author: ihmis-suski
+  position:
+    latitude: 28.1292113
+    longitude: -14.1849761
+    source: GPS
+  heading: 212
+  course: 220
+  speed:
+    stw: 2.2
+    sog: 3.1
+  log: 7567.6
+  barometer: 1019.09
+  wind:
+    speed: 8.9
+    direction: 89
+  engine:
+    hours: 913.1
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: maintenance
+- datetime: 2024-11-19T13:11:36.998Z
+  text: "Some algae in bilge. Poured in 8l of fresh water. Will pump it when no
+    longer running the watermaker "
+  author: bergie
+  position:
+    latitude: 28.1215523
+    longitude: -14.1895964
+    source: GPS
+  heading: 200
+  course: 196
+  speed:
+    stw: 3.2
+    sog: 4.1
+  log: 7568.1
+  barometer: 1018.99
+  wind:
+    speed: 11.6
+    direction: 80
+  engine:
+    hours: 913.1
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: maintenance
+- datetime: 2024-11-19T13:49:36.099Z
+  text: Pumped the bilge
+  author: bergie
+  position:
+    latitude: 28.095941003163656
+    longitude: -14.211019166310628
+    source: GPS
+  heading: 209
+  course: 206
+  speed:
+    stw: 1.7
+    sog: 2.5
+  log: 7570
+  barometer: 1018.58
+  wind:
+    speed: 6.7
+    direction: 77
+  engine:
+    hours: 913.1
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: maintenance
+- datetime: 2024-11-19T13:51:36.099Z
+  text: "Tightened watermaker filter intake barb to hopefully clear air from
+    system. Restarted watermaker "
+  author: bergie
+  position:
+    latitude: 28.0947335
+    longitude: -14.2120171
+    source: GPS
+  heading: 211
+  course: 220
+  speed:
+    stw: 1.8
+    sog: 2.7
+  log: 7570.1
+  barometer: 1018.57
+  wind:
+    speed: 7.1
+    direction: 82
+  engine:
+    hours: 913.1
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: maintenance
