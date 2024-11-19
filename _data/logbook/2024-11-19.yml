@@ -696,3 +696,103 @@
     - ihmis-suski
     - bergie
   category: navigation
+- datetime: 2024-11-19T17:00:31.097Z
+  text: ""
+  author: ""
+  position:
+    latitude: 28.0409321
+    longitude: -14.3703736
+    source: GPS
+  heading: 286
+  course: 283
+  speed:
+    stw: 2.8
+    sog: 4.1
+  log: 7580.6
+  barometer: 1017.98
+  wind:
+    speed: 8.7
+    direction: 92
+  engine:
+    hours: 913.1
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: navigation
+- datetime: 2024-11-19T17:13:31.097Z
+  text: Gybed again as the wind shift was driving us towards the shore
+  author: bergie
+  position:
+    latitude: 28.0468315
+    longitude: -14.3864463
+    source: GPS
+  heading: 281
+  course: 284
+  speed:
+    stw: 2.7
+    sog: 4
+  log: 7581.5
+  barometer: 1018.03
+  wind:
+    speed: 11.9
+    direction: 104
+  engine:
+    hours: 913.1
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: navigation
+  observations:
+    seaState: 2
+    cloudCoverage: 1
+    visibility: 8
+- datetime: 2024-11-19T17:19:33.100Z
+  text: Stopped watermaker, 1150ppm
+  author: bergie
+  position:
+    latitude: 28.0463091
+    longitude: -14.3944808
+    source: GPS
+  heading: 273
+  course: 273
+  speed:
+    stw: 3.3
+    sog: 4.3
+  log: 7581.9
+  barometer: 1018.08
+  wind:
+    speed: 13.5
+    direction: 119
+  engine:
+    hours: 913.1
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: maintenance
+- datetime: 2024-11-19T17:47:33.196Z
+  text: "Washed prefilter and moved filter housing lower. Started watermaker "
+  author: bergie
+  position:
+    latitude: 28.0440435
+    longitude: -14.4257606
+    source: GPS
+  heading: 271
+  course: 271
+  speed:
+    stw: 2.2
+    sog: 2.7
+  log: 7583.6
+  barometer: 1018.23
+  wind:
+    speed: 9.5
+    direction: 116
+  engine:
+    hours: 913.1
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: maintenance
