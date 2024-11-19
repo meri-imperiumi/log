@@ -476,3 +476,127 @@
     - ihmis-suski
     - bergie
   category: maintenance
+- datetime: 2024-11-19T15:00:34.099Z
+  text: ""
+  author: ""
+  position:
+    latitude: 28.0520409
+    longitude: -14.2513273
+    source: GPS
+  heading: 208
+  course: 223
+  speed:
+    stw: 1.4
+    sog: 2.2
+  log: 7573.5
+  barometer: 1018.57
+  wind:
+    speed: 6
+    direction: 67
+  engine:
+    hours: 913.1
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: navigation
+- datetime: 2024-11-19T15:06:34.099Z
+  text: Large pod of dolphins and some pilot whales to our port
+  author: bergie
+  position:
+    latitude: 28.0491671
+    longitude: -14.2542446
+    source: GPS
+  heading: 213
+  course: 225
+  speed:
+    stw: 1.8
+    sog: 2.6
+  log: 7573.7
+  barometer: 1018.6
+  wind:
+    speed: 6.4
+    direction: 96
+  engine:
+    hours: 913.1
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: navigation
+- datetime: 2024-11-19T15:28:14.099Z
+  text: "Sails set: Main, Genoa 1 (20% furled). Poled out"
+  author: bergie
+  position:
+    latitude: 28.0365855
+    longitude: -14.2646088
+    source: GPS
+  heading: 244
+  course: 254
+  speed:
+    stw: 1.8
+    sog: 2.7
+  log: 7574.6
+  barometer: 1018.56
+  wind:
+    speed: 5.5
+    direction: 85
+  engine:
+    hours: 913.1
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: navigation
+  observations:
+    seaState: 2
+    cloudCoverage: 6
+    visibility: 8
+- datetime: 2024-11-19T15:33:33.100Z
+  text: Watermaker 1050ppm
+  author: bergie
+  position:
+    latitude: 28.034536
+    longitude: -14.2679889
+    source: GPS
+  heading: 228
+  course: 230
+  speed:
+    stw: 1.8
+    sog: 2.3
+  log: 7574.9
+  barometer: 1018.62
+  wind:
+    speed: 6
+    direction: 74
+  engine:
+    hours: 913.1
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: maintenance
+- datetime: 2024-11-19T15:58:01.100Z
+  text: "Sails set: Main, Genoa 1. Gybed back on course to west"
+  author: bergie
+  position:
+    latitude: 28.0279829
+    longitude: -14.2858876
+    source: GPS
+  heading: 291
+  course: 284
+  speed:
+    stw: 2.5
+    sog: 3.5
+  log: 7576
+  barometer: 1018.69
+  wind:
+    speed: 8.6
+    direction: 37
+  engine:
+    hours: 913.1
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: navigation
