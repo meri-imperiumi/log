@@ -796,3 +796,99 @@
     - ihmis-suski
     - bergie
   category: maintenance
+- datetime: 2024-11-19T18:00:32.198Z
+  text: Poled out port tack
+  author: bergie
+  position:
+    latitude: 28.0434658
+    longitude: -14.4371641
+    source: GPS
+  heading: 274
+  course: 276
+  speed:
+    stw: 3.3
+    sog: 3.8
+  log: 7584.2
+  barometer: 1018.35
+  wind:
+    speed: 9.7
+    direction: 117
+  engine:
+    hours: 913.1
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: navigation
+- datetime: 2024-11-19T18:08:31.200Z
+  text: Watermaker 1250ppm
+  author: bergie
+  position:
+    latitude: 28.0439666
+    longitude: -14.4462919
+    source: GPS
+  heading: 269
+  course: 276
+  speed:
+    stw: 3.2
+    sog: 3.6
+  log: 7584.7
+  barometer: 1018.37
+  wind:
+    speed: 11.2
+    direction: 110
+  engine:
+    hours: 913.1
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: maintenance
+- datetime: 2024-11-19T18:36:31.200Z
+  text: Watermaker 1340ppm
+  author: bergie
+  position:
+    latitude: 28.043101167678834
+    longitude: -14.470411841074627
+    source: GPS
+  heading: 281
+  course: 277
+  speed:
+    stw: 2.7
+    sog: 2.5
+  log: 7586
+  barometer: 1018.62
+  wind:
+    speed: 8.2
+    direction: 114
+  engine:
+    hours: 913.1
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: maintenance
+- datetime: 2024-11-19T18:52:31.200Z
+  text: Watermaker 1380ppm
+  author: bergie
+  position:
+    latitude: 28.0438173
+    longitude: -14.4830794
+    source: GPS
+  heading: 267
+  course: 268
+  speed:
+    stw: 3
+    sog: 3
+  log: 7586.7
+  barometer: 1018.82
+  wind:
+    speed: 10.4
+    direction: 124
+  engine:
+    hours: 913.1
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: maintenance
