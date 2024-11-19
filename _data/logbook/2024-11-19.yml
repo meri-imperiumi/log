@@ -1037,3 +1037,75 @@
   crewNames:
     - ihmis-suski
     - bergie
+  category: navigation
+- datetime: 2024-11-19T22:05:26.201Z
+  text: "Crash jibe. Preventer prevented. 40 degree wind shift "
+  author: ihmis-suski
+  position:
+    latitude: 28.0490223
+    longitude: -14.7304511
+    source: GPS
+  heading: 315
+  course: 312
+  speed:
+    stw: 3.4
+    sog: 3.8
+  log: 7600
+  barometer: 1020.06
+  wind:
+    speed: 11.1
+    direction: 66
+  engine:
+    hours: 913.1
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: navigation
+- datetime: 2024-11-19T22:17:26.201Z
+  text: Moon came out from behind clouds.
+  author: ihmis-suski
+  position:
+    latitude: 28.0572794
+    longitude: -14.740589
+    source: GPS
+  heading: 306
+  course: 305
+  speed:
+    stw: 3.1
+    sog: 3.8
+  log: 7600.8
+  barometer: 1019.86
+  wind:
+    speed: 8.4
+    direction: 73
+  engine:
+    hours: 913.1
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: navigation
+- datetime: 2024-11-19T23:00:25.203Z
+  text: ""
+  author: ""
+  position:
+    latitude: 28.0687035
+    longitude: -14.7810746
+    source: GPS
+  heading: 297
+  course: 287
+  speed:
+    stw: 3.1
+    sog: 3
+  log: 7603.1
+  barometer: 1020.04
+  wind:
+    speed: 10.9
+    direction: 68
+  engine:
+    hours: 913.1
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
