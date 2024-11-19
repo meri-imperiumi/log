@@ -966,3 +966,50 @@
     - ihmis-suski
     - bergie
   category: navigation
+- datetime: 2024-11-19T20:00:29.196Z
+  text: 1340ppm. Watermaker turned off.
+  author: ihmis-suski
+  position:
+    latitude: 28.037638
+    longitude: -14.5487703
+    source: GPS
+  heading: 285
+  course: 248
+  speed:
+    stw: 3.8
+    sog: 3.8
+  log: 7590.3
+  barometer: 1019.19
+  wind:
+    speed: 13.7
+    direction: 131
+  engine:
+    hours: 913.1
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: maintenance
+- datetime: 2024-11-19T21:00:28.198Z
+  text: ""
+  author: ""
+  position:
+    latitude: 28.0364404
+    longitude: -14.6345949
+    source: GPS
+  heading: 282
+  course: 280
+  speed:
+    stw: 4.5
+    sog: 5
+  log: 7594.9
+  barometer: 1019.93
+  wind:
+    speed: 13.7
+    direction: 114
+  engine:
+    hours: 913.1
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
