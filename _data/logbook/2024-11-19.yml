@@ -892,3 +892,77 @@
     - ihmis-suski
     - bergie
   category: maintenance
+- datetime: 2024-11-19T19:00:31.200Z
+  text: ""
+  author: ""
+  position:
+    latitude: 28.0431058
+    longitude: -14.489089
+    source: GPS
+  heading: 260
+  course: 257
+  speed:
+    stw: 2.8
+    sog: 2.6
+  log: 7587
+  barometer: 1018.86
+  wind:
+    speed: 7.6
+    direction: 101
+  engine:
+    hours: 913.1
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: navigation
+- datetime: 2024-11-19T19:01:31.200Z
+  text: Watch change. Bergie to bed.
+  author: ihmis-suski
+  position:
+    latitude: 28.0429569
+    longitude: -14.4897988
+    source: GPS
+  heading: 257
+  course: 268
+  speed:
+    stw: 2.9
+    sog: 2.8
+  log: 7587.1
+  barometer: 1018.86
+  wind:
+    speed: 9.6
+    direction: 111
+  engine:
+    hours: 913.1
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: navigation
+- datetime: 2024-11-19T19:34:29.196Z
+  text: "Crossed some sort of confused sea state area. 2kn of current from port.
+    The wave sounds changed completely for about 15 minutes. Now back to
+    normal.  "
+  author: ihmis-suski
+  position:
+    latitude: 28.0408963
+    longitude: -14.5213498
+    source: GPS
+  heading: 294
+  course: 300
+  speed:
+    stw: 3.5
+    sog: 3.1
+  log: 7588.8
+  barometer: 1018.93
+  wind:
+    speed: 10
+    direction: 117
+  engine:
+    hours: 913.1
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: navigation
