@@ -339,3 +339,75 @@
   crewNames:
     - ihmis-suski
     - bergie
+  category: navigation
+- datetime: 2024-11-20T06:35:15.400Z
+  text: Cat noises in radio again
+  author: bergie
+  position:
+    latitude: 28.1163973
+    longitude: -15.3132476
+    source: GPS
+  heading: 272
+  course: 269
+  speed:
+    stw: 4
+    sog: 3.9
+  log: 7632.9
+  barometer: 1019.81
+  wind:
+    speed: 11.1
+    direction: 195
+  engine:
+    hours: 913.1
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: radio
+- datetime: 2024-11-20T06:48:40.400Z
+  text: Autopilot activated
+  author: ""
+  position:
+    latitude: 28.1152546
+    longitude: -15.3310761
+    source: GPS
+  heading: 263
+  course: 259
+  speed:
+    stw: 3.9
+    sog: 4.2
+  log: 7633.8
+  barometer: 1019.74
+  wind:
+    speed: 16.3
+    direction: 159
+  engine:
+    hours: 913.1
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: navigation
+- datetime: 2024-11-20T07:00:15.400Z
+  text: ""
+  author: ""
+  position:
+    latitude: 28.1126741
+    longitude: -15.3483038
+    source: GPS
+  heading: 259
+  course: 270
+  speed:
+    stw: 4.8
+    sog: 5.6
+  log: 7634.7
+  barometer: 1019.71
+  wind:
+    speed: 17.4
+    direction: 157
+  engine:
+    hours: 913.1
+  vhf: "10"
+  crewNames:
+    - ihmis-suski
+    - bergie
