@@ -1087,8 +1087,8 @@
     - bergie
   category: navigation
 - datetime: 2024-11-19T23:00:25.203Z
-  text: ""
-  author: ""
+  text: Bergie on watch
+  author: bergie
   position:
     latitude: 28.0687035
     longitude: -14.7810746
@@ -1109,3 +1109,76 @@
   crewNames:
     - ihmis-suski
     - bergie
+  category: navigation
+- datetime: 2024-11-19T23:30:25.203Z
+  text: DSC all ships, Rota Salbor motor vessel without AIS
+  author: bergie
+  position:
+    latitude: 28.0756198
+    longitude: -14.8075614
+    source: GPS
+  heading: 300
+  course: 281
+  speed:
+    stw: 3.1
+    sog: 3.3
+  log: 7604.5
+  barometer: 1020.05
+  wind:
+    speed: 9
+    direction: 91
+  engine:
+    hours: 913.1
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: radio
+- datetime: 2024-11-19T23:35:24.198Z
+  text: Starting to see lights of Gran Canaria
+  author: bergie
+  position:
+    latitude: 28.0770191
+    longitude: -14.8124138
+    source: GPS
+  heading: 291
+  course: 283
+  speed:
+    stw: 2.4
+    sog: 2.5
+  log: 7604.8
+  barometer: 1020.09
+  wind:
+    speed: 6.5
+    direction: 79
+  engine:
+    hours: 913.1
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: navigation
+- datetime: 2024-11-19T23:45:24.198Z
+  text: Dolphins in fhe dark
+  author: bergie
+  position:
+    latitude: 28.0795969
+    longitude: -14.8211443
+    source: GPS
+  heading: 298
+  course: 283
+  speed:
+    stw: 2.8
+    sog: 3.3
+  log: 7605.3
+  barometer: 1020.1
+  wind:
+    speed: 8.7
+    direction: 87
+  engine:
+    hours: 913.1
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: navigation
