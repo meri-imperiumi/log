@@ -45,3 +45,100 @@
   crewNames:
     - ihmis-suski
     - bergie
+  category: navigation
+- datetime: 2024-11-20T02:00:20.300Z
+  text: ""
+  author: ""
+  position:
+    latitude: 28.1315858
+    longitude: -14.9479609
+    source: GPS
+  heading: 316
+  course: 315
+  speed:
+    stw: 3.5
+    sog: 3.4
+  log: 7613
+  barometer: 1019.19
+  wind:
+    speed: 9.7
+    direction: 86
+  engine:
+    hours: 913.1
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: navigation
+- datetime: 2024-11-20T02:17:20.300Z
+  text: Gybed back to wing on wing
+  author: bergie
+  position:
+    latitude: 28.1394204
+    longitude: -14.9631245
+    source: GPS
+  heading: 277
+  course: 270
+  speed:
+    stw: 3.9
+    sog: 4.1
+  log: 7614
+  barometer: 1019.25
+  wind:
+    speed: 8.2
+    direction: 120
+  engine:
+    hours: 913.1
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: navigation
+- datetime: 2024-11-20T02:47:47.300Z
+  text: "Sails set: Main, Genoa 1 (30% furled)"
+  author: ""
+  position:
+    latitude: 28.1438458
+    longitude: -15.0100354
+    source: GPS
+  heading: 273
+  course: 270
+  speed:
+    stw: 5
+    sog: 5.9
+  log: 7616.5
+  barometer: 1018.92
+  wind:
+    speed: 17.8
+    direction: 121
+  engine:
+    hours: 913.1
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: navigation
+- datetime: 2024-11-20T02:55:09.300Z
+  text: "Sails set: Main, Genoa 1 (40% furled)"
+  author: ""
+  position:
+    latitude: 28.1446719
+    longitude: -15.0222803
+    source: GPS
+  heading: 276
+  course: 273
+  speed:
+    stw: 4.5
+    sog: 4.8
+  log: 7617.1
+  barometer: 1019.13
+  wind:
+    speed: 17.5
+    direction: 118
+  engine:
+    hours: 913.1
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: navigation
