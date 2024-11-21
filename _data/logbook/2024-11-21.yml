@@ -1,0 +1,119 @@
+- datetime: 2024-11-21T13:48:46.099Z
+  text: Changed batteries on the dragonslair, watermaker, and outside Ruuvis
+  author: bergie
+  position:
+    latitude: 28.1212759
+    longitude: -15.4221289
+    source: GPS
+  heading: 123
+  course: 70
+  speed:
+    stw: 0
+    sog: 0
+  log: 7640.6
+  barometer: 1018.45
+  wind:
+    speed: 10.3
+    direction: 132
+  engine:
+    hours: 914.9
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: maintenance
+- datetime: 2024-11-21T18:29:15.200Z
+  text: Started main engine
+  author: ""
+  position:
+    latitude: 28.1211326
+    longitude: -15.4218524
+    source: GPS
+  heading: 316
+  course: 329
+  speed:
+    stw: 0
+    sog: 0
+  log: 7640.6
+  barometer: 1019.19
+  wind:
+    speed: 6.1
+    direction: 301
+  engine:
+    hours: 914.9
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: navigation
+- datetime: 2024-11-21T18:40:49.203Z
+  text: Anchor up, motoring
+  author: bergie
+  position:
+    latitude: 28.122959
+    longitude: -15.4210278
+    source: GPS
+  heading: 20
+  course: 23
+  speed:
+    stw: 2.8
+    sog: 3.7
+  log: 7640.6
+  barometer: 1019.23
+  wind:
+    speed: 9
+    direction: 303
+  engine:
+    hours: 915
+  vhf: "11"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: navigation
+- datetime: 2024-11-21T19:00:48.198Z
+  text: ""
+  author: ""
+  position:
+    latitude: 28.1284266
+    longitude: -15.4248479
+    source: GPS
+  heading: 286
+  course: 275
+  speed:
+    stw: 0.9
+    sog: 1.1
+  log: 7641.3
+  barometer: 1019.28
+  wind:
+    speed: 8.9
+    direction: 300
+  engine:
+    hours: 915.4
+  vhf: "11"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: navigation
+- datetime: 2024-11-21T19:03:52.198Z
+  text: Stopped
+  author: ""
+  position:
+    latitude: 28.1285554
+    longitude: -15.4250775
+    source: GPS
+  heading: 342
+  course: 185
+  speed:
+    stw: 0
+    sog: 0
+  log: 7641.3
+  barometer: 1019.32
+  wind:
+    speed: 6.7
+    direction: 282
+  engine:
+    hours: 915.4
+  vhf: "11"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  end: true
+  category: navigation
