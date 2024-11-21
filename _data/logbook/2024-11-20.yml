@@ -532,3 +532,97 @@
     - ihmis-suski
     - bergie
   category: navigation
+- datetime: 2024-11-20T19:47:35.001Z
+  text: Started main engine
+  author: ""
+  position:
+    latitude: 28.1215061
+    longitude: -15.4219926
+    source: GPS
+  heading: 157
+  course: 307
+  speed:
+    stw: 0
+    sog: 0
+  log: 7640.6
+  barometer: 1020.12
+  wind:
+    speed: 7.2
+    direction: 132
+  engine:
+    hours: 914.3
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: navigation
+- datetime: 2024-11-20T19:53:58.003Z
+  text: Anchor up, motoring. Anchor was dragging slowly (20m in 12h). Anchor buoy
+    line was fouled on it. No idea what the bottom is
+  author: bergie
+  position:
+    latitude: 28.1210333
+    longitude: -15.4216615
+    source: GPS
+  heading: 35
+  course: 68
+  speed:
+    stw: 0
+    sog: 1.6
+  log: 7640.6
+  barometer: 1020.13
+  wind:
+    speed: 8.5
+    direction: 101
+  engine:
+    hours: 914.4
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: navigation
+- datetime: 2024-11-20T19:55:21.996Z
+  text: Anchored. Testing a dual snubber
+  author: bergie
+  position:
+    latitude: 28.1211331
+    longitude: -15.4218488
+    source: GPS
+  heading: 129
+  course: 144
+  speed:
+    stw: 0
+    sog: 1
+  log: 7640.6
+  barometer: 1020.1
+  wind:
+    speed: 7.1
+    direction: 116
+  engine:
+    hours: 914.5
+  crewNames:
+    - ihmis-suski
+    - bergie
+  end: true
+  category: navigation
+- datetime: 2024-11-20T20:18:51.001Z
+  text: Stopped main engine
+  author: ""
+  position:
+    latitude: 28.1213606
+    longitude: -15.422111
+    source: GPS
+  heading: 126
+  course: 12
+  speed:
+    stw: 0
+    sog: 0
+  log: 7640.6
+  barometer: 1020.28
+  wind:
+    speed: 8.5
+    direction: 114
+  engine:
+    hours: 914.9
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: navigation
