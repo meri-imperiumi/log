@@ -44,3 +44,27 @@
     - ihmis-suski
     - bergie
   category: maintenance
+- datetime: 2024-11-22T12:18:46.300Z
+  text: Added a second external USB port to the Signal K Raspberry Pi for the
+    logbook printer
+  author: bergie
+  position:
+    latitude: 28.1284698
+    longitude: -15.4251601
+    source: GPS
+  heading: 359
+  course: 321
+  speed:
+    stw: 0
+    sog: 0
+  log: 7641.3
+  barometer: 1016.94
+  wind:
+    speed: 9.6
+    direction: 140
+  engine:
+    hours: 915.4
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: maintenance
