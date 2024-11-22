@@ -1,0 +1,46 @@
+- datetime: 2024-11-22T10:01:11.801Z
+  text: Running a freshwater rinse of the watermaker
+  author: bergie
+  position:
+    latitude: 28.1283976
+    longitude: -15.4251361
+    source: GPS
+  heading: 350
+  course: 265
+  speed:
+    stw: 0
+    sog: 0
+  log: 7641.3
+  barometer: 1017.99
+  wind:
+    speed: 5.4
+    direction: 123
+  engine:
+    hours: 915.4
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: maintenance
+- datetime: 2024-11-22T10:39:01.200Z
+  text: Running acid wash 1/2 for the watermaker
+  author: bergie
+  position:
+    latitude: 28.1284351
+    longitude: -15.4251276
+    source: GPS
+  heading: 358
+  course: 196
+  speed:
+    stw: 0
+    sog: 0
+  log: 7641.3
+  barometer: 1018.04
+  wind:
+    speed: 7
+    direction: 138
+  engine:
+    hours: 915.4
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: maintenance
