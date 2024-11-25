@@ -1,0 +1,71 @@
+- datetime: 2024-11-23T11:20:43.398Z
+  text: Running acid wash 2/2 for the watermaker
+  author: bergie
+  position:
+    latitude: 28.128439164161684
+    longitude: -15.425120321909587
+    source: GPS
+  heading: 348
+  course: 204
+  speed:
+    stw: 0
+    sog: 0
+  log: 7641.3
+  barometer: 1014.11
+  wind:
+    speed: 2.9
+    direction: 143
+  engine:
+    hours: 915.4
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: maintenance
+- datetime: 2024-11-23T11:37:37.401Z
+  text: "Pickled watermaker "
+  author: bergie
+  position:
+    latitude: 28.1284506
+    longitude: -15.4251163
+    source: GPS
+  heading: 349
+  course: 104
+  speed:
+    stw: 0
+    sog: 0
+  log: 7641.3
+  barometer: 1013.97
+  wind:
+    speed: 3.8
+    direction: 122
+  engine:
+    hours: 915.4
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: maintenance
+- datetime: 2024-11-23T12:01:30.400Z
+  text: Entered custom shapes for freshwater and diesel tanks in Cerbo, so now the
+    % should be actuals of the volume. Calcs show that we have a 110l diesel
+    tank
+  author: bergie
+  position:
+    latitude: 28.1284278
+    longitude: -15.4251301
+    source: GPS
+  heading: 349
+  course: 68
+  speed:
+    stw: 0
+    sog: 0
+  log: 7641.3
+  barometer: 1013.89
+  wind:
+    speed: 2.8
+    direction: 130
+  engine:
+    hours: 915.4
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: maintenance
