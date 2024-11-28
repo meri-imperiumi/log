@@ -6,6 +6,7 @@ import {
 import { parse, stringify } from 'yaml';
 
 const watermaker = [];
+const ppms = [];
 const months = {};
 
 function endRun(entry, run) {
@@ -85,6 +86,10 @@ readdir('_data/logbook')
         let ppmData = text.match(/([0-9]+)[ ]{0,1}ppm/)
         if (ppmData) {
           const ppm = Number(ppmData[1]);
+          ppms.push({
+            datetime: new Date(entry.datetime),
+            ppm,
+          });
           if (!currentRun.ppm.min
             || ppm < currentRun.ppm.min) {
             currentRun.ppm.min = ppm;
@@ -122,8 +127,9 @@ readdir('_data/logbook')
         watermakerRunning = false;
       }
     });
+    return logEntries;
   })
-  .then(() => {
+  .then((logEntries) => {
     watermaker.forEach((run) => {
       const month = run.end.toISOString().substr(0, 7);
       if (!months[month]) {
@@ -135,6 +141,7 @@ readdir('_data/logbook')
           failed: 0,
           ppm: {
             max: null,
+            avg: null,
             min: null,
           },
         };
@@ -158,6 +165,20 @@ readdir('_data/logbook')
         months[month].wastedRuntime += run.duration;
       }
     });
+    return logEntries;
+  })
+  .then((logEntries) => {
+    const ppmMonths = {};
+    ppms.forEach((ppm) => {
+      const month = ppm.datetime.toISOString().substr(0, 7);
+      if (!ppmMonths[month]) {
+        ppmMonths[month] = [];
+      }
+      ppmMonths[month].push(ppm.ppm);
+    });
+    Object.keys(ppmMonths).forEach((month) => {
+      months[month].ppm.avg = Math.round(ppmMonths[month].reduce((a, b) => a + b, 0) / ppmMonths[month].length);
+    });
   })
   .then(() => {
     const producedWater = Math.round(watermaker.reduce((a, run) => a + run.produced, 0));
@@ -176,7 +197,7 @@ readdir('_data/logbook')
     Object.keys(months).forEach((monthName) => {
       const month = months[monthName];
       const wasted = Math.round(month.wastedRuntime / month.runtime * 100);
-      console.log(`* ${monthName}: ${String(month.runs).padStart(2, ' ')} runs produced ${String(month.produced).padStart(3, ' ')}l fresh water. Runtime ${String(Math.round(month.runtime)).padStart(3, ' ')}h (${String(wasted).padStart(2, ' ')}% wasted). ${month.failed} failed runs`);
+      console.log(`* ${monthName}: ${String(month.runs).padStart(2, ' ')} runs produced ${String(month.produced).padStart(3, ' ')}l fresh water. Runtime ${String(Math.round(month.runtime)).padStart(3, ' ')}h (${String(wasted).padStart(2, ' ')}% wasted). ${month.failed} failed runs. PPM max ${String(month.ppm.max).padStart(4, ' ')} min ${String(month.ppm.min).padStart(3, ' ')}, average ${String(month.ppm.avg).padStart(3, ' ')}`);
     });
 
     process.exit(0);
