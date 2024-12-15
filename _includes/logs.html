@@ -17,7 +17,7 @@
       {% for image in images %}
         {% if image contains 'src' %}
           {% assign html = image | split:"/>" | first %}
-          <a href="{{ site.baseurl }}{{ post.url }}"><img {{ html }} /></a>
+          <a href="{{ site.baseurl }}{{ post.url }}"><img {{ html }} loading="lazy" /></a>
           {% break %}
         {% endif %}
       {% endfor %}
