@@ -658,54 +658,26 @@
     - ihmis-suski
     - bergie
   category: navigation
-- datetime: 2024-12-19T16:51:28.102Z
-  text: Stopped
+- datetime: 2024-12-19T17:26:15.097Z
+  text: "Sails set: Main (1st reef), Staysail"
   author: ""
   position:
-    latitude: 28.1612226
-    longitude: -15.7657609
+    latitude: 28.1594373
+    longitude: -15.7649156
     source: GPS
-  heading: 257
-  course: 305
+  heading: 252
+  course: 197
   speed:
-    stw: 0
-    sog: 0.4
-  log: 7671.6
+    stw: 0.2
+    sog: 1
+  log: 7671.7
   waypoint:
     longitude: -15.77003
     latitude: 28.0914
-  barometer: 1028.26
+  barometer: 1028.48
   wind:
-    speed: 2.2
-    direction: 89
-  engine:
-    hours: 917.9
-  vhf: "16"
-  crewNames:
-    - ihmis-suski
-    - bergie
-  end: true
-  category: navigation
-- datetime: 2024-12-19T16:52:28.102Z
-  text: Sailing with Main (1st reef)
-  author: ""
-  position:
-    latitude: 28.1612581
-    longitude: -15.7656986
-    source: GPS
-  heading: 250
-  course: 208
-  speed:
-    stw: 0
-    sog: 0.4
-  log: 7671.6
-  waypoint:
-    longitude: -15.77003
-    latitude: 28.0914
-  barometer: 1028.25
-  wind:
-    speed: 2.6
-    direction: 99
+    speed: 3.5
+    direction: 49
   engine:
     hours: 917.9
   vhf: "16"
@@ -713,31 +685,30 @@
     - ihmis-suski
     - bergie
   category: navigation
-- datetime: 2024-12-19T16:53:28.102Z
-  text: Stopped
-  author: ""
+- datetime: 2024-12-19T17:31:27.097Z
+  text: Autopilot activated
+  author: bergie
   position:
-    latitude: 28.1612618
-    longitude: -15.7656269
+    latitude: 28.1593421
+    longitude: -15.7658866
     source: GPS
-  heading: 234
-  course: 326
+  heading: 269
+  course: 266
   speed:
-    stw: 0
-    sog: 0.5
-  log: 7671.6
+    stw: 1
+    sog: 1.3
+  log: 7671.7
   waypoint:
     longitude: -15.77003
     latitude: 28.0914
-  barometer: 1028.28
+  barometer: 1028.55
   wind:
-    speed: 2
-    direction: 42
+    speed: 3.8
+    direction: 59
   engine:
     hours: 917.9
   vhf: "16"
   crewNames:
     - ihmis-suski
     - bergie
-  end: true
   category: navigation
