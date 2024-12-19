@@ -106,3 +106,117 @@
     - ihmis-suski
     - bergie
   category: navigation
+- datetime: 2024-12-19T10:00:23.600Z
+  text: ""
+  author: ""
+  position:
+    latitude: 28.1932036
+    longitude: -15.3831439
+    source: GPS
+  heading: 309
+  course: 326
+  speed:
+    stw: 3.7
+    sog: 4
+  log: 7648.1
+  waypoint:
+    longitude: -15.40424
+    latitude: 28.18324
+  barometer: 1031.21
+  wind:
+    speed: 18.2
+    direction: 129
+  engine:
+    hours: 916.1
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: navigation
+- datetime: 2024-12-19T10:02:23.600Z
+  text: "Gybed to north end of Gran Canaria "
+  author: bergie
+  position:
+    latitude: 28.1938385
+    longitude: -15.3862696
+    source: GPS
+  heading: 272
+  course: 282
+  speed:
+    stw: 4.6
+    sog: 6.2
+  log: 7648.3
+  waypoint:
+    longitude: -15.40424
+    latitude: 28.18324
+  barometer: 1031.57
+  wind:
+    speed: 20.9
+    direction: 139
+  engine:
+    hours: 916.1
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: navigation
+  observations:
+    seaState: 4
+    cloudCoverage: 1
+    visibility: 7
+- datetime: 2024-12-19T10:13:28.601Z
+  text: Autopilot activated
+  author: ""
+  position:
+    latitude: 28.1967573
+    longitude: -15.4044994
+    source: GPS
+  heading: 285
+  course: 278
+  speed:
+    stw: 4.3
+    sog: 4.9
+  log: 7649.3
+  waypoint:
+    longitude: -15.4072
+    latitude: 28.18479
+  barometer: 1031.57
+  wind:
+    speed: 19.6
+    direction: 154
+  engine:
+    hours: 916.1
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: navigation
+- datetime: 2024-12-19T10:34:23.600Z
+  text: Somebody calling Las Palmas Rescue with engine trouble. Really poor
+    connection. Callsign W2... name Pixie Dust. Under sail but needing
+    assistance to enter Las Palmas. MRCC will send a SAR boat
+  author: bergie
+  position:
+    latitude: 28.2009168
+    longitude: -15.4372266
+    source: GPS
+  heading: 276
+  course: 301
+  speed:
+    stw: 4.6
+    sog: 3.9
+  log: 7651
+  waypoint:
+    longitude: -15.49124
+    latitude: 28.16428
+  barometer: 1031.76
+  wind:
+    speed: 17.7
+    direction: 128
+  engine:
+    hours: 916.1
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: radio
