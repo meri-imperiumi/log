@@ -847,3 +847,57 @@
     - ihmis-suski
     - bergie
   category: navigation
+- datetime: 2024-12-19T22:00:24.198Z
+  text: ""
+  author: ""
+  position:
+    latitude: 27.9675191
+    longitude: -15.8952588
+    source: GPS
+  heading: 220
+  course: 225
+  speed:
+    stw: 4.4
+    sog: 5
+  log: 7685.7
+  waypoint:
+    longitude: -15.88255
+    latitude: 27.89726
+  barometer: 1029.57
+  wind:
+    speed: 4.6
+    direction: 15
+  engine:
+    hours: 918.3
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: navigation
+- datetime: 2024-12-19T22:52:25.203Z
+  text: Moon rising behind Gran Canaria
+  author: ihmis-suski
+  position:
+    latitude: 27.9118991
+    longitude: -15.9440999
+    source: GPS
+  heading: 218
+  course: 214
+  speed:
+    stw: 4.1
+    sog: 5.6
+  log: 7690
+  waypoint:
+    longitude: -15.90556
+    latitude: 27.82244
+  barometer: 1029.54
+  wind:
+    speed: 2.9
+    direction: 192
+  engine:
+    hours: 919.1
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: navigation
