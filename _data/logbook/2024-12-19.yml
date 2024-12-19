@@ -332,3 +332,112 @@
     - ihmis-suski
     - bergie
   category: maintenance
+- datetime: 2024-12-19T13:00:24.601Z
+  text: ""
+  author: ""
+  position:
+    latitude: 28.2006796
+    longitude: -15.6558201
+    source: GPS
+  heading: 272
+  course: 284
+  speed:
+    stw: 1.5
+    sog: 1.5
+  log: 7662.8
+  waypoint:
+    longitude: -15.69102
+    latitude: 28.1745
+  barometer: 1029.36
+  wind:
+    speed: 3.3
+    direction: 255
+  engine:
+    hours: 916.1
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: navigation
+- datetime: 2024-12-19T13:02:24.601Z
+  text: "Securite Las Palmas: semi-submerged migrant boat spotted 28°06'18\""
+  author: bergie
+  position:
+    latitude: 28.2010828
+    longitude: -15.6567855
+    source: GPS
+  heading: 286
+  course: 293
+  speed:
+    stw: 1.4
+    sog: 1.7
+  log: 7662.8
+  waypoint:
+    longitude: -15.69102
+    latitude: 28.1745
+  barometer: 1029.29
+  wind:
+    speed: 5.6
+    direction: 245
+  engine:
+    hours: 916.1
+  vhf: "61"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: radio
+- datetime: 2024-12-19T13:35:25.699Z
+  text: Stopped watermaker, 1590ppm. It was using around 80W, so almost double it
+    should.
+  author: bergie
+  position:
+    latitude: 28.2114488
+    longitude: -15.6675958
+    source: GPS
+  heading: 320
+  course: 341
+  speed:
+    stw: 1
+    sog: 1
+  log: 7663.7
+  waypoint:
+    longitude: -15.69102
+    latitude: 28.1745
+  barometer: 1029.09
+  wind:
+    speed: 2.1
+    direction: 307
+  engine:
+    hours: 916.1
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: maintenance
+- datetime: 2024-12-19T13:36:52.700Z
+  text: Sails down, motoring
+  author: ""
+  position:
+    latitude: 28.2119679
+    longitude: -15.6677946
+    source: GPS
+  heading: 346
+  course: 36
+  speed:
+    stw: 1
+    sog: 2.9
+  log: 7663.7
+  waypoint:
+    longitude: -15.69102
+    latitude: 28.1745
+  barometer: 1029.07
+  wind:
+    speed: 1.6
+    direction: 315
+  engine:
+    hours: 916.1
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: navigation
