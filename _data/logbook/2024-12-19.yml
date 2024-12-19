@@ -360,7 +360,7 @@
     - bergie
   category: navigation
 - datetime: 2024-12-19T13:02:24.601Z
-  text: "Securite Las Palmas: semi-submerged migrant boat spotted 28°06'18\""
+  text: "Securite Las Palmas: semi-submerged migrant boat spotted 28°06'18\"N"
   author: bergie
   position:
     latitude: 28.2010828
@@ -441,3 +441,58 @@
     - ihmis-suski
     - bergie
   category: navigation
+- datetime: 2024-12-19T14:00:26.000Z
+  text: I can see a hazy outline of Tenerife in the horizon, but there's a lot of
+    sand in the air
+  author: bergie
+  position:
+    latitude: 28.2036521
+    longitude: -15.6927373
+    source: GPS
+  heading: 229
+  course: 234
+  speed:
+    stw: 4
+    sog: 5.1
+  log: 7665.3
+  waypoint:
+    longitude: -15.69102
+    latitude: 28.1745
+  barometer: 1028.71
+  wind:
+    speed: 1.1
+    direction: 258
+  engine:
+    hours: 916.5
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: navigation
+- datetime: 2024-12-19T14:42:26.099Z
+  text: "Pickled watermaker "
+  author: bergie
+  position:
+    latitude: 28.1782629
+    longitude: -15.7326006
+    source: GPS
+  heading: 243
+  course: 250
+  speed:
+    stw: 3.9
+    sog: 3.9
+  log: 7667.9
+  waypoint:
+    longitude: -15.73436
+    latitude: 28.13873
+  barometer: 1028.14
+  wind:
+    speed: 5.6
+    direction: 225
+  engine:
+    hours: 917.2
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: maintenance
