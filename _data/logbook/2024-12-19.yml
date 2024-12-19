@@ -792,3 +792,58 @@
   crewNames:
     - ihmis-suski
     - bergie
+  category: navigation
+- datetime: 2024-12-19T21:00:22.201Z
+  text: ""
+  author: ""
+  position:
+    latitude: 28.0040508
+    longitude: -15.8707635
+    source: GPS
+  heading: 195
+  course: 189
+  speed:
+    stw: 2.4
+    sog: 2.8
+  log: 7683.1
+  waypoint:
+    longitude: -15.8547
+    latitude: 27.96858
+  barometer: 1029.38
+  wind:
+    speed: 8.9
+    direction: 40
+  engine:
+    hours: 917.9
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: navigation
+- datetime: 2024-12-19T21:41:45.203Z
+  text: Sails down, motoring. Found the lee again. Motoring back out to find wind.
+  author: ihmis-suski
+  position:
+    latitude: 27.986090469360352
+    longitude: -15.876965649922688
+    source: GPS
+  heading: 209
+  course: 321
+  speed:
+    stw: 0.1
+    sog: 2.7
+  log: 7684.2
+  waypoint:
+    longitude: -15.8547
+    latitude: 27.96858
+  barometer: 1029.56
+  wind:
+    speed: 6.9
+    direction: 48
+  engine:
+    hours: 917.9
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: navigation
