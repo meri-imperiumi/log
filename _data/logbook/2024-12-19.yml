@@ -631,3 +631,113 @@
     - ihmis-suski
     - bergie
   category: navigation
+- datetime: 2024-12-19T16:00:27.097Z
+  text: ""
+  author: ""
+  position:
+    latitude: 28.1585659
+    longitude: -15.7724428
+    source: GPS
+  heading: 180
+  course: 67
+  speed:
+    stw: 0
+    sog: 0.9
+  log: 7671.2
+  waypoint:
+    longitude: -15.77003
+    latitude: 28.0914
+  barometer: 1028
+  wind:
+    speed: 1.2
+    direction: 224
+  engine:
+    hours: 917.9
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: navigation
+- datetime: 2024-12-19T16:51:28.102Z
+  text: Stopped
+  author: ""
+  position:
+    latitude: 28.1612226
+    longitude: -15.7657609
+    source: GPS
+  heading: 257
+  course: 305
+  speed:
+    stw: 0
+    sog: 0.4
+  log: 7671.6
+  waypoint:
+    longitude: -15.77003
+    latitude: 28.0914
+  barometer: 1028.26
+  wind:
+    speed: 2.2
+    direction: 89
+  engine:
+    hours: 917.9
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  end: true
+  category: navigation
+- datetime: 2024-12-19T16:52:28.102Z
+  text: Sailing with Main (1st reef)
+  author: ""
+  position:
+    latitude: 28.1612581
+    longitude: -15.7656986
+    source: GPS
+  heading: 250
+  course: 208
+  speed:
+    stw: 0
+    sog: 0.4
+  log: 7671.6
+  waypoint:
+    longitude: -15.77003
+    latitude: 28.0914
+  barometer: 1028.25
+  wind:
+    speed: 2.6
+    direction: 99
+  engine:
+    hours: 917.9
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: navigation
+- datetime: 2024-12-19T16:53:28.102Z
+  text: Stopped
+  author: ""
+  position:
+    latitude: 28.1612618
+    longitude: -15.7656269
+    source: GPS
+  heading: 234
+  course: 326
+  speed:
+    stw: 0
+    sog: 0.5
+  log: 7671.6
+  waypoint:
+    longitude: -15.77003
+    latitude: 28.0914
+  barometer: 1028.28
+  wind:
+    speed: 2
+    direction: 42
+  engine:
+    hours: 917.9
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  end: true
+  category: navigation
