@@ -747,3 +747,62 @@
   crewNames:
     - ihmis-suski
     - bergie
+  category: navigation
+- datetime: 2024-12-20T18:00:50.099Z
+  text: Watch change.  Suski on duty. Pole prepared for wing and wing later.
+  author: ihmis-suski
+  position:
+    latitude: 26.5078283
+    longitude: -16.8886236
+    source: GPS
+  heading: 190
+  course: 177
+  speed:
+    stw: 4.6
+    sog: 5.7
+  log: 7792.3
+  waypoint:
+    longitude: -16.78189
+    latitude: 26.4109
+  barometer: 1025.76
+  wind:
+    speed: 19.4
+    direction: 64
+  engine:
+    hours: 920.4
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: navigation
+  observations:
+    seaState: 4
+    cloudCoverage: 4
+    visibility: 6
+- datetime: 2024-12-20T18:51:50.099Z
+  text: Wing on wing.
+  author: ihmis-suski
+  position:
+    latitude: 26.432381343841552
+    longitude: -16.903094991048178
+    source: GPS
+  heading: 215
+  course: 226
+  speed:
+    stw: 4.4
+    sog: 6.2
+  log: 7796.9
+  waypoint:
+    longitude: -16.84408
+    latitude: 26.31808
+  barometer: 1025.84
+  wind:
+    speed: 14.2
+    direction: 45
+  engine:
+    hours: 920.4
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: navigation
