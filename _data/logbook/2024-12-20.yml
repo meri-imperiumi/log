@@ -556,3 +556,59 @@
     - ihmis-suski
     - bergie
   category: radio
+- datetime: 2024-12-20T13:00:45.699Z
+  text: "Caught and collected a plastic bag with the fishing lure "
+  author: bergie
+  position:
+    latitude: 26.9208936
+    longitude: -16.7100988
+    source: GPS
+  heading: 202
+  course: 208
+  speed:
+    stw: 4.3
+    sog: 5.3
+  log: 7765.3
+  waypoint:
+    longitude: -16.53358
+    latitude: 26.79129
+  barometer: 1027.34
+  wind:
+    speed: 17.3
+    direction: 83
+  engine:
+    hours: 920.4
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: navigation
+- datetime: 2024-12-20T13:29:45.699Z
+  text: Somebody snapped our fishing line. We need a metal leader from now on. On
+    the rebound, the line wrapped around both the hydrogenerator and the servo
+    rudder. Managed to clear it
+  author: bergie
+  position:
+    latitude: 26.8852886
+    longitude: -16.7365178
+    source: GPS
+  heading: 216
+  course: 219
+  speed:
+    stw: 4.4
+    sog: 6.1
+  log: 7767.9
+  waypoint:
+    longitude: -16.59582
+    latitude: 26.69719
+  barometer: 1026.63
+  wind:
+    speed: 19.4
+    direction: 92
+  engine:
+    hours: 920.4
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: navigation
