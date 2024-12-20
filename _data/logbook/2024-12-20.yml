@@ -497,3 +497,62 @@
     seaState: 4
     cloudCoverage: 4
     visibility: 6
+- datetime: 2024-12-20T12:00:43.699Z
+  text: Bergie on watch
+  author: bergie
+  position:
+    latitude: 26.99448299407959
+    longitude: -16.657260513305665
+    source: GPS
+  heading: 197
+  course: 207
+  speed:
+    stw: 4.7
+    sog: 6.5
+  log: 7760
+  waypoint:
+    longitude: -16.47672
+    latitude: 26.8764
+  barometer: 1028.46
+  wind:
+    speed: 18.5
+    direction: 59
+  engine:
+    hours: 920.4
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: navigation
+  observations:
+    seaState: 4
+    cloudCoverage: 6
+    visibility: 6
+- datetime: 2024-12-20T12:16:43.699Z
+  text: "Could still hear the MSI securite advertisement from Tenerife, but not
+    the actual contents "
+  author: bergie
+  position:
+    latitude: 26.973106
+    longitude: -16.6700221
+    source: GPS
+  heading: 202
+  course: 209
+  speed:
+    stw: 5
+    sog: 5.6
+  log: 7761.5
+  waypoint:
+    longitude: -16.53358
+    latitude: 26.79129
+  barometer: 1028.21
+  wind:
+    speed: 16.4
+    direction: 75
+  engine:
+    hours: 920.4
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: radio
