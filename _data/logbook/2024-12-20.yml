@@ -272,3 +272,89 @@
     - ihmis-suski
     - bergie
   category: navigation
+- datetime: 2024-12-20T07:00:36.600Z
+  text: ""
+  author: ""
+  position:
+    latitude: 27.4352263
+    longitude: -16.4163491
+    source: GPS
+  heading: 211
+  course: 202
+  speed:
+    stw: 3
+    sog: 4
+  log: 7730.3
+  waypoint:
+    longitude: -16.24259
+    latitude: 27.21656
+  barometer: 1027.46
+  wind:
+    speed: 12.5
+    direction: 68
+  engine:
+    hours: 920.4
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: navigation
+- datetime: 2024-12-20T07:06:36.600Z
+  text: Pan pan from Coastal Radio. Couldn't understand what or where. We start to
+    be outside of VHF range
+  author: ihmis-suski
+  position:
+    latitude: 27.4288888
+    longitude: -16.4211538
+    source: GPS
+  heading: 207
+  course: 216
+  speed:
+    stw: 3.5
+    sog: 4.8
+  log: 7730.7
+  waypoint:
+    longitude: -16.24259
+    latitude: 27.21656
+  barometer: 1027.54
+  wind:
+    speed: 14.4
+    direction: 66
+  engine:
+    hours: 920.4
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: radio
+- datetime: 2024-12-20T07:48:37.600Z
+  text: Sun nearly up.
+  author: ihmis-suski
+  position:
+    latitude: 27.3764341
+    longitude: -16.4507919
+    source: GPS
+  heading: 188
+  course: 196
+  speed:
+    stw: 3.8
+    sog: 5.2
+  log: 7734.3
+  waypoint:
+    longitude: -16.24259
+    latitude: 27.21656
+  barometer: 1027.89
+  wind:
+    speed: 12.9
+    direction: 82
+  engine:
+    hours: 920.4
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: navigation
+  observations:
+    seaState: 3
+    cloudCoverage: 1
+    visibility: 6
