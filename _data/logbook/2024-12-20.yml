@@ -163,3 +163,58 @@
   crewNames:
     - ihmis-suski
     - bergie
+  category: navigation
+- datetime: 2024-12-20T04:00:31.600Z
+  text: ""
+  author: ""
+  position:
+    latitude: 27.6423009
+    longitude: -16.2852851
+    source: GPS
+  heading: 249
+  course: 247
+  speed:
+    stw: 4.9
+    sog: 6.4
+  log: 7714.6
+  waypoint:
+    longitude: -16.03117
+    latitude: 27.5344
+  barometer: 1027.19
+  wind:
+    speed: 22.5
+    direction: 10
+  engine:
+    hours: 920.4
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: navigation
+- datetime: 2024-12-20T04:54:32.600Z
+  text: Gybed to head south
+  author: bergie
+  position:
+    latitude: 27.5948064
+    longitude: -16.3680646
+    source: GPS
+  heading: 178
+  course: 183
+  speed:
+    stw: 4.5
+    sog: 5.2
+  log: 7720
+  waypoint:
+    longitude: -16.06624
+    latitude: 27.45397
+  barometer: 1027.3
+  wind:
+    speed: 20.2
+    direction: 37
+  engine:
+    hours: 920.4
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: navigation
