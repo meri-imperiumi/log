@@ -1,0 +1,58 @@
+- datetime: 2024-12-20T00:00:27.200Z
+  text: "Bergie on watch "
+  author: bergie
+  position:
+    latitude: 27.8395814
+    longitude: -16.012928
+    source: GPS
+  heading: 236
+  course: 235
+  speed:
+    stw: 4.6
+    sog: 5
+  log: 7695.6
+  waypoint:
+    longitude: -15.90556
+    latitude: 27.82244
+  barometer: 1029.2
+  wind:
+    speed: 4.8
+    direction: 288
+  engine:
+    hours: 920.2
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: navigation
+  observations:
+    seaState: 3
+    cloudCoverage: 1
+    visibility: 7
+- datetime: 2024-12-20T00:09:44.200Z
+  text: Motor stopped, sailing with Main (1st reef), Staysail
+  author: ""
+  position:
+    latitude: 27.833876164754233
+    longitude: -16.025309165318806
+    source: GPS
+  heading: 240
+  course: 230
+  speed:
+    stw: 2
+    sog: 2.9
+  log: 7696.4
+  waypoint:
+    longitude: -15.90556
+    latitude: 27.82244
+  barometer: 1029.18
+  wind:
+    speed: 6.4
+    direction: 345
+  engine:
+    hours: 920.4
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: navigation
