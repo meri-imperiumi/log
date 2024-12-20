@@ -438,3 +438,62 @@
   crewNames:
     - ihmis-suski
     - bergie
+  category: navigation
+- datetime: 2024-12-20T11:00:42.598Z
+  text: ""
+  author: ""
+  position:
+    latitude: 27.0857666
+    longitude: -16.6189495
+    source: GPS
+  heading: 186
+  course: 192
+  speed:
+    stw: 5.3
+    sog: 8.4
+  log: 7754.1
+  waypoint:
+    longitude: -16.41961
+    latitude: 26.96145
+  barometer: 1029.1
+  wind:
+    speed: 27.3
+    direction: 58
+  engine:
+    hours: 920.4
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: navigation
+- datetime: 2024-12-20T11:24:42.598Z
+  text: We are ahead of weather routing .
+  author: ihmis-suski
+  position:
+    latitude: 27.0478186
+    longitude: -16.6367431
+    source: GPS
+  heading: 204
+  course: 199
+  speed:
+    stw: 4.4
+    sog: 5
+  log: 7756.6
+  waypoint:
+    longitude: -16.47672
+    latitude: 26.8764
+  barometer: 1028.93
+  wind:
+    speed: 18.6
+    direction: 76
+  engine:
+    hours: 920.4
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: navigation
+  observations:
+    seaState: 4
+    cloudCoverage: 4
+    visibility: 6
