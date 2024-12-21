@@ -706,8 +706,8 @@
     - bergie
   category: navigation
 - datetime: 2024-12-21T18:00:01.401Z
-  text: ""
-  author: ""
+  text: Suski to watch.
+  author: ihmis-suski
   position:
     latitude: 24.7315099
     longitude: -18.351089
@@ -779,6 +779,60 @@
   wind:
     speed: 25.6
     direction: 53
+  engine:
+    hours: 920.4
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: navigation
+- datetime: 2024-12-21T20:43:01.798Z
+  text: Pitch black before the moon.
+  author: ihmis-suski
+  position:
+    latitude: 24.5097736
+    longitude: -18.4844133
+    source: GPS
+  heading: 206
+  course: 211
+  speed:
+    stw: 4.7
+    sog: 5.8
+  log: 7943.5
+  waypoint:
+    longitude: -18.34747
+    latitude: 24.37684
+  barometer: 1025.05
+  wind:
+    speed: 22.5
+    direction: 47
+  engine:
+    hours: 920.4
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: navigation
+- datetime: 2024-12-21T21:00:01.798Z
+  text: ""
+  author: ""
+  position:
+    latitude: 24.4853503
+    longitude: -18.4964951
+    source: GPS
+  heading: 201
+  course: 212
+  speed:
+    stw: 4.4
+    sog: 6.4
+  log: 7945.1
+  waypoint:
+    longitude: -18.34747
+    latitude: 24.37684
+  barometer: 1025.27
+  wind:
+    speed: 22.3
+    direction: 58
   engine:
     hours: 920.4
   vhf: "16"
