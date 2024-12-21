@@ -196,8 +196,8 @@
     cloudCoverage: 7
     visibility: 6
 - datetime: 2024-12-21T06:00:00.200Z
-  text: ""
-  author: ""
+  text: Suski on watch
+  author: bergie
   position:
     latitude: 25.5813826
     longitude: -17.5683921
@@ -414,3 +414,66 @@
   crewNames:
     - ihmis-suski
     - bergie
+  category: navigation
+- datetime: 2024-12-21T12:00:05.299Z
+  text: Bergie on watch
+  author: bergie
+  position:
+    latitude: 25.2009468
+    longitude: -18.0395586
+    source: GPS
+  heading: 225
+  course: 242
+  speed:
+    stw: 4.1
+    sog: 3.4
+  log: 7894.7
+  waypoint:
+    longitude: -17.90869
+    latitude: 25.023
+  barometer: 1026.08
+  wind:
+    speed: 17.6
+    direction: 55
+  engine:
+    hours: 920.4
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: navigation
+  observations:
+    seaState: 4
+    cloudCoverage: 1
+    visibility: 6
+- datetime: 2024-12-21T12:51:08.300Z
+  text: Bank of clouds approaching, looks like it'll be quite overcast
+  author: bergie
+  position:
+    latitude: 25.1459936
+    longitude: -18.0962973
+    source: GPS
+  heading: 221
+  course: 248
+  speed:
+    stw: 4.2
+    sog: 4.8
+  log: 7899.2
+  waypoint:
+    longitude: -17.90869
+    latitude: 25.023
+  barometer: 1025.35
+  wind:
+    speed: 14.5
+    direction: 60
+  engine:
+    hours: 920.4
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: navigation
+  observations:
+    seaState: 4
+    cloudCoverage: 3
+    visibility: 6
