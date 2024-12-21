@@ -477,3 +477,61 @@
     seaState: 4
     cloudCoverage: 3
     visibility: 6
+- datetime: 2024-12-21T13:00:07.299Z
+  text: ""
+  author: ""
+  position:
+    latitude: 25.1361451
+    longitude: -18.1061971
+    source: GPS
+  heading: 216
+  course: 225
+  speed:
+    stw: 4.5
+    sog: 4.7
+  log: 7900
+  waypoint:
+    longitude: -17.90869
+    latitude: 25.023
+  barometer: 1025.2
+  wind:
+    speed: 21.9
+    direction: 64
+  engine:
+    hours: 920.4
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: navigation
+- datetime: 2024-12-21T13:19:07.299Z
+  text: Yup, that cloud bank brought some wind. Happy to have that 2nd reef on
+  author: bergie
+  position:
+    latitude: 25.1125788
+    longitude: -18.1256813
+    source: GPS
+  heading: 209
+  course: 222
+  speed:
+    stw: 5
+    sog: 6.3
+  log: 7901.8
+  waypoint:
+    longitude: -17.96481
+    latitude: 24.93685
+  barometer: 1025.05
+  wind:
+    speed: 26
+    direction: 66
+  engine:
+    hours: 920.4
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: navigation
+  observations:
+    seaState: 4
+    cloudCoverage: 6
+    visibility: 6
