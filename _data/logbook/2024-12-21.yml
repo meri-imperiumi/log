@@ -651,3 +651,83 @@
     cloudCoverage: 7
     seaState: 4
     visibility: 6
+- datetime: 2024-12-21T17:00:12.403Z
+  text: ""
+  author: ""
+  position:
+    latitude: 24.82133
+    longitude: -18.3154196
+    source: GPS
+  heading: 197
+  course: 199
+  speed:
+    stw: 5.1
+    sog: 8
+  log: 7922.4
+  waypoint:
+    longitude: -18.14855
+    latitude: 24.6706
+  barometer: 1023.48
+  wind:
+    speed: 27.5
+    direction: 48
+  engine:
+    hours: 920.4
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: navigation
+- datetime: 2024-12-21T17:54:03.398Z
+  text: "Big pod of small dolphins "
+  author: bergie
+  position:
+    latitude: 24.740262349446613
+    longitude: -18.34702116648356
+    source: GPS
+  heading: 212
+  course: 229
+  speed:
+    stw: 4.7
+    sog: 6.1
+  log: 7927.6
+  waypoint:
+    longitude: -18.21489
+    latitude: 24.57246
+  barometer: 1023.76
+  wind:
+    speed: 24.1
+    direction: 60
+  engine:
+    hours: 920.4
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: navigation
+- datetime: 2024-12-21T18:00:01.401Z
+  text: ""
+  author: ""
+  position:
+    latitude: 24.7315099
+    longitude: -18.351089
+    source: GPS
+  heading: 189
+  course: 209
+  speed:
+    stw: 4.7
+    sog: 6.1
+  log: 7928.1
+  waypoint:
+    longitude: -18.21489
+    latitude: 24.57246
+  barometer: 1023.89
+  wind:
+    speed: 22.5
+    direction: 44
+  engine:
+    hours: 920.4
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
