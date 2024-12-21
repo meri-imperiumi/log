@@ -535,3 +535,57 @@
     seaState: 4
     cloudCoverage: 6
     visibility: 6
+- datetime: 2024-12-21T14:00:08.300Z
+  text: ""
+  author: ""
+  position:
+    latitude: 25.0563599
+    longitude: -18.1584228
+    source: GPS
+  heading: 201
+  course: 222
+  speed:
+    stw: 4.6
+    sog: 5.9
+  log: 7905.6
+  waypoint:
+    longitude: -17.96481
+    latitude: 24.93685
+  barometer: 1024.35
+  wind:
+    speed: 24.1
+    direction: 53
+  engine:
+    hours: 920.4
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: navigation
+- datetime: 2024-12-21T14:30:09.401Z
+  text: Gusting up to 31kt now
+  author: bergie
+  position:
+    latitude: 25.014773999651272
+    longitude: -18.183822504679362
+    source: GPS
+  heading: 208
+  course: 227
+  speed:
+    stw: 4.6
+    sog: 6.4
+  log: 7908.5
+  waypoint:
+    longitude: -18.02319
+    latitude: 24.85117
+  barometer: 1024
+  wind:
+    speed: 22
+    direction: 48
+  engine:
+    hours: 920.4
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: navigation
