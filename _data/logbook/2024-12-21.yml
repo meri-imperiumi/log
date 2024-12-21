@@ -248,3 +248,35 @@
   crewNames:
     - ihmis-suski
     - bergie
+  category: navigation
+- datetime: 2024-12-21T07:51:02.201Z
+  text: Light and sun again!
+  author: ihmis-suski
+  position:
+    latitude: 25.4691353
+    longitude: -17.720852
+    source: GPS
+  heading: 220
+  course: 227
+  speed:
+    stw: 4.5
+    sog: 6.6
+  log: 7870.9
+  waypoint:
+    longitude: -17.68451
+    latitude: 25.37211
+  barometer: 1025.55
+  wind:
+    speed: 23
+    direction: 60
+  engine:
+    hours: 920.4
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: navigation
+  observations:
+    seaState: 4
+    cloudCoverage: 3
+    visibility: 6
