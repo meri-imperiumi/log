@@ -280,3 +280,57 @@
     seaState: 4
     cloudCoverage: 3
     visibility: 6
+- datetime: 2024-12-21T08:00:03.299Z
+  text: ""
+  author: ""
+  position:
+    latitude: 25.459086
+    longitude: -17.7331265
+    source: GPS
+  heading: 233
+  course: 226
+  speed:
+    stw: 4.4
+    sog: 6.9
+  log: 7871.8
+  waypoint:
+    longitude: -17.68451
+    latitude: 25.37211
+  barometer: 1025.67
+  wind:
+    speed: 20.2
+    direction: 71
+  engine:
+    hours: 920.4
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: navigation
+- datetime: 2024-12-21T08:40:03.299Z
+  text: Surfing dolphin on a neighbouring wave
+  author: ihmis-suski
+  position:
+    latitude: 25.4186904
+    longitude: -17.7887964
+    source: GPS
+  heading: 220
+  course: 223
+  speed:
+    stw: 4.7
+    sog: 5.7
+  log: 7875.6
+  waypoint:
+    longitude: -17.74812
+    latitude: 25.29066
+  barometer: 1025.84
+  wind:
+    speed: 24.2
+    direction: 78
+  engine:
+    hours: 920.4
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: navigation
