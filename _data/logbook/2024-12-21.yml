@@ -82,3 +82,84 @@
   crewNames:
     - ihmis-suski
     - bergie
+  category: navigation
+- datetime: 2024-12-21T03:00:58.200Z
+  text: ""
+  author: ""
+  position:
+    latitude: 25.8014248
+    longitude: -17.3693796
+    source: GPS
+  heading: 210
+  course: 209
+  speed:
+    stw: 4.8
+    sog: 5.5
+  log: 7842.9
+  waypoint:
+    longitude: -17.3393
+    latitude: 25.75732
+  barometer: 1025.16
+  wind:
+    speed: 21.3
+    direction: 70
+  engine:
+    hours: 920.4
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: navigation
+- datetime: 2024-12-21T03:25:59.200Z
+  text: Winds are down a bit, smoother going. Now gusts are 25kt and not 30kt
+  author: bergie
+  position:
+    latitude: 25.7725108
+    longitude: -17.3986241
+    source: GPS
+  heading: 216
+  course: 207
+  speed:
+    stw: 4.4
+    sog: 5.8
+  log: 7845.3
+  waypoint:
+    longitude: -17.41343
+    latitude: 25.6844
+  barometer: 1025.09
+  wind:
+    speed: 19.8
+    direction: 76
+  engine:
+    hours: 920.4
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: navigation
+- datetime: 2024-12-21T04:00:00.200Z
+  text: ""
+  author: ""
+  position:
+    latitude: 25.7308963
+    longitude: -17.4371135
+    source: GPS
+  heading: 219
+  course: 226
+  speed:
+    stw: 4.8
+    sog: 4.1
+  log: 7848.5
+  waypoint:
+    longitude: -17.41343
+    latitude: 25.6844
+  barometer: 1025.02
+  wind:
+    speed: 23.6
+    direction: 63
+  engine:
+    hours: 920.4
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
