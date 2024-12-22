@@ -337,3 +337,57 @@
     seaState: 5
     cloudCoverage: 3
     visibility: 7
+- datetime: 2024-12-22T08:00:11.900Z
+  text: ""
+  author: ""
+  position:
+    latitude: 23.4772756
+    longitude: -18.900458
+    source: GPS
+  heading: 208
+  course: 217
+  speed:
+    stw: 5.3
+    sog: 6.8
+  log: 8010.3
+  waypoint:
+    longitude: -18.93769
+    latitude: 23.48505
+  barometer: 1024.08
+  wind:
+    speed: 23.9
+    direction: 60
+  engine:
+    hours: 920.4
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: navigation
+- datetime: 2024-12-22T08:31:11.900Z
+  text: Tropic of Cancer!
+  author: ihmis-suski
+  position:
+    latitude: 23.4275893
+    longitude: -18.9287096
+    source: GPS
+  heading: 202
+  course: 190
+  speed:
+    stw: 4.7
+    sog: 6.9
+  log: 8013.7
+  waypoint:
+    longitude: -18.99977
+    latitude: 23.38719
+  barometer: 1024.15
+  wind:
+    speed: 25.2
+    direction: 50
+  engine:
+    hours: 920.4
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: navigation
