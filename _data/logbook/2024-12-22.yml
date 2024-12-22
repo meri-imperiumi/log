@@ -606,3 +606,62 @@
   crewNames:
     - ihmis-suski
     - bergie
+  category: navigation
+- datetime: 2024-12-22T15:00:16.000Z
+  text: ""
+  author: ""
+  position:
+    latitude: 22.9025086
+    longitude: -19.3116221
+    source: GPS
+  heading: 209
+  course: 203
+  speed:
+    stw: 4
+    sog: 4.5
+  log: 8051.9
+  waypoint:
+    longitude: -19.40136
+    latitude: 22.84334
+  barometer: 1021.82
+  wind:
+    speed: 17.4
+    direction: 40
+  engine:
+    hours: 920.4
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: navigation
+- datetime: 2024-12-22T15:15:16.998Z
+  text: Very nice to be on day 4 of a passage and still see all full battery
+  author: bergie
+  position:
+    latitude: 22.883611488342286
+    longitude: -19.325208155314126
+    source: GPS
+  heading: 204
+  course: 227
+  speed:
+    stw: 4.6
+    sog: 5.8
+  log: 8053.3
+  waypoint:
+    longitude: -19.40136
+    latitude: 22.84334
+  barometer: 1021.9
+  wind:
+    speed: 17.3
+    direction: 41
+  engine:
+    hours: 920.4
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: navigation
+  observations:
+    seaState: 4
+    cloudCoverage: 2
+    visibility: 7
