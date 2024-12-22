@@ -635,7 +635,7 @@
     - bergie
   category: navigation
 - datetime: 2024-12-22T15:15:16.998Z
-  text: Very nice to be on day 4 of a passage and still see all full battery
+  text: Very nice to be on day 4 of a passage and still see full battery
   author: bergie
   position:
     latitude: 22.883611488342286
@@ -712,6 +712,33 @@
   wind:
     speed: 14
     direction: 51
+  engine:
+    hours: 920.4
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: navigation
+- datetime: 2024-12-22T17:00:19.001Z
+  text: ""
+  author: ""
+  position:
+    latitude: 22.7579728
+    longitude: -19.4257613
+    source: GPS
+  heading: 223
+  course: 224
+  speed:
+    stw: 4.7
+    sog: 6.3
+  log: 8062.8
+  waypoint:
+    longitude: -19.47716
+    latitude: 22.76202
+  barometer: 1021.62
+  wind:
+    speed: 19.6
+    direction: 66
   engine:
     hours: 920.4
   vhf: "16"
