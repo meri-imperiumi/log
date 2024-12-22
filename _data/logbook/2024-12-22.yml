@@ -1,0 +1,60 @@
+- datetime: 2024-12-22T00:00:04.800Z
+  text: Bergie on watch
+  author: bergie
+  position:
+    latitude: 24.2135276
+    longitude: -18.592701
+    source: GPS
+  heading: 202
+  course: 200
+  speed:
+    stw: 5.1
+    sog: 6.1
+  log: 7962.5
+  waypoint:
+    longitude: -18.5542
+    latitude: 24.08829
+  barometer: 1025.11
+  wind:
+    speed: 22.7
+    direction: 57
+  engine:
+    hours: 920.4
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: navigation
+  observations:
+    seaState: 4
+    cloudCoverage: 0
+- datetime: 2024-12-22T00:47:04.800Z
+  text: Moon is rising behind the clouds
+  author: bergie
+  position:
+    latitude: 24.1486996
+    longitude: -18.6236036
+    source: GPS
+  heading: 208
+  course: 192
+  speed:
+    stw: 5
+    sog: 6.5
+  log: 7966.8
+  waypoint:
+    longitude: -18.5542
+    latitude: 24.08829
+  barometer: 1024.93
+  wind:
+    speed: 28.7
+    direction: 71
+  engine:
+    hours: 920.4
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: navigation
+  observations:
+    seaState: 4
+    cloudCoverage: 2
