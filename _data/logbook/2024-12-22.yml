@@ -746,3 +746,88 @@
     - ihmis-suski
     - bergie
   category: navigation
+- datetime: 2024-12-22T18:00:17.996Z
+  text: Suski on watch.
+  author: ihmis-suski
+  position:
+    latitude: 22.6918178
+    longitude: -19.4849983
+    source: GPS
+  heading: 215
+  course: 224
+  speed:
+    stw: 4.6
+    sog: 5.4
+  log: 8068
+  waypoint:
+    longitude: -19.55071
+    latitude: 22.68087
+  barometer: 1021.59
+  wind:
+    speed: 14.3
+    direction: 67
+  engine:
+    hours: 920.4
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: navigation
+  observations:
+    seaState: 4
+    cloudCoverage: 3
+    visibility: 7
+- datetime: 2024-12-22T18:39:19.001Z
+  text: Sun has set
+  author: ihmis-suski
+  position:
+    latitude: 22.6425149
+    longitude: -19.5190656
+    source: GPS
+  heading: 210
+  course: 189
+  speed:
+    stw: 5
+    sog: 6.4
+  log: 8071.5
+  waypoint:
+    longitude: -19.62076
+    latitude: 22.59838
+  barometer: 1021.73
+  wind:
+    speed: 20.7
+    direction: 77
+  engine:
+    hours: 920.4
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: navigation
+- datetime: 2024-12-22T18:46:17.996Z
+  text: Dolphins came for a visit
+  author: ihmis-suski
+  position:
+    latitude: 22.6330828
+    longitude: -19.5240431
+    source: GPS
+  heading: 213
+  course: 221
+  speed:
+    stw: 4
+    sog: 5.6
+  log: 8072.1
+  waypoint:
+    longitude: -19.62076
+    latitude: 22.59838
+  barometer: 1021.77
+  wind:
+    speed: 14.9
+    direction: 46
+  engine:
+    hours: 920.4
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: navigation
