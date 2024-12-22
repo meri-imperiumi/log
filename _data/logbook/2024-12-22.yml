@@ -471,3 +471,85 @@
   crewNames:
     - ihmis-suski
     - bergie
+  category: navigation
+- datetime: 2024-12-22T12:00:13.900Z
+  text: "Bergie on watch "
+  author: bergie
+  position:
+    latitude: 23.1381309
+    longitude: -19.1434083
+    source: GPS
+  heading: 201
+  course: 203
+  speed:
+    stw: 5.1
+    sog: 5
+  log: 8034.9
+  waypoint:
+    longitude: -19.18999
+    latitude: 23.10808
+  barometer: 1024.61
+  wind:
+    speed: 23.3
+    direction: 59
+  engine:
+    hours: 920.4
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: navigation
+- datetime: 2024-12-22T12:02:18.899Z
+  text: "Sails set: Main (1st reef), Staysail"
+  author: ""
+  position:
+    latitude: 23.1350533
+    longitude: -19.1455884
+    source: GPS
+  heading: 214
+  course: 220
+  speed:
+    stw: 5.3
+    sog: 6.6
+  log: 8035.1
+  waypoint:
+    longitude: -19.18999
+    latitude: 23.10808
+  barometer: 1024.6
+  wind:
+    speed: 23.1
+    direction: 69
+  engine:
+    hours: 920.4
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: navigation
+- datetime: 2024-12-22T12:43:14.000Z
+  text: There is a small leak on starboard deck somewhere around the middle cleat
+  author: bergie
+  position:
+    latitude: 23.0769605
+    longitude: -19.184751
+    source: GPS
+  heading: 196
+  course: 202
+  speed:
+    stw: 5.1
+    sog: 5.4
+  log: 8039.3
+  waypoint:
+    longitude: -19.257
+    latitude: 23.01659
+  barometer: 1024.16
+  wind:
+    speed: 21.9
+    direction: 45
+  engine:
+    hours: 920.4
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: maintenance
