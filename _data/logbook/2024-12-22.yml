@@ -165,3 +165,62 @@
   crewNames:
     - ihmis-suski
     - bergie
+  category: navigation
+- datetime: 2024-12-22T05:00:08.899Z
+  text: ""
+  author: ""
+  position:
+    latitude: 23.7667586
+    longitude: -18.7633125
+    source: GPS
+  heading: 200
+  course: 193
+  speed:
+    stw: 5.3
+    sog: 6
+  log: 7991.2
+  waypoint:
+    longitude: -18.81361
+    latitude: 23.67957
+  barometer: 1023.4
+  wind:
+    speed: 25.7
+    direction: 64
+  engine:
+    hours: 920.4
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: navigation
+- datetime: 2024-12-22T05:28:08.899Z
+  text: "Good amount of shooting stars tonight "
+  author: bergie
+  position:
+    latitude: 23.7219311
+    longitude: -18.7854186
+    source: GPS
+  heading: 204
+  course: 189
+  speed:
+    stw: 5.2
+    sog: 6.1
+  log: 7994.2
+  waypoint:
+    longitude: -18.81361
+    latitude: 23.67957
+  barometer: 1023.44
+  wind:
+    speed: 28.6
+    direction: 69
+  engine:
+    hours: 920.4
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: navigation
+  observations:
+    seaState: 4
+    cloudCoverage: 2
+    visibility: 6
