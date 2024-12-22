@@ -885,3 +885,57 @@
     - ihmis-suski
     - bergie
   category: navigation
+- datetime: 2024-12-22T20:00:20.000Z
+  text: ""
+  author: ""
+  position:
+    latitude: 22.5379818
+    longitude: -19.5817498
+    source: GPS
+  heading: 223
+  course: 206
+  speed:
+    stw: 4
+    sog: 5.8
+  log: 8078.7
+  waypoint:
+    longitude: -19.6899
+    latitude: 22.51486
+  barometer: 1022.19
+  wind:
+    speed: 16.7
+    direction: 74
+  engine:
+    hours: 920.4
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: navigation
+- datetime: 2024-12-22T20:08:32.102Z
+  text: "Sails set: Main (1st reef), Genoa 1 (40% furled), Staysail"
+  author: ""
+  position:
+    latitude: 22.5272723
+    longitude: -19.589881
+    source: GPS
+  heading: 213
+  course: 202
+  speed:
+    stw: 4.8
+    sog: 6.9
+  log: 8079.5
+  waypoint:
+    longitude: -19.6899
+    latitude: 22.51486
+  barometer: 1022.27
+  wind:
+    speed: 17.7
+    direction: 62
+  engine:
+    hours: 920.4
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: navigation
