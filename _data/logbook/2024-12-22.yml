@@ -665,3 +665,57 @@
     seaState: 4
     cloudCoverage: 2
     visibility: 7
+- datetime: 2024-12-22T16:00:16.998Z
+  text: ""
+  author: ""
+  position:
+    latitude: 22.8299676
+    longitude: -19.3654781
+    source: GPS
+  heading: 211
+  course: 217
+  speed:
+    stw: 4.1
+    sog: 4.4
+  log: 8057.2
+  waypoint:
+    longitude: -19.40136
+    latitude: 22.84334
+  barometer: 1021.59
+  wind:
+    speed: 15.4
+    direction: 48
+  engine:
+    hours: 920.4
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: navigation
+- datetime: 2024-12-22T16:11:32.998Z
+  text: "Sails set: Main (1st reef), Genoa 1 (40% furled), Staysail"
+  author: ""
+  position:
+    latitude: 22.8178225
+    longitude: -19.3760699
+    source: GPS
+  heading: 220
+  course: 243
+  speed:
+    stw: 4.4
+    sog: 6.3
+  log: 8058.2
+  waypoint:
+    longitude: -19.47716
+    latitude: 22.76202
+  barometer: 1021.56
+  wind:
+    speed: 14
+    direction: 51
+  engine:
+    hours: 920.4
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: navigation
