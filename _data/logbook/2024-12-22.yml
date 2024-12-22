@@ -224,3 +224,58 @@
     seaState: 4
     cloudCoverage: 2
     visibility: 6
+- datetime: 2024-12-22T06:00:10.899Z
+  text: Suski on watch
+  author: ihmis-suski
+  position:
+    latitude: 23.6720496
+    longitude: -18.8115891
+    source: GPS
+  heading: 215
+  course: 211
+  speed:
+    stw: 4.5
+    sog: 4.8
+  log: 7997.5
+  waypoint:
+    longitude: -18.87545
+    latitude: 23.58308
+  barometer: 1023.61
+  wind:
+    speed: 23
+    direction: 73
+  engine:
+    hours: 920.4
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: navigation
+- datetime: 2024-12-22T06:19:10.899Z
+  text: "Ship on starboard side. Will pass us at 3 nm in 15 min. Also. Not much
+    happening when ships get entered to the log "
+  author: ihmis-suski
+  position:
+    latitude: 23.6414985
+    longitude: -18.8266481
+    source: GPS
+  heading: 202
+  course: 196
+  speed:
+    stw: 5.4
+    sog: 5.1
+  log: 7999.5
+  waypoint:
+    longitude: -18.87545
+    latitude: 23.58308
+  barometer: 1023.7
+  wind:
+    speed: 26.4
+    direction: 64
+  engine:
+    hours: 920.4
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: navigation
