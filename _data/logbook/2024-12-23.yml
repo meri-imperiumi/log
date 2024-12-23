@@ -357,3 +357,57 @@
     - ihmis-suski
     - bergie
   category: navigation
+- datetime: 2024-12-23T08:00:31.500Z
+  text: ""
+  author: ""
+  position:
+    latitude: 21.5354029
+    longitude: -20.0660664
+    source: GPS
+  heading: 223
+  course: 205
+  speed:
+    stw: 4.4
+    sog: 4.1
+  log: 8145.8
+  waypoint:
+    longitude: -20.42713
+    latitude: 21.74908
+  barometer: 1019.89
+  wind:
+    speed: 17.2
+    direction: 77
+  engine:
+    hours: 920.4
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: navigation
+- datetime: 2024-12-23T08:22:32.499Z
+  text: 1 plastic sail car is broken just above 3rd reef.
+  author: ihmis-suski
+  position:
+    latitude: 21.5136205
+    longitude: -20.0861048
+    source: GPS
+  heading: 212
+  course: 215
+  speed:
+    stw: 4.5
+    sog: 4.6
+  log: 8147.5
+  waypoint:
+    longitude: -20.42713
+    latitude: 21.74908
+  barometer: 1019.9
+  wind:
+    speed: 17.4
+    direction: 54
+  engine:
+    hours: 920.4
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: navigation
