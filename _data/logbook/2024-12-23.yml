@@ -25,3 +25,114 @@
     - ihmis-suski
     - bergie
   category: navigation
+- datetime: 2024-12-23T01:00:24.500Z
+  text: ""
+  author: ""
+  position:
+    latitude: 22.1020946
+    longitude: -19.7661378
+    source: GPS
+  heading: 201
+  course: 216
+  speed:
+    stw: 4.7
+    sog: 7.4
+  log: 8107.2
+  waypoint:
+    longitude: -19.92756
+    latitude: 22.24906
+  barometer: 1021.43
+  wind:
+    speed: 23.4
+    direction: 48
+  engine:
+    hours: 920.4
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: navigation
+- datetime: 2024-12-23T01:11:25.500Z
+  text: Halfway point! 444NM to Mindelo
+  author: bergie
+  position:
+    latitude: 22.0864673
+    longitude: -19.7713438
+    source: GPS
+  heading: 196
+  course: 197
+  speed:
+    stw: 4.8
+    sog: 5.9
+  log: 8108.2
+  waypoint:
+    longitude: -20.01325
+    latitude: 22.16744
+  barometer: 1021.31
+  wind:
+    speed: 21.6
+    direction: 42
+  engine:
+    hours: 920.4
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: navigation
+  observations:
+    seaState: 4
+    cloudCoverage: 1
+- datetime: 2024-12-23T01:28:25.500Z
+  text: Moon is up
+  author: bergie
+  position:
+    latitude: 22.061406
+    longitude: -19.7811438
+    source: GPS
+  heading: 201
+  course: 212
+  speed:
+    stw: 4.6
+    sog: 6.9
+  log: 8109.8
+  waypoint:
+    longitude: -20.01325
+    latitude: 22.16744
+  barometer: 1021.13
+  wind:
+    speed: 21.6
+    direction: 49
+  engine:
+    hours: 920.4
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: navigation
+- datetime: 2024-12-23T01:51:25.500Z
+  text: Bioluminiscent plankton in the wake. Pretty!
+  author: bergie
+  position:
+    latitude: 22.0297326
+    longitude: -19.7970919
+    source: GPS
+  heading: 202
+  course: 214
+  speed:
+    stw: 5
+    sog: 8.7
+  log: 8111.9
+  waypoint:
+    longitude: -20.01325
+    latitude: 22.16744
+  barometer: 1020.95
+  wind:
+    speed: 22.2
+    direction: 40
+  engine:
+    hours: 920.4
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: navigation
