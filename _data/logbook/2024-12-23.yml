@@ -631,3 +631,57 @@
     - ihmis-suski
     - bergie
   category: navigation
+- datetime: 2024-12-23T17:00:44.000Z
+  text: ""
+  author: ""
+  position:
+    latitude: 20.9274296
+    longitude: -20.6077119
+    source: GPS
+  heading: 234
+  course: 237
+  speed:
+    stw: 3.7
+    sog: 5.4
+  log: 8193.7
+  waypoint:
+    longitude: -21.01546
+    latitude: 21.24439
+  barometer: 1016.29
+  wind:
+    speed: 11.4
+    direction: 58
+  engine:
+    hours: 920.4
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: navigation
+- datetime: 2024-12-23T17:42:36.998Z
+  text: "Sails set: Parasailor"
+  author: ""
+  position:
+    latitude: 20.9018651
+    longitude: -20.6480129
+    source: GPS
+  heading: 249
+  course: 253
+  speed:
+    stw: 4.6
+    sog: 5.3
+  log: 8196.5
+  waypoint:
+    longitude: -21.01546
+    latitude: 21.24439
+  barometer: 1016.26
+  wind:
+    speed: 12.5
+    direction: 10
+  engine:
+    hours: 920.4
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: navigation
