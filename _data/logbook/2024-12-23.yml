@@ -685,3 +685,57 @@
     - ihmis-suski
     - bergie
   category: navigation
+- datetime: 2024-12-23T18:00:43.001Z
+  text: ""
+  author: ""
+  position:
+    latitude: 20.889951
+    longitude: -20.6734643
+    source: GPS
+  heading: 249
+  course: 240
+  speed:
+    stw: 4.9
+    sog: 5.4
+  log: 8198.1
+  waypoint:
+    longitude: -21.01546
+    latitude: 21.24439
+  barometer: 1016.25
+  wind:
+    speed: 13.8
+    direction: 29
+  engine:
+    hours: 920.4
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: navigation
+- datetime: 2024-12-23T18:01:18.003Z
+  text: Autopilot set to wind mode
+  author: ""
+  position:
+    latitude: 20.8895948
+    longitude: -20.6743568
+    source: GPS
+  heading: 246
+  course: 264
+  speed:
+    stw: 4.5
+    sog: 4.8
+  log: 8198.2
+  waypoint:
+    longitude: -21.01546
+    latitude: 21.24439
+  barometer: 1016.28
+  wind:
+    speed: 9.7
+    direction: 28
+  engine:
+    hours: 920.4
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: navigation
