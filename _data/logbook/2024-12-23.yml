@@ -1,3 +1,416 @@
+- datetime: 2024-12-23T00:00:23.100Z
+  text: "Bergie on watch "
+  author: bergie
+  position:
+    latitude: 22.1918749
+    longitude: -19.7363893
+    source: GPS
+  heading: 188
+  course: 188
+  speed:
+    stw: 5.8
+    sog: 7.2
+  log: 8101.6
+  waypoint:
+    longitude: -19.92756
+    latitude: 22.24906
+  barometer: 1022.1
+  wind:
+    speed: 26.4
+    direction: 32
+  engine:
+    hours: 920.4
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: navigation
+- datetime: 2024-12-23T01:00:24.500Z
+  text: ""
+  author: ""
+  position:
+    latitude: 22.1020946
+    longitude: -19.7661378
+    source: GPS
+  heading: 201
+  course: 216
+  speed:
+    stw: 4.7
+    sog: 7.4
+  log: 8107.2
+  waypoint:
+    longitude: -19.92756
+    latitude: 22.24906
+  barometer: 1021.43
+  wind:
+    speed: 23.4
+    direction: 48
+  engine:
+    hours: 920.4
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: navigation
+- datetime: 2024-12-23T01:11:25.500Z
+  text: Halfway point! 444NM to Mindelo
+  author: bergie
+  position:
+    latitude: 22.0864673
+    longitude: -19.7713438
+    source: GPS
+  heading: 196
+  course: 197
+  speed:
+    stw: 4.8
+    sog: 5.9
+  log: 8108.2
+  waypoint:
+    longitude: -20.01325
+    latitude: 22.16744
+  barometer: 1021.31
+  wind:
+    speed: 21.6
+    direction: 42
+  engine:
+    hours: 920.4
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: navigation
+  observations:
+    seaState: 4
+    cloudCoverage: 1
+- datetime: 2024-12-23T01:28:25.500Z
+  text: Moon is up
+  author: bergie
+  position:
+    latitude: 22.061406
+    longitude: -19.7811438
+    source: GPS
+  heading: 201
+  course: 212
+  speed:
+    stw: 4.6
+    sog: 6.9
+  log: 8109.8
+  waypoint:
+    longitude: -20.01325
+    latitude: 22.16744
+  barometer: 1021.13
+  wind:
+    speed: 21.6
+    direction: 49
+  engine:
+    hours: 920.4
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: navigation
+- datetime: 2024-12-23T01:51:25.500Z
+  text: Bioluminiscent plankton in the wake. Pretty!
+  author: bergie
+  position:
+    latitude: 22.0297326
+    longitude: -19.7970919
+    source: GPS
+  heading: 202
+  course: 214
+  speed:
+    stw: 5
+    sog: 8.7
+  log: 8111.9
+  waypoint:
+    longitude: -20.01325
+    latitude: 22.16744
+  barometer: 1020.95
+  wind:
+    speed: 22.2
+    direction: 40
+  engine:
+    hours: 920.4
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: navigation
+- datetime: 2024-12-23T02:00:26.500Z
+  text: ""
+  author: ""
+  position:
+    latitude: 22.0169088
+    longitude: -19.8032223
+    source: GPS
+  heading: 211
+  course: 223
+  speed:
+    stw: 4.9
+    sog: 5.9
+  log: 8112.8
+  waypoint:
+    longitude: -20.01325
+    latitude: 22.16744
+  barometer: 1020.86
+  wind:
+    speed: 21.5
+    direction: 55
+  engine:
+    hours: 920.4
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: navigation
+- datetime: 2024-12-23T03:00:26.500Z
+  text: ""
+  author: ""
+  position:
+    latitude: 21.9313899
+    longitude: -19.8467906
+    source: GPS
+  heading: 204
+  course: 201
+  speed:
+    stw: 4.8
+    sog: 7.2
+  log: 8118.5
+  waypoint:
+    longitude: -20.09802
+    latitude: 22.08625
+  barometer: 1020.58
+  wind:
+    speed: 21.6
+    direction: 46
+  engine:
+    hours: 920.4
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: navigation
+- datetime: 2024-12-23T03:15:51.500Z
+  text: "Sails set: Main (1st reef), Genoa 1 (40% furled), Staysail"
+  author: bergie
+  position:
+    latitude: 21.912983
+    longitude: -19.8613869
+    source: GPS
+  heading: 204
+  course: 193
+  speed:
+    stw: 5.1
+    sog: 5.7
+  log: 8119.9
+  waypoint:
+    longitude: -20.09802
+    latitude: 22.08625
+  barometer: 1020.4
+  wind:
+    speed: 21.4
+    direction: 66
+  engine:
+    hours: 920.4
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: navigation
+  observations:
+    seaState: 4
+    cloudCoverage: 2
+    visibility: 7
+- datetime: 2024-12-23T04:00:27.500Z
+  text: ""
+  author: ""
+  position:
+    latitude: 21.8434366
+    longitude: -19.8917886
+    source: GPS
+  heading: 202
+  course: 193
+  speed:
+    stw: 4.3
+    sog: 5.1
+  log: 8124.5
+  waypoint:
+    longitude: -20.18139
+    latitude: 22.00434
+  barometer: 1019.93
+  wind:
+    speed: 15.1
+    direction: 59
+  engine:
+    hours: 920.4
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: navigation
+- datetime: 2024-12-23T04:33:57.500Z
+  text: "Sails set: Main (1st reef), Genoa 1 (50% furled), Staysail. Gusting up to
+    26kt"
+  author: bergie
+  position:
+    latitude: 21.7867541
+    longitude: -19.9076869
+    source: GPS
+  heading: 194
+  course: 197
+  speed:
+    stw: 4.8
+    sog: 5.5
+  log: 8128
+  waypoint:
+    longitude: -20.18139
+    latitude: 22.00434
+  barometer: 1019.53
+  wind:
+    speed: 21.5
+    direction: 39
+  engine:
+    hours: 920.4
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: navigation
+- datetime: 2024-12-23T05:00:28.499Z
+  text: ""
+  author: ""
+  position:
+    latitude: 21.7483778
+    longitude: -19.9228886
+    source: GPS
+  heading: 201
+  course: 207
+  speed:
+    stw: 4.9
+    sog: 4.2
+  log: 8130.5
+  waypoint:
+    longitude: -20.2639
+    latitude: 21.92086
+  barometer: 1019.72
+  wind:
+    speed: 19
+    direction: 33
+  engine:
+    hours: 920.4
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: navigation
+- datetime: 2024-12-23T06:00:29.500Z
+  text: "Suski on watch "
+  author: ihmis-suski
+  position:
+    latitude: 21.6691935
+    longitude: -19.962906
+    source: GPS
+  heading: 209
+  course: 214
+  speed:
+    stw: 4.7
+    sog: 6.3
+  log: 8135.8
+  waypoint:
+    longitude: -20.2639
+    latitude: 21.92086
+  barometer: 1019.5
+  wind:
+    speed: 19.6
+    direction: 61
+  engine:
+    hours: 920.4
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: navigation
+- datetime: 2024-12-23T07:00:30.499Z
+  text: Sun is here again!
+  author: ihmis-suski
+  position:
+    latitude: 21.5993511
+    longitude: -20.0113208
+    source: GPS
+  heading: 214
+  course: 209
+  speed:
+    stw: 5.4
+    sog: 7.1
+  log: 8140.8
+  waypoint:
+    longitude: -20.34574
+    latitude: 21.83553
+  barometer: 1019.73
+  wind:
+    speed: 22.4
+    direction: 56
+  engine:
+    hours: 920.4
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: navigation
+- datetime: 2024-12-23T08:00:31.500Z
+  text: ""
+  author: ""
+  position:
+    latitude: 21.5354029
+    longitude: -20.0660664
+    source: GPS
+  heading: 223
+  course: 205
+  speed:
+    stw: 4.4
+    sog: 4.1
+  log: 8145.8
+  waypoint:
+    longitude: -20.42713
+    latitude: 21.74908
+  barometer: 1019.89
+  wind:
+    speed: 17.2
+    direction: 77
+  engine:
+    hours: 920.4
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: navigation
+- datetime: 2024-12-23T08:22:32.499Z
+  text: 1 plastic sail car is broken just above 3rd reef.
+  author: ihmis-suski
+  position:
+    latitude: 21.5136205
+    longitude: -20.0861048
+    source: GPS
+  heading: 212
+  course: 215
+  speed:
+    stw: 4.5
+    sog: 4.6
+  log: 8147.5
+  waypoint:
+    longitude: -20.42713
+    latitude: 21.74908
+  barometer: 1019.9
+  wind:
+    speed: 17.4
+    direction: 54
+  engine:
+    hours: 920.4
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: maintenance
 - datetime: 2024-12-23T09:17:16.499Z
   text: "Sails set: Main (1st reef), Genoa 1 (20% furled), Staysail"
   author: ""
@@ -18,33 +431,6 @@
   wind:
     speed: 11.9
     direction: 54
-  engine:
-    hours: 920.4
-  vhf: "16"
-  crewNames:
-    - ihmis-suski
-    - bergie
-  category: navigation
-- datetime: 2024-12-23T09:55:34.499Z
-  text: "1 plastic car in main above 3rd reef is broken. "
-  author: ihmis-suski
-  position:
-    latitude: 21.4201596
-    longitude: -20.1806983
-    source: GPS
-  heading: 232
-  course: 218
-  speed:
-    stw: 3.9
-    sog: 4.9
-  log: 8155.3
-  waypoint:
-    longitude: -20.50778
-    latitude: 21.66254
-  barometer: 1020.33
-  wind:
-    speed: 13
-    direction: 70
   engine:
     hours: 920.4
   vhf: "16"
