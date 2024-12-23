@@ -578,8 +578,8 @@
     - bergie
   category: navigation
 - datetime: 2024-12-23T15:16:21.702Z
-  text: "Sails set: Genoa 1, Staysail"
-  author: ""
+  text: "Sails set: Genoa 1, Staysail. Trying two poled out headsails"
+  author: bergie
   position:
     latitude: 21.0290301
     longitude: -20.5016834
@@ -597,6 +597,33 @@
   wind:
     speed: 14
     direction: 68
+  engine:
+    hours: 920.4
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: navigation
+- datetime: 2024-12-23T16:00:42.700Z
+  text: ""
+  author: ""
+  position:
+    latitude: 20.9834783
+    longitude: -20.5448663
+    source: GPS
+  heading: 220
+  course: 219
+  speed:
+    stw: 3.8
+    sog: 5.2
+  log: 8188.8
+  waypoint:
+    longitude: -20.93425
+    latitude: 21.31312
+  barometer: 1016.45
+  wind:
+    speed: 9.9
+    direction: 25
   engine:
     hours: 920.4
   vhf: "16"
