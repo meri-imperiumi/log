@@ -330,3 +330,30 @@
     - ihmis-suski
     - bergie
   category: navigation
+- datetime: 2024-12-23T07:00:30.499Z
+  text: Sun is here again!
+  author: ihmis-suski
+  position:
+    latitude: 21.5993511
+    longitude: -20.0113208
+    source: GPS
+  heading: 214
+  course: 209
+  speed:
+    stw: 5.4
+    sog: 7.1
+  log: 8140.8
+  waypoint:
+    longitude: -20.34574
+    latitude: 21.83553
+  barometer: 1019.73
+  wind:
+    speed: 22.4
+    direction: 56
+  engine:
+    hours: 920.4
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: navigation
