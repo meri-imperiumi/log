@@ -739,3 +739,60 @@
     - ihmis-suski
     - bergie
   category: navigation
+- datetime: 2024-12-23T18:59:45.100Z
+  text: Sun has set
+  author: ihmis-suski
+  position:
+    latitude: 20.8532824
+    longitude: -20.7542263
+    source: GPS
+  heading: 254
+  course: 244
+  speed:
+    stw: 3.4
+    sog: 4.6
+  log: 8203.2
+  waypoint:
+    longitude: -21.09613
+    latitude: 21.17763
+  barometer: 1016.51
+  wind:
+    speed: 11.2
+    direction: 52
+  engine:
+    hours: 920.4
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: navigation
+  observations:
+    seaState: 4
+    cloudCoverage: 1
+    visibility: 7
+- datetime: 2024-12-23T19:00:45.100Z
+  text: ""
+  author: ""
+  position:
+    latitude: 20.8528465
+    longitude: -20.7554846
+    source: GPS
+  heading: 238
+  course: 239
+  speed:
+    stw: 3.6
+    sog: 5.3
+  log: 8203.3
+  waypoint:
+    longitude: -21.09613
+    latitude: 21.17763
+  barometer: 1016.52
+  wind:
+    speed: 11.4
+    direction: 34
+  engine:
+    hours: 920.4
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
