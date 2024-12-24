@@ -302,3 +302,144 @@
   crewNames:
     - ihmis-suski
     - bergie
+  category: navigation
+- datetime: 2024-12-24T07:25:59.600Z
+  text: "Sails set: Genoa 1 (20% furled)"
+  author: ""
+  position:
+    latitude: 20.4077866
+    longitude: -21.4515431
+    source: GPS
+  heading: 250
+  course: 302
+  speed:
+    stw: 1.2
+    sog: 2.4
+  log: 8251.5
+  waypoint:
+    longitude: -21.70768
+    latitude: 20.62282
+  barometer: 1015.1
+  wind:
+    speed: 8.2
+    direction: 9
+  engine:
+    hours: 920.4
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: navigation
+- datetime: 2024-12-24T07:55:44.601Z
+  text: "Sails set: Genoa 1"
+  author: ""
+  position:
+    latitude: 20.4031064
+    longitude: -21.4676171
+    source: GPS
+  heading: 225
+  course: 252
+  speed:
+    stw: 1.6
+    sog: 2.7
+  log: 8252.4
+  waypoint:
+    longitude: -21.70768
+    latitude: 20.62282
+  barometer: 1015.25
+  wind:
+    speed: 7
+    direction: 26
+  engine:
+    hours: 920.4
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: navigation
+- datetime: 2024-12-24T07:58:01.600Z
+  text: Parasailor became too unruly to have up. Now I'm testing how long can I
+    run with the genoa and autopilot in wind angle mode. Hopefully the sea state
+    calms soon.
+  author: ihmis-suski
+  position:
+    latitude: 20.4021533
+    longitude: -21.4685658
+    source: GPS
+  heading: 224
+  course: 177
+  speed:
+    stw: 1.9
+    sog: 2.7
+  log: 8252.5
+  waypoint:
+    longitude: -21.70768
+    latitude: 20.62282
+  barometer: 1015.25
+  wind:
+    speed: 7.1
+    direction: 358
+  engine:
+    hours: 920.4
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: navigation
+  observations:
+    seaState: 3
+    cloudCoverage: 2
+    visibility: 7
+- datetime: 2024-12-24T07:59:00.601Z
+  text: Also, hello sun!
+  author: ihmis-suski
+  position:
+    latitude: 20.4016558
+    longitude: -21.4689666
+    source: GPS
+  heading: 221
+  course: 230
+  speed:
+    stw: 1.6
+    sog: 1.6
+  log: 8252.6
+  waypoint:
+    longitude: -21.70768
+    latitude: 20.62282
+  barometer: 1015.27
+  wind:
+    speed: 5.8
+    direction: 352
+  engine:
+    hours: 920.4
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: navigation
+- datetime: 2024-12-24T08:00:01.600Z
+  text: ""
+  author: ""
+  position:
+    latitude: 20.4012016
+    longitude: -21.4692681
+    source: GPS
+  heading: 212
+  course: 231
+  speed:
+    stw: 1.2
+    sog: 1.9
+  log: 8252.6
+  waypoint:
+    longitude: -21.70768
+    latitude: 20.62282
+  barometer: 1015.23
+  wind:
+    speed: 4.2
+    direction: 342
+  engine:
+    hours: 920.4
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
