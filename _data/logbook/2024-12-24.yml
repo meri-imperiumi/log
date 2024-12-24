@@ -1,0 +1,31 @@
+- datetime: 2024-12-24T00:00:52.100Z
+  text: Bergie on watch. Starry night.
+  author: bergie
+  position:
+    latitude: 20.6509078
+    longitude: -21.1142786
+    source: GPS
+  heading: 235
+  course: 253
+  speed:
+    stw: 3.9
+    sog: 4.8
+  log: 8227
+  waypoint:
+    longitude: -21.40151
+    latitude: 20.90499
+  barometer: 1017.17
+  wind:
+    speed: 12.2
+    direction: 35
+  engine:
+    hours: 920.4
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: navigation
+  observations:
+    seaState: 4
+    cloudCoverage: 0
+    visibility: 7
