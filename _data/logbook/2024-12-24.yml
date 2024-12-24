@@ -749,3 +749,58 @@
     - ihmis-suski
     - bergie
   category: navigation
+- datetime: 2024-12-24T15:00:45.702Z
+  text: ""
+  author: ""
+  position:
+    latitude: 20.0786729
+    longitude: -21.8014166
+    source: GPS
+  heading: 232
+  course: 213
+  speed:
+    stw: 4.1
+    sog: 5.4
+  log: 8279.9
+  waypoint:
+    longitude: -22.0891
+    latitude: 20.25596
+  barometer: 1013.43
+  wind:
+    speed: 2.9
+    direction: 256
+  engine:
+    hours: 925
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: navigation
+- datetime: 2024-12-24T15:16:44.800Z
+  text: Replaced the broken mast car. The new one is a very tight fit, maybe
+    increasing friction hoisting/lowering the sail
+  author: bergie
+  position:
+    latitude: 20.0620288
+    longitude: -21.8164485
+    source: GPS
+  heading: 231
+  course: 225
+  speed:
+    stw: 4.3
+    sog: 4.7
+  log: 8281.2
+  waypoint:
+    longitude: -22.0891
+    latitude: 20.25596
+  barometer: 1013.41
+  wind:
+    speed: 2.3
+    direction: 261
+  engine:
+    hours: 925.3
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: maintenance
