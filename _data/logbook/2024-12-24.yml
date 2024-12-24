@@ -194,3 +194,58 @@
     - ihmis-suski
     - bergie
   category: navigation
+- datetime: 2024-12-24T05:00:58.200Z
+  text: ""
+  author: ""
+  position:
+    latitude: 20.4687681
+    longitude: -21.3771408
+    source: GPS
+  heading: 219
+  course: 217
+  speed:
+    stw: 3.4
+    sog: 2.1
+  log: 8245.7
+  waypoint:
+    longitude: -21.62805
+    latitude: 20.69922
+  barometer: 1015.02
+  wind:
+    speed: 7.6
+    direction: 5
+  engine:
+    hours: 920.4
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: navigation
+- datetime: 2024-12-24T05:13:58.200Z
+  text: Wind is starting to drop too low for sails. Let's see how that develops.
+    Some 10h earlier than forecast
+  author: bergie
+  position:
+    latitude: 20.4600179
+    longitude: -21.3834881
+    source: GPS
+  heading: 209
+  course: 225
+  speed:
+    stw: 1.8
+    sog: 2.3
+  log: 8246.4
+  waypoint:
+    longitude: -21.70768
+    latitude: 20.62282
+  barometer: 1014.96
+  wind:
+    speed: 5.5
+    direction: 45
+  engine:
+    hours: 920.4
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: navigation
