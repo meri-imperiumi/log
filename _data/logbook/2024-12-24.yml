@@ -884,3 +884,89 @@
   crewNames:
     - ihmis-suski
     - bergie
+  category: navigation
+- datetime: 2024-12-24T18:00:30.796Z
+  text: "Suski on watch "
+  author: ihmis-suski
+  position:
+    latitude: 19.9337346
+    longitude: -21.9124118
+    source: GPS
+  heading: 210
+  course: 182
+  speed:
+    stw: 1.6
+    sog: 2.3
+  log: 8290.7
+  waypoint:
+    longitude: -22.15945
+    latitude: 20.18452
+  barometer: 1013.95
+  wind:
+    speed: 5.4
+    direction: 311
+  engine:
+    hours: 926.4
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: navigation
+  observations:
+    seaState: 3
+    cloudCoverage: 4
+    visibility: 7
+- datetime: 2024-12-24T18:27:41.798Z
+  text: Sails down, motoring
+  author: ""
+  position:
+    latitude: 19.9216786
+    longitude: -21.9174026
+    source: GPS
+  heading: 195
+  course: 181
+  speed:
+    stw: 0.7
+    sog: 1.2
+  log: 8291.5
+  waypoint:
+    longitude: -22.15945
+    latitude: 20.18452
+  barometer: 1013.98
+  wind:
+    speed: 3.8
+    direction: 274
+  engine:
+    hours: 926.4
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: navigation
+- datetime: 2024-12-24T18:54:26.803Z
+  text: Sun has set.
+  author: ihmis-suski
+  position:
+    latitude: 19.8924661
+    longitude: -21.9373878
+    source: GPS
+  heading: 227
+  course: 225
+  speed:
+    stw: 4.1
+    sog: 5.4
+  log: 8293.6
+  waypoint:
+    longitude: -22.23902
+    latitude: 20.12421
+  barometer: 1014.27
+  wind:
+    speed: 1.2
+    direction: 238
+  engine:
+    hours: 926.8
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: navigation
