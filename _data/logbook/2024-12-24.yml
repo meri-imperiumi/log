@@ -695,3 +695,57 @@
     seaState: 4
     cloudCoverage: 4
     visibility: 7
+- datetime: 2024-12-24T14:00:44.700Z
+  text: Some fish leaping high into the air near the boat
+  author: bergie
+  position:
+    latitude: 20.1393851
+    longitude: -21.7441075
+    source: GPS
+  heading: 221
+  course: 221
+  speed:
+    stw: 4.1
+    sog: 4.6
+  log: 8275
+  waypoint:
+    longitude: -22.01631
+    latitude: 20.32859
+  barometer: 1013.88
+  wind:
+    speed: 0.9
+    direction: 231
+  engine:
+    hours: 924.3
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: navigation
+- datetime: 2024-12-24T14:29:44.700Z
+  text: "Couple of dolphins, big ones, but they didn't linger long "
+  author: bergie
+  position:
+    latitude: 20.1105893
+    longitude: -21.7712846
+    source: GPS
+  heading: 221
+  course: 225
+  speed:
+    stw: 4.1
+    sog: 5.2
+  log: 8277.3
+  waypoint:
+    longitude: -22.01631
+    latitude: 20.32859
+  barometer: 1013.56
+  wind:
+    speed: 0.8
+    direction: 228
+  engine:
+    hours: 924.8
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: navigation
