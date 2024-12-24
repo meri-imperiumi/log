@@ -443,3 +443,111 @@
   crewNames:
     - ihmis-suski
     - bergie
+  category: navigation
+- datetime: 2024-12-24T09:00:02.598Z
+  text: ""
+  author: ""
+  position:
+    latitude: 20.3792059
+    longitude: -21.4959728
+    source: GPS
+  heading: 243
+  course: 281
+  speed:
+    stw: 1.2
+    sog: 1.7
+  log: 8254.7
+  waypoint:
+    longitude: -21.78719
+    latitude: 20.54883
+  barometer: 1015.52
+  wind:
+    speed: 5.3
+    direction: 33
+  engine:
+    hours: 920.4
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: navigation
+- datetime: 2024-12-24T09:26:10.598Z
+  text: Autopilot deactivated
+  author: ""
+  position:
+    latitude: 20.3710654
+    longitude: -21.5075386
+    source: GPS
+  heading: 246
+  course: 235
+  speed:
+    stw: 1.7
+    sog: 1.7
+  log: 8255.5
+  waypoint:
+    longitude: -21.78719
+    latitude: 20.54883
+  barometer: 1015.75
+  wind:
+    speed: 5.9
+    direction: 43
+  engine:
+    hours: 920.4
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: navigation
+- datetime: 2024-12-24T09:26:14.598Z
+  text: Autopilot set to wind mode
+  author: ""
+  position:
+    latitude: 20.3710506
+    longitude: -21.5075834
+    source: GPS
+  heading: 251
+  course: 268
+  speed:
+    stw: 1.7
+    sog: 1.9
+  log: 8255.5
+  waypoint:
+    longitude: -21.78719
+    latitude: 20.54883
+  barometer: 1015.75
+  wind:
+    speed: 6.4
+    direction: 47
+  engine:
+    hours: 920.4
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: navigation
+- datetime: 2024-12-24T10:00:03.600Z
+  text: ""
+  author: ""
+  position:
+    latitude: 20.3655021
+    longitude: -21.5237169
+    source: GPS
+  heading: 258
+  course: 250
+  speed:
+    stw: 1.7
+    sog: 2.5
+  log: 8256.5
+  waypoint:
+    longitude: -21.78719
+    latitude: 20.54883
+  barometer: 1016.01
+  wind:
+    speed: 7.3
+    direction: 57
+  engine:
+    hours: 920.4
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
