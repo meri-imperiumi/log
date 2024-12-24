@@ -29,3 +29,57 @@
     seaState: 4
     cloudCoverage: 0
     visibility: 7
+- datetime: 2024-12-24T01:00:53.100Z
+  text: ""
+  author: ""
+  position:
+    latitude: 20.6154086
+    longitude: -21.1788501
+    source: GPS
+  heading: 252
+  course: 243
+  speed:
+    stw: 3.4
+    sog: 5.5
+  log: 8231.2
+  waypoint:
+    longitude: -21.47867
+    latitude: 20.83784
+  barometer: 1016.73
+  wind:
+    speed: 11.3
+    direction: 52
+  engine:
+    hours: 920.4
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: navigation
+- datetime: 2024-12-24T01:03:53.100Z
+  text: Took up the hydrogenerator. Winds are low now, do it was just producing drag
+  author: bergie
+  position:
+    latitude: 20.6142225
+    longitude: -21.1821808
+    source: GPS
+  heading: 238
+  course: 243
+  speed:
+    stw: 3.9
+    sog: 4.9
+  log: 8231.4
+  waypoint:
+    longitude: -21.47867
+    latitude: 20.83784
+  barometer: 1016.72
+  wind:
+    speed: 9.2
+    direction: 44
+  engine:
+    hours: 920.4
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: navigation
