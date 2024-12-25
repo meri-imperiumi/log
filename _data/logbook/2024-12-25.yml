@@ -56,3 +56,57 @@
     - ihmis-suski
     - bergie
   category: navigation
+- datetime: 2024-12-25T01:00:33.300Z
+  text: ""
+  author: ""
+  position:
+    latitude: 19.6758239
+    longitude: -22.2043076
+    source: GPS
+  heading: 236
+  course: 235
+  speed:
+    stw: 4.2
+    sog: 4
+  log: 8313.7
+  waypoint:
+    longitude: -22.51831
+    latitude: 19.79295
+  barometer: 1015.79
+  wind:
+    speed: 3.7
+    direction: 286
+  engine:
+    hours: 929
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: navigation
+- datetime: 2024-12-25T01:16:34.300Z
+  text: It is raining softly
+  author: bergie
+  position:
+    latitude: 19.6632131
+    longitude: -22.2205991
+    source: GPS
+  heading: 232
+  course: 227
+  speed:
+    stw: 4.4
+    sog: 4
+  log: 8314.9
+  waypoint:
+    longitude: -22.51831
+    latitude: 19.79295
+  barometer: 1015.62
+  wind:
+    speed: 2.6
+    direction: 301
+  engine:
+    hours: 929.3
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: navigation
