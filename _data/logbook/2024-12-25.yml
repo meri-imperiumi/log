@@ -519,3 +519,62 @@
   crewNames:
     - ihmis-suski
     - bergie
+  category: navigation
+- datetime: 2024-12-25T12:00:41.798Z
+  text: Bergie on watch
+  author: bergie
+  position:
+    latitude: 19.2169373
+    longitude: -22.8885078
+    source: GPS
+  heading: 238
+  course: 237
+  speed:
+    stw: 1.5
+    sog: 2.1
+  log: 8361.6
+  waypoint:
+    longitude: -22.96036
+    latitude: 19.22997
+  barometer: 1018.13
+  wind:
+    speed: 12.3
+    direction: 11
+  engine:
+    hours: 930.5
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: navigation
+  observations:
+    seaState: 3
+    cloudCoverage: 2
+    visibility: 7
+- datetime: 2024-12-25T12:03:51.801Z
+  text: "Sails set: Parasailor"
+  author: ""
+  position:
+    latitude: 19.2146816
+    longitude: -22.8906503
+    source: GPS
+  heading: 229
+  course: 224
+  speed:
+    stw: 3.4
+    sog: 4.4
+  log: 8361.7
+  waypoint:
+    longitude: -22.96036
+    latitude: 19.22997
+  barometer: 1018.17
+  wind:
+    speed: 9.8
+    direction: 12
+  engine:
+    hours: 930.5
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: navigation
