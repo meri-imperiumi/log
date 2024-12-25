@@ -164,3 +164,57 @@
     - ihmis-suski
     - bergie
   category: navigation
+- datetime: 2024-12-25T03:00:36.300Z
+  text: ""
+  author: ""
+  position:
+    latitude: 19.589360809326173
+    longitude: -22.32574717203776
+    source: GPS
+  heading: 238
+  course: 229
+  speed:
+    stw: 3.4
+    sog: 4.2
+  log: 8322.4
+  waypoint:
+    longitude: -22.56559
+    latitude: 19.72902
+  barometer: 1015.31
+  wind:
+    speed: 7.1
+    direction: 306
+  engine:
+    hours: 930.5
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: navigation
+- datetime: 2024-12-25T03:13:36.300Z
+  text: "Moon is rising, a red upturned crescent "
+  author: bergie
+  position:
+    latitude: 19.5797639
+    longitude: -22.3392353
+    source: GPS
+  heading: 235
+  course: 228
+  speed:
+    stw: 3.8
+    sog: 4
+  log: 8323.3
+  waypoint:
+    longitude: -22.56559
+    latitude: 19.72902
+  barometer: 1015.15
+  wind:
+    speed: 9.2
+    direction: 306
+  engine:
+    hours: 930.5
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: navigation
