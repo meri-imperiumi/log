@@ -218,3 +218,58 @@
     - ihmis-suski
     - bergie
   category: navigation
+- datetime: 2024-12-25T04:00:37.299Z
+  text: ""
+  author: ""
+  position:
+    latitude: 19.5465848
+    longitude: -22.3853494
+    source: GPS
+  heading: 236
+  course: 228
+  speed:
+    stw: 3.3
+    sog: 4.2
+  log: 8326.6
+  waypoint:
+    longitude: -22.61287
+    latitude: 19.66508
+  barometer: 1014.98
+  wind:
+    speed: 8.3
+    direction: 311
+  engine:
+    hours: 930.5
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: navigation
+- datetime: 2024-12-25T04:42:38.300Z
+  text: Dolphins in the dark, disturbing the bioluminescence. Flying fish
+    scurrying away in panic
+  author: bergie
+  position:
+    latitude: 19.5159284
+    longitude: -22.4260985
+    source: GPS
+  heading: 233
+  course: 230
+  speed:
+    stw: 3.4
+    sog: 3.3
+  log: 8329.5
+  waypoint:
+    longitude: -22.66012
+    latitude: 19.60115
+  barometer: 1014.85
+  wind:
+    speed: 10.3
+    direction: 322
+  engine:
+    hours: 930.5
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: navigation
