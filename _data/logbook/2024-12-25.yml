@@ -1,0 +1,58 @@
+- datetime: 2024-12-25T00:00:32.300Z
+  text: Bergie on watch. Lot drier air tonight means more stars visible
+  author: bergie
+  position:
+    latitude: 19.7102276
+    longitude: -22.1534336
+    source: GPS
+  heading: 236
+  course: 255
+  speed:
+    stw: 2.2
+    sog: 3.4
+  log: 8310.2
+  waypoint:
+    longitude: -22.47099
+    latitude: 19.85688
+  barometer: 1016.16
+  wind:
+    speed: 4.7
+    direction: 310
+  engine:
+    hours: 928.4
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: navigation
+  observations:
+    seaState: 3
+    cloudCoverage: 1
+    visibility: 7
+- datetime: 2024-12-25T00:20:17.300Z
+  text: Sails down, motoring
+  author: ""
+  position:
+    latitude: 19.7039341
+    longitude: -22.1621028
+    source: GPS
+  heading: 239
+  course: 235
+  speed:
+    stw: 1
+    sog: 1.2
+  log: 8310.8
+  waypoint:
+    longitude: -22.47099
+    latitude: 19.85688
+  barometer: 1016.1
+  wind:
+    speed: 3.5
+    direction: 320
+  engine:
+    hours: 928.4
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: navigation
