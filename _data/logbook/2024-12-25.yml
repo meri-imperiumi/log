@@ -987,107 +987,53 @@
     - ihmis-suski
     - bergie
   category: navigation
-- datetime: 2024-12-25T22:11:11.398Z
-  text: Autopilot deactivated
+- datetime: 2024-12-25T23:00:09.401Z
+  text: ""
   author: ""
   position:
-    latitude: 18.7659158
-    longitude: -23.3779603
+    latitude: 18.7150119
+    longitude: -23.3920451
     source: GPS
-  heading: 197
-  course: 192
-  speed:
-    stw: 3.6
-    sog: 4.4
-  log: 8400.9
-  waypoint:
-    longitude: -23.38239
-    latitude: 18.75163
-  barometer: 1018.59
-  wind:
-    speed: 9.9
-    direction: 38
-  engine:
-    hours: 930.5
-  vhf: "16"
-  crewNames:
-    - ihmis-suski
-    - bergie
-  category: navigation
-- datetime: 2024-12-25T22:11:15.398Z
-  text: Autopilot set to wind mode
-  author: ""
-  position:
-    latitude: 18.7658423
-    longitude: -23.3779881
-    source: GPS
-  heading: 194
-  course: 197
-  speed:
-    stw: 3.4
-    sog: 3.9
-  log: 8400.9
-  waypoint:
-    longitude: -23.38239
-    latitude: 18.75163
-  barometer: 1018.59
-  wind:
-    speed: 9.4
-    direction: 39
-  engine:
-    hours: 930.5
-  vhf: "16"
-  crewNames:
-    - ihmis-suski
-    - bergie
-  category: navigation
-- datetime: 2024-12-25T22:48:01.401Z
-  text: Autopilot activated
-  author: ""
-  position:
-    latitude: 18.7261806
-    longitude: -23.3900714
-    source: GPS
-  heading: 207
-  course: 200
-  speed:
-    stw: 3.1
-    sog: 4.5
-  log: 8403.5
-  waypoint:
-    longitude: -23.43506
-    latitude: 18.69183
-  barometer: 1018.98
-  wind:
-    speed: 9.2
-    direction: 70
-  engine:
-    hours: 930.5
-  vhf: "16"
-  crewNames:
-    - ihmis-suski
-    - bergie
-  category: navigation
-- datetime: 2024-12-25T22:48:03.398Z
-  text: Autopilot set to wind mode
-  author: ""
-  position:
-    latitude: 18.7261536
-    longitude: -23.3900991
-    source: GPS
-  heading: 206
-  course: 232
+  heading: 176
+  course: 180
   speed:
     stw: 3.2
-    sog: 3.5
-  log: 8403.5
+    sog: 3.2
+  log: 8404.2
   waypoint:
     longitude: -23.43506
     latitude: 18.69183
-  barometer: 1018.98
+  barometer: 1018.95
   wind:
-    speed: 7.5
-    direction: 43
+    speed: 9.2
+    direction: 37
+  engine:
+    hours: 930.5
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: navigation
+- datetime: 2024-12-25T23:55:09.401Z
+  text: Gybed the Parasailor due to wind shift, back to port tack
+  author: bergie
+  position:
+    latitude: 18.6677609761556
+    longitude: -23.403572495778402
+    source: GPS
+  heading: 221
+  course: 217
+  speed:
+    stw: 3.7
+    sog: 5.2
+  log: 8407.1
+  waypoint:
+    longitude: -23.43506
+    latitude: 18.69183
+  barometer: 1018.99
+  wind:
+    speed: 10.7
+    direction: 355
   engine:
     hours: 930.5
   vhf: "16"
