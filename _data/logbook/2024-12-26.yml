@@ -300,3 +300,58 @@
     - ihmis-suski
     - bergie
   category: navigation
+- datetime: 2024-12-26T07:00:58.899Z
+  text: ""
+  author: ""
+  position:
+    latitude: 18.3890233
+    longitude: -23.8107576
+    source: GPS
+  heading: 230
+  course: 231
+  speed:
+    stw: 4.3
+    sog: 4.6
+  log: 8436.2
+  waypoint:
+    longitude: -23.75067
+    latitude: 18.33306
+  barometer: 1017.82
+  wind:
+    speed: 11.2
+    direction: 76
+  engine:
+    hours: 930.5
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: navigation
+- datetime: 2024-12-26T07:55:56.899Z
+  text: Regatta mode activated! We are creating a gap between us and the Dove.
+    It's not the size but how much sails you have up!
+  author: ihmis-suski
+  position:
+    latitude: 18.3307589
+    longitude: -23.8488239
+    source: GPS
+  heading: 212
+  course: 223
+  speed:
+    stw: 4.3
+    sog: 5.6
+  log: 8440.3
+  waypoint:
+    longitude: -23.80321
+    latitude: 18.27326
+  barometer: 1018.06
+  wind:
+    speed: 13.1
+    direction: 61
+  engine:
+    hours: 930.5
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: navigation
