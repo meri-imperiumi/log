@@ -355,3 +355,89 @@
     - ihmis-suski
     - bergie
   category: navigation
+- datetime: 2024-12-26T08:00:56.899Z
+  text: ""
+  author: ""
+  position:
+    latitude: 18.325527
+    longitude: -23.8532348
+    source: GPS
+  heading: 210
+  course: 215
+  speed:
+    stw: 4
+    sog: 5.1
+  log: 8440.7
+  waypoint:
+    longitude: -23.80321
+    latitude: 18.27326
+  barometer: 1018.03
+  wind:
+    speed: 12
+    direction: 86
+  engine:
+    hours: 930.5
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: navigation
+- datetime: 2024-12-26T08:05:56.899Z
+  text: Dove went from doing 4 knots to 8 knots. Apparently they are now also in
+    the regatta and pulled up more sails with the rising sun.
+  author: ihmis-suski
+  position:
+    latitude: 18.3200103
+    longitude: -23.8572688
+    source: GPS
+  heading: 208
+  course: 207
+  speed:
+    stw: 4.3
+    sog: 4
+  log: 8441.1
+  waypoint:
+    longitude: -23.80321
+    latitude: 18.27326
+  barometer: 1018.08
+  wind:
+    speed: 9.4
+    direction: 64
+  engine:
+    hours: 930.5
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: navigation
+- datetime: 2024-12-26T08:09:56.899Z
+  text: Sun is up
+  author: ihmis-suski
+  position:
+    latitude: 18.3160036
+    longitude: -23.8603426
+    source: GPS
+  heading: 216
+  course: 217
+  speed:
+    stw: 3.7
+    sog: 4.7
+  log: 8441.4
+  waypoint:
+    longitude: -23.85572
+    latitude: 18.21346
+  barometer: 1018.17
+  wind:
+    speed: 12.8
+    direction: 68
+  engine:
+    hours: 930.5
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: navigation
+  observations:
+    seaState: 3
+    cloudCoverage: 5
+    visibility: 8
