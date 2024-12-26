@@ -988,3 +988,87 @@
   crewNames:
     - ihmis-suski
     - bergie
+  category: navigation
+- datetime: 2024-12-26T22:00:16.499Z
+  text: ""
+  author: ""
+  position:
+    latitude: 17.4726126
+    longitude: -24.4996481
+    source: GPS
+  heading: 233
+  course: 223
+  speed:
+    stw: 4.1
+    sog: 3.8
+  log: 8505.3
+  waypoint:
+    longitude: -24.53688
+    latitude: 17.43606
+  barometer: 1017.02
+  wind:
+    speed: 11.7
+    direction: 74
+  engine:
+    hours: 930.5
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: navigation
+- datetime: 2024-12-26T22:35:15.596Z
+  text: Faint glow of light pollution ahead!
+  author: ihmis-suski
+  position:
+    latitude: 17.4419506
+    longitude: -24.5359399
+    source: GPS
+  heading: 223
+  course: 218
+  speed:
+    stw: 4.3
+    sog: 4.8
+  log: 8508.1
+  waypoint:
+    longitude: -24.53688
+    latitude: 17.43606
+  barometer: 1019.19
+  wind:
+    speed: 13.8
+    direction: 77
+  engine:
+    hours: 930.5
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: navigation
+- datetime: 2024-12-26T22:51:09.600Z
+  text: |-
+    Sails set: Main, Genoa 1 (60% furled)
+    Time to start slowing down for daytime arrival.
+  author: ihmis-suski
+  position:
+    latitude: 17.4258461
+    longitude: -24.5499973
+    source: GPS
+  heading: 232
+  course: 245
+  speed:
+    stw: 3.6
+    sog: 4.4
+  log: 8509.4
+  waypoint:
+    longitude: -24.58916
+    latitude: 17.37626
+  barometer: 1019.44
+  wind:
+    speed: 14.8
+    direction: 90
+  engine:
+    hours: 930.5
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: navigation
