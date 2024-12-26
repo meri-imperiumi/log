@@ -220,7 +220,7 @@
     - bergie
   category: navigation
 - datetime: 2024-12-26T06:00:00.899Z
-  text: Suski on watch. Gybed to starboatack with Bergie.
+  text: Suski on watch. Gybed to starboard tack with Bergie.
   author: ihmis-suski
   position:
     latitude: 18.4420905
@@ -239,60 +239,6 @@
   wind:
     speed: 9.8
     direction: 72
-  engine:
-    hours: 930.5
-  vhf: "16"
-  crewNames:
-    - ihmis-suski
-    - bergie
-  category: navigation
-- datetime: 2024-12-26T06:20:29.900Z
-  text: Autopilot deactivated
-  author: ""
-  position:
-    latitude: 18.4261981
-    longitude: -23.7760395
-    source: GPS
-  heading: 208
-  course: 215
-  speed:
-    stw: 3.2
-    sog: 3.4
-  log: 8433.2
-  waypoint:
-    longitude: -23.75067
-    latitude: 18.33306
-  barometer: 1017.68
-  wind:
-    speed: 8.8
-    direction: 27
-  engine:
-    hours: 930.5
-  vhf: "16"
-  crewNames:
-    - ihmis-suski
-    - bergie
-  category: navigation
-- datetime: 2024-12-26T06:20:31.900Z
-  text: Autopilot set to wind mode
-  author: ""
-  position:
-    latitude: 18.4261656
-    longitude: -23.7760523
-    source: GPS
-  heading: 208
-  course: 206
-  speed:
-    stw: 3.1
-    sog: 4
-  log: 8433.2
-  waypoint:
-    longitude: -23.75067
-    latitude: 18.33306
-  barometer: 1017.68
-  wind:
-    speed: 9.8
-    direction: 52
   engine:
     hours: 930.5
   vhf: "16"
@@ -569,6 +515,33 @@
   wind:
     speed: 12.3
     direction: 66
+  engine:
+    hours: 930.5
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: navigation
+- datetime: 2024-12-26T11:00:53.900Z
+  text: ""
+  author: ""
+  position:
+    latitude: 18.123398
+    longitude: -23.967148
+    source: GPS
+  heading: 209
+  course: 205
+  speed:
+    stw: 4.6
+    sog: 5.4
+  log: 8454.7
+  waypoint:
+    longitude: -23.96072
+    latitude: 18.09387
+  barometer: 1019.62
+  wind:
+    speed: 14
+    direction: 57
   engine:
     hours: 930.5
   vhf: "16"
