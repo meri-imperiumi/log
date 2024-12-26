@@ -495,3 +495,84 @@
     - ihmis-suski
     - bergie
   category: navigation
+- datetime: 2024-12-26T10:00:53.900Z
+  text: ""
+  author: ""
+  position:
+    latitude: 18.1942953
+    longitude: -23.9325128
+    source: GPS
+  heading: 198
+  course: 211
+  speed:
+    stw: 4
+    sog: 4.9
+  log: 8450
+  waypoint:
+    longitude: -23.90824
+    latitude: 18.15366
+  barometer: 1019.32
+  wind:
+    speed: 12.3
+    direction: 72
+  engine:
+    hours: 930.5
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: navigation
+- datetime: 2024-12-26T10:18:52.899Z
+  text: Favorable current is back. 1.1 kn behind us.
+  author: ihmis-suski
+  position:
+    latitude: 18.1719189
+    longitude: -23.9419776
+    source: GPS
+  heading: 191
+  course: 181
+  speed:
+    stw: 4
+    sog: 4.6
+  log: 8451.4
+  waypoint:
+    longitude: -23.96072
+    latitude: 18.09387
+  barometer: 1019.37
+  wind:
+    speed: 14.3
+    direction: 65
+  engine:
+    hours: 930.5
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: navigation
+- datetime: 2024-12-26T10:26:52.899Z
+  text: "Double digits: 99 to go!"
+  author: ihmis-suski
+  position:
+    latitude: 18.1617578
+    longitude: -23.9449691
+    source: GPS
+  heading: 190
+  course: 186
+  speed:
+    stw: 4.1
+    sog: 3.8
+  log: 8452.1
+  waypoint:
+    longitude: -23.96072
+    latitude: 18.09387
+  barometer: 1019.49
+  wind:
+    speed: 12.3
+    direction: 66
+  engine:
+    hours: 930.5
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: navigation
