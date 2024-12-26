@@ -110,3 +110,58 @@
     seaState: 3
     cloudCoverage: 6
     visibility: 7
+- datetime: 2024-12-26T04:00:02.800Z
+  text: ""
+  author: ""
+  position:
+    latitude: 18.5261919
+    longitude: -23.6265118
+    source: GPS
+  heading: 220
+  course: 211
+  speed:
+    stw: 4.4
+    sog: 4.7
+  log: 8422.6
+  waypoint:
+    longitude: -23.64555
+    latitude: 18.45265
+  barometer: 1017.66
+  wind:
+    speed: 12.2
+    direction: 7
+  engine:
+    hours: 930.5
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: navigation
+- datetime: 2024-12-26T04:38:01.800Z
+  text: This 16m sailboat Dove will be passing us. Now at 6NM distance is can
+    finally see their lights when standing up
+  author: bergie
+  position:
+    latitude: 18.4956333
+    longitude: -23.6657665
+    source: GPS
+  heading: 235
+  course: 238
+  speed:
+    stw: 3.3
+    sog: 3.5
+  log: 8425.6
+  waypoint:
+    longitude: -23.64555
+    latitude: 18.45265
+  barometer: 1017.7
+  wind:
+    speed: 8.6
+    direction: 19
+  engine:
+    hours: 930.5
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: navigation
