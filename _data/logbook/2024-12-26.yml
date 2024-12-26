@@ -165,3 +165,57 @@
     - ihmis-suski
     - bergie
   category: navigation
+- datetime: 2024-12-26T05:00:00.899Z
+  text: ""
+  author: ""
+  position:
+    latitude: 18.4801473
+    longitude: -23.6899883
+    source: GPS
+  heading: 228
+  course: 217
+  speed:
+    stw: 4.3
+    sog: 4.3
+  log: 8427.3
+  waypoint:
+    longitude: -23.69812
+    latitude: 18.39286
+  barometer: 1017.7
+  wind:
+    speed: 9.2
+    direction: 41
+  engine:
+    hours: 930.5
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: navigation
+- datetime: 2024-12-26T05:27:59.900Z
+  text: A freighter is passing us port to port. Can see their lights at 11NM
+  author: bergie
+  position:
+    latitude: 18.4612585
+    longitude: -23.7217355
+    source: GPS
+  heading: 239
+  course: 238
+  speed:
+    stw: 4.5
+    sog: 5.5
+  log: 8429.4
+  waypoint:
+    longitude: -23.69812
+    latitude: 18.39286
+  barometer: 1017.72
+  wind:
+    speed: 11.3
+    direction: 43
+  engine:
+    hours: 930.5
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: navigation
