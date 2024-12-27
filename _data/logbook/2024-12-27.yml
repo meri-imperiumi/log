@@ -247,3 +247,84 @@
     - ihmis-suski
     - bergie
   category: navigation
+- datetime: 2024-12-27T05:00:07.000Z
+  text: ""
+  author: ""
+  position:
+    latitude: 17.1172935
+    longitude: -24.8162815
+    source: GPS
+  heading: 211
+  course: 233
+  speed:
+    stw: 3.9
+    sog: 4.6
+  log: 8533.8
+  waypoint:
+    longitude: -24.85028
+    latitude: 17.07724
+  barometer: 1017.62
+  wind:
+    speed: 14.9
+    direction: 68
+  engine:
+    hours: 930.5
+  vhf: "72"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: navigation
+- datetime: 2024-12-27T05:45:03.000Z
+  text: Autopilot activated
+  author: ""
+  position:
+    latitude: 17.0790721
+    longitude: -24.8459298
+    source: GPS
+  heading: 223
+  course: 230
+  speed:
+    stw: 3
+    sog: 3.9
+  log: 8536.7
+  waypoint:
+    longitude: -24.85028
+    latitude: 17.07724
+  barometer: 1017.6
+  wind:
+    speed: 12.5
+    direction: 89
+  engine:
+    hours: 930.5
+  vhf: "72"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: navigation
+- datetime: 2024-12-27T05:46:06.000Z
+  text: "Suski on watch "
+  author: ihmis-suski
+  position:
+    latitude: 17.0783191
+    longitude: -24.8468136
+    source: GPS
+  heading: 224
+  course: 247
+  speed:
+    stw: 3.3
+    sog: 3.5
+  log: 8536.7
+  waypoint:
+    longitude: -24.85028
+    latitude: 17.07724
+  barometer: 1017.59
+  wind:
+    speed: 12.3
+    direction: 69
+  engine:
+    hours: 930.5
+  vhf: "72"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: navigation
