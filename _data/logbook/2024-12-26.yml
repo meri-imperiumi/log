@@ -1072,3 +1072,57 @@
     - ihmis-suski
     - bergie
   category: navigation
+- datetime: 2024-12-26T23:00:15.603Z
+  text: ""
+  author: ""
+  position:
+    latitude: 17.4167678
+    longitude: -24.5572563
+    source: GPS
+  heading: 217
+  course: 225
+  speed:
+    stw: 3.9
+    sog: 4.8
+  log: 8510.1
+  waypoint:
+    longitude: -24.58916
+    latitude: 17.37626
+  barometer: 1019.44
+  wind:
+    speed: 16.4
+    direction: 83
+  engine:
+    hours: 930.5
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: navigation
+- datetime: 2024-12-26T23:49:47.596Z
+  text: "Sails set: Main"
+  author: ""
+  position:
+    latitude: 17.376626
+    longitude: -24.6008553
+    source: GPS
+  heading: 207
+  course: 212
+  speed:
+    stw: 3.7
+    sog: 4.3
+  log: 8513.6
+  waypoint:
+    longitude: -24.64141
+    latitude: 17.31645
+  barometer: 1019.48
+  wind:
+    speed: 15.7
+    direction: 94
+  engine:
+    hours: 930.5
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: navigation
