@@ -52,3 +52,117 @@
     - ihmis-suski
     - bergie
   category: navigation
+- datetime: 2024-12-27T01:00:11.600Z
+  text: ""
+  author: ""
+  position:
+    latitude: 17.3150884
+    longitude: -24.6413823
+    source: GPS
+  heading: 194
+  course: 218
+  speed:
+    stw: 3.6
+    sog: 4.1
+  log: 8518
+  waypoint:
+    longitude: -24.69367
+    latitude: 17.25665
+  barometer: 1019.12
+  wind:
+    speed: 14.7
+    direction: 96
+  engine:
+    hours: 930.5
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: navigation
+- datetime: 2024-12-27T01:04:11.600Z
+  text: Weird battery voltage reading (9V) from both Orion XS and the
+    Hydrogenerator SmartShunt. Every other meter and VictronConnect show
+    expected values
+  author: bergie
+  position:
+    latitude: 17.3110175
+    longitude: -24.6432361
+    source: GPS
+  heading: 205
+  course: 207
+  speed:
+    stw: 3.8
+    sog: 4.1
+  log: 8518.3
+  waypoint:
+    longitude: -24.69367
+    latitude: 17.25665
+  barometer: 1019.11
+  wind:
+    speed: 13.9
+    direction: 111
+  engine:
+    hours: 930.5
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: maintenance
+- datetime: 2024-12-27T01:37:04.600Z
+  text: "Sails set: Main (1st reef), Genoa 1 (50% furled)"
+  author: ""
+  position:
+    latitude: 17.2806911
+    longitude: -24.6609086
+    source: GPS
+  heading: 202
+  course: 212
+  speed:
+    stw: 3.8
+    sog: 6.5
+  log: 8520.4
+  waypoint:
+    longitude: -24.69367
+    latitude: 17.25665
+  barometer: 1018.9
+  wind:
+    speed: 15
+    direction: 77
+  engine:
+    hours: 930.5
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: navigation
+- datetime: 2024-12-27T01:54:10.600Z
+  text: Some cross waves from reflections off the islands
+  author: bergie
+  position:
+    latitude: 17.2651138
+    longitude: -24.6737626
+    source: GPS
+  heading: 228
+  course: 239
+  speed:
+    stw: 3.6
+    sog: 3.2
+  log: 8521.6
+  waypoint:
+    longitude: -24.69367
+    latitude: 17.25665
+  barometer: 1018.82
+  wind:
+    speed: 13.1
+    direction: 94
+  engine:
+    hours: 930.5
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: navigation
+  observations:
+    seaState: 3
+    cloudCoverage: 1
+    visibility: 7
