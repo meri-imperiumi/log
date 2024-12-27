@@ -167,7 +167,7 @@
     cloudCoverage: 1
     visibility: 7
 - datetime: 2024-12-27T02:00:10.600Z
-  text: In Cape Verde territorial waters
+  text: ""
   author: bergie
   position:
     latitude: 17.2598586
@@ -194,8 +194,8 @@
     - bergie
   category: navigation
 - datetime: 2024-12-27T03:00:08.600Z
-  text: ""
-  author: ""
+  text: In Cape Verde territorial waters
+  author: bergie
   position:
     latitude: 17.205024
     longitude: -24.721681
@@ -219,3 +219,31 @@
   crewNames:
     - ihmis-suski
     - bergie
+  category: navigation
+- datetime: 2024-12-27T04:00:09.000Z
+  text: ""
+  author: ""
+  position:
+    latitude: 17.162374
+    longitude: -24.7697326
+    source: GPS
+  heading: 223
+  course: 235
+  speed:
+    stw: 3.5
+    sog: 2.9
+  log: 8529.9
+  waypoint:
+    longitude: -24.79809
+    latitude: 17.13704
+  barometer: 1017.93
+  wind:
+    speed: 12
+    direction: 80
+  engine:
+    hours: 930.5
+  vhf: "72"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: navigation
