@@ -1,0 +1,143 @@
+- datetime: 2024-12-30T14:10:19.200Z
+  text: Started main engine
+  author: ""
+  position:
+    latitude: 16.8864861
+    longitude: -24.990836
+    source: GPS
+  heading: 244
+  course: 287
+  speed:
+    stw: 0
+    sog: 0
+  log: 8552.6
+  barometer: 1015.16
+  wind:
+    speed: 5.5
+    direction: 23
+  engine:
+    hours: 931.2
+  vhf: "72"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: navigation
+- datetime: 2024-12-30T14:16:30.201Z
+  text: Motoring
+  author: ""
+  position:
+    latitude: 16.885345013936362
+    longitude: -24.99147148132324
+    source: GPS
+  heading: 240
+  course: 240
+  speed:
+    stw: 3.2
+    sog: 4.1
+  log: 8552.6
+  barometer: 1015.16
+  wind:
+    speed: 9.1
+    direction: 87
+  engine:
+    hours: 931.3
+  vhf: "72"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: navigation
+- datetime: 2024-12-30T14:22:06.201Z
+  text: Anchored
+  author: ""
+  position:
+    latitude: 16.8849985
+    longitude: -24.9928956
+    source: GPS
+  heading: 44
+  course: 57
+  speed:
+    stw: 0
+    sog: 0.3
+  log: 8552.8
+  barometer: 1014.17
+  wind:
+    speed: 1.7
+    direction: 129
+  engine:
+    hours: 931.4
+  vhf: "72"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  end: true
+  category: navigation
+- datetime: 2024-12-30T14:26:14.201Z
+  text: Stopped main engine
+  author: ""
+  position:
+    latitude: 16.8849308
+    longitude: -24.9930586
+    source: GPS
+  heading: 78
+  course: 41
+  speed:
+    stw: 0
+    sog: 0.4
+  log: 8552.8
+  barometer: 1014.17
+  wind:
+    speed: 8.5
+    direction: 4
+  engine:
+    hours: 931.4
+  vhf: "72"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: navigation
+- datetime: 2024-12-30T14:48:24.198Z
+  text: "Started watermaker "
+  author: bergie
+  position:
+    latitude: 16.8849035
+    longitude: -24.9929426
+    source: GPS
+  heading: 346
+  course: 352
+  speed:
+    stw: 0
+    sog: 0
+  log: 8552.8
+  barometer: 1013.93
+  wind:
+    speed: 4.8
+    direction: 207
+  engine:
+    hours: 931.5
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: maintenance
+- datetime: 2024-12-30T14:57:23.200Z
+  text: Watermaker 942ppm
+  author: bergie
+  position:
+    latitude: 16.8848903
+    longitude: -24.9928869
+    source: GPS
+  heading: 327
+  course: 254
+  speed:
+    stw: 0
+    sog: 0
+  log: 8552.8
+  barometer: 1013.93
+  wind:
+    speed: 3
+    direction: 57
+  engine:
+    hours: 931.5
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: maintenance
