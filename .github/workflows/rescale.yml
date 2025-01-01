@@ -12,9 +12,9 @@ jobs:
     strategy:
       matrix:
         year:
-          - '2022'
           - '2023'
           - '2024'
+          - '2025'
     steps:
     - uses: actions/checkout@v2.3.4
     - name: Resize ${{ matrix.year }} images
