@@ -1,0 +1,27 @@
+- datetime: 2025-01-01T13:05:50.700Z
+  text: Charge-side BatteryProtect had failed and was causing a massive voltage
+    drop. Bypassed and ordered a spare
+  author: bergie
+  position:
+    latitude: 16.8848649
+    longitude: -24.9930529
+    source: GPS
+  heading: 67
+  course: 80
+  speed:
+    stw: 0
+    sog: 0.3
+  log: 8552.8
+  waypoint:
+    longitude: -25.00067
+    latitude: 16.88468
+  barometer: 1018.4
+  wind:
+    speed: 11.3
+    direction: 47
+  engine:
+    hours: 931.5
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: maintenance
