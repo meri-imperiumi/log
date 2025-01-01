@@ -17,6 +17,8 @@
       let bounds;
       {% for year in site.years %}
         {% capture track_name %}{{ year.year }}.json{% endcapture %}
+        {% assign track_count = forloop.length | times: 1.0 %}
+        {% assign track_index = forloop.index | divided_by: track_count %}
       fetch('/tracks/{{ track_name }}')
         .then((data) => {
           if (!data.ok) {
@@ -41,7 +43,7 @@
               'line-cap': 'round'
             },
             'paint': {
-              'line-color': '#cf1d39',
+              'line-color': 'hsl(351, 75%, {{ 46 | times: track_index | round }}%)',
               'line-width': 5
             }
           });
