@@ -232,8 +232,8 @@
     - bergie
   category: navigation
 - datetime: 2025-01-02T19:00:59.001Z
-  text: ""
-  author: ""
+  text: "Suski on watch "
+  author: bergie
   position:
     latitude: 16.8440526
     longitude: -25.1890431
@@ -257,3 +257,58 @@
   crewNames:
     - ihmis-suski
     - bergie
+  category: navigation
+- datetime: 2025-01-02T19:17:40.000Z
+  text: Autopilot deactivated, windvane steering
+  author: bergie
+  position:
+    latitude: 16.8339461
+    longitude: -25.2150611
+    source: GPS
+  heading: 254
+  course: 258
+  speed:
+    stw: 4.6
+    sog: 7.3
+  log: 8566.7
+  waypoint:
+    longitude: -59.39787
+    latitude: 13.02865
+  barometer: 1014.68
+  wind:
+    speed: 19.7
+    direction: 42
+  engine:
+    hours: 931.8
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: navigation
+- datetime: 2025-01-02T19:53:07.097Z
+  text: "Sails set: Main (2nd reef), Staysail"
+  author: ""
+  position:
+    latitude: 16.820911
+    longitude: -25.2750151
+    source: GPS
+  heading: 259
+  course: 264
+  speed:
+    stw: 4.3
+    sog: 7.7
+  log: 8570.3
+  waypoint:
+    longitude: -59.39787
+    latitude: 13.02865
+  barometer: 1014.45
+  wind:
+    speed: 22
+    direction: 60
+  engine:
+    hours: 931.8
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: navigation
