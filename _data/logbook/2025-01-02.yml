@@ -312,3 +312,57 @@
     - ihmis-suski
     - bergie
   category: navigation
+- datetime: 2025-01-02T20:00:58.099Z
+  text: ""
+  author: ""
+  position:
+    latitude: 16.8180821
+    longitude: -25.2867693
+    source: GPS
+  heading: 266
+  course: 242
+  speed:
+    stw: 3.9
+    sog: 5.7
+  log: 8571
+  waypoint:
+    longitude: -59.39787
+    latitude: 13.02865
+  barometer: 1014.47
+  wind:
+    speed: 20.9
+    direction: 74
+  engine:
+    hours: 931.8
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: navigation
+- datetime: 2025-01-02T20:01:57.100Z
+  text: Changed the chafed out reef line for 1st.
+  author: ihmis-suski
+  position:
+    latitude: 16.8178216
+    longitude: -25.2884105
+    source: GPS
+  heading: 252
+  course: 250
+  speed:
+    stw: 4.8
+    sog: 4.5
+  log: 8571.1
+  waypoint:
+    longitude: -59.39787
+    latitude: 13.02865
+  barometer: 1014.42
+  wind:
+    speed: 24.2
+    direction: 46
+  engine:
+    hours: 931.8
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: navigation
