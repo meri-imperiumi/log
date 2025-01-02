@@ -421,3 +421,57 @@
     - ihmis-suski
     - bergie
   category: navigation
+- datetime: 2025-01-02T22:00:54.099Z
+  text: ""
+  author: ""
+  position:
+    latitude: 16.8342253
+    longitude: -25.4920521
+    source: GPS
+  heading: 287
+  course: 283
+  speed:
+    stw: 4.6
+    sog: 6.3
+  log: 8583.1
+  waypoint:
+    longitude: -59.39787
+    latitude: 13.02865
+  barometer: 1015.35
+  wind:
+    speed: 25.8
+    direction: 84
+  engine:
+    hours: 931.8
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: navigation
+- datetime: 2025-01-02T22:07:54.099Z
+  text: Left territorial waters of Cape Verde
+  author: ihmis-suski
+  position:
+    latitude: 16.8384215
+    longitude: -25.5041786
+    source: GPS
+  heading: 272
+  course: 261
+  speed:
+    stw: 4.7
+    sog: 5.7
+  log: 8583.9
+  waypoint:
+    longitude: -59.39787
+    latitude: 13.02865
+  barometer: 1015.41
+  wind:
+    speed: 27.6
+    direction: 104
+  engine:
+    hours: 931.8
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: navigation
