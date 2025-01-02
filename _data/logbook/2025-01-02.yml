@@ -366,3 +366,58 @@
     - ihmis-suski
     - bergie
   category: navigation
+- datetime: 2025-01-02T21:00:56.102Z
+  text: ""
+  author: ""
+  position:
+    latitude: 16.8127419
+    longitude: -25.3884423
+    source: GPS
+  heading: 288
+  course: 296
+  speed:
+    stw: 4.7
+    sog: 5.8
+  log: 8576.9
+  waypoint:
+    longitude: -59.39787
+    latitude: 13.02865
+  barometer: 1014.72
+  wind:
+    speed: 23.4
+    direction: 80
+  engine:
+    hours: 931.8
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: navigation
+- datetime: 2025-01-02T21:54:54.099Z
+  text: "The wind is turning to more easterly. As soon as we are pushed to the lee
+    of the island, I'm going to gybe. "
+  author: ihmis-suski
+  position:
+    latitude: 16.83125
+    longitude: -25.4819794
+    source: GPS
+  heading: 281
+  course: 277
+  speed:
+    stw: 4.9
+    sog: 6.1
+  log: 8582.5
+  waypoint:
+    longitude: -59.39787
+    latitude: 13.02865
+  barometer: 1015.29
+  wind:
+    speed: 19.3
+    direction: 68
+  engine:
+    hours: 931.8
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: navigation
