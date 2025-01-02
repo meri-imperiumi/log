@@ -1,0 +1,23 @@
+- datetime: 2025-01-02T08:54:36.800Z
+  text: We didn't receive wind data. Rebooting N2K fixed it
+  author: bergie
+  position:
+    latitude: 16.8849226
+    longitude: -24.9931175
+    source: GPS
+  heading: 54
+  course: 331
+  speed:
+    stw: 0
+    sog: 0.3
+  log: 8552.8
+  barometer: 1016.26
+  wind:
+    speed: 12.7
+    direction: 47
+  engine:
+    hours: 931.5
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: maintenance
