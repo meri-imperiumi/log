@@ -1,0 +1,83 @@
+- datetime: 2025-01-03T00:00:52.100Z
+  text: ""
+  author: ""
+  position:
+    latitude: 16.8582986
+    longitude: -25.6630903
+    source: GPS
+  heading: 287
+  course: 274
+  speed:
+    stw: 3.6
+    sog: 4.4
+  log: 8593.4
+  waypoint:
+    longitude: -59.39787
+    latitude: 13.02865
+  barometer: 1016.42
+  wind:
+    speed: 13.7
+    direction: 60
+  engine:
+    hours: 931.8
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: navigation
+- datetime: 2025-01-03T00:27:45.100Z
+  text: |-
+    Sails set: Main (1st reef), Staysail.
+    Gybed to get out of wind shadow.
+  author: ihmis-suski
+  position:
+    latitude: 16.848616
+    longitude: -25.6717039
+    source: GPS
+  heading: 205
+  course: 193
+  speed:
+    stw: 1.8
+    sog: 1.4
+  log: 8594.3
+  waypoint:
+    longitude: -59.39787
+    latitude: 13.02865
+  barometer: 1016.83
+  wind:
+    speed: 12
+    direction: 81
+  engine:
+    hours: 931.8
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: navigation
+- datetime: 2025-01-03T00:27:45.100Z
+  text: "Sails set: Main (1st reef), Staysail"
+  author: ""
+  position:
+    latitude: 16.848616
+    longitude: -25.6717039
+    source: GPS
+  heading: 205
+  course: 193
+  speed:
+    stw: 1.8
+    sog: 1.4
+  log: 8594.3
+  waypoint:
+    longitude: -59.39787
+    latitude: 13.02865
+  barometer: 1016.83
+  wind:
+    speed: 12
+    direction: 81
+  engine:
+    hours: 931.8
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: navigation
