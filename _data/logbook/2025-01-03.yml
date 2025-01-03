@@ -1098,3 +1098,58 @@
     seaState: 4
     cloudCoverage: 3
     visibility: 7
+- datetime: 2025-01-03T20:00:10.598Z
+  text: ""
+  author: ""
+  position:
+    latitude: 16.4714929
+    longitude: -26.9678356
+    source: GPS
+  heading: 258
+  course: 249
+  speed:
+    stw: 4
+    sog: 4.7
+  log: 8678.8
+  waypoint:
+    longitude: -59.55648
+    latitude: 13.00676
+  barometer: 1016.38
+  wind:
+    speed: 9.9
+    direction: 64
+  engine:
+    hours: 931.8
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: navigation
+- datetime: 2025-01-03T20:22:09.600Z
+  text: '"One of you is missing navigational lights, pls check" very distant vhf
+    message'
+  author: ihmis-suski
+  position:
+    latitude: 16.4607738
+    longitude: -26.9993045
+    source: GPS
+  heading: 243
+  course: 241
+  speed:
+    stw: 4
+    sog: 5.1
+  log: 8680.7
+  waypoint:
+    longitude: -59.55648
+    latitude: 13.00676
+  barometer: 1016.67
+  wind:
+    speed: 12.3
+    direction: 63
+  engine:
+    hours: 931.8
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: radio
