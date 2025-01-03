@@ -134,3 +134,58 @@
   crewNames:
     - ihmis-suski
     - bergie
+  category: navigation
+- datetime: 2025-01-03T03:00:47.200Z
+  text: ""
+  author: ""
+  position:
+    latitude: 16.7714506
+    longitude: -25.809055
+    source: GPS
+  heading: 247
+  course: 238
+  speed:
+    stw: 3.6
+    sog: 4.7
+  log: 8603.7
+  waypoint:
+    longitude: -59.39787
+    latitude: 13.02865
+  barometer: 1016.22
+  wind:
+    speed: 16.7
+    direction: 120
+  engine:
+    hours: 931.8
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: navigation
+- datetime: 2025-01-03T03:11:47.200Z
+  text: Tanker Chip southbound passing 3NM behind us, lights visible. Vessel 1.
+  author: bergie
+  position:
+    latitude: 16.766215
+    longitude: -25.8210206
+    source: GPS
+  heading: 246
+  course: 226
+  speed:
+    stw: 4.3
+    sog: 3.6
+  log: 8604.4
+  waypoint:
+    longitude: -59.39787
+    latitude: 13.02865
+  barometer: 1016.19
+  wind:
+    speed: 18.6
+    direction: 123
+  engine:
+    hours: 931.8
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: navigation
