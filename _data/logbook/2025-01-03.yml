@@ -243,3 +243,58 @@
     - ihmis-suski
     - bergie
   category: radio
+- datetime: 2025-01-03T05:00:45.200Z
+  text: ""
+  author: ""
+  position:
+    latitude: 16.706823
+    longitude: -25.9426279
+    source: GPS
+  heading: 255
+  course: 237
+  speed:
+    stw: 3.9
+    sog: 3.3
+  log: 8612.4
+  waypoint:
+    longitude: -59.39787
+    latitude: 13.02865
+  barometer: 1015.85
+  wind:
+    speed: 17.2
+    direction: 121
+  engine:
+    hours: 931.8
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: navigation
+- datetime: 2025-01-03T05:36:45.200Z
+  text: There's something very much resembling the Southern Cross on the sky. Can
+    we see it this far north?
+  author: bergie
+  position:
+    latitude: 16.6830593
+    longitude: -25.9855625
+    source: GPS
+  heading: 244
+  course: 234
+  speed:
+    stw: 4.1
+    sog: 5.2
+  log: 8615.2
+  waypoint:
+    longitude: -59.39787
+    latitude: 13.02865
+  barometer: 1015.81
+  wind:
+    speed: 18.5
+    direction: 114
+  engine:
+    hours: 931.8
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: navigation
