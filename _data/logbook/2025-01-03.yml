@@ -189,3 +189,57 @@
     - ihmis-suski
     - bergie
   category: navigation
+- datetime: 2025-01-03T04:00:47.200Z
+  text: "Quite a few shooting stars tonight "
+  author: bergie
+  position:
+    latitude: 16.739468
+    longitude: -25.8743265
+    source: GPS
+  heading: 246
+  course: 231
+  speed:
+    stw: 3.7
+    sog: 4
+  log: 8607.9
+  waypoint:
+    longitude: -59.39787
+    latitude: 13.02865
+  barometer: 1015.92
+  wind:
+    speed: 16.3
+    direction: 106
+  engine:
+    hours: 931.8
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: navigation
+- datetime: 2025-01-03T04:51:45.200Z
+  text: Warship trying to hail a motor vessel. Sounds like Indian accent
+  author: bergie
+  position:
+    latitude: 16.7118228
+    longitude: -25.9317295
+    source: GPS
+  heading: 235
+  course: 238
+  speed:
+    stw: 4
+    sog: 4.9
+  log: 8611.7
+  waypoint:
+    longitude: -59.39787
+    latitude: 13.02865
+  barometer: 1015.66
+  wind:
+    speed: 19.9
+    direction: 97
+  engine:
+    hours: 931.8
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: radio
