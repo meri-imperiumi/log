@@ -475,3 +475,58 @@
     - ihmis-suski
     - bergie
   category: navigation
+- datetime: 2025-01-02T23:00:53.100Z
+  text: ""
+  author: ""
+  position:
+    latitude: 16.8606653
+    longitude: -25.5872046
+    source: GPS
+  heading: 283
+  course: 278
+  speed:
+    stw: 4.3
+    sog: 5.7
+  log: 8588.9
+  waypoint:
+    longitude: -59.39787
+    latitude: 13.02865
+  barometer: 1016.15
+  wind:
+    speed: 18.5
+    direction: 86
+  engine:
+    hours: 931.8
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: navigation
+- datetime: 2025-01-02T23:42:52.102Z
+  text: Seems wind is getting back its northerly component and gybe not needed.
+    Clearly wind now affected by Santo Antão
+  author: ihmis-suski
+  position:
+    latitude: 16.8593779
+    longitude: -25.643135
+    source: GPS
+  heading: 262
+  course: 256
+  speed:
+    stw: 3.6
+    sog: 4.3
+  log: 8592.2
+  waypoint:
+    longitude: -59.39787
+    latitude: 13.02865
+  barometer: 1016.51
+  wind:
+    speed: 16.5
+    direction: 61
+  engine:
+    hours: 931.8
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: navigation
