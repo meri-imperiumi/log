@@ -872,3 +872,113 @@
   crewNames:
     - ihmis-suski
     - bergie
+  category: navigation
+- datetime: 2025-01-03T16:00:29.497Z
+  text: ""
+  author: ""
+  position:
+    latitude: 16.4964324
+    longitude: -26.6733363
+    source: GPS
+  heading: 249
+  course: 253
+  speed:
+    stw: 3
+    sog: 4.2
+  log: 8660.8
+  waypoint:
+    longitude: -59.55648
+    latitude: 13.00676
+  barometer: 1015.19
+  wind:
+    speed: 13
+    direction: 25
+  engine:
+    hours: 931.8
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: navigation
+- datetime: 2025-01-03T16:01:05.497Z
+  text: "Sails set: Genoa 1 (30% furled), Staysail"
+  author: ""
+  position:
+    latitude: 16.4960883
+    longitude: -26.6740361
+    source: GPS
+  heading: 240
+  course: 249
+  speed:
+    stw: 3.7
+    sog: 3.5
+  log: 8660.8
+  waypoint:
+    longitude: -59.55648
+    latitude: 13.00676
+  barometer: 1015.21
+  wind:
+    speed: 12.7
+    direction: 30
+  engine:
+    hours: 931.8
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: navigation
+- datetime: 2025-01-03T16:27:30.502Z
+  text: "Sails set: Parasailor "
+  author: bergie
+  position:
+    latitude: 16.4837821
+    longitude: -26.6975451
+    source: GPS
+  heading: 265
+  course: 252
+  speed:
+    stw: 1.2
+    sog: 3.4
+  log: 8662.4
+  waypoint:
+    longitude: -59.55648
+    latitude: 13.00676
+  barometer: 1015.01
+  wind:
+    speed: 12.7
+    direction: 52
+  engine:
+    hours: 931.8
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: navigation
+- datetime: 2025-01-03T16:59:13.497Z
+  text: The track car in the headboard of the mainsail is broken. We have spares,
+    but this one is sown on, so it'll be trickier to swap
+  author: bergie
+  position:
+    latitude: 16.4729225
+    longitude: -26.7242898
+    source: GPS
+  heading: 232
+  course: 214
+  speed:
+    stw: 1.8
+    sog: 2.3
+  log: 8664.1
+  waypoint:
+    longitude: -59.55648
+    latitude: 13.00676
+  barometer: 1014.94
+  wind:
+    speed: 7.2
+    direction: 23
+  engine:
+    hours: 931.8
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: maintenance
