@@ -298,3 +298,84 @@
     - ihmis-suski
     - bergie
   category: navigation
+- datetime: 2025-01-03T06:00:45.200Z
+  text: ""
+  author: ""
+  position:
+    latitude: 16.6607381
+    longitude: -26.011501
+    source: GPS
+  heading: 227
+  course: 238
+  speed:
+    stw: 3.9
+    sog: 4.8
+  log: 8617.3
+  waypoint:
+    longitude: -59.39787
+    latitude: 13.02865
+  barometer: 1015.9
+  wind:
+    speed: 18.4
+    direction: 92
+  engine:
+    hours: 931.8
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: navigation
+- datetime: 2025-01-03T06:40:45.200Z
+  text: Gybed back to wing on wing
+  author: bergie
+  position:
+    latitude: 16.6167254
+    longitude: -26.0365163
+    source: GPS
+  heading: 243
+  course: 205
+  speed:
+    stw: 4.3
+    sog: 3.9
+  log: 8620.6
+  waypoint:
+    longitude: -59.39787
+    latitude: 13.02865
+  barometer: 1015.86
+  wind:
+    speed: 11.3
+    direction: 39
+  engine:
+    hours: 931.8
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: navigation
+- datetime: 2025-01-03T06:56:44.200Z
+  text: Suski on watch
+  author: ihmis-suski
+  position:
+    latitude: 16.6069845
+    longitude: -26.0588353
+    source: GPS
+  heading: 246
+  course: 248
+  speed:
+    stw: 4.6
+    sog: 6
+  log: 8622
+  waypoint:
+    longitude: -59.39787
+    latitude: 13.02865
+  barometer: 1015.75
+  wind:
+    speed: 17.7
+    direction: 24
+  engine:
+    hours: 931.8
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: navigation
