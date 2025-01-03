@@ -490,3 +490,58 @@
   crewNames:
     - ihmis-suski
     - bergie
+  category: navigation
+- datetime: 2025-01-03T10:00:40.300Z
+  text: ""
+  author: ""
+  position:
+    latitude: 16.5283214
+    longitude: -26.2563773
+    source: GPS
+  heading: 303
+  course: 309
+  speed:
+    stw: 2.7
+    sog: 3.1
+  log: 8635.2
+  waypoint:
+    longitude: -59.39787
+    latitude: 13.02865
+  barometer: 1017.05
+  wind:
+    speed: 12.3
+    direction: 80
+  engine:
+    hours: 931.8
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: navigation
+- datetime: 2025-01-03T10:07:39.299Z
+  text: Gybed. Wind shifted again.
+  author: ihmis-suski
+  position:
+    latitude: 16.5305828
+    longitude: -26.2623381
+    source: GPS
+  heading: 237
+  course: 247
+  speed:
+    stw: 2.5
+    sog: 4.3
+  log: 8635.6
+  waypoint:
+    longitude: -59.39787
+    latitude: 13.02865
+  barometer: 1017.35
+  wind:
+    speed: 11.1
+    direction: 92
+  engine:
+    hours: 931.8
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: navigation
