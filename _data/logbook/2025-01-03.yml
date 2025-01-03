@@ -707,3 +707,88 @@
     - ihmis-suski
     - bergie
   category: maintenance
+- datetime: 2025-01-03T13:00:36.400Z
+  text: Bergie on watch
+  author: bergie
+  position:
+    latitude: 16.4746673
+    longitude: -26.4341256
+    source: GPS
+  heading: 236
+  course: 274
+  speed:
+    stw: 2
+    sog: 1.2
+  log: 8646.3
+  waypoint:
+    longitude: -59.39787
+    latitude: 13.02865
+  barometer: 1016.47
+  wind:
+    speed: 7
+    direction: 17
+  engine:
+    hours: 931.8
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: navigation
+  observations:
+    seaState: 4
+    cloudCoverage: 4
+    visibility: 7
+- datetime: 2025-01-03T13:06:12.400Z
+  text: "Sails set: Main, Genoa 1 (30% furled), Staysail"
+  author: ""
+  position:
+    latitude: 16.4741201
+    longitude: -26.4394853
+    source: GPS
+  heading: 268
+  course: 271
+  speed:
+    stw: 3
+    sog: 3.8
+  log: 8646.7
+  waypoint:
+    longitude: -59.39787
+    latitude: 13.02865
+  barometer: 1016.41
+  wind:
+    speed: 10.8
+    direction: 47
+  engine:
+    hours: 931.8
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: navigation
+- datetime: 2025-01-03T13:57:35.398Z
+  text: Lots of flying fish leaping into the air at our bow
+  author: bergie
+  position:
+    latitude: 16.49878667195638
+    longitude: -26.51238400141398
+    source: GPS
+  heading: 274
+  course: 268
+  speed:
+    stw: 4.5
+    sog: 6.2
+  log: 8651.2
+  waypoint:
+    longitude: -59.39787
+    latitude: 13.02865
+  barometer: 1015.96
+  wind:
+    speed: 14.5
+    direction: 84
+  engine:
+    hours: 931.8
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: navigation
