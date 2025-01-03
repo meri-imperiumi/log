@@ -982,3 +982,61 @@
     - ihmis-suski
     - bergie
   category: maintenance
+- datetime: 2025-01-03T17:00:14.502Z
+  text: ""
+  author: ""
+  position:
+    latitude: 16.4724861
+    longitude: -26.7249034
+    source: GPS
+  heading: 228
+  course: 249
+  speed:
+    stw: 1.7
+    sog: 1.8
+  log: 8664.2
+  waypoint:
+    longitude: -59.55648
+    latitude: 13.00676
+  barometer: 1014.92
+  wind:
+    speed: 6.7
+    direction: 27
+  engine:
+    hours: 931.8
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: navigation
+- datetime: 2025-01-03T17:05:13.497Z
+  text: Another wind hole, hopefully not for long
+  author: bergie
+  position:
+    latitude: 16.4706731
+    longitude: -26.7277448
+    source: GPS
+  heading: 276
+  course: 291
+  speed:
+    stw: 1.6
+    sog: 2.2
+  log: 8664.4
+  waypoint:
+    longitude: -59.55648
+    latitude: 13.00676
+  barometer: 1014.98
+  wind:
+    speed: 6.1
+    direction: 77
+  engine:
+    hours: 931.8
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: navigation
+  observations:
+    seaState: 4
+    cloudCoverage: 6
+    visibility: 7
