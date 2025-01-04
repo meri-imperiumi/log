@@ -215,8 +215,8 @@
     - bergie
   category: navigation
 - datetime: 2025-01-04T07:00:07.100Z
-  text: ""
-  author: ""
+  text: Suski on watch
+  author: bergie
   position:
     latitude: 16.3503238
     longitude: -27.9818564
@@ -354,7 +354,8 @@
     - bergie
   category: navigation
 - datetime: 2025-01-04T10:55:11.200Z
-  text: Added a bit of chain to wind vane steering. Need more weather helm.
+  text: "Added a bit of chain to wind vane steering. Need more weather helm
+    compensation. "
   author: ihmis-suski
   position:
     latitude: 16.2406479
@@ -384,3 +385,87 @@
     seaState: 4
     cloudCoverage: 1
     visibility: 7
+- datetime: 2025-01-04T11:00:11.200Z
+  text: ""
+  author: ""
+  position:
+    latitude: 16.2372548
+    longitude: -28.3636898
+    source: GPS
+  heading: 253
+  course: 245
+  speed:
+    stw: 5.2
+    sog: 7.8
+  log: 8762.6
+  waypoint:
+    longitude: -59.55648
+    latitude: 13.00676
+  barometer: 1018.35
+  wind:
+    speed: 13.3
+    direction: 76
+  engine:
+    hours: 931.8
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: navigation
+- datetime: 2025-01-04T11:33:47.600Z
+  text: |-
+    Sails set: Genoa 1 (30% furled), Staysail.
+
+    Was already hard to get windvane to keep up with gusts.
+  author: ihmis-suski
+  position:
+    latitude: 16.2193016
+    longitude: -28.4037839
+    source: GPS
+  heading: 247
+  course: 254
+  speed:
+    stw: 4.7
+    sog: 5.7
+  log: 8765.2
+  waypoint:
+    longitude: -59.55648
+    latitude: 13.00676
+  barometer: 1018.55
+  wind:
+    speed: 16.3
+    direction: 50
+  engine:
+    hours: 931.8
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: navigation
+- datetime: 2025-01-04T11:58:10.598Z
+  text: "Sew the top most slider on mainsail to its place. Old one had broken. "
+  author: ihmis-suski
+  position:
+    latitude: 16.2076383
+    longitude: -28.4356915
+    source: GPS
+  heading: 252
+  course: 248
+  speed:
+    stw: 4.2
+    sog: 4.6
+  log: 8767.2
+  waypoint:
+    longitude: -59.55648
+    latitude: 13.00676
+  barometer: 1018.49
+  wind:
+    speed: 14.4
+    direction: 45
+  engine:
+    hours: 931.8
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: navigation
