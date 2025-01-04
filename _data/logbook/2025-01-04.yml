@@ -52,3 +52,57 @@
     - ihmis-suski
     - bergie
   category: navigation
+- datetime: 2025-01-04T02:00:04.000Z
+  text: ""
+  author: ""
+  position:
+    latitude: 16.4061341
+    longitude: -27.5417161
+    source: GPS
+  heading: 257
+  course: 265
+  speed:
+    stw: 4.4
+    sog: 5.8
+  log: 8712.8
+  waypoint:
+    longitude: -59.55648
+    latitude: 13.00676
+  barometer: 1017.96
+  wind:
+    speed: 12.9
+    direction: 55
+  engine:
+    hours: 931.8
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: navigation
+- datetime: 2025-01-04T02:15:04.000Z
+  text: Tanker Windsor is crossing ahead at 5NM southbound. Vessel 2.
+  author: bergie
+  position:
+    latitude: 16.4036218
+    longitude: -27.5659066
+    source: GPS
+  heading: 270
+  course: 256
+  speed:
+    stw: 5
+    sog: 6.3
+  log: 8714.3
+  waypoint:
+    longitude: -59.55648
+    latitude: 13.00676
+  barometer: 1017.85
+  wind:
+    speed: 13
+    direction: 61
+  engine:
+    hours: 931.8
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: navigation
