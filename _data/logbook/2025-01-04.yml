@@ -325,3 +325,62 @@
   crewNames:
     - ihmis-suski
     - bergie
+  category: navigation
+- datetime: 2025-01-04T10:00:10.201Z
+  text: ""
+  author: ""
+  position:
+    latitude: 16.2714188
+    longitude: -28.2664755
+    source: GPS
+  heading: 240
+  course: 247
+  speed:
+    stw: 4.4
+    sog: 4
+  log: 8756.5
+  waypoint:
+    longitude: -59.55648
+    latitude: 13.00676
+  barometer: 1017.95
+  wind:
+    speed: 11.2
+    direction: 26
+  engine:
+    hours: 931.8
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: navigation
+- datetime: 2025-01-04T10:55:11.200Z
+  text: Added a bit of chain to wind vane steering. Need more weather helm.
+  author: ihmis-suski
+  position:
+    latitude: 16.2406479
+    longitude: -28.3557834
+    source: GPS
+  heading: 250
+  course: 239
+  speed:
+    stw: 4.8
+    sog: 6.9
+  log: 8762.1
+  waypoint:
+    longitude: -59.55648
+    latitude: 13.00676
+  barometer: 1018.26
+  wind:
+    speed: 14.4
+    direction: 66
+  engine:
+    hours: 931.8
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: navigation
+  observations:
+    seaState: 4
+    cloudCoverage: 1
+    visibility: 7
