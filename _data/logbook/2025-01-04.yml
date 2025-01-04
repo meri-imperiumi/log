@@ -24,3 +24,31 @@
   crewNames:
     - ihmis-suski
     - bergie
+  category: navigation
+- datetime: 2025-01-04T01:00:05.000Z
+  text: Bergie on watch
+  author: bergie
+  position:
+    latitude: 16.4191571
+    longitude: -27.4490214
+    source: GPS
+  heading: 262
+  course: 264
+  speed:
+    stw: 4.8
+    sog: 4.7
+  log: 8707.4
+  waypoint:
+    longitude: -59.55648
+    latitude: 13.00676
+  barometer: 1018.25
+  wind:
+    speed: 11.2
+    direction: 70
+  engine:
+    hours: 931.8
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: navigation
