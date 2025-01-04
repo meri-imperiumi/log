@@ -773,3 +773,62 @@
   crewNames:
     - ihmis-suski
     - bergie
+  category: navigation
+- datetime: 2025-01-04T19:00:52.800Z
+  text: Suski on watch
+  author: ihmis-suski
+  position:
+    latitude: 16.0316695
+    longitude: -28.9831468
+    source: GPS
+  heading: 250
+  course: 257
+  speed:
+    stw: 3.4
+    sog: 5
+  log: 8800.7
+  waypoint:
+    longitude: -59.55648
+    latitude: 13.00676
+  barometer: 1016.54
+  wind:
+    speed: 14.5
+    direction: 48
+  engine:
+    hours: 931.8
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: navigation
+  observations:
+    seaState: 4
+    cloudCoverage: 2
+    visibility: 7
+- datetime: 2025-01-04T19:57:45.798Z
+  text: Bananas are now eaten. 3 days and 1 kg of om nom nom.
+  author: ihmis-suski
+  position:
+    latitude: 16.0053099
+    longitude: -29.0623033
+    source: GPS
+  heading: 247
+  course: 231
+  speed:
+    stw: 4.6
+    sog: 5
+  log: 8805.5
+  waypoint:
+    longitude: -59.55648
+    latitude: 13.00676
+  barometer: 1016.96
+  wind:
+    speed: 15.6
+    direction: 51
+  engine:
+    hours: 931.8
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: navigation
