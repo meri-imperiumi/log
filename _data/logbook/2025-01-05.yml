@@ -461,3 +461,62 @@
   crewNames:
     - ihmis-suski
     - bergie
+  category: navigation
+- datetime: 2025-01-05T13:00:25.100Z
+  text: Bergie on watch
+  author: bergie
+  position:
+    latitude: 15.7530723
+    longitude: -30.567893
+    source: GPS
+  heading: 274
+  course: 265
+  speed:
+    stw: 4.6
+    sog: 6.3
+  log: 8894.6
+  waypoint:
+    longitude: -59.55648
+    latitude: 13.00676
+  barometer: 1017.26
+  wind:
+    speed: 16.1
+    direction: 57
+  engine:
+    hours: 931.8
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: navigation
+  observations:
+    cloudCoverage: 4
+    seaState: 4
+    visibility: 7
+- datetime: 2025-01-05T13:08:25.100Z
+  text: "Started watermaker "
+  author: bergie
+  position:
+    latitude: 15.7516523
+    longitude: -30.5807268
+    source: GPS
+  heading: 259
+  course: 270
+  speed:
+    stw: 4.3
+    sog: 6.2
+  log: 8895.3
+  waypoint:
+    longitude: -59.55648
+    latitude: 13.00676
+  barometer: 1017.23
+  wind:
+    speed: 16.7
+    direction: 56
+  engine:
+    hours: 931.8
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: maintenance
