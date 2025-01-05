@@ -242,3 +242,61 @@
     - ihmis-suski
     - bergie
   category: navigation
+- datetime: 2025-01-05T08:00:30.000Z
+  text: ""
+  author: ""
+  position:
+    latitude: 15.806903
+    longitude: -30.0840286
+    source: GPS
+  heading: 262
+  course: 230
+  speed:
+    stw: 4.6
+    sog: 4.7
+  log: 8866.2
+  waypoint:
+    longitude: -59.55648
+    latitude: 13.00676
+  barometer: 1016.91
+  wind:
+    speed: 15.5
+    direction: 82
+  engine:
+    hours: 931.8
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: navigation
+- datetime: 2025-01-05T08:31:30.000Z
+  text: Sun!
+  author: ihmis-suski
+  position:
+    latitude: 15.7994261
+    longitude: -30.1296023
+    source: GPS
+  heading: 255
+  course: 249
+  speed:
+    stw: 4.2
+    sog: 6.5
+  log: 8868.9
+  waypoint:
+    longitude: -59.55648
+    latitude: 13.00676
+  barometer: 1016.91
+  wind:
+    speed: 16.8
+    direction: 62
+  engine:
+    hours: 931.8
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: navigation
+  observations:
+    seaState: 4
+    cloudCoverage: 1
+    visibility: 7
