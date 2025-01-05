@@ -24,3 +24,59 @@
   crewNames:
     - ihmis-suski
     - bergie
+  category: navigation
+- datetime: 2025-01-05T01:00:39.900Z
+  text: Bergie on watch
+  author: bergie
+  position:
+    latitude: 15.9076291
+    longitude: -29.4851988
+    source: GPS
+  heading: 269
+  course: 249
+  speed:
+    stw: 4.1
+    sog: 4.7
+  log: 8830.9
+  waypoint:
+    longitude: -59.55648
+    latitude: 13.00676
+  barometer: 1017.64
+  wind:
+    speed: 16
+    direction: 83
+  engine:
+    hours: 931.8
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: navigation
+- datetime: 2025-01-05T01:57:37.900Z
+  text: That was a near miss. Bang! A big flying fish hit the sprayhood maybe 10cm
+    from my head
+  author: bergie
+  position:
+    latitude: 15.8953436
+    longitude: -29.5649456
+    source: GPS
+  heading: 257
+  course: 272
+  speed:
+    stw: 4.8
+    sog: 6.4
+  log: 8835.5
+  waypoint:
+    longitude: -59.55648
+    latitude: 13.00676
+  barometer: 1017.56
+  wind:
+    speed: 18.5
+    direction: 38
+  engine:
+    hours: 931.8
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: navigation
