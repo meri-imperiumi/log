@@ -712,3 +712,62 @@
   crewNames:
     - ihmis-suski
     - bergie
+  category: navigation
+- datetime: 2025-01-05T19:00:12.300Z
+  text: ""
+  author: ""
+  position:
+    latitude: 15.704007
+    longitude: -31.1216065
+    source: GPS
+  heading: 242
+  course: 251
+  speed:
+    stw: 4.7
+    sog: 5.7
+  log: 8927
+  waypoint:
+    longitude: -59.55648
+    latitude: 13.00676
+  barometer: 1015.5
+  wind:
+    speed: 17.7
+    direction: 47
+  engine:
+    hours: 931.8
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: navigation
+- datetime: 2025-01-05T19:50:06.297Z
+  text: Sunset.
+  author: ihmis-suski
+  position:
+    latitude: 15.6820646
+    longitude: -31.19752
+    source: GPS
+  heading: 258
+  course: 247
+  speed:
+    stw: 4.7
+    sog: 4.8
+  log: 8931.6
+  waypoint:
+    longitude: -59.55648
+    latitude: 13.00676
+  barometer: 1015.81
+  wind:
+    speed: 14.8
+    direction: 65
+  engine:
+    hours: 931.8
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: navigation
+  observations:
+    seaState: 4
+    cloudCoverage: 3
+    visibility: 7
