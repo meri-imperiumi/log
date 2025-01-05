@@ -380,3 +380,58 @@
   crewNames:
     - ihmis-suski
     - bergie
+  category: navigation
+- datetime: 2025-01-05T11:00:27.100Z
+  text: ""
+  author: ""
+  position:
+    latitude: 15.778
+    longitude: -30.373836
+    source: GPS
+  heading: 268
+  course: 269
+  speed:
+    stw: 4.4
+    sog: 5.4
+  log: 8883.2
+  waypoint:
+    longitude: -59.55648
+    latitude: 13.00676
+  barometer: 1017.77
+  wind:
+    speed: 14.6
+    direction: 71
+  engine:
+    hours: 931.8
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: navigation
+- datetime: 2025-01-05T11:13:26.099Z
+  text: "Tightened the hydro line a bit so it's more straight. "
+  author: ihmis-suski
+  position:
+    latitude: 15.777123324076335
+    longitude: -30.39576117197673
+    source: GPS
+  heading: 275
+  course: 277
+  speed:
+    stw: 4.8
+    sog: 6.6
+  log: 8884.4
+  waypoint:
+    longitude: -59.55648
+    latitude: 13.00676
+  barometer: 1017.81
+  wind:
+    speed: 18.6
+    direction: 62
+  engine:
+    hours: 931.8
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: navigation
