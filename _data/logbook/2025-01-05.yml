@@ -300,3 +300,57 @@
     seaState: 4
     cloudCoverage: 1
     visibility: 7
+- datetime: 2025-01-05T09:00:30.000Z
+  text: ""
+  author: ""
+  position:
+    latitude: 15.7910876
+    longitude: -30.172508
+    source: GPS
+  heading: 266
+  course: 284
+  speed:
+    stw: 4.2
+    sog: 4.5
+  log: 8871.4
+  waypoint:
+    longitude: -59.55648
+    latitude: 13.00676
+  barometer: 1017.09
+  wind:
+    speed: 16.7
+    direction: 82
+  engine:
+    hours: 931.8
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: navigation
+- datetime: 2025-01-05T09:05:06.000Z
+  text: "Sails set: Genoa 1 (20% furled), Staysail"
+  author: ""
+  position:
+    latitude: 15.789963
+    longitude: -30.1795963
+    source: GPS
+  heading: 262
+  course: 259
+  speed:
+    stw: 4.9
+    sog: 6.9
+  log: 8871.9
+  waypoint:
+    longitude: -59.55648
+    latitude: 13.00676
+  barometer: 1017.05
+  wind:
+    speed: 18.2
+    direction: 49
+  engine:
+    hours: 931.8
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: navigation
