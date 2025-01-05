@@ -824,3 +824,57 @@
   crewNames:
     - ihmis-suski
     - bergie
+  category: navigation
+- datetime: 2025-01-05T22:00:02.297Z
+  text: ""
+  author: ""
+  position:
+    latitude: 15.6543236
+    longitude: -31.3907573
+    source: GPS
+  heading: 273
+  course: 267
+  speed:
+    stw: 4.2
+    sog: 4.9
+  log: 8943
+  waypoint:
+    longitude: -59.55648
+    latitude: 13.00676
+  barometer: 1016.89
+  wind:
+    speed: 19.2
+    direction: 67
+  engine:
+    hours: 931.8
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: navigation
+- datetime: 2025-01-05T23:00:01.401Z
+  text: ""
+  author: ""
+  position:
+    latitude: 15.6515053
+    longitude: -31.4843861
+    source: GPS
+  heading: 275
+  course: 287
+  speed:
+    stw: 3.9
+    sog: 6.9
+  log: 8948.5
+  waypoint:
+    longitude: -59.55648
+    latitude: 13.00676
+  barometer: 1017.27
+  wind:
+    speed: 16.8
+    direction: 54
+  engine:
+    hours: 931.8
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
