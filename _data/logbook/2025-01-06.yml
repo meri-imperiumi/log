@@ -26,8 +26,8 @@
     - bergie
   category: navigation
 - datetime: 2025-01-06T01:00:00.400Z
-  text: ""
-  author: ""
+  text: "Bergie on watch "
+  author: bergie
   position:
     latitude: 15.6261278
     longitude: -31.6637713
@@ -45,6 +45,61 @@
   wind:
     speed: 13.4
     direction: 85
+  engine:
+    hours: 931.8
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: navigation
+- datetime: 2025-01-06T01:27:59.400Z
+  text: Gybed to get more southing before the calm forecasted for Friday. We want
+    to be at least below 13°N
+  author: bergie
+  position:
+    latitude: 15.6128531
+    longitude: -31.6914946
+    source: GPS
+  heading: 246
+  course: 237
+  speed:
+    stw: 3.5
+    sog: 3.9
+  log: 8960.9
+  waypoint:
+    longitude: -59.55648
+    latitude: 13.00676
+  barometer: 1017.08
+  wind:
+    speed: 17.1
+    direction: 92
+  engine:
+    hours: 931.8
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: navigation
+- datetime: 2025-01-06T01:59:59.400Z
+  text: ""
+  author: ""
+  position:
+    latitude: 15.5955028
+    longitude: -31.7311963
+    source: GPS
+  heading: 237
+  course: 214
+  speed:
+    stw: 3.4
+    sog: 5.5
+  log: 8963.4
+  waypoint:
+    longitude: -37.81505
+    latitude: 12.91008
+  barometer: 1016.77
+  wind:
+    speed: 16.2
+    direction: 83
   engine:
     hours: 931.8
   vhf: "16"
