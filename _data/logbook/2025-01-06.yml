@@ -857,7 +857,7 @@
     - bergie
   category: navigation
 - datetime: 2025-01-06T21:25:08.300Z
-  text: Vessels 3 and 4! Sailboats Lucky Winny and Sawubona
+  text: Vessels 3 and 4! Swedish sailboats Lucky Winny and Sawubona
   author: ihmis-suski
   position:
     latitude: 14.6432226
@@ -876,6 +876,60 @@
   wind:
     speed: 16.2
     direction: 86
+  engine:
+    hours: 931.8
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: navigation
+- datetime: 2025-01-06T22:00:09.299Z
+  text: ""
+  author: ""
+  position:
+    latitude: 14.6186309
+    longitude: -33.1822011
+    source: GPS
+  heading: 232
+  course: 245
+  speed:
+    stw: 4.3
+    sog: 5.2
+  log: 9067.7
+  waypoint:
+    longitude: -37.81505
+    latitude: 12.91008
+  barometer: 1016.55
+  wind:
+    speed: 17.6
+    direction: 75
+  engine:
+    hours: 931.8
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: navigation
+- datetime: 2025-01-06T22:52:10.297Z
+  text: The swedish duo is now behind us with 3 miles to spare.
+  author: ihmis-suski
+  position:
+    latitude: 14.5829524
+    longitude: -33.2456429
+    source: GPS
+  heading: 231
+  course: 240
+  speed:
+    stw: 4.2
+    sog: 5.3
+  log: 9072
+  waypoint:
+    longitude: -37.81505
+    latitude: 12.91008
+  barometer: 1017.01
+  wind:
+    speed: 19.6
+    direction: 77
   engine:
     hours: 931.8
   vhf: "16"
