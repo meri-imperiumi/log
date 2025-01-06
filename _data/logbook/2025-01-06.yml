@@ -382,3 +382,62 @@
     - ihmis-suski
     - bergie
   category: navigation
+- datetime: 2025-01-06T11:00:52.000Z
+  text: ""
+  author: ""
+  position:
+    latitude: 15.0898086
+    longitude: -32.3186374
+    source: GPS
+  heading: 254
+  course: 250
+  speed:
+    stw: 4.2
+    sog: 5.4
+  log: 9009.4
+  waypoint:
+    longitude: -37.81505
+    latitude: 12.91008
+  barometer: 1017.54
+  wind:
+    speed: 18.1
+    direction: 59
+  engine:
+    hours: 931.8
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: navigation
+- datetime: 2025-01-06T11:28:52.998Z
+  text: Screw on my sunglasses had become loose and the lens fell off. Luckily the
+    screw nor the lens got lost, so I could fix the sunglasses.
+  author: ihmis-suski
+  position:
+    latitude: 15.0673768
+    longitude: -32.3537568
+    source: GPS
+  heading: 233
+  course: 248
+  speed:
+    stw: 5.3
+    sog: 6.1
+  log: 9011.8
+  waypoint:
+    longitude: -37.81505
+    latitude: 12.91008
+  barometer: 1017.61
+  wind:
+    speed: 20.6
+    direction: 51
+  engine:
+    hours: 931.8
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: navigation
+  observations:
+    seaState: 4
+    cloudCoverage: 1
+    visibility: 7
