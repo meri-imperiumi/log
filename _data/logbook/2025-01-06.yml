@@ -689,8 +689,8 @@
     - bergie
   category: navigation
 - datetime: 2025-01-06T19:00:02.201Z
-  text: ""
-  author: ""
+  text: "Suski on watch "
+  author: bergie
   position:
     latitude: 14.7585891
     longitude: -32.9625106
@@ -746,3 +746,86 @@
     seaState: 4
     cloudCoverage: 1
     visibility: 7
+- datetime: 2025-01-06T20:00:05.196Z
+  text: ""
+  author: ""
+  position:
+    latitude: 14.7117788
+    longitude: -33.0285655
+    source: GPS
+  heading: 226
+  course: 222
+  speed:
+    stw: 4.6
+    sog: 4.5
+  log: 9057.2
+  waypoint:
+    longitude: -37.81505
+    latitude: 12.91008
+  barometer: 1015.48
+  wind:
+    speed: 17.4
+    direction: 65
+  engine:
+    hours: 931.8
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: navigation
+- datetime: 2025-01-06T20:10:05.196Z
+  text: Lucky Winny and something  Bay close by. Can see Lucky Winny on Ais, the
+    other not. Can hear them hailing each others.
+  author: ihmis-suski
+  position:
+    latitude: 14.7032736
+    longitude: -33.0406848
+    source: GPS
+  heading: 244
+  course: 244
+  speed:
+    stw: 3.3
+    sog: 5.1
+  log: 9058
+  waypoint:
+    longitude: -37.81505
+    latitude: 12.91008
+  barometer: 1015.44
+  wind:
+    speed: 16.8
+    direction: 93
+  engine:
+    hours: 931.8
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: radio
+- datetime: 2025-01-06T20:49:06.201Z
+  text: Bergie radioed Lucky Winny and they are now passing us from behind after
+    they did a small course change.
+  author: ihmis-suski
+  position:
+    latitude: 14.6736316
+    longitude: -33.0910361
+    source: GPS
+  heading: 233
+  course: 245
+  speed:
+    stw: 4.4
+    sog: 6.5
+  log: 9061.5
+  waypoint:
+    longitude: -37.81505
+    latitude: 12.91008
+  barometer: 1015.77
+  wind:
+    speed: 17.5
+    direction: 70
+  engine:
+    hours: 931.8
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: radio
