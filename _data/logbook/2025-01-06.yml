@@ -774,8 +774,8 @@
     - bergie
   category: navigation
 - datetime: 2025-01-06T20:10:05.196Z
-  text: Lucky Winny and something  Bay close by. Can see Lucky Winny on Ais, the
-    other not. Can hear them hailing each others.
+  text: Lucky Winny and Sawubona close by. Can see Lucky Winny on Ais, the other
+    not. Can hear them hailing each others.
   author: ihmis-suski
   position:
     latitude: 14.7032736
@@ -829,3 +829,57 @@
     - ihmis-suski
     - bergie
   category: radio
+- datetime: 2025-01-06T21:00:06.201Z
+  text: ""
+  author: ""
+  position:
+    latitude: 14.6645453
+    longitude: -33.1056473
+    source: GPS
+  heading: 235
+  course: 225
+  speed:
+    stw: 3.8
+    sog: 4.2
+  log: 9062.5
+  waypoint:
+    longitude: -37.81505
+    latitude: 12.91008
+  barometer: 1015.91
+  wind:
+    speed: 16.7
+    direction: 77
+  engine:
+    hours: 931.8
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: navigation
+- datetime: 2025-01-06T21:25:08.300Z
+  text: Vessels 3 and 4! Sailboats Lucky Winny and Sawubona
+  author: ihmis-suski
+  position:
+    latitude: 14.6432226
+    longitude: -33.1374758
+    source: GPS
+  heading: 245
+  course: 251
+  speed:
+    stw: 3.8
+    sog: 5.1
+  log: 9064.7
+  waypoint:
+    longitude: -37.81505
+    latitude: 12.91008
+  barometer: 1016.13
+  wind:
+    speed: 16.2
+    direction: 86
+  engine:
+    hours: 931.8
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: navigation
