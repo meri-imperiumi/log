@@ -878,3 +878,32 @@
   crewNames:
     - ihmis-suski
     - bergie
+  category: navigation
+- datetime: 2025-01-05T23:02:02.400Z
+  text: Had a nice conversation with Lucky Winny and their yet unnamed buddy boat.
+    They are heading south to avoid the calm. Also heading to Barbados.
+  author: ihmis-suski
+  position:
+    latitude: 15.6512741
+    longitude: -31.4871419
+    source: GPS
+  heading: 270
+  course: 257
+  speed:
+    stw: 4.6
+    sog: 5.2
+  log: 8948.6
+  waypoint:
+    longitude: -59.55648
+    latitude: 13.00676
+  barometer: 1017.3
+  wind:
+    speed: 17.9
+    direction: 92
+  engine:
+    hours: 931.8
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: radio
