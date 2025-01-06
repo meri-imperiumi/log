@@ -714,3 +714,35 @@
   crewNames:
     - ihmis-suski
     - bergie
+  category: navigation
+- datetime: 2025-01-06T19:56:04.198Z
+  text: Sunset
+  author: ihmis-suski
+  position:
+    latitude: 14.7148204
+    longitude: -33.023656
+    source: GPS
+  heading: 243
+  course: 232
+  speed:
+    stw: 4
+    sog: 4.7
+  log: 9056.8
+  waypoint:
+    longitude: -37.81505
+    latitude: 12.91008
+  barometer: 1015.42
+  wind:
+    speed: 14.9
+    direction: 91
+  engine:
+    hours: 931.8
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: navigation
+  observations:
+    seaState: 4
+    cloudCoverage: 1
+    visibility: 7
