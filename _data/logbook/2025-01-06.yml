@@ -441,3 +441,84 @@
     seaState: 4
     cloudCoverage: 1
     visibility: 7
+- datetime: 2025-01-06T12:00:52.998Z
+  text: ""
+  author: ""
+  position:
+    latitude: 15.0369853
+    longitude: -32.3911751
+    source: GPS
+  heading: 226
+  course: 226
+  speed:
+    stw: 5.1
+    sog: 5.9
+  log: 9014.7
+  waypoint:
+    longitude: -37.81505
+    latitude: 12.91008
+  barometer: 1017.47
+  wind:
+    speed: 22.6
+    direction: 68
+  engine:
+    hours: 931.8
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: navigation
+- datetime: 2025-01-06T12:36:54.000Z
+  text: Tightened hydro guide rope.
+  author: ihmis-suski
+  position:
+    latitude: 15.00222466662526
+    longitude: -32.434007008870445
+    source: GPS
+  heading: 224
+  course: 219
+  speed:
+    stw: 4.4
+    sog: 5.7
+  log: 9018
+  waypoint:
+    longitude: -37.81505
+    latitude: 12.91008
+  barometer: 1017.33
+  wind:
+    speed: 15.9
+    direction: 71
+  engine:
+    hours: 931.8
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: navigation
+- datetime: 2025-01-06T12:36:54.000Z
+  text: First small blobs of sargasso-weed
+  author: ihmis-suski
+  position:
+    latitude: 15.00222466662526
+    longitude: -32.434007008870445
+    source: GPS
+  heading: 224
+  course: 219
+  speed:
+    stw: 4.4
+    sog: 5.7
+  log: 9018
+  waypoint:
+    longitude: -37.81505
+    latitude: 12.91008
+  barometer: 1017.33
+  wind:
+    speed: 15.9
+    direction: 71
+  engine:
+    hours: 931.8
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: navigation
