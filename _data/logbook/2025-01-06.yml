@@ -187,3 +187,59 @@
   crewNames:
     - ihmis-suski
     - bergie
+  category: navigation
+- datetime: 2025-01-06T06:00:54.899Z
+  text: ""
+  author: ""
+  position:
+    latitude: 15.3795015
+    longitude: -31.994385
+    source: GPS
+  heading: 234
+  course: 220
+  speed:
+    stw: 4.5
+    sog: 4
+  log: 8983.6
+  waypoint:
+    longitude: -37.81505
+    latitude: 12.91008
+  barometer: 1015.98
+  wind:
+    speed: 17.4
+    direction: 88
+  engine:
+    hours: 931.8
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: navigation
+- datetime: 2025-01-06T06:25:54.899Z
+  text: Near miss again. A flying fish just went through the cockpit, passing just
+    behind the mainsheets
+  author: bergie
+  position:
+    latitude: 15.3548468
+    longitude: -32.0215126
+    source: GPS
+  heading: 228
+  course: 220
+  speed:
+    stw: 4.1
+    sog: 5.1
+  log: 8985.7
+  waypoint:
+    longitude: -37.81505
+    latitude: 12.91008
+  barometer: 1016.14
+  wind:
+    speed: 17.2
+    direction: 78
+  engine:
+    hours: 931.8
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: navigation
