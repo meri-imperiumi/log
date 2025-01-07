@@ -627,3 +627,58 @@
   crewNames:
     - ihmis-suski
     - bergie
+  category: navigation
+- datetime: 2025-01-07T19:00:08.102Z
+  text: ""
+  author: ""
+  position:
+    latitude: 13.5041353
+    longitude: -34.5719739
+    source: GPS
+  heading: 209
+  course: 208
+  speed:
+    stw: 2.6
+    sog: 4.5
+  log: 9173.8
+  waypoint:
+    longitude: -37.81505
+    latitude: 12.91008
+  barometer: 1014.74
+  wind:
+    speed: 12.5
+    direction: 61
+  engine:
+    hours: 931.8
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: navigation
+- datetime: 2025-01-07T19:24:41.100Z
+  text: "Sails set: Parasailor. Starboard tack"
+  author: bergie
+  position:
+    latitude: 13.4924611
+    longitude: -34.5898824
+    source: GPS
+  heading: 234
+  course: 236
+  speed:
+    stw: 4.2
+    sog: 5.4
+  log: 9175.2
+  waypoint:
+    longitude: -37.81505
+    latitude: 12.91008
+  barometer: 1014.85
+  wind:
+    speed: 13.4
+    direction: 71
+  engine:
+    hours: 931.8
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: navigation
