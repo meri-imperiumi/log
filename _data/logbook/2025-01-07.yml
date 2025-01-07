@@ -569,3 +569,35 @@
   crewNames:
     - ihmis-suski
     - bergie
+  category: navigation
+- datetime: 2025-01-07T17:00:08.102Z
+  text: '"Release the salad" manouver: clearing seaweed off the hydrogenerator '
+  author: bergie
+  position:
+    latitude: 13.6207606
+    longitude: -34.4671448
+    source: GPS
+  heading: 226
+  course: 235
+  speed:
+    stw: 3.9
+    sog: 4.8
+  log: 9164.5
+  waypoint:
+    longitude: -37.81505
+    latitude: 12.91008
+  barometer: 1014.43
+  wind:
+    speed: 16.6
+    direction: 71
+  engine:
+    hours: 931.8
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: navigation
+  observations:
+    cloudCoverage: 3
+    seaState: 4
+    visibility: 7
