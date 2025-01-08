@@ -56,3 +56,84 @@
     seaState: 4
     cloudCoverage: 4
     visibility: 7
+- datetime: 2025-01-08T02:00:05.200Z
+  text: ""
+  author: ""
+  position:
+    latitude: 13.3310166
+    longitude: -35.1864695
+    source: GPS
+  heading: 245
+  course: 241
+  speed:
+    stw: 0
+    sog: 7.2
+  log: 9211.9
+  waypoint:
+    longitude: -37.81505
+    latitude: 12.91008
+  barometer: 1017.08
+  wind:
+    speed: 16.5
+    direction: 80
+  engine:
+    hours: 931.8
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: navigation
+- datetime: 2025-01-08T02:30:05.300Z
+  text: Seaweed has gone from isolated small chunks to big sheets
+  author: bergie
+  position:
+    latitude: 13.3187693
+    longitude: -35.2333409
+    source: GPS
+  heading: 253
+  course: 243
+  speed:
+    stw: 0
+    sog: 5.9
+  log: 9214.8
+  waypoint:
+    longitude: -37.81505
+    latitude: 12.91008
+  barometer: 1016.99
+  wind:
+    speed: 12.7
+    direction: 63
+  engine:
+    hours: 931.8
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: navigation
+- datetime: 2025-01-08T02:56:03.300Z
+  text: "Removed a lot of seaweed from the hydrogenerator "
+  author: bergie
+  position:
+    latitude: 13.305176989237468
+    longitude: -35.27192916870117
+    source: GPS
+  heading: 247
+  course: 219
+  speed:
+    stw: 0
+    sog: 7.1
+  log: 9217.2
+  waypoint:
+    longitude: -37.81505
+    latitude: 12.91008
+  barometer: 1016.87
+  wind:
+    speed: 14.1
+    direction: 91
+  engine:
+    hours: 931.8
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: navigation
