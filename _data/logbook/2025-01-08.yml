@@ -520,3 +520,58 @@
   crewNames:
     - ihmis-suski
     - bergie
+  category: navigation
+- datetime: 2025-01-08T12:00:54.800Z
+  text: ""
+  author: ""
+  position:
+    latitude: 13.1098755
+    longitude: -36.0656575
+    source: GPS
+  heading: 250
+  course: 249
+  speed:
+    stw: 0
+    sog: 5.9
+  log: 9266.1
+  waypoint:
+    longitude: -37.81505
+    latitude: 12.91008
+  barometer: 1017.73
+  wind:
+    speed: 12.2
+    direction: 51
+  engine:
+    hours: 931.8
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: navigation
+- datetime: 2025-01-08T12:37:54.800Z
+  text: Changed new paper roll for the logbook printer
+  author: bergie
+  position:
+    latitude: 13.1032328
+    longitude: -36.1255051
+    source: GPS
+  heading: 268
+  course: 291
+  speed:
+    stw: 0
+    sog: 5.2
+  log: 9269.6
+  waypoint:
+    longitude: -37.81505
+    latitude: 12.91008
+  barometer: 1017.52
+  wind:
+    speed: 14.1
+    direction: 68
+  engine:
+    hours: 931.8
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: maintenance
