@@ -413,3 +413,30 @@
     seaState: 4
     cloudCoverage: 2
     visibility: 7
+- datetime: 2025-01-08T09:00:57.798Z
+  text: Salad released
+  author: ihmis-suski
+  position:
+    latitude: 13.1570508
+    longitude: -35.784048
+    source: GPS
+  heading: 250
+  course: 230
+  speed:
+    stw: 0
+    sog: 4
+  log: 9249.1
+  waypoint:
+    longitude: -37.81505
+    latitude: 12.91008
+  barometer: 1016.38
+  wind:
+    speed: 9.2
+    direction: 62
+  engine:
+    hours: 931.8
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: navigation
