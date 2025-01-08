@@ -24,3 +24,35 @@
   crewNames:
     - ihmis-suski
     - bergie
+  category: navigation
+- datetime: 2025-01-08T01:00:06.200Z
+  text: Bergie on watch. Windvane needs occasional help with staying on course
+  author: bergie
+  position:
+    latitude: 13.3618528
+    longitude: -35.0910413
+    source: GPS
+  heading: 239
+  course: 218
+  speed:
+    stw: 0
+    sog: 4
+  log: 9206
+  waypoint:
+    longitude: -37.81505
+    latitude: 12.91008
+  barometer: 1017.25
+  wind:
+    speed: 10.2
+    direction: 58
+  engine:
+    hours: 931.8
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: navigation
+  observations:
+    seaState: 4
+    cloudCoverage: 4
+    visibility: 7
