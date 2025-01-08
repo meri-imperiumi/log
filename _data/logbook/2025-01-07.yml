@@ -793,3 +793,58 @@
   crewNames:
     - ihmis-suski
     - bergie
+  category: navigation
+- datetime: 2025-01-07T23:00:05.196Z
+  text: ""
+  author: ""
+  position:
+    latitude: 13.4104513
+    longitude: -34.9044956
+    source: GPS
+  heading: 256
+  course: 273
+  speed:
+    stw: 0
+    sog: 5.1
+  log: 9194.5
+  waypoint:
+    longitude: -37.81505
+    latitude: 12.91008
+  barometer: 1017.26
+  wind:
+    speed: 12.5
+    direction: 52
+  engine:
+    hours: 931.8
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: navigation
+- datetime: 2025-01-07T23:05:05.203Z
+  text: Not knot meter is not knotting. Aka no boatspeed. At 22:59 UTC
+  author: ihmis-suski
+  position:
+    latitude: 13.4089566
+    longitude: -34.9122831
+    source: GPS
+  heading: 259
+  course: 251
+  speed:
+    stw: 0
+    sog: 4.8
+  log: 9195
+  waypoint:
+    longitude: -37.81505
+    latitude: 12.91008
+  barometer: 1017.27
+  wind:
+    speed: 9.8
+    direction: 56
+  engine:
+    hours: 931.8
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: navigation
