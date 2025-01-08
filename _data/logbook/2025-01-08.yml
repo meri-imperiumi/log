@@ -440,3 +440,57 @@
     - ihmis-suski
     - bergie
   category: navigation
+- datetime: 2025-01-08T10:00:56.800Z
+  text: ""
+  author: ""
+  position:
+    latitude: 13.1367873
+    longitude: -35.8780644
+    source: GPS
+  heading: 249
+  course: 241
+  speed:
+    stw: 0
+    sog: 5.2
+  log: 9254.8
+  waypoint:
+    longitude: -37.81505
+    latitude: 12.91008
+  barometer: 1016.93
+  wind:
+    speed: 14.6
+    direction: 94
+  engine:
+    hours: 931.8
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: navigation
+- datetime: 2025-01-08T10:39:54.800Z
+  text: "Mega salad released from hydro and windvane. "
+  author: ihmis-suski
+  position:
+    latitude: 13.1318581
+    longitude: -35.9411139
+    source: GPS
+  heading: 273
+  course: 279
+  speed:
+    stw: 0
+    sog: 5.3
+  log: 9258.5
+  waypoint:
+    longitude: -37.81505
+    latitude: 12.91008
+  barometer: 1017.35
+  wind:
+    speed: 13.7
+    direction: 66
+  engine:
+    hours: 931.8
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: navigation
