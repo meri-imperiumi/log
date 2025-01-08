@@ -273,3 +273,31 @@
   crewNames:
     - ihmis-suski
     - bergie
+  category: navigation
+- datetime: 2025-01-08T05:42:00.700Z
+  text: "Cleared the hydrogenerator "
+  author: bergie
+  position:
+    latitude: 13.2324018
+    longitude: -35.5183098
+    source: GPS
+  heading: 248
+  course: 267
+  speed:
+    stw: 0
+    sog: 5.5
+  log: 9232.6
+  waypoint:
+    longitude: -37.81505
+    latitude: 12.91008
+  barometer: 1015.59
+  wind:
+    speed: 13.9
+    direction: 28
+  engine:
+    hours: 931.8
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: navigation
