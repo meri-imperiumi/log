@@ -139,3 +139,59 @@
   category: navigation
   observations:
     cloudCoverage: 7
+- datetime: 2025-01-09T04:00:36.600Z
+  text: ""
+  author: bergie
+  position:
+    latitude: 12.9429858
+    longitude: -37.4805884
+    source: GPS
+  heading: 259
+  course: 238
+  speed:
+    stw: 0
+    sog: 5.2
+  log: 9351.4
+  waypoint:
+    longitude: -37.81505
+    latitude: 12.91008
+  barometer: 1015.07
+  wind:
+    speed: 15.4
+    direction: 55
+  engine:
+    hours: 931.8
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: navigation
+  observations:
+    cloudCoverage: 2
+- datetime: 2025-01-09T04:36:35.600Z
+  text: Released some salad
+  author: bergie
+  position:
+    latitude: 12.941494178771972
+    longitude: -37.52769349416097
+    source: GPS
+  heading: 267
+  course: 281
+  speed:
+    stw: 0
+    sog: 5.2
+  log: 9354.2
+  waypoint:
+    longitude: -37.81505
+    latitude: 12.91008
+  barometer: 1014.45
+  wind:
+    speed: 14.4
+    direction: 51
+  engine:
+    hours: 931.8
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: navigation
