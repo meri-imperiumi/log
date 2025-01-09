@@ -916,3 +916,57 @@
     - ihmis-suski
     - bergie
   category: navigation
+- datetime: 2025-01-09T21:00:08.396Z
+  text: ""
+  author: ""
+  position:
+    latitude: 12.9729804
+    longitude: -38.9944454
+    source: GPS
+  heading: 255
+  course: 243
+  speed:
+    stw: 4.5
+    sog: 4.6
+  log: 9441.4
+  waypoint:
+    longitude: -59.62959
+    latitude: 13.33838
+  barometer: 1013.32
+  wind:
+    speed: 13.3
+    direction: 79
+  engine:
+    hours: 931.8
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: navigation
+- datetime: 2025-01-09T21:55:06.803Z
+  text: Salad-be-gone
+  author: bergie
+  position:
+    latitude: 12.9648305
+    longitude: -39.0862971
+    source: GPS
+  heading: 268
+  course: 265
+  speed:
+    stw: 4.7
+    sog: 5.4
+  log: 9446.9
+  waypoint:
+    longitude: -59.62959
+    latitude: 13.33838
+  barometer: 1014.1
+  wind:
+    speed: 9.5
+    direction: 85
+  engine:
+    hours: 931.8
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: navigation
