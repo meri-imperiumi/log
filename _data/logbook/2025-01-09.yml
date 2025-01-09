@@ -830,3 +830,89 @@
   crewNames:
     - ihmis-suski
     - bergie
+  category: navigation
+- datetime: 2025-01-09T20:00:08.396Z
+  text: "Bergie on watch "
+  author: bergie
+  position:
+    latitude: 12.9821315
+    longitude: -38.895325
+    source: GPS
+  heading: 266
+  course: 251
+  speed:
+    stw: 5.5
+    sog: 6.4
+  log: 9435.6
+  waypoint:
+    longitude: -59.62959
+    latitude: 13.33838
+  barometer: 1012.82
+  wind:
+    speed: 14.4
+    direction: 69
+  engine:
+    hours: 931.8
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: navigation
+  observations:
+    seaState: 4
+    cloudCoverage: 3
+    visibility: 7
+- datetime: 2025-01-09T20:37:08.403Z
+  text: Released some salad
+  author: bergie
+  position:
+    latitude: 12.9754128
+    longitude: -38.9556003
+    source: GPS
+  heading: 285
+  course: 278
+  speed:
+    stw: 5.1
+    sog: 6.3
+  log: 9439.2
+  waypoint:
+    longitude: -59.62959
+    latitude: 13.33838
+  barometer: 1013.19
+  wind:
+    speed: 13.8
+    direction: 65
+  engine:
+    hours: 931.8
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: navigation
+- datetime: 2025-01-09T20:58:07.398Z
+  text: Released salad
+  author: bergie
+  position:
+    latitude: 12.9734729
+    longitude: -38.9909643
+    source: GPS
+  heading: 269
+  course: 262
+  speed:
+    stw: 5.6
+    sog: 5.6
+  log: 9441.2
+  waypoint:
+    longitude: -59.62959
+    latitude: 13.33838
+  barometer: 1013.35
+  wind:
+    speed: 12.8
+    direction: 67
+  engine:
+    hours: 931.8
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: navigation
