@@ -221,3 +221,112 @@
   crewNames:
     - ihmis-suski
     - bergie
+  category: navigation
+- datetime: 2025-01-09T06:00:32.600Z
+  text: ""
+  author: ""
+  position:
+    latitude: 12.9481231
+    longitude: -37.6437695
+    source: GPS
+  heading: 281
+  course: 281
+  speed:
+    stw: 4
+    sog: 3.7
+  log: 9361.1
+  waypoint:
+    longitude: -37.81505
+    latitude: 12.91008
+  barometer: 1013.81
+  wind:
+    speed: 14.9
+    direction: 72
+  engine:
+    hours: 931.8
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: navigation
+- datetime: 2025-01-09T06:11:32.700Z
+  text: Speed through water came back
+  author: bergie
+  position:
+    latitude: 12.9501253
+    longitude: -37.6572676
+    source: GPS
+  heading: 283
+  course: 244
+  speed:
+    stw: 4.2
+    sog: 4.9
+  log: 9361.9
+  waypoint:
+    longitude: -37.81505
+    latitude: 12.91008
+  barometer: 1013.91
+  wind:
+    speed: 14.6
+    direction: 90
+  engine:
+    hours: 931.8
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: navigation
+- datetime: 2025-01-09T06:21:32.700Z
+  text: Removed salad
+  author: bergie
+  position:
+    latitude: 12.952978
+    longitude: -37.6697433
+    source: GPS
+  heading: 292
+  course: 289
+  speed:
+    stw: 4.3
+    sog: 5.3
+  log: 9362.6
+  waypoint:
+    longitude: -37.81505
+    latitude: 12.91008
+  barometer: 1013.92
+  wind:
+    speed: 17.1
+    direction: 69
+  engine:
+    hours: 931.8
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: navigation
+- datetime: 2025-01-09T06:50:31.699Z
+  text: Poled out wing on wing
+  author: bergie
+  position:
+    latitude: 12.9610804
+    longitude: -37.7051301
+    source: GPS
+  heading: 284
+  course: 281
+  speed:
+    stw: 4.3
+    sog: 5.9
+  log: 9364.8
+  waypoint:
+    longitude: -37.81505
+    latitude: 12.91008
+  barometer: 1014.01
+  wind:
+    speed: 16.2
+    direction: 64
+  engine:
+    hours: 931.8
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: navigation
