@@ -664,3 +664,35 @@
     - ihmis-suski
     - bergie
   category: navigation
+- datetime: 2025-01-09T15:00:19.200Z
+  text: "The big swell from the north starts to be more defined. Long period
+    ~16sec , and mostly affects how long we can see into the horizon "
+  author: bergie
+  position:
+    latitude: 13.0030431
+    longitude: -38.4217801
+    source: GPS
+  heading: 272
+  course: 261
+  speed:
+    stw: 4.6
+    sog: 5.4
+  log: 9407.6
+  waypoint:
+    longitude: -59.39787
+    latitude: 13.02865
+  barometer: 1014.57
+  wind:
+    speed: 9.4
+    direction: 67
+  engine:
+    hours: 931.8
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: navigation
+  observations:
+    seaState: 5
+    cloudCoverage: 1
+    visibility: 7
