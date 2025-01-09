@@ -696,3 +696,57 @@
     seaState: 5
     cloudCoverage: 1
     visibility: 7
+- datetime: 2025-01-09T16:00:19.302Z
+  text: Released some salad
+  author: bergie
+  position:
+    latitude: 13.0013918
+    longitude: -38.5152003
+    source: GPS
+  heading: 273
+  course: 277
+  speed:
+    stw: 5.1
+    sog: 6.5
+  log: 9413.1
+  waypoint:
+    longitude: -59.39787
+    latitude: 13.02865
+  barometer: 1013.75
+  wind:
+    speed: 14.5
+    direction: 62
+  engine:
+    hours: 931.8
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: navigation
+- datetime: 2025-01-09T16:44:19.302Z
+  text: Suski on watch
+  author: bergie
+  position:
+    latitude: 12.9923819
+    longitude: -38.583756
+    source: GPS
+  heading: 272
+  course: 272
+  speed:
+    stw: 4.6
+    sog: 6.3
+  log: 9417.2
+  waypoint:
+    longitude: -59.39787
+    latitude: 13.02865
+  barometer: 1013.06
+  wind:
+    speed: 14.7
+    direction: 67
+  engine:
+    hours: 931.8
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: navigation
