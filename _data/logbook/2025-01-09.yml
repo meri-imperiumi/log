@@ -609,8 +609,9 @@
     - bergie
   category: navigation
 - datetime: 2025-01-09T13:27:21.200Z
-  text: Sailing vessel Lady Blue (227046830) crossing 4.5NM ahead, southbound.
-    Headed to Martinique gybing. Vessel 4.
+  text: Sail in the horizon! Sailing vessel Lady Blue (227046830) crossing 4.5NM
+    ahead, southbound. Had a short VHF chat. Headed to Martinique gybing. Vessel
+    5.
   author: bergie
   position:
     latitude: 12.9812478
@@ -636,3 +637,30 @@
     - ihmis-suski
     - bergie
   category: radio
+- datetime: 2025-01-09T14:00:22.201Z
+  text: ""
+  author: ""
+  position:
+    latitude: 12.9939201
+    longitude: -38.3301106
+    source: GPS
+  heading: 297
+  course: 301
+  speed:
+    stw: 4.6
+    sog: 4
+  log: 9402.2
+  waypoint:
+    longitude: -59.39787
+    latitude: 13.02865
+  barometer: 1015.5
+  wind:
+    speed: 12.1
+    direction: 84
+  engine:
+    hours: 931.8
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: navigation
