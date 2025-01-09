@@ -56,3 +56,57 @@
     cloudCoverage: 4
     seaState: 4
     visibility: 7
+- datetime: 2025-01-09T02:00:39.600Z
+  text: ""
+  author: ""
+  position:
+    latitude: 12.9454329
+    longitude: -37.3138288
+    source: GPS
+  heading: 264
+  course: 273
+  speed:
+    stw: 0
+    sog: 5.1
+  log: 9341.6
+  waypoint:
+    longitude: -37.81505
+    latitude: 12.91008
+  barometer: 1015.68
+  wind:
+    speed: 19.2
+    direction: 56
+  engine:
+    hours: 931.8
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: navigation
+- datetime: 2025-01-09T02:37:38.600Z
+  text: "Sails set: Main (1st reef), Genoa 1 (20% furled)"
+  author: ""
+  position:
+    latitude: 12.9432668
+    longitude: -37.3621386
+    source: GPS
+  heading: 271
+  course: 246
+  speed:
+    stw: 0
+    sog: 5
+  log: 9344.4
+  waypoint:
+    longitude: -37.81505
+    latitude: 12.91008
+  barometer: 1015.5
+  wind:
+    speed: 16.3
+    direction: 65
+  engine:
+    hours: 931.8
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: navigation
