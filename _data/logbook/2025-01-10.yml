@@ -628,3 +628,141 @@
     - ihmis-suski
     - bergie
   category: navigation
+- datetime: 2025-01-10T16:00:44.601Z
+  text: ""
+  author: ""
+  position:
+    latitude: 13.1540314
+    longitude: -40.6897466
+    source: GPS
+  heading: 290
+  course: 297
+  speed:
+    stw: 5
+    sog: 6
+  log: 9542.8
+  waypoint:
+    longitude: -59.62959
+    latitude: 13.33838
+  barometer: 1013.52
+  wind:
+    speed: 15.3
+    direction: 66
+  engine:
+    hours: 931.8
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: navigation
+- datetime: 2025-01-10T16:10:44.601Z
+  text: VHF call with Beachcomber. They're headed to BVI. We'll try to get photos
+    of each other
+  author: ihmis-suski
+  position:
+    latitude: 13.1580949
+    longitude: -40.7044471
+    source: GPS
+  heading: 292
+  course: 280
+  speed:
+    stw: 4.4
+    sog: 3.1
+  log: 9543.7
+  waypoint:
+    longitude: -59.62959
+    latitude: 13.33838
+  barometer: 1013.32
+  wind:
+    speed: 11.1
+    direction: 76
+  engine:
+    hours: 931.8
+  vhf: "9"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: radio
+- datetime: 2025-01-10T16:42:44.697Z
+  text: Beachcomber radioed again to confirm that they will manouver to cross us
+    from behind
+  author: bergie
+  position:
+    latitude: 13.167967160542807
+    longitude: -40.750051180521645
+    source: GPS
+  heading: 287
+  course: 300
+  speed:
+    stw: 4.3
+    sog: 5.1
+  log: 9546.4
+  waypoint:
+    longitude: -59.62959
+    latitude: 13.33838
+  barometer: 1013.02
+  wind:
+    speed: 12.4
+    direction: 62
+  engine:
+    hours: 931.8
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: radio
+- datetime: 2025-01-10T16:54:45.702Z
+  text: We crossed 0.2NM. Them behind us. Its like Havel out here!
+  author: ihmis-suski
+  position:
+    latitude: 13.1703506
+    longitude: -40.7674096
+    source: GPS
+  heading: 278
+  course: 286
+  speed:
+    stw: 5.2
+    sog: 4.5
+  log: 9547.5
+  waypoint:
+    longitude: -59.62959
+    latitude: 13.33838
+  barometer: 1012.95
+  wind:
+    speed: 12.1
+    direction: 67
+  engine:
+    hours: 931.8
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: navigation
+- datetime: 2025-01-10T16:56:45.702Z
+  text: Radioed and thanked them on a smooth close encounter. And told to wait for
+    photos around 20 utc.
+  author: ihmis-suski
+  position:
+    latitude: 13.1707996
+    longitude: -40.770399
+    source: GPS
+  heading: 288
+  course: 285
+  speed:
+    stw: 4.6
+    sog: 4.7
+  log: 9547.6
+  waypoint:
+    longitude: -59.62959
+    latitude: 13.33838
+  barometer: 1012.98
+  wind:
+    speed: 10.4
+    direction: 79
+  engine:
+    hours: 931.8
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: radio
