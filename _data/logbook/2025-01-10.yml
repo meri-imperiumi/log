@@ -546,3 +546,85 @@
     - ihmis-suski
     - bergie
   category: navigation
+- datetime: 2025-01-10T15:00:44.601Z
+  text: ""
+  author: ""
+  position:
+    latitude: 13.1283675
+    longitude: -40.6051326
+    source: GPS
+  heading: 293
+  course: 303
+  speed:
+    stw: 5.1
+    sog: 6.5
+  log: 9537.6
+  waypoint:
+    longitude: -59.62959
+    latitude: 13.33838
+  barometer: 1014.53
+  wind:
+    speed: 14.6
+    direction: 81
+  engine:
+    hours: 931.8
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: navigation
+- datetime: 2025-01-10T15:16:44.601Z
+  text: Vessel 6! Catamaran Beachcomber (232058485) passing us ahead in an hour.
+    Will be close. 2 nm or so.
+  author: ihmis-suski
+  position:
+    latitude: 13.1340703
+    longitude: -40.6289163
+    source: GPS
+  heading: 292
+  course: 298
+  speed:
+    stw: 4.6
+    sog: 5.9
+  log: 9539
+  waypoint:
+    longitude: -59.62959
+    latitude: 13.33838
+  barometer: 1014.35
+  wind:
+    speed: 12
+    direction: 84
+  engine:
+    hours: 931.8
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: navigation
+- datetime: 2025-01-10T15:35:43.603Z
+  text: "Lot of sargasso weeds. "
+  author: ihmis-suski
+  position:
+    latitude: 13.1428343
+    longitude: -40.6553131
+    source: GPS
+  heading: 279
+  course: 279
+  speed:
+    stw: 4.8
+    sog: 6
+  log: 9540.7
+  waypoint:
+    longitude: -59.62959
+    latitude: 13.33838
+  barometer: 1013.95
+  wind:
+    speed: 14.2
+    direction: 93
+  engine:
+    hours: 931.8
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: navigation
