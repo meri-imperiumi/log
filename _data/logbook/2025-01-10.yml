@@ -55,8 +55,8 @@
   observations:
     cloudCoverage: 4
 - datetime: 2025-01-10T02:00:03.900Z
-  text: ""
-  author: ""
+  text: Suski on watch
+  author: ihmis-suski
   position:
     latitude: 12.9473428
     longitude: -39.4688946
@@ -134,3 +134,31 @@
   crewNames:
     - ihmis-suski
     - bergie
+  category: navigation
+- datetime: 2025-01-10T04:02:00.899Z
+  text: Readjusted hydro line. It has a small chafe mark.
+  author: ihmis-suski
+  position:
+    latitude: 12.9663094
+    longitude: -39.6473871
+    source: GPS
+  heading: 268
+  course: 263
+  speed:
+    stw: 4.7
+    sog: 5.2
+  log: 9480
+  waypoint:
+    longitude: -59.62959
+    latitude: 13.33838
+  barometer: 1014
+  wind:
+    speed: 10
+    direction: 55
+  engine:
+    hours: 931.8
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: navigation
