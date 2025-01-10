@@ -54,3 +54,56 @@
   category: navigation
   observations:
     cloudCoverage: 4
+- datetime: 2025-01-10T02:00:03.900Z
+  text: ""
+  author: ""
+  position:
+    latitude: 12.9473428
+    longitude: -39.4688946
+    source: GPS
+  heading: 278
+  course: 274
+  speed:
+    stw: 4.7
+    sog: 4.7
+  log: 9469.4
+  waypoint:
+    longitude: -59.62959
+    latitude: 13.33838
+  barometer: 1014.49
+  wind:
+    speed: 12.4
+    direction: 67
+  engine:
+    hours: 931.8
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: navigation
+- datetime: 2025-01-10T03:00:02.900Z
+  text: ""
+  author: ""
+  position:
+    latitude: 12.9566649
+    longitude: -39.5588406
+    source: GPS
+  heading: 286
+  course: 283
+  speed:
+    stw: 4.5
+    sog: 6.6
+  log: 9474.8
+  waypoint:
+    longitude: -59.62959
+    latitude: 13.33838
+  barometer: 1014.33
+  wind:
+    speed: 12.5
+    direction: 56
+  engine:
+    hours: 931.8
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
