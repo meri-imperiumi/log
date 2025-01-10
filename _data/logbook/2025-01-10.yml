@@ -766,3 +766,57 @@
     - ihmis-suski
     - bergie
   category: radio
+- datetime: 2025-01-10T17:00:44.697Z
+  text: ""
+  author: ""
+  position:
+    latitude: 13.1718453
+    longitude: -40.7757643
+    source: GPS
+  heading: 276
+  course: 274
+  speed:
+    stw: 4.3
+    sog: 5
+  log: 9548
+  waypoint:
+    longitude: -59.62959
+    latitude: 13.33838
+  barometer: 1012.95
+  wind:
+    speed: 11.7
+    direction: 96
+  engine:
+    hours: 931.8
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: navigation
+- datetime: 2025-01-10T17:51:44.697Z
+  text: 1000nm done!
+  author: ihmis-suski
+  position:
+    latitude: 13.1848143
+    longitude: -40.8485003
+    source: GPS
+  heading: 273
+  course: 283
+  speed:
+    stw: 5
+    sog: 6
+  log: 9552.3
+  waypoint:
+    longitude: -59.62959
+    latitude: 13.33838
+  barometer: 1012.64
+  wind:
+    speed: 13.2
+    direction: 60
+  engine:
+    hours: 931.8
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: navigation
