@@ -820,3 +820,57 @@
     - ihmis-suski
     - bergie
   category: navigation
+- datetime: 2025-01-10T18:00:44.697Z
+  text: ""
+  author: ""
+  position:
+    latitude: 13.1867828
+    longitude: -40.8610286
+    source: GPS
+  heading: 292
+  course: 290
+  speed:
+    stw: 4.1
+    sog: 3.8
+  log: 9553.1
+  waypoint:
+    longitude: -59.62959
+    latitude: 13.33838
+  barometer: 1012.63
+  wind:
+    speed: 9.5
+    direction: 78
+  engine:
+    hours: 931.8
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: navigation
+- datetime: 2025-01-10T18:30:44.697Z
+  text: "Jibed to starboard "
+  author: ihmis-suski
+  position:
+    latitude: 13.18885833422343
+    longitude: -40.89970747629801
+    source: GPS
+  heading: 250
+  course: 250
+  speed:
+    stw: 4
+    sog: 6.2
+  log: 9555.4
+  waypoint:
+    longitude: -59.62959
+    latitude: 13.33838
+  barometer: 1012.72
+  wind:
+    speed: 11.5
+    direction: 81
+  engine:
+    hours: 931.8
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: navigation
