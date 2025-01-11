@@ -1,0 +1,55 @@
+- datetime: 2025-01-11T00:00:38.200Z
+  text: ""
+  author: ""
+  position:
+    latitude: 13.0153743
+    longitude: -41.2642448
+    source: GPS
+  heading: 250
+  course: 247
+  speed:
+    stw: 3.9
+    sog: 3.4
+  log: 9579.4
+  waypoint:
+    longitude: -59.62959
+    latitude: 13.33838
+  barometer: 1016.18
+  wind:
+    speed: 10.1
+    direction: 100
+  engine:
+    hours: 931.8
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: navigation
+- datetime: 2025-01-11T00:43:38.200Z
+  text: Curious, we had a countercurrent for a while. Now there's again a small
+    current helping us along
+  author: bergie
+  position:
+    latitude: 12.9974836
+    longitude: -41.3132289
+    source: GPS
+  heading: 239
+  course: 240
+  speed:
+    stw: 4
+    sog: 4.9
+  log: 9582.5
+  waypoint:
+    longitude: -59.62959
+    latitude: 13.33838
+  barometer: 1016.06
+  wind:
+    speed: 10.3
+    direction: 78
+  engine:
+    hours: 931.8
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: navigation
