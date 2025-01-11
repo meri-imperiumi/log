@@ -133,3 +133,58 @@
   crewNames:
     - ihmis-suski
     - bergie
+  category: navigation
+- datetime: 2025-01-11T04:00:36.300Z
+  text: ""
+  author: ""
+  position:
+    latitude: 12.9139169
+    longitude: -41.5259748
+    source: GPS
+  heading: 247
+  course: 236
+  speed:
+    stw: 3.2
+    sog: 3.7
+  log: 9596
+  waypoint:
+    longitude: -59.62959
+    latitude: 13.33838
+  barometer: 1015.28
+  wind:
+    speed: 8.8
+    direction: 114
+  engine:
+    hours: 931.8
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: navigation
+- datetime: 2025-01-11T04:57:35.299Z
+  text: It is an active salad night.
+  author: ihmis-suski
+  position:
+    latitude: 12.894937515258789
+    longitude: -41.58735733032226
+    source: GPS
+  heading: 248
+  course: 234
+  speed:
+    stw: 3.6
+    sog: 4.7
+  log: 9599.8
+  waypoint:
+    longitude: -59.62959
+    latitude: 13.33838
+  barometer: 1015.02
+  wind:
+    speed: 10.1
+    direction: 78
+  engine:
+    hours: 931.8
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: navigation
