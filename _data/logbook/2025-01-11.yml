@@ -436,3 +436,63 @@
   crewNames:
     - ihmis-suski
     - bergie
+  category: navigation
+- datetime: 2025-01-11T13:00:26.899Z
+  text: The Parasailor inverted, but then cleared itself
+  author: bergie
+  position:
+    latitude: 12.6270715
+    longitude: -42.1333441
+    source: GPS
+  heading: 232
+  course: 242
+  speed:
+    stw: 4
+    sog: 3.8
+  log: 9636
+  waypoint:
+    longitude: -59.62959
+    latitude: 13.33838
+  barometer: 1017.39
+  wind:
+    speed: 10.6
+    direction: 77
+  engine:
+    hours: 931.8
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: navigation
+- datetime: 2025-01-11T13:10:26.899Z
+  text: Gybed back to starboard tack and course to Barbados. Sheet and tack lines
+    had wrapped the bowsprit so had to clear those first
+  author: bergie
+  position:
+    latitude: 12.6204734
+    longitude: -42.145671
+    source: GPS
+  heading: 250
+  course: 253
+  speed:
+    stw: 4.7
+    sog: 5.1
+  log: 9636.9
+  waypoint:
+    longitude: -59.62959
+    latitude: 13.33838
+  barometer: 1017.37
+  wind:
+    speed: 11.5
+    direction: 73
+  engine:
+    hours: 931.8
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: navigation
+  observations:
+    seaState: 3
+    cloudCoverage: 3
+    visibility: 7
