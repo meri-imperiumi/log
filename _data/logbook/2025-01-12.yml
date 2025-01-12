@@ -570,3 +570,84 @@
     - ihmis-suski
     - bergie
   category: navigation
+- datetime: 2025-01-12T15:00:42.297Z
+  text: ""
+  author: ""
+  position:
+    latitude: 12.3370728
+    longitude: -44.6110033
+    source: GPS
+  heading: 262
+  course: 250
+  speed:
+    stw: 4.4
+    sog: 6.3
+  log: 9784.5
+  waypoint:
+    longitude: -59.62959
+    latitude: 13.33838
+  barometer: 1016.7
+  wind:
+    speed: 16.3
+    direction: 48
+  engine:
+    hours: 931.8
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: navigation
+- datetime: 2025-01-12T15:40:16.300Z
+  text: Autopilot set to wind mode
+  author: ""
+  position:
+    latitude: 12.3282089
+    longitude: -44.6675299
+    source: GPS
+  heading: 244
+  course: 244
+  speed:
+    stw: 4.1
+    sog: 4.7
+  log: 9787.9
+  waypoint:
+    longitude: -59.62959
+    latitude: 13.33838
+  barometer: 1016.1
+  wind:
+    speed: 14.4
+    direction: 64
+  engine:
+    hours: 931.8
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: navigation
+- datetime: 2025-01-12T15:49:41.299Z
+  text: Watermaker on
+  author: ihmis-suski
+  position:
+    latitude: 12.3254841
+    longitude: -44.6811163
+    source: GPS
+  heading: 255
+  course: 257
+  speed:
+    stw: 4.5
+    sog: 5.2
+  log: 9788.7
+  waypoint:
+    longitude: -59.62959
+    latitude: 13.33838
+  barometer: 1016.1
+  wind:
+    speed: 14.3
+    direction: 47
+  engine:
+    hours: 931.8
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: maintenance
