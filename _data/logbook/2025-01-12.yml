@@ -354,3 +354,84 @@
     - ihmis-suski
     - bergie
   category: navigation
+- datetime: 2025-01-12T09:00:52.099Z
+  text: ""
+  author: ""
+  position:
+    latitude: 12.3678284
+    longitude: -44.0919939
+    source: GPS
+  heading: 283
+  course: 281
+  speed:
+    stw: 4.4
+    sog: 4.7
+  log: 9753.6
+  waypoint:
+    longitude: -59.62959
+    latitude: 13.33838
+  barometer: 1014.93
+  wind:
+    speed: 16.5
+    direction: 66
+  engine:
+    hours: 931.8
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: navigation
+- datetime: 2025-01-12T09:11:24.099Z
+  text: "Sails set: Main (1st reef), Genoa 1 (10% furled)"
+  author: ""
+  position:
+    latitude: 12.3681043
+    longitude: -44.1076188
+    source: GPS
+  heading: 267
+  course: 254
+  speed:
+    stw: 4.8
+    sog: 5.3
+  log: 9754.5
+  waypoint:
+    longitude: -59.62959
+    latitude: 13.33838
+  barometer: 1015.16
+  wind:
+    speed: 14.3
+    direction: 85
+  engine:
+    hours: 931.8
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: navigation
+- datetime: 2025-01-12T09:22:51.100Z
+  text: Sunrise, looking like a VGA-era banded gradient
+  author: bergie
+  position:
+    latitude: 12.3703249
+    longitude: -44.1254898
+    source: GPS
+  heading: 280
+  course: 275
+  speed:
+    stw: 4.3
+    sog: 5.2
+  log: 9755.5
+  waypoint:
+    longitude: -59.62959
+    latitude: 13.33838
+  barometer: 1015.26
+  wind:
+    speed: 12.8
+    direction: 77
+  engine:
+    hours: 931.8
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: navigation
