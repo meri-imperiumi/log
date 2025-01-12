@@ -299,3 +299,58 @@
   crewNames:
     - ihmis-suski
     - bergie
+  category: navigation
+- datetime: 2025-01-12T08:00:53.100Z
+  text: Bergie on watch
+  author: bergie
+  position:
+    latitude: 12.3590849
+    longitude: -44.0092154
+    source: GPS
+  heading: 260
+  course: 268
+  speed:
+    stw: 4.3
+    sog: 5.3
+  log: 9748.6
+  waypoint:
+    longitude: -59.62959
+    latitude: 13.33838
+  barometer: 1014.89
+  wind:
+    speed: 14
+    direction: 50
+  engine:
+    hours: 931.8
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: navigation
+- datetime: 2025-01-12T08:04:11.100Z
+  text: Autopilot deactivated, windvane steering
+  author: bergie
+  position:
+    latitude: 12.3584563
+    longitude: -44.01383
+    source: GPS
+  heading: 267
+  course: 276
+  speed:
+    stw: 4.3
+    sog: 4.6
+  log: 9748.9
+  waypoint:
+    longitude: -59.62959
+    latitude: 13.33838
+  barometer: 1014.88
+  wind:
+    speed: 14
+    direction: 70
+  engine:
+    hours: 931.8
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: navigation
