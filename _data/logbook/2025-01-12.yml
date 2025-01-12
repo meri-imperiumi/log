@@ -84,8 +84,8 @@
   observations:
     cloudCoverage: 4
 - datetime: 2025-01-12T01:59:59.600Z
-  text: ""
-  author: ""
+  text: "Suski on watch "
+  author: bergie
   position:
     latitude: 12.4290368
     longitude: -43.4414323
@@ -109,6 +109,7 @@
   crewNames:
     - ihmis-suski
     - bergie
+  category: navigation
 - datetime: 2025-01-12T02:52:33.600Z
   text: "Sails set: Main (1st reef), Genoa 1 (30% furled)"
   author: bergie
@@ -156,6 +157,34 @@
   wind:
     speed: 16.3
     direction: 43
+  engine:
+    hours: 931.8
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: navigation
+- datetime: 2025-01-12T03:30:58.600Z
+  text: You can only see the few brightest stars as the nearly full moon is so
+    bright.
+  author: ihmis-suski
+  position:
+    latitude: 12.3970406
+    longitude: -43.5750861
+    source: GPS
+  heading: 255
+  course: 245
+  speed:
+    stw: 5
+    sog: 5.5
+  log: 9722.8
+  waypoint:
+    longitude: -59.62959
+    latitude: 13.33838
+  barometer: 1015.82
+  wind:
+    speed: 18.1
+    direction: 38
   engine:
     hours: 931.8
   vhf: "16"
