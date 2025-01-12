@@ -1,79 +1,23 @@
-- datetime: 2025-01-12T00:00:02.600Z
-  text: ""
-  author: bergie
-  position:
-    latitude: 12.4759735
-    longitude: -43.2289985
-    source: GPS
-  heading: 257
-  course: 242
-  speed:
-    stw: 5.7
-    sog: 5.7
-  log: 9701.9
-  waypoint:
-    longitude: -59.62959
-    latitude: 13.33838
-  barometer: 1015.93
-  wind:
-    speed: 12
-    direction: 74
-  engine:
-    hours: 931.8
-  vhf: "16"
-  crewNames:
-    - ihmis-suski
-    - bergie
-  category: navigation
-  observations:
-    cloudCoverage: 7
-- datetime: 2025-01-12T01:00:00.600Z
-  text: ""
+- datetime: 2025-01-12T02:52:33.600Z
+  text: "Sails set: Genoa 1 (30% furled)"
   author: ""
   position:
-    latitude: 12.4518186
-    longitude: -43.3362338
+    latitude: 12.411129824320476
+    longitude: -43.51260865529378
     source: GPS
-  heading: 272
-  course: 267
+  heading: 265
+  course: 253
   speed:
-    stw: 4.7
-    sog: 7.3
-  log: 9708.4
+    stw: 4.5
+    sog: 5.7
+  log: 9719.1
   waypoint:
     longitude: -59.62959
     latitude: 13.33838
-  barometer: 1016.28
-  wind:
-    speed: 17.7
-    direction: 53
-  engine:
-    hours: 931.8
-  vhf: "16"
-  crewNames:
-    - ihmis-suski
-    - bergie
-  category: navigation
-- datetime: 2025-01-12T01:25:00.600Z
-  text: Triple digits! 999NM to go
-  author: bergie
-  position:
-    latitude: 12.44116465250651
-    longitude: -43.380441157023114
-    source: GPS
-  heading: 247
-  course: 244
-  speed:
-    stw: 5.2
-    sog: 4.6
-  log: 9711
-  waypoint:
-    longitude: -59.62959
-    latitude: 13.33838
-  barometer: 1016.21
+  barometer: 1016.09
   wind:
     speed: 11.5
-    direction: 38
+    direction: 52
   engine:
     hours: 931.8
   vhf: "16"
@@ -81,31 +25,3 @@
     - ihmis-suski
     - bergie
   category: navigation
-  observations:
-    cloudCoverage: 4
-- datetime: 2025-01-12T01:59:59.600Z
-  text: ""
-  author: ""
-  position:
-    latitude: 12.4290368
-    longitude: -43.4414323
-    source: GPS
-  heading: 264
-  course: 262
-  speed:
-    stw: 5.3
-    sog: 5.3
-  log: 9714.7
-  waypoint:
-    longitude: -59.62959
-    latitude: 13.33838
-  barometer: 1016.23
-  wind:
-    speed: 9.8
-    direction: 60
-  engine:
-    hours: 931.8
-  vhf: "16"
-  crewNames:
-    - ihmis-suski
-    - bergie
