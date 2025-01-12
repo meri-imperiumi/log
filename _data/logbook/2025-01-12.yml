@@ -814,7 +814,7 @@
     - bergie
   category: navigation
 - datetime: 2025-01-12T19:53:37.401Z
-  text: Watermaker 239ppm. Jug full. Stopping for today.
+  text: Stopped watermaker, 239ppm. Jug full. Stopping for today.
   author: ihmis-suski
   position:
     latitude: 12.2892446
@@ -840,3 +840,34 @@
     - ihmis-suski
     - bergie
   category: maintenance
+- datetime: 2025-01-12T20:00:36.499Z
+  text: Bergie on watch
+  author: bergie
+  position:
+    latitude: 12.2877785
+    longitude: -45.0527286
+    source: GPS
+  heading: 267
+  course: 280
+  speed:
+    stw: 4.9
+    sog: 5.2
+  log: 9810.8
+  waypoint:
+    longitude: -59.62959
+    latitude: 13.33838
+  barometer: 1015.03
+  wind:
+    speed: 17.8
+    direction: 56
+  engine:
+    hours: 931.8
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: navigation
+  observations:
+    cloudCoverage: 2
+    seaState: 3
+    visibility: 7
