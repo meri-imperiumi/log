@@ -302,3 +302,62 @@
   crewNames:
     - ihmis-suski
     - bergie
+  category: navigation
+- datetime: 2025-01-13T08:00:17.100Z
+  text: Bergie on watch
+  author: bergie
+  position:
+    latitude: 12.2731204
+    longitude: -46.1023526
+    source: GPS
+  heading: 270
+  course: 285
+  speed:
+    stw: 4.2
+    sog: 3.6
+  log: 9874.7
+  waypoint:
+    longitude: -59.62959
+    latitude: 13.33838
+  barometer: 1015.03
+  wind:
+    speed: 16.6
+    direction: 67
+  engine:
+    hours: 931.8
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: navigation
+  observations:
+    seaState: 4
+    cloudCoverage: 3
+    visibility: 7
+- datetime: 2025-01-13T08:27:08.099Z
+  text: "Sails set: Main (1st reef), Genoa 1 (30% furled), Staysail"
+  author: ""
+  position:
+    latitude: 12.2744876
+    longitude: -46.1351414
+    source: GPS
+  heading: 240
+  course: 241
+  speed:
+    stw: 3.9
+    sog: 4.8
+  log: 9876.7
+  waypoint:
+    longitude: -59.62959
+    latitude: 13.33838
+  barometer: 1015.03
+  wind:
+    speed: 14.7
+    direction: 67
+  engine:
+    hours: 931.8
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: navigation
