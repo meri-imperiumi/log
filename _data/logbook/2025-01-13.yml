@@ -637,3 +637,89 @@
     - ihmis-suski
     - bergie
   category: navigation
+- datetime: 2025-01-13T14:00:10.300Z
+  text: Suski on watch.
+  author: ihmis-suski
+  position:
+    latitude: 12.354883
+    longitude: -46.6488561
+    source: GPS
+  heading: 285
+  course: 294
+  speed:
+    stw: 3.7
+    sog: 3.8
+  log: 9907.7
+  waypoint:
+    longitude: -59.62959
+    latitude: 13.33838
+  barometer: 1015.03
+  wind:
+    speed: 13.5
+    direction: 77
+  engine:
+    hours: 931.8
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: navigation
+- datetime: 2025-01-13T14:17:09.600Z
+  text: "A very large fish swimming next to the boat. Maybe a meter long. No fin
+    poking out. "
+  author: ihmis-suski
+  position:
+    latitude: 12.3586731
+    longitude: -46.6753821
+    source: GPS
+  heading: 273
+  course: 262
+  speed:
+    stw: 4.6
+    sog: 3.3
+  log: 9909.3
+  waypoint:
+    longitude: -59.62959
+    latitude: 13.33838
+  barometer: 1015.03
+  wind:
+    speed: 11.4
+    direction: 55
+  engine:
+    hours: 931.8
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: navigation
+  observations:
+    seaState: 4
+    cloudCoverage: 2
+    visibility: 7
+- datetime: 2025-01-13T14:46:09.699Z
+  text: Watermaker 242ppm. Jug full.
+  author: ihmis-suski
+  position:
+    latitude: 12.3677988
+    longitude: -46.7195778
+    source: GPS
+  heading: 265
+  course: 250
+  speed:
+    stw: 4.5
+    sog: 5.7
+  log: 9912
+  waypoint:
+    longitude: -59.62959
+    latitude: 13.33838
+  barometer: 1015.03
+  wind:
+    speed: 17
+    direction: 59
+  engine:
+    hours: 931.8
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: maintenance
