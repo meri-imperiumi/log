@@ -79,3 +79,34 @@
     - ihmis-suski
     - bergie
   category: navigation
+- datetime: 2025-01-13T02:00:23.900Z
+  text: Suski on watch
+  author: ihmis-suski
+  position:
+    latitude: 12.1830623
+    longitude: -45.5698073
+    source: GPS
+  heading: 293
+  course: 274
+  speed:
+    stw: 6.1
+    sog: 7.1
+  log: 9842.3
+  waypoint:
+    longitude: -59.62959
+    latitude: 13.33838
+  barometer: 1015.03
+  wind:
+    speed: 19.9
+    direction: 69
+  engine:
+    hours: 931.8
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: navigation
+  observations:
+    seaState: 4
+    cloudCoverage: 3
+    visibility: 7
