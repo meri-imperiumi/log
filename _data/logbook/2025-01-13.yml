@@ -967,8 +967,8 @@
     - bergie
   category: navigation
 - datetime: 2025-01-13T20:00:04.800Z
-  text: ""
-  author: ""
+  text: Bergie on watch
+  author: bergie
   position:
     latitude: 12.3398344
     longitude: -47.2019848
@@ -992,3 +992,31 @@
   crewNames:
     - ihmis-suski
     - bergie
+  category: navigation
+- datetime: 2025-01-13T20:30:32.800Z
+  text: "Sails set: Parasailor"
+  author: ""
+  position:
+    latitude: 12.3363471
+    longitude: -47.2341773
+    source: GPS
+  heading: 279
+  course: 285
+  speed:
+    stw: 4
+    sog: 4.7
+  log: 9942.6
+  waypoint:
+    longitude: -59.62959
+    latitude: 13.33838
+  barometer: 1015.03
+  wind:
+    speed: 14.2
+    direction: 49
+  engine:
+    hours: 931.8
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: navigation
