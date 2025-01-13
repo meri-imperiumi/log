@@ -110,3 +110,88 @@
     seaState: 4
     cloudCoverage: 3
     visibility: 7
+- datetime: 2025-01-13T03:00:23.000Z
+  text: ""
+  author: ""
+  position:
+    latitude: 12.1903173
+    longitude: -45.6594796
+    source: GPS
+  heading: 274
+  course: 287
+  speed:
+    stw: 4.9
+    sog: 6.2
+  log: 9847.7
+  waypoint:
+    longitude: -59.62959
+    latitude: 13.33838
+  barometer: 1015.03
+  wind:
+    speed: 23.7
+    direction: 39
+  engine:
+    hours: 931.8
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: navigation
+- datetime: 2025-01-13T03:26:22.000Z
+  text: Need to adjust Starbuck from time to time for optimal course
+  author: ihmis-suski
+  position:
+    latitude: 12.1918016
+    longitude: -45.6986671
+    source: GPS
+  heading: 299
+  course: 290
+  speed:
+    stw: 5.5
+    sog: 8.8
+  log: 9850
+  waypoint:
+    longitude: -59.62959
+    latitude: 13.33838
+  barometer: 1015.03
+  wind:
+    speed: 24.2
+    direction: 64
+  engine:
+    hours: 931.8
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: navigation
+- datetime: 2025-01-13T03:54:22.000Z
+  text: Slight drizzle.
+  author: ihmis-suski
+  position:
+    latitude: 12.1972973
+    longitude: -45.7396451
+    source: GPS
+  heading: 275
+  course: 273
+  speed:
+    stw: 5.3
+    sog: 6.1
+  log: 9852.5
+  waypoint:
+    longitude: -59.62959
+    latitude: 13.33838
+  barometer: 1015.03
+  wind:
+    speed: 22.6
+    direction: 34
+  engine:
+    hours: 931.8
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: navigation
+  observations:
+    seaState: 4
+    cloudCoverage: 5
+    visibility: 7
