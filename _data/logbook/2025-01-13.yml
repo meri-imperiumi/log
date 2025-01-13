@@ -361,3 +361,61 @@
     - ihmis-suski
     - bergie
   category: navigation
+- datetime: 2025-01-13T09:00:16.099Z
+  text: ""
+  author: ""
+  position:
+    latitude: 12.2752814
+    longitude: -46.1853875
+    source: GPS
+  heading: 273
+  course: 282
+  speed:
+    stw: 4.7
+    sog: 4.5
+  log: 9879.7
+  waypoint:
+    longitude: -59.62959
+    latitude: 13.33838
+  barometer: 1015.03
+  wind:
+    speed: 16.8
+    direction: 59
+  engine:
+    hours: 931.8
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: navigation
+- datetime: 2025-01-13T09:32:15.100Z
+  text: Sun is up
+  author: bergie
+  position:
+    latitude: 12.279754988352458
+    longitude: -46.235158840815224
+    source: GPS
+  heading: 257
+  course: 264
+  speed:
+    stw: 4.7
+    sog: 5.8
+  log: 9882.7
+  waypoint:
+    longitude: -59.62959
+    latitude: 13.33838
+  barometer: 1015.03
+  wind:
+    speed: 13.6
+    direction: 41
+  engine:
+    hours: 931.8
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: navigation
+  observations:
+    seaState: 4
+    cloudCoverage: 2
+    visibility: 7
