@@ -1073,3 +1073,31 @@
   crewNames:
     - ihmis-suski
     - bergie
+  category: navigation
+- datetime: 2025-01-13T22:53:58.899Z
+  text: That 22kt gust wasn't fun, too much weather helm for Nissinen
+  author: bergie
+  position:
+    latitude: 12.3106376
+    longitude: -47.45223
+    source: GPS
+  heading: 294
+  course: 294
+  speed:
+    stw: 5.6
+    sog: 7
+  log: 9955.6
+  waypoint:
+    longitude: -59.62959
+    latitude: 13.33838
+  barometer: 1015.03
+  wind:
+    speed: 20.5
+    direction: 43
+  engine:
+    hours: 931.8
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: navigation
