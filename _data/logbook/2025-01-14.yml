@@ -469,3 +469,88 @@
     - ihmis-suski
     - bergie
   category: navigation
+- datetime: 2025-01-14T12:00:40.601Z
+  text: ""
+  author: ""
+  position:
+    latitude: 12.3422426
+    longitude: -48.3543789
+    source: GPS
+  heading: 283
+  course: 280
+  speed:
+    stw: 1.6
+    sog: 1.9
+  log: 10010.3
+  waypoint:
+    longitude: -59.62959
+    latitude: 13.33838
+  barometer: 1015.03
+  wind:
+    speed: 6.8
+    direction: 76
+  engine:
+    hours: 931.8
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: navigation
+- datetime: 2025-01-14T12:06:40.601Z
+  text: Third squall, let's see how this one is
+  author: bergie
+  position:
+    latitude: 12.343420505523682
+    longitude: -48.35857534408569
+    source: GPS
+  heading: 279
+  course: 267
+  speed:
+    stw: 2.4
+    sog: 2.9
+  log: 10010.5
+  waypoint:
+    longitude: -59.62959
+    latitude: 13.33838
+  barometer: 1015.03
+  wind:
+    speed: 12.7
+    direction: 57
+  engine:
+    hours: 931.8
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: navigation
+  observations:
+    seaState: 4
+    cloudCoverage: 5
+    visibility: 6
+- datetime: 2025-01-14T12:15:40.601Z
+  text: Have to say I'm glad we took the spinnaker down, gusting to 29kt
+  author: bergie
+  position:
+    latitude: 12.3483528
+    longitude: -48.3696099
+    source: GPS
+  heading: 295
+  course: 307
+  speed:
+    stw: 4.4
+    sog: 5.4
+  log: 10011.2
+  waypoint:
+    longitude: -59.62959
+    latitude: 13.33838
+  barometer: 1015.03
+  wind:
+    speed: 22.6
+    direction: 64
+  engine:
+    hours: 931.8
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: navigation
