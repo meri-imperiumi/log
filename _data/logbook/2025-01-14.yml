@@ -51,3 +51,58 @@
   crewNames:
     - ihmis-suski
     - bergie
+  category: navigation
+- datetime: 2025-01-14T02:00:55.000Z
+  text: Dolphins in the dark and Suski on watch.
+  author: bergie
+  position:
+    latitude: 12.2892484
+    longitude: -47.7236198
+    source: GPS
+  heading: 277
+  course: 277
+  speed:
+    stw: 4.5
+    sog: 6.4
+  log: 9971.8
+  waypoint:
+    longitude: -59.62959
+    latitude: 13.33838
+  barometer: 1015.03
+  wind:
+    speed: 14
+    direction: 57
+  engine:
+    hours: 931.8
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: navigation
+- datetime: 2025-01-14T02:00:55.000Z
+  text: Dolphins in the dark
+  author: bergie
+  position:
+    latitude: 12.2892484
+    longitude: -47.7236198
+    source: GPS
+  heading: 277
+  course: 277
+  speed:
+    stw: 4.5
+    sog: 6.4
+  log: 9971.8
+  waypoint:
+    longitude: -59.62959
+    latitude: 13.33838
+  barometer: 1015.03
+  wind:
+    speed: 14
+    direction: 57
+  engine:
+    hours: 931.8
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: navigation
