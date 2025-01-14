@@ -580,3 +580,117 @@
   crewNames:
     - ihmis-suski
     - bergie
+  category: navigation
+- datetime: 2025-01-14T14:00:37.600Z
+  text: Suski on watch
+  author: ihmis-suski
+  position:
+    latitude: 12.3771653
+    longitude: -48.4392738
+    source: GPS
+  heading: 283
+  course: 261
+  speed:
+    stw: 1.4
+    sog: 3.4
+  log: 10015.7
+  waypoint:
+    longitude: -59.62959
+    latitude: 13.33838
+  barometer: 1015.03
+  wind:
+    speed: 7.2
+    direction: 36
+  engine:
+    hours: 931.8
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: navigation
+  observations:
+    seaState: 3
+    cloudCoverage: 5
+    visibility: 7
+- datetime: 2025-01-14T14:31:22.598Z
+  text: Autopilot activated. Steering to compass course as the wind is nonexistent
+    and going all over the place.
+  author: ihmis-suski
+  position:
+    latitude: 12.3820338
+    longitude: -48.4523128
+    source: GPS
+  heading: 298
+  course: 312
+  speed:
+    stw: 0.8
+    sog: 2.2
+  log: 10016.5
+  waypoint:
+    longitude: -59.62959
+    latitude: 13.33838
+  barometer: 1015.03
+  wind:
+    speed: 5
+    direction: 80
+  engine:
+    hours: 931.8
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: navigation
+- datetime: 2025-01-14T14:42:41.600Z
+  text: Autopilot deactivated
+  author: ""
+  position:
+    latitude: 12.3826561
+    longitude: -48.457021
+    source: GPS
+  heading: 275
+  course: 305
+  speed:
+    stw: 0.7
+    sog: 1.4
+  log: 10016.8
+  waypoint:
+    longitude: -59.62959
+    latitude: 13.33838
+  barometer: 1015.03
+  wind:
+    speed: 3.1
+    direction: 115
+  engine:
+    hours: 931.8
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: navigation
+- datetime: 2025-01-14T14:43:10.700Z
+  text: Autopilot activated
+  author: ""
+  position:
+    latitude: 12.3826978
+    longitude: -48.4572023
+    source: GPS
+  heading: 280
+  course: 312
+  speed:
+    stw: 0.6
+    sog: 1.2
+  log: 10016.8
+  waypoint:
+    longitude: -59.62959
+    latitude: 13.33838
+  barometer: 1015.03
+  wind:
+    speed: 3
+    direction: 77
+  engine:
+    hours: 931.8
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: navigation
