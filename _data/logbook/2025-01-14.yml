@@ -358,7 +358,7 @@
     - bergie
   category: navigation
 - datetime: 2025-01-14T09:41:43.500Z
-  text: "Gusting to 22kt and now there is rain. Squall i suppose "
+  text: "Gusting to 22kt and now there is rain. Squall I suppose "
   author: bergie
   position:
     latitude: 12.3344778
@@ -384,3 +384,61 @@
     - ihmis-suski
     - bergie
   category: navigation
+- datetime: 2025-01-14T10:00:43.500Z
+  text: ""
+  author: ""
+  position:
+    latitude: 12.3219664
+    longitude: -48.2808008
+    source: GPS
+  heading: 245
+  course: 274
+  speed:
+    stw: 1.9
+    sog: 2.5
+  log: 10005.3
+  waypoint:
+    longitude: -59.62959
+    latitude: 13.33838
+  barometer: 1015.03
+  wind:
+    speed: 15.9
+    direction: 32
+  engine:
+    hours: 931.8
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: navigation
+- datetime: 2025-01-14T10:07:13.500Z
+  text: "Sails set: Staysail. The next squall looks angrier"
+  author: bergie
+  position:
+    latitude: 12.3193
+    longitude: -48.2851521
+    source: GPS
+  heading: 235
+  course: 248
+  speed:
+    stw: 2.8
+    sog: 3.7
+  log: 10005.6
+  waypoint:
+    longitude: -59.62959
+    latitude: 13.33838
+  barometer: 1015.03
+  wind:
+    speed: 13.6
+    direction: 27
+  engine:
+    hours: 931.8
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: navigation
+  observations:
+    seaState: 4
+    cloudCoverage: 8
+    visibility: 6
