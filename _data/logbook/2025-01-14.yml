@@ -833,3 +833,84 @@
     seaState: 3
     cloudCoverage: 3
     visibility: 7
+- datetime: 2025-01-14T21:00:32.198Z
+  text: ""
+  author: ""
+  position:
+    latitude: 12.4300106
+    longitude: -48.7511366
+    source: GPS
+  heading: 287
+  course: 276
+  speed:
+    stw: 2.3
+    sog: 3.2
+  log: 10034.4
+  waypoint:
+    longitude: -59.62959
+    latitude: 13.33838
+  barometer: 1015.03
+  wind:
+    speed: 8.2
+    direction: 70
+  engine:
+    hours: 931.8
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: navigation
+- datetime: 2025-01-14T21:04:53.196Z
+  text: "Sails set: Main, Genoa 1"
+  author: ""
+  position:
+    latitude: 12.43149
+    longitude: -48.7552606
+    source: GPS
+  heading: 307
+  course: 296
+  speed:
+    stw: 2.2
+    sog: 4.2
+  log: 10034.7
+  waypoint:
+    longitude: -59.62959
+    latitude: 13.33838
+  barometer: 1015.03
+  wind:
+    speed: 9.1
+    direction: 56
+  engine:
+    hours: 931.8
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: navigation
+- datetime: 2025-01-14T21:37:36.300Z
+  text: "Sails set: Main, Genoa 1 (30% furled)"
+  author: ""
+  position:
+    latitude: 12.4441943
+    longitude: -48.7917195
+    source: GPS
+  heading: 301
+  course: 297
+  speed:
+    stw: 4.4
+    sog: 5.3
+  log: 10037
+  waypoint:
+    longitude: -59.62959
+    latitude: 13.33838
+  barometer: 1015.03
+  wind:
+    speed: 18
+    direction: 77
+  engine:
+    hours: 931.8
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: navigation
