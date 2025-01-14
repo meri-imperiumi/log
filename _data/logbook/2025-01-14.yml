@@ -914,3 +914,119 @@
     - ihmis-suski
     - bergie
   category: navigation
+- datetime: 2025-01-14T22:00:31.302Z
+  text: ""
+  author: ""
+  position:
+    latitude: 12.4570995
+    longitude: -48.8221608
+    source: GPS
+  heading: 307
+  course: 296
+  speed:
+    stw: 2.9
+    sog: 4.6
+  log: 10038.9
+  waypoint:
+    longitude: -59.62959
+    latitude: 13.33838
+  barometer: 1015.03
+  wind:
+    speed: 11.5
+    direction: 93
+  engine:
+    hours: 931.8
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: navigation
+- datetime: 2025-01-14T22:06:31.302Z
+  text: Moon is up
+  author: bergie
+  position:
+    latitude: 12.4598326
+    longitude: -48.8290631
+    source: GPS
+  heading: 306
+  course: 307
+  speed:
+    stw: 3.1
+    sog: 5
+  log: 10039.4
+  waypoint:
+    longitude: -59.62959
+    latitude: 13.33838
+  barometer: 1015.03
+  wind:
+    speed: 13.9
+    direction: 87
+  engine:
+    hours: 931.8
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: navigation
+  observations:
+    seaState: 3
+    cloudCoverage: 4
+    visibility: 7
+- datetime: 2025-01-14T22:11:06.297Z
+  text: "Sails set: Main, Genoa 1. Looks like that squall missed us"
+  author: bergie
+  position:
+    latitude: 12.4620093
+    longitude: -48.834192
+    source: GPS
+  heading: 303
+  course: 297
+  speed:
+    stw: 3.2
+    sog: 3.3
+  log: 10039.7
+  waypoint:
+    longitude: -59.62959
+    latitude: 13.33838
+  barometer: 1015.03
+  wind:
+    speed: 12.4
+    direction: 74
+  engine:
+    hours: 931.8
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: navigation
+  observations:
+    cloudCoverage: 3
+- datetime: 2025-01-14T22:45:11.302Z
+  text: "Sails set: Main, Genoa 1 (30% furled)"
+  author: bergie
+  position:
+    latitude: 12.4742639
+    longitude: -48.8719263
+    source: GPS
+  heading: 270
+  course: 263
+  speed:
+    stw: 4.2
+    sog: 5.4
+  log: 10042
+  waypoint:
+    longitude: -59.62959
+    latitude: 13.33838
+  barometer: 1015.03
+  wind:
+    speed: 17.7
+    direction: 54
+  engine:
+    hours: 931.8
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: navigation
+  observations:
+    cloudCoverage: 6
