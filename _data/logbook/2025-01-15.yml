@@ -804,7 +804,7 @@
     - bergie
   category: navigation
 - datetime: 2025-01-15T15:36:13.100Z
-  text: "Sails set: Main, Genoa 1 (60% furled). Going bit nore north to try and
+  text: "Sails set: Main, Genoa 1 (60% furled). Going bit more north to try and
     avoid getting absolutely soaked"
   author: ihmis-suski
   position:
@@ -889,3 +889,57 @@
     seaState: 4
     cloudCoverage: 5
     visibility: 7
+- datetime: 2025-01-15T17:00:06.502Z
+  text: ""
+  author: ""
+  position:
+    latitude: 12.9672904
+    longitude: -50.1797009
+    source: GPS
+  heading: 316
+  course: 299
+  speed:
+    stw: 2.6
+    sog: 3.1
+  log: 10126.7
+  waypoint:
+    longitude: -59.62959
+    latitude: 13.33838
+  barometer: 1015.03
+  wind:
+    speed: 9.8
+    direction: 146
+  engine:
+    hours: 931.8
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: navigation
+- datetime: 2025-01-15T17:55:09.497Z
+  text: "Sails set: Genoa 1 (40% furled), Staysail"
+  author: ""
+  position:
+    latitude: 13.0013476
+    longitude: -50.220113
+    source: GPS
+  heading: 298
+  course: 334
+  speed:
+    stw: 2.8
+    sog: 3
+  log: 10129.9
+  waypoint:
+    longitude: -59.62959
+    latitude: 13.33838
+  barometer: 1015.03
+  wind:
+    speed: 11.2
+    direction: 87
+  engine:
+    hours: 931.8
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: navigation
