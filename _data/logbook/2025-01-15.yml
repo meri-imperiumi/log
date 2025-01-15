@@ -550,3 +550,62 @@
   crewNames:
     - ihmis-suski
     - bergie
+  category: navigation
+- datetime: 2025-01-15T10:00:15.900Z
+  text: ""
+  author: ""
+  position:
+    latitude: 12.7376793
+    longitude: -49.7391778
+    source: GPS
+  heading: 288
+  course: 284
+  speed:
+    stw: 3.8
+    sog: 4.9
+  log: 10096.1
+  waypoint:
+    longitude: -59.62959
+    latitude: 13.33838
+  barometer: 1015.03
+  wind:
+    speed: 15.6
+    direction: 62
+  engine:
+    hours: 931.8
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: navigation
+- datetime: 2025-01-15T10:46:14.899Z
+  text: Now there's again more salad around
+  author: bergie
+  position:
+    latitude: 12.7568756
+    longitude: -49.7926188
+    source: GPS
+  heading: 294
+  course: 302
+  speed:
+    stw: 3.9
+    sog: 4
+  log: 10099.5
+  waypoint:
+    longitude: -59.62959
+    latitude: 13.33838
+  barometer: 1015.03
+  wind:
+    speed: 14.2
+    direction: 68
+  engine:
+    hours: 931.8
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: navigation
+  observations:
+    seaState: 3
+    cloudCoverage: 2
+    visibility: 7
