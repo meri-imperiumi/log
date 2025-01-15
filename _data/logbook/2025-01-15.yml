@@ -1,0 +1,1247 @@
+- datetime: 2025-01-15T00:00:30.300Z
+  text: ""
+  author: ""
+  position:
+    latitude: 12.4736049
+    longitude: -48.985725
+    source: GPS
+  heading: 292
+  course: 279
+  speed:
+    stw: 4.1
+    sog: 5.4
+  log: 10048.8
+  waypoint:
+    longitude: -59.62959
+    latitude: 13.33838
+  barometer: 1015.03
+  wind:
+    speed: 12.6
+    direction: 49
+  engine:
+    hours: 931.8
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: navigation
+- datetime: 2025-01-15T01:00:27.300Z
+  text: ""
+  author: bergie
+  position:
+    latitude: 12.4970989
+    longitude: -49.0638415
+    source: GPS
+  heading: 296
+  course: 285
+  speed:
+    stw: 3.8
+    sog: 5.1
+  log: 10053.6
+  waypoint:
+    longitude: -59.62959
+    latitude: 13.33838
+  barometer: 1015.03
+  wind:
+    speed: 12.8
+    direction: 77
+  engine:
+    hours: 931.8
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: navigation
+  observations:
+    cloudCoverage: 2
+- datetime: 2025-01-15T02:00:26.300Z
+  text: Suski on watch
+  author: ihmis-suski
+  position:
+    latitude: 12.5238398
+    longitude: -49.1460425
+    source: GPS
+  heading: 285
+  course: 286
+  speed:
+    stw: 4.3
+    sog: 6.1
+  log: 10058.7
+  waypoint:
+    longitude: -59.62959
+    latitude: 13.33838
+  barometer: 1015.03
+  wind:
+    speed: 15.8
+    direction: 56
+  engine:
+    hours: 931.8
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: navigation
+  observations:
+    seaState: 3
+    cloudCoverage: 3
+    visibility: 7
+- datetime: 2025-01-15T02:30:26.400Z
+  text: "Few raindrops from a heavy looking cloud. "
+  author: ihmis-suski
+  position:
+    latitude: 12.5365773
+    longitude: -49.1857143
+    source: GPS
+  heading: 296
+  course: 287
+  speed:
+    stw: 4.4
+    sog: 5.3
+  log: 10061.1
+  waypoint:
+    longitude: -59.62959
+    latitude: 13.33838
+  barometer: 1015.03
+  wind:
+    speed: 16.6
+    direction: 74
+  engine:
+    hours: 931.8
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: navigation
+- datetime: 2025-01-15T02:40:26.400Z
+  text: "Sails set: Main, Genoa 1 (30% furled). Next heavy cloud upwind. Also a
+    pretty bright meteoroid."
+  author: ihmis-suski
+  position:
+    latitude: 12.542323811848958
+    longitude: -49.19956684112549
+    source: GPS
+  heading: 291
+  course: 302
+  speed:
+    stw: 4.2
+    sog: 4.4
+  log: 10062
+  waypoint:
+    longitude: -59.62959
+    latitude: 13.33838
+  barometer: 1015.03
+  wind:
+    speed: 15.7
+    direction: 73
+  engine:
+    hours: 931.8
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: navigation
+- datetime: 2025-01-15T03:00:25.400Z
+  text: ""
+  author: ""
+  position:
+    latitude: 12.552445
+    longitude: -49.2258314
+    source: GPS
+  heading: 291
+  course: 288
+  speed:
+    stw: 4.1
+    sog: 3.6
+  log: 10063.7
+  waypoint:
+    longitude: -59.62959
+    latitude: 13.33838
+  barometer: 1015.03
+  wind:
+    speed: 16.3
+    direction: 54
+  engine:
+    hours: 931.8
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: navigation
+- datetime: 2025-01-15T03:03:24.400Z
+  text: Positioned hydro again to prevent chafe.
+  author: ihmis-suski
+  position:
+    latitude: 12.553904
+    longitude: -49.2297363
+    source: GPS
+  heading: 299
+  course: 304
+  speed:
+    stw: 3.7
+    sog: 4.8
+  log: 10063.9
+  waypoint:
+    longitude: -59.62959
+    latitude: 13.33838
+  barometer: 1015.03
+  wind:
+    speed: 18
+    direction: 76
+  engine:
+    hours: 931.8
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: navigation
+- datetime: 2025-01-15T03:38:40.400Z
+  text: "Sails set: Main, Genoa 1 (20% furled)"
+  author: ""
+  position:
+    latitude: 12.572050348917644
+    longitude: -49.27326018015544
+    source: GPS
+  heading: 296
+  course: 295
+  speed:
+    stw: 4.4
+    sog: 4.4
+  log: 10066.7
+  waypoint:
+    longitude: -59.62959
+    latitude: 13.33838
+  barometer: 1015.03
+  wind:
+    speed: 16.8
+    direction: 65
+  engine:
+    hours: 931.8
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: navigation
+- datetime: 2025-01-15T04:00:23.400Z
+  text: ""
+  author: ""
+  position:
+    latitude: 12.5853066
+    longitude: -49.29961
+    source: GPS
+  heading: 305
+  course: 283
+  speed:
+    stw: 4.1
+    sog: 5.1
+  log: 10068.5
+  waypoint:
+    longitude: -59.62959
+    latitude: 13.33838
+  barometer: 1015.03
+  wind:
+    speed: 15.4
+    direction: 72
+  engine:
+    hours: 931.8
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: navigation
+- datetime: 2025-01-15T04:09:24.400Z
+  text: The spi halyard lock had been forgotten open, so the halyard got stuck
+    inside the furled genoa. Unfurled, released, locked and tightened.
+  author: ihmis-suski
+  position:
+    latitude: 12.5901521
+    longitude: -49.310369
+    source: GPS
+  heading: 300
+  course: 330
+  speed:
+    stw: 4.2
+    sog: 4.5
+  log: 10069.2
+  waypoint:
+    longitude: -59.62959
+    latitude: 13.33838
+  barometer: 1015.03
+  wind:
+    speed: 17.1
+    direction: 56
+  engine:
+    hours: 931.8
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: navigation
+- datetime: 2025-01-15T04:23:02.800Z
+  text: "Sails set: Main, Genoa 1 (10% furled). Went wing on wing. "
+  author: ihmis-suski
+  position:
+    latitude: 12.5932371
+    longitude: -49.3262935
+    source: GPS
+  heading: 270
+  course: 261
+  speed:
+    stw: 3.3
+    sog: 5.2
+  log: 10070.2
+  waypoint:
+    longitude: -59.62959
+    latitude: 13.33838
+  barometer: 1015.03
+  wind:
+    speed: 13.8
+    direction: 49
+  engine:
+    hours: 931.8
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: navigation
+- datetime: 2025-01-15T04:41:32.800Z
+  text: "Sails set: Main, Genoa 1 (20% furled). Back to port side tack."
+  author: ihmis-suski
+  position:
+    latitude: 12.5935753
+    longitude: -49.3487128
+    source: GPS
+  heading: 289
+  course: 280
+  speed:
+    stw: 4.2
+    sog: 6
+  log: 10071.5
+  waypoint:
+    longitude: -59.62959
+    latitude: 13.33838
+  barometer: 1015.03
+  wind:
+    speed: 17.2
+    direction: 56
+  engine:
+    hours: 931.8
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: navigation
+- datetime: 2025-01-15T05:00:22.800Z
+  text: ""
+  author: ""
+  position:
+    latitude: 12.5996784
+    longitude: -49.3722821
+    source: GPS
+  heading: 291
+  course: 270
+  speed:
+    stw: 3.4
+    sog: 5.6
+  log: 10072.9
+  waypoint:
+    longitude: -59.62959
+    latitude: 13.33838
+  barometer: 1015.03
+  wind:
+    speed: 12.9
+    direction: 80
+  engine:
+    hours: 931.8
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: navigation
+- datetime: 2025-01-15T05:16:02.800Z
+  text: "Sails set: Main, Genoa 1"
+  author: ""
+  position:
+    latitude: 12.6039413
+    longitude: -49.3901418
+    source: GPS
+  heading: 287
+  course: 295
+  speed:
+    stw: 3.4
+    sog: 3.6
+  log: 10074
+  waypoint:
+    longitude: -59.62959
+    latitude: 13.33838
+  barometer: 1015.03
+  wind:
+    speed: 11.4
+    direction: 47
+  engine:
+    hours: 931.8
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: navigation
+- datetime: 2025-01-15T06:00:20.800Z
+  text: ""
+  author: ""
+  position:
+    latitude: 12.6207683
+    longitude: -49.4416639
+    source: GPS
+  heading: 290
+  course: 277
+  speed:
+    stw: 3.3
+    sog: 4
+  log: 10077.2
+  waypoint:
+    longitude: -59.62959
+    latitude: 13.33838
+  barometer: 1015.03
+  wind:
+    speed: 12.1
+    direction: 58
+  engine:
+    hours: 931.8
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: navigation
+- datetime: 2025-01-15T07:00:19.900Z
+  text: ""
+  author: ""
+  position:
+    latitude: 12.6515723
+    longitude: -49.5102123
+    source: GPS
+  heading: 297
+  course: 291
+  speed:
+    stw: 4.2
+    sog: 3.7
+  log: 10081.6
+  waypoint:
+    longitude: -59.62959
+    latitude: 13.33838
+  barometer: 1015.03
+  wind:
+    speed: 13.8
+    direction: 72
+  engine:
+    hours: 931.8
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: navigation
+- datetime: 2025-01-15T07:51:17.900Z
+  text: "Ship #7 Norwalk(637093305) visible 8.5 miles away. Its a cargo ship
+    300meters long!"
+  author: ihmis-suski
+  position:
+    latitude: 12.6744436
+    longitude: -49.5741723
+    source: GPS
+  heading: 290
+  course: 298
+  speed:
+    stw: 4.4
+    sog: 5.2
+  log: 10085.7
+  waypoint:
+    longitude: -59.62959
+    latitude: 13.33838
+  barometer: 1015.03
+  wind:
+    speed: 17.5
+    direction: 77
+  engine:
+    hours: 931.8
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: navigation
+- datetime: 2025-01-15T07:55:49.900Z
+  text: "Sails set: Main, Genoa 1 (20% furled)"
+  author: ""
+  position:
+    latitude: 12.6767343
+    longitude: -49.5805124
+    source: GPS
+  heading: 286
+  course: 276
+  speed:
+    stw: 4.5
+    sog: 4.4
+  log: 10086.1
+  waypoint:
+    longitude: -59.62959
+    latitude: 13.33838
+  barometer: 1015.03
+  wind:
+    speed: 15.4
+    direction: 73
+  engine:
+    hours: 931.8
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: navigation
+- datetime: 2025-01-15T08:00:17.900Z
+  text: Bergie on watch
+  author: bergie
+  position:
+    latitude: 12.678704
+    longitude: -49.5864491
+    source: GPS
+  heading: 292
+  course: 284
+  speed:
+    stw: 4.1
+    sog: 4.3
+  log: 10086.4
+  waypoint:
+    longitude: -59.62959
+    latitude: 13.33838
+  barometer: 1015.03
+  wind:
+    speed: 14.2
+    direction: 79
+  engine:
+    hours: 931.8
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: navigation
+  observations:
+    seaState: 3
+    cloudCoverage: 3
+    visibility: 7
+- datetime: 2025-01-15T09:00:16.899Z
+  text: ""
+  author: ""
+  position:
+    latitude: 12.7072783
+    longitude: -49.6661923
+    source: GPS
+  heading: 295
+  course: 289
+  speed:
+    stw: 4
+    sog: 5
+  log: 10091.4
+  waypoint:
+    longitude: -59.62959
+    latitude: 13.33838
+  barometer: 1015.03
+  wind:
+    speed: 15.2
+    direction: 65
+  engine:
+    hours: 931.8
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: navigation
+- datetime: 2025-01-15T10:00:15.900Z
+  text: ""
+  author: ""
+  position:
+    latitude: 12.7376793
+    longitude: -49.7391778
+    source: GPS
+  heading: 288
+  course: 284
+  speed:
+    stw: 3.8
+    sog: 4.9
+  log: 10096.1
+  waypoint:
+    longitude: -59.62959
+    latitude: 13.33838
+  barometer: 1015.03
+  wind:
+    speed: 15.6
+    direction: 62
+  engine:
+    hours: 931.8
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: navigation
+- datetime: 2025-01-15T10:46:14.899Z
+  text: Now there's again more salad around
+  author: bergie
+  position:
+    latitude: 12.7568756
+    longitude: -49.7926188
+    source: GPS
+  heading: 294
+  course: 302
+  speed:
+    stw: 3.9
+    sog: 4
+  log: 10099.5
+  waypoint:
+    longitude: -59.62959
+    latitude: 13.33838
+  barometer: 1015.03
+  wind:
+    speed: 14.2
+    direction: 68
+  engine:
+    hours: 931.8
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: navigation
+  observations:
+    seaState: 3
+    cloudCoverage: 2
+    visibility: 7
+- datetime: 2025-01-15T11:00:13.900Z
+  text: ""
+  author: ""
+  position:
+    latitude: 12.7634955
+    longitude: -49.8095705
+    source: GPS
+  heading: 299
+  course: 297
+  speed:
+    stw: 3.7
+    sog: 4.4
+  log: 10100.6
+  waypoint:
+    longitude: -59.62959
+    latitude: 13.33838
+  barometer: 1015.03
+  wind:
+    speed: 14.1
+    direction: 75
+  engine:
+    hours: 931.8
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: navigation
+- datetime: 2025-01-15T12:00:12.998Z
+  text: ""
+  author: ""
+  position:
+    latitude: 12.7861051
+    longitude: -49.8803475
+    source: GPS
+  heading: 302
+  course: 285
+  speed:
+    stw: 3.8
+    sog: 3.1
+  log: 10104.9
+  waypoint:
+    longitude: -59.62959
+    latitude: 13.33838
+  barometer: 1015.03
+  wind:
+    speed: 11.2
+    direction: 73
+  engine:
+    hours: 931.8
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: navigation
+- datetime: 2025-01-15T13:00:11.001Z
+  text: ""
+  author: ""
+  position:
+    latitude: 12.8048468
+    longitude: -49.9536011
+    source: GPS
+  heading: 290
+  course: 273
+  speed:
+    stw: 3.9
+    sog: 5.7
+  log: 10109.4
+  waypoint:
+    longitude: -59.62959
+    latitude: 13.33838
+  barometer: 1015.03
+  wind:
+    speed: 12.8
+    direction: 66
+  engine:
+    hours: 931.8
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: navigation
+- datetime: 2025-01-15T13:22:10.000Z
+  text: There is a line of squally looking clouds to the east, but it looks like
+    they might miss us
+  author: bergie
+  position:
+    latitude: 12.8103293
+    longitude: -49.9784153
+    source: GPS
+  heading: 285
+  course: 269
+  speed:
+    stw: 4.1
+    sog: 4.9
+  log: 10110.9
+  waypoint:
+    longitude: -59.62959
+    latitude: 13.33838
+  barometer: 1015.03
+  wind:
+    speed: 13.9
+    direction: 60
+  engine:
+    hours: 931.8
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: navigation
+  observations:
+    cloudCoverage: 2
+    seaState: 3
+    visibility: 7
+- datetime: 2025-01-15T14:00:10.000Z
+  text: ""
+  author: ""
+  position:
+    latitude: 12.8266394
+    longitude: -50.0204003
+    source: GPS
+  heading: 298
+  course: 272
+  speed:
+    stw: 4.1
+    sog: 3.9
+  log: 10113.6
+  waypoint:
+    longitude: -59.62959
+    latitude: 13.33838
+  barometer: 1015.03
+  wind:
+    speed: 12.5
+    direction: 90
+  engine:
+    hours: 931.8
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: navigation
+- datetime: 2025-01-15T14:27:10.099Z
+  text: Switched boat time to UTC-3 and Suski on watch.
+  author: bergie
+  position:
+    latitude: 12.8412233
+    longitude: -50.0506005
+    source: GPS
+  heading: 303
+  course: 299
+  speed:
+    stw: 4.3
+    sog: 4.2
+  log: 10115.6
+  waypoint:
+    longitude: -59.62959
+    latitude: 13.33838
+  barometer: 1015.03
+  wind:
+    speed: 13.7
+    direction: 78
+  engine:
+    hours: 931.8
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: navigation
+- datetime: 2025-01-15T15:00:08.102Z
+  text: ""
+  author: ""
+  position:
+    latitude: 12.8596246
+    longitude: -50.0868826
+    source: GPS
+  heading: 301
+  course: 304
+  speed:
+    stw: 3.9
+    sog: 4.9
+  log: 10118
+  waypoint:
+    longitude: -59.62959
+    latitude: 13.33838
+  barometer: 1015.03
+  wind:
+    speed: 16.8
+    direction: 74
+  engine:
+    hours: 931.8
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: navigation
+- datetime: 2025-01-15T15:36:13.100Z
+  text: "Sails set: Main, Genoa 1 (60% furled). Going bit more north to try and
+    avoid getting absolutely soaked"
+  author: ihmis-suski
+  position:
+    latitude: 12.8815048
+    longitude: -50.1216054
+    source: GPS
+  heading: 333
+  course: 341
+  speed:
+    stw: 4.3
+    sog: 4.3
+  log: 10120.4
+  waypoint:
+    longitude: -59.62959
+    latitude: 13.33838
+  barometer: 1015.03
+  wind:
+    speed: 17.4
+    direction: 111
+  engine:
+    hours: 931.8
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: navigation
+- datetime: 2025-01-15T15:59:21.100Z
+  text: "Sails set: Main, Genoa 1 (40% furled). Wing on wing."
+  author: ihmis-suski
+  position:
+    latitude: 12.9086611
+    longitude: -50.1311193
+    source: GPS
+  heading: 320
+  course: 329
+  speed:
+    stw: 4.8
+    sog: 5.6
+  log: 10122.2
+  waypoint:
+    longitude: -59.62959
+    latitude: 13.33838
+  barometer: 1015.03
+  wind:
+    speed: 19
+    direction: 105
+  engine:
+    hours: 931.8
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: navigation
+- datetime: 2025-01-15T16:00:07.097Z
+  text: Didn't get wet.
+  author: ihmis-suski
+  position:
+    latitude: 12.90949567159017
+    longitude: -50.13187466462453
+    source: GPS
+  heading: 324
+  course: 333
+  speed:
+    stw: 4.9
+    sog: 6.1
+  log: 10122.2
+  waypoint:
+    longitude: -59.62959
+    latitude: 13.33838
+  barometer: 1015.03
+  wind:
+    speed: 18.3
+    direction: 110
+  engine:
+    hours: 931.8
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: navigation
+  observations:
+    seaState: 4
+    cloudCoverage: 5
+    visibility: 7
+- datetime: 2025-01-15T17:00:06.502Z
+  text: ""
+  author: ""
+  position:
+    latitude: 12.9672904
+    longitude: -50.1797009
+    source: GPS
+  heading: 316
+  course: 299
+  speed:
+    stw: 2.6
+    sog: 3.1
+  log: 10126.7
+  waypoint:
+    longitude: -59.62959
+    latitude: 13.33838
+  barometer: 1015.03
+  wind:
+    speed: 9.8
+    direction: 146
+  engine:
+    hours: 931.8
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: navigation
+- datetime: 2025-01-15T17:55:09.497Z
+  text: "Sails set: Genoa 1 (40% furled), Staysail. In these low winds the
+    mainsail was just slatting"
+  author: bergie
+  position:
+    latitude: 13.0013476
+    longitude: -50.220113
+    source: GPS
+  heading: 298
+  course: 334
+  speed:
+    stw: 2.8
+    sog: 3
+  log: 10129.9
+  waypoint:
+    longitude: -59.62959
+    latitude: 13.33838
+  barometer: 1015.03
+  wind:
+    speed: 11.2
+    direction: 87
+  engine:
+    hours: 931.8
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: navigation
+- datetime: 2025-01-15T18:00:05.497Z
+  text: ""
+  author: ""
+  position:
+    latitude: 13.003508
+    longitude: -50.2244449
+    source: GPS
+  heading: 299
+  course: 299
+  speed:
+    stw: 3.2
+    sog: 4.9
+  log: 10130.2
+  waypoint:
+    longitude: -59.62959
+    latitude: 13.33838
+  barometer: 1015.03
+  wind:
+    speed: 12.3
+    direction: 128
+  engine:
+    hours: 931.8
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: navigation
+- datetime: 2025-01-15T19:00:04.601Z
+  text: ""
+  author: ""
+  position:
+    latitude: 13.0242109
+    longitude: -50.2733059
+    source: GPS
+  heading: 299
+  course: 307
+  speed:
+    stw: 3.1
+    sog: 3
+  log: 10133.3
+  waypoint:
+    longitude: -59.62959
+    latitude: 13.33838
+  barometer: 1015.03
+  wind:
+    speed: 10.3
+    direction: 101
+  engine:
+    hours: 931.8
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: navigation
+- datetime: 2025-01-15T20:00:04.601Z
+  text: ""
+  author: ""
+  position:
+    latitude: 13.0427363
+    longitude: -50.3247318
+    source: GPS
+  heading: 278
+  course: 302
+  speed:
+    stw: 2.8
+    sog: 3.3
+  log: 10136.6
+  waypoint:
+    longitude: -59.62959
+    latitude: 13.33838
+  barometer: 1015.03
+  wind:
+    speed: 10
+    direction: 97
+  engine:
+    hours: 931.8
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: navigation
+- datetime: 2025-01-15T20:44:11.596Z
+  text: "Sails set: Genoa 1 (90% furled), Staysail. Squall incoming"
+  author: bergie
+  position:
+    latitude: 13.0461056
+    longitude: -50.3628428
+    source: GPS
+  heading: 223
+  course: 226
+  speed:
+    stw: 2.9
+    sog: 2.9
+  log: 10138.9
+  waypoint:
+    longitude: -60.8735
+    latitude: 14.38489
+  barometer: 1015.03
+  wind:
+    speed: 15.2
+    direction: 30
+  engine:
+    hours: 931.8
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: navigation
+- datetime: 2025-01-15T21:00:03.596Z
+  text: "Bergie on watch. The whole northern sky is full of squalls "
+  author: bergie
+  position:
+    latitude: 13.0468889
+    longitude: -50.3759746
+    source: GPS
+  heading: 281
+  course: 268
+  speed:
+    stw: 2.4
+    sog: 3.1
+  log: 10139.7
+  waypoint:
+    longitude: -60.8735
+    latitude: 14.38489
+  barometer: 1015.03
+  wind:
+    speed: 14.9
+    direction: 36
+  engine:
+    hours: 931.8
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: navigation
+  observations:
+    seaState: 3
+    cloudCoverage: 6
+    visibility: 6
+- datetime: 2025-01-15T21:13:02.598Z
+  text: Sunset
+  author: bergie
+  position:
+    latitude: 13.0489585
+    longitude: -50.3880406
+    source: GPS
+  heading: 271
+  course: 310
+  speed:
+    stw: 2.9
+    sog: 4.6
+  log: 10140.4
+  waypoint:
+    longitude: -60.8735
+    latitude: 14.38489
+  barometer: 1015.03
+  wind:
+    speed: 19
+    direction: 22
+  engine:
+    hours: 931.8
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: navigation
+- datetime: 2025-01-15T21:29:03.603Z
+  text: "Heads water tap had been left running. We lost some 12l in the bilge.
+    Pumped the bilge "
+  author: bergie
+  position:
+    latitude: 13.0507838
+    longitude: -50.4028076
+    source: GPS
+  heading: 267
+  course: 278
+  speed:
+    stw: 2.6
+    sog: 2.4
+  log: 10141.3
+  waypoint:
+    longitude: -60.8735
+    latitude: 14.38489
+  barometer: 1015.03
+  wind:
+    speed: 13.1
+    direction: 13
+  engine:
+    hours: 931.8
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: navigation
+- datetime: 2025-01-15T21:53:11.699Z
+  text: "Sails set: Genoa 1 (20% furled), Staysail"
+  author: ""
+  position:
+    latitude: 13.0528964
+    longitude: -50.4229238
+    source: GPS
+  heading: 273
+  course: 255
+  speed:
+    stw: 3
+    sog: 3.8
+  log: 10142.5
+  waypoint:
+    longitude: -60.8735
+    latitude: 14.38489
+  barometer: 1015.03
+  wind:
+    speed: 7.4
+    direction: 349
+  engine:
+    hours: 931.8
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: navigation
+- datetime: 2025-01-15T22:00:02.700Z
+  text: ""
+  author: ""
+  position:
+    latitude: 13.0538534
+    longitude: -50.4302338
+    source: GPS
+  heading: 268
+  course: 276
+  speed:
+    stw: 3
+    sog: 2.2
+  log: 10142.9
+  waypoint:
+    longitude: -60.8735
+    latitude: 14.38489
+  barometer: 1015.03
+  wind:
+    speed: 7.3
+    direction: 7
+  engine:
+    hours: 931.8
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: navigation
+- datetime: 2025-01-15T22:55:00.697Z
+  text: Moon is clearly coming up, can see the shapes of clouds again
+  author: bergie
+  position:
+    latitude: 13.0646091
+    longitude: -50.4719243
+    source: GPS
+  heading: 298
+  course: 301
+  speed:
+    stw: 2.7
+    sog: 3.3
+  log: 10145.6
+  waypoint:
+    longitude: -60.8735
+    latitude: 14.38489
+  barometer: 1015.03
+  wind:
+    speed: 8.1
+    direction: 25
+  engine:
+    hours: 931.8
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: navigation
+- datetime: 2025-01-15T23:00:00.697Z
+  text: ""
+  author: ""
+  position:
+    latitude: 13.0668821
+    longitude: -50.4762618
+    source: GPS
+  heading: 296
+  course: 325
+  speed:
+    stw: 2.5
+    sog: 4.1
+  log: 10145.8
+  waypoint:
+    longitude: -60.8735
+    latitude: 14.38489
+  barometer: 1015.03
+  wind:
+    speed: 9.1
+    direction: 23
+  engine:
+    hours: 931.8
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
