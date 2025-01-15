@@ -1024,3 +1024,57 @@
   crewNames:
     - ihmis-suski
     - bergie
+  category: navigation
+- datetime: 2025-01-15T20:44:11.596Z
+  text: "Sails set: Genoa 1 (90% furled), Staysail. Squall incoming"
+  author: bergie
+  position:
+    latitude: 13.0461056
+    longitude: -50.3628428
+    source: GPS
+  heading: 223
+  course: 226
+  speed:
+    stw: 2.9
+    sog: 2.9
+  log: 10138.9
+  waypoint:
+    longitude: -60.8735
+    latitude: 14.38489
+  barometer: 1015.03
+  wind:
+    speed: 15.2
+    direction: 30
+  engine:
+    hours: 931.8
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: navigation
+- datetime: 2025-01-15T21:00:03.596Z
+  text: ""
+  author: ""
+  position:
+    latitude: 13.0468889
+    longitude: -50.3759746
+    source: GPS
+  heading: 281
+  course: 268
+  speed:
+    stw: 2.4
+    sog: 3.1
+  log: 10139.7
+  waypoint:
+    longitude: -60.8735
+    latitude: 14.38489
+  barometer: 1015.03
+  wind:
+    speed: 14.9
+    direction: 36
+  engine:
+    hours: 931.8
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
