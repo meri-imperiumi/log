@@ -691,8 +691,8 @@
     - bergie
   category: navigation
 - datetime: 2025-01-15T13:22:10.000Z
-  text: There is a line of squally looking clouds to the east of us, but it looks
-    like they might miss us
+  text: There is a line of squally looking clouds to the east, but it looks like
+    they might miss us
   author: bergie
   position:
     latitude: 12.8103293
@@ -722,3 +722,57 @@
     cloudCoverage: 2
     seaState: 3
     visibility: 7
+- datetime: 2025-01-15T14:00:10.000Z
+  text: ""
+  author: ""
+  position:
+    latitude: 12.8266394
+    longitude: -50.0204003
+    source: GPS
+  heading: 298
+  course: 272
+  speed:
+    stw: 4.1
+    sog: 3.9
+  log: 10113.6
+  waypoint:
+    longitude: -59.62959
+    latitude: 13.33838
+  barometer: 1015.03
+  wind:
+    speed: 12.5
+    direction: 90
+  engine:
+    hours: 931.8
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: navigation
+- datetime: 2025-01-15T14:27:10.099Z
+  text: Switched boat time to UTC-3 and Suski on watch.
+  author: bergie
+  position:
+    latitude: 12.8412233
+    longitude: -50.0506005
+    source: GPS
+  heading: 303
+  course: 299
+  speed:
+    stw: 4.3
+    sog: 4.2
+  log: 10115.6
+  waypoint:
+    longitude: -59.62959
+    latitude: 13.33838
+  barometer: 1015.03
+  wind:
+    speed: 13.7
+    direction: 78
+  engine:
+    hours: 931.8
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: navigation
