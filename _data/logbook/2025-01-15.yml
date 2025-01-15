@@ -410,3 +410,86 @@
   crewNames:
     - ihmis-suski
     - bergie
+  category: navigation
+- datetime: 2025-01-15T07:00:19.900Z
+  text: ""
+  author: ""
+  position:
+    latitude: 12.6515723
+    longitude: -49.5102123
+    source: GPS
+  heading: 297
+  course: 291
+  speed:
+    stw: 4.2
+    sog: 3.7
+  log: 10081.6
+  waypoint:
+    longitude: -59.62959
+    latitude: 13.33838
+  barometer: 1015.03
+  wind:
+    speed: 13.8
+    direction: 72
+  engine:
+    hours: 931.8
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: navigation
+- datetime: 2025-01-15T07:51:17.900Z
+  text: "Ship #7 Norwalk(637093305) visible 8.5 miles away. Its a cargo ship
+    300meters long!"
+  author: ihmis-suski
+  position:
+    latitude: 12.6744436
+    longitude: -49.5741723
+    source: GPS
+  heading: 290
+  course: 298
+  speed:
+    stw: 4.4
+    sog: 5.2
+  log: 10085.7
+  waypoint:
+    longitude: -59.62959
+    latitude: 13.33838
+  barometer: 1015.03
+  wind:
+    speed: 17.5
+    direction: 77
+  engine:
+    hours: 931.8
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: navigation
+- datetime: 2025-01-15T07:55:49.900Z
+  text: "Sails set: Main, Genoa 1 (20% furled)"
+  author: ""
+  position:
+    latitude: 12.6767343
+    longitude: -49.5805124
+    source: GPS
+  heading: 286
+  course: 276
+  speed:
+    stw: 4.5
+    sog: 4.4
+  log: 10086.1
+  waypoint:
+    longitude: -59.62959
+    latitude: 13.33838
+  barometer: 1015.03
+  wind:
+    speed: 15.4
+    direction: 73
+  engine:
+    hours: 931.8
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: navigation
