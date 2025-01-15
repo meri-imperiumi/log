@@ -662,3 +662,63 @@
   crewNames:
     - ihmis-suski
     - bergie
+  category: navigation
+- datetime: 2025-01-15T13:00:11.001Z
+  text: ""
+  author: ""
+  position:
+    latitude: 12.8048468
+    longitude: -49.9536011
+    source: GPS
+  heading: 290
+  course: 273
+  speed:
+    stw: 3.9
+    sog: 5.7
+  log: 10109.4
+  waypoint:
+    longitude: -59.62959
+    latitude: 13.33838
+  barometer: 1015.03
+  wind:
+    speed: 12.8
+    direction: 66
+  engine:
+    hours: 931.8
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: navigation
+- datetime: 2025-01-15T13:22:10.000Z
+  text: There is a line of squally looking clouds to the east of us, but it looks
+    like they might miss us
+  author: bergie
+  position:
+    latitude: 12.8103293
+    longitude: -49.9784153
+    source: GPS
+  heading: 285
+  course: 269
+  speed:
+    stw: 4.1
+    sog: 4.9
+  log: 10110.9
+  waypoint:
+    longitude: -59.62959
+    latitude: 13.33838
+  barometer: 1015.03
+  wind:
+    speed: 13.9
+    direction: 60
+  engine:
+    hours: 931.8
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: navigation
+  observations:
+    cloudCoverage: 2
+    seaState: 3
+    visibility: 7
