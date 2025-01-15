@@ -54,3 +54,89 @@
   category: navigation
   observations:
     cloudCoverage: 2
+- datetime: 2025-01-15T02:00:26.300Z
+  text: Suski on watch
+  author: ihmis-suski
+  position:
+    latitude: 12.5238398
+    longitude: -49.1460425
+    source: GPS
+  heading: 285
+  course: 286
+  speed:
+    stw: 4.3
+    sog: 6.1
+  log: 10058.7
+  waypoint:
+    longitude: -59.62959
+    latitude: 13.33838
+  barometer: 1015.03
+  wind:
+    speed: 15.8
+    direction: 56
+  engine:
+    hours: 931.8
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: navigation
+  observations:
+    seaState: 3
+    cloudCoverage: 3
+    visibility: 7
+- datetime: 2025-01-15T02:30:26.400Z
+  text: "Few raindrops from a heavy looking cloud. "
+  author: ihmis-suski
+  position:
+    latitude: 12.5365773
+    longitude: -49.1857143
+    source: GPS
+  heading: 296
+  course: 287
+  speed:
+    stw: 4.4
+    sog: 5.3
+  log: 10061.1
+  waypoint:
+    longitude: -59.62959
+    latitude: 13.33838
+  barometer: 1015.03
+  wind:
+    speed: 16.6
+    direction: 74
+  engine:
+    hours: 931.8
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: navigation
+- datetime: 2025-01-15T02:40:26.400Z
+  text: "Sails set: Main, Genoa 1 (30% furled). Next heavy cloud upwind. Also a
+    pretty bright meteoroid."
+  author: ihmis-suski
+  position:
+    latitude: 12.542323811848958
+    longitude: -49.19956684112549
+    source: GPS
+  heading: 291
+  course: 302
+  speed:
+    stw: 4.2
+    sog: 4.4
+  log: 10062
+  waypoint:
+    longitude: -59.62959
+    latitude: 13.33838
+  barometer: 1015.03
+  wind:
+    speed: 15.7
+    direction: 73
+  engine:
+    hours: 931.8
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: navigation
