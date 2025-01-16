@@ -688,7 +688,7 @@
     - bergie
   category: navigation
 - datetime: 2025-01-16T16:13:41.497Z
-  text: Watermaker 244ppm. Jug full.
+  text: Stopped watermaker, 244ppm. Jug full.
   author: ihmis-suski
   position:
     latitude: 13.298219
@@ -714,60 +714,6 @@
     - ihmis-suski
     - bergie
   category: maintenance
-- datetime: 2025-01-16T16:41:28.499Z
-  text: Autopilot set to wind mode
-  author: ""
-  position:
-    latitude: 13.295575
-    longitude: -51.5530741
-    source: GPS
-  heading: 188
-  course: 194
-  speed:
-    stw: 2
-    sog: 2.7
-  log: 10211.8
-  waypoint:
-    longitude: -60.8735
-    latitude: 14.38489
-  barometer: 1015.03
-  wind:
-    speed: 10.7
-    direction: 81
-  engine:
-    hours: 931.8
-  vhf: "16"
-  crewNames:
-    - ihmis-suski
-    - bergie
-  category: navigation
-- datetime: 2025-01-16T16:42:37.497Z
-  text: Autopilot set to wind mode
-  author: ""
-  position:
-    latitude: 13.295112
-    longitude: -51.5536798
-    source: GPS
-  heading: 269
-  course: 284
-  speed:
-    stw: 0
-    sog: 2.9
-  log: 10211.9
-  waypoint:
-    longitude: -60.8735
-    latitude: 14.38489
-  barometer: 1015.03
-  wind:
-    speed: 11.9
-    direction: 59
-  engine:
-    hours: 931.8
-  vhf: "16"
-  crewNames:
-    - ihmis-suski
-    - bergie
-  category: navigation
 - datetime: 2025-01-16T17:00:39.500Z
   text: Port side tack
   author: ihmis-suski
@@ -826,3 +772,30 @@
     seaState: 3
     cloudCoverage: 1
     visibility: 7
+- datetime: 2025-01-16T18:00:39.603Z
+  text: ""
+  author: ""
+  position:
+    latitude: 13.2990528
+    longitude: -51.6218894
+    source: GPS
+  heading: 278
+  course: 270
+  speed:
+    stw: 0
+    sog: 3.3
+  log: 10215.9
+  waypoint:
+    longitude: -60.8735
+    latitude: 14.38489
+  barometer: 1015.03
+  wind:
+    speed: 10
+    direction: 56
+  engine:
+    hours: 931.8
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: navigation
