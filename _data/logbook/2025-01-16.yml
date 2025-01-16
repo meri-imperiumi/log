@@ -634,8 +634,8 @@
     - bergie
   category: maintenance
 - datetime: 2025-01-16T15:00:42.502Z
-  text: ""
-  author: ""
+  text: Suski on watch
+  author: ihmis-suski
   position:
     latitude: 13.2982881
     longitude: -51.4428885
@@ -659,3 +659,166 @@
   crewNames:
     - ihmis-suski
     - bergie
+  category: navigation
+- datetime: 2025-01-16T16:00:40.499Z
+  text: ""
+  author: ""
+  position:
+    latitude: 13.2982436
+    longitude: -51.5098223
+    source: GPS
+  heading: 277
+  course: 269
+  speed:
+    stw: 3.4
+    sog: 4.5
+  log: 10209.2
+  waypoint:
+    longitude: -60.8735
+    latitude: 14.38489
+  barometer: 1015.03
+  wind:
+    speed: 11.5
+    direction: 88
+  engine:
+    hours: 931.8
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: navigation
+- datetime: 2025-01-16T16:13:41.497Z
+  text: Watermaker 244ppm. Jug full.
+  author: ihmis-suski
+  position:
+    latitude: 13.298219
+    longitude: -51.5243159
+    source: GPS
+  heading: 273
+  course: 267
+  speed:
+    stw: 3.4
+    sog: 4.4
+  log: 10210.1
+  waypoint:
+    longitude: -60.8735
+    latitude: 14.38489
+  barometer: 1015.03
+  wind:
+    speed: 10.7
+    direction: 71
+  engine:
+    hours: 931.8
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: maintenance
+- datetime: 2025-01-16T16:39:58.502Z
+  text: Autopilot deactivated
+  author: ""
+  position:
+    latitude: 13.296328
+    longitude: -51.5521436
+    source: GPS
+  heading: 263
+  course: 258
+  speed:
+    stw: 3.3
+    sog: 3.6
+  log: 10211.7
+  waypoint:
+    longitude: -60.8735
+    latitude: 14.38489
+  barometer: 1015.03
+  wind:
+    speed: 11.8
+    direction: 41
+  engine:
+    hours: 931.8
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: navigation
+- datetime: 2025-01-16T16:41:28.499Z
+  text: Autopilot set to wind mode
+  author: ""
+  position:
+    latitude: 13.295575
+    longitude: -51.5530741
+    source: GPS
+  heading: 188
+  course: 194
+  speed:
+    stw: 2
+    sog: 2.7
+  log: 10211.8
+  waypoint:
+    longitude: -60.8735
+    latitude: 14.38489
+  barometer: 1015.03
+  wind:
+    speed: 10.7
+    direction: 81
+  engine:
+    hours: 931.8
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: navigation
+- datetime: 2025-01-16T16:42:00.499Z
+  text: Autopilot deactivated
+  author: ""
+  position:
+    latitude: 13.2952898
+    longitude: -51.5532239
+    source: GPS
+  heading: 243
+  course: 251
+  speed:
+    stw: 0
+    sog: 2.5
+  log: 10211.8
+  waypoint:
+    longitude: -60.8735
+    latitude: 14.38489
+  barometer: 1015.03
+  wind:
+    speed: 8.1
+    direction: 62
+  engine:
+    hours: 931.8
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: navigation
+- datetime: 2025-01-16T16:42:37.497Z
+  text: Autopilot set to wind mode
+  author: ""
+  position:
+    latitude: 13.295112
+    longitude: -51.5536798
+    source: GPS
+  heading: 269
+  course: 284
+  speed:
+    stw: 0
+    sog: 2.9
+  log: 10211.9
+  waypoint:
+    longitude: -60.8735
+    latitude: 14.38489
+  barometer: 1015.03
+  wind:
+    speed: 11.9
+    direction: 59
+  engine:
+    hours: 931.8
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: navigation
