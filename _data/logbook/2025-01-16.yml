@@ -24,3 +24,59 @@
   crewNames:
     - ihmis-suski
     - bergie
+  category: navigation
+- datetime: 2025-01-16T00:26:59.700Z
+  text: "There we go: rain"
+  author: bergie
+  position:
+    latitude: 13.1029528
+    longitude: -50.558606
+    source: GPS
+  heading: 294
+  course: 303
+  speed:
+    stw: 4.3
+    sog: 5.5
+  log: 10151.2
+  waypoint:
+    longitude: -60.8735
+    latitude: 14.38489
+  barometer: 1015.03
+  wind:
+    speed: 25.3
+    direction: 60
+  engine:
+    hours: 931.8
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: navigation
+  observations:
+    cloudCoverage: 8
+- datetime: 2025-01-16T00:59:59.700Z
+  text: ""
+  author: ""
+  position:
+    latitude: 13.1217118
+    longitude: -50.5977293
+    source: GPS
+  heading: 279
+  course: 302
+  speed:
+    stw: 3.5
+    sog: 4.5
+  log: 10153.8
+  waypoint:
+    longitude: -60.8735
+    latitude: 14.38489
+  barometer: 1015.03
+  wind:
+    speed: 17
+    direction: 72
+  engine:
+    hours: 931.8
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
