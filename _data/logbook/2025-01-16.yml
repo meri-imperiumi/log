@@ -137,3 +137,169 @@
     - ihmis-suski
     - bergie
   category: navigation
+- datetime: 2025-01-16T03:00:57.800Z
+  text: Suski on watch
+  author: ihmis-suski
+  position:
+    latitude: 13.1727303
+    longitude: -50.6865386
+    source: GPS
+  heading: 275
+  course: 289
+  speed:
+    stw: 1.1
+    sog: 2.5
+  log: 10160
+  waypoint:
+    longitude: -60.8735
+    latitude: 14.38489
+  barometer: 1015.03
+  wind:
+    speed: 4.9
+    direction: 144
+  engine:
+    hours: 931.8
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: navigation
+- datetime: 2025-01-16T03:45:36.800Z
+  text: Autopilot deactivated
+  author: ""
+  position:
+    latitude: 13.1809154
+    longitude: -50.721257
+    source: GPS
+  heading: 280
+  course: 296
+  speed:
+    stw: 1.4
+    sog: 2.1
+  log: 10162.1
+  waypoint:
+    longitude: -60.8735
+    latitude: 14.38489
+  barometer: 1015.03
+  wind:
+    speed: 7.8
+    direction: 113
+  engine:
+    hours: 931.8
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: navigation
+- datetime: 2025-01-16T03:45:39.800Z
+  text: Autopilot set to wind mode
+  author: ""
+  position:
+    latitude: 13.1809218
+    longitude: -50.7212874
+    source: GPS
+  heading: 281
+  course: 268
+  speed:
+    stw: 1.4
+    sog: 3.3
+  log: 10162.1
+  waypoint:
+    longitude: -60.8735
+    latitude: 14.38489
+  barometer: 1015.03
+  wind:
+    speed: 10
+    direction: 135
+  engine:
+    hours: 931.8
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: navigation
+- datetime: 2025-01-16T03:48:22.800Z
+  text: Autopilot activated
+  author: ""
+  position:
+    latitude: 13.1814294
+    longitude: -50.7229651
+    source: GPS
+  heading: 271
+  course: 272
+  speed:
+    stw: 1.5
+    sog: 2.6
+  log: 10162.2
+  waypoint:
+    longitude: -60.8735
+    latitude: 14.38489
+  barometer: 1015.03
+  wind:
+    speed: 8.9
+    direction: 132
+  engine:
+    hours: 931.8
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: navigation
+- datetime: 2025-01-16T03:53:12.800Z
+  text: Autopilot set to wind mode
+  author: ""
+  position:
+    latitude: 13.1823208
+    longitude: -50.7258758
+    source: GPS
+  heading: 269
+  course: 260
+  speed:
+    stw: 1.8
+    sog: 2.1
+  log: 10162.3
+  waypoint:
+    longitude: -60.8735
+    latitude: 14.38489
+  barometer: 1015.03
+  wind:
+    speed: 8.1
+    direction: 83
+  engine:
+    hours: 931.8
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: navigation
+- datetime: 2025-01-16T03:57:53.800Z
+  text: "Sails set: Genoa 1 (30% furled), Staysail. Wing on wing."
+  author: ihmis-suski
+  position:
+    latitude: 13.1830563
+    longitude: -50.7292503
+    source: GPS
+  heading: 281
+  course: 301
+  speed:
+    stw: 1.7
+    sog: 2.8
+  log: 10162.5
+  waypoint:
+    longitude: -60.8735
+    latitude: 14.38489
+  barometer: 1015.03
+  wind:
+    speed: 7.5
+    direction: 111
+  engine:
+    hours: 931.8
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: navigation
+  observations:
+    seaState: 3
+    cloudCoverage: 8
+    visibility: 7
