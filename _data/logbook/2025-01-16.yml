@@ -524,3 +524,112 @@
   crewNames:
     - ihmis-suski
     - bergie
+  category: navigation
+- datetime: 2025-01-16T14:00:42.400Z
+  text: ""
+  author: ""
+  position:
+    latitude: 13.2914621
+    longitude: -51.3739276
+    source: GPS
+  heading: 278
+  course: 277
+  speed:
+    stw: 3
+    sog: 2.5
+  log: 10201.2
+  waypoint:
+    longitude: -60.8735
+    latitude: 14.38489
+  barometer: 1015.03
+  wind:
+    speed: 9.6
+    direction: 60
+  engine:
+    hours: 931.8
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: navigation
+- datetime: 2025-01-16T14:18:43.398Z
+  text: "Started watermaker "
+  author: bergie
+  position:
+    latitude: 13.2925878
+    longitude: -51.3942946
+    source: GPS
+  heading: 286
+  course: 271
+  speed:
+    stw: 2.8
+    sog: 4.5
+  log: 10202.4
+  waypoint:
+    longitude: -60.8735
+    latitude: 14.38489
+  barometer: 1015.03
+  wind:
+    speed: 11.8
+    direction: 81
+  engine:
+    hours: 931.8
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: maintenance
+- datetime: 2025-01-16T14:22:33.401Z
+  text: "Sails set: Genoa 1, Staysail"
+  author: ""
+  position:
+    latitude: 13.2932813
+    longitude: -51.3988424
+    source: GPS
+  heading: 294
+  course: 310
+  speed:
+    stw: 3.5
+    sog: 3.9
+  log: 10202.7
+  waypoint:
+    longitude: -60.8735
+    latitude: 14.38489
+  barometer: 1015.03
+  wind:
+    speed: 10.1
+    direction: 71
+  engine:
+    hours: 931.8
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: navigation
+- datetime: 2025-01-16T14:29:42.400Z
+  text: Watermaker 257ppm
+  author: bergie
+  position:
+    latitude: 13.2943076
+    longitude: -51.4069228
+    source: GPS
+  heading: 275
+  course: 285
+  speed:
+    stw: 3
+    sog: 4.9
+  log: 10203.2
+  waypoint:
+    longitude: -60.8735
+    latitude: 14.38489
+  barometer: 1015.03
+  wind:
+    speed: 12.5
+    direction: 65
+  engine:
+    hours: 931.8
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: maintenance
