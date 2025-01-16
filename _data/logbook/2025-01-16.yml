@@ -714,33 +714,6 @@
     - ihmis-suski
     - bergie
   category: maintenance
-- datetime: 2025-01-16T16:39:58.502Z
-  text: Autopilot deactivated
-  author: ""
-  position:
-    latitude: 13.296328
-    longitude: -51.5521436
-    source: GPS
-  heading: 263
-  course: 258
-  speed:
-    stw: 3.3
-    sog: 3.6
-  log: 10211.7
-  waypoint:
-    longitude: -60.8735
-    latitude: 14.38489
-  barometer: 1015.03
-  wind:
-    speed: 11.8
-    direction: 41
-  engine:
-    hours: 931.8
-  vhf: "16"
-  crewNames:
-    - ihmis-suski
-    - bergie
-  category: navigation
 - datetime: 2025-01-16T16:41:28.499Z
   text: Autopilot set to wind mode
   author: ""
@@ -761,33 +734,6 @@
   wind:
     speed: 10.7
     direction: 81
-  engine:
-    hours: 931.8
-  vhf: "16"
-  crewNames:
-    - ihmis-suski
-    - bergie
-  category: navigation
-- datetime: 2025-01-16T16:42:00.499Z
-  text: Autopilot deactivated
-  author: ""
-  position:
-    latitude: 13.2952898
-    longitude: -51.5532239
-    source: GPS
-  heading: 243
-  course: 251
-  speed:
-    stw: 0
-    sog: 2.5
-  log: 10211.8
-  waypoint:
-    longitude: -60.8735
-    latitude: 14.38489
-  barometer: 1015.03
-  wind:
-    speed: 8.1
-    direction: 62
   engine:
     hours: 931.8
   vhf: "16"
@@ -822,3 +768,61 @@
     - ihmis-suski
     - bergie
   category: navigation
+- datetime: 2025-01-16T17:00:39.500Z
+  text: Port side tack
+  author: ihmis-suski
+  position:
+    latitude: 13.2925591
+    longitude: -51.5711618
+    source: GPS
+  heading: 253
+  course: 285
+  speed:
+    stw: 0
+    sog: 3.3
+  log: 10212.9
+  waypoint:
+    longitude: -60.8735
+    latitude: 14.38489
+  barometer: 1015.03
+  wind:
+    speed: 11.5
+    direction: 36
+  engine:
+    hours: 931.8
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: navigation
+- datetime: 2025-01-16T17:18:40.499Z
+  text: Not-knot is not knotting. Presumably sargasso weed.
+  author: ihmis-suski
+  position:
+    latitude: 13.2916521
+    longitude: -51.5870586
+    source: GPS
+  heading: 278
+  course: 281
+  speed:
+    stw: 0
+    sog: 3.3
+  log: 10213.9
+  waypoint:
+    longitude: -60.8735
+    latitude: 14.38489
+  barometer: 1015.03
+  wind:
+    speed: 13.9
+    direction: 54
+  engine:
+    hours: 931.8
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: navigation
+  observations:
+    seaState: 3
+    cloudCoverage: 1
+    visibility: 7
