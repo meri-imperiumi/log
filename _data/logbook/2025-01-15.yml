@@ -1245,3 +1245,65 @@
   crewNames:
     - ihmis-suski
     - bergie
+  category: navigation
+- datetime: 2025-01-15T23:18:59.699Z
+  text: There is a big black wall of cloud rising to the NE of us. Let's see if
+    that hits
+  author: bergie
+  position:
+    latitude: 13.0739688
+    longitude: -50.4924518
+    source: GPS
+  heading: 289
+  course: 291
+  speed:
+    stw: 2.5
+    sog: 3.1
+  log: 10146.9
+  waypoint:
+    longitude: -60.8735
+    latitude: 14.38489
+  barometer: 1015.03
+  wind:
+    speed: 7.5
+    direction: 28
+  engine:
+    hours: 931.8
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: navigation
+  observations:
+    seaState: 3
+    cloudCoverage: 2
+    visibility: 7
+- datetime: 2025-01-15T23:46:35.699Z
+  text: "Sails set: Staysail"
+  author: bergie
+  position:
+    latitude: 13.0865518
+    longitude: -50.5128129
+    source: GPS
+  heading: 304
+  course: 312
+  speed:
+    stw: 2
+    sog: 2
+  log: 10148.3
+  waypoint:
+    longitude: -60.8735
+    latitude: 14.38489
+  barometer: 1015.03
+  wind:
+    speed: 16.1
+    direction: 56
+  engine:
+    hours: 931.8
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: navigation
+  observations:
+    cloudCoverage: 7
