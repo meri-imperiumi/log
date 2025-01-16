@@ -83,7 +83,7 @@
   category: navigation
 - datetime: 2025-01-16T01:59:59.700Z
   text: ""
-  author: ""
+  author: bergie
   position:
     latitude: 13.1604096
     longitude: -50.654586
@@ -107,3 +107,33 @@
   crewNames:
     - ihmis-suski
     - bergie
+  category: navigation
+  observations:
+    cloudCoverage: 8
+- datetime: 2025-01-16T02:51:25.800Z
+  text: Autopilot activated. The non-existent wind keeps rotating
+  author: bergie
+  position:
+    latitude: 13.171049499511719
+    longitude: -50.682549158732094
+    source: GPS
+  heading: 314
+  course: 284
+  speed:
+    stw: 0.8
+    sog: 1
+  log: 10159.7
+  waypoint:
+    longitude: -60.8735
+    latitude: 14.38489
+  barometer: 1015.03
+  wind:
+    speed: 4.5
+    direction: 67
+  engine:
+    hours: 931.8
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: navigation
