@@ -441,3 +441,57 @@
     seaState: 4
     cloudCoverage: 7
     visibility: 7
+- datetime: 2025-01-17T10:00:25.299Z
+  text: ""
+  author: ""
+  position:
+    latitude: 13.4661785
+    longitude: -52.8061534
+    source: GPS
+  heading: 282
+  course: 277
+  speed:
+    stw: 0
+    sog: 6.1
+  log: 10287.4
+  waypoint:
+    longitude: -60.8735
+    latitude: 14.38489
+  barometer: 1015.03
+  wind:
+    speed: 22.8
+    direction: 48
+  engine:
+    hours: 931.8
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: navigation
+- datetime: 2025-01-17T10:42:09.401Z
+  text: "Sails set: Main (2nd reef), Staysail. Gusting to 27kt"
+  author: bergie
+  position:
+    latitude: 13.4876049
+    longitude: -52.869823
+    source: GPS
+  heading: 267
+  course: 249
+  speed:
+    stw: 0
+    sog: 6.7
+  log: 10291.5
+  waypoint:
+    longitude: -60.8735
+    latitude: 14.38489
+  barometer: 1015.03
+  wind:
+    speed: 22
+    direction: 59
+  engine:
+    hours: 931.8
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: navigation
