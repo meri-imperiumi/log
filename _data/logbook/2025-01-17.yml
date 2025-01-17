@@ -663,8 +663,8 @@
   observations:
     cloudCoverage: 3
 - datetime: 2025-01-17T15:00:20.499Z
-  text: ""
-  author: ""
+  text: Suski on watch
+  author: ihmis-suski
   position:
     latitude: 13.5304133
     longitude: -53.2659453
@@ -715,3 +715,35 @@
   crewNames:
     - ihmis-suski
     - bergie
+  category: navigation
+- datetime: 2025-01-17T17:00:17.600Z
+  text: ""
+  author: ihmis-suski
+  position:
+    latitude: 13.5509408
+    longitude: -53.4677405
+    source: GPS
+  heading: 280
+  course: 274
+  speed:
+    stw: 0
+    sog: 5.8
+  log: 10327.8
+  waypoint:
+    longitude: -60.8735
+    latitude: 14.38489
+  barometer: 1015.03
+  wind:
+    speed: 17.5
+    direction: 59
+  engine:
+    hours: 931.8
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: navigation
+  observations:
+    seaState: 4
+    cloudCoverage: 3
+    visibility: 7
