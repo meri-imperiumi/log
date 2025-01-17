@@ -632,3 +632,33 @@
   crewNames:
     - ihmis-suski
     - bergie
+  category: navigation
+- datetime: 2025-01-17T14:00:21.500Z
+  text: Looks like we're out of the squall's influence
+  author: bergie
+  position:
+    latitude: 13.5433398
+    longitude: -53.1726465
+    source: GPS
+  heading: 259
+  course: 251
+  speed:
+    stw: 0
+    sog: 5
+  log: 10310.2
+  waypoint:
+    longitude: -60.8735
+    latitude: 14.38489
+  barometer: 1015.03
+  wind:
+    speed: 17.9
+    direction: 54
+  engine:
+    hours: 931.8
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: navigation
+  observations:
+    cloudCoverage: 3
