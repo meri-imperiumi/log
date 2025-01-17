@@ -355,3 +355,89 @@
   crewNames:
     - ihmis-suski
     - bergie
+  category: navigation
+- datetime: 2025-01-17T09:00:26.300Z
+  text: Bergie on watch
+  author: bergie
+  position:
+    latitude: 13.4622778
+    longitude: -52.7140394
+    source: GPS
+  heading: 267
+  course: 273
+  speed:
+    stw: 0
+    sog: 5
+  log: 10281.9
+  waypoint:
+    longitude: -60.8735
+    latitude: 14.38489
+  barometer: 1015.03
+  wind:
+    speed: 19.8
+    direction: 41
+  engine:
+    hours: 931.8
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: navigation
+- datetime: 2025-01-17T09:09:20.300Z
+  text: "Sails set: Main (1st reef), Staysail"
+  author: ""
+  position:
+    latitude: 13.4636619
+    longitude: -52.7274288
+    source: GPS
+  heading: 294
+  course: 294
+  speed:
+    stw: 0
+    sog: 5
+  log: 10282.7
+  waypoint:
+    longitude: -60.8735
+    latitude: 14.38489
+  barometer: 1015.03
+  wind:
+    speed: 18.5
+    direction: 53
+  engine:
+    hours: 931.8
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: navigation
+- datetime: 2025-01-17T09:39:27.299Z
+  text: One squall directly behind us in E, and another further away in NE
+  author: bergie
+  position:
+    latitude: 13.4661444
+    longitude: -52.7733154
+    source: GPS
+  heading: 270
+  course: 277
+  speed:
+    stw: 0
+    sog: 4.9
+  log: 10285.4
+  waypoint:
+    longitude: -60.8735
+    latitude: 14.38489
+  barometer: 1015.03
+  wind:
+    speed: 19.1
+    direction: 48
+  engine:
+    hours: 931.8
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: navigation
+  observations:
+    seaState: 4
+    cloudCoverage: 7
+    visibility: 7
