@@ -106,3 +106,60 @@
   crewNames:
     - ihmis-suski
     - bergie
+  category: navigation
+- datetime: 2025-01-17T02:00:30.200Z
+  text: ""
+  author: ""
+  position:
+    latitude: 13.4249471
+    longitude: -52.1813721
+    source: GPS
+  heading: 284
+  course: 291
+  speed:
+    stw: 0
+    sog: 4.8
+  log: 10250
+  waypoint:
+    longitude: -60.8735
+    latitude: 14.38489
+  barometer: 1015.03
+  wind:
+    speed: 17.9
+    direction: 49
+  engine:
+    hours: 931.8
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: navigation
+- datetime: 2025-01-17T02:32:30.200Z
+  text: Seems like a new bank of clouds is coming in from the NE
+  author: bergie
+  position:
+    latitude: 13.439900334676107
+    longitude: -52.2209193388621
+    source: GPS
+  heading: 293
+  course: 293
+  speed:
+    stw: 0
+    sog: 3.8
+  log: 10252.5
+  waypoint:
+    longitude: -60.8735
+    latitude: 14.38489
+  barometer: 1015.03
+  wind:
+    speed: 17.9
+    direction: 53
+  engine:
+    hours: 931.8
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: navigation
+  observations:
+    cloudCoverage: 2
