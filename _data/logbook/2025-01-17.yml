@@ -495,3 +495,60 @@
     - ihmis-suski
     - bergie
   category: navigation
+- datetime: 2025-01-17T11:00:24.400Z
+  text: ""
+  author: ""
+  position:
+    latitude: 13.4986793
+    longitude: -52.8962619
+    source: GPS
+  heading: 289
+  course: 288
+  speed:
+    stw: 0
+    sog: 7.1
+  log: 10293.2
+  waypoint:
+    longitude: -60.8735
+    latitude: 14.38489
+  barometer: 1015.03
+  wind:
+    speed: 25.1
+    direction: 58
+  engine:
+    hours: 931.8
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: navigation
+- datetime: 2025-01-17T11:34:25.401Z
+  text: Looking at lot less squally now, but still high gusts
+  author: bergie
+  position:
+    latitude: 13.5216878
+    longitude: -52.9482189
+    source: GPS
+  heading: 293
+  course: 294
+  speed:
+    stw: 0
+    sog: 5.9
+  log: 10296.6
+  waypoint:
+    longitude: -60.8735
+    latitude: 14.38489
+  barometer: 1015.03
+  wind:
+    speed: 23.2
+    direction: 58
+  engine:
+    hours: 931.8
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: navigation
+  observations:
+    cloudCoverage: 4
+    seaState: 4
