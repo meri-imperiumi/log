@@ -418,3 +418,62 @@
   crewNames:
     - ihmis-suski
     - bergie
+  category: navigation
+- datetime: 2025-01-18T12:00:52.400Z
+  text: ""
+  author: ""
+  position:
+    latitude: 13.700670687357585
+    longitude: -55.24851600329081
+    source: GPS
+  heading: 281
+  course: 272
+  speed:
+    stw: 0
+    sog: 6.9
+  log: 10434.1
+  waypoint:
+    longitude: -60.8735
+    latitude: 14.38489
+  barometer: 1015.03
+  wind:
+    speed: 17.5
+    direction: 79
+  engine:
+    hours: 931.8
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: navigation
+- datetime: 2025-01-18T12:47:50.400Z
+  text: I just realised I haven't seen seaweed all morning
+  author: bergie
+  position:
+    latitude: 13.7081828
+    longitude: -55.326852
+    source: GPS
+  heading: 279
+  course: 280
+  speed:
+    stw: 0
+    sog: 6.3
+  log: 10438.8
+  waypoint:
+    longitude: -60.8735
+    latitude: 14.38489
+  barometer: 1015.03
+  wind:
+    speed: 22.9
+    direction: 62
+  engine:
+    hours: 931.8
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: navigation
+  observations:
+    seaState: 4
+    cloudCoverage: 2
+    visibility: 7
