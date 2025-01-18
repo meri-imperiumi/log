@@ -222,3 +222,58 @@
   crewNames:
     - ihmis-suski
     - bergie
+  category: navigation
+- datetime: 2025-01-18T06:15:01.299Z
+  text: Flying fish straight to my lap and from there to the cockpit floor. Kindly
+    escorted the visitor back to the sea. Only a fishy smell is left behind.
+  author: ihmis-suski
+  position:
+    latitude: 13.6978413
+    longitude: -54.7192965
+    source: GPS
+  heading: 265
+  course: 274
+  speed:
+    stw: 0
+    sog: 6.5
+  log: 10402.7
+  waypoint:
+    longitude: -60.8735
+    latitude: 14.38489
+  barometer: 1015.03
+  wind:
+    speed: 21.1
+    direction: 54
+  engine:
+    hours: 931.8
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: navigation
+- datetime: 2025-01-18T07:00:00.300Z
+  text: ""
+  author: ""
+  position:
+    latitude: 13.6980543
+    longitude: -54.7910056
+    source: GPS
+  heading: 299
+  course: 295
+  speed:
+    stw: 0
+    sog: 5.8
+  log: 10406.9
+  waypoint:
+    longitude: -60.8735
+    latitude: 14.38489
+  barometer: 1015.03
+  wind:
+    speed: 22.9
+    direction: 69
+  engine:
+    hours: 931.8
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
