@@ -534,3 +534,144 @@
   category: navigation
   observations:
     cloudCoverage: 3
+- datetime: 2025-01-18T14:00:48.499Z
+  text: ""
+  author: ""
+  position:
+    latitude: 13.7047118
+    longitude: -55.4421495
+    source: GPS
+  heading: 263
+  course: 266
+  speed:
+    stw: 0
+    sog: 3.6
+  log: 10445.6
+  waypoint:
+    longitude: -60.8735
+    latitude: 14.38489
+  barometer: 1015.03
+  wind:
+    speed: 16.2
+    direction: 50
+  engine:
+    hours: 931.8
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: navigation
+- datetime: 2025-01-18T14:08:28.499Z
+  text: "Sails set: Staysail"
+  author: bergie
+  position:
+    latitude: 13.7049455
+    longitude: -55.45249
+    source: GPS
+  heading: 283
+  course: 259
+  speed:
+    stw: 0
+    sog: 4.4
+  log: 10446.2
+  waypoint:
+    longitude: -60.8735
+    latitude: 14.38489
+  barometer: 1015.03
+  wind:
+    speed: 21.6
+    direction: 104
+  engine:
+    hours: 931.8
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: navigation
+  observations:
+    cloudCoverage: 6
+- datetime: 2025-01-18T14:21:48.499Z
+  text: Drizzle
+  author: bergie
+  position:
+    latitude: 13.7116143
+    longitude: -55.4708153
+    source: GPS
+  heading: 281
+  course: 257
+  speed:
+    stw: 0
+    sog: 3.5
+  log: 10447.4
+  waypoint:
+    longitude: -60.8735
+    latitude: 14.38489
+  barometer: 1015.03
+  wind:
+    speed: 19
+    direction: 90
+  engine:
+    hours: 931.8
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: navigation
+- datetime: 2025-01-18T14:34:48.499Z
+  text: Rain
+  author: bergie
+  position:
+    latitude: 13.7174378
+    longitude: -55.4884606
+    source: GPS
+  heading: 281
+  course: 280
+  speed:
+    stw: 0
+    sog: 4.9
+  log: 10448.4
+  waypoint:
+    longitude: -60.8735
+    latitude: 14.38489
+  barometer: 1015.03
+  wind:
+    speed: 23.5
+    direction: 83
+  engine:
+    hours: 931.8
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: navigation
+  observations:
+    cloudCoverage: 8
+    visibility: 4
+    seaState: 5
+- datetime: 2025-01-18T14:58:29.497Z
+  text: "Sails set: Main (2nd reef), Staysail"
+  author: ""
+  position:
+    latitude: 13.7213773
+    longitude: -55.5212593
+    source: GPS
+  heading: 285
+  course: 269
+  speed:
+    stw: 0
+    sog: 4.3
+  log: 10450.4
+  waypoint:
+    longitude: -60.8735
+    latitude: 14.38489
+  barometer: 1015.03
+  wind:
+    speed: 16.4
+    direction: 71
+  engine:
+    hours: 931.8
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: navigation
