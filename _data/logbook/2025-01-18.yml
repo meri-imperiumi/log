@@ -1,0 +1,58 @@
+- datetime: 2025-01-18T00:00:09.800Z
+  text: ""
+  author: ""
+  position:
+    latitude: 13.6442775
+    longitude: -54.1151475
+    source: GPS
+  heading: 231
+  course: 247
+  speed:
+    stw: 0
+    sog: 3.8
+  log: 10366.9
+  waypoint:
+    longitude: -60.8735
+    latitude: 14.38489
+  barometer: 1015.03
+  wind:
+    speed: 9.6
+    direction: 40
+  engine:
+    hours: 931.8
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: navigation
+- datetime: 2025-01-18T00:38:08.800Z
+  text: Back to clear skies
+  author: bergie
+  position:
+    latitude: 13.641786
+    longitude: -54.1695493
+    source: GPS
+  heading: 273
+  course: 266
+  speed:
+    stw: 0
+    sog: 5.5
+  log: 10370.1
+  waypoint:
+    longitude: -60.8735
+    latitude: 14.38489
+  barometer: 1015.03
+  wind:
+    speed: 21.1
+    direction: 57
+  engine:
+    hours: 931.8
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: navigation
+  observations:
+    seaState: 4
+    cloudCoverage: 2
+    visibility: 7
