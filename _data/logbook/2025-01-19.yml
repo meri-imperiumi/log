@@ -24,3 +24,85 @@
   crewNames:
     - ihmis-suski
     - bergie
+  category: navigation
+- datetime: 2025-01-19T01:00:33.800Z
+  text: ""
+  author: ""
+  position:
+    latitude: 13.7950428
+    longitude: -56.3495691
+    source: GPS
+  heading: 259
+  course: 248
+  speed:
+    stw: 4.7
+    sog: 4.9
+  log: 10500.3
+  waypoint:
+    longitude: -60.8735
+    latitude: 14.38489
+  barometer: 1015.03
+  wind:
+    speed: 16.8
+    direction: 52
+  engine:
+    hours: 931.8
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: navigation
+- datetime: 2025-01-19T01:33:31.800Z
+  text: Gusting up to 35kt, luckily not for long
+  author: bergie
+  position:
+    latitude: 13.806760470072428
+    longitude: -56.40370333989461
+    source: GPS
+  heading: 290
+  course: 296
+  speed:
+    stw: 4.9
+    sog: 5
+  log: 10503.7
+  waypoint:
+    longitude: -60.8735
+    latitude: 14.38489
+  barometer: 1015.03
+  wind:
+    speed: 26.7
+    direction: 71
+  engine:
+    hours: 931.8
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: navigation
+- datetime: 2025-01-19T01:57:32.800Z
+  text: Two flying fish landed in the cockpit. Tossed them out
+  author: bergie
+  position:
+    latitude: 13.8114271
+    longitude: -56.441337
+    source: GPS
+  heading: 289
+  course: 285
+  speed:
+    stw: 5.2
+    sog: 7.6
+  log: 10506
+  waypoint:
+    longitude: -60.8735
+    latitude: 14.38489
+  barometer: 1015.03
+  wind:
+    speed: 28.2
+    direction: 63
+  engine:
+    hours: 931.8
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: navigation
