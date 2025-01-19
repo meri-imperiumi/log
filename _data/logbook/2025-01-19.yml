@@ -548,3 +548,57 @@
   category: navigation
   observations:
     cloudCoverage: 6
+- datetime: 2025-01-19T13:00:19.100Z
+  text: ""
+  author: ""
+  position:
+    latitude: 13.8886881
+    longitude: -57.5420628
+    source: GPS
+  heading: 313
+  course: 312
+  speed:
+    stw: 4.9
+    sog: 4.6
+  log: 10571.4
+  waypoint:
+    longitude: -60.8735
+    latitude: 14.38489
+  barometer: 1015.03
+  wind:
+    speed: 21.1
+    direction: 82
+  engine:
+    hours: 931.8
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: navigation
+- datetime: 2025-01-19T13:59:18.099Z
+  text: Barbados territorial waters starting to peek into our plotter view
+  author: bergie
+  position:
+    latitude: 13.906839688618978
+    longitude: -57.63641484578451
+    source: GPS
+  heading: 287
+  course: 271
+  speed:
+    stw: 4.8
+    sog: 7.4
+  log: 10577.1
+  waypoint:
+    longitude: -60.8735
+    latitude: 14.38489
+  barometer: 1015.03
+  wind:
+    speed: 23.7
+    direction: 71
+  engine:
+    hours: 931.8
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: navigation
