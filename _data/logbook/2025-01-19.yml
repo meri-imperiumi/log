@@ -460,3 +460,91 @@
   crewNames:
     - ihmis-suski
     - bergie
+  category: navigation
+- datetime: 2025-01-19T12:00:20.000Z
+  text: ""
+  author: ""
+  position:
+    latitude: 13.8733219
+    longitude: -57.4479491
+    source: GPS
+  heading: 292
+  course: 294
+  speed:
+    stw: 4.7
+    sog: 5.9
+  log: 10565.7
+  waypoint:
+    longitude: -60.8735
+    latitude: 14.38489
+  barometer: 1015.03
+  wind:
+    speed: 22.9
+    direction: 61
+  engine:
+    hours: 931.8
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: navigation
+- datetime: 2025-01-19T12:16:19.100Z
+  text: One positive is that the boat looks a lot cleaner after these squalls.
+    Lots of Sahara sand being washed off
+  author: bergie
+  position:
+    latitude: 13.8721573
+    longitude: -57.4739893
+    source: GPS
+  heading: 273
+  course: 269
+  speed:
+    stw: 4.3
+    sog: 4.4
+  log: 10567.2
+  waypoint:
+    longitude: -60.8735
+    latitude: 14.38489
+  barometer: 1015.03
+  wind:
+    speed: 18.5
+    direction: 66
+  engine:
+    hours: 931.8
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: navigation
+  observations:
+    seaState: 5
+    cloudCoverage: 4
+- datetime: 2025-01-19T12:51:19.100Z
+  text: TCU squall after TCU squall after another
+  author: bergie
+  position:
+    latitude: 13.8837133
+    longitude: -57.5280898
+    source: GPS
+  heading: 282
+  course: 271
+  speed:
+    stw: 4.5
+    sog: 5
+  log: 10570.5
+  waypoint:
+    longitude: -60.8735
+    latitude: 14.38489
+  barometer: 1015.03
+  wind:
+    speed: 21.2
+    direction: 78
+  engine:
+    hours: 931.8
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: navigation
+  observations:
+    cloudCoverage: 6
