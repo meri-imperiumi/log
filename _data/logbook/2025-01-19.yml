@@ -631,8 +631,8 @@
     - bergie
   category: navigation
 - datetime: 2025-01-19T15:00:17.100Z
-  text: ""
-  author: ""
+  text: Suski on watch
+  author: ihmis-suski
   position:
     latitude: 13.912659
     longitude: -57.7339635
@@ -683,3 +683,63 @@
   crewNames:
     - ihmis-suski
     - bergie
+  category: navigation
+- datetime: 2025-01-19T17:00:13.196Z
+  text: ""
+  author: ""
+  position:
+    latitude: 13.944403
+    longitude: -57.9168306
+    source: GPS
+  heading: 287
+  course: 268
+  speed:
+    stw: 4.5
+    sog: 6.1
+  log: 10593.8
+  waypoint:
+    longitude: -60.8735
+    latitude: 14.38489
+  barometer: 1015.03
+  wind:
+    speed: 17.6
+    direction: 79
+  engine:
+    hours: 931.8
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: navigation
+- datetime: 2025-01-19T17:23:13.203Z
+  text: Sea state continues to be a hot mess. Wind from 15 to 30kn. What ever you
+    do needs to be re-adjusted shortly, but at least it's not boring
+  author: ihmis-suski
+  position:
+    latitude: 13.9494063
+    longitude: -57.9496564
+    source: GPS
+  heading: 275
+  course: 290
+  speed:
+    stw: 3.9
+    sog: 4.5
+  log: 10595.8
+  waypoint:
+    longitude: -60.8735
+    latitude: 14.38489
+  barometer: 1015.03
+  wind:
+    speed: 15.1
+    direction: 67
+  engine:
+    hours: 931.8
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: navigation
+  observations:
+    seaState: 5
+    cloudCoverage: 5
+    visibility: 7
