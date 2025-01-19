@@ -349,3 +349,88 @@
     - ihmis-suski
     - bergie
   category: navigation
+- datetime: 2025-01-19T10:00:23.001Z
+  text: ""
+  author: ""
+  position:
+    latitude: 13.849972
+    longitude: -57.2516375
+    source: GPS
+  heading: 281
+  course: 250
+  speed:
+    stw: 4.5
+    sog: 5.8
+  log: 10553.9
+  waypoint:
+    longitude: -60.8735
+    latitude: 14.38489
+  barometer: 1015.03
+  wind:
+    speed: 18.5
+    direction: 86
+  engine:
+    hours: 931.8
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: navigation
+- datetime: 2025-01-19T10:09:22.000Z
+  text: Drizzle
+  author: bergie
+  position:
+    latitude: 13.8505256
+    longitude: -57.2658958
+    source: GPS
+  heading: 285
+  course: 280
+  speed:
+    stw: 4.9
+    sog: 4
+  log: 10554.8
+  waypoint:
+    longitude: -60.8735
+    latitude: 14.38489
+  barometer: 1015.03
+  wind:
+    speed: 18.9
+    direction: 46
+  engine:
+    hours: 931.8
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: navigation
+- datetime: 2025-01-19T10:52:22.000Z
+  text: Port side deck scupper was full of flying fish. Cleared it
+  author: bergie
+  position:
+    latitude: 13.8566949
+    longitude: -57.3387075
+    source: GPS
+  heading: 282
+  course: 277
+  speed:
+    stw: 4.7
+    sog: 5.9
+  log: 10559.1
+  waypoint:
+    longitude: -60.8735
+    latitude: 14.38489
+  barometer: 1015.03
+  wind:
+    speed: 19
+    direction: 62
+  engine:
+    hours: 931.8
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: navigation
+  observations:
+    seaState: 5
+    cloudCoverage: 5
+    visibility: 7
