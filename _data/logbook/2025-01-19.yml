@@ -160,3 +160,57 @@
     - ihmis-suski
     - bergie
   category: navigation
+- datetime: 2025-01-19T04:00:29.800Z
+  text: ""
+  author: ""
+  position:
+    latitude: 13.820769182840984
+    longitude: -56.647905349731445
+    source: GPS
+  heading: 271
+  course: 283
+  speed:
+    stw: 5
+    sog: 5.7
+  log: 10518.3
+  waypoint:
+    longitude: -60.8735
+    latitude: 14.38489
+  barometer: 1015.03
+  wind:
+    speed: 21.4
+    direction: 47
+  engine:
+    hours: 931.8
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: navigation
+- datetime: 2025-01-19T04:19:27.900Z
+  text: It is absolutely raining flying fish.
+  author: ihmis-suski
+  position:
+    latitude: 13.8232494
+    longitude: -56.6790461
+    source: GPS
+  heading: 275
+  course: 264
+  speed:
+    stw: 4.8
+    sog: 7.9
+  log: 10520.2
+  waypoint:
+    longitude: -60.8735
+    latitude: 14.38489
+  barometer: 1015.03
+  wind:
+    speed: 21.9
+    direction: 57
+  engine:
+    hours: 931.8
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: navigation
