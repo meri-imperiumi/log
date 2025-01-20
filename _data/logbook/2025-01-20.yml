@@ -381,3 +381,57 @@
     - ihmis-suski
     - bergie
   category: navigation
+- datetime: 2025-01-20T07:00:55.600Z
+  text: ""
+  author: ""
+  position:
+    latitude: 14.1125036
+    longitude: -59.2452628
+    source: GPS
+  heading: 279
+  course: 258
+  speed:
+    stw: 4.9
+    sog: 5.9
+  log: 10673.9
+  waypoint:
+    longitude: -60.8735
+    latitude: 14.38489
+  barometer: 1015.03
+  wind:
+    speed: 22.6
+    direction: 71
+  engine:
+    hours: 931.8
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: navigation
+- datetime: 2025-01-20T07:48:53.600Z
+  text: Got absolutely soaked. Heavy rain lasted for 30 min or so.
+  author: ihmis-suski
+  position:
+    latitude: 14.1401993
+    longitude: -59.320538
+    source: GPS
+  heading: 271
+  course: 259
+  speed:
+    stw: 4.4
+    sog: 4.5
+  log: 10678.8
+  waypoint:
+    longitude: -60.8735
+    latitude: 14.38489
+  barometer: 1015.03
+  wind:
+    speed: 14.5
+    direction: 83
+  engine:
+    hours: 931.8
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: navigation
