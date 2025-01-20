@@ -217,3 +217,86 @@
   crewNames:
     - ihmis-suski
     - bergie
+  category: navigation
+- datetime: 2025-01-20T05:00:58.499Z
+  text: ""
+  author: ""
+  position:
+    latitude: 14.0769216
+    longitude: -59.0396338
+    source: GPS
+  heading: 268
+  course: 268
+  speed:
+    stw: 3.7
+    sog: 4.9
+  log: 10661.6
+  waypoint:
+    longitude: -60.8735
+    latitude: 14.38489
+  barometer: 1015.03
+  wind:
+    speed: 18.3
+    direction: 84
+  engine:
+    hours: 931.8
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: navigation
+- datetime: 2025-01-20T05:16:58.499Z
+  text: Green light behind us headingfor Barbados. No corresponding AIS target
+    available. Vessel 9.
+  author: ihmis-suski
+  position:
+    latitude: 14.0806813
+    longitude: -59.0685358
+    source: GPS
+  heading: 267
+  course: 252
+  speed:
+    stw: 5.5
+    sog: 9.6
+  log: 10663.3
+  waypoint:
+    longitude: -60.8735
+    latitude: 14.38489
+  barometer: 1015.03
+  wind:
+    speed: 24.7
+    direction: 76
+  engine:
+    hours: 931.8
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: navigation
+- datetime: 2025-01-20T05:49:57.500Z
+  text: Got wet.
+  author: ihmis-suski
+  position:
+    latitude: 14.0855838
+    longitude: -59.1283365
+    source: GPS
+  heading: 278
+  course: 279
+  speed:
+    stw: 4.9
+    sog: 6.2
+  log: 10666.9
+  waypoint:
+    longitude: -60.8735
+    latitude: 14.38489
+  barometer: 1015.03
+  wind:
+    speed: 20.4
+    direction: 66
+  engine:
+    hours: 931.8
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: navigation
