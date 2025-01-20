@@ -300,3 +300,84 @@
     - ihmis-suski
     - bergie
   category: navigation
+- datetime: 2025-01-20T06:00:57.500Z
+  text: ""
+  author: ""
+  position:
+    latitude: 14.089107831319174
+    longitude: -59.1460458278656
+    source: GPS
+  heading: 274
+  course: 280
+  speed:
+    stw: 4.9
+    sog: 7.1
+  log: 10667.9
+  waypoint:
+    longitude: -60.8735
+    latitude: 14.38489
+  barometer: 1015.03
+  wind:
+    speed: 22.4
+    direction: 53
+  engine:
+    hours: 931.8
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: navigation
+- datetime: 2025-01-20T06:10:56.499Z
+  text: First sliver of Martinique on the chartplotter
+  author: ihmis-suski
+  position:
+    latitude: 14.0919768
+    longitude: -59.1632808
+    source: GPS
+  heading: 279
+  course: 283
+  speed:
+    stw: 4.9
+    sog: 5.9
+  log: 10668.9
+  waypoint:
+    longitude: -60.8735
+    latitude: 14.38489
+  barometer: 1015.03
+  wind:
+    speed: 26.2
+    direction: 56
+  engine:
+    hours: 931.8
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: navigation
+- datetime: 2025-01-20T06:40:55.600Z
+  text: Sailboat behind us is now motoring.
+  author: ihmis-suski
+  position:
+    latitude: 14.1049544
+    longitude: -59.2113111
+    source: GPS
+  heading: 279
+  course: 253
+  speed:
+    stw: 4.2
+    sog: 5.5
+  log: 10671.9
+  waypoint:
+    longitude: -60.8735
+    latitude: 14.38489
+  barometer: 1015.03
+  wind:
+    speed: 15.5
+    direction: 86
+  engine:
+    hours: 931.8
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: navigation
