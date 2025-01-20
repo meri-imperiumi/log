@@ -767,3 +767,58 @@
     - ihmis-suski
     - bergie
   category: navigation
+- datetime: 2025-01-20T18:00:43.897Z
+  text: ""
+  author: ""
+  position:
+    latitude: 14.2617674
+    longitude: -60.3411368
+    source: GPS
+  heading: 260
+  course: 275
+  speed:
+    stw: 4.9
+    sog: 4.9
+  log: 10739.9
+  waypoint:
+    longitude: -60.78109
+    latitude: 14.34183
+  barometer: 1015.03
+  wind:
+    speed: 20.1
+    direction: 76
+  engine:
+    hours: 931.8
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: navigation
+- datetime: 2025-01-20T18:06:43.897Z
+  text: "Got absolute sloshed by a wave hitting us on the starboard aft. Pflooosh,
+    a lot of water in cockpit. Me wet from waist down. "
+  author: ihmis-suski
+  position:
+    latitude: 14.2641219
+    longitude: -60.3517363
+    source: GPS
+  heading: 274
+  course: 296
+  speed:
+    stw: 4.2
+    sog: 3.8
+  log: 10740.6
+  waypoint:
+    longitude: -60.78109
+    latitude: 14.34183
+  barometer: 1015.03
+  wind:
+    speed: 18.5
+    direction: 58
+  engine:
+    hours: 931.8
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: navigation
