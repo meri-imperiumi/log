@@ -686,3 +686,29 @@
     seaState: 5
     cloudCoverage: 4
     visibility: 7
+- datetime: 2025-01-20T16:00:45.798Z
+  text: ""
+  author: ""
+  position:
+    latitude: 14.2410096
+    longitude: -60.1335006
+    source: GPS
+  heading: 278
+  course: 284
+  speed:
+    stw: 4.9
+    sog: 3.9
+  log: 10727.6
+  waypoint:
+    longitude: -60.78109
+    latitude: 14.34183
+  barometer: 1015.03
+  wind:
+    speed: 19.8
+    direction: 59
+  engine:
+    hours: 931.8
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
