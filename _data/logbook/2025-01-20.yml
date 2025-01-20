@@ -1,0 +1,85 @@
+- datetime: 2025-01-20T00:00:04.400Z
+  text: ""
+  author: bergie
+  position:
+    latitude: 14.0296523
+    longitude: -58.5067955
+    source: GPS
+  heading: 260
+  course: 271
+  speed:
+    stw: 5
+    sog: 5.9
+  log: 10629.9
+  waypoint:
+    longitude: -60.8735
+    latitude: 14.38489
+  barometer: 1015.03
+  wind:
+    speed: 24.8
+    direction: 36
+  engine:
+    hours: 931.8
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: navigation
+  observations:
+    cloudCoverage: 8
+- datetime: 2025-01-20T00:09:03.400Z
+  text: Rain is over
+  author: bergie
+  position:
+    latitude: 14.0246604
+    longitude: -58.518706
+    source: GPS
+  heading: 247
+  course: 232
+  speed:
+    stw: 3.7
+    sog: 4.5
+  log: 10630.7
+  waypoint:
+    longitude: -60.8735
+    latitude: 14.38489
+  barometer: 1015.03
+  wind:
+    speed: 19
+    direction: 78
+  engine:
+    hours: 931.8
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: navigation
+  observations:
+    cloudCoverage: 4
+- datetime: 2025-01-20T00:48:04.400Z
+  text: Cargo ship Carlos Fischer (636011561) passing red to red. Vessel 8
+  author: bergie
+  position:
+    latitude: 14.0255089
+    longitude: -58.5849418
+    source: GPS
+  heading: 274
+  course: 276
+  speed:
+    stw: 4.4
+    sog: 6.5
+  log: 10634.6
+  waypoint:
+    longitude: -60.8735
+    latitude: 14.38489
+  barometer: 1015.03
+  wind:
+    speed: 20.9
+    direction: 54
+  engine:
+    hours: 931.8
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: navigation
