@@ -83,3 +83,57 @@
     - ihmis-suski
     - bergie
   category: navigation
+- datetime: 2025-01-20T01:00:03.400Z
+  text: ""
+  author: ""
+  position:
+    latitude: 14.0281974
+    longitude: -58.6061673
+    source: GPS
+  heading: 268
+  course: 294
+  speed:
+    stw: 4.9
+    sog: 5.4
+  log: 10635.9
+  waypoint:
+    longitude: -60.8735
+    latitude: 14.38489
+  barometer: 1015.03
+  wind:
+    speed: 23.3
+    direction: 54
+  engine:
+    hours: 931.8
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: navigation
+- datetime: 2025-01-20T01:03:03.400Z
+  text: First Martinique Securité MSI heard (poorly)
+  author: bergie
+  position:
+    latitude: 14.0287303
+    longitude: -58.6114698
+    source: GPS
+  heading: 275
+  course: 290
+  speed:
+    stw: 4.6
+    sog: 6.6
+  log: 10636.2
+  waypoint:
+    longitude: -60.8735
+    latitude: 14.38489
+  barometer: 1015.03
+  wind:
+    speed: 18.7
+    direction: 76
+  engine:
+    hours: 931.8
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: radio
