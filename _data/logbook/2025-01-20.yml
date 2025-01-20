@@ -848,3 +848,58 @@
   crewNames:
     - ihmis-suski
     - bergie
+  category: navigation
+- datetime: 2025-01-20T20:00:40.902Z
+  text: ""
+  author: ""
+  position:
+    latitude: 14.2827793
+    longitude: -60.5558715
+    source: GPS
+  heading: 280
+  course: 277
+  speed:
+    stw: 4.8
+    sog: 5.1
+  log: 10752.7
+  waypoint:
+    longitude: -60.78109
+    latitude: 14.34183
+  barometer: 1015.03
+  wind:
+    speed: 16.1
+    direction: 64
+  engine:
+    hours: 931.8
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: navigation
+- datetime: 2025-01-20T20:35:40.902Z
+  text: Land!
+  author: ihmis-suski
+  position:
+    latitude: 14.2906429
+    longitude: -60.6146141
+    source: GPS
+  heading: 266
+  course: 289
+  speed:
+    stw: 4.9
+    sog: 4.8
+  log: 10756.2
+  waypoint:
+    longitude: -60.78109
+    latitude: 14.34183
+  barometer: 1015.03
+  wind:
+    speed: 19
+    direction: 59
+  engine:
+    hours: 931.8
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: navigation
