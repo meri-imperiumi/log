@@ -903,3 +903,88 @@
     - ihmis-suski
     - bergie
   category: navigation
+- datetime: 2025-01-20T21:00:40.000Z
+  text: Bergie on watch
+  author: ihmis-suski
+  position:
+    latitude: 14.2989678
+    longitude: -60.6557283
+    source: GPS
+  heading: 276
+  course: 295
+  speed:
+    stw: 4.9
+    sog: 4.7
+  log: 10758.7
+  waypoint:
+    longitude: -60.78109
+    latitude: 14.34183
+  barometer: 1015.03
+  wind:
+    speed: 24.9
+    direction: 61
+  engine:
+    hours: 931.8
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: navigation
+- datetime: 2025-01-20T21:02:39.001Z
+  text: "French waters "
+  author: bergie
+  position:
+    latitude: 14.299978510538738
+    longitude: -60.65900548299154
+    source: GPS
+  heading: 281
+  course: 275
+  speed:
+    stw: 5.4
+    sog: 7.2
+  log: 10758.9
+  waypoint:
+    longitude: -60.78109
+    latitude: 14.34183
+  barometer: 1015.03
+  wind:
+    speed: 21.8
+    direction: 88
+  engine:
+    hours: 931.8
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: navigation
+- datetime: 2025-01-20T21:55:28.998Z
+  text: Sunset
+  author: bergie
+  position:
+    latitude: 14.3100079
+    longitude: -60.7469076
+    source: GPS
+  heading: 270
+  course: 248
+  speed:
+    stw: 5.2
+    sog: 6.5
+  log: 10764.1
+  waypoint:
+    longitude: -60.78109
+    latitude: 14.34183
+  barometer: 1015.03
+  wind:
+    speed: 18.2
+    direction: 86
+  engine:
+    hours: 931.8
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: navigation
+  observations:
+    cloudCoverage: 2
+    seaState: 5
+    visibility: 7
