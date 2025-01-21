@@ -106,3 +106,72 @@
     - ihmis-suski
     - bergie
   category: navigation
+- datetime: 2025-01-21T19:02:48.300Z
+  text: We have gooseneck barnacles in the stern. Suski did a round of clearing them
+  author: bergie
+  position:
+    latitude: 14.4290541
+    longitude: -60.8963356
+    source: GPS
+  heading: 46
+  course: 119
+  speed:
+    stw: 0
+    sog: 0.5
+  log: 10778.1
+  barometer: 1015.03
+  wind:
+    speed: 15.7
+    direction: 70
+  engine:
+    hours: 932.5
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: maintenance
+- datetime: 2025-01-21T19:16:48.300Z
+  text: "Started watermaker "
+  author: bergie
+  position:
+    latitude: 14.4290763
+    longitude: -60.8963254
+    source: GPS
+  heading: 54
+  course: 300
+  speed:
+    stw: 0
+    sog: 0.3
+  log: 10778.1
+  barometer: 1015.03
+  wind:
+    speed: 11.8
+    direction: 70
+  engine:
+    hours: 932.5
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: maintenance
+- datetime: 2025-01-21T19:27:47.302Z
+  text: Watermaker 263ppm
+  author: bergie
+  position:
+    latitude: 14.4290323
+    longitude: -60.8963053
+    source: GPS
+  heading: 34
+  course: 53
+  speed:
+    stw: 0
+    sog: 0.5
+  log: 10778.1
+  barometer: 1015.03
+  wind:
+    speed: 18.2
+    direction: 66
+  engine:
+    hours: 932.5
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: maintenance
