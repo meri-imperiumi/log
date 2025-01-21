@@ -1014,3 +1014,58 @@
   crewNames:
     - ihmis-suski
     - bergie
+  category: navigation
+- datetime: 2025-01-20T23:00:28.000Z
+  text: ""
+  author: ""
+  position:
+    latitude: 14.345608
+    longitude: -60.8542626
+    source: GPS
+  heading: 298
+  course: 301
+  speed:
+    stw: 6
+    sog: 5.4
+  log: 10770.8
+  waypoint:
+    longitude: -60.88344
+    latitude: 14.36058
+  barometer: 1015.03
+  wind:
+    speed: 24.3
+    direction: 64
+  engine:
+    hours: 931.8
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: navigation
+- datetime: 2025-01-20T23:14:27.001Z
+  text: Hand steering
+  author: bergie
+  position:
+    latitude: 14.3573178
+    longitude: -60.8770021
+    source: GPS
+  heading: 307
+  course: 304
+  speed:
+    stw: 5.6
+    sog: 8.5
+  log: 10772.4
+  waypoint:
+    longitude: -60.88344
+    latitude: 14.36058
+  barometer: 1015.03
+  wind:
+    speed: 24.9
+    direction: 60
+  engine:
+    hours: 931.8
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: navigation
