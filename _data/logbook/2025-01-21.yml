@@ -1,0 +1,136 @@
+- datetime: 2025-01-21T00:00:25.400Z
+  text: ""
+  author: ""
+  position:
+    latitude: 14.4184013
+    longitude: -60.9056943
+    source: GPS
+  heading: 5
+  course: 9
+  speed:
+    stw: 4.3
+    sog: 4.1
+  log: 10776.6
+  waypoint:
+    longitude: -60.88626
+    latitude: 14.43774
+  barometer: 1015.03
+  wind:
+    speed: 16.4
+    direction: 64
+  engine:
+    hours: 931.8
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: navigation
+- datetime: 2025-01-21T00:19:02.400Z
+  text: Sails down, motoring
+  author: ""
+  position:
+    latitude: 14.4265691
+    longitude: -60.9057098
+    source: GPS
+  heading: 355
+  course: 333
+  speed:
+    stw: 2.3
+    sog: 2.8
+  log: 10777.1
+  waypoint:
+    longitude: -60.88626
+    latitude: 14.43774
+  barometer: 1015.03
+  wind:
+    speed: 16.8
+    direction: 67
+  engine:
+    hours: 931.8
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: navigation
+- datetime: 2025-01-21T00:19:08.400Z
+  text: Motor stopped, sailing with Main (2nd reef), Staysail
+  author: ""
+  position:
+    latitude: 14.4266365
+    longitude: -60.9057303
+    source: GPS
+  heading: 350
+  course: 16
+  speed:
+    stw: 2.2
+    sog: 1.6
+  log: 10777.1
+  waypoint:
+    longitude: -60.88626
+    latitude: 14.43774
+  barometer: 1015.03
+  wind:
+    speed: 19.9
+    direction: 63
+  engine:
+    hours: 931.8
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: navigation
+- datetime: 2025-01-21T00:23:06.400Z
+  text: Sails down, motoring
+  author: ""
+  position:
+    latitude: 14.428739
+    longitude: -60.9061926
+    source: GPS
+  heading: 355
+  course: 341
+  speed:
+    stw: 2.4
+    sog: 3
+  log: 10777.2
+  waypoint:
+    longitude: -60.88626
+    latitude: 14.43774
+  barometer: 1015.03
+  wind:
+    speed: 19.1
+    direction: 67
+  engine:
+    hours: 931.8
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: navigation
+- datetime: 2025-01-21T00:49:49.400Z
+  text: Anchored
+  author: ""
+  position:
+    latitude: 14.4293246
+    longitude: -60.8959363
+    source: GPS
+  heading: 137
+  course: 97
+  speed:
+    stw: 0
+    sog: 0.3
+  log: 10778.1
+  waypoint:
+    longitude: -60.88626
+    latitude: 14.43774
+  barometer: 1015.03
+  wind:
+    speed: 15.1
+    direction: 49
+  engine:
+    hours: 932.3
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  end: true
+  category: navigation
