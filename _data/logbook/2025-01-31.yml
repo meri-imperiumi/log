@@ -142,3 +142,61 @@
     seaState: 3
     cloudCoverage: 5
     visibility: 7
+- datetime: 2025-01-31T21:09:36.697Z
+  text: Did radio checks with Wenda. Seems their antenna issues are fixed now
+  author: bergie
+  position:
+    latitude: 14.361032
+    longitude: -60.9213345
+    source: GPS
+  heading: 190
+  course: 189
+  speed:
+    stw: 0
+    sog: 5.6
+  log: 10783.9
+  waypoint:
+    longitude: -61.32407
+    latitude: 13.2746
+  barometer: 1015.51
+  wind:
+    speed: 20.2
+    direction: 82
+  engine:
+    hours: 933.6
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
+    - karin
+    - daniel
+  category: radio
+- datetime: 2025-01-31T21:24:36.697Z
+  text: "St. Lucia is now visible "
+  author: bergie
+  position:
+    latitude: 14.3413766
+    longitude: -60.9335884
+    source: GPS
+  heading: 188
+  course: 204
+  speed:
+    stw: 4.7
+    sog: 5.7
+  log: 10785.3
+  waypoint:
+    longitude: -61.32407
+    latitude: 13.2746
+  barometer: 1015.74
+  wind:
+    speed: 19.5
+    direction: 83
+  engine:
+    hours: 933.6
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
+    - karin
+    - daniel
+  category: navigation
