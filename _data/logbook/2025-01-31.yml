@@ -1,22 +1,49 @@
-- datetime: 2025-01-31T19:53:40.601Z
-  text: Started main engine
+- datetime: 2025-01-31T20:02:40.601Z
+  text: Stopped
   author: ""
   position:
-    latitude: 14.4310071627299
-    longitude: -60.88761380513509
+    latitude: 14.4307889
+    longitude: -60.8885326
     source: GPS
-  heading: 46
-  course: 296
+  heading: 314
+  course: 306
   speed:
     stw: 0
-    sog: 0
+    sog: 2.9
   log: 10778.9
-  barometer: 1015.18
+  barometer: 1014.97
   wind:
-    speed: 12.3
-    direction: 55
+    speed: 20.2
+    direction: 50
   engine:
-    hours: 933.3
+    hours: 933.4
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
+    - karin
+    - daniel
+  end: true
+  category: navigation
+- datetime: 2025-01-31T20:04:41.600Z
+  text: Motoring
+  author: ""
+  position:
+    latitude: 14.4318228
+    longitude: -60.8901339
+    source: GPS
+  heading: 287
+  course: 287
+  speed:
+    stw: 0
+    sog: 3.9
+  log: 10778.9
+  barometer: 1015.07
+  wind:
+    speed: 18.3
+    direction: 80
+  engine:
+    hours: 933.5
   vhf: "16"
   crewNames:
     - ihmis-suski
@@ -24,3 +51,94 @@
     - karin
     - daniel
   category: navigation
+- datetime: 2025-01-31T20:15:51.603Z
+  text: Motor stopped, sailing with Main (1st reef), Staysail
+  author: ""
+  position:
+    latitude: 14.430281
+    longitude: -60.8965591
+    source: GPS
+  heading: 202
+  course: 207
+  speed:
+    stw: 0
+    sog: 4.6
+  log: 10779.5
+  waypoint:
+    longitude: -60.90034
+    latitude: 14.42035
+  barometer: 1015.35
+  wind:
+    speed: 24.1
+    direction: 69
+  engine:
+    hours: 933.6
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
+    - karin
+    - daniel
+  category: navigation
+- datetime: 2025-01-31T20:38:35.596Z
+  text: Starbuck is steering
+  author: ihmis-suski
+  position:
+    latitude: 14.406011327107747
+    longitude: -60.90679702758789
+    source: GPS
+  heading: 203
+  course: 217
+  speed:
+    stw: 0
+    sog: 4.8
+  log: 10781.1
+  waypoint:
+    longitude: -61.32407
+    latitude: 13.2746
+  barometer: 1015.22
+  wind:
+    speed: 14
+    direction: 70
+  engine:
+    hours: 933.6
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
+    - karin
+    - daniel
+  category: navigation
+- datetime: 2025-01-31T20:53:36.697Z
+  text: In the channel.
+  author: ihmis-suski
+  position:
+    latitude: 14.3856369
+    longitude: -60.9157058
+    source: GPS
+  heading: 200
+  course: 201
+  speed:
+    stw: 0
+    sog: 5.1
+  log: 10782.4
+  waypoint:
+    longitude: -61.32407
+    latitude: 13.2746
+  barometer: 1015.29
+  wind:
+    speed: 17.7
+    direction: 88
+  engine:
+    hours: 933.6
+  vhf: "72"
+  crewNames:
+    - ihmis-suski
+    - bergie
+    - karin
+    - daniel
+  category: navigation
+  observations:
+    seaState: 3
+    cloudCoverage: 5
+    visibility: 7
