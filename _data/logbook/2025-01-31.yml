@@ -200,3 +200,94 @@
     - karin
     - daniel
   category: navigation
+- datetime: 2025-01-31T22:00:36.697Z
+  text: ""
+  author: ""
+  position:
+    latitude: 14.2883078
+    longitude: -60.9552793
+    source: GPS
+  heading: 182
+  course: 195
+  speed:
+    stw: 4.5
+    sog: 6
+  log: 10788.8
+  waypoint:
+    longitude: -61.32407
+    latitude: 13.2746
+  barometer: 1016.07
+  wind:
+    speed: 22.2
+    direction: 68
+  engine:
+    hours: 933.6
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
+    - karin
+    - daniel
+  category: navigation
+- datetime: 2025-01-31T22:00:36.697Z
+  text: Sunset
+  author: ihmis-suski
+  position:
+    latitude: 14.2883078
+    longitude: -60.9552793
+    source: GPS
+  heading: 182
+  course: 195
+  speed:
+    stw: 4.5
+    sog: 6
+  log: 10788.8
+  waypoint:
+    longitude: -61.32407
+    latitude: 13.2746
+  barometer: 1016.07
+  wind:
+    speed: 22.2
+    direction: 68
+  engine:
+    hours: 933.6
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
+    - karin
+    - daniel
+  category: navigation
+  observations:
+    seaState: 4
+    cloudCoverage: 4
+    visibility: 7
+- datetime: 2025-01-31T22:18:36.697Z
+  text: St. Lucia territorial waters
+  author: bergie
+  position:
+    latitude: 14.2628096
+    longitude: -60.9668493
+    source: GPS
+  heading: 208
+  course: 214
+  speed:
+    stw: 4.9
+    sog: 5.3
+  log: 10790.4
+  waypoint:
+    longitude: -61.32407
+    latitude: 13.2746
+  barometer: 1016.12
+  wind:
+    speed: 19.9
+    direction: 88
+  engine:
+    hours: 933.6
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
+    - karin
+    - daniel
+  category: navigation
