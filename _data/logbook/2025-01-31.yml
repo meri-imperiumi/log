@@ -1,33 +1,6 @@
-- datetime: 2025-01-31T20:02:40.601Z
-  text: Stopped
-  author: ""
-  position:
-    latitude: 14.4307889
-    longitude: -60.8885326
-    source: GPS
-  heading: 314
-  course: 306
-  speed:
-    stw: 0
-    sog: 2.9
-  log: 10778.9
-  barometer: 1014.97
-  wind:
-    speed: 20.2
-    direction: 50
-  engine:
-    hours: 933.4
-  vhf: "16"
-  crewNames:
-    - ihmis-suski
-    - bergie
-    - karin
-    - daniel
-  end: true
-  category: navigation
 - datetime: 2025-01-31T20:04:41.600Z
-  text: Motoring
-  author: ""
+  text: Anchor up, motoring
+  author: bergie
   position:
     latitude: 14.4318228
     longitude: -60.8901339
@@ -319,3 +292,4 @@
     - bergie
     - karin
     - daniel
+  category: navigation
