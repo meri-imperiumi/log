@@ -203,7 +203,7 @@
     - daniel
   category: navigation
 - datetime: 2025-02-01T04:00:40.200Z
-  text: Bergie on watch, passing the pitons
+  text: Passing the pitons
   author: bergie
   position:
     latitude: 13.8269433
@@ -461,6 +461,35 @@
   wind:
     speed: 21.8
     direction: 104
+  engine:
+    hours: 933.6
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
+    - karin
+    - daniel
+  category: navigation
+- datetime: 2025-02-01T09:00:47.299Z
+  text: ""
+  author: ""
+  position:
+    latitude: 13.4497256
+    longitude: -61.2901788
+    source: GPS
+  heading: 191
+  course: 184
+  speed:
+    stw: 4.9
+    sog: 6.9
+  log: 10844.5
+  waypoint:
+    longitude: -61.32407
+    latitude: 13.2746
+  barometer: 1014.82
+  wind:
+    speed: 22.1
+    direction: 92
   engine:
     hours: 933.6
   vhf: "16"
