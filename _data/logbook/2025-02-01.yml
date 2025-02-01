@@ -590,3 +590,61 @@
     - karin
     - daniel
   category: navigation
+- datetime: 2025-02-01T11:00:48.400Z
+  text: ""
+  author: ""
+  position:
+    latitude: 13.2880656
+    longitude: -61.3038555
+    source: GPS
+  heading: 189
+  course: 318
+  speed:
+    stw: 0.8
+    sog: 0.5
+  log: 10855
+  waypoint:
+    longitude: -61.32407
+    latitude: 13.2746
+  barometer: 1015.68
+  wind:
+    speed: 4.2
+    direction: 177
+  engine:
+    hours: 933.6
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
+    - karin
+    - daniel
+  category: navigation
+- datetime: 2025-02-01T11:22:49.401Z
+  text: Sails down, motoring
+  author: ""
+  position:
+    latitude: 13.2844688
+    longitude: -61.3068271
+    source: GPS
+  heading: 206
+  course: 216
+  speed:
+    stw: 0.4
+    sog: 0.7
+  log: 10855.3
+  waypoint:
+    longitude: -61.32407
+    latitude: 13.2746
+  barometer: 1015.99
+  wind:
+    speed: 2.4
+    direction: 202
+  engine:
+    hours: 933.6
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
+    - karin
+    - daniel
+  category: navigation
