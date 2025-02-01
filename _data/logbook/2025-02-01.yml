@@ -409,3 +409,64 @@
     seaState: 3
     cloudCoverage: 6
     visibility: 7
+- datetime: 2025-02-01T08:00:46.300Z
+  text: We've been in St. Vincent territorial waters for a bit, but had to fight
+    with a long squall gusting to 34kt
+  author: bergie
+  position:
+    latitude: 13.542049
+    longitude: -61.2607976
+    source: GPS
+  heading: 210
+  course: 223
+  speed:
+    stw: 4.7
+    sog: 6.1
+  log: 10838.6
+  waypoint:
+    longitude: -61.32407
+    latitude: 13.2746
+  barometer: 1014.8
+  wind:
+    speed: 21.2
+    direction: 111
+  engine:
+    hours: 933.6
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
+    - karin
+    - daniel
+  category: navigation
+  observations:
+    cloudCoverage: 2
+- datetime: 2025-02-01T08:35:18.300Z
+  text: "Sails set: Main (2nd reef), Staysail"
+  author: ""
+  position:
+    latitude: 13.4928909
+    longitude: -61.2831269
+    source: GPS
+  heading: 197
+  course: 197
+  speed:
+    stw: 5
+    sog: 6.9
+  log: 10841.9
+  waypoint:
+    longitude: -61.32407
+    latitude: 13.2746
+  barometer: 1014.79
+  wind:
+    speed: 21.8
+    direction: 104
+  engine:
+    hours: 933.6
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
+    - karin
+    - daniel
+  category: navigation
