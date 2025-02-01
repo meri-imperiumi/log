@@ -318,3 +318,94 @@
     - karin
     - daniel
   category: navigation
+- datetime: 2025-02-01T07:00:45.299Z
+  text: ""
+  author: ""
+  position:
+    latitude: 13.6158181
+    longitude: -61.1823783
+    source: GPS
+  heading: 200
+  course: 218
+  speed:
+    stw: 4.6
+    sog: 6.1
+  log: 10832
+  waypoint:
+    longitude: -61.32407
+    latitude: 13.2746
+  barometer: 1014.86
+  wind:
+    speed: 21.3
+    direction: 92
+  engine:
+    hours: 933.6
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
+    - karin
+    - daniel
+  category: navigation
+- datetime: 2025-02-01T07:15:45.299Z
+  text: Seeing some lights of St. Vincent
+  author: bergie
+  position:
+    latitude: 13.5980276
+    longitude: -61.2013779
+    source: GPS
+  heading: 196
+  course: 222
+  speed:
+    stw: 4.8
+    sog: 7.5
+  log: 10833.6
+  waypoint:
+    longitude: -61.32407
+    latitude: 13.2746
+  barometer: 1014.63
+  wind:
+    speed: 18.2
+    direction: 124
+  engine:
+    hours: 933.6
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
+    - karin
+    - daniel
+  category: navigation
+- datetime: 2025-02-01T07:19:45.299Z
+  text: "Drizzle "
+  author: bergie
+  position:
+    latitude: 13.5938079
+    longitude: -61.2074641
+    source: GPS
+  heading: 228
+  course: 248
+  speed:
+    stw: 4.6
+    sog: 7.8
+  log: 10834
+  waypoint:
+    longitude: -61.32407
+    latitude: 13.2746
+  barometer: 1014.56
+  wind:
+    speed: 21.4
+    direction: 124
+  engine:
+    hours: 933.6
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
+    - karin
+    - daniel
+  category: navigation
+  observations:
+    seaState: 3
+    cloudCoverage: 6
+    visibility: 7
