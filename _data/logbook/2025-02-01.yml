@@ -26,3 +26,62 @@
     - bergie
     - karin
     - daniel
+  category: navigation
+- datetime: 2025-02-01T01:00:35.800Z
+  text: ""
+  author: ""
+  position:
+    latitude: 14.0236401
+    longitude: -61.0670375
+    source: GPS
+  heading: 199
+  course: 201
+  speed:
+    stw: 4.3
+    sog: 5.2
+  log: 10806.1
+  waypoint:
+    longitude: -61.32407
+    latitude: 13.2746
+  barometer: 1016.86
+  wind:
+    speed: 17
+    direction: 87
+  engine:
+    hours: 933.6
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
+    - karin
+    - daniel
+  category: navigation
+- datetime: 2025-02-01T01:32:35.800Z
+  text: We can hear the street party!
+  author: ihmis-suski
+  position:
+    latitude: 13.9752648
+    longitude: -61.0813136
+    source: GPS
+  heading: 193
+  course: 193
+  speed:
+    stw: 4.6
+    sog: 5.3
+  log: 10809.1
+  waypoint:
+    longitude: -61.32407
+    latitude: 13.2746
+  barometer: 1016.99
+  wind:
+    speed: 18.6
+    direction: 85
+  engine:
+    hours: 933.6
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
+    - karin
+    - daniel
+  category: navigation
