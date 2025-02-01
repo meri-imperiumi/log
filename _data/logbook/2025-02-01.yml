@@ -259,3 +259,62 @@
     - bergie
     - karin
     - daniel
+  category: navigation
+- datetime: 2025-02-01T06:00:42.300Z
+  text: ""
+  author: ""
+  position:
+    latitude: 13.7027303
+    longitude: -61.1614195
+    source: GPS
+  heading: 188
+  course: 215
+  speed:
+    stw: 3.7
+    sog: 4.3
+  log: 10826.5
+  waypoint:
+    longitude: -61.32407
+    latitude: 13.2746
+  barometer: 1015.41
+  wind:
+    speed: 17.1
+    direction: 59
+  engine:
+    hours: 933.6
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
+    - karin
+    - daniel
+  category: navigation
+- datetime: 2025-02-01T06:55:45.299Z
+  text: Out of St. Lucia waters. Somewhat squally, gusting to 30
+  author: bergie
+  position:
+    latitude: 13.6227685
+    longitude: -61.1777324
+    source: GPS
+  heading: 183
+  course: 196
+  speed:
+    stw: 4.9
+    sog: 6.1
+  log: 10831.5
+  waypoint:
+    longitude: -61.32407
+    latitude: 13.2746
+  barometer: 1014.87
+  wind:
+    speed: 21.5
+    direction: 82
+  engine:
+    hours: 933.6
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
+    - karin
+    - daniel
+  category: navigation
