@@ -499,3 +499,94 @@
     - karin
     - daniel
   category: navigation
+- datetime: 2025-02-01T10:00:47.398Z
+  text: Suski on watch
+  author: ihmis-suski
+  position:
+    latitude: 13.3653624
+    longitude: -61.322541
+    source: GPS
+  heading: 161
+  course: 153
+  speed:
+    stw: 5.3
+    sog: 6.3
+  log: 10850.2
+  waypoint:
+    longitude: -61.32407
+    latitude: 13.2746
+  barometer: 1015.37
+  wind:
+    speed: 34.1
+    direction: 82
+  engine:
+    hours: 933.6
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
+    - karin
+    - daniel
+  category: navigation
+- datetime: 2025-02-01T10:48:48.400Z
+  text: Absolutely gorgeous sunrise
+  author: ihmis-suski
+  position:
+    latitude: 13.2950928
+    longitude: -61.3047696
+    source: GPS
+  heading: 173
+  course: 196
+  speed:
+    stw: 3
+    sog: 4
+  log: 10854.6
+  waypoint:
+    longitude: -61.32407
+    latitude: 13.2746
+  barometer: 1015.8
+  wind:
+    speed: 10.6
+    direction: 63
+  engine:
+    hours: 933.6
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
+    - karin
+    - daniel
+  category: navigation
+  observations:
+    seaState: 3
+    cloudCoverage: 7
+    visibility: 7
+- datetime: 2025-02-01T10:53:48.400Z
+  text: "Steering with Nissinen "
+  author: ihmis-suski
+  position:
+    latitude: 13.2917538
+    longitude: -61.304607
+    source: GPS
+  heading: 174
+  course: 182
+  speed:
+    stw: 2.5
+    sog: 3.5
+  log: 10854.8
+  waypoint:
+    longitude: -61.32407
+    latitude: 13.2746
+  barometer: 1015.93
+  wind:
+    speed: 11.1
+    direction: 76
+  engine:
+    hours: 933.6
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
+    - karin
+    - daniel
+  category: navigation
