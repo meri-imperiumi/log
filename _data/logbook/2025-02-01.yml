@@ -562,7 +562,7 @@
     cloudCoverage: 7
     visibility: 7
 - datetime: 2025-02-01T10:53:48.400Z
-  text: "Steering with Nissinen "
+  text: "Autopilot activated "
   author: ihmis-suski
   position:
     latitude: 13.2917538
@@ -792,3 +792,91 @@
     - bergie
     - karin
     - daniel
+  category: navigation
+- datetime: 2025-02-01T15:00:41.497Z
+  text: Hand steering
+  author: bergie
+  position:
+    latitude: 13.0782725
+    longitude: -61.2707903
+    source: GPS
+  heading: 141
+  course: 158
+  speed:
+    stw: 4.5
+    sog: 4.6
+  log: 10868.1
+  waypoint:
+    longitude: -61.25221
+    latitude: 13.0112
+  barometer: 1017.12
+  wind:
+    speed: 17
+    direction: 78
+  engine:
+    hours: 934.8
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
+    - karin
+    - daniel
+  category: navigation
+- datetime: 2025-02-01T15:45:11.500Z
+  text: "Sails set: Main (2nd reef), Staysail"
+  author: ""
+  position:
+    latitude: 13.0178581
+    longitude: -61.2561655
+    source: GPS
+  heading: 174
+  course: 171
+  speed:
+    stw: 3.2
+    sog: 2.8
+  log: 10871.8
+  waypoint:
+    longitude: -61.25221
+    latitude: 13.0112
+  barometer: 1016.47
+  wind:
+    speed: 7.4
+    direction: 93
+  engine:
+    hours: 934.8
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
+    - karin
+    - daniel
+  category: navigation
+- datetime: 2025-02-01T15:45:44.499Z
+  text: Sails down, motoring
+  author: ""
+  position:
+    latitude: 13.0174269
+    longitude: -61.2559934
+    source: GPS
+  heading: 165
+  course: 135
+  speed:
+    stw: 2.8
+    sog: 2.4
+  log: 10871.8
+  waypoint:
+    longitude: -61.25221
+    latitude: 13.0112
+  barometer: 1016.41
+  wind:
+    speed: 12
+    direction: 57
+  engine:
+    hours: 934.8
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
+    - karin
+    - daniel
+  category: navigation
