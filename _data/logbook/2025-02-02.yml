@@ -428,3 +428,90 @@
     - karin
     - daniel
   category: navigation
+- datetime: 2025-02-02T18:00:56.300Z
+  text: ""
+  author: ""
+  position:
+    latitude: 12.7961774
+    longitude: -61.3446975
+    source: GPS
+  heading: 190
+  course: 193
+  speed:
+    stw: 4.1
+    sog: 4.7
+  log: 10889
+  waypoint:
+    longitude: -61.37008
+    latitude: 12.651
+  barometer: 1013.47
+  wind:
+    speed: 13.3
+    direction: 87
+  engine:
+    hours: 935.6
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
+    - karin
+    - daniel
+  category: navigation
+- datetime: 2025-02-02T18:24:34.297Z
+  text: "Sails set: Main (1st reef), Genoa 1, Staysail"
+  author: ""
+  position:
+    latitude: 12.7625069
+    longitude: -61.3511488
+    source: GPS
+  heading: 190
+  course: 190
+  speed:
+    stw: 4.6
+    sog: 6.5
+  log: 10891
+  waypoint:
+    longitude: -61.37008
+    latitude: 12.651
+  barometer: 1013.04
+  wind:
+    speed: 14.3
+    direction: 89
+  engine:
+    hours: 935.6
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
+    - karin
+    - daniel
+  category: navigation
+- datetime: 2025-02-02T18:43:57.299Z
+  text: Watermaker 244ppm, jug full
+  author: bergie
+  position:
+    latitude: 12.7293716
+    longitude: -61.3551091
+    source: GPS
+  heading: 192
+  course: 197
+  speed:
+    stw: 4.5
+    sog: 6.7
+  log: 10893
+  waypoint:
+    longitude: -61.38218
+    latitude: 12.65077
+  barometer: 1012.9
+  wind:
+    speed: 14.5
+    direction: 68
+  engine:
+    hours: 935.6
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
+    - karin
+    - daniel
+  category: maintenance
