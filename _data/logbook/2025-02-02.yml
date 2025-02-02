@@ -283,3 +283,148 @@
     - karin
     - daniel
   category: navigation
+- datetime: 2025-02-02T17:00:55.302Z
+  text: ""
+  author: ""
+  position:
+    latitude: 12.8706653
+    longitude: -61.3275441
+    source: GPS
+  heading: 183
+  course: 189
+  speed:
+    stw: 4.8
+    sog: 4.8
+  log: 10884.3
+  waypoint:
+    longitude: -61.37008
+    latitude: 12.651
+  barometer: 1014.56
+  wind:
+    speed: 18.8
+    direction: 71
+  engine:
+    hours: 935.6
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
+    - karin
+    - daniel
+  category: navigation
+- datetime: 2025-02-02T17:06:16.300Z
+  text: "Sails set: Main (2nd reef), Staysail. Seems like we'll find a squall soon"
+  author: bergie
+  position:
+    latitude: 12.8639071
+    longitude: -61.3287171
+    source: GPS
+  heading: 184
+  course: 203
+  speed:
+    stw: 4.4
+    sog: 5.2
+  log: 10884.7
+  waypoint:
+    longitude: -61.37008
+    latitude: 12.651
+  barometer: 1014.54
+  wind:
+    speed: 19
+    direction: 90
+  engine:
+    hours: 935.6
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
+    - karin
+    - daniel
+  category: navigation
+- datetime: 2025-02-02T17:12:55.302Z
+  text: Watermaker 240ppm, jug full
+  author: bergie
+  position:
+    latitude: 12.8557531
+    longitude: -61.3298124
+    source: GPS
+  heading: 189
+  course: 177
+  speed:
+    stw: 4.5
+    sog: 4.5
+  log: 10885.2
+  waypoint:
+    longitude: -61.37008
+    latitude: 12.651
+  barometer: 1014.43
+  wind:
+    speed: 17.3
+    direction: 94
+  engine:
+    hours: 935.6
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
+    - karin
+    - daniel
+  category: maintenance
+- datetime: 2025-02-02T17:19:57.299Z
+  text: Autopilot deactivated
+  author: ""
+  position:
+    latitude: 12.846142514546711
+    longitude: -61.330661678314215
+    source: GPS
+  heading: 166
+  course: 161
+  speed:
+    stw: 4.8
+    sog: 4.5
+  log: 10885.8
+  waypoint:
+    longitude: -61.37008
+    latitude: 12.651
+  barometer: 1014.28
+  wind:
+    speed: 23.4
+    direction: 100
+  engine:
+    hours: 935.6
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
+    - karin
+    - daniel
+  category: navigation
+- datetime: 2025-02-02T17:33:00.300Z
+  text: "Sails set: Main (1st reef), Staysail"
+  author: ""
+  position:
+    latitude: 12.8315989
+    longitude: -61.3346128
+    source: GPS
+  heading: 188
+  course: 189
+  speed:
+    stw: 4.3
+    sog: 4.2
+  log: 10886.8
+  waypoint:
+    longitude: -61.37008
+    latitude: 12.651
+  barometer: 1014.08
+  wind:
+    speed: 14.5
+    direction: 93
+  engine:
+    hours: 935.6
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
+    - karin
+    - daniel
+  category: navigation
