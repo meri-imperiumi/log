@@ -1,0 +1,141 @@
+- datetime: 2025-02-02T14:17:33.798Z
+  text: Started main engine
+  author: ""
+  position:
+    latitude: 13.003269
+    longitude: -61.2429411
+    source: GPS
+  heading: 14
+  course: 126
+  speed:
+    stw: 0
+    sog: 0.6
+  log: 10873.1
+  waypoint:
+    longitude: -61.27349
+    latitude: 12.99753
+  barometer: 1016.25
+  wind:
+    speed: 11.5
+    direction: 45
+  engine:
+    hours: 935.4
+  crewNames:
+    - ihmis-suski
+    - bergie
+    - karin
+    - daniel
+  category: navigation
+- datetime: 2025-02-02T14:18:22.800Z
+  text: Anchor up, motoring
+  author: ""
+  position:
+    latitude: 13.0032563
+    longitude: -61.2429438
+    source: GPS
+  heading: 360
+  course: 254
+  speed:
+    stw: 0
+    sog: 0.3
+  log: 10873.1
+  waypoint:
+    longitude: -61.27349
+    latitude: 12.99753
+  barometer: 1016.25
+  wind:
+    speed: 8
+    direction: 31
+  engine:
+    hours: 935.4
+  crewNames:
+    - ihmis-suski
+    - bergie
+    - karin
+    - daniel
+  category: navigation
+- datetime: 2025-02-02T14:18:52.800Z
+  text: Stopped
+  author: ""
+  position:
+    latitude: 13.0032861
+    longitude: -61.2429581
+    source: GPS
+  heading: 27
+  course: 51
+  speed:
+    stw: 0
+    sog: 0.6
+  log: 10873.1
+  waypoint:
+    longitude: -61.27349
+    latitude: 12.99753
+  barometer: 1016.3
+  wind:
+    speed: 7.8
+    direction: 32
+  engine:
+    hours: 935.4
+  crewNames:
+    - ihmis-suski
+    - bergie
+    - karin
+    - daniel
+  end: true
+  category: navigation
+- datetime: 2025-02-02T14:22:52.800Z
+  text: Motoring
+  author: ""
+  position:
+    latitude: 13.004169
+    longitude: -61.2425688
+    source: GPS
+  heading: 11
+  course: 17
+  speed:
+    stw: 2
+    sog: 2.5
+  log: 10873.1
+  waypoint:
+    longitude: -61.27349
+    latitude: 12.99753
+  barometer: 1016.24
+  wind:
+    speed: 6.8
+    direction: 34
+  engine:
+    hours: 935.5
+  crewNames:
+    - ihmis-suski
+    - bergie
+    - karin
+    - daniel
+  category: navigation
+- datetime: 2025-02-02T14:30:41.798Z
+  text: Motor stopped, sailing with Main (1st reef), Genoa 1 (30% furled)
+  author: ""
+  position:
+    latitude: 13.0056425
+    longitude: -61.2463001
+    source: GPS
+  heading: 274
+  course: 272
+  speed:
+    stw: 4.6
+    sog: 5.4
+  log: 10873.5
+  waypoint:
+    longitude: -61.27349
+    latitude: 12.99753
+  barometer: 1015.82
+  wind:
+    speed: 17.6
+    direction: 82
+  engine:
+    hours: 935.6
+  crewNames:
+    - ihmis-suski
+    - bergie
+    - karin
+    - daniel
+  category: navigation
