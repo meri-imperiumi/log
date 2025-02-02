@@ -26,66 +26,9 @@
     - karin
     - daniel
   category: navigation
-- datetime: 2025-02-02T14:18:22.800Z
-  text: Anchor up, motoring
-  author: ""
-  position:
-    latitude: 13.0032563
-    longitude: -61.2429438
-    source: GPS
-  heading: 360
-  course: 254
-  speed:
-    stw: 0
-    sog: 0.3
-  log: 10873.1
-  waypoint:
-    longitude: -61.27349
-    latitude: 12.99753
-  barometer: 1016.25
-  wind:
-    speed: 8
-    direction: 31
-  engine:
-    hours: 935.4
-  crewNames:
-    - ihmis-suski
-    - bergie
-    - karin
-    - daniel
-  category: navigation
-- datetime: 2025-02-02T14:18:52.800Z
-  text: Stopped
-  author: ""
-  position:
-    latitude: 13.0032861
-    longitude: -61.2429581
-    source: GPS
-  heading: 27
-  course: 51
-  speed:
-    stw: 0
-    sog: 0.6
-  log: 10873.1
-  waypoint:
-    longitude: -61.27349
-    latitude: 12.99753
-  barometer: 1016.3
-  wind:
-    speed: 7.8
-    direction: 32
-  engine:
-    hours: 935.4
-  crewNames:
-    - ihmis-suski
-    - bergie
-    - karin
-    - daniel
-  end: true
-  category: navigation
 - datetime: 2025-02-02T14:22:52.800Z
-  text: Motoring
-  author: ""
+  text: Anchor up, motoring
+  author: bergie
   position:
     latitude: 13.004169
     longitude: -61.2425688
@@ -112,8 +55,8 @@
     - daniel
   category: navigation
 - datetime: 2025-02-02T14:30:41.798Z
-  text: Motor stopped, sailing with Main (1st reef), Genoa 1 (30% furled)
-  author: ""
+  text: Motor stopped, sailing with Main (1st reef)
+  author: bergie
   position:
     latitude: 13.0056425
     longitude: -61.2463001
@@ -139,3 +82,146 @@
     - karin
     - daniel
   category: navigation
+- datetime: 2025-02-02T15:00:52.902Z
+  text: ""
+  author: ""
+  position:
+    latitude: 13.0033521
+    longitude: -61.2771506
+    source: GPS
+  heading: 241
+  course: 244
+  speed:
+    stw: 3.7
+    sog: 4.8
+  log: 10875.6
+  waypoint:
+    longitude: -61.27668
+    latitude: 12.99642
+  barometer: 1016.08
+  wind:
+    speed: 16.7
+    direction: 86
+  engine:
+    hours: 935.6
+  crewNames:
+    - ihmis-suski
+    - bergie
+    - karin
+    - daniel
+  category: navigation
+- datetime: 2025-02-02T15:17:53.203Z
+  text: Started watermaker, new filter
+  author: bergie
+  position:
+    latitude: 12.991698
+    longitude: -61.2928176
+    source: GPS
+  heading: 213
+  course: 221
+  speed:
+    stw: 3
+    sog: 3.9
+  log: 10876.7
+  waypoint:
+    longitude: -61.28718
+    latitude: 12.99021
+  barometer: 1015.96
+  wind:
+    speed: 14.9
+    direction: 90
+  engine:
+    hours: 935.6
+  crewNames:
+    - ihmis-suski
+    - bergie
+    - karin
+    - daniel
+  category: maintenance
+- datetime: 2025-02-02T15:33:31.200Z
+  text: Autopilot activated
+  author: ""
+  position:
+    latitude: 12.976799
+    longitude: -61.2990583
+    source: GPS
+  heading: 221
+  course: 228
+  speed:
+    stw: 5
+    sog: 5.3
+  log: 10877.7
+  waypoint:
+    longitude: -61.37008
+    latitude: 12.651
+  barometer: 1015.86
+  wind:
+    speed: 19.9
+    direction: 79
+  engine:
+    hours: 935.6
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
+    - karin
+    - daniel
+  category: navigation
+- datetime: 2025-02-02T15:35:34.201Z
+  text: "Sails set: Main (1st reef), Staysail"
+  author: ""
+  position:
+    latitude: 12.9744628
+    longitude: -61.3004383
+    source: GPS
+  heading: 194
+  course: 203
+  speed:
+    stw: 4.7
+    sog: 5
+  log: 10877.9
+  waypoint:
+    longitude: -61.37008
+    latitude: 12.651
+  barometer: 1015.83
+  wind:
+    speed: 19.9
+    direction: 75
+  engine:
+    hours: 935.6
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
+    - karin
+    - daniel
+  category: navigation
+- datetime: 2025-02-02T15:35:53.203Z
+  text: Watermaker 277ppm
+  author: bergie
+  position:
+    latitude: 12.9740713
+    longitude: -61.3006036
+    source: GPS
+  heading: 196
+  course: 207
+  speed:
+    stw: 4.5
+    sog: 4.9
+  log: 10877.9
+  waypoint:
+    longitude: -61.37008
+    latitude: 12.651
+  barometer: 1015.83
+  wind:
+    speed: 17.5
+    direction: 91
+  engine:
+    hours: 935.6
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
+    - karin
+    - daniel
+  category: maintenance
