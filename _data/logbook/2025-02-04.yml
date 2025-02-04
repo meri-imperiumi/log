@@ -404,3 +404,92 @@
     - bergie
     - karin
     - daniel
+  category: navigation
+- datetime: 2025-02-04T20:00:39.200Z
+  text: ""
+  author: ""
+  position:
+    latitude: 13.0047468
+    longitude: -61.2609183
+    source: GPS
+  heading: 80
+  course: 82
+  speed:
+    stw: 3.3
+    sog: 4.2
+  log: 10927
+  waypoint:
+    longitude: -61.24427
+    latitude: 13.00409
+  barometer: 1012.1
+  wind:
+    speed: 12.7
+    direction: 65
+  engine:
+    hours: 938.3
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
+    - karin
+    - daniel
+  category: navigation
+- datetime: 2025-02-04T20:26:01.203Z
+  text: Picked up a mooring ball
+  author: bergie
+  position:
+    latitude: 13.0086748
+    longitude: -61.2373588
+    source: GPS
+  heading: 69
+  course: 12
+  speed:
+    stw: 0
+    sog: 0
+  log: 10928.4
+  waypoint:
+    longitude: -61.24427
+    latitude: 13.00409
+  barometer: 1012.29
+  wind:
+    speed: 10.7
+    direction: 55
+  engine:
+    hours: 938.6
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
+    - karin
+    - daniel
+  end: true
+  category: navigation
+- datetime: 2025-02-04T20:26:05.196Z
+  text: Stopped main engine
+  author: ""
+  position:
+    latitude: 13.008678
+    longitude: -61.2373596
+    source: GPS
+  heading: 77
+  course: 12
+  speed:
+    stw: 0
+    sog: 0
+  log: 10928.4
+  waypoint:
+    longitude: -61.24427
+    latitude: 13.00409
+  barometer: 1012.29
+  wind:
+    speed: 12.1
+    direction: 54
+  engine:
+    hours: 938.6
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
+    - karin
+    - daniel
+  category: navigation
