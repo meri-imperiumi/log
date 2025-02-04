@@ -144,3 +144,61 @@
     - karin
     - daniel
   category: maintenance
+- datetime: 2025-02-04T14:00:32.000Z
+  text: ""
+  author: ""
+  position:
+    latitude: 12.7372723
+    longitude: -61.382761
+    source: GPS
+  heading: 21
+  course: 17
+  speed:
+    stw: 0
+    sog: 3.8
+  log: 10906.1
+  waypoint:
+    longitude: -61.28647
+    latitude: 12.98615
+  barometer: 1015.11
+  wind:
+    speed: 17.8
+    direction: 70
+  engine:
+    hours: 936.5
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
+    - karin
+    - daniel
+  category: navigation
+- datetime: 2025-02-04T14:03:32.000Z
+  text: Paddlewheel came back after some waves shook us
+  author: bergie
+  position:
+    latitude: 12.7402468
+    longitude: -61.3817416
+    source: GPS
+  heading: 17
+  course: 1
+  speed:
+    stw: 0
+    sog: 4.3
+  log: 10906.2
+  waypoint:
+    longitude: -61.28647
+    latitude: 12.98615
+  barometer: 1015.05
+  wind:
+    speed: 16.8
+    direction: 69
+  engine:
+    hours: 936.5
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
+    - karin
+    - daniel
+  category: maintenance
