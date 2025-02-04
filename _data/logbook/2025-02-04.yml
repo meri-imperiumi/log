@@ -26,66 +26,9 @@
     - karin
     - daniel
   category: navigation
-- datetime: 2025-02-04T12:22:59.900Z
-  text: Anchor up, motoring
-  author: ""
-  position:
-    latitude: 12.6360841
-    longitude: -61.3623405
-    source: GPS
-  heading: 91
-  course: 34
-  speed:
-    stw: 0
-    sog: 0.5
-  log: 10899.5
-  waypoint:
-    longitude: -61.36404
-    latitude: 12.63865
-  barometer: 1014.63
-  wind:
-    speed: 9.3
-    direction: 60
-  engine:
-    hours: 936.2
-  crewNames:
-    - ihmis-suski
-    - bergie
-    - karin
-    - daniel
-  category: navigation
-- datetime: 2025-02-04T12:23:30.899Z
-  text: Stopped
-  author: ""
-  position:
-    latitude: 12.6360983
-    longitude: -61.3623113
-    source: GPS
-  heading: 113
-  course: 188
-  speed:
-    stw: 0
-    sog: 0.9
-  log: 10899.5
-  waypoint:
-    longitude: -61.36404
-    latitude: 12.63865
-  barometer: 1014.65
-  wind:
-    speed: 8.5
-    direction: 53
-  engine:
-    hours: 936.2
-  crewNames:
-    - ihmis-suski
-    - bergie
-    - karin
-    - daniel
-  end: true
-  category: navigation
 - datetime: 2025-02-04T12:28:31.900Z
-  text: Motoring
-  author: ""
+  text: Anchor up, motoring
+  author: bergie
   position:
     latitude: 12.6377401
     longitude: -61.3643926
@@ -139,3 +82,65 @@
     - karin
     - daniel
   category: navigation
+- datetime: 2025-02-04T13:00:30.899Z
+  text: ""
+  author: bergie
+  position:
+    latitude: 12.6701921
+    longitude: -61.3813583
+    source: GPS
+  heading: 11
+  course: 324
+  speed:
+    stw: 2.3
+    sog: 4.6
+  log: 10902
+  waypoint:
+    longitude: -61.28647
+    latitude: 12.98615
+  barometer: 1014.74
+  wind:
+    speed: 16.7
+    direction: 58
+  engine:
+    hours: 936.5
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
+    - karin
+    - daniel
+  category: navigation
+  observations:
+    cloudCoverage: 2
+    seaState: 3
+    visibility: 7
+- datetime: 2025-02-04T13:42:32.000Z
+  text: "Paddlewheel stopped working again "
+  author: bergie
+  position:
+    latitude: 12.7179368
+    longitude: -61.3868406
+    source: GPS
+  heading: 12
+  course: 17
+  speed:
+    stw: 3.7
+    sog: 5.1
+  log: 10904.9
+  waypoint:
+    longitude: -61.28647
+    latitude: 12.98615
+  barometer: 1015.13
+  wind:
+    speed: 17.6
+    direction: 58
+  engine:
+    hours: 936.5
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
+    - karin
+    - daniel
+  category: maintenance
