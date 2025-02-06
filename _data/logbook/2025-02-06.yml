@@ -173,3 +173,150 @@
     seaState: 3
     cloudCoverage: 3
     visibility: 7
+- datetime: 2025-02-06T17:00:12.902Z
+  text: ""
+  author: ""
+  position:
+    latitude: 13.1784861
+    longitude: -61.2981316
+    source: GPS
+  heading: 326
+  course: 335
+  speed:
+    stw: 1.6
+    sog: 2.7
+  log: 10939
+  waypoint:
+    longitude: -61.32808
+    latitude: 13.24868
+  barometer: 1014.54
+  wind:
+    speed: 11.9
+    direction: 58
+  engine:
+    hours: 938.8
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
+    - karin
+    - daniel
+  category: navigation
+- datetime: 2025-02-06T17:02:26.899Z
+  text: "Sails set: Main (1st reef), Genoa 1, Staysail"
+  author: ""
+  position:
+    latitude: 13.180548
+    longitude: -61.2988593
+    source: GPS
+  heading: 331
+  course: 336
+  speed:
+    stw: 2.6
+    sog: 3.8
+  log: 10939.2
+  waypoint:
+    longitude: -61.32808
+    latitude: 13.24868
+  barometer: 1014.5
+  wind:
+    speed: 8.4
+    direction: 81
+  engine:
+    hours: 938.8
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
+    - karin
+    - daniel
+  category: navigation
+- datetime: 2025-02-06T17:13:29.900Z
+  text: "Sails set: Main (1st reef), Staysail"
+  author: ""
+  position:
+    latitude: 13.1937843
+    longitude: -61.3015358
+    source: GPS
+  heading: 338
+  course: 335
+  speed:
+    stw: 2.6
+    sog: 3.9
+  log: 10940
+  waypoint:
+    longitude: -61.32808
+    latitude: 13.24868
+  barometer: 1014.39
+  wind:
+    speed: 11.5
+    direction: 69
+  engine:
+    hours: 938.8
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
+    - karin
+    - daniel
+  category: navigation
+- datetime: 2025-02-06T17:34:14.899Z
+  text: Pitons are visible very faintly in the horizon, 36NM away
+  author: bergie
+  position:
+    latitude: 13.2154476
+    longitude: -61.3099246
+    source: GPS
+  heading: 354
+  course: 1
+  speed:
+    stw: 3.7
+    sog: 4.5
+  log: 10941.4
+  waypoint:
+    longitude: -61.32808
+    latitude: 13.24868
+  barometer: 1014.08
+  wind:
+    speed: 10.2
+    direction: 50
+  engine:
+    hours: 938.8
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
+    - karin
+    - daniel
+  category: navigation
+  observations:
+    visibility: 8
+- datetime: 2025-02-06T17:41:13.900Z
+  text: Starting to catch the big waves wrapping around St. Vincent on the nose
+  author: bergie
+  position:
+    latitude: 13.2232448
+    longitude: -61.3111793
+    source: GPS
+  heading: 349
+  course: 360
+  speed:
+    stw: 3.1
+    sog: 3.6
+  log: 10941.9
+  waypoint:
+    longitude: -61.32808
+    latitude: 13.24868
+  barometer: 1014.02
+  wind:
+    speed: 12.9
+    direction: 45
+  engine:
+    hours: 938.8
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
+    - karin
+    - daniel
+  category: navigation
