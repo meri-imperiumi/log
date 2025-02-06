@@ -406,3 +406,91 @@
     - bergie
     - karin
     - daniel
+  category: navigation
+- datetime: 2025-02-06T21:00:20.000Z
+  text: ""
+  author: ""
+  position:
+    latitude: 13.4652523
+    longitude: -61.3434338
+    source: GPS
+  heading: 8
+  course: 2
+  speed:
+    stw: 3.9
+    sog: 4.3
+  log: 10956.8
+  waypoint:
+    longitude: -61.29623
+    latitude: 13.47006
+  barometer: 1013.35
+  wind:
+    speed: 19.9
+    direction: 50
+  engine:
+    hours: 938.8
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
+    - karin
+    - daniel
+  category: navigation
+- datetime: 2025-02-06T21:08:20.000Z
+  text: Pumped the bilge
+  author: bergie
+  position:
+    latitude: 13.4758076
+    longitude: -61.3433109
+    source: GPS
+  heading: 9
+  course: 359
+  speed:
+    stw: 4.1
+    sog: 5.3
+  log: 10957.4
+  waypoint:
+    longitude: -61.29623
+    latitude: 13.47006
+  barometer: 1013.44
+  wind:
+    speed: 16.1
+    direction: 69
+  engine:
+    hours: 938.8
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
+    - karin
+    - daniel
+  category: maintenance
+- datetime: 2025-02-06T21:35:20.000Z
+  text: "Out of St. Vincent waters "
+  author: bergie
+  position:
+    latitude: 13.5135521
+    longitude: -61.3442859
+    source: GPS
+  heading: 6
+  course: 6
+  speed:
+    stw: 4.1
+    sog: 6.4
+  log: 10959.7
+  waypoint:
+    longitude: -61.28659
+    latitude: 13.56604
+  barometer: 1013.51
+  wind:
+    speed: 17.8
+    direction: 55
+  engine:
+    hours: 938.8
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
+    - karin
+    - daniel
+  category: navigation
