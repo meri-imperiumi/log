@@ -25,8 +25,8 @@
     - daniel
   category: navigation
 - datetime: 2025-02-06T14:49:55.801Z
-  text: Stopped main engine
-  author: ""
+  text: Stopped main engine, sailing with Main (1st reef), Staysail
+  author: bergie
   position:
     latitude: 13.0076463
     longitude: -61.2436811
@@ -53,26 +53,26 @@
     - karin
     - daniel
   category: navigation
-- datetime: 2025-02-06T14:54:31.801Z
-  text: Sailing with Main (1st reef), Staysail
+- datetime: 2025-02-06T15:00:10.803Z
+  text: ""
   author: ""
   position:
-    latitude: 13.0081228
-    longitude: -61.2495778
+    latitude: 13.0136336
+    longitude: -61.2531306
     source: GPS
-  heading: 324
-  course: 316
+  heading: 342
+  course: 334
   speed:
-    stw: 4.8
-    sog: 4.8
-  log: 10928.4
+    stw: 3.1
+    sog: 2.8
+  log: 10928.7
   waypoint:
-    longitude: -61.24993
-    latitude: 13.00885
-  barometer: 1015.59
+    longitude: -61.25417
+    latitude: 13.01538
+  barometer: 1015.5
   wind:
-    speed: 18
-    direction: 73
+    speed: 7.9
+    direction: 78
   engine:
     hours: 938.8
   vhf: "16"
@@ -82,56 +82,26 @@
     - karin
     - daniel
   category: navigation
-- datetime: 2025-02-06T14:55:10.796Z
-  text: Stopped
-  author: ""
+- datetime: 2025-02-06T15:11:09.798Z
+  text: Windvane steering
+  author: bergie
   position:
-    latitude: 13.0088975
-    longitude: -61.2501635
+    latitude: 13.026246166229248
+    longitude: -61.25751516024271
     source: GPS
-  heading: 325
-  course: 321
+  heading: 345
+  course: 348
   speed:
     stw: 5
-    sog: 5.8
-  log: 10928.5
+    sog: 5.6
+  log: 10929.5
   waypoint:
-    longitude: -61.25146
-    latitude: 13.01015
-  barometer: 1015.45
+    longitude: -61.25941
+    latitude: 13.02758
+  barometer: 1015.3
   wind:
-    speed: 21.8
-    direction: 79
-  engine:
-    hours: 938.8
-  vhf: "16"
-  crewNames:
-    - ihmis-suski
-    - bergie
-    - karin
-    - daniel
-  end: true
-  category: navigation
-- datetime: 2025-02-06T14:57:11.801Z
-  text: Sailing with Main (1st reef), Staysail
-  author: ""
-  position:
-    latitude: 13.0111876
-    longitude: -61.2517713
-    source: GPS
-  heading: 333
-  course: 327
-  speed:
-    stw: 3
-    sog: 3.1
-  log: 10928.5
-  waypoint:
-    longitude: -61.25264
-    latitude: 13.01176
-  barometer: 1015.59
-  wind:
-    speed: 12.7
-    direction: 79
+    speed: 17
+    direction: 50
   engine:
     hours: 938.8
   vhf: "16"
