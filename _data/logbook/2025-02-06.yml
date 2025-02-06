@@ -111,3 +111,65 @@
     - karin
     - daniel
   category: navigation
+- datetime: 2025-02-06T16:00:11.897Z
+  text: ""
+  author: ""
+  position:
+    latitude: 13.0993479
+    longitude: -61.2778136
+    source: GPS
+  heading: 355
+  course: 339
+  speed:
+    stw: 5.1
+    sog: 5.8
+  log: 10934.1
+  waypoint:
+    longitude: -61.29819
+    latitude: 13.15242
+  barometer: 1015.1
+  wind:
+    speed: 16.4
+    direction: 57
+  engine:
+    hours: 938.8
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
+    - karin
+    - daniel
+  category: navigation
+- datetime: 2025-02-06T16:52:11.897Z
+  text: In the wind shadow of St. Vincent
+  author: bergie
+  position:
+    latitude: 13.1729314
+    longitude: -61.2954556
+    source: GPS
+  heading: 320
+  course: 326
+  speed:
+    stw: 1.6
+    sog: 3.4
+  log: 10938.7
+  waypoint:
+    longitude: -61.32808
+    latitude: 13.24868
+  barometer: 1014.6
+  wind:
+    speed: 9.7
+    direction: 84
+  engine:
+    hours: 938.8
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
+    - karin
+    - daniel
+  category: navigation
+  observations:
+    seaState: 3
+    cloudCoverage: 3
+    visibility: 7
