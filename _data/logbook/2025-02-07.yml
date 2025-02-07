@@ -56,3 +56,61 @@
     - karin
     - daniel
   category: navigation
+- datetime: 2025-02-07T02:00:30.200Z
+  text: ""
+  author: ""
+  position:
+    latitude: 13.7551768
+    longitude: -61.2870566
+    source: GPS
+  heading: 119
+  course: 85
+  speed:
+    stw: 1.5
+    sog: 2.4
+  log: 10978.4
+  waypoint:
+    longitude: -61.29495
+    latitude: 13.76785
+  barometer: 1015.56
+  wind:
+    speed: 11.7
+    direction: 47
+  engine:
+    hours: 938.8
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
+    - karin
+    - daniel
+  category: navigation
+- datetime: 2025-02-07T02:20:30.200Z
+  text: "St Lucia territorial waters "
+  author: ihmis-suski
+  position:
+    latitude: 13.7514331
+    longitude: -61.2750836
+    source: GPS
+  heading: 118
+  course: 113
+  speed:
+    stw: 1.9
+    sog: 2.1
+  log: 10979.1
+  waypoint:
+    longitude: -61.23531
+    latitude: 13.75968
+  barometer: 1015.4
+  wind:
+    speed: 12.9
+    direction: 55
+  engine:
+    hours: 938.8
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
+    - karin
+    - daniel
+  category: navigation
