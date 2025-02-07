@@ -701,3 +701,62 @@
     - bergie
     - karin
     - daniel
+  category: navigation
+- datetime: 2025-02-07T13:00:50.800Z
+  text: ""
+  author: ""
+  position:
+    latitude: 14.2466084
+    longitude: -61.1812466
+    source: GPS
+  heading: 32
+  course: 27
+  speed:
+    stw: 3.7
+    sog: 2.8
+  log: 11017.4
+  waypoint:
+    longitude: -61.17195
+    latitude: 14.28403
+  barometer: 1015.49
+  wind:
+    speed: 16.5
+    direction: 71
+  engine:
+    hours: 939.9
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
+    - karin
+    - daniel
+  category: navigation
+- datetime: 2025-02-07T13:44:51.801Z
+  text: "Back in Martinique "
+  author: ihmis-suski
+  position:
+    latitude: 14.2799233
+    longitude: -61.1676243
+    source: GPS
+  heading: 28
+  course: 18
+  speed:
+    stw: 3.6
+    sog: 3.6
+  log: 11019.6
+  waypoint:
+    longitude: -61.17195
+    latitude: 14.28403
+  barometer: 1015.71
+  wind:
+    speed: 19.5
+    direction: 61
+  engine:
+    hours: 939.9
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
+    - karin
+    - daniel
+  category: navigation
