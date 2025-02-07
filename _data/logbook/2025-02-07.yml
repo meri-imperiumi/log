@@ -520,3 +520,64 @@
     - karin
     - daniel
   category: navigation
+- datetime: 2025-02-07T10:00:44.300Z
+  text: ""
+  author: ""
+  position:
+    latitude: 14.0826045
+    longitude: -61.2140494
+    source: GPS
+  heading: 6
+  course: 13
+  speed:
+    stw: 2.7
+    sog: 5.1
+  log: 11007.2
+  waypoint:
+    longitude: -60.89849
+    latitude: 14.44639
+  barometer: 1013.46
+  wind:
+    speed: 16.6
+    direction: 81
+  engine:
+    hours: 939.9
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
+    - karin
+    - daniel
+  category: navigation
+- datetime: 2025-02-07T10:26:45.401Z
+  text: "Not in St Lucia anymore "
+  author: ihmis-suski
+  position:
+    latitude: 14.112168335914612
+    longitude: -61.20520332654316
+    source: GPS
+  heading: 18
+  course: 13
+  speed:
+    stw: 3.3
+    sog: 3.8
+  log: 11009
+  waypoint:
+    longitude: -60.89826
+    latitude: 14.44558
+  barometer: 1013.8
+  wind:
+    speed: 19.7
+    direction: 72
+  engine:
+    hours: 939.9
+  crewNames:
+    - ihmis-suski
+    - bergie
+    - karin
+    - daniel
+  category: navigation
+  observations:
+    seaState: 5
+    visibility: 8
+    cloudCoverage: 3
