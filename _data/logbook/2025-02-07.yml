@@ -581,3 +581,95 @@
     seaState: 5
     visibility: 8
     cloudCoverage: 3
+- datetime: 2025-02-07T11:00:46.400Z
+  text: ""
+  author: ""
+  position:
+    latitude: 14.1482271
+    longitude: -61.195647
+    source: GPS
+  heading: 26
+  course: 356
+  speed:
+    stw: 3
+    sog: 5
+  log: 11011.3
+  waypoint:
+    longitude: -60.89826
+    latitude: 14.44558
+  barometer: 1014.44
+  wind:
+    speed: 17.4
+    direction: 78
+  engine:
+    hours: 939.9
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
+    - karin
+    - daniel
+  category: navigation
+- datetime: 2025-02-07T11:04:46.400Z
+  text: The worst of the waves is over
+  author: ihmis-suski
+  position:
+    latitude: 14.1522333
+    longitude: -61.1948799
+    source: GPS
+  heading: 29
+  course: 18
+  speed:
+    stw: 3.9
+    sog: 4.9
+  log: 11011.5
+  waypoint:
+    longitude: -60.89826
+    latitude: 14.44558
+  barometer: 1014.42
+  wind:
+    speed: 17.6
+    direction: 69
+  engine:
+    hours: 939.9
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
+    - karin
+    - daniel
+  category: navigation
+  observations:
+    seaState: 4
+    cloudCoverage: 3
+    visibility: 8
+- datetime: 2025-02-07T11:28:47.801Z
+  text: Plotter charging had been turned off. Flipped it back to on position.  5%
+    of battery left
+  author: ihmis-suski
+  position:
+    latitude: 14.1738621
+    longitude: -61.1939451
+    source: GPS
+  heading: 24
+  course: 20
+  speed:
+    stw: 3.2
+    sog: 3.1
+  log: 11012.9
+  waypoint:
+    longitude: -61.19173
+    latitude: 14.2986
+  barometer: 1014.69
+  wind:
+    speed: 17.3
+    direction: 60
+  engine:
+    hours: 939.9
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
+    - karin
+    - daniel
+  category: maintenance
