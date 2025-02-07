@@ -345,3 +345,119 @@
     - karin
     - daniel
   category: navigation
+- datetime: 2025-02-07T08:00:41.299Z
+  text: ""
+  author: ""
+  position:
+    latitude: 13.924916330973307
+    longitude: -61.22469433148703
+    source: GPS
+  heading: 40
+  course: 33
+  speed:
+    stw: 3.7
+    sog: 5.2
+  log: 10997.5
+  waypoint:
+    longitude: -60.89849
+    latitude: 14.44639
+  barometer: 1013.27
+  wind:
+    speed: 10.1
+    direction: 79
+  engine:
+    hours: 939.3
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
+    - karin
+    - daniel
+  category: navigation
+- datetime: 2025-02-07T08:35:12.300Z
+  text: Motor stopped, sailing with Main (1st reef), Staysail
+  author: ""
+  position:
+    latitude: 13.9715749
+    longitude: -61.2111001
+    source: GPS
+  heading: 358
+  course: 352
+  speed:
+    stw: 3.1
+    sog: 5.7
+  log: 11000.5
+  waypoint:
+    longitude: -60.89849
+    latitude: 14.44639
+  barometer: 1012.77
+  wind:
+    speed: 16.1
+    direction: 57
+  engine:
+    hours: 939.9
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
+    - karin
+    - daniel
+  category: navigation
+- datetime: 2025-02-07T08:40:32.300Z
+  text: Autopilot deactivated, windvane steering
+  author: bergie
+  position:
+    latitude: 13.9792906
+    longitude: -61.2115301
+    source: GPS
+  heading: 1
+  course: 339
+  speed:
+    stw: 2.4
+    sog: 4.2
+  log: 11000.9
+  waypoint:
+    longitude: -60.89849
+    latitude: 14.44639
+  barometer: 1012.78
+  wind:
+    speed: 16.7
+    direction: 50
+  engine:
+    hours: 939.9
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
+    - karin
+    - daniel
+  category: navigation
+- datetime: 2025-02-07T08:53:42.300Z
+  text: VHF call with Evrima, pass port to port
+  author: bergie
+  position:
+    latitude: 13.9974108
+    longitude: -61.2130216
+    source: GPS
+  heading: 22
+  course: 11
+  speed:
+    stw: 1.9
+    sog: 4.4
+  log: 11002
+  waypoint:
+    longitude: -60.89849
+    latitude: 14.44639
+  barometer: 1012.83
+  wind:
+    speed: 14.1
+    direction: 56
+  engine:
+    hours: 939.9
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
+    - karin
+    - daniel
+  category: radio
