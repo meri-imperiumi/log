@@ -433,7 +433,8 @@
     - daniel
   category: navigation
 - datetime: 2025-02-07T08:53:42.300Z
-  text: VHF call with Evrima, pass port to port
+  text: "VHF call with Evrima, pass port to port. They apparently didn't see us on
+    AIS (class B filtering?) but could find on radar after given coordinates "
   author: bergie
   position:
     latitude: 13.9974108
@@ -461,3 +462,61 @@
     - karin
     - daniel
   category: radio
+- datetime: 2025-02-07T09:00:43.299Z
+  text: ""
+  author: ""
+  position:
+    latitude: 14.0058038
+    longitude: -61.214291
+    source: GPS
+  heading: 14
+  course: 345
+  speed:
+    stw: 2.2
+    sog: 4.3
+  log: 11002.5
+  waypoint:
+    longitude: -60.89849
+    latitude: 14.44639
+  barometer: 1012.93
+  wind:
+    speed: 14.6
+    direction: 63
+  engine:
+    hours: 939.9
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
+    - karin
+    - daniel
+  category: navigation
+- datetime: 2025-02-07T09:32:43.299Z
+  text: "Quite choppy with the waves wrapping around the north tip of St Lucia "
+  author: bergie
+  position:
+    latitude: 14.0464976
+    longitude: -61.2168615
+    source: GPS
+  heading: 346
+  course: 327
+  speed:
+    stw: 3
+    sog: 4.2
+  log: 11005
+  waypoint:
+    longitude: -60.89849
+    latitude: 14.44639
+  barometer: 1013.18
+  wind:
+    speed: 14.3
+    direction: 70
+  engine:
+    hours: 939.9
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
+    - karin
+    - daniel
+  category: navigation
