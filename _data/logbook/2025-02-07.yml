@@ -991,3 +991,91 @@
     - karin
     - daniel
   category: navigation
+- datetime: 2025-02-07T18:00:04.902Z
+  text: ""
+  author: ""
+  position:
+    latitude: 14.5524406
+    longitude: -61.068617
+    source: GPS
+  heading: 76
+  course: 86
+  speed:
+    stw: 3.3
+    sog: 3.6
+  log: 11037.7
+  waypoint:
+    longitude: -61.06257
+    latitude: 14.55829
+  barometer: 1013.5
+  wind:
+    speed: 14.4
+    direction: 67
+  engine:
+    hours: 940.9
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
+    - karin
+    - daniel
+  category: navigation
+- datetime: 2025-02-07T18:17:23.897Z
+  text: Anchored
+  author: ""
+  position:
+    latitude: 14.5541321
+    longitude: -61.0555261
+    source: GPS
+  heading: 78
+  course: 304
+  speed:
+    stw: 0
+    sog: 0.1
+  log: 11038.6
+  waypoint:
+    longitude: -61.05526
+    latitude: 14.5574
+  barometer: 1013.67
+  wind:
+    speed: 10
+    direction: 90
+  engine:
+    hours: 941.2
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
+    - karin
+    - daniel
+  end: true
+  category: navigation
+- datetime: 2025-02-07T18:21:43.897Z
+  text: Stopped main engine
+  author: ""
+  position:
+    latitude: 14.5541339
+    longitude: -61.055674
+    source: GPS
+  heading: 59
+  course: 23
+  speed:
+    stw: 0
+    sog: 0
+  log: 11038.6
+  waypoint:
+    longitude: -61.05526
+    latitude: 14.5574
+  barometer: 1013.57
+  wind:
+    speed: 10
+    direction: 79
+  engine:
+    hours: 941.3
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
+    - karin
+    - daniel
+  category: navigation
