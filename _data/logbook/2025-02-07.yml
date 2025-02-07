@@ -201,3 +201,61 @@
     - karin
     - daniel
   category: navigation
+- datetime: 2025-02-07T06:00:36.300Z
+  text: ""
+  author: ""
+  position:
+    latitude: 13.8111661
+    longitude: -61.2342081
+    source: GPS
+  heading: 348
+  course: 326
+  speed:
+    stw: 2.6
+    sog: 3.8
+  log: 10990.2
+  waypoint:
+    longitude: -60.90196
+    latitude: 14.44076
+  barometer: 1013.73
+  wind:
+    speed: 11.9
+    direction: 46
+  engine:
+    hours: 938.8
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
+    - karin
+    - daniel
+  category: navigation
+- datetime: 2025-02-07T06:09:36.300Z
+  text: Moon has set
+  author: bergie
+  position:
+    latitude: 13.8198556
+    longitude: -61.2366878
+    source: GPS
+  heading: 352
+  course: 322
+  speed:
+    stw: 1.8
+    sog: 3.5
+  log: 10990.8
+  waypoint:
+    longitude: -60.90196
+    latitude: 14.44076
+  barometer: 1013.58
+  wind:
+    speed: 9.8
+    direction: 70
+  engine:
+    hours: 938.8
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
+    - karin
+    - daniel
+  category: navigation
