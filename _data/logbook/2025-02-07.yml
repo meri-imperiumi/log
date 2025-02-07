@@ -760,3 +760,60 @@
     - karin
     - daniel
   category: navigation
+- datetime: 2025-02-07T14:00:52.800Z
+  text: ""
+  author: ""
+  position:
+    latitude: 14.2933258
+    longitude: -61.1625031
+    source: GPS
+  heading: 18
+  course: 17
+  speed:
+    stw: 3.4
+    sog: 2.6
+  log: 11020.4
+  waypoint:
+    longitude: -61.12702
+    latitude: 14.43928
+  barometer: 1015.56
+  wind:
+    speed: 19.7
+    direction: 61
+  engine:
+    hours: 939.9
+  crewNames:
+    - ihmis-suski
+    - bergie
+    - karin
+    - daniel
+  category: navigation
+- datetime: 2025-02-07T14:23:52.800Z
+  text: Pumped the bilge, again some 10-15l
+  author: bergie
+  position:
+    latitude: 14.3120801
+    longitude: -61.1533338
+    source: GPS
+  heading: 25
+  course: 23
+  speed:
+    stw: 3.5
+    sog: 3
+  log: 11021.7
+  waypoint:
+    longitude: -61.10329
+    latitude: 14.50911
+  barometer: 1015.53
+  wind:
+    speed: 18.9
+    direction: 61
+  engine:
+    hours: 939.9
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
+    - karin
+    - daniel
+  category: navigation
