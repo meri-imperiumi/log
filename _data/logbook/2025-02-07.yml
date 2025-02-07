@@ -933,3 +933,61 @@
     - karin
     - daniel
   category: navigation
+- datetime: 2025-02-07T17:00:01.900Z
+  text: ""
+  author: ""
+  position:
+    latitude: 14.507827154795327
+    longitude: -61.1054270029068
+    source: GPS
+  heading: 360
+  course: 354
+  speed:
+    stw: 3.9
+    sog: 3.4
+  log: 11034.1
+  waypoint:
+    longitude: -61.10329
+    latitude: 14.50911
+  barometer: 1013.91
+  wind:
+    speed: 20.1
+    direction: 30
+  engine:
+    hours: 939.9
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
+    - karin
+    - daniel
+  category: navigation
+- datetime: 2025-02-07T17:00:34.899Z
+  text: Sails down, motoring
+  author: ""
+  position:
+    latitude: 14.5084201
+    longitude: -61.1054656
+    source: GPS
+  heading: 3
+  course: 0
+  speed:
+    stw: 3.9
+    sog: 3.7
+  log: 11034.1
+  waypoint:
+    longitude: -61.10329
+    latitude: 14.50911
+  barometer: 1013.87
+  wind:
+    speed: 20.5
+    direction: 33
+  engine:
+    hours: 939.9
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
+    - karin
+    - daniel
+  category: navigation
