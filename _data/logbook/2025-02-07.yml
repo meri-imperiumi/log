@@ -874,3 +874,62 @@
     - bergie
     - karin
     - daniel
+  category: navigation
+- datetime: 2025-02-07T16:19:26.899Z
+  text: Autopilot activated
+  author: ""
+  position:
+    latitude: 14.4616369
+    longitude: -61.1058896
+    source: GPS
+  heading: 4
+  course: 16
+  speed:
+    stw: 4.9
+    sog: 5.1
+  log: 11031.3
+  waypoint:
+    longitude: -61.10329
+    latitude: 14.50911
+  barometer: 1014.63
+  wind:
+    speed: 20
+    direction: 69
+  engine:
+    hours: 939.9
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
+    - karin
+    - daniel
+  category: navigation
+- datetime: 2025-02-07T16:57:07.897Z
+  text: Autopilot deactivated
+  author: ""
+  position:
+    latitude: 14.5055236
+    longitude: -61.1047024
+    source: GPS
+  heading: 1
+  course: 357
+  speed:
+    stw: 2.5
+    sog: 2
+  log: 11033.9
+  waypoint:
+    longitude: -61.10329
+    latitude: 14.50911
+  barometer: 1014.25
+  wind:
+    speed: 8.1
+    direction: 21
+  engine:
+    hours: 939.9
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
+    - karin
+    - daniel
+  category: navigation
