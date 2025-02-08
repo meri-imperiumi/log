@@ -1,5 +1,5 @@
 - datetime: 2025-02-08T14:01:00.099Z
-  text: Watermaker on. 269ppm.
+  text: Started watermaker. 269ppm
   author: ihmis-suski
   position:
     latitude: 14.5542356
@@ -48,3 +48,26 @@
     - karin
     - daniel
   category: navigation
+- datetime: 2025-02-08T15:46:03.200Z
+  text: Watermaker 237ppm
+  author: bergie
+  position:
+    latitude: 14.5540013
+    longitude: -61.0556616
+    source: GPS
+  heading: 31
+  course: 114
+  speed:
+    stw: 0
+    sog: 0
+  log: 11038.6
+  barometer: 1015.7
+  wind:
+    speed: 6.7
+    direction: 54
+  engine:
+    hours: 941.3
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: maintenance
