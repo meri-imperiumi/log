@@ -166,3 +166,27 @@
     - bergie
   end: true
   category: navigation
+- datetime: 2025-02-15T16:00:44.000Z
+  text: Stopped main engine
+  author: ""
+  position:
+    latitude: 14.59954013824463
+    longitude: -61.069182165463765
+    source: GPS
+  heading: 104
+  course: 130
+  speed:
+    stw: 0
+    sog: 0
+  log: 11041.8
+  barometer: 1016.92
+  wind:
+    speed: 11.5
+    direction: 16
+  engine:
+    hours: 942.4
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: navigation
