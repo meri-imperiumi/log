@@ -90,48 +90,77 @@
     - ihmis-suski
     - bergie
   category: navigation
-- datetime: 2025-02-15T14:57:41.600Z
+- datetime: 2025-02-15T15:02:31.603Z
   text: Anchor up, motoring
-  author: ""
+  author: bergie
   position:
-    latitude: 14.5540983
-    longitude: -61.0556408
+    latitude: 14.5547515
+    longitude: -61.0560656
     source: GPS
-  heading: 71
-  course: 224
+  heading: 275
+  course: 273
   speed:
     stw: 0
-    sog: 0.6
-  log: 11038.6
-  barometer: 1017.54
+    sog: 4.6
+  log: 11038.7
+  barometer: 1017.3
   wind:
-    speed: 15
-    direction: 70
+    speed: 13.8
+    direction: 43
   engine:
-    hours: 941.3
+    hours: 941.4
   crewNames:
     - ihmis-suski
     - bergie
   category: navigation
-- datetime: 2025-02-15T14:58:31.603Z
-  text: Stopped
+- datetime: 2025-02-15T15:27:31.596Z
+  text: Depth sounder is potentially out again. Came back a minute later at depth
+    ~40m
+  author: bergie
+  position:
+    latitude: 14.5741874
+    longitude: -61.0641959
+    source: GPS
+  heading: 357
+  course: 359
+  speed:
+    stw: 2.3
+    sog: 2.8
+  log: 11040
+  waypoint:
+    longitude: -61.07329
+    latitude: 14.59286
+  barometer: 1016.78
+  wind:
+    speed: 22.6
+    direction: 48
+  engine:
+    hours: 941.8
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: maintenance
+- datetime: 2025-02-15T15:54:52.000Z
+  text: Anchored
   author: ""
   position:
-    latitude: 14.5540376
-    longitude: -61.0555564
+    latitude: 14.599591
+    longitude: -61.069039
     source: GPS
-  heading: 77
-  course: 116
+  heading: 350
+  course: 158
   speed:
     stw: 0
-    sog: 1
-  log: 11038.7
-  barometer: 1017.59
+    sog: 0.5
+  log: 11041.8
+  barometer: 1016.81
   wind:
-    speed: 15.3
-    direction: 65
+    speed: 12.2
+    direction: 32
   engine:
-    hours: 941.3
+    hours: 942.3
+  vhf: "16"
   crewNames:
     - ihmis-suski
     - bergie
