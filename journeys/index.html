@@ -8,13 +8,15 @@ title: Journeys
 {% assign total_miles = 0 %}
 {% assign total_sailed = 0 %}
 {% for year_miles in site.data.year_miles %}
-  {% assign total_miles = total_miles | plus: year_miles[1].total %}
-  {% assign total_sailed = total_sailed | plus: year_miles[1].sailing %}
+  {% assign sailing_miles = year_miles[1].sailing | times: 1.0 %}
+  {% assign total_year_miles = year_miles[1].total | times: 1.0 %}
+  {% assign total_miles = total_miles | plus: total_year_miles %}
+  {% assign total_sailed = total_sailed | plus: sailing_miles %}
   <tr>
     <th><a href="{{ site.baseurl }}/{{ year_miles[0] }}/">{{ year_miles[0] }}</a></th>
-    <td>{{ year_miles[1].total }}&nbsp;NM</td>
+    <td>{{ total_year_miles }}&nbsp;NM</td>
     <td>
-      ({{ year_miles[1].sailing | divided_by: year_miles[1].total | times: 100 | round: 1 }}% sailed)
+      ({{ sailing_miles | divided_by: total_year_miles | times: 100 | round: 1 }}% sailed)
     </td>
   </tr>
 {% endfor %}

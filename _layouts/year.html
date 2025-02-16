@@ -9,31 +9,34 @@ layout: default
 {% for year_miles in site.data.year_miles %}
   {% assign miles_y = year_miles[0] | string %}
   {% if miles_y contains current_year %}
+    {% assign total_miles = year_miles[1].total | times: 1.0 %}
     {% if year_miles[1].sailing %}
+    {% assign sailing_miles = year_miles[1].sailing | times: 1.0 %}
     <tr>
       <th>Distance sailed</th>
       <td>
-        {{ year_miles[1].sailing }}&nbsp;NM
+        {{ sailing_miles }}&nbsp;NM
       </td>
       <td>
-        ({{ year_miles[1].sailing | divided_by: year_miles[1].total | times: 100 | round: 1 }}%)
+        ({{ sailing_miles | divided_by: total_miles | times: 100 | round: 1 }}%)
       </td>
     </tr>
     {% endif %}
     {% if year_miles[1].motoring %}
+    {% assign motoring_miles = year_miles[1].motoring | times: 1.0 %}
     <tr>
       <th>Distance motored</th>
       <td>
-        {{ year_miles[1].motoring }}&nbsp;NM
+        {{ motoring_miles }}&nbsp;NM
       </td>
       <td>
-        ({{ year_miles[1].motoring | divided_by: year_miles[1].total | times: 100 | round: 1 }}%)
+        ({{ motoring_miles | divided_by: total_miles | times: 100 | round: 1 }}%)
       </td>
     </tr>
     {% endif %}
     <tr>
       <th>Total</th>
-      <td>{{ year_miles[1].total }}&nbsp;NM</td>
+      <td>{{ total_miles }}&nbsp;NM</td>
     </tr>
   {% endif %}
 {% endfor %}
