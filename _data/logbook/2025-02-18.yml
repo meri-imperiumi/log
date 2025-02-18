@@ -189,3 +189,84 @@
     - ihmis-suski
     - bergie
   category: navigation
+- datetime: 2025-02-18T15:00:26.803Z
+  text: ""
+  author: ""
+  position:
+    latitude: 14.6465271
+    longitude: -61.1562746
+    source: GPS
+  heading: 325
+  course: 328
+  speed:
+    stw: 5
+    sog: 4.5
+  log: 11048.1
+  waypoint:
+    longitude: -61.1549
+    latitude: 14.64871
+  barometer: 1016.82
+  wind:
+    speed: 23.5
+    direction: 93
+  engine:
+    hours: 942.7
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: navigation
+- datetime: 2025-02-18T15:40:10.899Z
+  text: "Sails set: Main (1st reef). Wind is rotating"
+  author: bergie
+  position:
+    latitude: 14.6765498
+    longitude: -61.1773126
+    source: GPS
+  heading: 308
+  course: 272
+  speed:
+    stw: 0
+    sog: 0.4
+  log: 11050.3
+  waypoint:
+    longitude: -61.17987
+    latitude: 14.68634
+  barometer: 1016.57
+  wind:
+    speed: 9.3
+    direction: 66
+  engine:
+    hours: 942.7
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: navigation
+- datetime: 2025-02-18T15:49:27.897Z
+  text: 240ppm watermaker. Jug full
+  author: ihmis-suski
+  position:
+    latitude: 14.6786968
+    longitude: -61.1792326
+    source: GPS
+  heading: 324
+  course: 285
+  speed:
+    stw: 1.2
+    sog: 1.7
+  log: 11050.5
+  waypoint:
+    longitude: -61.17987
+    latitude: 14.68634
+  barometer: 1016.35
+  wind:
+    speed: 6.4
+    direction: 106
+  engine:
+    hours: 942.7
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: maintenance
