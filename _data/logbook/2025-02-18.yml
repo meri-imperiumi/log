@@ -24,62 +24,9 @@
     - ihmis-suski
     - bergie
   category: navigation
-- datetime: 2025-02-18T13:36:41.798Z
-  text: Anchor up, motoring
-  author: ""
-  position:
-    latitude: 14.5996013
-    longitude: -61.0691948
-    source: GPS
-  heading: 74
-  course: 115
-  speed:
-    stw: 0
-    sog: 0.3
-  log: 11041.8
-  waypoint:
-    longitude: -61.06985
-    latitude: 14.59947
-  barometer: 1017.78
-  wind:
-    speed: 10
-    direction: 81
-  engine:
-    hours: 942.4
-  crewNames:
-    - ihmis-suski
-    - bergie
-  category: navigation
-- datetime: 2025-02-18T13:37:24.800Z
-  text: Stopped
-  author: ""
-  position:
-    latitude: 14.5996286
-    longitude: -61.0691675
-    source: GPS
-  heading: 87
-  course: 156
-  speed:
-    stw: 0
-    sog: 0.2
-  log: 11041.8
-  waypoint:
-    longitude: -61.06985
-    latitude: 14.59947
-  barometer: 1017.72
-  wind:
-    speed: 8
-    direction: 103
-  engine:
-    hours: 942.4
-  crewNames:
-    - ihmis-suski
-    - bergie
-  end: true
-  category: navigation
 - datetime: 2025-02-18T13:42:24.800Z
-  text: Motoring
-  author: ""
+  text: Anchor up, motoring
+  author: bergie
   position:
     latitude: 14.5994938
     longitude: -61.0704468
@@ -104,8 +51,8 @@
     - bergie
   category: navigation
 - datetime: 2025-02-18T13:53:56.800Z
-  text: Motor stopped, sailing with Main
-  author: ""
+  text: Motor stopped, sailing with Main (1st reef)
+  author: bergie
   position:
     latitude: 14.5945771
     longitude: -61.0800451
@@ -157,3 +104,88 @@
     - ihmis-suski
     - bergie
   category: maintenance
+- datetime: 2025-02-18T14:00:23.801Z
+  text: ""
+  author: ""
+  position:
+    latitude: 14.5951869
+    longitude: -61.0901923
+    source: GPS
+  heading: 280
+  course: 274
+  speed:
+    stw: 3.7
+    sog: 5.5
+  log: 11043.1
+  waypoint:
+    longitude: -61.09072
+    latitude: 14.59577
+  barometer: 1017.73
+  wind:
+    speed: 19.4
+    direction: 74
+  engine:
+    hours: 942.7
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: navigation
+- datetime: 2025-02-18T14:04:24.800Z
+  text: There was a dead chicken in the water
+  author: bergie
+  position:
+    latitude: 14.5974851
+    longitude: -61.095103
+    source: GPS
+  heading: 307
+  course: 310
+  speed:
+    stw: 3.2
+    sog: 4.6
+  log: 11043.4
+  waypoint:
+    longitude: -61.13436
+    latitude: 14.62868
+  barometer: 1017.63
+  wind:
+    speed: 12.2
+    direction: 51
+  engine:
+    hours: 942.7
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: navigation
+  observations:
+    seaState: 2
+    cloudCoverage: 8
+    visibility: 4
+- datetime: 2025-02-18T14:15:24.800Z
+  text: "Sails set: Main (1st reef), Genoa 1 (30% furled)"
+  author: ""
+  position:
+    latitude: 14.6038338
+    longitude: -61.1058156
+    source: GPS
+  heading: 309
+  course: 301
+  speed:
+    stw: 2.9
+    sog: 4.2
+  log: 11044.2
+  waypoint:
+    longitude: -61.13436
+    latitude: 14.62868
+  barometer: 1017.64
+  wind:
+    speed: 11.2
+    direction: 71
+  engine:
+    hours: 942.7
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: navigation
