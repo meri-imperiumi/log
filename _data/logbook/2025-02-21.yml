@@ -557,60 +557,6 @@
     - ihmis-suski
     - bergie
   category: navigation
-- datetime: 2025-02-21T16:42:09.299Z
-  text: Autopilot activated
-  author: ""
-  position:
-    latitude: 15.1925694
-    longitude: -61.375362
-    source: GPS
-  heading: 309
-  course: 303
-  speed:
-    stw: 6
-    sog: 7.3
-  log: 11085.1
-  waypoint:
-    longitude: -61.38206
-    latitude: 15.21353
-  barometer: 1016.81
-  wind:
-    speed: 20.8
-    direction: 75
-  engine:
-    hours: 944.9
-  vhf: "16"
-  crewNames:
-    - ihmis-suski
-    - bergie
-  category: navigation
-- datetime: 2025-02-21T16:42:48.300Z
-  text: Autopilot deactivated
-  author: ""
-  position:
-    latitude: 15.1936321
-    longitude: -61.3759865
-    source: GPS
-  heading: 342
-  course: 335
-  speed:
-    stw: 6.3
-    sog: 7
-  log: 11085.2
-  waypoint:
-    longitude: -61.38206
-    latitude: 15.21353
-  barometer: 1016.75
-  wind:
-    speed: 25.6
-    direction: 79
-  engine:
-    hours: 944.9
-  vhf: "16"
-  crewNames:
-    - ihmis-suski
-    - bergie
-  category: navigation
 - datetime: 2025-02-21T16:58:47.302Z
   text: Autopilot activated
   author: ""
@@ -633,6 +579,168 @@
     direction: 79
   engine:
     hours: 944.9
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: navigation
+- datetime: 2025-02-21T17:00:23.302Z
+  text: ""
+  author: ""
+  position:
+    latitude: 15.2228199
+    longitude: -61.3868135
+    source: GPS
+  heading: 353
+  course: 352
+  speed:
+    stw: 5.5
+    sog: 5.3
+  log: 11087.1
+  waypoint:
+    longitude: -61.38287
+    latitude: 15.2603
+  barometer: 1016.53
+  wind:
+    speed: 15.2
+    direction: 87
+  engine:
+    hours: 944.9
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: navigation
+- datetime: 2025-02-21T17:10:07.302Z
+  text: Autopilot deactivated
+  author: ""
+  position:
+    latitude: 15.2384383
+    longitude: -61.3868733
+    source: GPS
+  heading: 30
+  course: 28
+  speed:
+    stw: 6.1
+    sog: 6.3
+  log: 11088
+  waypoint:
+    longitude: -61.38287
+    latitude: 15.2603
+  barometer: 1016.14
+  wind:
+    speed: 23.1
+    direction: 121
+  engine:
+    hours: 944.9
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: navigation
+- datetime: 2025-02-21T17:10:29.299Z
+  text: Autopilot activated
+  author: ""
+  position:
+    latitude: 15.2390253
+    longitude: -61.3867265
+    source: GPS
+  heading: 356
+  course: 346
+  speed:
+    stw: 5.4
+    sog: 5.9
+  log: 11088
+  waypoint:
+    longitude: -61.38287
+    latitude: 15.2603
+  barometer: 1016.19
+  wind:
+    speed: 18.1
+    direction: 137
+  engine:
+    hours: 944.9
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: navigation
+- datetime: 2025-02-21T17:24:25.299Z
+  text: First dolphins since Cape Verde!
+  author: bergie
+  position:
+    latitude: 15.2504909
+    longitude: -61.3877656
+    source: GPS
+  heading: 348
+  course: 343
+  speed:
+    stw: 2.2
+    sog: 1.9
+  log: 11088.7
+  waypoint:
+    longitude: -61.38287
+    latitude: 15.2603
+  barometer: 1016.27
+  wind:
+    speed: 6.7
+    direction: 182
+  engine:
+    hours: 944.9
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: navigation
+- datetime: 2025-02-21T17:28:31.302Z
+  text: Sails down, motoring
+  author: ""
+  position:
+    latitude: 15.2523776
+    longitude: -61.3882568
+    source: GPS
+  heading: 350
+  course: 344
+  speed:
+    stw: 1.4
+    sog: 1.6
+  log: 11088.9
+  waypoint:
+    longitude: -61.394
+    latitude: 15.30085
+  barometer: 1016.25
+  wind:
+    speed: 5.3
+    direction: 200
+  engine:
+    hours: 944.9
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: navigation
+- datetime: 2025-02-21T17:59:57.299Z
+  text: Autopilot deactivated
+  author: ""
+  position:
+    latitude: 15.2954704
+    longitude: -61.3953156
+    source: GPS
+  heading: 2
+  course: 4
+  speed:
+    stw: 4.9
+    sog: 5
+  log: 11091.5
+  waypoint:
+    longitude: -61.394
+    latitude: 15.30085
+  barometer: 1015.64
+  wind:
+    speed: 8
+    direction: 73
+  engine:
+    hours: 945.4
   vhf: "16"
   crewNames:
     - ihmis-suski
