@@ -93,3 +93,140 @@
     - ihmis-suski
     - bergie
   category: navigation
+- datetime: 2025-02-21T11:00:10.099Z
+  text: ""
+  author: ""
+  position:
+    latitude: 14.7603481
+    longitude: -61.2055058
+    source: GPS
+  heading: 310
+  course: 309
+  speed:
+    stw: 4.8
+    sog: 4.8
+  log: 11056.7
+  waypoint:
+    longitude: -61.22437
+    latitude: 14.7941
+  barometer: 1016.69
+  wind:
+    speed: 13.3
+    direction: 49
+  engine:
+    hours: 943.9
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: navigation
+- datetime: 2025-02-21T11:40:11.100Z
+  text: |
+    Mt. Pelé is making wind do things
+  author: bergie
+  position:
+    latitude: 14.7754465
+    longitude: -61.2237404
+    source: GPS
+  heading: 332
+  course: 129
+  speed:
+    stw: 0
+    sog: 0.5
+  log: 11058.2
+  waypoint:
+    longitude: -61.22437
+    latitude: 14.7941
+  barometer: 1017.27
+  wind:
+    speed: 2.6
+    direction: 255
+  engine:
+    hours: 943.9
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: navigation
+- datetime: 2025-02-21T11:43:12.099Z
+  text: Stopped
+  author: ""
+  position:
+    latitude: 14.775586
+    longitude: -61.2236285
+    source: GPS
+  heading: 345
+  course: 30
+  speed:
+    stw: 0
+    sog: 0.9
+  log: 11058.2
+  waypoint:
+    longitude: -61.22437
+    latitude: 14.7941
+  barometer: 1017.27
+  wind:
+    speed: 4.7
+    direction: 296
+  engine:
+    hours: 943.9
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  end: true
+  category: navigation
+- datetime: 2025-02-21T11:46:13.100Z
+  text: Sailing with Main, Genoa 1
+  author: ""
+  position:
+    latitude: 14.776516
+    longitude: -61.2238255
+    source: GPS
+  heading: 320
+  course: 326
+  speed:
+    stw: 1.4
+    sog: 1.6
+  log: 11058.2
+  waypoint:
+    longitude: -61.22437
+    latitude: 14.7941
+  barometer: 1017.29
+  wind:
+    speed: 3.4
+    direction: 261
+  engine:
+    hours: 943.9
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: navigation
+- datetime: 2025-02-21T11:53:31.200Z
+  text: Autopilot activated
+  author: ""
+  position:
+    latitude: 14.7804068
+    longitude: -61.2253636
+    source: GPS
+  heading: 344
+  course: 358
+  speed:
+    stw: 2.4
+    sog: 2.4
+  log: 11058.5
+  waypoint:
+    longitude: -61.22437
+    latitude: 14.7941
+  barometer: 1017.33
+  wind:
+    speed: 7.1
+    direction: 284
+  engine:
+    hours: 943.9
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: navigation
