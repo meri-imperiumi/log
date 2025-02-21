@@ -1,0 +1,95 @@
+- datetime: 2025-02-21T10:25:34.099Z
+  text: Started main engine
+  author: ""
+  position:
+    latitude: 14.7426981
+    longitude: -61.1776878
+    source: GPS
+  heading: 40
+  course: 321
+  speed:
+    stw: 0
+    sog: 0
+  log: 11054.8
+  barometer: 1016.65
+  wind:
+    speed: 4.3
+    direction: 46
+  engine:
+    hours: 943.7
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: navigation
+- datetime: 2025-02-21T10:32:10.099Z
+  text: Anchor up, motoring
+  author: bergie
+  position:
+    latitude: 14.7427021
+    longitude: -61.1788711
+    source: GPS
+  heading: 269
+  course: 266
+  speed:
+    stw: 4.4
+    sog: 5.3
+  log: 11054.8
+  barometer: 1016.73
+  wind:
+    speed: 10.1
+    direction: 52
+  engine:
+    hours: 943.9
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: navigation
+- datetime: 2025-02-21T10:36:57.100Z
+  text: Motor stopped, sailing with Main
+  author: ""
+  position:
+    latitude: 14.7445454
+    longitude: -61.1818273
+    source: GPS
+  heading: 314
+  course: 323
+  speed:
+    stw: 2.8
+    sog: 3
+  log: 11055.1
+  barometer: 1016.64
+  wind:
+    speed: 8.5
+    direction: 72
+  engine:
+    hours: 943.9
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: navigation
+- datetime: 2025-02-21T10:44:51.100Z
+  text: "Sails set: Main, Genoa 1"
+  author: ""
+  position:
+    latitude: 14.7487199
+    longitude: -61.1890266
+    source: GPS
+  heading: 304
+  course: 301
+  speed:
+    stw: 4
+    sog: 4.8
+  log: 11055.5
+  barometer: 1016.74
+  wind:
+    speed: 12.5
+    direction: 62
+  engine:
+    hours: 943.9
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: navigation
