@@ -475,3 +475,166 @@
   crewNames:
     - ihmis-suski
     - bergie
+  category: navigation
+- datetime: 2025-02-21T16:00:21.299Z
+  text: ""
+  author: ""
+  position:
+    latitude: 15.1246373
+    longitude: -61.3430745
+    source: GPS
+  heading: 331
+  course: 319
+  speed:
+    stw: 5.6
+    sog: 7
+  log: 11080.6
+  waypoint:
+    longitude: -61.38206
+    latitude: 15.21353
+  barometer: 1017.54
+  wind:
+    speed: 16
+    direction: 61
+  engine:
+    hours: 944.9
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: navigation
+- datetime: 2025-02-21T16:36:10.297Z
+  text: Autopilot activated, seeing land effects
+  author: bergie
+  position:
+    latitude: 15.1821491
+    longitude: -61.3714968
+    source: GPS
+  heading: 346
+  course: 338
+  speed:
+    stw: 6
+    sog: 6.3
+  log: 11084.4
+  waypoint:
+    longitude: -61.38206
+    latitude: 15.21353
+  barometer: 1016.95
+  wind:
+    speed: 20.4
+    direction: 70
+  engine:
+    hours: 944.9
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: navigation
+- datetime: 2025-02-21T16:41:53.299Z
+  text: Autopilot deactivated
+  author: ""
+  position:
+    latitude: 15.1921974
+    longitude: -61.3750916
+    source: GPS
+  heading: 353
+  course: 356
+  speed:
+    stw: 6.1
+    sog: 6.5
+  log: 11085.1
+  waypoint:
+    longitude: -61.38206
+    latitude: 15.21353
+  barometer: 1016.82
+  wind:
+    speed: 21.8
+    direction: 70
+  engine:
+    hours: 944.9
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: navigation
+- datetime: 2025-02-21T16:42:09.299Z
+  text: Autopilot activated
+  author: ""
+  position:
+    latitude: 15.1925694
+    longitude: -61.375362
+    source: GPS
+  heading: 309
+  course: 303
+  speed:
+    stw: 6
+    sog: 7.3
+  log: 11085.1
+  waypoint:
+    longitude: -61.38206
+    latitude: 15.21353
+  barometer: 1016.81
+  wind:
+    speed: 20.8
+    direction: 75
+  engine:
+    hours: 944.9
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: navigation
+- datetime: 2025-02-21T16:42:48.300Z
+  text: Autopilot deactivated
+  author: ""
+  position:
+    latitude: 15.1936321
+    longitude: -61.3759865
+    source: GPS
+  heading: 342
+  course: 335
+  speed:
+    stw: 6.3
+    sog: 7
+  log: 11085.2
+  waypoint:
+    longitude: -61.38206
+    latitude: 15.21353
+  barometer: 1016.75
+  wind:
+    speed: 25.6
+    direction: 79
+  engine:
+    hours: 944.9
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: navigation
+- datetime: 2025-02-21T16:58:47.302Z
+  text: Autopilot activated
+  author: ""
+  position:
+    latitude: 15.2203774
+    longitude: -61.3865561
+    source: GPS
+  heading: 358
+  course: 351
+  speed:
+    stw: 5.5
+    sog: 6.1
+  log: 11086.9
+  waypoint:
+    longitude: -61.38287
+    latitude: 15.2603
+  barometer: 1016.57
+  wind:
+    speed: 16.2
+    direction: 79
+  engine:
+    hours: 944.9
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: navigation
