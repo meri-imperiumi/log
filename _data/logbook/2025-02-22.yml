@@ -333,3 +333,113 @@
   crewNames:
     - ihmis-suski
     - bergie
+  category: navigation
+- datetime: 2025-02-22T18:00:29.900Z
+  text: ""
+  author: ""
+  position:
+    latitude: 15.547640482584633
+    longitude: -61.48665501276651
+    source: GPS
+  heading: 23
+  course: 21
+  speed:
+    stw: 4.7
+    sog: 5.2
+  log: 11108.2
+  waypoint:
+    longitude: -61.4678
+    latitude: 15.57134
+  barometer: 1015.93
+  wind:
+    speed: 17.2
+    direction: 68
+  engine:
+    hours: 946.1
+  vhf: "77"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: navigation
+- datetime: 2025-02-22T18:31:59.001Z
+  text: Sails down, motoring
+  author: ""
+  position:
+    latitude: 15.570322481791177
+    longitude: -61.4717630068461
+    source: GPS
+  heading: 19
+  course: 16
+  speed:
+    stw: 2.1
+    sog: 2.1
+  log: 11110.4
+  waypoint:
+    longitude: -61.4678
+    latitude: 15.57134
+  barometer: 1015.6
+  wind:
+    speed: 18.5
+    direction: 61
+  engine:
+    hours: 946.1
+  vhf: "77"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: navigation
+- datetime: 2025-02-22T18:46:41.996Z
+  text: Anchored
+  author: ""
+  position:
+    latitude: 15.5832031
+    longitude: -61.4659563
+    source: GPS
+  heading: 91
+  course: 337
+  speed:
+    stw: 0
+    sog: 0
+  log: 11111.2
+  waypoint:
+    longitude: -61.4678
+    latitude: 15.57134
+  barometer: 1015.78
+  wind:
+    speed: 10.2
+    direction: 75
+  engine:
+    hours: 946.4
+  vhf: "77"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  end: true
+  category: navigation
+- datetime: 2025-02-22T18:54:28.000Z
+  text: Stopped main engine
+  author: ""
+  position:
+    latitude: 15.5831616
+    longitude: -61.4661959
+    source: GPS
+  heading: 106
+  course: 200
+  speed:
+    stw: 0
+    sog: 0
+  log: 11111.2
+  waypoint:
+    longitude: -61.4678
+    latitude: 15.57134
+  barometer: 1015.79
+  wind:
+    speed: 12
+    direction: 92
+  engine:
+    hours: 946.5
+  vhf: "77"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: navigation
