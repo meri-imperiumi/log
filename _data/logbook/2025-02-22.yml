@@ -499,7 +499,7 @@
   category: maintenance
 - datetime: 2025-02-22T22:23:43.097Z
   text: |
-    Watermaker 250ppm. Stopped
+    Stopped watermaker, 250ppm.
   author: ihmis-suski
   position:
     latitude: 15.5830956
@@ -518,6 +518,33 @@
   wind:
     speed: 4
     direction: 50
+  engine:
+    hours: 946.5
+  vhf: "77"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: maintenance
+- datetime: 2025-02-22T23:00:45.100Z
+  text: Testing a new snubber with a bridle
+  author: bergie
+  position:
+    latitude: 15.583186
+    longitude: -61.4661261
+    source: GPS
+  heading: 96
+  course: 256
+  speed:
+    stw: 0
+    sog: 0
+  log: 11111.2
+  waypoint:
+    longitude: -61.4678
+    latitude: 15.57134
+  barometer: 1016.99
+  wind:
+    speed: 0
+    direction: 186
   engine:
     hours: 946.5
   vhf: "77"
