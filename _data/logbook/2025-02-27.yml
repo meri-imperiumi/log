@@ -1,0 +1,81 @@
+- datetime: 2025-02-27T15:23:37.996Z
+  text: Started main engine
+  author: ""
+  position:
+    latitude: 15.58326530456543
+    longitude: -61.466165987650555
+    source: GPS
+  heading: 131
+  course: 101
+  speed:
+    stw: 0
+    sog: 0
+  log: 11111.2
+  waypoint:
+    longitude: -61.46926
+    latitude: 15.57928
+  barometer: 1016.96
+  wind:
+    speed: 7.2
+    direction: 100
+  engine:
+    hours: 946.5
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: navigation
+- datetime: 2025-02-27T15:25:39.001Z
+  text: Anchor up, motoring
+  author: ""
+  position:
+    latitude: 15.5831318
+    longitude: -61.4661331
+    source: GPS
+  heading: 85
+  course: 191
+  speed:
+    stw: 0
+    sog: 0.3
+  log: 11111.2
+  waypoint:
+    longitude: -61.46926
+    latitude: 15.57928
+  barometer: 1016.99
+  wind:
+    speed: 6.1
+    direction: 92
+  engine:
+    hours: 946.5
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: navigation
+- datetime: 2025-02-27T15:38:43.001Z
+  text: Motor stopped, sailing with Main (1st reef), Staysail
+  author: ""
+  position:
+    latitude: 15.5794568
+    longitude: -61.4685718
+    source: GPS
+  heading: 233
+  course: 229
+  speed:
+    stw: 0
+    sog: 4.2
+  log: 11111.6
+  waypoint:
+    longitude: -61.46926
+    latitude: 15.57928
+  barometer: 1016.98
+  wind:
+    speed: 14.5
+    direction: 88
+  engine:
+    hours: 946.8
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: navigation
