@@ -268,3 +268,84 @@
     - ihmis-suski
     - bergie
   category: navigation
+- datetime: 2025-02-27T18:00:26.400Z
+  text: ""
+  author: ""
+  position:
+    latitude: 15.7764918
+    longitude: -61.5451713
+    source: GPS
+  heading: 344
+  course: 341
+  speed:
+    stw: 4.2
+    sog: 4.3
+  log: 11124.8
+  waypoint:
+    longitude: -61.57899
+    latitude: 15.8417
+  barometer: 1015.04
+  wind:
+    speed: 18.1
+    direction: 68
+  engine:
+    hours: 946.8
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: navigation
+- datetime: 2025-02-27T18:18:27.398Z
+  text: Stopped watermaker, 243ppm
+  author: bergie
+  position:
+    latitude: 15.8012428
+    longitude: -61.5572226
+    source: GPS
+  heading: 349
+  course: 355
+  speed:
+    stw: 4.4
+    sog: 4.1
+  log: 11126.4
+  waypoint:
+    longitude: -61.57899
+    latitude: 15.8417
+  barometer: 1014.88
+  wind:
+    speed: 16.2
+    direction: 57
+  engine:
+    hours: 946.8
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: maintenance
+- datetime: 2025-02-27T18:59:40.499Z
+  text: "Sails set: Main (1st reef), Staysail"
+  author: ""
+  position:
+    latitude: 15.8445304
+    longitude: -61.5882876
+    source: GPS
+  heading: 303
+  course: 296
+  speed:
+    stw: 3.3
+    sog: 5.2
+  log: 11129.7
+  waypoint:
+    longitude: -61.60798
+    latitude: 15.85384
+  barometer: 1014.62
+  wind:
+    speed: 14.5
+    direction: 78
+  engine:
+    hours: 946.8
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: navigation
