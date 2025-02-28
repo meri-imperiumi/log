@@ -95,3 +95,49 @@
     - ihmis-suski
     - bergie
   category: navigation
+- datetime: 2025-02-28T21:00:20.902Z
+  text: "Started watermaker "
+  author: bergie
+  position:
+    latitude: 15.8671326
+    longitude: -61.5858403
+    source: GPS
+  heading: 77
+  course: 341
+  speed:
+    stw: 0
+    sog: 0
+  log: 11133.8
+  barometer: 1014.55
+  wind:
+    speed: 8.8
+    direction: 83
+  engine:
+    hours: 948
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: maintenance
+- datetime: 2025-02-28T21:17:21.996Z
+  text: Watermaker 252ppm
+  author: bergie
+  position:
+    latitude: 15.8671268
+    longitude: -61.5858149
+    source: GPS
+  heading: 121
+  course: 163
+  speed:
+    stw: 0
+    sog: 0.5
+  log: 11133.8
+  barometer: 1014.83
+  wind:
+    speed: 8.2
+    direction: 100
+  engine:
+    hours: 948
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: maintenance
