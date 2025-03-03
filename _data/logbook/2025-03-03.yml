@@ -346,3 +346,146 @@
     - ihmis-suski
     - bergie
   category: maintenance
+- datetime: 2025-03-03T18:00:46.899Z
+  text: ""
+  author: ""
+  position:
+    latitude: 16.055273
+    longitude: -61.535858
+    source: GPS
+  heading: 8
+  course: 2
+  speed:
+    stw: 2.6
+    sog: 2.4
+  log: 11145.6
+  waypoint:
+    longitude: -61.54238
+    latitude: 16.1008
+  barometer: 1014.09
+  wind:
+    speed: 6.4
+    direction: 86
+  engine:
+    hours: 948.2
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: navigation
+- datetime: 2025-03-03T18:22:35.897Z
+  text: "Sails set: Genoa 1 the swell in combination with light winds makes the
+    main unhappy and banging from side to side."
+  author: ihmis-suski
+  position:
+    latitude: 16.0671436
+    longitude: -61.5357926
+    source: GPS
+  heading: 8
+  course: 5
+  speed:
+    stw: 1.3
+    sog: 2.3
+  log: 11146.3
+  waypoint:
+    longitude: -61.54238
+    latitude: 16.1008
+  barometer: 1013.82
+  wind:
+    speed: 6.9
+    direction: 93
+  engine:
+    hours: 948.2
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: navigation
+  observations:
+    seaState: 3
+    cloudCoverage: 3
+    visibility: 8
+- datetime: 2025-03-03T18:44:48.902Z
+  text: "Sails set: Genoa 1 (10% furled)"
+  author: ""
+  position:
+    latitude: 16.0798258
+    longitude: -61.5361613
+    source: GPS
+  heading: 5
+  course: 343
+  speed:
+    stw: 2.1
+    sog: 2.3
+  log: 11147.1
+  waypoint:
+    longitude: -61.54238
+    latitude: 16.1008
+  barometer: 1013.54
+  wind:
+    speed: 5.6
+    direction: 79
+  engine:
+    hours: 948.2
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: navigation
+- datetime: 2025-03-03T18:45:45.900Z
+  text: Watermaker 249ppm. Stopped.
+  author: ihmis-suski
+  position:
+    latitude: 16.0804376
+    longitude: -61.5361548
+    source: GPS
+  heading: 9
+  course: 35
+  speed:
+    stw: 1.9
+    sog: 2.4
+  log: 11147.1
+  waypoint:
+    longitude: -61.54238
+    latitude: 16.1008
+  barometer: 1013.52
+  wind:
+    speed: 8.2
+    direction: 105
+  engine:
+    hours: 948.2
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: maintenance
+- datetime: 2025-03-03T18:48:06.899Z
+  text: |-
+    Sails set: Genoa 1 (60% furled)
+
+    About to get soaking wet
+  author: ihmis-suski
+  position:
+    latitude: 16.0818818
+    longitude: -61.5361284
+    source: GPS
+  heading: 7
+  course: 348
+  speed:
+    stw: 2.2
+    sog: 3.3
+  log: 11147.2
+  waypoint:
+    longitude: -61.54238
+    latitude: 16.1008
+  barometer: 1013.5
+  wind:
+    speed: 9.6
+    direction: 98
+  engine:
+    hours: 948.2
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: navigation
