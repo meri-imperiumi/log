@@ -1,0 +1,131 @@
+- datetime: 2025-03-03T14:39:43.801Z
+  text: Started main engine
+  author: ""
+  position:
+    latitude: 15.867032686869303
+    longitude: -61.58580633799236
+    source: GPS
+  heading: 102
+  course: 192
+  speed:
+    stw: 0
+    sog: 0
+  log: 11133.8
+  waypoint:
+    longitude: -61.58633
+    latitude: 15.86645
+  barometer: 1016.68
+  wind:
+    speed: 8.9
+    direction: 98
+  engine:
+    hours: 948
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: navigation
+- datetime: 2025-03-03T14:43:54.800Z
+  text: Anchor up, motoring
+  author: ""
+  position:
+    latitude: 15.867099316914876
+    longitude: -61.58580366770427
+    source: GPS
+  heading: 139
+  course: 192
+  speed:
+    stw: 0
+    sog: 0
+  log: 11133.8
+  waypoint:
+    longitude: -61.58633
+    latitude: 15.86645
+  barometer: 1016.66
+  wind:
+    speed: 10.7
+    direction: 96
+  engine:
+    hours: 948.1
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: navigation
+- datetime: 2025-03-03T14:44:46.800Z
+  text: Stopped
+  author: ""
+  position:
+    latitude: 15.8669933
+    longitude: -61.5860806
+    source: GPS
+  heading: 301
+  course: 299
+  speed:
+    stw: 0
+    sog: 3.8
+  log: 11133.8
+  waypoint:
+    longitude: -61.58527
+    latitude: 15.86825
+  barometer: 1016.72
+  wind:
+    speed: 8.8
+    direction: 97
+  engine:
+    hours: 948.1
+  crewNames:
+    - ihmis-suski
+    - bergie
+  end: true
+  category: navigation
+- datetime: 2025-03-03T14:46:45.798Z
+  text: Motoring
+  author: ""
+  position:
+    latitude: 15.869174
+    longitude: -61.5875813
+    source: GPS
+  heading: 346
+  course: 345
+  speed:
+    stw: 0
+    sog: 4.9
+  log: 11133.9
+  waypoint:
+    longitude: -61.58527
+    latitude: 15.86825
+  barometer: 1016.56
+  wind:
+    speed: 13.7
+    direction: 88
+  engine:
+    hours: 948.1
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: navigation
+- datetime: 2025-03-03T14:49:09.798Z
+  text: Motor stopped, sailing with Main (1st reef), Staysail
+  author: ""
+  position:
+    latitude: 15.8708391
+    longitude: -61.58753
+    source: GPS
+  heading: 6
+  course: 4
+  speed:
+    stw: 0
+    sog: 3.4
+  log: 11134
+  waypoint:
+    longitude: -61.58754
+    latitude: 15.87486
+  barometer: 1016.39
+  wind:
+    speed: 15.2
+    direction: 133
+  engine:
+    hours: 948.2
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: navigation
