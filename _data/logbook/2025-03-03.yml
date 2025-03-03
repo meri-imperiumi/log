@@ -264,3 +264,85 @@
     - ihmis-suski
     - bergie
   category: navigation
+- datetime: 2025-03-03T17:00:46.796Z
+  text: ""
+  author: ""
+  position:
+    latitude: 16.00492483327786
+    longitude: -61.54462064107259
+    source: GPS
+  heading: 38
+  course: 1
+  speed:
+    stw: 0
+    sog: 1.7
+  log: 11142.5
+  waypoint:
+    longitude: -61.49842
+    latitude: 16.19898
+  barometer: 1015.28
+  wind:
+    speed: 7
+    direction: 139
+  engine:
+    hours: 948.2
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: navigation
+- datetime: 2025-03-03T17:06:46.796Z
+  text: Mayday relay. Very faint.couldn't understand the position as the broadcast
+    cuts in and out
+  author: ihmis-suski
+  position:
+    latitude: 16.0084168
+    longitude: -61.5428198
+    source: GPS
+  heading: 39
+  course: 46
+  speed:
+    stw: 0
+    sog: 3.1
+  log: 11142.7
+  waypoint:
+    longitude: -61.49842
+    latitude: 16.19898
+  barometer: 1015.11
+  wind:
+    speed: 8.1
+    direction: 130
+  engine:
+    hours: 948.2
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: radio
+- datetime: 2025-03-03T17:08:46.796Z
+  text: Watermaker 259ppm.
+  author: ihmis-suski
+  position:
+    latitude: 16.0096451
+    longitude: -61.5421341
+    source: GPS
+  heading: 38
+  course: 20
+  speed:
+    stw: 0
+    sog: 2.3
+  log: 11142.8
+  waypoint:
+    longitude: -61.49842
+    latitude: 16.19898
+  barometer: 1015.09
+  wind:
+    speed: 8.3
+    direction: 141
+  engine:
+    hours: 948.2
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: maintenance
