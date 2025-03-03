@@ -183,3 +183,84 @@
     - ihmis-suski
     - bergie
   category: maintenance
+- datetime: 2025-03-03T16:00:45.798Z
+  text: ""
+  author: ""
+  position:
+    latitude: 15.9527266
+    longitude: -61.5653689
+    source: GPS
+  heading: 31
+  course: 22
+  speed:
+    stw: 0
+    sog: 4.2
+  log: 11139.1
+  waypoint:
+    longitude: -61.49842
+    latitude: 16.19898
+  barometer: 1015.9
+  wind:
+    speed: 14.1
+    direction: 105
+  engine:
+    hours: 948.2
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: navigation
+- datetime: 2025-03-03T16:28:05.798Z
+  text: "Sails set: Main, Staysail"
+  author: ""
+  position:
+    latitude: 15.9787421
+    longitude: -61.5547376
+    source: GPS
+  heading: 23
+  course: 24
+  speed:
+    stw: 0
+    sog: 1.9
+  log: 11140.8
+  waypoint:
+    longitude: -61.49842
+    latitude: 16.19898
+  barometer: 1015.65
+  wind:
+    speed: 11.4
+    direction: 115
+  engine:
+    hours: 948.2
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: navigation
+- datetime: 2025-03-03T16:32:17.798Z
+  text: "Sails set: Main, Genoa 1"
+  author: ""
+  position:
+    latitude: 15.9819304
+    longitude: -61.553656
+    source: GPS
+  heading: 26
+  course: 11
+  speed:
+    stw: 0
+    sog: 3.2
+  log: 11141
+  waypoint:
+    longitude: -61.49842
+    latitude: 16.19898
+  barometer: 1015.62
+  wind:
+    speed: 10.7
+    direction: 109
+  engine:
+    hours: 948.2
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: navigation
