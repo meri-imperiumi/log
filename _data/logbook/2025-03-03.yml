@@ -489,3 +489,111 @@
     - ihmis-suski
     - bergie
   category: navigation
+- datetime: 2025-03-03T19:00:46.899Z
+  text: ""
+  author: ""
+  position:
+    latitude: 16.09087200164795
+    longitude: -61.53605600992838
+    source: GPS
+  heading: 12
+  course: 28
+  speed:
+    stw: 3
+    sog: 4.1
+  log: 11147.8
+  waypoint:
+    longitude: -61.54238
+    latitude: 16.1008
+  barometer: 1013.46
+  wind:
+    speed: 17.5
+    direction: 102
+  engine:
+    hours: 948.2
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: navigation
+- datetime: 2025-03-03T19:07:00.902Z
+  text: "Sails set: Genoa 1 (40% furled)"
+  author: ""
+  position:
+    latitude: 16.0959884
+    longitude: -61.5358931
+    source: GPS
+  heading: 0
+  course: 347
+  speed:
+    stw: 2.8
+    sog: 3.7
+  log: 11148.1
+  waypoint:
+    longitude: -61.54238
+    latitude: 16.1008
+  barometer: 1013.56
+  wind:
+    speed: 12.6
+    direction: 130
+  engine:
+    hours: 948.2
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: navigation
+- datetime: 2025-03-03T19:13:55.897Z
+  text: "Sails set: Genoa 1 (60% furled).  Gusting to 26kt"
+  author: bergie
+  position:
+    latitude: 16.1026251
+    longitude: -61.5359469
+    source: GPS
+  heading: 359
+  course: 355
+  speed:
+    stw: 2.6
+    sog: 3.3
+  log: 11148.5
+  waypoint:
+    longitude: -61.54584
+    latitude: 16.14028
+  barometer: 1013.6
+  wind:
+    speed: 12.2
+    direction: 75
+  engine:
+    hours: 948.2
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: navigation
+- datetime: 2025-03-03T19:19:59.897Z
+  text: "Sails set: Genoa 1 (40% furled)"
+  author: ""
+  position:
+    latitude: 16.1067611
+    longitude: -61.5368206
+    source: GPS
+  heading: 356
+  course: 342
+  speed:
+    stw: 1.8
+    sog: 2.1
+  log: 11148.7
+  waypoint:
+    longitude: -61.54584
+    latitude: 16.14028
+  barometer: 1013.76
+  wind:
+    speed: 6.2
+    direction: 62
+  engine:
+    hours: 948.2
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: navigation
