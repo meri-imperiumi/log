@@ -161,3 +161,82 @@
     - ihmis-suski
     - bergie
   category: navigation
+- datetime: 2025-03-04T15:00:46.400Z
+  text: ""
+  author: ""
+  position:
+    latitude: 16.1982433
+    longitude: -61.5342193
+    source: GPS
+  heading: 27
+  course: 22
+  speed:
+    stw: 4.2
+    sog: 4.8
+  log: 11156.5
+  waypoint:
+    longitude: -61.53325
+    latitude: 16.19966
+  barometer: 1015.86
+  wind:
+    speed: 14.6
+    direction: 93
+  engine:
+    hours: 948.9
+  vhf: "9"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: navigation
+- datetime: 2025-03-04T15:16:28.697Z
+  text: Sails down, motoring
+  author: ""
+  position:
+    latitude: 16.2176288
+    longitude: -61.5336425
+    source: GPS
+  heading: 329
+  course: 324
+  speed:
+    stw: 3.4
+    sog: 4.6
+  log: 11157.8
+  waypoint:
+    longitude: -61.53365
+    latitude: 16.21885
+  barometer: 1015.85
+  wind:
+    speed: 16.6
+    direction: 116
+  engine:
+    hours: 948.9
+  vhf: "9"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: navigation
+- datetime: 2025-03-04T15:55:59.801Z
+  text: Stopped
+  author: ""
+  position:
+    latitude: 16.2216173
+    longitude: -61.5286911
+    source: GPS
+  heading: 84
+  course: 307
+  speed:
+    stw: 0
+    sog: 0
+  log: 11159.3
+  barometer: 1015.53
+  wind:
+    speed: 6.4
+    direction: 138
+  engine:
+    hours: 949.5
+  vhf: "9"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  end: true
+  category: navigation
