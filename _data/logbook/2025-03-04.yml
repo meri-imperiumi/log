@@ -80,3 +80,84 @@
     - bergie
   end: true
   category: navigation
+- datetime: 2025-03-04T14:01:46.300Z
+  text: Motoring
+  author: ""
+  position:
+    latitude: 16.1497976
+    longitude: -61.5670394
+    source: GPS
+  heading: 187
+  course: 224
+  speed:
+    stw: 0
+    sog: 1.5
+  log: 11152.9
+  waypoint:
+    longitude: -61.5671
+    latitude: 16.15024
+  barometer: 1016.69
+  wind:
+    speed: 12.6
+    direction: 111
+  engine:
+    hours: 948.8
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: navigation
+- datetime: 2025-03-04T14:07:23.299Z
+  text: Motor stopped, sailing with Genoa 1 (40% furled)
+  author: ""
+  position:
+    latitude: 16.1499849
+    longitude: -61.5666183
+    source: GPS
+  heading: 15
+  course: 6
+  speed:
+    stw: 0
+    sog: 2.4
+  log: 11153
+  waypoint:
+    longitude: -61.5671
+    latitude: 16.15024
+  barometer: 1016.52
+  wind:
+    speed: 11.2
+    direction: 128
+  engine:
+    hours: 948.9
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: navigation
+- datetime: 2025-03-04T14:08:06.300Z
+  text: "Sails set: Main (1st reef), Staysail"
+  author: ""
+  position:
+    latitude: 16.15048599243164
+    longitude: -61.56656684875488
+    source: GPS
+  heading: 12
+  course: 8
+  speed:
+    stw: 0
+    sog: 2.6
+  log: 11153
+  waypoint:
+    longitude: -61.5665
+    latitude: 16.15192
+  barometer: 1016.49
+  wind:
+    speed: 13.2
+    direction: 111
+  engine:
+    hours: 948.9
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: navigation
