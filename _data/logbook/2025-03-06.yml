@@ -94,3 +94,115 @@
     - bergie
     - bernhard
   category: navigation
+- datetime: 2025-03-06T17:00:09.702Z
+  text: ""
+  author: ""
+  position:
+    latitude: 16.1955163
+    longitude: -61.5305123
+    source: GPS
+  heading: 165
+  course: 161
+  speed:
+    stw: 1.9
+    sog: 2.4
+  log: 11161.5
+  waypoint:
+    longitude: -61.52733
+    latitude: 16.20009
+  barometer: 1015.23
+  wind:
+    speed: 13.8
+    direction: 115
+  engine:
+    hours: 950.1
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
+    - bernhard
+  category: navigation
+- datetime: 2025-03-06T17:09:26.700Z
+  text: "Sails set: Main, Staysail"
+  author: ""
+  position:
+    latitude: 16.1892088
+    longitude: -61.5309243
+    source: GPS
+  heading: 161
+  course: 179
+  speed:
+    stw: 0
+    sog: 1.6
+  log: 11161.9
+  waypoint:
+    longitude: -61.52856
+    latitude: 16.18219
+  barometer: 1015.2
+  wind:
+    speed: 14
+    direction: 119
+  engine:
+    hours: 950.1
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
+    - bernhard
+  category: navigation
+- datetime: 2025-03-06T17:38:09.702Z
+  text: "Started watermaker "
+  author: bergie
+  position:
+    latitude: 16.1634098
+    longitude: -61.5276231
+    source: GPS
+  heading: 49
+  course: 55
+  speed:
+    stw: 0
+    sog: 2.5
+  log: 11163.6
+  waypoint:
+    longitude: -61.52646
+    latitude: 16.1625
+  barometer: 1014.61
+  wind:
+    speed: 11.1
+    direction: 98
+  engine:
+    hours: 950.1
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
+    - bernhard
+  category: maintenance
+- datetime: 2025-03-06T17:50:09.702Z
+  text: Watermaker 280ppm
+  author: bergie
+  position:
+    latitude: 16.169446
+    longitude: -61.5196126
+    source: GPS
+  heading: 59
+  course: 51
+  speed:
+    stw: 0
+    sog: 3.5
+  log: 11164.2
+  waypoint:
+    longitude: -61.45492
+    latitude: 16.18843
+  barometer: 1014.42
+  wind:
+    speed: 12
+    direction: 120
+  engine:
+    hours: 950.1
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
+    - bernhard
+  category: maintenance
