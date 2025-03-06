@@ -346,3 +346,88 @@
     - bergie
     - bernhard
   category: navigation
+- datetime: 2025-03-06T21:00:09.798Z
+  text: ""
+  author: ""
+  position:
+    latitude: 16.2131813
+    longitude: -61.3869293
+    source: GPS
+  heading: 40
+  course: 47
+  speed:
+    stw: 3.9
+    sog: 4.6
+  log: 11176.1
+  waypoint:
+    longitude: -61.38505
+    latitude: 16.21701
+  barometer: 1014.05
+  wind:
+    speed: 10.2
+    direction: 93
+  engine:
+    hours: 950.2
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
+    - bernhard
+  category: navigation
+- datetime: 2025-03-06T21:19:59.801Z
+  text: Anchored
+  author: ""
+  position:
+    latitude: 16.2205259
+    longitude: -61.3920815
+    source: GPS
+  heading: 133
+  course: 342
+  speed:
+    stw: 0
+    sog: 0.5
+  log: 11177.1
+  waypoint:
+    longitude: -61.38676
+    latitude: 16.22202
+  barometer: 1014.41
+  wind:
+    speed: 8.7
+    direction: 123
+  engine:
+    hours: 950.6
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
+    - bernhard
+  end: true
+  category: navigation
+- datetime: 2025-03-06T21:27:33.798Z
+  text: Stopped main engine
+  author: ""
+  position:
+    latitude: 16.220568
+    longitude: -61.3922111
+    source: GPS
+  heading: 111
+  course: 282
+  speed:
+    stw: 0
+    sog: 0.2
+  log: 11177.1
+  waypoint:
+    longitude: -61.38676
+    latitude: 16.22202
+  barometer: 1014.4
+  wind:
+    speed: 8.5
+    direction: 107
+  engine:
+    hours: 950.7
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
+    - bernhard
+  category: navigation
