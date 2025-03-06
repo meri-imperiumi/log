@@ -206,3 +206,59 @@
     - bergie
     - bernhard
   category: maintenance
+- datetime: 2025-03-06T18:00:09.702Z
+  text: ""
+  author: ""
+  position:
+    latitude: 16.1746905
+    longitude: -61.5124549
+    source: GPS
+  heading: 55
+  course: 81
+  speed:
+    stw: 0
+    sog: 3.7
+  log: 11164.7
+  waypoint:
+    longitude: -61.45492
+    latitude: 16.18843
+  barometer: 1014.24
+  wind:
+    speed: 14.7
+    direction: 110
+  engine:
+    hours: 950.1
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
+    - bernhard
+  category: navigation
+- datetime: 2025-03-06T18:08:16.697Z
+  text: "Sails set: Main, Genoa 1"
+  author: ""
+  position:
+    latitude: 16.1783118
+    longitude: -61.5075743
+    source: GPS
+  heading: 64
+  course: 71
+  speed:
+    stw: 0
+    sog: 3.8
+  log: 11165.1
+  waypoint:
+    longitude: -61.45492
+    latitude: 16.18843
+  barometer: 1014.24
+  wind:
+    speed: 11.3
+    direction: 103
+  engine:
+    hours: 950.1
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
+    - bernhard
+  category: navigation
