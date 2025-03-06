@@ -290,3 +290,59 @@
     - bergie
     - bernhard
   category: maintenance
+- datetime: 2025-03-06T20:00:10.803Z
+  text: ""
+  author: ""
+  position:
+    latitude: 16.1703616
+    longitude: -61.4460185
+    source: GPS
+  heading: 60
+  course: 37
+  speed:
+    stw: 0
+    sog: 3.1
+  log: 11171.7
+  waypoint:
+    longitude: -61.43609
+    latitude: 16.16652
+  barometer: 1013.77
+  wind:
+    speed: 13.4
+    direction: 94
+  engine:
+    hours: 950.1
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
+    - bernhard
+  category: navigation
+- datetime: 2025-03-06T20:53:56.800Z
+  text: Sails down, motoring
+  author: ""
+  position:
+    latitude: 16.208286825815836
+    longitude: -61.39283434549967
+    source: GPS
+  heading: 46
+  course: 32
+  speed:
+    stw: 1.4
+    sog: 1.8
+  log: 11175.6
+  waypoint:
+    longitude: -61.38505
+    latitude: 16.21701
+  barometer: 1014.07
+  wind:
+    speed: 9.1
+    direction: 109
+  engine:
+    hours: 950.1
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
+    - bernhard
+  category: navigation
