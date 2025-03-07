@@ -222,3 +222,117 @@
     - ihmis-suski
     - bergie
     - bernhard
+  category: navigation
+- datetime: 2025-03-07T17:00:14.099Z
+  text: ""
+  author: ""
+  position:
+    latitude: 16.0107606
+    longitude: -61.31223
+    source: GPS
+  heading: 169
+  course: 185
+  speed:
+    stw: 0
+    sog: 5.2
+  log: 11190.9
+  waypoint:
+    longitude: -61.31522
+    latitude: 15.99691
+  barometer: 1017.49
+  wind:
+    speed: 11.7
+    direction: 78
+  engine:
+    hours: 951
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
+    - bernhard
+  category: navigation
+- datetime: 2025-03-07T17:13:08.102Z
+  text: Sails down, motoring
+  author: ""
+  position:
+    latitude: 15.9970809
+    longitude: -61.3085214
+    source: GPS
+  heading: 142
+  course: 150
+  speed:
+    stw: 0
+    sog: 4.1
+  log: 11191.8
+  waypoint:
+    longitude: -61.3095
+    latitude: 15.98058
+  barometer: 1017.2
+  wind:
+    speed: 13.6
+    direction: 67
+  engine:
+    hours: 951
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
+    - bernhard
+  category: navigation
+- datetime: 2025-03-07T17:25:04.102Z
+  text: Anchored
+  author: ""
+  position:
+    latitude: 15.9895074
+    longitude: -61.30232
+    source: GPS
+  heading: 53
+  course: 233
+  speed:
+    stw: 0
+    sog: 0.4
+  log: 11192.4
+  waypoint:
+    longitude: -61.3095
+    latitude: 15.98058
+  barometer: 1016.94
+  wind:
+    speed: 9
+    direction: 51
+  engine:
+    hours: 951.2
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
+    - bernhard
+  end: true
+  category: navigation
+- datetime: 2025-03-07T17:28:53.100Z
+  text: Stopped main engine
+  author: ""
+  position:
+    latitude: 15.98952
+    longitude: -61.3024724
+    source: GPS
+  heading: 100
+  course: 237
+  speed:
+    stw: 0
+    sog: 0.5
+  log: 11192.4
+  waypoint:
+    longitude: -61.3095
+    latitude: 15.98058
+  barometer: 1016.94
+  wind:
+    speed: 10.5
+    direction: 49
+  engine:
+    hours: 951.3
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
+    - bernhard
+  category: navigation
