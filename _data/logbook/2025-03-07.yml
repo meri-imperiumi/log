@@ -360,3 +360,30 @@
     - bergie
     - bernhard
   category: maintenance
+- datetime: 2025-03-07T22:09:40.198Z
+  text: Stopped watermaker, 266ppm
+  author: bergie
+  position:
+    latitude: 15.9895133
+    longitude: -61.3024816
+    source: GPS
+  heading: 103
+  course: 124
+  speed:
+    stw: 0
+    sog: 0.2
+  log: 11192.4
+  waypoint:
+    longitude: -61.33936
+    latitude: 15.94349
+  barometer: 1016.23
+  wind:
+    speed: 4.6
+    direction: 55
+  engine:
+    hours: 951.3
+  crewNames:
+    - ihmis-suski
+    - bergie
+    - bernhard
+  category: maintenance
