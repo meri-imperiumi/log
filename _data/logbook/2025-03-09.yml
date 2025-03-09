@@ -106,3 +106,115 @@
     - bergie
     - bernhard
   category: maintenance
+- datetime: 2025-03-09T17:17:53.299Z
+  text: Started main engine
+  author: ""
+  position:
+    latitude: 15.9837844
+    longitude: -61.3066175
+    source: GPS
+  heading: 76
+  course: 336
+  speed:
+    stw: 0
+    sog: 0
+  log: 11193
+  waypoint:
+    longitude: -61.31667
+    latitude: 15.98097
+  barometer: 1016.54
+  wind:
+    speed: 5
+    direction: 74
+  engine:
+    hours: 951.8
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
+    - bernhard
+  category: navigation
+- datetime: 2025-03-09T17:25:03.302Z
+  text: Anchor up, motoring
+  author: bergie
+  position:
+    latitude: 15.9833966
+    longitude: -61.3077498
+    source: GPS
+  heading: 252
+  course: 250
+  speed:
+    stw: 3.2
+    sog: 4
+  log: 11193
+  waypoint:
+    longitude: -61.31667
+    latitude: 15.98097
+  barometer: 1016.51
+  wind:
+    speed: 7.6
+    direction: 101
+  engine:
+    hours: 952
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
+    - bernhard
+  category: navigation
+- datetime: 2025-03-09T17:54:59.302Z
+  text: Anchored
+  author: ""
+  position:
+    latitude: 15.9584321
+    longitude: -61.3211044
+    source: GPS
+  heading: 37
+  course: 3
+  speed:
+    stw: 0
+    sog: 0
+  log: 11195.1
+  waypoint:
+    longitude: -61.3434
+    latitude: 15.94201
+  barometer: 1016
+  wind:
+    speed: 8.1
+    direction: 84
+  engine:
+    hours: 952.5
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
+    - bernhard
+  end: true
+  category: navigation
+- datetime: 2025-03-09T17:59:10.297Z
+  text: Stopped main engine
+  author: ""
+  position:
+    latitude: 15.9585448
+    longitude: -61.3211814
+    source: GPS
+  heading: 147
+  course: 108
+  speed:
+    stw: 0
+    sog: 0
+  log: 11195.1
+  waypoint:
+    longitude: -61.3434
+    latitude: 15.94201
+  barometer: 1015.99
+  wind:
+    speed: 7.5
+    direction: 93
+  engine:
+    hours: 952.5
+  crewNames:
+    - ihmis-suski
+    - bergie
+    - bernhard
+  category: navigation
