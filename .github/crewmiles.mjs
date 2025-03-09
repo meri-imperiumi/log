@@ -128,6 +128,10 @@ readdir('_data/logbook')
       .then((c) => parse(c))
       .then((data) => {
         Object.keys(data).forEach((name) => {
+          if (!crewMiles[name]) {
+            data[name].miles_from_logger = 0;
+            return;
+          }
           data[name].miles_from_logger = parseFloat(crewMiles[name].toFixed(1)) || 0;
         });
         return data;
