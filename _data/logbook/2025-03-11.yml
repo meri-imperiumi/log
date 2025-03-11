@@ -446,3 +446,87 @@
     - bergie
     - bernhard
   category: navigation
+- datetime: 2025-03-11T14:00:40.899Z
+  text: ""
+  author: ""
+  position:
+    latitude: 15.7871421
+    longitude: -61.4060559
+    source: GPS
+  heading: 207
+  course: 200
+  speed:
+    stw: 0
+    sog: 4.7
+  log: 11206.7
+  waypoint:
+    longitude: -61.46787
+    latitude: 15.63404
+  barometer: 1017.52
+  wind:
+    speed: 22.3
+    direction: 102
+  engine:
+    hours: 952.7
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
+    - bernhard
+  category: navigation
+- datetime: 2025-03-11T14:01:40.899Z
+  text: Watermaker 260ppm
+  author: bergie
+  position:
+    latitude: 15.7858743
+    longitude: -61.4065789
+    source: GPS
+  heading: 209
+  course: 218
+  speed:
+    stw: 0
+    sog: 5.9
+  log: 11206.7
+  waypoint:
+    longitude: -61.46787
+    latitude: 15.63404
+  barometer: 1017.51
+  wind:
+    speed: 17.1
+    direction: 112
+  engine:
+    hours: 952.7
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
+    - bernhard
+  category: maintenance
+- datetime: 2025-03-11T14:57:09.900Z
+  text: "Sails set: Main (1st reef), Genoa 1 (30% furled)"
+  author: ""
+  position:
+    latitude: 15.7188648
+    longitude: -61.4343013
+    source: GPS
+  heading: 215
+  course: 206
+  speed:
+    stw: 0
+    sog: 5
+  log: 11211.1
+  waypoint:
+    longitude: -61.46787
+    latitude: 15.63404
+  barometer: 1017.11
+  wind:
+    speed: 17.6
+    direction: 115
+  engine:
+    hours: 952.7
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
+    - bernhard
+  category: navigation
