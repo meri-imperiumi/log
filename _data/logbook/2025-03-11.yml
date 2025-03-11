@@ -1,0 +1,140 @@
+- datetime: 2025-03-11T11:17:45.500Z
+  text: Pumped the bilge. The small automatic is not working
+  author: bergie
+  position:
+    latitude: 15.958414
+    longitude: -61.3212508
+    source: GPS
+  heading: 78
+  course: 25
+  speed:
+    stw: 0
+    sog: 0
+  log: 11195.1
+  waypoint:
+    longitude: -61.3434
+    latitude: 15.94201
+  barometer: 1016.44
+  wind:
+    speed: 6.6
+    direction: 76
+  engine:
+    hours: 952.5
+  crewNames:
+    - ihmis-suski
+    - bergie
+    - bernhard
+  category: maintenance
+- datetime: 2025-03-11T11:17:53.500Z
+  text: Started main engine
+  author: ""
+  position:
+    latitude: 15.9584123
+    longitude: -61.3212505
+    source: GPS
+  heading: 75
+  course: 25
+  speed:
+    stw: 0
+    sog: 0
+  log: 11195.1
+  waypoint:
+    longitude: -61.3434
+    latitude: 15.94201
+  barometer: 1016.44
+  wind:
+    speed: 6.4
+    direction: 93
+  engine:
+    hours: 952.5
+  crewNames:
+    - ihmis-suski
+    - bergie
+    - bernhard
+  category: navigation
+- datetime: 2025-03-11T11:25:46.499Z
+  text: Anchor up, motoring
+  author: bergie
+  position:
+    latitude: 15.9577264
+    longitude: -61.3232828
+    source: GPS
+  heading: 247
+  course: 245
+  speed:
+    stw: 3.8
+    sog: 4.5
+  log: 11195.1
+  waypoint:
+    longitude: -61.3434
+    latitude: 15.94201
+  barometer: 1016.61
+  wind:
+    speed: 9.3
+    direction: 106
+  engine:
+    hours: 952.7
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
+    - bernhard
+  category: navigation
+- datetime: 2025-03-11T11:30:54.499Z
+  text: Motor stopped, sailing with Main (1st reef), Genoa 1 (20% furled)
+  author: bergie
+  position:
+    latitude: 15.9564505
+    longitude: -61.3267073
+    source: GPS
+  heading: 232
+  course: 234
+  speed:
+    stw: 1.9
+    sog: 2.9
+  log: 11195.3
+  waypoint:
+    longitude: -61.3434
+    latitude: 15.94201
+  barometer: 1016.7
+  wind:
+    speed: 11.8
+    direction: 93
+  engine:
+    hours: 952.7
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
+    - bernhard
+  category: navigation
+- datetime: 2025-03-11T11:31:45.500Z
+  text: Pan pan Idil Tercer. French Coastguard responded but seems so far language
+    difficulties. Engine not working, using emergency tiller. Anchored in front
+    of Pointe-a-Pitre needing a tow
+  author: ihmis-suski
+  position:
+    latitude: 15.9560604
+    longitude: -61.3273486
+    source: GPS
+  heading: 244
+  course: 244
+  speed:
+    stw: 2.5
+    sog: 2.9
+  log: 11195.4
+  waypoint:
+    longitude: -61.3434
+    latitude: 15.94201
+  barometer: 1016.72
+  wind:
+    speed: 13.4
+    direction: 90
+  engine:
+    hours: 952.7
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
+    - bernhard
+  category: radio
