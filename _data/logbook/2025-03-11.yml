@@ -643,3 +643,115 @@
     - bergie
     - bernhard
   category: maintenance
+- datetime: 2025-03-11T16:00:41.900Z
+  text: ""
+  author: ""
+  position:
+    latitude: 15.6522826
+    longitude: -61.4690831
+    source: GPS
+  heading: 209
+  course: 212
+  speed:
+    stw: 0
+    sog: 4.6
+  log: 11215.6
+  waypoint:
+    longitude: -61.46787
+    latitude: 15.63404
+  barometer: 1016.44
+  wind:
+    speed: 22.6
+    direction: 101
+  engine:
+    hours: 952.7
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
+    - bernhard
+  category: navigation
+- datetime: 2025-03-11T16:35:11.897Z
+  text: "Sails set: Main (1st reef), Genoa 1 (20% furled)"
+  author: ""
+  position:
+    latitude: 15.6173736
+    longitude: -61.4796646
+    source: GPS
+  heading: 178
+  course: 180
+  speed:
+    stw: 0
+    sog: 3.1
+  log: 11217.8
+  waypoint:
+    longitude: -61.47483
+    latitude: 15.61001
+  barometer: 1015.56
+  wind:
+    speed: 7.5
+    direction: 102
+  engine:
+    hours: 952.7
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
+    - bernhard
+  category: navigation
+- datetime: 2025-03-11T16:50:41.996Z
+  text: Stopper watermaker, 256ppm
+  author: bergie
+  position:
+    latitude: 15.601708
+    longitude: -61.4793458
+    source: GPS
+  heading: 183
+  course: 180
+  speed:
+    stw: 0
+    sog: 4.6
+  log: 11218.8
+  waypoint:
+    longitude: -61.4797
+    latitude: 15.58551
+  barometer: 1015.42
+  wind:
+    speed: 12.6
+    direction: 106
+  engine:
+    hours: 952.7
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
+    - bernhard
+  category: maintenance
+- datetime: 2025-03-11T16:52:36.000Z
+  text: Autopilot deactivated
+  author: ""
+  position:
+    latitude: 15.5995719
+    longitude: -61.4793173
+    source: GPS
+  heading: 186
+  course: 186
+  speed:
+    stw: 0
+    sog: 3.9
+  log: 11218.9
+  waypoint:
+    longitude: -61.4797
+    latitude: 15.58551
+  barometer: 1015.3
+  wind:
+    speed: 11.5
+    direction: 103
+  engine:
+    hours: 952.7
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
+    - bernhard
+  category: navigation
