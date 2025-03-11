@@ -530,3 +530,116 @@
     - bergie
     - bernhard
   category: navigation
+- datetime: 2025-03-11T15:00:40.902Z
+  text: ""
+  author: ""
+  position:
+    latitude: 15.7147011
+    longitude: -61.4361588
+    source: GPS
+  heading: 216
+  course: 193
+  speed:
+    stw: 0
+    sog: 3.6
+  log: 11211.4
+  waypoint:
+    longitude: -61.46787
+    latitude: 15.63404
+  barometer: 1017.13
+  wind:
+    speed: 17.5
+    direction: 117
+  engine:
+    hours: 952.7
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
+    - bernhard
+  category: navigation
+- datetime: 2025-03-11T15:30:41.900Z
+  text: Pan pan from Sailing vessel Falkor, we can't hear them but coast guard and
+    some other boaters assisting them. They move to 68
+  author: bergie
+  position:
+    latitude: 15.6811218
+    longitude: -61.4520475
+    source: GPS
+  heading: 217
+  course: 223
+  speed:
+    stw: 0
+    sog: 4.5
+  log: 11213.6
+  waypoint:
+    longitude: -61.46787
+    latitude: 15.63404
+  barometer: 1016.82
+  wind:
+    speed: 17.4
+    direction: 114
+  engine:
+    hours: 952.7
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
+    - bernhard
+  category: radio
+- datetime: 2025-03-11T15:37:11.897Z
+  text: "Sails set: Main (1st reef), Genoa 1 (50% furled)"
+  author: ""
+  position:
+    latitude: 15.6746016
+    longitude: -61.4557278
+    source: GPS
+  heading: 217
+  course: 205
+  speed:
+    stw: 0
+    sog: 3
+  log: 11214
+  waypoint:
+    longitude: -61.46787
+    latitude: 15.63404
+  barometer: 1016.82
+  wind:
+    speed: 18.7
+    direction: 101
+  engine:
+    hours: 952.7
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
+    - bernhard
+  category: navigation
+- datetime: 2025-03-11T15:40:41.900Z
+  text: Watermaker 259ppm
+  author: bergie
+  position:
+    latitude: 15.6718063
+    longitude: -61.4577948
+    source: GPS
+  heading: 221
+  course: 236
+  speed:
+    stw: 0
+    sog: 4.9
+  log: 11214.2
+  waypoint:
+    longitude: -61.46787
+    latitude: 15.63404
+  barometer: 1016.79
+  wind:
+    speed: 22.2
+    direction: 92
+  engine:
+    hours: 952.7
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
+    - bernhard
+  category: maintenance
