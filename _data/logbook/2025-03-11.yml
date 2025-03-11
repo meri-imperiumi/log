@@ -755,3 +755,113 @@
     - bergie
     - bernhard
   category: navigation
+- datetime: 2025-03-11T17:00:41.996Z
+  text: ""
+  author: ""
+  position:
+    latitude: 15.5897389
+    longitude: -61.481378
+    source: GPS
+  heading: 190
+  course: 198
+  speed:
+    stw: 0
+    sog: 2.2
+  log: 11219.5
+  waypoint:
+    longitude: -61.4797
+    latitude: 15.58551
+  barometer: 1015.12
+  wind:
+    speed: 10.1
+    direction: 84
+  engine:
+    hours: 952.7
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
+    - bernhard
+  category: navigation
+- datetime: 2025-03-11T17:01:28.998Z
+  text: Sails down, motoring
+  author: ""
+  position:
+    latitude: 15.5890941
+    longitude: -61.4815238
+    source: GPS
+  heading: 186
+  course: 192
+  speed:
+    stw: 0
+    sog: 4.2
+  log: 11219.5
+  waypoint:
+    longitude: -61.4797
+    latitude: 15.58551
+  barometer: 1015.12
+  wind:
+    speed: 17.9
+    direction: 82
+  engine:
+    hours: 952.7
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
+    - bernhard
+  category: navigation
+- datetime: 2025-03-11T17:28:43.001Z
+  text: Anchored
+  author: ""
+  position:
+    latitude: 15.5823773
+    longitude: -61.4637676
+    source: GPS
+  heading: 110
+  course: 296
+  speed:
+    stw: 0
+    sog: 0.3
+  log: 11221
+  waypoint:
+    longitude: -61.46093
+    latitude: 15.57734
+  barometer: 1014.86
+  wind:
+    speed: 10
+    direction: 70
+  engine:
+    hours: 953.2
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
+    - bernhard
+  end: true
+  category: navigation
+- datetime: 2025-03-11T17:37:32.000Z
+  text: Stopped main engine
+  author: ""
+  position:
+    latitude: 15.5822949
+    longitude: -61.4639628
+    source: GPS
+  heading: 91
+  course: 113
+  speed:
+    stw: 0
+    sog: 0
+  log: 11221
+  barometer: 1014.73
+  wind:
+    speed: 14
+    direction: 70
+  engine:
+    hours: 953.3
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
+    - bernhard
+  category: navigation
