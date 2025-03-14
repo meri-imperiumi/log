@@ -174,3 +174,116 @@
     - bergie
     - bernhard
   category: navigation
+- datetime: 2025-03-14T15:00:38.400Z
+  text: ""
+  author: ""
+  position:
+    latitude: 15.5656221
+    longitude: -61.4699674
+    source: GPS
+  heading: 223
+  course: 238
+  speed:
+    stw: 0
+    sog: 2.7
+  log: 11222.2
+  waypoint:
+    longitude: -61.48436
+    latitude: 15.53637
+  barometer: 1015.28
+  wind:
+    speed: 9.2
+    direction: 100
+  engine:
+    hours: 954.4
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
+    - bernhard
+  category: navigation
+- datetime: 2025-03-14T15:00:38.400Z
+  text: "Started watermaker "
+  author: bergie
+  position:
+    latitude: 15.5656221
+    longitude: -61.4699674
+    source: GPS
+  heading: 223
+  course: 238
+  speed:
+    stw: 0
+    sog: 2.7
+  log: 11222.2
+  waypoint:
+    longitude: -61.48436
+    latitude: 15.53637
+  barometer: 1015.28
+  wind:
+    speed: 9.2
+    direction: 100
+  engine:
+    hours: 954.4
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
+    - bernhard
+  category: maintenance
+- datetime: 2025-03-14T15:15:38.400Z
+  text: Watermaker  302ppm.
+  author: ihmis-suski
+  position:
+    latitude: 15.5567345
+    longitude: -61.4768681
+    source: GPS
+  heading: 213
+  course: 217
+  speed:
+    stw: 0
+    sog: 3.9
+  log: 11222.8
+  waypoint:
+    longitude: -61.48436
+    latitude: 15.53637
+  barometer: 1015.02
+  wind:
+    speed: 15.9
+    direction: 70
+  engine:
+    hours: 954.4
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
+    - bernhard
+  category: maintenance
+- datetime: 2025-03-14T15:18:38.400Z
+  text: Bow panels do output power when connected to the FLINsail cables, so
+    likely corrosion or physical damage in the other MC4 cable
+  author: bergie
+  position:
+    latitude: 15.5539971
+    longitude: -61.4787538
+    source: GPS
+  heading: 218
+  course: 222
+  speed:
+    stw: 2
+    sog: 2.9
+  log: 11223
+  waypoint:
+    longitude: -61.48436
+    latitude: 15.53637
+  barometer: 1015.02
+  wind:
+    speed: 11.5
+    direction: 75
+  engine:
+    hours: 954.4
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
+    - bernhard
+  category: maintenance
