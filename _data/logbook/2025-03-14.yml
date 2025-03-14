@@ -455,3 +455,87 @@
     - bergie
     - bernhard
   category: maintenance
+- datetime: 2025-03-14T20:00:44.601Z
+  text: ""
+  author: ""
+  position:
+    latitude: 15.3601481
+    longitude: -61.4235458
+    source: GPS
+  heading: 155
+  course: 159
+  speed:
+    stw: 1.7
+    sog: 2.1
+  log: 11235.4
+  waypoint:
+    longitude: -61.39321
+    latitude: 15.29769
+  barometer: 1011.91
+  wind:
+    speed: 8.6
+    direction: 294
+  engine:
+    hours: 954.4
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
+    - bernhard
+  category: navigation
+- datetime: 2025-03-14T20:46:41.600Z
+  text: Stopped watermaker, 260ppm
+  author: bergie
+  position:
+    latitude: 15.3295689
+    longitude: -61.4127664
+    source: GPS
+  heading: 182
+  course: 179
+  speed:
+    stw: 2.3
+    sog: 3.4
+  log: 11237.4
+  waypoint:
+    longitude: -61.39321
+    latitude: 15.29769
+  barometer: 1011.96
+  wind:
+    speed: 10.8
+    direction: 317
+  engine:
+    hours: 954.4
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
+    - bernhard
+  category: maintenance
+- datetime: 2025-03-14T20:55:44.601Z
+  text: Sails down, motoring
+  author: ""
+  position:
+    latitude: 15.3217578
+    longitude: -61.4091668
+    source: GPS
+  heading: 143
+  course: 145
+  speed:
+    stw: 2.2
+    sog: 2.5
+  log: 11237.9
+  waypoint:
+    longitude: -61.39321
+    latitude: 15.29769
+  barometer: 1011.95
+  wind:
+    speed: 7.2
+    direction: 318
+  engine:
+    hours: 954.4
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
+    - bernhard
+  category: navigation
