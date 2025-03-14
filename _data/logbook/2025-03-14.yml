@@ -96,8 +96,8 @@
     - bernhard
   category: navigation
 - datetime: 2025-03-14T13:59:36.998Z
-  text: Stopped
-  author: ""
+  text: The anchor chain is stuck on something, can't get over 20m up
+  author: bergie
   position:
     latitude: 15.5822971
     longitude: -61.4637011
@@ -120,4 +120,57 @@
     - bergie
     - bernhard
   end: true
+  category: navigation
+- datetime: 2025-03-14T14:37:38.400Z
+  text: Motoring
+  author: ""
+  position:
+    latitude: 15.5816138
+    longitude: -61.4633616
+    source: GPS
+  heading: 147
+  course: 154
+  speed:
+    stw: 0
+    sog: 2.6
+  log: 11221
+  barometer: 1015.46
+  wind:
+    speed: 9.2
+    direction: 99
+  engine:
+    hours: 954
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
+    - bernhard
+  category: navigation
+- datetime: 2025-03-14T14:59:38.400Z
+  text: Motor stopped, sailing with Main, Genoa 1 (20% furled)
+  author: ""
+  position:
+    latitude: 15.5660468
+    longitude: -61.4693908
+    source: GPS
+  heading: 227
+  course: 229
+  speed:
+    stw: 0
+    sog: 2.2
+  log: 11222.1
+  waypoint:
+    longitude: -61.48436
+    latitude: 15.53637
+  barometer: 1015.31
+  wind:
+    speed: 7.4
+    direction: 103
+  engine:
+    hours: 954.4
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
+    - bernhard
   category: navigation
