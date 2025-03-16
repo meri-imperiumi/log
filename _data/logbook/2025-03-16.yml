@@ -627,3 +627,90 @@
     seaState: 3
     cloudCoverage: 7
     visibility: 8
+- datetime: 2025-03-16T22:00:25.900Z
+  text: ""
+  author: ""
+  position:
+    latitude: 14.9651051
+    longitude: -61.3006333
+    source: GPS
+  heading: 156
+  course: 159
+  speed:
+    stw: 3.7
+    sog: 5
+  log: 11260.8
+  waypoint:
+    longitude: -61.23181
+    latitude: 14.80485
+  barometer: 1015.19
+  wind:
+    speed: 10.3
+    direction: 91
+  engine:
+    hours: 955.4
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
+    - bernhard
+  category: navigation
+- datetime: 2025-03-16T22:19:18.899Z
+  text: |-
+    Sails set: Main, Genoa 1 (30% furled).
+
+    Squall getting closer.
+  author: ihmis-suski
+  position:
+    latitude: 14.9411795
+    longitude: -61.2898995
+    source: GPS
+  heading: 155
+  course: 157
+  speed:
+    stw: 3.4
+    sog: 4.4
+  log: 11262.4
+  waypoint:
+    longitude: -61.23181
+    latitude: 14.80485
+  barometer: 1015.38
+  wind:
+    speed: 12.1
+    direction: 93
+  engine:
+    hours: 955.4
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
+    - bernhard
+  category: navigation
+- datetime: 2025-03-16T22:35:15.897Z
+  text: "Sails set: Main, Genoa 1 (20% furled)"
+  author: ""
+  position:
+    latitude: 14.9219463
+    longitude: -61.2826378
+    source: GPS
+  heading: 159
+  course: 165
+  speed:
+    stw: 4.4
+    sog: 5.7
+  log: 11263.6
+  waypoint:
+    longitude: -61.23181
+    latitude: 14.80485
+  barometer: 1015.45
+  wind:
+    speed: 10.7
+    direction: 80
+  engine:
+    hours: 955.4
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
+    - bernhard
+  category: navigation
