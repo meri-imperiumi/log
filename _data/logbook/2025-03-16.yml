@@ -282,3 +282,204 @@
     seaState: 0
     cloudCoverage: 2
     visibility: 8
+- datetime: 2025-03-16T18:00:34.297Z
+  text: "Bergie on watch "
+  author: bergie
+  position:
+    latitude: 15.2154923
+    longitude: -61.3845628
+    source: GPS
+  heading: 187
+  course: 173
+  speed:
+    stw: 0.3
+    sog: 1
+  log: 11244.9
+  waypoint:
+    longitude: -61.38081
+    latitude: 15.19845
+  barometer: 1015.22
+  wind:
+    speed: 4.3
+    direction: 332
+  engine:
+    hours: 955.1
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
+    - bernhard
+  category: navigation
+  observations:
+    seaState: 2
+    cloudCoverage: 3
+    visibility: 8
+- datetime: 2025-03-16T18:28:00.396Z
+  text: Autopilot deactivated
+  author: ""
+  position:
+    latitude: 15.2108489
+    longitude: -61.3861413
+    source: GPS
+  heading: 195
+  course: 260
+  speed:
+    stw: 0
+    sog: 0.3
+  log: 11245.3
+  waypoint:
+    longitude: -61.38081
+    latitude: 15.19845
+  barometer: 1014.98
+  wind:
+    speed: 1.2
+    direction: 15
+  engine:
+    hours: 955.1
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
+    - bernhard
+  category: navigation
+- datetime: 2025-03-16T18:37:35.398Z
+  text: Stopped watermaker, 272ppm
+  author: bergie
+  position:
+    latitude: 15.2103726
+    longitude: -61.3868504
+    source: GPS
+  heading: 141
+  course: 212
+  speed:
+    stw: 0
+    sog: 0.3
+  log: 11245.3
+  waypoint:
+    longitude: -61.38081
+    latitude: 15.19845
+  barometer: 1014.89
+  wind:
+    speed: 3
+    direction: 320
+  engine:
+    hours: 955.1
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
+    - bernhard
+  category: maintenance
+- datetime: 2025-03-16T18:38:27.398Z
+  text: Sails down, motoring
+  author: bergie
+  position:
+    latitude: 15.2103241
+    longitude: -61.3869099
+    source: GPS
+  heading: 137
+  course: 293
+  speed:
+    stw: 0
+    sog: 0.4
+  log: 11245.3
+  waypoint:
+    longitude: -61.38081
+    latitude: 15.19845
+  barometer: 1014.91
+  wind:
+    speed: 2
+    direction: 334
+  engine:
+    hours: 955.1
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
+    - bernhard
+  category: navigation
+- datetime: 2025-03-16T18:39:34.400Z
+  text: Autopilot activated
+  author: bergie
+  position:
+    latitude: 15.2096876
+    longitude: -61.3864568
+    source: GPS
+  heading: 140
+  course: 144
+  speed:
+    stw: 3.3
+    sog: 4.2
+  log: 11245.3
+  waypoint:
+    longitude: -61.38081
+    latitude: 15.19845
+  barometer: 1014.88
+  wind:
+    speed: 2.6
+    direction: 151
+  engine:
+    hours: 955.2
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
+    - bernhard
+  category: navigation
+- datetime: 2025-03-16T18:50:34.400Z
+  text: Mayday relay North Martinique St. Marie Tombolo, cannot reach the shore.
+    33NM SE of us
+  author: bergie
+  position:
+    latitude: 15.1976181
+    longitude: -61.3833626
+    source: GPS
+  heading: 162
+  course: 163
+  speed:
+    stw: 3.6
+    sog: 3.7
+  log: 11246
+  waypoint:
+    longitude: -61.23181
+    latitude: 14.80485
+  barometer: 1014.81
+  wind:
+    speed: 1.9
+    direction: 146
+  engine:
+    hours: 955.3
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
+    - bernhard
+  category: radio
+- datetime: 2025-03-16T18:52:30.400Z
+  text: Motor stopped, sailing with Main, Genoa 1
+  author: ""
+  position:
+    latitude: 15.1956438
+    longitude: -61.3828861
+    source: GPS
+  heading: 161
+  course: 164
+  speed:
+    stw: 2.9
+    sog: 2.8
+  log: 11246.1
+  waypoint:
+    longitude: -61.23181
+    latitude: 14.80485
+  barometer: 1014.82
+  wind:
+    speed: 8
+    direction: 106
+  engine:
+    hours: 955.4
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
+    - bernhard
+  category: navigation
