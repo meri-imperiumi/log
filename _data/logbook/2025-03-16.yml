@@ -194,3 +194,59 @@
     - bergie
     - bernhard
   category: maintenance
+- datetime: 2025-03-16T16:00:33.203Z
+  text: ""
+  author: ""
+  position:
+    latitude: 15.2492631
+    longitude: -61.3918941
+    source: GPS
+  heading: 174
+  course: 145
+  speed:
+    stw: 0.2
+    sog: 1.2
+  log: 11242.9
+  waypoint:
+    longitude: -61.38081
+    latitude: 15.19845
+  barometer: 1016.37
+  wind:
+    speed: 3.5
+    direction: 274
+  engine:
+    hours: 955.1
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
+    - bernhard
+  category: navigation
+- datetime: 2025-03-16T16:52:33.299Z
+  text: Watermaker 292ppm
+  author: bergie
+  position:
+    latitude: 15.230103
+    longitude: -61.3869938
+    source: GPS
+  heading: 175
+  course: 162
+  speed:
+    stw: 0
+    sog: 1.2
+  log: 11244
+  waypoint:
+    longitude: -61.38081
+    latitude: 15.19845
+  barometer: 1015.84
+  wind:
+    speed: 4.4
+    direction: 309
+  engine:
+    hours: 955.1
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
+    - bernhard
+  category: maintenance
