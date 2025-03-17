@@ -394,3 +394,171 @@
     - bergie
     - bernhard
   category: navigation
+- datetime: 2025-03-17T08:00:31.500Z
+  text: ""
+  author: ""
+  position:
+    latitude: 14.4768856
+    longitude: -61.1007028
+    source: GPS
+  heading: 133
+  course: 142
+  speed:
+    stw: 1.4
+    sog: 2.8
+  log: 11292.7
+  waypoint:
+    longitude: -61.08529
+    latitude: 14.46929
+  barometer: 1014.74
+  wind:
+    speed: 6.3
+    direction: 26
+  engine:
+    hours: 956
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
+    - bernhard
+  category: navigation
+- datetime: 2025-03-17T08:07:10.499Z
+  text: Autopilot activated
+  author: ""
+  position:
+    latitude: 14.4723085
+    longitude: -61.0970698
+    source: GPS
+  heading: 137
+  course: 137
+  speed:
+    stw: 0.7
+    sog: 2
+  log: 11293.1
+  waypoint:
+    longitude: -61.08529
+    latitude: 14.46929
+  barometer: 1014.73
+  wind:
+    speed: 3.9
+    direction: 52
+  engine:
+    hours: 956
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
+    - bernhard
+  category: navigation
+- datetime: 2025-03-17T08:17:46.499Z
+  text: Autopilot deactivated
+  author: ""
+  position:
+    latitude: 14.4660591
+    longitude: -61.0928571
+    source: GPS
+  heading: 157
+  course: 169
+  speed:
+    stw: 0
+    sog: 1.4
+  log: 11293.6
+  waypoint:
+    longitude: -61.08529
+    latitude: 14.46929
+  barometer: 1014.79
+  wind:
+    speed: 5.3
+    direction: 27
+  engine:
+    hours: 956
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
+    - bernhard
+  category: navigation
+- datetime: 2025-03-17T08:17:47.500Z
+  text: Autopilot activated
+  author: ""
+  position:
+    latitude: 14.466053
+    longitude: -61.0928565
+    source: GPS
+  heading: 158
+  course: 173
+  speed:
+    stw: 0
+    sog: 1.4
+  log: 11293.6
+  waypoint:
+    longitude: -61.08529
+    latitude: 14.46929
+  barometer: 1014.79
+  wind:
+    speed: 5.7
+    direction: 21
+  engine:
+    hours: 956
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
+    - bernhard
+  category: navigation
+- datetime: 2025-03-17T08:23:58.499Z
+  text: Sails down, motoring
+  author: ""
+  position:
+    latitude: 14.4637639
+    longitude: -61.0921171
+    source: GPS
+  heading: 153
+  course: 161
+  speed:
+    stw: 0
+    sog: 1.4
+  log: 11293.7
+  waypoint:
+    longitude: -61.08475
+    latitude: 14.46846
+  barometer: 1014.8
+  wind:
+    speed: 2.9
+    direction: 24
+  engine:
+    hours: 956
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
+    - bernhard
+  category: navigation
+- datetime: 2025-03-17T08:33:58.499Z
+  text: Motor stopped, sailing with Main, Genoa 1
+  author: ""
+  position:
+    latitude: 14.4540911
+    longitude: -61.0817993
+    source: GPS
+  heading: 126
+  course: 119
+  speed:
+    stw: 3
+    sog: 4
+  log: 11294.5
+  waypoint:
+    longitude: -61.07261
+    latitude: 14.45859
+  barometer: 1014.87
+  wind:
+    speed: 9.4
+    direction: 49
+  engine:
+    hours: 956.2
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
+    - bernhard
+  category: navigation
