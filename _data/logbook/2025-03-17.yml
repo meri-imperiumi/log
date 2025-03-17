@@ -1,6 +1,6 @@
 - datetime: 2025-03-17T00:00:26.900Z
-  text: ""
-  author: ""
+  text: Bernhard on watch
+  author: bergie
   position:
     latitude: 14.8138266
     longitude: -61.2431803
@@ -53,3 +53,32 @@
     - ihmis-suski
     - bergie
     - bernhard
+  category: navigation
+- datetime: 2025-03-17T02:00:28.000Z
+  text: ""
+  author: ""
+  position:
+    latitude: 14.7718505
+    longitude: -61.2300389
+    source: GPS
+  heading: 179
+  course: 168
+  speed:
+    stw: 0
+    sog: 0.6
+  log: 11273.2
+  waypoint:
+    longitude: -61.18729
+    latitude: 14.69986
+  barometer: 1016.53
+  wind:
+    speed: 2.3
+    direction: 48
+  engine:
+    hours: 955.4
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
+    - bernhard
+  category: navigation
