@@ -338,3 +338,59 @@
     - bergie
     - bernhard
   category: navigation
+- datetime: 2025-03-17T07:00:30.499Z
+  text: ""
+  author: ""
+  position:
+    latitude: 14.5284929
+    longitude: -61.1336748
+    source: GPS
+  heading: 141
+  course: 140
+  speed:
+    stw: 4.4
+    sog: 5.1
+  log: 11289.1
+  waypoint:
+    longitude: -61.10314
+    latitude: 14.50673
+  barometer: 1014.9
+  wind:
+    speed: 11.9
+    direction: 90
+  engine:
+    hours: 956
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
+    - bernhard
+  category: navigation
+- datetime: 2025-03-17T07:32:36.499Z
+  text: Autopilot deactivated
+  author: ""
+  position:
+    latitude: 14.492687
+    longitude: -61.1094778
+    source: GPS
+  heading: 175
+  course: 170
+  speed:
+    stw: 1
+    sog: 2.3
+  log: 11291.7
+  waypoint:
+    longitude: -61.08529
+    latitude: 14.46929
+  barometer: 1014.75
+  wind:
+    speed: 4.3
+    direction: 118
+  engine:
+    hours: 956
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
+    - bernhard
+  category: navigation
