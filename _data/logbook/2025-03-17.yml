@@ -82,3 +82,35 @@
     - bergie
     - bernhard
   category: navigation
+- datetime: 2025-03-17T03:00:28.000Z
+  text: Bergie on watch, finally out of Mt. Pelée's shadow. Abeam St. Pierre
+  author: bergie
+  position:
+    latitude: 14.7418918
+    longitude: -61.2221014
+    source: GPS
+  heading: 150
+  course: 162
+  speed:
+    stw: 2.5
+    sog: 3.2
+  log: 11275
+  waypoint:
+    longitude: -61.18729
+    latitude: 14.69986
+  barometer: 1016.42
+  wind:
+    speed: 7.5
+    direction: 78
+  engine:
+    hours: 955.4
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
+    - bernhard
+  category: navigation
+  observations:
+    seaState: 2
+    cloudCoverage: 3
+    visibility: 7
