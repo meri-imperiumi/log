@@ -114,3 +114,87 @@
     seaState: 2
     cloudCoverage: 3
     visibility: 7
+- datetime: 2025-03-17T04:00:28.000Z
+  text: ""
+  author: ""
+  position:
+    latitude: 14.6804628
+    longitude: -61.2008613
+    source: GPS
+  heading: 150
+  course: 156
+  speed:
+    stw: 2.5
+    sog: 4.1
+  log: 11278.9
+  waypoint:
+    longitude: -61.10314
+    latitude: 14.50673
+  barometer: 1016.17
+  wind:
+    speed: 7
+    direction: 47
+  engine:
+    hours: 955.4
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
+    - bernhard
+  category: navigation
+- datetime: 2025-03-17T04:26:47.000Z
+  text: Autopilot deactivated
+  author: ""
+  position:
+    latitude: 14.6663916
+    longitude: -61.199315
+    source: GPS
+  heading: 194
+  course: 203
+  speed:
+    stw: 0
+    sog: 1.2
+  log: 11279.8
+  waypoint:
+    longitude: -61.10314
+    latitude: 14.50673
+  barometer: 1015.94
+  wind:
+    speed: 3.1
+    direction: 85
+  engine:
+    hours: 955.4
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
+    - bernhard
+  category: navigation
+- datetime: 2025-03-17T04:36:10.000Z
+  text: Autopilot activated
+  author: ""
+  position:
+    latitude: 14.6617178
+    longitude: -61.1996308
+    source: GPS
+  heading: 158
+  course: 163
+  speed:
+    stw: 1.6
+    sog: 2.7
+  log: 11280.1
+  waypoint:
+    longitude: -61.10314
+    latitude: 14.50673
+  barometer: 1015.91
+  wind:
+    speed: 4
+    direction: 97
+  engine:
+    hours: 955.4
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
+    - bernhard
+  category: navigation
