@@ -198,3 +198,115 @@
     - bergie
     - bernhard
   category: navigation
+- datetime: 2025-03-17T05:00:30.000Z
+  text: ""
+  author: ""
+  position:
+    latitude: 14.648829
+    longitude: -61.1967088
+    source: GPS
+  heading: 178
+  course: 185
+  speed:
+    stw: 0
+    sog: 1.2
+  log: 11280.9
+  waypoint:
+    longitude: -61.10314
+    latitude: 14.50673
+  barometer: 1015.64
+  wind:
+    speed: 2.6
+    direction: 121
+  engine:
+    hours: 955.4
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
+    - bernhard
+  category: navigation
+- datetime: 2025-03-17T05:03:40.000Z
+  text: Sails down, motoring
+  author: ""
+  position:
+    latitude: 14.6480413
+    longitude: -61.1969928
+    source: GPS
+  heading: 186
+  course: 213
+  speed:
+    stw: 0
+    sog: 0.8
+  log: 11280.9
+  waypoint:
+    longitude: -61.10314
+    latitude: 14.50673
+  barometer: 1015.61
+  wind:
+    speed: 0.7
+    direction: 163
+  engine:
+    hours: 955.4
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
+    - bernhard
+  category: navigation
+- datetime: 2025-03-17T05:44:03.100Z
+  text: Motor stopped, sailing with Main, Genoa 1
+  author: ""
+  position:
+    latitude: 14.6009866
+    longitude: -61.176174
+    source: GPS
+  heading: 148
+  course: 162
+  speed:
+    stw: 1.4
+    sog: 2.1
+  log: 11284
+  waypoint:
+    longitude: -61.10314
+    latitude: 14.50673
+  barometer: 1015.34
+  wind:
+    speed: 5.1
+    direction: 80
+  engine:
+    hours: 956
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
+    - bernhard
+  category: navigation
+- datetime: 2025-03-17T05:47:30.099Z
+  text: Green nav light is out
+  author: bergie
+  position:
+    latitude: 14.5991051
+    longitude: -61.1755646
+    source: GPS
+  heading: 154
+  course: 163
+  speed:
+    stw: 1
+    sog: 1.9
+  log: 11284.1
+  waypoint:
+    longitude: -61.10314
+    latitude: 14.50673
+  barometer: 1015.29
+  wind:
+    speed: 4.6
+    direction: 102
+  engine:
+    hours: 956
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
+    - bernhard
+  category: maintenance
