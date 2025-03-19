@@ -23,7 +23,8 @@
     - bergie
   category: maintenance
 - datetime: 2025-03-19T14:29:28.899Z
-  text: Re-crimped the MC4 connectors for the bow solar panel, and now it works again
+  text: "Re-crimped the MC4 connectors for the bow solar panel, and now it works
+    again. Negative wire was hanging on just with couple strands "
   author: bergie
   position:
     latitude: 14.4358469
@@ -62,6 +63,30 @@
   wind:
     speed: 7.5
     direction: 133
+  engine:
+    hours: 957
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: maintenance
+- datetime: 2025-03-19T17:41:34.003Z
+  text: Rewired starboard nav light, had corroded through (both doom locker and on
+    deck)
+  author: bergie
+  position:
+    latitude: 14.4358761
+    longitude: -60.8854763
+    source: GPS
+  heading: 140
+  course: 77
+  speed:
+    stw: 0
+    sog: 0
+  log: 11306.7
+  barometer: 1013.99
+  wind:
+    speed: 10.1
+    direction: 141
   engine:
     hours: 957
   crewNames:
