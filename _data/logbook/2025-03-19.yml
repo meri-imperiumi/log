@@ -93,3 +93,49 @@
     - ihmis-suski
     - bergie
   category: maintenance
+- datetime: 2025-03-19T18:10:32.998Z
+  text: Watermaker 271ppm. Jug full.
+  author: ihmis-suski
+  position:
+    latitude: 14.4358784
+    longitude: -60.8854511
+    source: GPS
+  heading: 142
+  course: 82
+  speed:
+    stw: 0
+    sog: 0.3
+  log: 11306.7
+  barometer: 1013.72
+  wind:
+    speed: 8.8
+    direction: 135
+  engine:
+    hours: 957
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: maintenance
+- datetime: 2025-03-19T18:24:33.996Z
+  text: Installed fixed 12V Caframo fan to port side v-berth
+  author: bergie
+  position:
+    latitude: 14.4358573
+    longitude: -60.8854155
+    source: GPS
+  heading: 173
+  course: 265
+  speed:
+    stw: 0
+    sog: 0.2
+  log: 11306.7
+  barometer: 1013.62
+  wind:
+    speed: 8.2
+    direction: 156
+  engine:
+    hours: 957
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: maintenance
