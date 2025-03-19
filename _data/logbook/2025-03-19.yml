@@ -1,0 +1,47 @@
+- datetime: 2025-03-19T14:23:28.899Z
+  text: Started watermaker, 286ppm. New pump bolt to replace the sheared one and
+    new o-ring
+  author: bergie
+  position:
+    latitude: 14.4358528
+    longitude: -60.8854389
+    source: GPS
+  heading: 170
+  course: 58
+  speed:
+    stw: 0
+    sog: 0
+  log: 11306.7
+  barometer: 1016.39
+  wind:
+    speed: 5.6
+    direction: 137
+  engine:
+    hours: 957
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: maintenance
+- datetime: 2025-03-19T14:29:28.899Z
+  text: Re-crimped the MC4 connectors for the bow solar panel, and now it works again
+  author: bergie
+  position:
+    latitude: 14.4358469
+    longitude: -60.8854693
+    source: GPS
+  heading: 157
+  course: 267
+  speed:
+    stw: 0
+    sog: 0
+  log: 11306.7
+  barometer: 1016.28
+  wind:
+    speed: 9
+    direction: 142
+  engine:
+    hours: 957
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: maintenance
