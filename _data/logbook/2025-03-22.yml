@@ -218,3 +218,57 @@
     cloudCoverage: 7
     seaState: 3
     visibility: 7
+- datetime: 2025-03-22T16:00:51.596Z
+  text: ""
+  author: ""
+  position:
+    latitude: 14.2345929
+    longitude: -60.9371681
+    source: GPS
+  heading: 194
+  course: 193
+  speed:
+    stw: 0
+    sog: 6.7
+  log: 11319.6
+  waypoint:
+    longitude: -60.962
+    latitude: 14.1955
+  barometer: 1019.1
+  wind:
+    speed: 19.1
+    direction: 96
+  engine:
+    hours: 957.3
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: navigation
+- datetime: 2025-03-22T16:19:51.603Z
+  text: Stopped watermaker, 293ppm. Jug full.
+  author: ihmis-suski
+  position:
+    latitude: 14.2049145
+    longitude: -60.9473578
+    source: GPS
+  heading: 184
+  course: 190
+  speed:
+    stw: 0
+    sog: 5.8
+  log: 11321.5
+  waypoint:
+    longitude: -60.962
+    latitude: 14.1955
+  barometer: 1018.93
+  wind:
+    speed: 19.3
+    direction: 105
+  engine:
+    hours: 957.3
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: maintenance
