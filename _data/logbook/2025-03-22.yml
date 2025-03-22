@@ -106,3 +106,84 @@
     - ihmis-suski
     - bergie
   category: navigation
+- datetime: 2025-03-22T14:00:49.200Z
+  text: ""
+  author: ""
+  position:
+    latitude: 14.3985505
+    longitude: -60.9031274
+    source: GPS
+  heading: 182
+  course: 177
+  speed:
+    stw: 0
+    sog: 4.6
+  log: 11309.5
+  waypoint:
+    longitude: -60.92525
+    latitude: 14.34283
+  barometer: 1020.22
+  wind:
+    speed: 14.2
+    direction: 89
+  engine:
+    hours: 957.3
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: navigation
+- datetime: 2025-03-22T14:25:49.500Z
+  text: "Started watermaker "
+  author: bergie
+  position:
+    latitude: 14.3654934
+    longitude: -60.9058118
+    source: GPS
+  heading: 177
+  course: 196
+  speed:
+    stw: 0
+    sog: 5
+  log: 11311.5
+  waypoint:
+    longitude: -60.92525
+    latitude: 14.34283
+  barometer: 1020.25
+  wind:
+    speed: 14.9
+    direction: 80
+  engine:
+    hours: 957.3
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: maintenance
+- datetime: 2025-03-22T14:39:51.600Z
+  text: Watermaker 347ppm
+  author: bergie
+  position:
+    latitude: 14.3457081
+    longitude: -60.908557
+    source: GPS
+  heading: 195
+  course: 184
+  speed:
+    stw: 0
+    sog: 5.2
+  log: 11312.7
+  waypoint:
+    longitude: -60.92525
+    latitude: 14.34283
+  barometer: 1020.17
+  wind:
+    speed: 17.8
+    direction: 93
+  engine:
+    hours: 957.3
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: maintenance
