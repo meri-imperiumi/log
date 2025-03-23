@@ -1,0 +1,25 @@
+- datetime: 2025-03-23T14:10:20.601Z
+  text: Starlink DC-DC converter appears broken. It blinks low voltage but I
+    measure 13.5V at the terminals. For the moment we can run Starlink with the
+    inverter using its own base station
+  author: bergie
+  position:
+    latitude: 14.0822951
+    longitude: -60.9569318
+    source: GPS
+  heading: 71
+  course: 136
+  speed:
+    stw: 0
+    sog: 0.2
+  log: 11329.5
+  barometer: 1018.93
+  wind:
+    speed: 15.1
+    direction: 58
+  engine:
+    hours: 957.8
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: maintenance
