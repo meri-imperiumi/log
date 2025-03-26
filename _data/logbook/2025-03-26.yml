@@ -272,3 +272,111 @@
     - ihmis-suski
     - bergie
   category: maintenance
+- datetime: 2025-03-26T17:00:49.600Z
+  text: ""
+  author: ""
+  position:
+    latitude: 14.0233358
+    longitude: -61.0082599
+    source: GPS
+  heading: 220
+  course: 213
+  speed:
+    stw: 3.3
+    sog: 5.3
+  log: 11335.4
+  waypoint:
+    longitude: -61.01556
+    latitude: 14.01041
+  barometer: 1016.9
+  wind:
+    speed: 19.1
+    direction: 86
+  engine:
+    hours: 958.5
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: navigation
+- datetime: 2025-03-26T17:37:54.598Z
+  text: "Sails set: Main (1st reef), Genoa 1"
+  author: ""
+  position:
+    latitude: 13.9813963
+    longitude: -61.0307083
+    source: GPS
+  heading: 189
+  course: 192
+  speed:
+    stw: 2.2
+    sog: 3.5
+  log: 11338.2
+  waypoint:
+    longitude: -61.03223
+    latitude: 13.97134
+  barometer: 1016.19
+  wind:
+    speed: 8
+    direction: 135
+  engine:
+    hours: 958.5
+  vhf: "12"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: navigation
+- datetime: 2025-03-26T17:38:48.601Z
+  text: Stopped watermaker, 267ppm
+  author: bergie
+  position:
+    latitude: 13.9805124
+    longitude: -61.0308491
+    source: GPS
+  heading: 188
+  course: 196
+  speed:
+    stw: 2
+    sog: 3.5
+  log: 11338.3
+  waypoint:
+    longitude: -61.03223
+    latitude: 13.97134
+  barometer: 1016.17
+  wind:
+    speed: 11.7
+    direction: 130
+  engine:
+    hours: 958.5
+  vhf: "12"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: maintenance
+- datetime: 2025-03-26T17:43:54.598Z
+  text: Sails down, motoring
+  author: ""
+  position:
+    latitude: 13.9748431
+    longitude: -61.0316526
+    source: GPS
+  heading: 167
+  course: 174
+  speed:
+    stw: 1.6
+    sog: 2.7
+  log: 11338.6
+  waypoint:
+    longitude: -61.03223
+    latitude: 13.97134
+  barometer: 1016.19
+  wind:
+    speed: 12.7
+    direction: 81
+  engine:
+    hours: 958.5
+  vhf: "12"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: navigation
