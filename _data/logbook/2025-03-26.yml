@@ -22,58 +22,9 @@
     - ihmis-suski
     - bergie
   category: navigation
-- datetime: 2025-03-26T15:13:47.200Z
-  text: Anchor up, motoring
-  author: ""
-  position:
-    latitude: 14.0823643
-    longitude: -60.9567316
-    source: GPS
-  heading: 63
-  course: 28
-  speed:
-    stw: 0
-    sog: 0.3
-  log: 11329.5
-  barometer: 1017.96
-  wind:
-    speed: 16.2
-    direction: 83
-  engine:
-    hours: 957.8
-  vhf: "16"
-  crewNames:
-    - ihmis-suski
-    - bergie
-  category: navigation
-- datetime: 2025-03-26T15:14:43.200Z
-  text: Stopped
-  author: ""
-  position:
-    latitude: 14.0825771
-    longitude: -60.9566628
-    source: GPS
-  heading: 73
-  course: 63
-  speed:
-    stw: 0
-    sog: 1.3
-  log: 11329.5
-  barometer: 1017.9
-  wind:
-    speed: 11.2
-    direction: 88
-  engine:
-    hours: 957.9
-  vhf: "16"
-  crewNames:
-    - ihmis-suski
-    - bergie
-  end: true
-  category: navigation
 - datetime: 2025-03-26T15:17:42.201Z
-  text: Motoring
-  author: ""
+  text: Anchor up, motoring
+  author: bergie
   position:
     latitude: 14.0806298
     longitude: -60.9567586
@@ -192,3 +143,132 @@
     - ihmis-suski
     - bergie
   category: navigation
+- datetime: 2025-03-26T16:00:44.198Z
+  text: ""
+  author: ""
+  position:
+    latitude: 14.0781545
+    longitude: -60.9612753
+    source: GPS
+  heading: 252
+  course: 249
+  speed:
+    stw: 0
+    sog: 3.4
+  log: 11330.9
+  barometer: 1017.59
+  wind:
+    speed: 16.3
+    direction: 66
+  engine:
+    hours: 958.4
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: navigation
+- datetime: 2025-03-26T16:04:37.196Z
+  text: Motor stopped, sailing with Main (1st reef)
+  author: bergie
+  position:
+    latitude: 14.078373
+    longitude: -60.9625131
+    source: GPS
+  heading: 228
+  course: 233
+  speed:
+    stw: 0
+    sog: 4.2
+  log: 11331.1
+  barometer: 1017.68
+  wind:
+    speed: 24
+    direction: 102
+  engine:
+    hours: 958.5
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: navigation
+- datetime: 2025-03-26T16:15:46.201Z
+  text: "Started watermaker "
+  author: bergie
+  position:
+    latitude: 14.0702926
+    longitude: -60.9746226
+    source: GPS
+  heading: 217
+  course: 214
+  speed:
+    stw: 0
+    sog: 4.8
+  log: 11331.9
+  waypoint:
+    longitude: -60.97649
+    latitude: 14.06813
+  barometer: 1017.5
+  wind:
+    speed: 23.7
+    direction: 81
+  engine:
+    hours: 958.5
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: maintenance
+- datetime: 2025-03-26T16:24:57.203Z
+  text: "Sails set: Main (1st reef), Genoa 1 (40% furled)"
+  author: ""
+  position:
+    latitude: 14.0638859
+    longitude: -60.9801778
+    source: GPS
+  heading: 213
+  course: 220
+  speed:
+    stw: 0
+    sog: 4.3
+  log: 11332.4
+  waypoint:
+    longitude: -61.00618
+    latitude: 14.02459
+  barometer: 1017.31
+  wind:
+    speed: 15.1
+    direction: 107
+  engine:
+    hours: 958.5
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: navigation
+- datetime: 2025-03-26T16:29:47.200Z
+  text: Watermaker 338ppm
+  author: bergie
+  position:
+    latitude: 14.058978335062664
+    longitude: -60.98375651041666
+    source: GPS
+  heading: 209
+  course: 214
+  speed:
+    stw: 0
+    sog: 5.8
+  log: 11332.8
+  waypoint:
+    longitude: -61.00618
+    latitude: 14.02459
+  barometer: 1017.38
+  wind:
+    speed: 19.2
+    direction: 112
+  engine:
+    hours: 958.5
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: maintenance
