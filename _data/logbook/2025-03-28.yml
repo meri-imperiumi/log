@@ -635,3 +635,84 @@
     - ihmis-suski
     - bergie
   category: navigation
+- datetime: 2025-03-28T15:00:36.300Z
+  text: ""
+  author: ""
+  position:
+    latitude: 13.5079353
+    longitude: -61.2245988
+    source: GPS
+  heading: 152
+  course: 139
+  speed:
+    stw: 0
+    sog: 3.7
+  log: 11372.3
+  waypoint:
+    longitude: -61.32407
+    latitude: 13.2746
+  barometer: 1017.17
+  wind:
+    speed: 16.9
+    direction: 54
+  engine:
+    hours: 961.7
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: navigation
+- datetime: 2025-03-28T15:38:36.300Z
+  text: Dolphin!
+  author: ihmis-suski
+  position:
+    latitude: 13.4684861
+    longitude: -61.2272179
+    source: GPS
+  heading: 162
+  course: 172
+  speed:
+    stw: 0
+    sog: 3.9
+  log: 11374.7
+  waypoint:
+    longitude: -61.32407
+    latitude: 13.2746
+  barometer: 1016.5
+  wind:
+    speed: 11.2
+    direction: 79
+  engine:
+    hours: 961.7
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: navigation
+- datetime: 2025-03-28T15:42:48.300Z
+  text: "Sails set: Main (1st reef), Genoa 1 (60% furled). Squall approaching. "
+  author: ihmis-suski
+  position:
+    latitude: 13.4648999
+    longitude: -61.226418
+    source: GPS
+  heading: 166
+  course: 176
+  speed:
+    stw: 0
+    sog: 2.8
+  log: 11374.9
+  waypoint:
+    longitude: -61.32407
+    latitude: 13.2746
+  barometer: 1016.47
+  wind:
+    speed: 10.9
+    direction: 69
+  engine:
+    hours: 961.7
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: navigation
