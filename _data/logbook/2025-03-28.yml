@@ -80,3 +80,58 @@
     - ihmis-suski
     - bergie
   category: navigation
+- datetime: 2025-03-28T08:00:20.800Z
+  text: ""
+  author: ""
+  position:
+    latitude: 13.8315516
+    longitude: -61.0783443
+    source: GPS
+  heading: 214
+  course: 207
+  speed:
+    stw: 3.1
+    sog: 4.6
+  log: 11350.4
+  waypoint:
+    longitude: -61.32407
+    latitude: 13.2746
+  barometer: 1013.7
+  wind:
+    speed: 2.6
+    direction: 195
+  engine:
+    hours: 960.2
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: navigation
+- datetime: 2025-03-28T08:32:21.798Z
+  text: Quite uncomfortable confused sea state in the lee of the Pitons
+  author: bergie
+  position:
+    latitude: 13.7982811
+    longitude: -61.0956629
+    source: GPS
+  heading: 199
+  course: 193
+  speed:
+    stw: 2.2
+    sog: 3.7
+  log: 11352.7
+  waypoint:
+    longitude: -61.32407
+    latitude: 13.2746
+  barometer: 1013.96
+  wind:
+    speed: 3.7
+    direction: 146
+  engine:
+    hours: 960.7
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: navigation
+  observations:
+    seaState: 4
