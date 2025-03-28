@@ -135,3 +135,90 @@
   category: navigation
   observations:
     seaState: 4
+- datetime: 2025-03-28T09:00:22.800Z
+  text: Seas are more comfortable now, but quite a bit of current against us
+  author: bergie
+  position:
+    latitude: 13.7769236
+    longitude: -61.1039658
+    source: GPS
+  heading: 180
+  course: 195
+  speed:
+    stw: 2.8
+    sog: 1.9
+  log: 11354.1
+  waypoint:
+    longitude: -61.32407
+    latitude: 13.2746
+  barometer: 1014.11
+  wind:
+    speed: 5.3
+    direction: 85
+  engine:
+    hours: 961.2
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: navigation
+  observations:
+    seaState: 3
+- datetime: 2025-03-28T09:29:40.800Z
+  text: Motor stopped, sailing with Main (1st reef), Staysail
+  author: ""
+  position:
+    latitude: 13.7567891
+    longitude: -61.1129811
+    source: GPS
+  heading: 176
+  course: 188
+  speed:
+    stw: 1.7
+    sog: 1.4
+  log: 11355.4
+  waypoint:
+    longitude: -61.32407
+    latitude: 13.2746
+  barometer: 1014.37
+  wind:
+    speed: 12.2
+    direction: 35
+  engine:
+    hours: 961.7
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: navigation
+- datetime: 2025-03-28T09:56:23.801Z
+  text: Suski on watch
+  author: ihmis-suski
+  position:
+    latitude: 13.7399271
+    longitude: -61.1216558
+    source: GPS
+  heading: 172
+  course: 185
+  speed:
+    stw: 3
+    sog: 2.1
+  log: 11356.6
+  waypoint:
+    longitude: -61.32407
+    latitude: 13.2746
+  barometer: 1015.03
+  wind:
+    speed: 14.2
+    direction: 79
+  engine:
+    hours: 961.7
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: navigation
+  observations:
+    seaState: 4
+    cloudCoverage: 6
+    visibility: 7
