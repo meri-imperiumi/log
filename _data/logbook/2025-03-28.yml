@@ -581,3 +581,57 @@
     seaState: 4
     cloudCoverage: 8
     visibility: 6
+- datetime: 2025-03-28T14:00:32.899Z
+  text: Suski on watch
+  author: ihmis-suski
+  position:
+    latitude: 13.5463543
+    longitude: -61.2203371
+    source: GPS
+  heading: 196
+  course: 208
+  speed:
+    stw: 0
+    sog: 1.9
+  log: 11369.8
+  waypoint:
+    longitude: -61.32407
+    latitude: 13.2746
+  barometer: 1017.02
+  wind:
+    speed: 9.8
+    direction: 106
+  engine:
+    hours: 961.7
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: navigation
+- datetime: 2025-03-28T14:16:23.299Z
+  text: "Sails set: Main (1st reef), Genoa 1"
+  author: ""
+  position:
+    latitude: 13.5418296
+    longitude: -61.2251518
+    source: GPS
+  heading: 185
+  course: 211
+  speed:
+    stw: 0
+    sog: 3.2
+  log: 11370.2
+  waypoint:
+    longitude: -61.32407
+    latitude: 13.2746
+  barometer: 1017.12
+  wind:
+    speed: 12.8
+    direction: 111
+  engine:
+    hours: 961.7
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: navigation
