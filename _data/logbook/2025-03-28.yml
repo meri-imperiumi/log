@@ -164,3 +164,84 @@
     seaState: 2
     cloudCoverage: 6
     visibility: 7
+- datetime: 2025-03-28T21:00:42.502Z
+  text: ""
+  author: ""
+  position:
+    latitude: 13.1603195
+    longitude: -61.2596413
+    source: GPS
+  heading: 158
+  course: 173
+  speed:
+    stw: 0
+    sog: 3.3
+  log: 11394.5
+  waypoint:
+    longitude: -61.23446
+    latitude: 13.12851
+  barometer: 1013.38
+  wind:
+    speed: 7.6
+    direction: 82
+  engine:
+    hours: 964.5
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: navigation
+- datetime: 2025-03-28T21:32:15.500Z
+  text: Motor stopped, sailing with Main (1st reef), Genoa 1
+  author: ""
+  position:
+    latitude: 13.1367408
+    longitude: -61.2533973
+    source: GPS
+  heading: 161
+  course: 181
+  speed:
+    stw: 0
+    sog: 3.7
+  log: 11396
+  waypoint:
+    longitude: -61.23446
+    latitude: 13.12851
+  barometer: 1013.64
+  wind:
+    speed: 10.1
+    direction: 88
+  engine:
+    hours: 965
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: navigation
+- datetime: 2025-03-28T21:44:21.497Z
+  text: Sails down, motoring
+  author: ""
+  position:
+    latitude: 13.1300283
+    longitude: -61.2545543
+    source: GPS
+  heading: 169
+  course: 270
+  speed:
+    stw: 0
+    sog: 1.3
+  log: 11396.4
+  waypoint:
+    longitude: -61.23446
+    latitude: 13.12851
+  barometer: 1013.65
+  wind:
+    speed: 3.7
+    direction: 64
+  engine:
+    hours: 965
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: navigation
