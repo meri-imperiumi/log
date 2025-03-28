@@ -222,3 +222,192 @@
     seaState: 4
     cloudCoverage: 6
     visibility: 7
+- datetime: 2025-03-28T10:00:23.801Z
+  text: ""
+  author: ""
+  position:
+    latitude: 13.7369885
+    longitude: -61.1225833
+    source: GPS
+  heading: 174
+  course: 205
+  speed:
+    stw: 2.8
+    sog: 2.7
+  log: 11356.7
+  waypoint:
+    longitude: -61.32407
+    latitude: 13.2746
+  barometer: 1015.29
+  wind:
+    speed: 13.6
+    direction: 68
+  engine:
+    hours: 961.7
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: navigation
+- datetime: 2025-03-28T10:15:53.900Z
+  text: Autopilot deactivated
+  author: ""
+  position:
+    latitude: 13.7266606
+    longitude: -61.1264045
+    source: GPS
+  heading: 176
+  course: 189
+  speed:
+    stw: 3.7
+    sog: 3.8
+  log: 11357.4
+  waypoint:
+    longitude: -61.32407
+    latitude: 13.2746
+  barometer: 1015
+  wind:
+    speed: 21.8
+    direction: 114
+  engine:
+    hours: 961.7
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: navigation
+- datetime: 2025-03-28T10:34:11.900Z
+  text: Autopilot activated
+  author: ""
+  position:
+    latitude: 13.7064768
+    longitude: -61.1348566
+    source: GPS
+  heading: 175
+  course: 177
+  speed:
+    stw: 3.9
+    sog: 4.9
+  log: 11358.7
+  waypoint:
+    longitude: -61.32407
+    latitude: 13.2746
+  barometer: 1014.86
+  wind:
+    speed: 25.4
+    direction: 119
+  engine:
+    hours: 961.7
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: navigation
+- datetime: 2025-03-28T10:34:30.899Z
+  text: Autopilot deactivated
+  author: ""
+  position:
+    latitude: 13.7061506
+    longitude: -61.1349448
+    source: GPS
+  heading: 168
+  course: 185
+  speed:
+    stw: 3.7
+    sog: 3
+  log: 11358.7
+  waypoint:
+    longitude: -61.32407
+    latitude: 13.2746
+  barometer: 1014.89
+  wind:
+    speed: 23.8
+    direction: 107
+  engine:
+    hours: 961.7
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: navigation
+- datetime: 2025-03-28T10:50:31.900Z
+  text: Autopilot activated
+  author: ""
+  position:
+    latitude: 13.6904268
+    longitude: -61.1401979
+    source: GPS
+  heading: 194
+  course: 216
+  speed:
+    stw: 3
+    sog: 3.6
+  log: 11359.8
+  waypoint:
+    longitude: -61.32407
+    latitude: 13.2746
+  barometer: 1015.49
+  wind:
+    speed: 23.1
+    direction: 103
+  engine:
+    hours: 961.7
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: navigation
+- datetime: 2025-03-28T10:51:31.900Z
+  text: Autopilot deactivated. Starbuck on.
+  author: ihmis-suski
+  position:
+    latitude: 13.6894851
+    longitude: -61.1408321
+    source: GPS
+  heading: 179
+  course: 193
+  speed:
+    stw: 3.7
+    sog: 4.3
+  log: 11359.8
+  waypoint:
+    longitude: -61.32407
+    latitude: 13.2746
+  barometer: 1015.55
+  wind:
+    speed: 26.8
+    direction: 99
+  engine:
+    hours: 961.7
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: navigation
+- datetime: 2025-03-28T10:57:32.899Z
+  text: "Sails set: Main (2nd reef), Staysail"
+  author: ""
+  position:
+    latitude: 13.6832216
+    longitude: -61.1428428
+    source: GPS
+  heading: 184
+  course: 197
+  speed:
+    stw: 3.2
+    sog: 4.5
+  log: 11360.2
+  waypoint:
+    longitude: -61.32407
+    latitude: 13.2746
+  barometer: 1015.58
+  wind:
+    speed: 25.6
+    direction: 129
+  engine:
+    hours: 961.7
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: navigation
