@@ -358,7 +358,7 @@
     - bergie
   category: navigation
 - datetime: 2025-03-28T10:51:31.900Z
-  text: Autopilot deactivated. Starbuck on.
+  text: "Autopilot deactivated. Windvane steering. "
   author: ihmis-suski
   position:
     latitude: 13.6894851
@@ -437,3 +437,116 @@
   crewNames:
     - ihmis-suski
     - bergie
+  category: navigation
+- datetime: 2025-03-28T12:00:28.899Z
+  text: Bergie on watch
+  author: bergie
+  position:
+    latitude: 13.6208088
+    longitude: -61.1742811
+    source: GPS
+  heading: 183
+  course: 204
+  speed:
+    stw: 2.7
+    sog: 3.1
+  log: 11364.5
+  waypoint:
+    longitude: -61.32407
+    latitude: 13.2746
+  barometer: 1016.55
+  wind:
+    speed: 22.3
+    direction: 137
+  engine:
+    hours: 961.7
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: navigation
+  observations:
+    seaState: 4
+    cloudCoverage: 8
+    visibility: 6
+- datetime: 2025-03-28T12:06:29.900Z
+  text: Out of St. Lucia waters
+  author: bergie
+  position:
+    latitude: 13.6154225
+    longitude: -61.1774675
+    source: GPS
+  heading: 180
+  course: 205
+  speed:
+    stw: 2.9
+    sog: 4.5
+  log: 11364.8
+  waypoint:
+    longitude: -61.32407
+    latitude: 13.2746
+  barometer: 1016.72
+  wind:
+    speed: 21.7
+    direction: 116
+  engine:
+    hours: 961.7
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: navigation
+- datetime: 2025-03-28T12:50:26.899Z
+  text: "Sails set: Main (1st reef), Staysail"
+  author: ""
+  position:
+    latitude: 13.5848486
+    longitude: -61.1929124
+    source: GPS
+  heading: 168
+  course: 209
+  speed:
+    stw: 0
+    sog: 1.6
+  log: 11366.9
+  waypoint:
+    longitude: -61.32407
+    latitude: 13.2746
+  barometer: 1017.11
+  wind:
+    speed: 14.1
+    direction: 103
+  engine:
+    hours: 961.7
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: navigation
+- datetime: 2025-03-28T12:58:31.900Z
+  text: "St. Vincent territorial waters "
+  author: bergie
+  position:
+    latitude: 13.5810471
+    longitude: -61.195404
+    source: GPS
+  heading: 181
+  course: 212
+  speed:
+    stw: 0
+    sog: 3.3
+  log: 11367.2
+  waypoint:
+    longitude: -61.32407
+    latitude: 13.2746
+  barometer: 1016.9
+  wind:
+    speed: 14.2
+    direction: 97
+  engine:
+    hours: 961.7
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: navigation
