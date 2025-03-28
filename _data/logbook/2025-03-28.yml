@@ -774,3 +774,111 @@
     - ihmis-suski
     - bergie
   category: navigation
+- datetime: 2025-03-28T17:00:47.398Z
+  text: ""
+  author: ""
+  position:
+    latitude: 13.377409
+    longitude: -61.2387691
+    source: GPS
+  heading: 198
+  course: 188
+  speed:
+    stw: 0
+    sog: 3.9
+  log: 11380.3
+  waypoint:
+    longitude: -61.32407
+    latitude: 13.2746
+  barometer: 1015.37
+  wind:
+    speed: 17.4
+    direction: 83
+  engine:
+    hours: 961.7
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: navigation
+- datetime: 2025-03-28T17:25:58.400Z
+  text: "Sails set: Main (1st reef), Genoa 1"
+  author: ""
+  position:
+    latitude: 13.3532241
+    longitude: -61.2473873
+    source: GPS
+  heading: 218
+  course: 233
+  speed:
+    stw: 0
+    sog: 1.1
+  log: 11381.9
+  waypoint:
+    longitude: -61.32407
+    latitude: 13.2746
+  barometer: 1014.83
+  wind:
+    speed: 2.8
+    direction: 151
+  engine:
+    hours: 961.7
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: navigation
+- datetime: 2025-03-28T17:33:43.398Z
+  text: Autopilot activated
+  author: ""
+  position:
+    latitude: 13.3537186
+    longitude: -61.250575
+    source: GPS
+  heading: 304
+  course: 358
+  speed:
+    stw: 0
+    sog: 2
+  log: 11382.1
+  waypoint:
+    longitude: -61.32407
+    latitude: 13.2746
+  barometer: 1014.61
+  wind:
+    speed: 4.7
+    direction: 182
+  engine:
+    hours: 961.7
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: navigation
+- datetime: 2025-03-28T17:33:55.398Z
+  text: Sails down, motoring
+  author: ""
+  position:
+    latitude: 13.3538011
+    longitude: -61.2506271
+    source: GPS
+  heading: 311
+  course: 311
+  speed:
+    stw: 0
+    sog: 2.2
+  log: 11382.1
+  waypoint:
+    longitude: -61.32407
+    latitude: 13.2746
+  barometer: 1014.61
+  wind:
+    speed: 6.1
+    direction: 178
+  engine:
+    hours: 961.7
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: navigation
