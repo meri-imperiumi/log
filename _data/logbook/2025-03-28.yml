@@ -1,3 +1,887 @@
+- datetime: 2025-03-28T07:33:47.801Z
+  text: Started main engine
+  author: ""
+  position:
+    latitude: 13.8520271
+    longitude: -61.061085
+    source: GPS
+  heading: 241
+  course: 59
+  speed:
+    stw: 0
+    sog: 0
+  log: 11348.9
+  waypoint:
+    longitude: -61.06592
+    latitude: 13.84616
+  barometer: 1013.64
+  wind:
+    speed: 1.1
+    direction: 93
+  engine:
+    hours: 959.8
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: navigation
+- datetime: 2025-03-28T07:34:10.800Z
+  text: Motoring
+  author: bergie
+  position:
+    latitude: 13.8520324
+    longitude: -61.0610939
+    source: GPS
+  heading: 243
+  course: 305
+  speed:
+    stw: 0
+    sog: 0
+  log: 11348.9
+  waypoint:
+    longitude: -61.06592
+    latitude: 13.84616
+  barometer: 1013.63
+  wind:
+    speed: 1.8
+    direction: 174
+  engine:
+    hours: 959.8
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: navigation
+  observations:
+    cloudCoverage: 6
+    seaState: 3
+    visibility: 7
+- datetime: 2025-03-28T07:43:28.800Z
+  text: Autopilot activated
+  author: ""
+  position:
+    latitude: 13.8485058
+    longitude: -61.0662386
+    source: GPS
+  heading: 228
+  course: 218
+  speed:
+    stw: 2.6
+    sog: 3.9
+  log: 11349.2
+  waypoint:
+    longitude: -61.06592
+    latitude: 13.84616
+  barometer: 1013.66
+  wind:
+    speed: 2.6
+    direction: 200
+  engine:
+    hours: 959.9
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: navigation
+- datetime: 2025-03-28T08:00:20.800Z
+  text: ""
+  author: ""
+  position:
+    latitude: 13.8315516
+    longitude: -61.0783443
+    source: GPS
+  heading: 214
+  course: 207
+  speed:
+    stw: 3.1
+    sog: 4.6
+  log: 11350.4
+  waypoint:
+    longitude: -61.32407
+    latitude: 13.2746
+  barometer: 1013.7
+  wind:
+    speed: 2.6
+    direction: 195
+  engine:
+    hours: 960.2
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: navigation
+- datetime: 2025-03-28T08:32:21.798Z
+  text: Quite uncomfortable confused sea state in the lee of the Pitons
+  author: bergie
+  position:
+    latitude: 13.7982811
+    longitude: -61.0956629
+    source: GPS
+  heading: 199
+  course: 193
+  speed:
+    stw: 2.2
+    sog: 3.7
+  log: 11352.7
+  waypoint:
+    longitude: -61.32407
+    latitude: 13.2746
+  barometer: 1013.96
+  wind:
+    speed: 3.7
+    direction: 146
+  engine:
+    hours: 960.7
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: navigation
+  observations:
+    seaState: 4
+- datetime: 2025-03-28T09:00:22.800Z
+  text: Seas are more comfortable now, but quite a bit of current against us
+  author: bergie
+  position:
+    latitude: 13.7769236
+    longitude: -61.1039658
+    source: GPS
+  heading: 180
+  course: 195
+  speed:
+    stw: 2.8
+    sog: 1.9
+  log: 11354.1
+  waypoint:
+    longitude: -61.32407
+    latitude: 13.2746
+  barometer: 1014.11
+  wind:
+    speed: 5.3
+    direction: 85
+  engine:
+    hours: 961.2
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: navigation
+  observations:
+    seaState: 3
+- datetime: 2025-03-28T09:29:40.800Z
+  text: Motor stopped, sailing with Main (1st reef), Staysail
+  author: ""
+  position:
+    latitude: 13.7567891
+    longitude: -61.1129811
+    source: GPS
+  heading: 176
+  course: 188
+  speed:
+    stw: 1.7
+    sog: 1.4
+  log: 11355.4
+  waypoint:
+    longitude: -61.32407
+    latitude: 13.2746
+  barometer: 1014.37
+  wind:
+    speed: 12.2
+    direction: 35
+  engine:
+    hours: 961.7
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: navigation
+- datetime: 2025-03-28T09:56:23.801Z
+  text: Suski on watch
+  author: ihmis-suski
+  position:
+    latitude: 13.7399271
+    longitude: -61.1216558
+    source: GPS
+  heading: 172
+  course: 185
+  speed:
+    stw: 3
+    sog: 2.1
+  log: 11356.6
+  waypoint:
+    longitude: -61.32407
+    latitude: 13.2746
+  barometer: 1015.03
+  wind:
+    speed: 14.2
+    direction: 79
+  engine:
+    hours: 961.7
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: navigation
+  observations:
+    seaState: 4
+    cloudCoverage: 6
+    visibility: 7
+- datetime: 2025-03-28T10:00:23.801Z
+  text: ""
+  author: ""
+  position:
+    latitude: 13.7369885
+    longitude: -61.1225833
+    source: GPS
+  heading: 174
+  course: 205
+  speed:
+    stw: 2.8
+    sog: 2.7
+  log: 11356.7
+  waypoint:
+    longitude: -61.32407
+    latitude: 13.2746
+  barometer: 1015.29
+  wind:
+    speed: 13.6
+    direction: 68
+  engine:
+    hours: 961.7
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: navigation
+- datetime: 2025-03-28T10:15:53.900Z
+  text: Autopilot deactivated
+  author: ""
+  position:
+    latitude: 13.7266606
+    longitude: -61.1264045
+    source: GPS
+  heading: 176
+  course: 189
+  speed:
+    stw: 3.7
+    sog: 3.8
+  log: 11357.4
+  waypoint:
+    longitude: -61.32407
+    latitude: 13.2746
+  barometer: 1015
+  wind:
+    speed: 21.8
+    direction: 114
+  engine:
+    hours: 961.7
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: navigation
+- datetime: 2025-03-28T10:34:11.900Z
+  text: Autopilot activated
+  author: ""
+  position:
+    latitude: 13.7064768
+    longitude: -61.1348566
+    source: GPS
+  heading: 175
+  course: 177
+  speed:
+    stw: 3.9
+    sog: 4.9
+  log: 11358.7
+  waypoint:
+    longitude: -61.32407
+    latitude: 13.2746
+  barometer: 1014.86
+  wind:
+    speed: 25.4
+    direction: 119
+  engine:
+    hours: 961.7
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: navigation
+- datetime: 2025-03-28T10:34:30.899Z
+  text: Autopilot deactivated
+  author: ""
+  position:
+    latitude: 13.7061506
+    longitude: -61.1349448
+    source: GPS
+  heading: 168
+  course: 185
+  speed:
+    stw: 3.7
+    sog: 3
+  log: 11358.7
+  waypoint:
+    longitude: -61.32407
+    latitude: 13.2746
+  barometer: 1014.89
+  wind:
+    speed: 23.8
+    direction: 107
+  engine:
+    hours: 961.7
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: navigation
+- datetime: 2025-03-28T10:50:31.900Z
+  text: Autopilot activated
+  author: ""
+  position:
+    latitude: 13.6904268
+    longitude: -61.1401979
+    source: GPS
+  heading: 194
+  course: 216
+  speed:
+    stw: 3
+    sog: 3.6
+  log: 11359.8
+  waypoint:
+    longitude: -61.32407
+    latitude: 13.2746
+  barometer: 1015.49
+  wind:
+    speed: 23.1
+    direction: 103
+  engine:
+    hours: 961.7
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: navigation
+- datetime: 2025-03-28T10:51:31.900Z
+  text: "Autopilot deactivated. Windvane steering. "
+  author: ihmis-suski
+  position:
+    latitude: 13.6894851
+    longitude: -61.1408321
+    source: GPS
+  heading: 179
+  course: 193
+  speed:
+    stw: 3.7
+    sog: 4.3
+  log: 11359.8
+  waypoint:
+    longitude: -61.32407
+    latitude: 13.2746
+  barometer: 1015.55
+  wind:
+    speed: 26.8
+    direction: 99
+  engine:
+    hours: 961.7
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: navigation
+- datetime: 2025-03-28T10:57:32.899Z
+  text: "Sails set: Main (2nd reef), Staysail"
+  author: ""
+  position:
+    latitude: 13.6832216
+    longitude: -61.1428428
+    source: GPS
+  heading: 184
+  course: 197
+  speed:
+    stw: 3.2
+    sog: 4.5
+  log: 11360.2
+  waypoint:
+    longitude: -61.32407
+    latitude: 13.2746
+  barometer: 1015.58
+  wind:
+    speed: 25.6
+    direction: 129
+  engine:
+    hours: 961.7
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: navigation
+- datetime: 2025-03-28T11:00:26.899Z
+  text: ""
+  author: ""
+  position:
+    latitude: 13.6801169
+    longitude: -61.1435978
+    source: GPS
+  heading: 172
+  course: 193
+  speed:
+    stw: 3.6
+    sog: 3.5
+  log: 11360.4
+  waypoint:
+    longitude: -61.32407
+    latitude: 13.2746
+  barometer: 1015.53
+  wind:
+    speed: 28.2
+    direction: 120
+  engine:
+    hours: 961.7
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: navigation
+- datetime: 2025-03-28T12:00:28.899Z
+  text: Bergie on watch
+  author: bergie
+  position:
+    latitude: 13.6208088
+    longitude: -61.1742811
+    source: GPS
+  heading: 183
+  course: 204
+  speed:
+    stw: 2.7
+    sog: 3.1
+  log: 11364.5
+  waypoint:
+    longitude: -61.32407
+    latitude: 13.2746
+  barometer: 1016.55
+  wind:
+    speed: 22.3
+    direction: 137
+  engine:
+    hours: 961.7
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: navigation
+  observations:
+    seaState: 4
+    cloudCoverage: 8
+    visibility: 6
+- datetime: 2025-03-28T12:06:29.900Z
+  text: Out of St. Lucia waters
+  author: bergie
+  position:
+    latitude: 13.6154225
+    longitude: -61.1774675
+    source: GPS
+  heading: 180
+  course: 205
+  speed:
+    stw: 2.9
+    sog: 4.5
+  log: 11364.8
+  waypoint:
+    longitude: -61.32407
+    latitude: 13.2746
+  barometer: 1016.72
+  wind:
+    speed: 21.7
+    direction: 116
+  engine:
+    hours: 961.7
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: navigation
+- datetime: 2025-03-28T12:50:26.899Z
+  text: "Sails set: Main (1st reef), Staysail"
+  author: ""
+  position:
+    latitude: 13.5848486
+    longitude: -61.1929124
+    source: GPS
+  heading: 168
+  course: 209
+  speed:
+    stw: 0
+    sog: 1.6
+  log: 11366.9
+  waypoint:
+    longitude: -61.32407
+    latitude: 13.2746
+  barometer: 1017.11
+  wind:
+    speed: 14.1
+    direction: 103
+  engine:
+    hours: 961.7
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: navigation
+- datetime: 2025-03-28T12:58:31.900Z
+  text: "St. Vincent territorial waters "
+  author: bergie
+  position:
+    latitude: 13.5810471
+    longitude: -61.195404
+    source: GPS
+  heading: 181
+  course: 212
+  speed:
+    stw: 0
+    sog: 3.3
+  log: 11367.2
+  waypoint:
+    longitude: -61.32407
+    latitude: 13.2746
+  barometer: 1016.9
+  wind:
+    speed: 14.2
+    direction: 97
+  engine:
+    hours: 961.7
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: navigation
+- datetime: 2025-03-28T13:00:31.900Z
+  text: ""
+  author: bergie
+  position:
+    latitude: 13.5797489
+    longitude: -61.1962146
+    source: GPS
+  heading: 194
+  course: 199
+  speed:
+    stw: 0
+    sog: 2.7
+  log: 11367.3
+  waypoint:
+    longitude: -61.32407
+    latitude: 13.2746
+  barometer: 1016.92
+  wind:
+    speed: 14.9
+    direction: 119
+  engine:
+    hours: 961.7
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: navigation
+  observations:
+    seaState: 4
+    cloudCoverage: 8
+    visibility: 6
+- datetime: 2025-03-28T14:00:32.899Z
+  text: Suski on watch
+  author: ihmis-suski
+  position:
+    latitude: 13.5463543
+    longitude: -61.2203371
+    source: GPS
+  heading: 196
+  course: 208
+  speed:
+    stw: 0
+    sog: 1.9
+  log: 11369.8
+  waypoint:
+    longitude: -61.32407
+    latitude: 13.2746
+  barometer: 1017.02
+  wind:
+    speed: 9.8
+    direction: 106
+  engine:
+    hours: 961.7
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: navigation
+- datetime: 2025-03-28T14:16:23.299Z
+  text: "Sails set: Main (1st reef), Genoa 1"
+  author: ""
+  position:
+    latitude: 13.5418296
+    longitude: -61.2251518
+    source: GPS
+  heading: 185
+  course: 211
+  speed:
+    stw: 0
+    sog: 3.2
+  log: 11370.2
+  waypoint:
+    longitude: -61.32407
+    latitude: 13.2746
+  barometer: 1017.12
+  wind:
+    speed: 12.8
+    direction: 111
+  engine:
+    hours: 961.7
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: navigation
+- datetime: 2025-03-28T15:00:36.300Z
+  text: ""
+  author: ""
+  position:
+    latitude: 13.5079353
+    longitude: -61.2245988
+    source: GPS
+  heading: 152
+  course: 139
+  speed:
+    stw: 0
+    sog: 3.7
+  log: 11372.3
+  waypoint:
+    longitude: -61.32407
+    latitude: 13.2746
+  barometer: 1017.17
+  wind:
+    speed: 16.9
+    direction: 54
+  engine:
+    hours: 961.7
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: navigation
+- datetime: 2025-03-28T15:38:36.300Z
+  text: Dolphin!
+  author: ihmis-suski
+  position:
+    latitude: 13.4684861
+    longitude: -61.2272179
+    source: GPS
+  heading: 162
+  course: 172
+  speed:
+    stw: 0
+    sog: 3.9
+  log: 11374.7
+  waypoint:
+    longitude: -61.32407
+    latitude: 13.2746
+  barometer: 1016.5
+  wind:
+    speed: 11.2
+    direction: 79
+  engine:
+    hours: 961.7
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: navigation
+- datetime: 2025-03-28T15:42:48.300Z
+  text: "Sails set: Main (1st reef), Genoa 1 (60% furled). Squall approaching. "
+  author: ihmis-suski
+  position:
+    latitude: 13.4648999
+    longitude: -61.226418
+    source: GPS
+  heading: 166
+  course: 176
+  speed:
+    stw: 0
+    sog: 2.8
+  log: 11374.9
+  waypoint:
+    longitude: -61.32407
+    latitude: 13.2746
+  barometer: 1016.47
+  wind:
+    speed: 10.9
+    direction: 69
+  engine:
+    hours: 961.7
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: navigation
+- datetime: 2025-03-28T16:00:42.400Z
+  text: Bergie on watch
+  author: bergie
+  position:
+    latitude: 13.4509011
+    longitude: -61.2257601
+    source: GPS
+  heading: 181
+  course: 224
+  speed:
+    stw: 0
+    sog: 2.8
+  log: 11375.8
+  waypoint:
+    longitude: -61.32407
+    latitude: 13.2746
+  barometer: 1014.94
+  wind:
+    speed: 8.7
+    direction: 117
+  engine:
+    hours: 961.7
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: navigation
+  observations:
+    seaState: 4
+    cloudCoverage: 8
+    visibility: 6
+- datetime: 2025-03-28T16:40:32.396Z
+  text: "Sails set: Main (1st reef), Genoa 1 (30% furled)"
+  author: ""
+  position:
+    latitude: 13.4020123
+    longitude: -61.2346308
+    source: GPS
+  heading: 194
+  course: 214
+  speed:
+    stw: 0
+    sog: 5.3
+  log: 11378.8
+  waypoint:
+    longitude: -61.32407
+    latitude: 13.2746
+  barometer: 1015.52
+  wind:
+    speed: 14.3
+    direction: 104
+  engine:
+    hours: 961.7
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: navigation
+- datetime: 2025-03-28T17:00:47.398Z
+  text: ""
+  author: ""
+  position:
+    latitude: 13.377409
+    longitude: -61.2387691
+    source: GPS
+  heading: 198
+  course: 188
+  speed:
+    stw: 0
+    sog: 3.9
+  log: 11380.3
+  waypoint:
+    longitude: -61.32407
+    latitude: 13.2746
+  barometer: 1015.37
+  wind:
+    speed: 17.4
+    direction: 83
+  engine:
+    hours: 961.7
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: navigation
+- datetime: 2025-03-28T17:25:58.400Z
+  text: "Sails set: Main (1st reef), Genoa 1"
+  author: ""
+  position:
+    latitude: 13.3532241
+    longitude: -61.2473873
+    source: GPS
+  heading: 218
+  course: 233
+  speed:
+    stw: 0
+    sog: 1.1
+  log: 11381.9
+  waypoint:
+    longitude: -61.32407
+    latitude: 13.2746
+  barometer: 1014.83
+  wind:
+    speed: 2.8
+    direction: 151
+  engine:
+    hours: 961.7
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: navigation
+- datetime: 2025-03-28T17:33:43.398Z
+  text: Autopilot activated
+  author: ""
+  position:
+    latitude: 13.3537186
+    longitude: -61.250575
+    source: GPS
+  heading: 304
+  course: 358
+  speed:
+    stw: 0
+    sog: 2
+  log: 11382.1
+  waypoint:
+    longitude: -61.32407
+    latitude: 13.2746
+  barometer: 1014.61
+  wind:
+    speed: 4.7
+    direction: 182
+  engine:
+    hours: 961.7
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: navigation
+- datetime: 2025-03-28T17:33:55.398Z
+  text: Sails down, motoring
+  author: ""
+  position:
+    latitude: 13.3538011
+    longitude: -61.2506271
+    source: GPS
+  heading: 311
+  course: 311
+  speed:
+    stw: 0
+    sog: 2.2
+  log: 11382.1
+  waypoint:
+    longitude: -61.32407
+    latitude: 13.2746
+  barometer: 1014.61
+  wind:
+    speed: 6.1
+    direction: 178
+  engine:
+    hours: 961.7
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: navigation
 - datetime: 2025-03-28T18:33:51.398Z
   text: Autopilot deactivated
   author: ""
