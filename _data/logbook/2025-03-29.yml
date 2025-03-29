@@ -125,3 +125,76 @@
     - ihmis-suski
     - bergie
   category: maintenance
+- datetime: 2025-03-29T15:02:22.700Z
+  text: Anchor up, motoring
+  author: ""
+  position:
+    latitude: 13.0019951
+    longitude: -61.2462285
+    source: GPS
+  heading: 30
+  course: 324
+  speed:
+    stw: 0
+    sog: 0.9
+  log: 11404.7
+  barometer: 1016.29
+  wind:
+    speed: 10
+    direction: 83
+  engine:
+    hours: 966.6
+  vhf: "77"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: navigation
+- datetime: 2025-03-29T15:18:23.699Z
+  text: Anchored
+  author: ""
+  position:
+    latitude: 13.0087001
+    longitude: -61.2376551
+    source: GPS
+  heading: 22
+  course: 73
+  speed:
+    stw: 0
+    sog: 0
+  log: 11405.2
+  barometer: 1016.1
+  wind:
+    speed: 12.7
+    direction: 68
+  engine:
+    hours: 966.9
+  vhf: "77"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  end: true
+  category: navigation
+- datetime: 2025-03-29T15:51:13.702Z
+  text: 280ppm. Watermaker
+  author: ihmis-suski
+  position:
+    latitude: 13.008689499894778
+    longitude: -61.23765017191568
+    source: GPS
+  heading: 30
+  course: 315
+  speed:
+    stw: 0
+    sog: 0.4
+  log: 11405.2
+  barometer: 1015.78
+  wind:
+    speed: 15.2
+    direction: 57
+  engine:
+    hours: 966.9
+  vhf: "77"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: maintenance
