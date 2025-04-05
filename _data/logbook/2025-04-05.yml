@@ -67,3 +67,120 @@
     - ihmis-suski
     - bergie
   category: navigation
+- datetime: 2025-04-05T14:00:48.899Z
+  text: ""
+  author: ""
+  position:
+    latitude: 13.0070093
+    longitude: -61.2415829
+    source: GPS
+  heading: 207
+  course: 219
+  speed:
+    stw: 0
+    sog: 2.7
+  log: 11405.5
+  barometer: 1018.09
+  wind:
+    speed: 21.6
+    direction: 81
+  engine:
+    hours: 967
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: navigation
+- datetime: 2025-04-05T14:10:07.900Z
+  text: Anchored
+  author: ""
+  position:
+    latitude: 13.0027781
+    longitude: -61.2421318
+    source: GPS
+  heading: 13
+  course: 346
+  speed:
+    stw: 0
+    sog: 0.1
+  log: 11406
+  barometer: 1017.87
+  wind:
+    speed: 16.4
+    direction: 52
+  engine:
+    hours: 967.2
+  crewNames:
+    - ihmis-suski
+    - bergie
+  end: true
+  category: navigation
+- datetime: 2025-04-05T14:36:08.899Z
+  text: Anchor up, motoring
+  author: ""
+  position:
+    latitude: 13.0027736
+    longitude: -61.2422616
+    source: GPS
+  heading: 44
+  course: 17
+  speed:
+    stw: 0
+    sog: 0.9
+  log: 11406
+  barometer: 1017.87
+  wind:
+    speed: 9.4
+    direction: 37
+  engine:
+    hours: 967.6
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: navigation
+- datetime: 2025-04-05T14:42:30.899Z
+  text: Anchored
+  author: ""
+  position:
+    latitude: 13.0009816
+    longitude: -61.2456093
+    source: GPS
+  heading: 78
+  course: 280
+  speed:
+    stw: 0
+    sog: 0.2
+  log: 11406.3
+  barometer: 1017.86
+  wind:
+    speed: 18
+    direction: 61
+  engine:
+    hours: 967.7
+  crewNames:
+    - ihmis-suski
+    - bergie
+  end: true
+  category: navigation
+- datetime: 2025-04-05T14:49:00.899Z
+  text: Stopped main engine
+  author: ""
+  position:
+    latitude: 13.0007699
+    longitude: -61.2458321
+    source: GPS
+  heading: 25
+  course: 310
+  speed:
+    stw: 0
+    sog: 0.3
+  log: 11406.3
+  barometer: 1017.73
+  wind:
+    speed: 17.2
+    direction: 78
+  engine:
+    hours: 967.8
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: navigation
