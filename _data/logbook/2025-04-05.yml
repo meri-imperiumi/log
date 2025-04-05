@@ -230,3 +230,50 @@
     - ihmis-suski
     - bergie
   category: maintenance
+- datetime: 2025-04-05T22:21:02.502Z
+  text: Stopped watermaker, 250ppm
+  author: bergie
+  position:
+    latitude: 13.0008553
+    longitude: -61.2458303
+    source: GPS
+  heading: 84
+  course: 123
+  speed:
+    stw: 0
+    sog: 0.6
+  log: 11406.3
+  barometer: 1014.98
+  wind:
+    speed: 13.3
+    direction: 56
+  engine:
+    hours: 967.8
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: maintenance
+- datetime: 2025-04-05T22:39:22.598Z
+  text: NAS is now wired into the computer circuit with its own power switch next
+    to the vacuum
+  author: bergie
+  position:
+    latitude: 13.000807
+    longitude: -61.2458051
+    source: GPS
+  heading: 61
+  course: 249
+  speed:
+    stw: 0
+    sog: 0.2
+  log: 11406.3
+  barometer: 1015.44
+  wind:
+    speed: 12.2
+    direction: 49
+  engine:
+    hours: 967.8
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: maintenance
