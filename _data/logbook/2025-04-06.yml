@@ -1,0 +1,108 @@
+- datetime: 2025-04-06T13:25:52.601Z
+  text: Started main engine
+  author: ""
+  position:
+    latitude: 13.00075783332189
+    longitude: -61.24582400321961
+    source: GPS
+  heading: 73
+  course: 145
+  speed:
+    stw: 0
+    sog: 0.6
+  log: 11406.3
+  waypoint:
+    longitude: -61.2475
+    latitude: 13.00135
+  barometer: 1016.82
+  wind:
+    speed: 17.7
+    direction: 47
+  engine:
+    hours: 967.8
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: navigation
+- datetime: 2025-04-06T13:28:31.600Z
+  text: Anchor up, motoring
+  author: ""
+  position:
+    latitude: 13.0007913
+    longitude: -61.2458013
+    source: GPS
+  heading: 60
+  course: 138
+  speed:
+    stw: 0
+    sog: 0.1
+  log: 11406.3
+  waypoint:
+    longitude: -61.2475
+    latitude: 13.00135
+  barometer: 1016.74
+  wind:
+    speed: 13.1
+    direction: 48
+  engine:
+    hours: 967.9
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: navigation
+- datetime: 2025-04-06T13:34:31.600Z
+  text: Motor stopped, sailing with Main (1st reef), Genoa 1 (40% furled)
+  author: ""
+  position:
+    latitude: 13.0022166
+    longitude: -61.2463105
+    source: GPS
+  heading: 304
+  course: 293
+  speed:
+    stw: 0
+    sog: 3.8
+  log: 11406.5
+  waypoint:
+    longitude: -61.2475
+    latitude: 13.00135
+  barometer: 1016.42
+  wind:
+    speed: 21.7
+    direction: 68
+  engine:
+    hours: 968
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: navigation
+- datetime: 2025-04-06T13:54:53.699Z
+  text: Watermaker 290ppm.
+  author: ihmis-suski
+  position:
+    latitude: 13.0029116
+    longitude: -61.2732813
+    source: GPS
+  heading: 288
+  course: 308
+  speed:
+    stw: 0
+    sog: 3.6
+  log: 11408
+  waypoint:
+    longitude: -61.28175
+    latitude: 12.99612
+  barometer: 1016.26
+  wind:
+    speed: 19.5
+    direction: 57
+  engine:
+    hours: 968
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: maintenance
