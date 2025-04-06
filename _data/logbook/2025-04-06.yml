@@ -403,3 +403,160 @@
     - ihmis-suski
     - bergie
   category: maintenance
+- datetime: 2025-04-06T18:00:49.798Z
+  text: ""
+  author: ""
+  position:
+    latitude: 12.6956653
+    longitude: -61.3760649
+    source: GPS
+  heading: 185
+  course: 200
+  speed:
+    stw: 0
+    sog: 5.2
+  log: 11428.2
+  waypoint:
+    longitude: -61.38356
+    latitude: 12.67573
+  barometer: 1014.5
+  wind:
+    speed: 17.5
+    direction: 70
+  engine:
+    hours: 968
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: navigation
+- datetime: 2025-04-06T18:19:49.798Z
+  text: Watermaker 238ppm. Stopped.
+  author: ihmis-suski
+  position:
+    latitude: 12.6714646
+    longitude: -61.3848351
+    source: GPS
+  heading: 174
+  course: 198
+  speed:
+    stw: 0
+    sog: 4.4
+  log: 11429.7
+  waypoint:
+    longitude: -61.39272
+    latitude: 12.64948
+  barometer: 1014.15
+  wind:
+    speed: 17.4
+    direction: 72
+  engine:
+    hours: 968
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: maintenance
+- datetime: 2025-04-06T18:21:03.801Z
+  text: Autopilot deactivated
+  author: ""
+  position:
+    latitude: 12.6698401
+    longitude: -61.3853361
+    source: GPS
+  heading: 176
+  course: 189
+  speed:
+    stw: 0
+    sog: 4.9
+  log: 11429.9
+  waypoint:
+    longitude: -61.39272
+    latitude: 12.64948
+  barometer: 1014.14
+  wind:
+    speed: 15.9
+    direction: 81
+  engine:
+    hours: 968
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: navigation
+- datetime: 2025-04-06T18:33:21.798Z
+  text: Sails down, motoring
+  author: ""
+  position:
+    latitude: 12.6546679
+    longitude: -61.3909625
+    source: GPS
+  heading: 190
+  course: 173
+  speed:
+    stw: 0
+    sog: 3.8
+  log: 11430.8
+  waypoint:
+    longitude: -61.39272
+    latitude: 12.64948
+  barometer: 1014.04
+  wind:
+    speed: 20.5
+    direction: 75
+  engine:
+    hours: 968
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: navigation
+- datetime: 2025-04-06T18:44:06.796Z
+  text: Anchored
+  author: ""
+  position:
+    latitude: 12.6477801
+    longitude: -61.3917563
+    source: GPS
+  heading: 90
+  course: 45
+  speed:
+    stw: 0
+    sog: 0.4
+  log: 11431.4
+  barometer: 1013.84
+  wind:
+    speed: 12.8
+    direction: 71
+  engine:
+    hours: 968.1
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  end: true
+  category: navigation
+- datetime: 2025-04-06T18:50:04.800Z
+  text: Stopped main engine
+  author: ""
+  position:
+    latitude: 12.6477179
+    longitude: -61.3918936
+    source: GPS
+  heading: 94
+  course: 329
+  speed:
+    stw: 0
+    sog: 0
+  log: 11431.4
+  barometer: 1013.85
+  wind:
+    speed: 12.8
+    direction: 78
+  engine:
+    hours: 968.2
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: navigation
