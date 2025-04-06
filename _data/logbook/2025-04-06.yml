@@ -132,3 +132,139 @@
   crewNames:
     - ihmis-suski
     - bergie
+  category: navigation
+- datetime: 2025-04-06T15:00:51.699Z
+  text: ""
+  author: ""
+  position:
+    latitude: 12.9219658
+    longitude: -61.3101498
+    source: GPS
+  heading: 170
+  course: 193
+  speed:
+    stw: 0
+    sog: 4.2
+  log: 11413.9
+  waypoint:
+    longitude: -61.30982
+    latitude: 12.91379
+  barometer: 1016.68
+  wind:
+    speed: 18.1
+    direction: 66
+  engine:
+    hours: 968
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: navigation
+- datetime: 2025-04-06T15:39:51.699Z
+  text: Watermaker  239ppm. Jug full
+  author: ihmis-suski
+  position:
+    latitude: 12.8725868
+    longitude: -61.3265703
+    source: GPS
+  heading: 188
+  course: 205
+  speed:
+    stw: 0
+    sog: 4.1
+  log: 11417.1
+  waypoint:
+    longitude: -61.32788
+    latitude: 12.8593
+  barometer: 1016.29
+  wind:
+    speed: 20.7
+    direction: 68
+  engine:
+    hours: 968
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: maintenance
+- datetime: 2025-04-06T15:58:22.700Z
+  text: Autopilot activated
+  author: ""
+  position:
+    latitude: 12.8509856
+    longitude: -61.3354564
+    source: GPS
+  heading: 175
+  course: 198
+  speed:
+    stw: 0
+    sog: 4.1
+  log: 11418.5
+  waypoint:
+    longitude: -61.35911
+    latitude: 12.76953
+  barometer: 1016.12
+  wind:
+    speed: 19.5
+    direction: 63
+  engine:
+    hours: 968
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: navigation
+- datetime: 2025-04-06T15:59:05.702Z
+  text: Autopilot deactivated
+  author: ""
+  position:
+    latitude: 12.8503253
+    longitude: -61.3353818
+    source: GPS
+  heading: 157
+  course: 161
+  speed:
+    stw: 0
+    sog: 3.3
+  log: 11418.6
+  waypoint:
+    longitude: -61.35911
+    latitude: 12.76953
+  barometer: 1016.1
+  wind:
+    speed: 20.1
+    direction: 68
+  engine:
+    hours: 968
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: navigation
+- datetime: 2025-04-06T15:59:36.697Z
+  text: Autopilot activated
+  author: ""
+  position:
+    latitude: 12.8497021
+    longitude: -61.3354869
+    source: GPS
+  heading: 176
+  course: 176
+  speed:
+    stw: 0
+    sog: 4
+  log: 11418.6
+  waypoint:
+    longitude: -61.35911
+    latitude: 12.76953
+  barometer: 1016.1
+  wind:
+    speed: 18.4
+    direction: 75
+  engine:
+    hours: 968
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: navigation
