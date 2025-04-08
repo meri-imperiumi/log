@@ -1,0 +1,28 @@
+- datetime: 2025-04-08T18:22:02.899Z
+  text: Fixed galley saltwater pump. Pressure switch had corroded, likely when we
+    had the watermaker leak. Cannibalised a pressure switch from the small bilge
+    pump that doesn't need one
+  author: bergie
+  position:
+    latitude: 12.634427
+    longitude: -61.3982014
+    source: GPS
+  heading: 51
+  course: 288
+  speed:
+    stw: 0
+    sog: 0
+  log: 11432.8
+  waypoint:
+    longitude: -61.39977
+    latitude: 12.63265
+  barometer: 1013.46
+  wind:
+    speed: 10.6
+    direction: 82
+  engine:
+    hours: 969.6
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: maintenance
