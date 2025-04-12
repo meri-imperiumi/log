@@ -1,0 +1,107 @@
+- datetime: 2025-04-12T13:59:16.899Z
+  text: Tightened screws holding stanchions to bases, and replaced one missing on
+    starboard side
+  author: bergie
+  position:
+    latitude: 12.6345284
+    longitude: -61.3981699
+    source: GPS
+  heading: 94
+  course: 138
+  speed:
+    stw: 0
+    sog: 0
+  log: 11432.8
+  waypoint:
+    longitude: -61.3999
+    latitude: 12.63232
+  barometer: 1015.81
+  wind:
+    speed: 8.5
+    direction: 97
+  engine:
+    hours: 969.6
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: maintenance
+- datetime: 2025-04-12T14:09:12.899Z
+  text: Started main engine
+  author: ""
+  position:
+    latitude: 12.634494
+    longitude: -61.3981804
+    source: GPS
+  heading: 101
+  course: 5
+  speed:
+    stw: 0
+    sog: 0
+  log: 11432.8
+  waypoint:
+    longitude: -61.3999
+    latitude: 12.63232
+  barometer: 1015.81
+  wind:
+    speed: 8.5
+    direction: 97
+  engine:
+    hours: 969.6
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: navigation
+- datetime: 2025-04-12T14:14:06.899Z
+  text: Anchor up, motoring
+  author: ""
+  position:
+    latitude: 12.6344715
+    longitude: -61.3980644
+    source: GPS
+  heading: 95
+  course: 88
+  speed:
+    stw: 0
+    sog: 0.8
+  log: 11432.8
+  waypoint:
+    longitude: -61.3999
+    latitude: 12.63232
+  barometer: 1015.79
+  wind:
+    speed: 9.1
+    direction: 92
+  engine:
+    hours: 969.7
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: navigation
+- datetime: 2025-04-12T14:24:23.900Z
+  text: Motor stopped, sailing with Main, Genoa 1
+  author: ""
+  position:
+    latitude: 12.6330453
+    longitude: -61.4004548
+    source: GPS
+  heading: 189
+  course: 202
+  speed:
+    stw: 0
+    sog: 2.1
+  log: 11433.1
+  waypoint:
+    longitude: -61.3999
+    latitude: 12.63232
+  barometer: 1015.84
+  wind:
+    speed: 10.3
+    direction: 95
+  engine:
+    hours: 969.9
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: navigation
