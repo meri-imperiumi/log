@@ -137,14 +137,22 @@ readdir('_data/logbook')
     });
   })
   .then(() => {
+    return readFile('_data/year_miles.yml', 'utf-8')
+      .then((c) => parse(c));
+  })
+  .then((yearMiles) => {
     Object.keys(yearStats).forEach((year) => {
       console.log(`Year ${year}`);
       console.log('---------');
       const sailNames = Object.keys(yearStats[year]);
       sailNames.sort();
       sailNames.forEach((sail) => {
+        let percentage = 0;
+        if (yearMiles[year]) {
+          percentage = yearStats[year][sail].distance / yearMiles[year].sailing * 100;
+        }
         console.log(`${sail} hoisted ${yearStats[year][sail].timesUsed} times`);
-        console.log(`  sailed ${String(Math.round(yearStats[year][sail].distance)).padStart(4, ' ')}NM`);
+        console.log(`  sailed ${String(Math.round(yearStats[year][sail].distance)).padStart(4, ' ')}NM (${String(Math.round(percentage)).padStart(2, ' ')}% used)`);
       });
       console.log('');
     });
