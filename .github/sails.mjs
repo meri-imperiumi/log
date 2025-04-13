@@ -31,7 +31,14 @@ function extractSails(text, sailChange = false) {
       sailName = sailName.replace(' poled out', '');
     }
     if (sailName.indexOf('genoa 1') !== -1 && sailName.indexOf('%') !== -1) {
-      sailName = 'genoa 1 (reefed)';
+      const percentage = sailName.match(/\(([0-9]+)\%\ furled\)/);
+      sailName = 'genoa 1 (lightly reefed)';
+      if (percentage && percentage.length > 1) {
+        console.log(Number(percentage[1]));
+        if (Number(percentage[1]) > 30) {
+          sailName = 'genoa 1 (reefed)';
+        }
+      }
     }
     if (sailName === 'main') {
       sailName = 'main (full)';
@@ -152,7 +159,7 @@ readdir('_data/logbook')
           percentage = yearStats[year][sail].distance / yearMiles[year].sailing * 100;
         }
         console.log(`${sail} hoisted ${yearStats[year][sail].timesUsed} times`);
-        console.log(`  sailed ${String(Math.round(yearStats[year][sail].distance)).padStart(4, ' ')}NM (${String(Math.round(percentage)).padStart(2, ' ')}% used)`);
+        console.log(`  sailed ${String(Math.round(yearStats[year][sail].distance)).padStart(4, ' ')}NM (${String(Math.round(percentage)).padStart(2, ' ')}%)`);
       });
       console.log('');
     });
