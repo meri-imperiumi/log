@@ -32,11 +32,10 @@ function extractSails(text, sailChange = false) {
     }
     if (sailName.indexOf('genoa 1') !== -1 && sailName.indexOf('%') !== -1) {
       const percentage = sailName.match(/\(([0-9]+)\%\ furled\)/);
-      sailName = 'genoa 1 (lightly reefed)';
+      sailName = 'genoa 1 (reefed)';
       if (percentage && percentage.length > 1) {
-        console.log(Number(percentage[1]));
-        if (Number(percentage[1]) > 30) {
-          sailName = 'genoa 1 (reefed)';
+        if (Number(percentage[1]) < 20) {
+          sailName = 'genoa 1 (full)';
         }
       }
     }
