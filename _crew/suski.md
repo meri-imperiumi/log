@@ -33,6 +33,6 @@ countries-sailed:
   - DM
   - GD
 ---
-Volunteered as a deck hand on schooner Helena for couple of years.
-Atlantic crossing on schooner Helena in 2014, and another on Lille Ø in 2025.
+Volunteered as a deck hand on schooner _Helena_ for couple of years.
+Atlantic crossing on schooner _Helena_ in 2014, and another on _Lille Ø_ in 2025.
 
