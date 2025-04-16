@@ -106,3 +106,84 @@
     - ihmis-suski
     - bergie
   category: navigation
+- datetime: 2025-04-16T14:00:17.900Z
+  text: ""
+  author: ""
+  position:
+    latitude: 12.5599774
+    longitude: -61.4520156
+    source: GPS
+  heading: 198
+  course: 214
+  speed:
+    stw: 0
+    sog: 5.5
+  log: 11440.1
+  waypoint:
+    longitude: -61.49724
+    latitude: 12.48795
+  barometer: 1015.84
+  wind:
+    speed: 17.3
+    direction: 80
+  engine:
+    hours: 970.5
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: navigation
+- datetime: 2025-04-16T14:08:17.900Z
+  text: "Q flag up. Entering Grenada territorial waters "
+  author: ihmis-suski
+  position:
+    latitude: 12.5498151
+    longitude: -61.4581821
+    source: GPS
+  heading: 200
+  course: 202
+  speed:
+    stw: 0
+    sog: 5.7
+  log: 11440.8
+  waypoint:
+    longitude: -61.49724
+    latitude: 12.48795
+  barometer: 1015.92
+  wind:
+    speed: 16.7
+    direction: 96
+  engine:
+    hours: 970.5
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: navigation
+- datetime: 2025-04-16T14:47:18.000Z
+  text: Autopilot deactivated
+  author: ""
+  position:
+    latitude: 12.5027326
+    longitude: -61.4884361
+    source: GPS
+  heading: 202
+  course: 195
+  speed:
+    stw: 0
+    sog: 5.5
+  log: 11444.1
+  waypoint:
+    longitude: -61.49724
+    latitude: 12.48795
+  barometer: 1015.68
+  wind:
+    speed: 20.7
+    direction: 108
+  engine:
+    hours: 970.5
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: navigation
