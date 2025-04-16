@@ -36,4 +36,4 @@ countries-sailed:
   - GD
 ---
 Started cruising career with viking ship replicas in Russia.
-Atlantic crossing on schooner Helena in 2014, and another on Lille Ø in 2025.
+Atlantic crossing on schooner _Helena_ in 2014, and another on _Lille Ø_ in 2025.
