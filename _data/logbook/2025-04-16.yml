@@ -1,0 +1,108 @@
+- datetime: 2025-04-16T13:31:16.899Z
+  text: Started main engine
+  author: ""
+  position:
+    latitude: 12.5824295
+    longitude: -61.4386985
+    source: GPS
+  heading: 82
+  course: 82
+  speed:
+    stw: 0
+    sog: 0.2
+  log: 11438.4
+  waypoint:
+    longitude: -61.49724
+    latitude: 12.48795
+  barometer: 1015.73
+  wind:
+    speed: 13.6
+    direction: 90
+  engine:
+    hours: 970.3
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: navigation
+- datetime: 2025-04-16T13:35:52.899Z
+  text: Anchor up, motoring
+  author: ""
+  position:
+    latitude: 12.5823798
+    longitude: -61.4385391
+    source: GPS
+  heading: 7
+  course: 176
+  speed:
+    stw: 0
+    sog: 0.2
+  log: 11438.4
+  waypoint:
+    longitude: -61.49724
+    latitude: 12.48795
+  barometer: 1015.69
+  wind:
+    speed: 15.1
+    direction: 85
+  engine:
+    hours: 970.3
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: navigation
+- datetime: 2025-04-16T13:46:10.899Z
+  text: Motor stopped, sailing with Main (1st reef), Genoa 1 (40% furled)
+  author: ""
+  position:
+    latitude: 12.5775236
+    longitude: -61.4399808
+    source: GPS
+  heading: 184
+  course: 201
+  speed:
+    stw: 0
+    sog: 4.6
+  log: 11438.8
+  waypoint:
+    longitude: -61.49724
+    latitude: 12.48795
+  barometer: 1015.79
+  wind:
+    speed: 15.5
+    direction: 99
+  engine:
+    hours: 970.5
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: navigation
+- datetime: 2025-04-16T13:51:36.899Z
+  text: Autopilot activated
+  author: ""
+  position:
+    latitude: 12.5705688
+    longitude: -61.4436999
+    source: GPS
+  heading: 206
+  course: 209
+  speed:
+    stw: 0
+    sog: 6
+  log: 11439.3
+  waypoint:
+    longitude: -61.49724
+    latitude: 12.48795
+  barometer: 1015.83
+  wind:
+    speed: 17.2
+    direction: 112
+  engine:
+    hours: 970.5
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: navigation
