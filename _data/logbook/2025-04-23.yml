@@ -339,3 +339,134 @@
   crewNames:
     - ihmis-suski
     - bergie
+  category: navigation
+- datetime: 2025-04-23T19:00:35.001Z
+  text: ""
+  author: ""
+  position:
+    latitude: 12.0432218
+    longitude: -61.7902031
+    source: GPS
+  heading: 194
+  course: 192
+  speed:
+    stw: 0
+    sog: 5.1
+  log: 11480.5
+  waypoint:
+    longitude: -61.80302
+    latitude: 12.00259
+  barometer: 1010.71
+  wind:
+    speed: 11.3
+    direction: 128
+  engine:
+    hours: 973.8
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: navigation
+- datetime: 2025-04-23T19:04:20.998Z
+  text: Sails down, motoring
+  author: ""
+  position:
+    latitude: 12.0381424
+    longitude: -61.7917866
+    source: GPS
+  heading: 193
+  course: 197
+  speed:
+    stw: 0
+    sog: 4.5
+  log: 11480.8
+  waypoint:
+    longitude: -61.80302
+    latitude: 12.00259
+  barometer: 1010.62
+  wind:
+    speed: 9.9
+    direction: 123
+  engine:
+    hours: 973.8
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: navigation
+- datetime: 2025-04-23T19:22:23.001Z
+  text: Autopilot deactivated
+  author: ""
+  position:
+    latitude: 12.0390799
+    longitude: -61.7705563
+    source: GPS
+  heading: 63
+  course: 70
+  speed:
+    stw: 0
+    sog: 4.7
+  log: 11482.3
+  waypoint:
+    longitude: -61.76932
+    latitude: 12.03966
+  barometer: 1010.35
+  wind:
+    speed: 8
+    direction: 97
+  engine:
+    hours: 974.1
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: navigation
+- datetime: 2025-04-23T19:39:58.003Z
+  text: Anchored
+  author: ""
+  position:
+    latitude: 12.0429073
+    longitude: -61.7598309
+    source: GPS
+  heading: 72
+  course: 106
+  speed:
+    stw: 0
+    sog: 0.7
+  log: 11483.2
+  barometer: 1010.3
+  wind:
+    speed: 4.9
+    direction: 108
+  engine:
+    hours: 974.4
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  end: true
+  category: navigation
+- datetime: 2025-04-23T19:51:38.400Z
+  text: Stopped main engine
+  author: ""
+  position:
+    latitude: 12.0430154
+    longitude: -61.7599814
+    source: GPS
+  heading: 142
+  course: 285
+  speed:
+    stw: 0
+    sog: 0
+  log: 11483.2
+  barometer: 1010.3
+  wind:
+    speed: 7.1
+    direction: 55
+  engine:
+    hours: 974.6
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: navigation
