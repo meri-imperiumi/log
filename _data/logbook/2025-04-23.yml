@@ -97,3 +97,84 @@
     - ihmis-suski
     - bergie
   category: navigation
+- datetime: 2025-04-23T15:00:40.902Z
+  text: ""
+  author: ""
+  position:
+    latitude: 12.2707431
+    longitude: -61.6319603
+    source: GPS
+  heading: 222
+  course: 235
+  speed:
+    stw: 5.6
+    sog: 5.8
+  log: 11463.5
+  waypoint:
+    longitude: -61.69455
+    latitude: 12.21499
+  barometer: 1013.24
+  wind:
+    speed: 11.9
+    direction: 132
+  engine:
+    hours: 972.3
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: navigation
+- datetime: 2025-04-23T15:04:40.902Z
+  text: Pumped the bilge
+  author: bergie
+  position:
+    latitude: 12.2663298
+    longitude: -61.6371883
+    source: GPS
+  heading: 213
+  course: 222
+  speed:
+    stw: 5.9
+    sog: 6.1
+  log: 11463.9
+  waypoint:
+    longitude: -61.69455
+    latitude: 12.21499
+  barometer: 1013.3
+  wind:
+    speed: 13.8
+    direction: 143
+  engine:
+    hours: 972.3
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: maintenance
+- datetime: 2025-04-23T15:17:27.897Z
+  text: "Sails set: Main, Genoa 1 (20% furled)"
+  author: ""
+  position:
+    latitude: 12.2547119
+    longitude: -61.6512691
+    source: GPS
+  heading: 231
+  course: 236
+  speed:
+    stw: 5.7
+    sog: 5.9
+  log: 11464.9
+  waypoint:
+    longitude: -61.69455
+    latitude: 12.21499
+  barometer: 1013.29
+  wind:
+    speed: 19.5
+    direction: 116
+  engine:
+    hours: 972.3
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: navigation
