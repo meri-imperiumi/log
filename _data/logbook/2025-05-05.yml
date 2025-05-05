@@ -22,3 +22,72 @@
     - ihmis-suski
     - bergie
   category: maintenance
+- datetime: 2025-05-05T18:18:59.801Z
+  text: Sprayed ePropulsion contacts with Kontakt
+  author: bergie
+  position:
+    latitude: 12.0003795
+    longitude: -61.763462
+    source: GPS
+  heading: 113
+  course: 91
+  speed:
+    stw: 0
+    sog: 0
+  log: 11490.6
+  barometer: 1012.18
+  wind:
+    speed: 7.3
+    direction: 113
+  engine:
+    hours: 976.7
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: maintenance
+- datetime: 2025-05-05T18:33:00.800Z
+  text: "Started watermaker "
+  author: bergie
+  position:
+    latitude: 12.0003424
+    longitude: -61.7634816
+    source: GPS
+  heading: 81
+  course: 326
+  speed:
+    stw: 0
+    sog: 0
+  log: 11490.6
+  barometer: 1012.05
+  wind:
+    speed: 7.6
+    direction: 114
+  engine:
+    hours: 976.7
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: maintenance
+- datetime: 2025-05-05T18:47:01.798Z
+  text: Watermaker 304ppm
+  author: bergie
+  position:
+    latitude: 12.0003136
+    longitude: -61.763474
+    source: GPS
+  heading: 64
+  course: 347
+  speed:
+    stw: 0
+    sog: 0
+  log: 11490.6
+  barometer: 1011.88
+  wind:
+    speed: 7.7
+    direction: 103
+  engine:
+    hours: 976.7
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: maintenance
