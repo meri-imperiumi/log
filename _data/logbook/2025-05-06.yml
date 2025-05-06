@@ -1,0 +1,46 @@
+- datetime: 2025-05-06T17:10:22.297Z
+  text: Changed oil and oil filter. Maybe 1.7l was changed
+  author: bergie
+  position:
+    latitude: 12.0003558
+    longitude: -61.7634829
+    source: GPS
+  heading: 107
+  course: 248
+  speed:
+    stw: 0
+    sog: 0.3
+  log: 11490.6
+  barometer: 1012.77
+  wind:
+    speed: 11
+    direction: 101
+  engine:
+    hours: 976.7
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: engine
+- datetime: 2025-05-06T17:29:23.302Z
+  text: Pumped the bilge
+  author: bergie
+  position:
+    latitude: 12.0003613
+    longitude: -61.7634856
+    source: GPS
+  heading: 104
+  course: 259
+  speed:
+    stw: 0
+    sog: 0
+  log: 11490.6
+  barometer: 1012.61
+  wind:
+    speed: 9.3
+    direction: 114
+  engine:
+    hours: 976.7
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: maintenance
