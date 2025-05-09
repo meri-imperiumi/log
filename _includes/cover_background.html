@@ -1,0 +1,7 @@
+<div id="cover">
+  {% if page.cover_background %}
+  <img class="background" src="{{ page.cover_background }}">
+  {% elsif page.cover %}
+  <img class="background" src="{{ page.cover }}">
+  {% endif %}
+</div>
