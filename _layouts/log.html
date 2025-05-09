@@ -5,6 +5,22 @@ layout: default
 <article>
   <h2 class="meta">{{ page.created | date: "%A, %B %-d, %Y" }}</h2>
   <h1>{{ page.title }}</h1>
+  {% if page.position %}
+  <h2 class="meta">
+      {% assign lat_deg = page.position.lat | abs %}
+      {% assign lat_deg_f = lat_deg | floor %}
+      {% assign lat_min = lat_deg | minus: lat_deg_f | times: 60 %}
+      {% assign lat_min_f = lat_min | floor %}
+      {% assign lat_sec = lat_min | minus: lat_min_f | times: 60 | floor %}
+      {% assign lon_deg = page.position.lon | abs %}
+      {% assign lon_deg_f = lon_deg | floor %}
+      {% assign lon_min = lon_deg | minus: lon_deg_f | times: 60 %}
+      {% assign lon_min_f = lon_min | floor %}
+      {% assign lon_sec = lon_min | minus: lon_min_f | times: 60 | floor %}
+      <span>{{ lat_deg_f }}&deg;{{ lat_min_f }}'{{ lat_sec }}"{% if page.position.lat >= 0 %}N{% else %}S{% endif %}</span>
+      <span>{{ lon_deg_f }}&deg;{{ lon_min_f }}'{{ lon_sec }}"{% if page.position.lon >= 0 %}E{% else %}W{% endif %}</span>
+  </h2>
+  {% endif %}
   {{ content | replace: "Lille Ø", "<i>Lille Ø</i>" | replace: "Isosaari", "<i>Isosaari</i>" }}
 </article>
 
