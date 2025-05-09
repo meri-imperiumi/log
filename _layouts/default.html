@@ -41,6 +41,10 @@
     <meta property="twitter:card" content="summary_large_image">
       {% endif %}
     {% endif %}
+    {% if page.position %}
+    <meta name="geo.position" content="{{ page.position.lat }},{{ page.position.lon }}">
+    <meta name="ICBM" content="{{ page.position.lat }},{{ page.position.lon }}">
+    {% endif %}
     <meta property="og:site_name" content="{{ site.name }}">
     <meta property="og:locale" content="en_US">
     <meta property="og:description" content="{{ page.excerpt | strip_html | strip_newlines | strip }}">
