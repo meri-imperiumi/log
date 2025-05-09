@@ -245,7 +245,8 @@ main .intro.boat img {
   border-radius: 0px;
   object-fit: contain;
 }
-main .intro #map {
+main .intro #map,
+main .intro #cover {
   position: absolute;
   background-color: rgba(232, 232, 228, 0.8);
   top: 0;
@@ -254,6 +255,15 @@ main .intro #map {
   max-width: 100vw;
   height: 40vw;
   z-index: -1;
+}
+main .intro #cover img.background {
+  width: 100vw;
+  object-fit: cover;
+  border-radius: 0;
+  height: 100%;
+  max-height: none;
+  max-width: none;
+  filter: brightness(0.6);
 }
 main .intro #updated {
   position: absolute;
