@@ -528,7 +528,8 @@ footer ul li img {
   main .intro h1 {
     font-size: 1.4em;
   }
-  main .intro #map {
+  main .intro #map,
+  main .intro #cover {
     height: 60vh;
   }
   main .intro .copy {
@@ -612,7 +613,8 @@ footer ul li img {
     font-size: x-small;
   }
   main .intro,
-  main .intro #map {
+  main .intro #map,
+  main .intro #cover {
     height: 60vh;
   }
 }
