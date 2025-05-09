@@ -18,9 +18,9 @@ layout: default
       {% assign lon_min = lon_deg | minus: lon_deg_f | times: 60 %}
       {% assign lon_min_f = lon_min | floor %}
       {% assign lon_sec = lon_min | minus: lon_min_f | times: 60 | floor %}
-      <li>Position: 
-        <span>{{ lat_deg_f }}&deg;{{ lat_min_f }}'{{ lat_sec }}"{% if page.position.lat >= 0 %}N{% else %}S{% endif %}</span>
-        <span>{{ lon_deg_f }}&deg;{{ lon_min_f }}'{{ lon_sec }}"{% if page.position.lon >= 0 %}E{% else %}W{% endif %}</span>
+      <li class="geo">Position:
+        <abbr class="latitude" title="{{ page.position.lat }}">{{ lat_deg_f }}&deg;{{ lat_min_f }}'{{ lat_sec }}"{% if page.position.lat >= 0 %}N{% else %}S{% endif %}</abbr>
+        <abbr class="longitude" title="{{ page.position.lon }}">{{ lon_deg_f }}&deg;{{ lon_min_f }}'{{ lon_sec }}"{% if page.position.lon >= 0 %}E{% else %}W{% endif %}</abbr>
       </li>
   </ul>
   {% endif %}
