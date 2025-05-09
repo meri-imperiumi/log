@@ -1,7 +1,7 @@
 import { readFile, writeFile, readdir } from 'fs/promises';
 import { resolve, dirname, basename, extname } from 'path';
 import { fileURLToPath } from 'url';
-import { parse } from 'yaml';
+import { parse, stringify } from 'yaml';
 import { Point } from 'where';
 // import fetch from 'node-fetch';
 
@@ -20,6 +20,7 @@ function getLogMeta(name, previous) {
         to: new Date(basename(name, extname(name))),
         trip: false,
         intermission: false,
+        position: null,
       };
       entry.title = entry.to.toLocaleDateString();
       if (content.indexOf('---') === 0) {
@@ -30,6 +31,9 @@ function getLogMeta(name, previous) {
         }
         if (metadata && metadata.title) {
           entry.title = metadata.title;
+        }
+        if (metadata && metadata.position) {
+          entry.position = metadata.position;
         }
         if (entry.title.indexOf('Intermission') !== -1) {
           entry.intermission = true;
@@ -44,11 +48,49 @@ function getLogMeta(name, previous) {
     });
 }
 
+function ensurePositionMeta(entry, trackName) {
+  if (trackName === 'current.json') {
+    return Promise.resolve();
+  }
+  return readFile(resolve(trackDir, trackName), 'utf-8')
+    .then((trackData) => JSON.parse(trackData))
+    .then((track) => {
+      if (!track || !track.coordinates) {
+        // No track for this entry
+        return Promise.resolve();
+      }
+      const lastSegment = track.coordinates[track.coordinates.length - 1];
+      const [lon, lat] = lastSegment[lastSegment.length - 1];
+      if (entry.position
+        && (entry.position.lat === lat || entry.position.lon === lon)) {
+        // Unchanged last position
+        return Promise.resolve();
+      }
+      entry.position = {
+        lon,
+        lat,
+      };
+      return readFile(resolve(logDir, entry.filename), 'utf-8')
+        .then((content) => {
+          if (content.indexOf('---') !== 0) {
+            // No front matter, skip
+            return Promise.resolve();
+          }
+          const [front, head, body] = content.split('---');
+          const metadata = parse(head);
+          metadata.position = entry.position;
+          const updatedHead = stringify(metadata);
+          const updatedContent = `---\n${updatedHead}---${body}`;
+          return writeFile(resolve(logDir, entry.filename), updatedContent);
+        });
+    });
+}
+
 function ensureTrack(entry, tracks) {
   const trackName = entry.trackname;
   if (tracks.indexOf(trackName) !== -1) {
     // We already have a track for this one
-    return Promise.resolve();
+    return ensurePositionMeta(entry, trackName);
   }
   if (entry.to < startOfHistory) {
     // We don't have a Signal K track reaching this far back
@@ -96,6 +138,9 @@ function ensureTrack(entry, tracks) {
     })
     .then((geoJson) => {
       return writeFile(resolve(trackDir, trackName), JSON.stringify(geoJson, null, 2));
+    })
+    .then(() => {
+      return ensurePositionMeta(entry, trackName);
     });
 }
 
