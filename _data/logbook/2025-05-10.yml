@@ -159,3 +159,115 @@
   crewNames:
     - ihmis-suski
     - bergie
+  category: navigation
+- datetime: 2025-05-10T16:00:55.603Z
+  text: Bergie on watch
+  author: bergie
+  position:
+    latitude: 11.9892539
+    longitude: -61.8845726
+    source: GPS
+  heading: 284
+  course: 283
+  speed:
+    stw: 0
+    sog: 4.2
+  log: 11498.4
+  waypoint:
+    longitude: -68.38766
+    latitude: 12.32043
+  barometer: 1016.95
+  wind:
+    speed: 12.2
+    direction: 114
+  engine:
+    hours: 977.1
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: navigation
+  observations:
+    seaState: 3
+    cloudCoverage: 4
+    visibility: 8
+- datetime: 2025-05-10T16:05:00.601Z
+  text: Autopilot deactivated, windvane steering
+  author: bergie
+  position:
+    latitude: 11.9898644
+    longitude: -61.8890174
+    source: GPS
+  heading: 283
+  course: 274
+  speed:
+    stw: 0
+    sog: 3.7
+  log: 11498.6
+  waypoint:
+    longitude: -68.38766
+    latitude: 12.32043
+  barometer: 1016.91
+  wind:
+    speed: 10.5
+    direction: 120
+  engine:
+    hours: 977.1
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: navigation
+- datetime: 2025-05-10T16:34:57.600Z
+  text: We're now off Reindeer Shoal and finally in deep water
+  author: bergie
+  position:
+    latitude: 11.9915883
+    longitude: -61.9249821
+    source: GPS
+  heading: 283
+  course: 285
+  speed:
+    stw: 0
+    sog: 4.5
+  log: 11500.8
+  waypoint:
+    longitude: -68.38766
+    latitude: 12.32043
+  barometer: 1016.52
+  wind:
+    speed: 11.4
+    direction: 115
+  engine:
+    hours: 977.1
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: navigation
+- datetime: 2025-05-10T16:59:59.603Z
+  text: ""
+  author: ""
+  position:
+    latitude: 11.9919249
+    longitude: -61.9549848
+    source: GPS
+  heading: 283
+  course: 278
+  speed:
+    stw: 0
+    sog: 4.5
+  log: 11502.5
+  waypoint:
+    longitude: -68.38766
+    latitude: 12.32043
+  barometer: 1016.06
+  wind:
+    speed: 11
+    direction: 115
+  engine:
+    hours: 977.1
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
