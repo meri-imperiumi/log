@@ -461,3 +461,142 @@
     - ihmis-suski
     - bergie
   category: navigation
+- datetime: 2025-05-10T22:00:29.196Z
+  text: Suski on watch
+  author: ihmis-suski
+  position:
+    latitude: 12.0023019
+    longitude: -62.30525
+    source: GPS
+  heading: 244
+  course: 245
+  speed:
+    stw: 0
+    sog: 3.4
+  log: 11523.7
+  waypoint:
+    longitude: -68.38766
+    latitude: 12.32043
+  barometer: 1013.74
+  wind:
+    speed: 9.6
+    direction: 79
+  engine:
+    hours: 977.1
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: navigation
+- datetime: 2025-05-10T22:04:18.201Z
+  text: Autopilot deactivated
+  author: ""
+  position:
+    latitude: 12.0007846
+    longitude: -62.3090951
+    source: GPS
+  heading: 248
+  course: 249
+  speed:
+    stw: 0
+    sog: 3.9
+  log: 11523.9
+  waypoint:
+    longitude: -68.38766
+    latitude: 12.32043
+  barometer: 1013.74
+  wind:
+    speed: 12.3
+    direction: 77
+  engine:
+    hours: 977.1
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: navigation
+- datetime: 2025-05-10T22:04:21.196Z
+  text: Autopilot activated
+  author: ""
+  position:
+    latitude: 12.0007713
+    longitude: -62.3091519
+    source: GPS
+  heading: 245
+  course: 250
+  speed:
+    stw: 0
+    sog: 4
+  log: 11523.9
+  waypoint:
+    longitude: -68.38766
+    latitude: 12.32043
+  barometer: 1013.74
+  wind:
+    speed: 12.7
+    direction: 66
+  engine:
+    hours: 977.1
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: navigation
+- datetime: 2025-05-10T22:25:32.198Z
+  text: Green flash! Not a wide one, but the last sliver of sun was green!
+  author: ihmis-suski
+  position:
+    latitude: 11.9955421
+    longitude: -62.3317603
+    source: GPS
+  heading: 247
+  course: 252
+  speed:
+    stw: 0
+    sog: 3.8
+  log: 11525.3
+  waypoint:
+    longitude: -68.38766
+    latitude: 12.32043
+  barometer: 1014.09
+  wind:
+    speed: 10.5
+    direction: 66
+  engine:
+    hours: 977.1
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: navigation
+- datetime: 2025-05-10T22:36:33.203Z
+  text: "Gybed to get more distance yo Venezuela "
+  author: ihmis-suski
+  position:
+    latitude: 11.9934841
+    longitude: -62.344132
+    source: GPS
+  heading: 289
+  course: 290
+  speed:
+    stw: 0
+    sog: 5.3
+  log: 11526
+  waypoint:
+    longitude: -68.38766
+    latitude: 12.32043
+  barometer: 1014.17
+  wind:
+    speed: 15.7
+    direction: 55
+  engine:
+    hours: 977.1
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: navigation
+  observations:
+    seaState: 3
+    cloudCoverage: 4
+    visibility: 7
