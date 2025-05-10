@@ -271,3 +271,57 @@
   crewNames:
     - ihmis-suski
     - bergie
+  category: navigation
+- datetime: 2025-05-10T17:42:03.596Z
+  text: Out of Grenada territorial waters
+  author: bergie
+  position:
+    latitude: 11.9980373
+    longitude: -62.0062049
+    source: GPS
+  heading: 289
+  course: 274
+  speed:
+    stw: 0
+    sog: 5.1
+  log: 11505.6
+  waypoint:
+    longitude: -68.38766
+    latitude: 12.32043
+  barometer: 1015.27
+  wind:
+    speed: 12.3
+    direction: 148
+  engine:
+    hours: 977.1
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: navigation
+- datetime: 2025-05-10T18:00:06.003Z
+  text: ""
+  author: ""
+  position:
+    latitude: 12.0041286
+    longitude: -62.0277721
+    source: GPS
+  heading: 306
+  course: 295
+  speed:
+    stw: 0
+    sog: 4.2
+  log: 11506.9
+  waypoint:
+    longitude: -68.38766
+    latitude: 12.32043
+  barometer: 1015.1
+  wind:
+    speed: 9.8
+    direction: 130
+  engine:
+    hours: 977.1
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
