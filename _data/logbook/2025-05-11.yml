@@ -107,8 +107,8 @@
     - bergie
   category: navigation
 - datetime: 2025-05-11T04:00:03.299Z
-  text: ""
-  author: ""
+  text: Bergie on watch, quite bright night with the moon
+  author: bergie
   position:
     latitude: 12.0503633
     longitude: -62.8044326
@@ -125,6 +125,64 @@
   barometer: 1016.2
   wind:
     speed: 13.2
+    direction: 102
+  engine:
+    hours: 977.1
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: navigation
+  observations:
+    seaState: 3
+    cloudCoverage: 3
+    visibility: 7
+- datetime: 2025-05-11T04:55:06.400Z
+  text: Slight drizzle
+  author: bergie
+  position:
+    latitude: 12.0517401
+    longitude: -62.8710401
+    source: GPS
+  heading: 247
+  course: 264
+  speed:
+    stw: 0
+    sog: 4
+  log: 11557.6
+  waypoint:
+    longitude: -68.38766
+    latitude: 12.32043
+  barometer: 1015.52
+  wind:
+    speed: 13.4
+    direction: 99
+  engine:
+    hours: 977.1
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: navigation
+- datetime: 2025-05-11T05:00:06.400Z
+  text: ""
+  author: ""
+  position:
+    latitude: 12.051695
+    longitude: -62.8767278
+    source: GPS
+  heading: 253
+  course: 264
+  speed:
+    stw: 0
+    sog: 4.2
+  log: 11557.9
+  waypoint:
+    longitude: -68.38766
+    latitude: 12.32043
+  barometer: 1015.4
+  wind:
+    speed: 11.5
     direction: 102
   engine:
     hours: 977.1
