@@ -849,8 +849,8 @@
     - bergie
   category: maintenance
 - datetime: 2025-05-11T22:00:10.297Z
-  text: ""
-  author: ""
+  text: Suski on watch
+  author: ihmis-suski
   position:
     latitude: 12.1977333
     longitude: -64.2069951
@@ -874,3 +874,32 @@
   crewNames:
     - ihmis-suski
     - bergie
+  category: navigation
+- datetime: 2025-05-11T22:55:19.302Z
+  text: Fixed the rope.for hydro again. Again better numbers when we have hydro
+    slightly off center of high side
+  author: ihmis-suski
+  position:
+    latitude: 12.2143246
+    longitude: -64.3044233
+    source: GPS
+  heading: 288
+  course: 281
+  speed:
+    stw: 4.7
+    sog: 6.4
+  log: 11643.9
+  waypoint:
+    longitude: -64.59352
+    latitude: 12.19824
+  barometer: 1014.11
+  wind:
+    speed: 15.9
+    direction: 69
+  engine:
+    hours: 977.1
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: navigation
