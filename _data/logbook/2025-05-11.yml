@@ -604,3 +604,58 @@
     - ihmis-suski
     - bergie
   category: navigation
+- datetime: 2025-05-11T17:00:23.097Z
+  text: ""
+  author: ""
+  position:
+    latitude: 12.1132375
+    longitude: -63.7916273
+    source: GPS
+  heading: 288
+  course: 295
+  speed:
+    stw: 0
+    sog: 4.7
+  log: 11612.6
+  waypoint:
+    longitude: -64.59352
+    latitude: 12.19824
+  barometer: 1015.48
+  wind:
+    speed: 15.5
+    direction: 85
+  engine:
+    hours: 977.1
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: navigation
+- datetime: 2025-05-11T17:40:07.097Z
+  text: "Sails set: Main. Decided to roll in the genoa so I can get on course
+    without waking up Suski"
+  author: bergie
+  position:
+    latitude: 12.1409841
+    longitude: -63.8327629
+    source: GPS
+  heading: 290
+  course: 290
+  speed:
+    stw: 0
+    sog: 3.6
+  log: 11615.7
+  waypoint:
+    longitude: -64.59352
+    latitude: 12.19824
+  barometer: 1014.84
+  wind:
+    speed: 11.5
+    direction: 91
+  engine:
+    hours: 977.1
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: navigation
