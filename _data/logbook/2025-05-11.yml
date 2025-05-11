@@ -320,3 +320,55 @@
     - ihmis-suski
     - bergie
   category: navigation
+- datetime: 2025-05-11T09:00:22.899Z
+  text: ""
+  author: ""
+  position:
+    latitude: 12.0746853
+    longitude: -63.1722829
+    source: GPS
+  heading: 266
+  course: 272
+  speed:
+    stw: 0
+    sog: 3.5
+  log: 11575.6
+  barometer: 1014.37
+  wind:
+    speed: 12.8
+    direction: 97
+  engine:
+    hours: 977.1
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: navigation
+- datetime: 2025-05-11T09:26:27.900Z
+  text: It is now light out. Seas still a confused mess
+  author: bergie
+  position:
+    latitude: 12.071842
+    longitude: -63.2034538
+    source: GPS
+  heading: 235
+  course: 255
+  speed:
+    stw: 0
+    sog: 3
+  log: 11577.5
+  barometer: 1014.52
+  wind:
+    speed: 8.9
+    direction: 74
+  engine:
+    hours: 977.1
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: navigation
+  observations:
+    seaState: 3
+    cloudCoverage: 6
+    visibility: 7
