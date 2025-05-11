@@ -373,8 +373,8 @@
     cloudCoverage: 6
     visibility: 7
 - datetime: 2025-05-11T10:00:30.899Z
-  text: ""
-  author: ""
+  text: "Suski on watch "
+  author: bergie
   position:
     latitude: 12.0680923
     longitude: -63.2391938
@@ -518,3 +518,89 @@
   crewNames:
     - ihmis-suski
     - bergie
+  category: navigation
+- datetime: 2025-05-11T16:00:16.102Z
+  text: "Bergie on watch "
+  author: bergie
+  position:
+    latitude: 12.104414168993632
+    longitude: -63.715089861551924
+    source: GPS
+  heading: 267
+  course: 277
+  speed:
+    stw: 0
+    sog: 4.9
+  log: 11608
+  waypoint:
+    longitude: -64.59352
+    latitude: 12.19824
+  barometer: 1016.55
+  wind:
+    speed: 12.9
+    direction: 100
+  engine:
+    hours: 977.1
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: navigation
+  observations:
+    seaState: 3
+    cloudCoverage: 2
+    visibility: 7
+- datetime: 2025-05-11T16:40:21.100Z
+  text: "Constant salad removal "
+  author: bergie
+  position:
+    latitude: 12.1076568
+    longitude: -63.7685796
+    source: GPS
+  heading: 274
+  course: 264
+  speed:
+    stw: 0
+    sog: 5.2
+  log: 11611.2
+  waypoint:
+    longitude: -64.59352
+    latitude: 12.19824
+  barometer: 1015.97
+  wind:
+    speed: 13.6
+    direction: 118
+  engine:
+    hours: 977.1
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: navigation
+- datetime: 2025-05-11T16:56:22.099Z
+  text: Another Venezuela avoidance gybe
+  author: bergie
+  position:
+    latitude: 12.1101123
+    longitude: -63.7874249
+    source: GPS
+  heading: 324
+  course: 322
+  speed:
+    stw: 0
+    sog: 5
+  log: 11612.3
+  waypoint:
+    longitude: -64.59352
+    latitude: 12.19824
+  barometer: 1015.56
+  wind:
+    speed: 18.2
+    direction: 86
+  engine:
+    hours: 977.1
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: navigation
