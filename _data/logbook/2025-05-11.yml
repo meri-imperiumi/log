@@ -271,3 +271,52 @@
   crewNames:
     - ihmis-suski
     - bergie
+  category: navigation
+- datetime: 2025-05-11T08:00:20.800Z
+  text: ""
+  author: ""
+  position:
+    latitude: 12.0768858
+    longitude: -63.1004985
+    source: GPS
+  heading: 249
+  course: 267
+  speed:
+    stw: 0
+    sog: 4
+  log: 11571.3
+  barometer: 1014.04
+  wind:
+    speed: 13
+    direction: 94
+  engine:
+    hours: 977.1
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: navigation
+- datetime: 2025-05-11T08:06:21.798Z
+  text: Again a drizzle. Somewhat dark clouds to the NE
+  author: bergie
+  position:
+    latitude: 12.0763056
+    longitude: -63.107169
+    source: GPS
+  heading: 257
+  course: 256
+  speed:
+    stw: 0
+    sog: 3.1
+  log: 11571.7
+  barometer: 1014.12
+  wind:
+    speed: 10.7
+    direction: 98
+  engine:
+    hours: 977.1
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: navigation
