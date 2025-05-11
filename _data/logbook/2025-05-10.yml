@@ -600,3 +600,57 @@
     seaState: 3
     cloudCoverage: 4
     visibility: 7
+- datetime: 2025-05-10T23:00:35.200Z
+  text: ""
+  author: ""
+  position:
+    latitude: 12.00340266674757
+    longitude: -62.378152497609456
+    source: GPS
+  heading: 285
+  course: 288
+  speed:
+    stw: 0
+    sog: 5.8
+  log: 11528.1
+  waypoint:
+    longitude: -68.38766
+    latitude: 12.32043
+  barometer: 1014.32
+  wind:
+    speed: 13.5
+    direction: 68
+  engine:
+    hours: 977.1
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: navigation
+- datetime: 2025-05-10T23:35:37.203Z
+  text: "Gybed again "
+  author: ihmis-suski
+  position:
+    latitude: 12.0258411
+    longitude: -62.4218731
+    source: GPS
+  heading: 271
+  course: 269
+  speed:
+    stw: 0
+    sog: 5.3
+  log: 11531.1
+  waypoint:
+    longitude: -68.38766
+    latitude: 12.32043
+  barometer: 1014.79
+  wind:
+    speed: 15.8
+    direction: 122
+  engine:
+    hours: 977.1
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: navigation
