@@ -740,3 +740,84 @@
     - ihmis-suski
     - bergie
   category: maintenance
+- datetime: 2025-05-11T20:00:52.198Z
+  text: ""
+  author: ""
+  position:
+    latitude: 12.1816133
+    longitude: -64.0172604
+    source: GPS
+  heading: 286
+  course: 274
+  speed:
+    stw: 0
+    sog: 5.1
+  log: 11626.8
+  waypoint:
+    longitude: -64.59352
+    latitude: 12.19824
+  barometer: 1013.64
+  wind:
+    speed: 15.1
+    direction: 71
+  engine:
+    hours: 977.1
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: navigation
+- datetime: 2025-05-11T20:07:53.203Z
+  text: Watermaker 336ppm
+  author: bergie
+  position:
+    latitude: 12.1827298
+    longitude: -64.0270449
+    source: GPS
+  heading: 275
+  course: 261
+  speed:
+    stw: 0
+    sog: 5.2
+  log: 11627.4
+  waypoint:
+    longitude: -64.59352
+    latitude: 12.19824
+  barometer: 1013.63
+  wind:
+    speed: 15.1
+    direction: 80
+  engine:
+    hours: 977.1
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: maintenance
+- datetime: 2025-05-11T20:22:07.200Z
+  text: "Sails set: Main, Genoa 1 (30% furled). Back to schmetti"
+  author: bergie
+  position:
+    latitude: 12.184541161855062
+    longitude: -64.04740200042724
+    source: GPS
+  heading: 270
+  course: 274
+  speed:
+    stw: 0
+    sog: 5.7
+  log: 11628.6
+  waypoint:
+    longitude: -64.59352
+    latitude: 12.19824
+  barometer: 1013.63
+  wind:
+    speed: 16.8
+    direction: 89
+  engine:
+    hours: 977.1
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: navigation
