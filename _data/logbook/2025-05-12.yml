@@ -353,3 +353,36 @@
   crewNames:
     - ihmis-suski
     - bergie
+  category: navigation
+- datetime: 2025-05-12T08:44:06.899Z
+  text: Dark clouds to our north, light rain, a ship passing us quite close on our
+    port side. We have a moon rainbow!
+  author: bergie
+  position:
+    latitude: 12.4761161
+    longitude: -65.3708243
+    source: GPS
+  heading: 287
+  course: 292
+  speed:
+    stw: 4.2
+    sog: 6.4
+  log: 11709.1
+  waypoint:
+    longitude: -67.69895
+    latitude: 12.36992
+  barometer: 1014.67
+  wind:
+    speed: 15.2
+    direction: 69
+  engine:
+    hours: 977.1
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: navigation
+  observations:
+    seaState: 3
+    cloudCoverage: 4
+    visibility: 7
