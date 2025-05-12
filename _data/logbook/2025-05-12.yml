@@ -105,3 +105,86 @@
   crewNames:
     - ihmis-suski
     - bergie
+  category: navigation
+- datetime: 2025-05-12T03:00:41.800Z
+  text: ""
+  author: ""
+  position:
+    latitude: 12.2964009
+    longitude: -64.751659
+    source: GPS
+  heading: 274
+  course: 244
+  speed:
+    stw: 5.2
+    sog: 6.8
+  log: 11670.8
+  waypoint:
+    longitude: -67.69895
+    latitude: 12.36992
+  barometer: 1016.42
+  wind:
+    speed: 15.9
+    direction: 100
+  engine:
+    hours: 977.1
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: navigation
+- datetime: 2025-05-12T03:18:43.800Z
+  text: Tern is relocating again. Circling to find a new seat. It's a dishy bird
+    again. So cool to see the  careful and skillful manouvering.
+  author: ihmis-suski
+  position:
+    latitude: 12.3050565
+    longitude: -64.7850878
+    source: GPS
+  heading: 296
+  course: 315
+  speed:
+    stw: 5
+    sog: 6.1
+  log: 11672.9
+  waypoint:
+    longitude: -67.69895
+    latitude: 12.36992
+  barometer: 1016.33
+  wind:
+    speed: 18.6
+    direction: 84
+  engine:
+    hours: 977.1
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: navigation
+- datetime: 2025-05-12T03:28:44.800Z
+  text: On sprayhood again.
+  author: ihmis-suski
+  position:
+    latitude: 12.309179496765136
+    longitude: -64.80371583302816
+    source: GPS
+  heading: 280
+  course: 283
+  speed:
+    stw: 5.6
+    sog: 6.9
+  log: 11674
+  waypoint:
+    longitude: -67.69895
+    latitude: 12.36992
+  barometer: 1016.34
+  wind:
+    speed: 17.9
+    direction: 71
+  engine:
+    hours: 977.1
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: navigation
