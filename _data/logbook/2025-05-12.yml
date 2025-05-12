@@ -718,3 +718,31 @@
   crewNames:
     - ihmis-suski
     - bergie
+  category: navigation
+- datetime: 2025-05-12T20:00:18.700Z
+  text: Haven't seen any sargasso seagrass in a while
+  author: bergie
+  position:
+    latitude: 12.6832266
+    longitude: -66.5079106
+    source: GPS
+  heading: 271
+  course: 271
+  speed:
+    stw: 0
+    sog: 7.1
+  log: 11777.6
+  waypoint:
+    longitude: -68.39946
+    latitude: 12.34021
+  barometer: 1012.55
+  wind:
+    speed: 16.1
+    direction: 65
+  engine:
+    hours: 977.1
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: navigation
