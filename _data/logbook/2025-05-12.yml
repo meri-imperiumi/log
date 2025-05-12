@@ -606,3 +606,61 @@
   crewNames:
     - ihmis-suski
     - bergie
+  category: navigation
+- datetime: 2025-05-12T16:00:55.200Z
+  text: Bergie on watch. Drizzle.
+  author: bergie
+  position:
+    latitude: 12.6012828
+    longitude: -66.103549
+    source: GPS
+  heading: 286
+  course: 300
+  speed:
+    stw: 0
+    sog: 5.8
+  log: 11753.2
+  waypoint:
+    longitude: -68.39946
+    latitude: 12.34021
+  barometer: 1015.55
+  wind:
+    speed: 15.3
+    direction: 69
+  engine:
+    hours: 977.1
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: navigation
+  observations:
+    cloudCoverage: 6
+    seaState: 3
+    visibility: 7
+- datetime: 2025-05-12T17:00:03.200Z
+  text: ""
+  author: ""
+  position:
+    latitude: 12.6392171
+    longitude: -66.2008158
+    source: GPS
+  heading: 287
+  course: 290
+  speed:
+    stw: 0
+    sog: 7
+  log: 11759.4
+  waypoint:
+    longitude: -68.39946
+    latitude: 12.34021
+  barometer: 1014.71
+  wind:
+    speed: 15.5
+    direction: 80
+  engine:
+    hours: 977.1
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
