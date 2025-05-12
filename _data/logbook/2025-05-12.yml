@@ -188,3 +188,34 @@
     - ihmis-suski
     - bergie
   category: navigation
+- datetime: 2025-05-12T04:00:50.800Z
+  text: Bergie on watch, tern still on board
+  author: bergie
+  position:
+    latitude: 12.3158648
+    longitude: -64.8656581
+    source: GPS
+  heading: 265
+  course: 249
+  speed:
+    stw: 4.2
+    sog: 5.9
+  log: 11677.7
+  waypoint:
+    longitude: -67.69895
+    latitude: 12.36992
+  barometer: 1016.03
+  wind:
+    speed: 16.2
+    direction: 86
+  engine:
+    hours: 977.1
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: navigation
+  observations:
+    seaState: 3
+    cloudCoverage: 1
+    visibility: 7
