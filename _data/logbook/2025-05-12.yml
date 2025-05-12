@@ -24,3 +24,58 @@
   crewNames:
     - ihmis-suski
     - bergie
+  category: navigation
+- datetime: 2025-05-12T01:00:29.400Z
+  text: ""
+  author: ""
+  position:
+    latitude: 12.2537466
+    longitude: -64.5275843
+    source: GPS
+  heading: 275
+  course: 276
+  speed:
+    stw: 4.7
+    sog: 8.2
+  log: 11657.3
+  waypoint:
+    longitude: -64.59221
+    latitude: 12.25194
+  barometer: 1015.06
+  wind:
+    speed: 18.7
+    direction: 62
+  engine:
+    hours: 977.1
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: navigation
+- datetime: 2025-05-12T01:26:31.400Z
+  text: It got shaken off. Now its on the sprayhood.
+  author: ihmis-suski
+  position:
+    latitude: 12.2633218
+    longitude: -64.5768795
+    source: GPS
+  heading: 296
+  course: 286
+  speed:
+    stw: 5
+    sog: 8.3
+  log: 11660.3
+  waypoint:
+    longitude: -64.59221
+    latitude: 12.25194
+  barometer: 1015.39
+  wind:
+    speed: 21.5
+    direction: 91
+  engine:
+    hours: 977.1
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: navigation
