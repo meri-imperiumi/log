@@ -299,3 +299,57 @@
   crewNames:
     - ihmis-suski
     - bergie
+  category: navigation
+- datetime: 2025-05-12T07:28:00.899Z
+  text: Drizzle again
+  author: bergie
+  position:
+    latitude: 12.4286483
+    longitude: -65.2364861
+    source: GPS
+  heading: 292
+  course: 289
+  speed:
+    stw: 4.8
+    sog: 7.1
+  log: 11700.7
+  waypoint:
+    longitude: -67.69895
+    latitude: 12.36992
+  barometer: 1014.39
+  wind:
+    speed: 16.4
+    direction: 90
+  engine:
+    hours: 977.1
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: navigation
+- datetime: 2025-05-12T08:00:03.900Z
+  text: ""
+  author: ""
+  position:
+    latitude: 12.446266682942708
+    longitude: -65.29388017654419
+    source: GPS
+  heading: 282
+  course: 280
+  speed:
+    stw: 4.2
+    sog: 5.5
+  log: 11704.2
+  waypoint:
+    longitude: -67.69895
+    latitude: 12.36992
+  barometer: 1014.42
+  wind:
+    speed: 15.8
+    direction: 108
+  engine:
+    hours: 977.1
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
