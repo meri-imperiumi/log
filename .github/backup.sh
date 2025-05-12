@@ -10,7 +10,7 @@ echo "Committing changes as needed"
 if [ -z "$(git status --porcelain)" ]; then exit 0;fi
 git add _data/logbook/*.yml
 git add tracks/*.json
-git add _log/*.md
+git add _logs/*.md
 git config --local user.email boat@lille-oe.de
 git config --local user.name Lille Oe
 git commit -m "Backup logbook entries"
