@@ -414,3 +414,61 @@
     - ihmis-suski
     - bergie
   category: navigation
+- datetime: 2025-05-12T10:00:12.000Z
+  text: ""
+  author: ""
+  position:
+    latitude: 12.4812419
+    longitude: -65.4910019
+    source: GPS
+  heading: 261
+  course: 273
+  speed:
+    stw: 0
+    sog: 5.3
+  log: 11716.3
+  waypoint:
+    longitude: -67.69895
+    latitude: 12.36992
+  barometer: 1015
+  wind:
+    speed: 14.4
+    direction: 80
+  engine:
+    hours: 977.1
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: navigation
+- datetime: 2025-05-12T10:49:16.000Z
+  text: Tern has left the sprayhood!
+  author: ihmis-suski
+  position:
+    latitude: 12.5004183
+    longitude: -65.579924
+    source: GPS
+  heading: 285
+  course: 289
+  speed:
+    stw: 0
+    sog: 6.4
+  log: 11721.7
+  waypoint:
+    longitude: -67.69895
+    latitude: 12.36992
+  barometer: 1015.42
+  wind:
+    speed: 10.9
+    direction: 98
+  engine:
+    hours: 977.1
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: navigation
+  observations:
+    seaState: 3
+    cloudCoverage: 3
+    visibility: 7
