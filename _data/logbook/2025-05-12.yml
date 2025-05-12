@@ -386,3 +386,31 @@
     seaState: 3
     cloudCoverage: 4
     visibility: 7
+- datetime: 2025-05-12T09:00:08.000Z
+  text: Halfway point, 221NM to go. Our guest is going through the morning cleanup
+    routine, so likely leaving soon
+  author: bergie
+  position:
+    latitude: 12.4841094
+    longitude: -65.3982903
+    source: GPS
+  heading: 276
+  course: 283
+  speed:
+    stw: 3.9
+    sog: 4.6
+  log: 11710.8
+  waypoint:
+    longitude: -67.69895
+    latitude: 12.36992
+  barometer: 1014.85
+  wind:
+    speed: 13.9
+    direction: 53
+  engine:
+    hours: 977.1
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: navigation
