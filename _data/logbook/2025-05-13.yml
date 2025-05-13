@@ -550,3 +550,84 @@
     seaState: 3
     cloudCoverage: 1
     visibility: 7
+- datetime: 2025-05-13T13:00:39.200Z
+  text: ""
+  author: ""
+  position:
+    latitude: 12.4402151
+    longitude: -68.2081673
+    source: GPS
+  heading: 229
+  course: 229
+  speed:
+    stw: 0
+    sog: 6.6
+  log: 11882.7
+  waypoint:
+    longitude: -68.40691
+    latitude: 12.32434
+  barometer: 1013.98
+  wind:
+    speed: 17.8
+    direction: 75
+  engine:
+    hours: 977.1
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: navigation
+- datetime: 2025-05-13T13:04:04.198Z
+  text: "Sails set: Main, Genoa 1"
+  author: ""
+  position:
+    latitude: 12.4368449
+    longitude: -68.212022
+    source: GPS
+  heading: 236
+  course: 252
+  speed:
+    stw: 0
+    sog: 5.9
+  log: 11883
+  waypoint:
+    longitude: -68.40691
+    latitude: 12.32434
+  barometer: 1013.94
+  wind:
+    speed: 12.2
+    direction: 82
+  engine:
+    hours: 977.1
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: navigation
+- datetime: 2025-05-13T13:20:39.200Z
+  text: Autopilot activated
+  author: ""
+  position:
+    latitude: 12.419344
+    longitude: -68.2307656
+    source: GPS
+  heading: 222
+  course: 225
+  speed:
+    stw: 0
+    sog: 5.5
+  log: 11884.5
+  waypoint:
+    longitude: -68.40691
+    latitude: 12.32434
+  barometer: 1014.09
+  wind:
+    speed: 14.2
+    direction: 86
+  engine:
+    hours: 977.1
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: navigation
