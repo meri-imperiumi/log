@@ -52,3 +52,57 @@
     - ihmis-suski
     - bergie
   category: navigation
+- datetime: 2025-05-13T01:00:46.800Z
+  text: ""
+  author: ""
+  position:
+    latitude: 12.6744888
+    longitude: -67.0414045
+    source: GPS
+  heading: 259
+  course: 266
+  speed:
+    stw: 0
+    sog: 5.5
+  log: 11809.1
+  waypoint:
+    longitude: -68.39946
+    latitude: 12.34021
+  barometer: 1013.41
+  wind:
+    speed: 19.6
+    direction: 60
+  engine:
+    hours: 977.1
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: navigation
+- datetime: 2025-05-13T01:39:49.900Z
+  text: A new ornamental ruskotiira on the sprayhood.
+  author: ihmis-suski
+  position:
+    latitude: 12.6696956
+    longitude: -67.1150713
+    source: GPS
+  heading: 270
+  course: 276
+  speed:
+    stw: 0
+    sog: 7.8
+  log: 11813.5
+  waypoint:
+    longitude: -68.39946
+    latitude: 12.34021
+  barometer: 1013.72
+  wind:
+    speed: 21.9
+    direction: 59
+  engine:
+    hours: 977.1
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: navigation
