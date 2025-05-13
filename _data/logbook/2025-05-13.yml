@@ -631,3 +631,84 @@
     - ihmis-suski
     - bergie
   category: navigation
+- datetime: 2025-05-13T14:00:44.198Z
+  text: ""
+  author: ""
+  position:
+    latitude: 12.3796928
+    longitude: -68.2779426
+    source: GPS
+  heading: 237
+  course: 247
+  speed:
+    stw: 0
+    sog: 6
+  log: 11888.2
+  waypoint:
+    longitude: -68.40691
+    latitude: 12.32434
+  barometer: 1014.16
+  wind:
+    speed: 15
+    direction: 64
+  engine:
+    hours: 977.1
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: navigation
+- datetime: 2025-05-13T14:12:44.601Z
+  text: Poled out
+  author: bergie
+  position:
+    latitude: 12.3737391
+    longitude: -68.2928151
+    source: GPS
+  heading: 254
+  course: 259
+  speed:
+    stw: 0
+    sog: 5.2
+  log: 11889.1
+  waypoint:
+    longitude: -68.40691
+    latitude: 12.32434
+  barometer: 1014.13
+  wind:
+    speed: 15.4
+    direction: 81
+  engine:
+    hours: 977.1
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: navigation
+- datetime: 2025-05-13T14:15:56.601Z
+  text: "Sails set: Main, Genoa 1 (40% furled)"
+  author: ""
+  position:
+    latitude: 12.3721971
+    longitude: -68.297498
+    source: GPS
+  heading: 251
+  course: 260
+  speed:
+    stw: 0
+    sog: 5.4
+  log: 11889.4
+  waypoint:
+    longitude: -68.40691
+    latitude: 12.32434
+  barometer: 1014.1
+  wind:
+    speed: 15
+    direction: 61
+  engine:
+    hours: 977.1
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: navigation
