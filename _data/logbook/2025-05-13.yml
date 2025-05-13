@@ -766,3 +766,88 @@
     - ihmis-suski
     - bergie
   category: navigation
+- datetime: 2025-05-13T16:00:54.598Z
+  text: Bergie on watch. First fishing net spotted
+  author: bergie
+  position:
+    latitude: 12.3029879
+    longitude: -68.4400201
+    source: GPS
+  heading: 215
+  course: 213
+  speed:
+    stw: 0
+    sog: 5.2
+  log: 11898.9
+  waypoint:
+    longitude: -68.73448
+    latitude: 12.02976
+  barometer: 1013.74
+  wind:
+    speed: 19.5
+    direction: 81
+  engine:
+    hours: 977.1
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: navigation
+  observations:
+    seaState: 4
+    cloudCoverage: 4
+    visibility: 7
+- datetime: 2025-05-13T16:29:56.697Z
+  text: Started watermaker, 384ppm
+  author: bergie
+  position:
+    latitude: 12.2678608
+    longitude: -68.468345
+    source: GPS
+  heading: 212
+  course: 217
+  speed:
+    stw: 0
+    sog: 5.2
+  log: 11901.6
+  waypoint:
+    longitude: -68.73448
+    latitude: 12.02976
+  barometer: 1013.58
+  wind:
+    speed: 19
+    direction: 71
+  engine:
+    hours: 977.1
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: maintenance
+- datetime: 2025-05-13T16:38:57.702Z
+  text: "Land hoy! I can see a bit of Curaçao ahead "
+  author: bergie
+  position:
+    latitude: 12.2578391
+    longitude: -68.4766716
+    source: GPS
+  heading: 217
+  course: 219
+  speed:
+    stw: 0
+    sog: 6.2
+  log: 11902.4
+  waypoint:
+    longitude: -68.73448
+    latitude: 12.02976
+  barometer: 1013.54
+  wind:
+    speed: 17.4
+    direction: 79
+  engine:
+    hours: 977.1
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: navigation
