@@ -325,3 +325,85 @@
   crewNames:
     - ihmis-suski
     - bergie
+  category: navigation
+- datetime: 2025-05-13T09:00:22.099Z
+  text: ""
+  author: ""
+  position:
+    latitude: 12.6338785
+    longitude: -67.9009653
+    source: GPS
+  heading: 271
+  course: 264
+  speed:
+    stw: 0
+    sog: 5.3
+  log: 11859.9
+  waypoint:
+    longitude: -68.39946
+    latitude: 12.34021
+  barometer: 1013.01
+  wind:
+    speed: 12.8
+    direction: 55
+  engine:
+    hours: 977.1
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: navigation
+- datetime: 2025-05-13T09:40:25.100Z
+  text: The noddy flew away. Horizon is getting bright
+  author: bergie
+  position:
+    latitude: 12.6405845
+    longitude: -67.9638556
+    source: GPS
+  heading: 277
+  course: 283
+  speed:
+    stw: 0
+    sog: 6.1
+  log: 11863.6
+  waypoint:
+    longitude: -68.39946
+    latitude: 12.34021
+  barometer: 1012.84
+  wind:
+    speed: 18.1
+    direction: 54
+  engine:
+    hours: 977.1
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: navigation
+- datetime: 2025-05-13T09:52:26.099Z
+  text: Gybed towards Bonaire North Point
+  author: bergie
+  position:
+    latitude: 12.6378498
+    longitude: -67.9808266
+    source: GPS
+  heading: 221
+  course: 213
+  speed:
+    stw: 0
+    sog: 6.3
+  log: 11864.7
+  waypoint:
+    longitude: -68.39946
+    latitude: 12.34021
+  barometer: 1012.99
+  wind:
+    speed: 19.8
+    direction: 87
+  engine:
+    hours: 977.1
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: navigation
