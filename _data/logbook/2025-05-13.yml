@@ -244,3 +244,57 @@
   crewNames:
     - ihmis-suski
     - bergie
+  category: navigation
+- datetime: 2025-05-13T06:09:08.000Z
+  text: Double digits! 99NM to Spanish Water. 65NM if we stop in Bonaire.
+  author: bergie
+  position:
+    latitude: 12.6407061
+    longitude: -67.6139918
+    source: GPS
+  heading: 260
+  course: 260
+  speed:
+    stw: 0
+    sog: 6.9
+  log: 11843
+  waypoint:
+    longitude: -68.39946
+    latitude: 12.34021
+  barometer: 1012.79
+  wind:
+    speed: 16.1
+    direction: 50
+  engine:
+    hours: 977.1
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: navigation
+- datetime: 2025-05-13T07:00:11.000Z
+  text: ""
+  author: ""
+  position:
+    latitude: 12.6363426
+    longitude: -67.7048406
+    source: GPS
+  heading: 255
+  course: 259
+  speed:
+    stw: 0
+    sog: 6.8
+  log: 11848.3
+  waypoint:
+    longitude: -68.39946
+    latitude: 12.34021
+  barometer: 1012.63
+  wind:
+    speed: 18.7
+    direction: 53
+  engine:
+    hours: 977.1
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
