@@ -491,3 +491,62 @@
   crewNames:
     - ihmis-suski
     - bergie
+  category: navigation
+- datetime: 2025-05-13T12:00:35.100Z
+  text: ""
+  author: ""
+  position:
+    latitude: 12.5082408
+    longitude: -68.1435664
+    source: GPS
+  heading: 223
+  course: 223
+  speed:
+    stw: 0
+    sog: 4.6
+  log: 11877.1
+  waypoint:
+    longitude: -68.40691
+    latitude: 12.32434
+  barometer: 1013.64
+  wind:
+    speed: 19.7
+    direction: 83
+  engine:
+    hours: 977.1
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: navigation
+- datetime: 2025-05-13T12:44:37.200Z
+  text: Land in sight!
+  author: ihmis-suski
+  position:
+    latitude: 12.4581009
+    longitude: -68.1916938
+    source: GPS
+  heading: 231
+  course: 242
+  speed:
+    stw: 0
+    sog: 6.3
+  log: 11881.2
+  waypoint:
+    longitude: -68.40691
+    latitude: 12.32434
+  barometer: 1013.93
+  wind:
+    speed: 19.3
+    direction: 89
+  engine:
+    hours: 977.1
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: navigation
+  observations:
+    seaState: 3
+    cloudCoverage: 1
+    visibility: 7
