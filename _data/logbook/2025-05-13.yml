@@ -407,3 +407,61 @@
     - ihmis-suski
     - bergie
   category: navigation
+- datetime: 2025-05-13T10:00:27.100Z
+  text: Suski on watch
+  author: ihmis-suski
+  position:
+    latitude: 12.6312899
+    longitude: -67.9904778
+    source: GPS
+  heading: 236
+  course: 265
+  speed:
+    stw: 0
+    sog: 5.4
+  log: 11865.4
+  waypoint:
+    longitude: -68.40691
+    latitude: 12.32434
+  barometer: 1012.92
+  wind:
+    speed: 15.8
+    direction: 80
+  engine:
+    hours: 977.1
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: navigation
+  observations:
+    seaState: 3
+    cloudCoverage: 3
+    visibility: 7
+- datetime: 2025-05-13T10:10:34.099Z
+  text: "Sails set: Main, Genoa 1 (20% furled)"
+  author: ""
+  position:
+    latitude: 12.6217748
+    longitude: -68.0023693
+    source: GPS
+  heading: 229
+  course: 226
+  speed:
+    stw: 0
+    sog: 4.6
+  log: 11866.3
+  waypoint:
+    longitude: -68.40691
+    latitude: 12.32434
+  barometer: 1012.94
+  wind:
+    speed: 17.4
+    direction: 85
+  engine:
+    hours: 977.1
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: navigation
