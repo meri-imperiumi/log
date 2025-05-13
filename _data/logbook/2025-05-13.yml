@@ -1,0 +1,54 @@
+- datetime: 2025-05-13T00:00:41.800Z
+  text: ""
+  author: ""
+  position:
+    latitude: 12.6780291
+    longitude: -66.9227833
+    source: GPS
+  heading: 297
+  course: 313
+  speed:
+    stw: 0
+    sog: 6.9
+  log: 11802.1
+  waypoint:
+    longitude: -68.39946
+    latitude: 12.34021
+  barometer: 1013.08
+  wind:
+    speed: 21.5
+    direction: 70
+  engine:
+    hours: 977.1
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: navigation
+- datetime: 2025-05-13T00:44:59.800Z
+  text: "Sails set: Main (1st reef), Genoa 1 (30% furled). Gusts over 30kn."
+  author: ihmis-suski
+  position:
+    latitude: 12.6760639
+    longitude: -67.0110885
+    source: GPS
+  heading: 264
+  course: 274
+  speed:
+    stw: 0
+    sog: 7.3
+  log: 11807.3
+  waypoint:
+    longitude: -68.39946
+    latitude: 12.34021
+  barometer: 1013.37
+  wind:
+    speed: 23.2
+    direction: 65
+  engine:
+    hours: 977.1
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: navigation
