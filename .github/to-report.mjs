@@ -18,6 +18,10 @@ function formatCoordinate(coord) {
   return coord.toFixed(4).replace('.', ',');
 }
 
+function formatUrl(entry) {
+  return `lille-oe.de/${entry.date.toISOString().substr(0, 10)}/`;
+}
+
 readdir(logDir)
   .then((names) => {
     const entries = [];
@@ -45,6 +49,6 @@ readdir(logDir)
   })
   .then((entries) => {
     entries.forEach((entry) => {
-      console.log(`${formatDate(entry.date)} ${formatCoordinate(entry.position.lat)} ${formatCoordinate(entry.position.lon)}`);
+      console.log(`${formatDate(entry.date)} ${formatCoordinate(entry.position.lat)} ${formatCoordinate(entry.position.lon)} ${formatUrl(entry)}`);
     });
   });
