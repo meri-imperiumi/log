@@ -1,6 +1,10 @@
 {% include read_log_entries.html %}
 {% assign map_longitude = site.data.position.longitude %}
 {% assign map_latitude = site.data.position.latitude %}
+{% if page.position %}
+  {% assign map_longitude = page.position.lon %}
+  {% assign map_latitude = page.position.lat %}
+{% endif %}
 {% if log_entries %}
   {% if log_entries.size > 0 %}
     {% if log.entry.position.latitude %}
