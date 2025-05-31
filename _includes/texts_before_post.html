@@ -17,13 +17,13 @@
 {% endfor %}
 
 {% assign posttime = post.created | date: '%s' %}
+{% assign currentyear = page.year %}
+{% assign currentyearnumber = currentyear | abs %}
 {% if forloop.first %}
   {% if currentyear == nil %}
     {% assign nexttime = site.time | date: '%s' %}
   {% endif %}
 {% endif %}
-{% assign currentyear = page.year %}
-{% assign currentyearnumber = currentyear | abs %}
 
 {% for text in site.texts %}
   {% assign texttime = text.timestamp | date: '%s' %}
