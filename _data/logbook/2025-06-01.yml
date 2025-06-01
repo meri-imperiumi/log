@@ -1,0 +1,70 @@
+- datetime: 2025-06-01T20:30:27.200Z
+  text: Saltwater pressure pump fried itself. Seems the pressure switch shorted
+    and melted
+  author: bergie
+  position:
+    latitude: 12.0807814
+    longitude: -68.8624871
+    source: GPS
+  heading: 83
+  course: 309
+  speed:
+    stw: 0
+    sog: 0
+  log: 11932.1
+  barometer: 1013.47
+  wind:
+    speed: 10
+    direction: 78
+  engine:
+    hours: 978
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: maintenance
+- datetime: 2025-06-01T20:33:27.200Z
+  text: "Started watermaker "
+  author: bergie
+  position:
+    latitude: 12.0807716
+    longitude: -68.862486
+    source: GPS
+  heading: 128
+  course: 147
+  speed:
+    stw: 0
+    sog: 0
+  log: 11932.1
+  barometer: 1013.55
+  wind:
+    speed: 21.9
+    direction: 81
+  engine:
+    hours: 978
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: maintenance
+- datetime: 2025-06-01T20:46:27.200Z
+  text: Watermaker 390ppm
+  author: bergie
+  position:
+    latitude: 12.0807878
+    longitude: -68.8625024
+    source: GPS
+  heading: 84
+  course: 3
+  speed:
+    stw: 0
+    sog: 0
+  log: 11932.1
+  barometer: 1013.24
+  wind:
+    speed: 16.8
+    direction: 101
+  engine:
+    hours: 978
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: maintenance
