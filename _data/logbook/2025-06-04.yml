@@ -1,0 +1,69 @@
+- datetime: 2025-06-04T21:00:43.001Z
+  text: Started Watermaker
+  author: ihmis-suski
+  position:
+    latitude: 12.0808319
+    longitude: -68.8624935
+    source: GPS
+  heading: 117
+  course: 359
+  speed:
+    stw: 0
+    sog: 0
+  log: 11932.1
+  barometer: 1011.17
+  wind:
+    speed: 12.5
+    direction: 92
+  engine:
+    hours: 978
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: maintenance
+- datetime: 2025-06-04T21:14:43.001Z
+  text: Watermaker 410ppm
+  author: bergie
+  position:
+    latitude: 12.0807859
+    longitude: -68.8625068
+    source: GPS
+  heading: 69
+  course: 346
+  speed:
+    stw: 0
+    sog: 0.5
+  log: 11932.1
+  barometer: 1011.17
+  wind:
+    speed: 14.3
+    direction: 102
+  engine:
+    hours: 978
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: maintenance
+- datetime: 2025-06-04T21:26:43.001Z
+  text: Stopped watermaker, there is some play with the membrane housing
+  author: bergie
+  position:
+    latitude: 12.0808238
+    longitude: -68.8624896
+    source: GPS
+  heading: 83
+  course: 359
+  speed:
+    stw: 0
+    sog: 0.4
+  log: 11932.1
+  barometer: 1011.06
+  wind:
+    speed: 14.6
+    direction: 102
+  engine:
+    hours: 978
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: maintenance
