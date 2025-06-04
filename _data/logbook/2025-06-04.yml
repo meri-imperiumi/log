@@ -67,3 +67,73 @@
     - ihmis-suski
     - bergie
   category: maintenance
+- datetime: 2025-06-04T22:04:44.000Z
+  text: 'Replaced broken watermaker bolt (5", threaded part: 1 5/8", diameter:
+    5/16"-18). Looks like crevice corrosion '
+  author: bergie
+  position:
+    latitude: 12.0807348
+    longitude: -68.8624919
+    source: GPS
+  heading: 60
+  course: 5
+  speed:
+    stw: 0
+    sog: 0.4
+  log: 11932.1
+  barometer: 1011.15
+  wind:
+    speed: 15.1
+    direction: 104
+  engine:
+    hours: 978
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: maintenance
+- datetime: 2025-06-04T22:09:44.000Z
+  text: "Started watermaker "
+  author: bergie
+  position:
+    latitude: 12.0807279
+    longitude: -68.8624924
+    source: GPS
+  heading: 100
+  course: 206
+  speed:
+    stw: 0
+    sog: 0.4
+  log: 11932.1
+  barometer: 1011.38
+  wind:
+    speed: 16
+    direction: 83
+  engine:
+    hours: 978
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: maintenance
+- datetime: 2025-06-04T22:17:44.998Z
+  text: Watermaker 401ppm
+  author: bergie
+  position:
+    latitude: 12.0807228
+    longitude: -68.8624871
+    source: GPS
+  heading: 70
+  course: 330
+  speed:
+    stw: 0
+    sog: 0.3
+  log: 11932.1
+  barometer: 1011.28
+  wind:
+    speed: 12.1
+    direction: 76
+  engine:
+    hours: 978
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: maintenance
