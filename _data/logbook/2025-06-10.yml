@@ -22,3 +22,28 @@
     - ihmis-suski
     - bergie
   category: maintenance
+- datetime: 2025-06-10T10:12:46.800Z
+  text: Refrigerator is no longer cooling. There is a hissing sound from the
+    evaporator regardless of whether fridge is running or not, so seems like a
+    coolant leak
+  author: bergie
+  position:
+    latitude: 12.0807161
+    longitude: -68.8624936
+    source: GPS
+  heading: 75
+  course: 358
+  speed:
+    stw: 0
+    sog: 0
+  log: 11932.1
+  barometer: 1014.15
+  wind:
+    speed: 10.4
+    direction: 101
+  engine:
+    hours: 978
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: maintenance
