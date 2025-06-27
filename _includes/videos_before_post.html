@@ -24,7 +24,8 @@
   {% endif %}
 {% endif %}
 
-{% for video in site.videos %}
+{% assign videos = site.videos | reverse %}
+{% for video in videos %}
   {% assign videotime = video.timestamp | date: '%s' %}
   {% assign videoyear = video.timestamp | date: '%Y' | abs %}
   {% if videotime < nexttime %}
