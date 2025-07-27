@@ -29,7 +29,11 @@
     <item>
       {% assign video_year = video.timestamp | slice: 0,4 %}
       {% assign video_id = video.timestamp | date: "%Y%m%d" %}
+      {% if video.title contains ': ' %}
+      <title>{{ video.title }}</title>
+      {% else %}
       <title>Video postcard: {{ video.title }}</title>
+      {% endif %}
       <description>{{ video.content | xml_escape }}</description>
       <pubDate>{{ video.timestamp | date_to_rfc822 }}</pubDate>
       <link>{{ video.link }}</link>
