@@ -2,6 +2,7 @@
 layout: default
 title: Videos
 ---
+{% include video_element.html %}
 <h1>{{ page.title }}</h1>
 <div>
   <p>Our video postcards can also be found <a href="https://www.youtube.com/@lille-oe">on YouTube</a>.</p>
@@ -10,11 +11,12 @@ title: Videos
 <ul class="logs">
 {% assign videos = site.videos | reverse %}
 {% for video in videos %}
+  {% assign video_id = video.link | replace: 'https://youtu.be/', '' %}
   <li id="{{ video.timestamp | date: "%Y%m%d" }}" class="video">
     <article>
       <h2 class="meta">{{ video.timestamp | date: "%A, %B %-d, %Y" }}<h2>
       <h1><a href="{{ video.link }}">Video postcard: {{ video.title }}</a></h1>
-      {{ video.content }}
+      <lite-youtube videoid="{{ video_id }}"></lite-youtube>
       <p class="meta">Finnish audio, English subtitles</p>
       <hr>
     </article>
