@@ -15,9 +15,13 @@ title: Videos
   <li id="{{ video.timestamp | date: "%Y%m%d" }}" class="video">
     <article>
       <h2 class="meta">{{ video.timestamp | date: "%A, %B %-d, %Y" }}<h2>
+      {% if video.title contains ': ' %}
+      <h1><a href="{{ video.link }}">{{ video.title }}</a></h1>
+      {% else %}
       <h1><a href="{{ video.link }}">Video postcard: {{ video.title }}</a></h1>
+      {% endif %}
       <lite-youtube videoid="{{ video_id }}"></lite-youtube>
-      <p class="meta">Finnish audio, English subtitles</p>
+      <p class="meta">Spoken Finnish with English subtitles</p>
       <hr>
     </article>
   </li>
