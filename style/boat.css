@@ -1,3 +1,12 @@
+main .video {
+  grid-column: 1 / 4;
+  padding: 1em;
+  background-color: rgb(51, 94, 111);
+}
+main .video lite-youtube {
+  --lite-youtube-frame-shadow-visible: no;
+}
+
 main .gallery {
   grid-column: 1 / 4;
   display: grid;
