@@ -1,0 +1,64 @@
+- datetime: 2025-08-12T15:18:12.800Z
+  text: We lost wind information. Rebooting NMEA2000 brought it back, though
+    requiring reconfiguring the YDNR-02 afterwards
+  author: bergie
+  position:
+    longitude: -68.8625091
+    latitude: 12.0807809
+    source: GPS
+  heading: 64
+  course: 356
+  speed:
+    sog: 0.4
+  log: 11932.1
+  barometer: 1014.61
+  engine:
+    hours: 979.9
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: maintenance
+- datetime: 2025-08-12T15:33:10.700Z
+  text: Started watermaker
+  author: bergie
+  position:
+    longitude: -68.8624834
+    latitude: 12.0808136
+    source: GPS
+  heading: 138
+  course: 201
+  speed:
+    sog: 0.4
+  log: 11932.1
+  barometer: 1014.65
+  wind:
+    speed: 10.4
+    direction: 86
+  engine:
+    hours: 979.9
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: maintenance
+- datetime: 2025-08-12T15:45:10.700Z
+  text: Watermaker 343ppm
+  author: bergie
+  position:
+    longitude: -68.8625103
+    latitude: 12.0807363
+    source: GPS
+  heading: 70
+  course: 156
+  speed:
+    sog: 0
+  log: 11932.1
+  barometer: 1014.59
+  wind:
+    speed: 10.8
+    direction: 92
+  engine:
+    hours: 979.9
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: maintenance
