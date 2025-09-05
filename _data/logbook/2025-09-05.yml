@@ -20,3 +20,48 @@
     - ihmis-suski
     - bergie
   category: maintenance
+- datetime: 2025-09-05T12:26:23.801Z
+  text: "Cleaned the filter and started watermaker. It is difficult to get the
+    cleaning valve to seal "
+  author: bergie
+  position:
+    longitude: -68.8624926
+    latitude: 12.0808334
+    source: GPS
+  heading: 109
+  course: 351
+  speed:
+    sog: 0.6
+  log: 11932.1
+  barometer: 1013.99
+  wind:
+    speed: 7.2
+    direction: 107
+  engine:
+    hours: 979.9
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: maintenance
+- datetime: 2025-09-05T12:47:22.800Z
+  text: Watermaker 259ppm
+  author: bergie
+  position:
+    longitude: -68.8625075
+    latitude: 12.0807828
+    source: GPS
+  heading: 77
+  course: 44
+  speed:
+    sog: 0
+  log: 11932.1
+  barometer: 1014.3
+  wind:
+    speed: 8.7
+    direction: 104
+  engine:
+    hours: 979.9
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: maintenance
