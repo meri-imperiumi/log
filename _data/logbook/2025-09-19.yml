@@ -20,3 +20,47 @@
     - ihmis-suski
     - bergie
   category: maintenance
+- datetime: 2025-09-19T18:01:50.700Z
+  text: Installed mainsail battens and reefing lines
+  author: bergie
+  position:
+    longitude: -68.8622041
+    latitude: 12.0805578
+    source: GPS
+  heading: 9
+  course: 5
+  speed:
+    sog: 0
+  log: 11932.1
+  barometer: 1011.68
+  wind:
+    speed: 6
+    direction: 45
+  engine:
+    hours: 980.5
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: maintenance
+- datetime: 2025-09-19T18:50:45.798Z
+  text: Replaced the broken wind blade on the Superwind. We still have one spare
+  author: bergie
+  position:
+    longitude: -68.8620784
+    latitude: 12.0808995
+    source: GPS
+  heading: 204
+  course: 236
+  speed:
+    sog: 0
+  log: 11932.1
+  barometer: 1011.66
+  wind:
+    speed: 4.8
+    direction: 206
+  engine:
+    hours: 980.5
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: maintenance
