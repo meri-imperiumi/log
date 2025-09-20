@@ -86,3 +86,48 @@
     - ihmis-suski
     - bergie
   category: maintenance
+- datetime: 2025-09-20T16:08:43.302Z
+  text: Moved info display to Shelly on computer circuit, added permanent 12V
+    chargers for Dyson and hand VHF
+  author: bergie
+  position:
+    longitude: -68.86248919169108
+    latitude: 12.0807475010554
+    source: GPS
+  heading: 45
+  course: 268
+  speed:
+    sog: 0
+  log: 11932.1
+  barometer: 1013.71
+  wind:
+    speed: 9.5
+    direction: 51
+  engine:
+    hours: 980.5
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: maintenance
+- datetime: 2025-09-20T16:26:41.299Z
+  text: Watermaker 353ppm
+  author: bergie
+  position:
+    longitude: -68.8624713
+    latitude: 12.0808619
+    source: GPS
+  heading: 122
+  course: 257
+  speed:
+    sog: 0
+  log: 11932.1
+  barometer: 1013.42
+  wind:
+    speed: 7.3
+    direction: 79
+  engine:
+    hours: 980.5
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: maintenance
