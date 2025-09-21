@@ -176,8 +176,8 @@
     - bergie
   category: maintenance
 - datetime: 2025-09-20T20:58:24.499Z
-  text: Set up a wall mount for the new logbook printer and powered infodisplay
-    monitor from its own DC-DC.
+  text: Set up a wall mount for the new logbook printer, plugged to info display
+    Pi. Powered infodisplay monitor from its own DC-DC as it couldn't do both
   author: bergie
   position:
     longitude: -68.862498
@@ -214,6 +214,28 @@
   wind:
     speed: 12.5
     direction: 69
+  engine:
+    hours: 980.5
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: maintenance
+- datetime: 2025-09-20T23:09:12.902Z
+  text: Stopped watermaker, 304ppm
+  author: bergie
+  position:
+    longitude: -68.86244214375814
+    latitude: 12.080675999323526
+    source: GPS
+  heading: 85
+  course: 268
+  speed:
+    sog: 0
+  log: 11932.1
+  barometer: 1011.18
+  wind:
+    speed: 4.9
+    direction: 66
   engine:
     hours: 980.5
   crewNames:
