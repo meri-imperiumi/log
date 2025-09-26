@@ -1,5 +1,5 @@
 - datetime: 2025-09-26T16:55:39.302Z
-  text: Installed new GE80 fridge
+  text: "Installed new GE80 refrigerator "
   author: bergie
   position:
     longitude: -68.8624363
@@ -36,6 +36,50 @@
   wind:
     speed: 11.3
     direction: 121
+  engine:
+    hours: 980.5
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: maintenance
+- datetime: 2025-09-26T19:35:45.798Z
+  text: Watermaker 430ppm
+  author: bergie
+  position:
+    longitude: -68.8624896
+    latitude: 12.0808718
+    source: GPS
+  heading: 127
+  course: 119
+  speed:
+    sog: 0
+  log: 11932.1
+  barometer: 1007.38
+  wind:
+    speed: 9.7
+    direction: 96
+  engine:
+    hours: 980.5
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: maintenance
+- datetime: 2025-09-26T19:53:45.798Z
+  text: Watermaker 405ppm
+  author: bergie
+  position:
+    longitude: -68.8625258
+    latitude: 12.0808013
+    source: GPS
+  heading: 68
+  course: 38
+  speed:
+    sog: 0
+  log: 11932.1
+  barometer: 1007.22
+  wind:
+    speed: 15.2
+    direction: 95
   engine:
     hours: 980.5
   crewNames:
