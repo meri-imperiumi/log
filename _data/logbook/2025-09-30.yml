@@ -21,7 +21,8 @@
     - bergie
   category: maintenance
 - datetime: 2025-09-30T16:29:45.100Z
-  text: Installed Sailor Hat for the Info Display RPi
+  text: Installed Sailor Hat and waterproof enclosure for the Info Display RPi.
+    Powering the HDMI screen from the 5V output
   author: bergie
   position:
     longitude: -68.8624306
@@ -36,6 +37,29 @@
   wind:
     speed: 9.2
     direction: 134
+  engine:
+    hours: 980.5
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: maintenance
+- datetime: 2025-09-30T17:52:46.502Z
+  text: Reconfigured the Console Light Shelly. It seems to have somehow lost its
+    state. Also updated firmware
+  author: bergie
+  position:
+    longitude: -68.8625263
+    latitude: 12.0807826
+    source: GPS
+  heading: 87
+  course: 353
+  speed:
+    sog: 0
+  log: 11932.1
+  barometer: 1011.17
+  wind:
+    speed: 9.7
+    direction: 104
   engine:
     hours: 980.5
   crewNames:
