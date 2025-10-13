@@ -1,0 +1,45 @@
+- datetime: 2025-10-13T18:36:13.401Z
+  text: Changed fuses in hydrogenerator controller. Both 1A and 20A had blown. Now
+    it starts again
+  author: bergie
+  position:
+    longitude: -68.8624685
+    latitude: 12.0807643
+    source: GPS
+  heading: 52
+  course: 310
+  speed:
+    sog: 0
+  log: 11932.1
+  barometer: 1009.56
+  wind:
+    speed: 8
+    direction: 97
+  engine:
+    hours: 980.5
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: maintenance
+- datetime: 2025-10-13T18:58:14.400Z
+  text: "Cleaned filter and started watermaker "
+  author: bergie
+  position:
+    longitude: -68.86248715718587
+    latitude: 12.080754001935324
+    source: GPS
+  heading: 46
+  course: 314
+  speed:
+    sog: 0
+  log: 11932.1
+  barometer: 1009.31
+  wind:
+    speed: 11.2
+    direction: 62
+  engine:
+    hours: 980.5
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: maintenance
