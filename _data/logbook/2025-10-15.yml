@@ -42,3 +42,48 @@
     - ihmis-suski
     - bergie
   category: navigation
+- datetime: 2025-10-15T16:01:46.502Z
+  text: Stopped main engine
+  author: ""
+  position:
+    longitude: -68.8624355
+    latitude: 12.0810646
+    source: GPS
+  heading: 166
+  course: 299
+  speed:
+    sog: 0
+  log: 11932.1
+  barometer: 1009.34
+  wind:
+    speed: 10.6
+    direction: 158
+  engine:
+    hours: 980.6
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: navigation
+- datetime: 2025-10-15T16:23:12.499Z
+  text: Rewired aft navigation light. The heat-shrink butt-to-butt connection had
+    failed
+  author: bergie
+  position:
+    longitude: -68.86242383321127
+    latitude: 12.081081167856853
+    source: GPS
+  heading: 186
+  course: 15
+  speed:
+    sog: 0
+  log: 11932.1
+  barometer: 1008.93
+  wind:
+    speed: 7.8
+    direction: 166
+  engine:
+    hours: 980.6
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: maintenance
