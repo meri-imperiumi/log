@@ -235,3 +235,137 @@
   crewNames:
     - ihmis-suski
     - bergie
+  category: navigation
+- datetime: 2025-10-17T16:04:51.001Z
+  text: Sails down, motoring
+  author: ""
+  position:
+    longitude: -68.9077845
+    latitude: 12.0634681
+    source: GPS
+  heading: 275
+  course: 288
+  speed:
+    sog: 2.1
+  log: 11937.2
+  waypoint:
+    longitude: -71.636545
+    latitude: 12.698204
+  barometer: 1011.33
+  wind:
+    speed: 6
+    direction: 123
+  engine:
+    hours: 981.5
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: navigation
+- datetime: 2025-10-17T16:08:06.003Z
+  text: Bergie on watch
+  author: bergie
+  position:
+    longitude: -68.9115889
+    latitude: 12.0639521
+    source: GPS
+  heading: 277
+  course: 277
+  speed:
+    sog: 5.1
+  log: 11937.4
+  waypoint:
+    longitude: -71.636545
+    latitude: 12.698204
+  barometer: 1011.27
+  wind:
+    speed: 6.8
+    direction: 112
+  engine:
+    hours: 981.5
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: navigation
+  observations:
+    seaState: 2
+    cloudCoverage: 3
+    visibility: 8
+- datetime: 2025-10-17T16:23:07.001Z
+  text: Pumped the bilge
+  author: bergie
+  position:
+    longitude: -68.9331815
+    latitude: 12.0667059
+    source: GPS
+  heading: 273
+  course: 272
+  speed:
+    sog: 5
+  log: 11938.7
+  waypoint:
+    longitude: -71.636545
+    latitude: 12.698204
+  barometer: 1011.02
+  wind:
+    speed: 6.8
+    direction: 122
+  engine:
+    hours: 981.8
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: maintenance
+- datetime: 2025-10-17T16:48:08.102Z
+  text: Dolphins! Many small ones
+  author: bergie
+  position:
+    longitude: -68.9707904
+    latitude: 12.0743768
+    source: GPS
+  heading: 282
+  course: 284
+  speed:
+    sog: 5.6
+  log: 11941
+  waypoint:
+    longitude: -71.636545
+    latitude: 12.698204
+  barometer: 1010.73
+  wind:
+    speed: 5.6
+    direction: 108
+  engine:
+    hours: 982.2
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: navigation
+- datetime: 2025-10-17T17:00:09.100Z
+  text: ""
+  author: ""
+  position:
+    longitude: -68.9896271
+    latitude: 12.0785003
+    source: GPS
+  heading: 282
+  course: 283
+  speed:
+    sog: 5.8
+  log: 11942.1
+  waypoint:
+    longitude: -71.636545
+    latitude: 12.698204
+  barometer: 1010.22
+  wind:
+    speed: 7.2
+    direction: 132
+  engine:
+    hours: 982.4
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
