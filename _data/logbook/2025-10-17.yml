@@ -526,3 +526,138 @@
     - ihmis-suski
     - bergie
   category: maintenance
+- datetime: 2025-10-17T20:00:18.201Z
+  text: ""
+  author: ""
+  position:
+    longitude: -69.2600224
+    latitude: 12.1351626
+    source: GPS
+  heading: 297
+  course: 287
+  speed:
+    sog: 4.8
+  log: 11958.4
+  waypoint:
+    longitude: -71.636545
+    latitude: 12.698204
+  barometer: 1007.63
+  wind:
+    speed: 10.1
+    direction: 12
+  engine:
+    hours: 984.6
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: navigation
+- datetime: 2025-10-17T20:13:28.198Z
+  text: Autopilot deactivated, windvane steering
+  author: bergie
+  position:
+    longitude: -69.2791226
+    latitude: 12.1392613
+    source: GPS
+  heading: 293
+  course: 286
+  speed:
+    sog: 5.6
+  log: 11959.5
+  waypoint:
+    longitude: -71.636545
+    latitude: 12.698204
+  barometer: 1007.44
+  wind:
+    speed: 13
+    direction: 25
+  engine:
+    hours: 984.6
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: navigation
+  observations:
+    seaState: 3
+    cloudCoverage: 6
+    visibility: 8
+- datetime: 2025-10-17T20:19:50.201Z
+  text: "Sails set: Main, Genoa 1 (20% furled)"
+  author: ""
+  position:
+    longitude: -69.2887418
+    latitude: 12.1416934
+    source: GPS
+  heading: 292
+  course: 282
+  speed:
+    sog: 5
+  log: 11960.1
+  waypoint:
+    longitude: -71.636545
+    latitude: 12.698204
+  barometer: 1007.26
+  wind:
+    speed: 13.9
+    direction: 29
+  engine:
+    hours: 984.6
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: navigation
+- datetime: 2025-10-17T20:25:20.198Z
+  text: Out of Curaçao territorial waters. Seas are lumpy but small
+  author: bergie
+  position:
+    longitude: -69.2972336
+    latitude: 12.1433815
+    source: GPS
+  heading: 290
+  course: 280
+  speed:
+    sog: 5.9
+  log: 11960.6
+  waypoint:
+    longitude: -71.636545
+    latitude: 12.698204
+  barometer: 1007.14
+  wind:
+    speed: 14.8
+    direction: 31
+  engine:
+    hours: 984.6
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: navigation
+- datetime: 2025-10-17T20:45:29.203Z
+  text: "Sails set: Main (1st reef), Genoa 1 (20% furled). We hear some rumbling
+    from the south "
+  author: bergie
+  position:
+    longitude: -69.3252413
+    latitude: 12.1528
+    source: GPS
+  heading: 299
+  course: 291
+  speed:
+    sog: 5.1
+  log: 11962.4
+  waypoint:
+    longitude: -71.636545
+    latitude: 12.698204
+  barometer: 1007.45
+  wind:
+    speed: 13.5
+    direction: 44
+  engine:
+    hours: 984.6
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: navigation
