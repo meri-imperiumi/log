@@ -369,3 +369,55 @@
   crewNames:
     - ihmis-suski
     - bergie
+  category: navigation
+- datetime: 2025-10-17T17:57:13.100Z
+  text: Passing the Rainbow Warrior
+  author: bergie
+  position:
+    longitude: -69.0833153
+    latitude: 12.103506
+    source: GPS
+  heading: 285
+  course: 278
+  speed:
+    sog: 6.1
+  log: 11947.8
+  waypoint:
+    longitude: -71.636545
+    latitude: 12.698204
+  barometer: 1009.29
+  wind:
+    speed: 4.1
+    direction: 97
+  engine:
+    hours: 983.3
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: navigation
+- datetime: 2025-10-17T18:00:12.102Z
+  text: ""
+  author: ""
+  position:
+    longitude: -69.0883375
+    latitude: 12.1043123
+    source: GPS
+  heading: 284
+  course: 278
+  speed:
+    sog: 6
+  log: 11948.1
+  waypoint:
+    longitude: -71.636545
+    latitude: 12.698204
+  barometer: 1009.23
+  wind:
+    speed: 5.1
+    direction: 106
+  engine:
+    hours: 983.4
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
