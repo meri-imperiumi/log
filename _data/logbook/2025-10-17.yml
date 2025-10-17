@@ -713,3 +713,82 @@
     - ihmis-suski
     - bergie
   category: maintenance
+- datetime: 2025-10-17T22:00:23.302Z
+  text: Suski on watch
+  author: ihmis-suski
+  position:
+    longitude: -69.4231401
+    latitude: 12.1790253
+    source: GPS
+  heading: 296
+  course: 279
+  speed:
+    sog: 4.6
+  log: 11968.3
+  waypoint:
+    longitude: -71.636545
+    latitude: 12.698204
+  barometer: 1008.15
+  wind:
+    speed: 11.9
+    direction: 40
+  engine:
+    hours: 984.6
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: navigation
+- datetime: 2025-10-17T22:16:22.297Z
+  text: Got contacted by Robin from Sya via Meshtastic. They were flying over
+    Lille Ø in an airplane
+  author: bergie
+  position:
+    longitude: -69.4422651
+    latitude: 12.1851239
+    source: GPS
+  heading: 304
+  course: 293
+  speed:
+    sog: 4.3
+  log: 11969.5
+  waypoint:
+    longitude: -71.636545
+    latitude: 12.698204
+  barometer: 1008.49
+  wind:
+    speed: 10.7
+    direction: 49
+  engine:
+    hours: 984.6
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: radio
+- datetime: 2025-10-17T22:29:49.299Z
+  text: "Sails set: Main (1st reef), Genoa 1"
+  author: ""
+  position:
+    longitude: -69.4578339
+    latitude: 12.1911841
+    source: GPS
+  heading: 311
+  course: 305
+  speed:
+    sog: 3.6
+  log: 11970.5
+  waypoint:
+    longitude: -71.636545
+    latitude: 12.698204
+  barometer: 1008.65
+  wind:
+    speed: 9.7
+    direction: 52
+  engine:
+    hours: 984.6
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: navigation
