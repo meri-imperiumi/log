@@ -1092,3 +1092,59 @@
     - ihmis-suski
     - bergie
   category: navigation
+- datetime: 2025-10-18T22:00:31.801Z
+  text: ""
+  author: ""
+  position:
+    longitude: -71.3548636
+    latitude: 12.7630233
+    source: GPS
+  heading: 306
+  course: 304
+  speed:
+    sog: 5.8
+  log: 12089.3
+  waypoint:
+    longitude: -71.636545
+    latitude: 12.698204
+  barometer: 1010.01
+  wind:
+    speed: 19.7
+    direction: 89
+  engine:
+    hours: 993.6
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: navigation
+- datetime: 2025-10-18T22:16:52.902Z
+  text: "Sails set: Main (2nd reef), Staysail. Gybed towards Colombia "
+  author: bergie
+  position:
+    longitude: -71.3781723
+    latitude: 12.773129
+    source: GPS
+  heading: 245
+  course: 239
+  speed:
+    sog: 5.1
+  log: 12090.9
+  waypoint:
+    longitude: -71.636545
+    latitude: 12.698204
+  barometer: 1010.19
+  wind:
+    speed: 18.5
+    direction: 93
+  engine:
+    hours: 993.6
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: navigation
+  observations:
+    seaState: 3
+    cloudCoverage: 3
+    visibility: 7
