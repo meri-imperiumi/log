@@ -261,3 +261,34 @@
     - ihmis-suski
     - bergie
   category: navigation
+- datetime: 2025-10-18T05:00:43.900Z
+  text: Now there would be sailing wind, but too dangerous with lightning all
+    around. Abeam Aruba
+  author: bergie
+  position:
+    longitude: -69.8765063603719
+    latitude: 12.360956160227458
+    source: GPS
+  heading: 287
+  course: 277
+  speed:
+    sog: 6.1
+  log: 11997.6
+  waypoint:
+    longitude: -71.636545
+    latitude: 12.698204
+  barometer: 1011.37
+  wind:
+    speed: 14.3
+    direction: 103
+  engine:
+    hours: 985.9
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: navigation
+  observations:
+    seaState: 3
+    cloudCoverage: 8
+    visibility: 6
