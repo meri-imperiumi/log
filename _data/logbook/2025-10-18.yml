@@ -50,3 +50,56 @@
     - ihmis-suski
     - bergie
   category: navigation
+- datetime: 2025-10-18T01:00:31.400Z
+  text: ""
+  author: ""
+  position:
+    longitude: -69.6136311
+    latitude: 12.2512115
+    source: GPS
+  heading: 297
+  course: 283
+  speed:
+    sog: 3.8
+  log: 11980.4
+  waypoint:
+    longitude: -71.636545
+    latitude: 12.698204
+  barometer: 1010.75
+  wind:
+    speed: 8
+    direction: 70
+  engine:
+    hours: 984.6
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: navigation
+- datetime: 2025-10-18T01:17:32.400Z
+  text: Thunder in south of us in Venezuela. Rumblings are not heard, so very far
+    away.
+  author: ihmis-suski
+  position:
+    longitude: -69.6317719
+    latitude: 12.2566651
+    source: GPS
+  heading: 300
+  course: 285
+  speed:
+    sog: 4.1
+  log: 11981.5
+  waypoint:
+    longitude: -71.636545
+    latitude: 12.698204
+  barometer: 1010.82
+  wind:
+    speed: 7.5
+    direction: 77
+  engine:
+    hours: 984.6
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: navigation
