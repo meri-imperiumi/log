@@ -512,58 +512,6 @@
     - ihmis-suski
     - bergie
   category: navigation
-- datetime: 2025-10-18T11:55:57.100Z
-  text: Motor stopped, sailing with Main (1st reef), Genoa 1
-  author: ""
-  position:
-    longitude: -70.4939026
-    latitude: 12.5697336
-    source: GPS
-  heading: 329
-  course: 324
-  speed:
-    sog: 5.4
-  log: 12036.2
-  waypoint:
-    longitude: -70.757534
-    latitude: 12.623624
-  barometer: 1012.35
-  wind:
-    speed: 7.3
-    direction: 102
-  engine:
-    hours: 992.6
-  vhf: "16"
-  crewNames:
-    - ihmis-suski
-    - bergie
-  category: navigation
-- datetime: 2025-10-18T11:56:03.100Z
-  text: Sails down, motoring
-  author: ""
-  position:
-    longitude: -70.4939929
-    latitude: 12.5698541
-    source: GPS
-  heading: 326
-  course: 324
-  speed:
-    sog: 5.3
-  log: 12036.2
-  waypoint:
-    longitude: -70.757534
-    latitude: 12.623624
-  barometer: 1012.35
-  wind:
-    speed: 5.8
-    direction: 100
-  engine:
-    hours: 992.6
-  vhf: "16"
-  crewNames:
-    - ihmis-suski
-    - bergie
-  category: navigation
 - datetime: 2025-10-18T12:00:04.099Z
   text: ""
   author: ""
@@ -585,6 +533,32 @@
     direction: 95
   engine:
     hours: 992.6
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: navigation
+- datetime: 2025-10-18T13:00:06.499Z
+  text: ""
+  author: ""
+  position:
+    longitude: -70.5798583
+    latitude: 12.6038718
+    source: GPS
+  heading: 272
+  course: 276
+  speed:
+    sog: 5.4
+  log: 12041.9
+  waypoint:
+    longitude: -70.757534
+    latitude: 12.623624
+  barometer: 1012.96
+  wind:
+    speed: 4.9
+    direction: 87
+  engine:
+    hours: 993.4
   vhf: "16"
   crewNames:
     - ihmis-suski
