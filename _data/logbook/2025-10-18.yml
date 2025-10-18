@@ -694,3 +694,85 @@
     - ihmis-suski
     - bergie
   category: maintenance
+- datetime: 2025-10-18T16:00:15.603Z
+  text: Bergie on watch
+  author: bergie
+  position:
+    longitude: -70.8598966
+    latitude: 12.6198321
+    source: GPS
+  heading: 280
+  course: 264
+  speed:
+    sog: 4.6
+  log: 12058.4
+  waypoint:
+    longitude: -71.636545
+    latitude: 12.698204
+  barometer: 1012.58
+  wind:
+    speed: 11.3
+    direction: 69
+  engine:
+    hours: 993.6
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: navigation
+  observations:
+    seaState: 3
+    cloudCoverage: 6
+    visibility: 7
+- datetime: 2025-10-18T16:10:21.600Z
+  text: "Sails set: Main (2nd reef), Genoa 1 (40% furled), Staysail. Wing on wing"
+  author: bergie
+  position:
+    longitude: -70.8721611
+    latitude: 12.6209321
+    source: GPS
+  heading: 279
+  course: 263
+  speed:
+    sog: 4.9
+  log: 12059.1
+  waypoint:
+    longitude: -71.636545
+    latitude: 12.698204
+  barometer: 1012.67
+  wind:
+    speed: 9.6
+    direction: 78
+  engine:
+    hours: 993.6
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: navigation
+- datetime: 2025-10-18T16:15:15.596Z
+  text: Watermaker 336ppm
+  author: bergie
+  position:
+    longitude: -70.87849782307943
+    latitude: 12.621440188090007
+    source: GPS
+  heading: 277
+  course: 268
+  speed:
+    sog: 4.8
+  log: 12059.5
+  waypoint:
+    longitude: -71.636545
+    latitude: 12.698204
+  barometer: 1012.64
+  wind:
+    speed: 9.8
+    direction: 71
+  engine:
+    hours: 993.6
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: maintenance
