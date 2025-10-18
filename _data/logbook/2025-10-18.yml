@@ -347,3 +347,60 @@
   crewNames:
     - ihmis-suski
     - bergie
+  category: navigation
+- datetime: 2025-10-18T08:00:52.000Z
+  text: ""
+  author: ""
+  position:
+    longitude: -70.175016
+    latitude: 12.4412653
+    source: GPS
+  heading: 286
+  course: 290
+  speed:
+    sog: 5.8
+  log: 12015.8
+  waypoint:
+    longitude: -71.636545
+    latitude: 12.698204
+  barometer: 1009.81
+  wind:
+    speed: 2.5
+    direction: 105
+  engine:
+    hours: 988.9
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: navigation
+- datetime: 2025-10-18T08:50:54.000Z
+  text: Out of Aruba waters. There's again some flashing behind us
+  author: bergie
+  position:
+    longitude: -70.2487348
+    latitude: 12.4651311
+    source: GPS
+  heading: 282
+  course: 290
+  speed:
+    sog: 4.7
+  log: 12020.4
+  waypoint:
+    longitude: -71.636545
+    latitude: 12.698204
+  barometer: 1009.92
+  wind:
+    speed: 3.4
+    direction: 31
+  engine:
+    hours: 989.7
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: navigation
+  observations:
+    seaState: 2
+    cloudCoverage: 7
+    visibility: 7
