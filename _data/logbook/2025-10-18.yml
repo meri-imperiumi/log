@@ -485,3 +485,107 @@
   crewNames:
     - ihmis-suski
     - bergie
+  category: navigation
+- datetime: 2025-10-18T11:43:03.100Z
+  text: Rain (and thunder) getting closer.
+  author: ihmis-suski
+  position:
+    longitude: -70.4787623
+    latitude: 12.5574006
+    source: GPS
+  heading: 287
+  course: 290
+  speed:
+    sog: 5.1
+  log: 12035
+  waypoint:
+    longitude: -70.757534
+    latitude: 12.623624
+  barometer: 1012.22
+  wind:
+    speed: 6.5
+    direction: 79
+  engine:
+    hours: 992.4
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: navigation
+- datetime: 2025-10-18T11:55:57.100Z
+  text: Motor stopped, sailing with Main (1st reef), Genoa 1
+  author: ""
+  position:
+    longitude: -70.4939026
+    latitude: 12.5697336
+    source: GPS
+  heading: 329
+  course: 324
+  speed:
+    sog: 5.4
+  log: 12036.2
+  waypoint:
+    longitude: -70.757534
+    latitude: 12.623624
+  barometer: 1012.35
+  wind:
+    speed: 7.3
+    direction: 102
+  engine:
+    hours: 992.6
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: navigation
+- datetime: 2025-10-18T11:56:03.100Z
+  text: Sails down, motoring
+  author: ""
+  position:
+    longitude: -70.4939929
+    latitude: 12.5698541
+    source: GPS
+  heading: 326
+  course: 324
+  speed:
+    sog: 5.3
+  log: 12036.2
+  waypoint:
+    longitude: -70.757534
+    latitude: 12.623624
+  barometer: 1012.35
+  wind:
+    speed: 5.8
+    direction: 100
+  engine:
+    hours: 992.6
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: navigation
+- datetime: 2025-10-18T12:00:04.099Z
+  text: ""
+  author: ""
+  position:
+    longitude: -70.4978176
+    latitude: 12.5746194
+    source: GPS
+  heading: 326
+  course: 319
+  speed:
+    sog: 5.3
+  log: 12036.5
+  waypoint:
+    longitude: -70.757534
+    latitude: 12.623624
+  barometer: 1012.39
+  wind:
+    speed: 6.3
+    direction: 95
+  engine:
+    hours: 992.6
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
