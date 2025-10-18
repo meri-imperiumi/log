@@ -292,3 +292,33 @@
     seaState: 3
     cloudCoverage: 8
     visibility: 6
+- datetime: 2025-10-18T06:00:44.899Z
+  text: Thunder seems to have mostly passed
+  author: bergie
+  position:
+    longitude: -69.9755809
+    latitude: 12.381309
+    source: GPS
+  heading: 282
+  course: 280
+  speed:
+    sog: 6.5
+  log: 12003.6
+  waypoint:
+    longitude: -71.636545
+    latitude: 12.698204
+  barometer: 1010.85
+  wind:
+    speed: 8.1
+    direction: 95
+  engine:
+    hours: 986.9
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: navigation
+  observations:
+    seaState: 2
+    cloudCoverage: 6
+    visibility: 7
