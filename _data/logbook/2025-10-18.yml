@@ -182,8 +182,9 @@
     - bergie
   category: navigation
 - datetime: 2025-10-18T03:48:39.800Z
-  text: That was hectic, biggest we saw of the squall was 45kt. But, we got sails
-    down
+  text: "That was hectic, biggest we saw of the squall was 45kt. But, we got sails
+    down. Genoa was already rolled, motor was on, so we had only to deal with
+    the main in 1st reef. "
   author: bergie
   position:
     longitude: -69.7741966
@@ -203,6 +204,58 @@
     direction: 165
   engine:
     hours: 984.7
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: navigation
+- datetime: 2025-10-18T04:00:39.800Z
+  text: ""
+  author: ""
+  position:
+    longitude: -69.7898451
+    latitude: 12.3429635
+    source: GPS
+  heading: 306
+  course: 308
+  speed:
+    sog: 5.2
+  log: 11992.4
+  waypoint:
+    longitude: -71.636545
+    latitude: 12.698204
+  barometer: 1011.77
+  wind:
+    speed: 18.4
+    direction: 206
+  engine:
+    hours: 984.9
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: navigation
+- datetime: 2025-10-18T04:06:13.800Z
+  text: Autopilot activated
+  author: ""
+  position:
+    longitude: -69.7969711
+    latitude: 12.3459396
+    source: GPS
+  heading: 283
+  course: 281
+  speed:
+    sog: 4.8
+  log: 11992.9
+  waypoint:
+    longitude: -71.636545
+    latitude: 12.698204
+  barometer: 1011.74
+  wind:
+    speed: 6.7
+    direction: 190
+  engine:
+    hours: 984.9
   vhf: "16"
   crewNames:
     - ihmis-suski
