@@ -792,3 +792,107 @@
     - ihmis-suski
     - bergie
   category: navigation
+- datetime: 2025-10-17T23:00:24.300Z
+  text: ""
+  author: ""
+  position:
+    longitude: -69.4873186
+    latitude: 12.2054025
+    source: GPS
+  heading: 306
+  course: 300
+  speed:
+    sog: 3.8
+  log: 11972.5
+  waypoint:
+    longitude: -71.636545
+    latitude: 12.698204
+  barometer: 1009.18
+  wind:
+    speed: 9.2
+    direction: 62
+  engine:
+    hours: 984.6
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: navigation
+- datetime: 2025-10-17T23:13:25.299Z
+  text: Watermaker 258ppm. Stopped for tonight
+  author: ihmis-suski
+  position:
+    longitude: -69.5009726
+    latitude: 12.2111101
+    source: GPS
+  heading: 307
+  course: 304
+  speed:
+    sog: 3.9
+  log: 11973.3
+  waypoint:
+    longitude: -71.636545
+    latitude: 12.698204
+  barometer: 1009.12
+  wind:
+    speed: 10
+    direction: 51
+  engine:
+    hours: 984.6
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: maintenance
+- datetime: 2025-10-17T23:14:25.299Z
+  text: A big ship in our starboard without AIS
+  author: ihmis-suski
+  position:
+    longitude: -69.5020736
+    latitude: 12.2116285
+    source: GPS
+  heading: 309
+  course: 290
+  speed:
+    sog: 4.5
+  log: 11973.4
+  waypoint:
+    longitude: -71.636545
+    latitude: 12.698204
+  barometer: 1009.12
+  wind:
+    speed: 10.7
+    direction: 64
+  engine:
+    hours: 984.6
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: navigation
+- datetime: 2025-10-17T23:36:26.297Z
+  text: The ship turned and is going away from us now
+  author: ihmis-suski
+  position:
+    longitude: -69.5257895
+    latitude: 12.2217429
+    source: GPS
+  heading: 300
+  course: 287
+  speed:
+    sog: 4.1
+  log: 11974.9
+  waypoint:
+    longitude: -71.636545
+    latitude: 12.698204
+  barometer: 1009.61
+  wind:
+    speed: 9.2
+    direction: 56
+  engine:
+    hours: 984.6
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: navigation
