@@ -128,3 +128,83 @@
   crewNames:
     - ihmis-suski
     - bergie
+  category: navigation
+- datetime: 2025-10-18T03:00:36.800Z
+  text: ""
+  author: ""
+  position:
+    longitude: -69.7350615
+    latitude: 12.312727
+    source: GPS
+  heading: 287
+  course: 283
+  speed:
+    sog: 3.3
+  log: 11988.5
+  waypoint:
+    longitude: -71.636545
+    latitude: 12.698204
+  barometer: 1011.23
+  wind:
+    speed: 9.8
+    direction: 79
+  engine:
+    hours: 984.6
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: navigation
+- datetime: 2025-10-18T03:45:46.800Z
+  text: Sails down, motoring
+  author: ""
+  position:
+    longitude: -69.7706488
+    latitude: 12.3369031
+    source: GPS
+  heading: 270
+  course: 277
+  speed:
+    sog: 1.9
+  log: 11991.2
+  waypoint:
+    longitude: -71.636545
+    latitude: 12.698204
+  barometer: 1011.84
+  wind:
+    speed: 5.7
+    direction: 193
+  engine:
+    hours: 984.6
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: navigation
+- datetime: 2025-10-18T03:48:39.800Z
+  text: That was hectic, biggest we saw of the squall was 45kt. But, we got sails
+    down
+  author: bergie
+  position:
+    longitude: -69.7741966
+    latitude: 12.3364654
+    source: GPS
+  heading: 259
+  course: 267
+  speed:
+    sog: 5.9
+  log: 11991.4
+  waypoint:
+    longitude: -71.636545
+    latitude: 12.698204
+  barometer: 1011.81
+  wind:
+    speed: 17.9
+    direction: 165
+  engine:
+    hours: 984.7
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: navigation
