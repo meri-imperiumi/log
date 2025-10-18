@@ -828,3 +828,111 @@
     - ihmis-suski
     - bergie
   category: navigation
+- datetime: 2025-10-18T18:00:21.702Z
+  text: ""
+  author: ""
+  position:
+    longitude: -71.0225466
+    latitude: 12.6282075
+    source: GPS
+  heading: 279
+  course: 290
+  speed:
+    sog: 5.3
+  log: 12068
+  waypoint:
+    longitude: -71.636545
+    latitude: 12.698204
+  barometer: 1011.18
+  wind:
+    speed: 11.9
+    direction: 74
+  engine:
+    hours: 993.6
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: navigation
+- datetime: 2025-10-18T18:02:21.702Z
+  text: Watermaker 285ppm
+  author: bergie
+  position:
+    longitude: -71.0251823
+    latitude: 12.6286289
+    source: GPS
+  heading: 284
+  course: 284
+  speed:
+    sog: 4.7
+  log: 12068.1
+  waypoint:
+    longitude: -71.636545
+    latitude: 12.698204
+  barometer: 1011.15
+  wind:
+    speed: 9.9
+    direction: 89
+  engine:
+    hours: 993.6
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: maintenance
+- datetime: 2025-10-18T18:11:04.697Z
+  text: "Sails set: Main (1st reef), Genoa 1 (40% furled), Staysail"
+  author: ""
+  position:
+    longitude: -71.0359426
+    latitude: 12.6313573
+    source: GPS
+  heading: 293
+  course: 295
+  speed:
+    sog: 5.2
+  log: 12068.8
+  waypoint:
+    longitude: -71.636545
+    latitude: 12.698204
+  barometer: 1011
+  wind:
+    speed: 12
+    direction: 83
+  engine:
+    hours: 993.6
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: navigation
+- datetime: 2025-10-18T18:48:23.699Z
+  text: Out of Venezuelan waters
+  author: bergie
+  position:
+    longitude: -71.0847098
+    latitude: 12.6490348
+    source: GPS
+  heading: 300
+  course: 296
+  speed:
+    sog: 4.9
+  log: 12071.9
+  waypoint:
+    longitude: -71.636545
+    latitude: 12.698204
+  barometer: 1010.78
+  wind:
+    speed: 8.3
+    direction: 102
+  engine:
+    hours: 993.6
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: navigation
+  observations:
+    seaState: 3
+    cloudCoverage: 4
+    visibility: 7
