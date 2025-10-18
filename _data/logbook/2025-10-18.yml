@@ -776,3 +776,55 @@
     - ihmis-suski
     - bergie
   category: maintenance
+- datetime: 2025-10-18T17:00:17.600Z
+  text: ""
+  author: ""
+  position:
+    longitude: -70.9376526
+    latitude: 12.6259698
+    source: GPS
+  heading: 278
+  course: 275
+  speed:
+    sog: 4.9
+  log: 12062.9
+  waypoint:
+    longitude: -71.636545
+    latitude: 12.698204
+  barometer: 1012.29
+  wind:
+    speed: 12.2
+    direction: 67
+  engine:
+    hours: 993.6
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: navigation
+- datetime: 2025-10-18T17:20:27.699Z
+  text: Autopilot deactivated. Windvane steering
+  author: bergie
+  position:
+    longitude: -70.9684588
+    latitude: 12.6254953
+    source: GPS
+  heading: 270
+  course: 271
+  speed:
+    sog: 5.2
+  log: 12064.8
+  waypoint:
+    longitude: -71.636545
+    latitude: 12.698204
+  barometer: 1011.95
+  wind:
+    speed: 13.3
+    direction: 55
+  engine:
+    hours: 993.6
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: navigation
