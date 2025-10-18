@@ -563,3 +563,30 @@
   crewNames:
     - ihmis-suski
     - bergie
+  category: navigation
+- datetime: 2025-10-18T13:15:07.500Z
+  text: Delfiinejä!
+  author: ihmis-suski
+  position:
+    longitude: -70.6018473
+    latitude: 12.6060813
+    source: GPS
+  heading: 279
+  course: 273
+  speed:
+    sog: 5.9
+  log: 12043.2
+  waypoint:
+    longitude: -70.757534
+    latitude: 12.623624
+  barometer: 1013.2
+  wind:
+    speed: 4.1
+    direction: 100
+  engine:
+    hours: 993.4
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: navigation
