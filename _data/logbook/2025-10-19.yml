@@ -481,3 +481,29 @@
     - ihmis-suski
     - bergie
   category: navigation
+- datetime: 2025-10-19T11:00:11.001Z
+  text: Sailing on beam reach.
+  author: ihmis-suski
+  position:
+    longitude: -72.65215352376302
+    latitude: 12.594685808817546
+    source: GPS
+  heading: 250
+  course: 260
+  speed:
+    sog: 6.4
+  log: 12166.8
+  waypoint:
+    longitude: -74.34849
+    latitude: 11.725724
+  barometer: 1012.15
+  wind:
+    speed: 25.6
+    direction: 104
+  engine:
+    hours: 993.6
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: navigation
