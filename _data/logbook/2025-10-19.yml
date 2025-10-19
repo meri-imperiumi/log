@@ -215,3 +215,56 @@
     - ihmis-suski
     - bergie
   category: navigation
+- datetime: 2025-10-19T05:00:52.400Z
+  text: ""
+  author: ""
+  position:
+    longitude: -72.0591963
+    latitude: 12.6419839
+    source: GPS
+  heading: 241
+  course: 260
+  speed:
+    sog: 5.5
+  log: 12131.7
+  waypoint:
+    longitude: -74.34849
+    latitude: 11.725724
+  barometer: 1012.1
+  wind:
+    speed: 19.6
+    direction: 81
+  engine:
+    hours: 993.6
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: navigation
+- datetime: 2025-10-19T05:31:53.500Z
+  text: Getting closer to Cabo de la Vela, so wind picking up a bit. Peaks 27kt so
+    far
+  author: bergie
+  position:
+    longitude: -72.114806
+    latitude: 12.6332833
+    source: GPS
+  heading: 248
+  course: 257
+  speed:
+    sog: 7
+  log: 12135
+  waypoint:
+    longitude: -74.34849
+    latitude: 11.725724
+  barometer: 1011.87
+  wind:
+    speed: 25.5
+    direction: 99
+  engine:
+    hours: 993.6
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: navigation
