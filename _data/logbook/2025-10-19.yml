@@ -748,3 +748,56 @@
   crewNames:
     - ihmis-suski
     - bergie
+  category: navigation
+- datetime: 2025-10-19T18:00:28.198Z
+  text: Something very eagle-like, brown and white flew behind us
+  author: bergie
+  position:
+    longitude: -73.2652528
+    latitude: 12.2645246
+    source: GPS
+  heading: 233
+  course: 243
+  speed:
+    sog: 5.1
+  log: 12208.4
+  waypoint:
+    longitude: -74.34849
+    latitude: 11.725724
+  barometer: 1010.29
+  wind:
+    speed: 20.8
+    direction: 65
+  engine:
+    hours: 993.6
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: navigation
+- datetime: 2025-10-19T18:32:30.297Z
+  text: Watermaker 328ppm
+  author: bergie
+  position:
+    longitude: -73.3054583
+    latitude: 12.2250883
+    source: GPS
+  heading: 222
+  course: 224
+  speed:
+    sog: 6
+  log: 12211.8
+  waypoint:
+    longitude: -74.34849
+    latitude: 11.725724
+  barometer: 1009.9
+  wind:
+    speed: 24
+    direction: 67
+  engine:
+    hours: 993.6
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: maintenance
