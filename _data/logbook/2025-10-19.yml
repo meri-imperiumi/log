@@ -28,3 +28,55 @@
     seaState: 4
     cloudCoverage: 2
     visibility: 7
+- datetime: 2025-10-19T01:00:40.300Z
+  text: ""
+  author: ""
+  position:
+    longitude: -71.6476418
+    latitude: 12.7156145
+    source: GPS
+  heading: 253
+  course: 261
+  speed:
+    sog: 6.2
+  log: 12107.1
+  waypoint:
+    longitude: -74.34849
+    latitude: 11.725724
+  barometer: 1012.49
+  wind:
+    speed: 19.6
+    direction: 93
+  engine:
+    hours: 993.6
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: navigation
+- datetime: 2025-10-19T01:47:42.300Z
+  text: Single lightnings on various sides. Sky still starry, so very far away
+  author: ihmis-suski
+  position:
+    longitude: -71.7266498
+    latitude: 12.6961671
+    source: GPS
+  heading: 253
+  course: 253
+  speed:
+    sog: 5.9
+  log: 12111.9
+  waypoint:
+    longitude: -74.34849
+    latitude: 11.725724
+  barometer: 1013.03
+  wind:
+    speed: 16.9
+    direction: 85
+  engine:
+    hours: 993.6
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: navigation
