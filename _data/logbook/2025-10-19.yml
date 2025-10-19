@@ -1,0 +1,30 @@
+- datetime: 2025-10-19T00:00:37.300Z
+  text: ""
+  author: ihmis-suski
+  position:
+    longitude: -71.5464158
+    latitude: 12.7365513
+    source: GPS
+  heading: 244
+  course: 253
+  speed:
+    sog: 5.7
+  log: 12101
+  waypoint:
+    longitude: -71.636545
+    latitude: 12.698204
+  barometer: 1011.22
+  wind:
+    speed: 20.6
+    direction: 92
+  engine:
+    hours: 993.6
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: navigation
+  observations:
+    seaState: 4
+    cloudCoverage: 2
+    visibility: 7
