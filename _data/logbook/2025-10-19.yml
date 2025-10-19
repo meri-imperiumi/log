@@ -268,3 +268,55 @@
     - ihmis-suski
     - bergie
   category: navigation
+- datetime: 2025-10-19T06:00:55.500Z
+  text: ""
+  author: ""
+  position:
+    longitude: -72.1624878
+    latitude: 12.6256991
+    source: GPS
+  heading: 259
+  course: 263
+  speed:
+    sog: 6.5
+  log: 12137.9
+  waypoint:
+    longitude: -74.34849
+    latitude: 11.725724
+  barometer: 1011.36
+  wind:
+    speed: 19.7
+    direction: 92
+  engine:
+    hours: 993.6
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: navigation
+- datetime: 2025-10-19T06:56:57.500Z
+  text: Three flying fishes evicted from the cockpit
+  author: bergie
+  position:
+    longitude: -72.2514248
+    latitude: 12.6122374
+    source: GPS
+  heading: 248
+  course: 248
+  speed:
+    sog: 5.7
+  log: 12143.2
+  waypoint:
+    longitude: -74.34849
+    latitude: 11.725724
+  barometer: 1011
+  wind:
+    speed: 21
+    direction: 99
+  engine:
+    hours: 993.6
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: navigation
