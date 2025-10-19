@@ -159,3 +159,59 @@
     - ihmis-suski
     - bergie
   category: navigation
+- datetime: 2025-10-19T04:00:48.400Z
+  text: Bergie on watch
+  author: bergie
+  position:
+    longitude: -71.9518744
+    latitude: 12.6507165
+    source: GPS
+  heading: 260
+  course: 251
+  speed:
+    sog: 8
+  log: 12125.4
+  waypoint:
+    longitude: -74.34849
+    latitude: 11.725724
+  barometer: 1012.89
+  wind:
+    speed: 21.9
+    direction: 96
+  engine:
+    hours: 993.6
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: navigation
+  observations:
+    seaState: 3
+    cloudCoverage: 1
+    visibility: 7
+- datetime: 2025-10-19T04:34:51.400Z
+  text: Some shooting stars
+  author: bergie
+  position:
+    longitude: -72.0129245
+    latitude: 12.6462654
+    source: GPS
+  heading: 259
+  course: 269
+  speed:
+    sog: 5.7
+  log: 12129
+  waypoint:
+    longitude: -74.34849
+    latitude: 11.725724
+  barometer: 1012.54
+  wind:
+    speed: 18.5
+    direction: 80
+  engine:
+    hours: 993.6
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: navigation
