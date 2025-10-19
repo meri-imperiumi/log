@@ -424,3 +424,60 @@
   crewNames:
     - ihmis-suski
     - bergie
+  category: navigation
+- datetime: 2025-10-19T10:00:06.598Z
+  text: Suski on watch
+  author: ihmis-suski
+  position:
+    longitude: -72.549411
+    latitude: 12.6042603
+    source: GPS
+  heading: 258
+  course: 271
+  speed:
+    sog: 8
+  log: 12160.7
+  waypoint:
+    longitude: -74.34849
+    latitude: 11.725724
+  barometer: 1011.6
+  wind:
+    speed: 21.9
+    direction: 105
+  engine:
+    hours: 993.6
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: navigation
+  observations:
+    seaState: 4
+    cloudCoverage: 1
+    visibility: 7
+- datetime: 2025-10-19T10:36:08.601Z
+  text: Delfiinejä!
+  author: ihmis-suski
+  position:
+    longitude: -72.61116
+    latitude: 12.6025951
+    source: GPS
+  heading: 248
+  course: 254
+  speed:
+    sog: 6.9
+  log: 12164.4
+  waypoint:
+    longitude: -74.34849
+    latitude: 11.725724
+  barometer: 1011.99
+  wind:
+    speed: 22.4
+    direction: 104
+  engine:
+    hours: 993.6
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: navigation
