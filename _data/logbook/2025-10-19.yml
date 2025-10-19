@@ -105,3 +105,57 @@
   crewNames:
     - ihmis-suski
     - bergie
+  category: navigation
+- datetime: 2025-10-19T03:00:45.400Z
+  text: ""
+  author: ""
+  position:
+    longitude: -71.8482126
+    latitude: 12.6727814
+    source: GPS
+  heading: 257
+  course: 256
+  speed:
+    sog: 6.1
+  log: 12119.2
+  waypoint:
+    longitude: -74.34849
+    latitude: 11.725724
+  barometer: 1013.42
+  wind:
+    speed: 18.5
+    direction: 98
+  engine:
+    hours: 993.6
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: navigation
+- datetime: 2025-10-19T03:52:47.400Z
+  text: After some interpretation of Windy radar pictures, we determined the
+    thunderstorm NW to us is going west
+  author: bergie
+  position:
+    longitude: -71.9379624
+    latitude: 12.6544413
+    source: GPS
+  heading: 245
+  course: 248
+  speed:
+    sog: 6.4
+  log: 12124.5
+  waypoint:
+    longitude: -74.34849
+    latitude: 11.725724
+  barometer: 1012.94
+  wind:
+    speed: 21.1
+    direction: 87
+  engine:
+    hours: 993.6
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: navigation
