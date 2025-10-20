@@ -315,8 +315,9 @@
     cloudCoverage: 3
     visibility: 7
 - datetime: 2025-10-20T08:00:04.000Z
-  text: ""
-  author: ""
+  text: Pretty happy to have only the staysail up. Gusts up to 35kt so we're
+    trucking along
+  author: bergie
   position:
     longitude: -74.408242
     latitude: 11.46635
@@ -329,6 +330,55 @@
   barometer: 1009.16
   wind:
     speed: 27.7
+    direction: 80
+  engine:
+    hours: 995.2
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: navigation
+- datetime: 2025-10-20T08:26:06.000Z
+  text: And now we have gusts up to 40kt. Still sailing nicely, though got pooped
+    once. Not a lot of water got in
+  author: bergie
+  position:
+    longitude: -74.4503168
+    latitude: 11.4420123
+    source: GPS
+  heading: 235
+  course: 236
+  speed:
+    sog: 8.5
+  log: 12296.2
+  barometer: 1008.96
+  wind:
+    speed: 35.1
+    direction: 80
+  engine:
+    hours: 995.2
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: navigation
+  observations:
+    seaState: 4
+- datetime: 2025-10-20T09:00:07.100Z
+  text: ""
+  author: ""
+  position:
+    longitude: -74.5046814
+    latitude: 11.4100353
+    source: GPS
+  heading: 239
+  course: 239
+  speed:
+    sog: 9
+  log: 12299.9
+  barometer: 1008.75
+  wind:
+    speed: 35.5
     direction: 80
   engine:
     hours: 995.2
