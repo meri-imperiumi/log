@@ -189,3 +189,55 @@
     cloudCoverage: 5
     seaState: 3
     visibility: 7
+- datetime: 2025-10-20T05:00:56.899Z
+  text: ""
+  author: ""
+  position:
+    longitude: -74.152354
+    latitude: 11.6021514
+    source: GPS
+  heading: 233
+  course: 259
+  speed:
+    sog: 5.9
+  log: 12276
+  waypoint:
+    longitude: -74.34849
+    latitude: 11.725724
+  barometer: 1011.87
+  wind:
+    speed: 20.7
+    direction: 94
+  engine:
+    hours: 994.9
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: navigation
+- datetime: 2025-10-20T05:21:03.000Z
+  text: Motor stopped, sailing with Staysail
+  author: bergie
+  position:
+    longitude: -74.1837323
+    latitude: 11.5908563
+    source: GPS
+  heading: 235
+  course: 249
+  speed:
+    sog: 5.3
+  log: 12278
+  waypoint:
+    longitude: -74.34849
+    latitude: 11.725724
+  barometer: 1011.47
+  wind:
+    speed: 25.7
+    direction: 101
+  engine:
+    hours: 995.2
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: navigation
