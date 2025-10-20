@@ -286,3 +286,53 @@
   crewNames:
     - ihmis-suski
     - bergie
+  category: navigation
+- datetime: 2025-10-20T07:31:03.001Z
+  text: "Inside Colombian waters. Some flashing in the horizon "
+  author: bergie
+  position:
+    longitude: -74.3657613
+    latitude: 11.4953338
+    source: GPS
+  heading: 222
+  course: 235
+  speed:
+    sog: 7.7
+  log: 12290.3
+  barometer: 1009.71
+  wind:
+    speed: 32.5
+    direction: 78
+  engine:
+    hours: 995.2
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: navigation
+  observations:
+    seaState: 3
+    cloudCoverage: 3
+    visibility: 7
+- datetime: 2025-10-20T08:00:04.000Z
+  text: ""
+  author: ""
+  position:
+    longitude: -74.408242
+    latitude: 11.46635
+    source: GPS
+  heading: 225
+  course: 246
+  speed:
+    sog: 6.2
+  log: 12293.3
+  barometer: 1009.16
+  wind:
+    speed: 27.7
+    direction: 80
+  engine:
+    hours: 995.2
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
