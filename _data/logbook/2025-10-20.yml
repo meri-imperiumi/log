@@ -103,8 +103,13 @@
     - bergie
   category: navigation
 - datetime: 2025-10-20T03:23:21.900Z
-  text: Autopilot activated
-  author: ""
+  text: >-
+    Autopilot activated
+
+
+    Heavy rain, followed by thunder and of cource there was a.big cargo ship
+    close by.
+  author: ihmis-suski
   position:
     longitude: -73.9920168
     latitude: 11.6352126
@@ -154,3 +159,33 @@
     - ihmis-suski
     - bergie
   category: navigation
+- datetime: 2025-10-20T04:00:55.900Z
+  text: Bergie on watch. Changing ship's time by one hour to Colombia
+  author: bergie
+  position:
+    longitude: -74.05747716824213
+    latitude: 11.638448969523113
+    source: GPS
+  heading: 230
+  course: 244
+  speed:
+    sog: 6.9
+  log: 12270
+  waypoint:
+    longitude: -74.34849
+    latitude: 11.725724
+  barometer: 1012.3
+  wind:
+    speed: 24
+    direction: 52
+  engine:
+    hours: 993.9
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: navigation
+  observations:
+    cloudCoverage: 5
+    seaState: 3
+    visibility: 7
