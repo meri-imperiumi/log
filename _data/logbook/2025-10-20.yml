@@ -386,3 +386,77 @@
   crewNames:
     - ihmis-suski
     - bergie
+  category: navigation
+- datetime: 2025-10-20T09:14:08.099Z
+  text: Tightened the Noa screws on the aft solar panel as it had started working
+    loose
+  author: bergie
+  position:
+    longitude: -74.5267101
+    latitude: 11.3968445
+    source: GPS
+  heading: 240
+  course: 244
+  speed:
+    sog: 6
+  log: 12301.5
+  barometer: 1008.61
+  wind:
+    speed: 31.7
+    direction: 69
+  engine:
+    hours: 995.2
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: maintenance
+- datetime: 2025-10-20T09:50:09.100Z
+  text: Lots of lightning up ahead. Let's hope it sticks to the land
+  author: bergie
+  position:
+    longitude: -74.5828959
+    latitude: 11.3689478
+    source: GPS
+  heading: 230
+  course: 247
+  speed:
+    sog: 6.7
+  log: 12305.2
+  barometer: 1009.05
+  wind:
+    speed: 28.4
+    direction: 65
+  engine:
+    hours: 995.2
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: navigation
+  observations:
+    seaState: 4
+    cloudCoverage: 3
+    visibility: 7
+- datetime: 2025-10-20T10:00:10.099Z
+  text: ""
+  author: ""
+  position:
+    longitude: -74.5979089
+    latitude: 11.3615944
+    source: GPS
+  heading: 230
+  course: 242
+  speed:
+    sog: 3.6
+  log: 12306.2
+  barometer: 1009.19
+  wind:
+    speed: 26.1
+    direction: 76
+  engine:
+    hours: 995.2
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
