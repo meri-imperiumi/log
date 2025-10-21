@@ -213,3 +213,393 @@
   crewNames:
     - ihmis-suski
     - bergie
+  category: navigation
+- datetime: 2025-10-21T04:00:42.899Z
+  text: ""
+  author: ""
+  position:
+    longitude: -75.3868445
+    latitude: 10.8614573
+    source: GPS
+  heading: 232
+  course: 230
+  speed:
+    sog: 2.8
+  log: 12362.6
+  waypoint:
+    longitude: -75.549325
+    latitude: 10.572154
+  barometer: 1011.97
+  wind:
+    speed: 2.7
+    direction: 308
+  engine:
+    hours: 999.8
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: navigation
+- datetime: 2025-10-21T05:00:47.000Z
+  text: "Bergie on watch "
+  author: bergie
+  position:
+    longitude: -75.4260168
+    latitude: 10.8235573
+    source: GPS
+  heading: 245
+  course: 255
+  speed:
+    sog: 3.4
+  log: 12365.9
+  waypoint:
+    longitude: -75.549325
+    latitude: 10.572154
+  barometer: 1011.04
+  wind:
+    speed: 3.2
+    direction: 232
+  engine:
+    hours: 1000.9
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: navigation
+  observations:
+    seaState: 3
+    cloudCoverage: 8
+    visibility: 6
+- datetime: 2025-10-21T06:00:55.000Z
+  text: ""
+  author: ""
+  position:
+    longitude: -75.4666278
+    latitude: 10.7914201
+    source: GPS
+  heading: 208
+  course: 204
+  speed:
+    sog: 3.4
+  log: 12369.2
+  waypoint:
+    longitude: -75.549325
+    latitude: 10.572154
+  barometer: 1010.09
+  wind:
+    speed: 4.5
+    direction: 284
+  engine:
+    hours: 1001.9
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: navigation
+- datetime: 2025-10-21T07:48:04.998Z
+  text: Current has reduced a bit, now seeing boat speeds over 4kt
+  author: bergie
+  position:
+    longitude: -75.5079863
+    latitude: 10.6905488
+    source: GPS
+  heading: 208
+  course: 206
+  speed:
+    sog: 4.3
+  log: 12375.7
+  waypoint:
+    longitude: -75.549325
+    latitude: 10.572154
+  barometer: 1009.15
+  wind:
+    speed: 1.1
+    direction: 228
+  engine:
+    hours: 1003.6
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: navigation
+- datetime: 2025-10-21T08:00:06.000Z
+  text: ""
+  author: ""
+  position:
+    longitude: -75.51344032287598
+    latitude: 10.678565851847331
+    source: GPS
+  heading: 212
+  course: 203
+  speed:
+    sog: 4.5
+  log: 12376.5
+  waypoint:
+    longitude: -75.549325
+    latitude: 10.572154
+  barometer: 1009.02
+  wind:
+    speed: 0.9
+    direction: 200
+  engine:
+    hours: 1003.8
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: navigation
+- datetime: 2025-10-21T09:00:09.100Z
+  text: Cartagena is a big city. Strange seeing those skyscrapers in the horizon
+    after the long time on the islands
+  author: bergie
+  position:
+    longitude: -75.5384668
+    latitude: 10.6160884
+    source: GPS
+  heading: 205
+  course: 206
+  speed:
+    sog: 3.8
+  log: 12380.5
+  waypoint:
+    longitude: -75.549325
+    latitude: 10.572154
+  barometer: 1009.25
+  wind:
+    speed: 5.4
+    direction: 169
+  engine:
+    hours: 1004.7
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: navigation
+- datetime: 2025-10-21T10:00:15.100Z
+  text: ""
+  author: ""
+  position:
+    longitude: -75.5602591
+    latitude: 10.5531906
+    source: GPS
+  heading: 198
+  course: 195
+  speed:
+    sog: 4
+  log: 12384.6
+  waypoint:
+    longitude: -75.576998
+    latitude: 10.394953
+  barometer: 1008.91
+  wind:
+    speed: 4.7
+    direction: 141
+  engine:
+    hours: 1005.7
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: navigation
+- datetime: 2025-10-21T10:27:19.100Z
+  text: "Switched boat Meshtastic nodes to ANZ frequencies, as used by Mesh
+    Colombia "
+  author: bergie
+  position:
+    longitude: -75.56880747477213
+    latitude: 10.522793515523274
+    source: GPS
+  heading: 188
+  course: 192
+  speed:
+    sog: 4
+  log: 12386.4
+  waypoint:
+    longitude: -75.576998
+    latitude: 10.394953
+  barometer: 1009.27
+  wind:
+    speed: 2.6
+    direction: 220
+  engine:
+    hours: 1006.2
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: maintenance
+- datetime: 2025-10-21T11:00:21.100Z
+  text: ""
+  author: ""
+  position:
+    longitude: -75.5791253
+    latitude: 10.4845919
+    source: GPS
+  heading: 190
+  course: 196
+  speed:
+    sog: 4.4
+  log: 12388.8
+  waypoint:
+    longitude: -75.576998
+    latitude: 10.394953
+  barometer: 1009.68
+  wind:
+    speed: 4.3
+    direction: 269
+  engine:
+    hours: 1006.8
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: navigation
+- datetime: 2025-10-21T11:58:26.201Z
+  text: Contacted Cartagena Port Control and got permission to enter Boca Grande
+    and proceed to anchorage
+  author: bergie
+  position:
+    longitude: -75.5831768
+    latitude: 10.4167131
+    source: GPS
+  heading: 157
+  course: 163
+  speed:
+    sog: 4.2
+  log: 12392.9
+  waypoint:
+    longitude: -75.576998
+    latitude: 10.394953
+  barometer: 1010
+  wind:
+    speed: 4.6
+    direction: 239
+  engine:
+    hours: 1007.7
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: radio
+- datetime: 2025-10-21T12:00:26.201Z
+  text: ""
+  author: ""
+  position:
+    longitude: -75.5824266
+    latitude: 10.4144319
+    source: GPS
+  heading: 157
+  course: 162
+  speed:
+    sog: 4.5
+  log: 12393.1
+  waypoint:
+    longitude: -75.576998
+    latitude: 10.394953
+  barometer: 1010.02
+  wind:
+    speed: 4.7
+    direction: 243
+  engine:
+    hours: 1007.8
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: navigation
+- datetime: 2025-10-21T12:15:17.200Z
+  text: Autopilot deactivated
+  author: ""
+  position:
+    longitude: -75.5751061
+    latitude: 10.3978891
+    source: GPS
+  heading: 151
+  course: 152
+  speed:
+    sog: 3.8
+  log: 12394.2
+  waypoint:
+    longitude: -75.576998
+    latitude: 10.394953
+  barometer: 1010.21
+  wind:
+    speed: 1.9
+    direction: 212
+  engine:
+    hours: 1008
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: navigation
+- datetime: 2025-10-21T13:00:31.200Z
+  text: ""
+  author: ""
+  position:
+    longitude: -75.5450163
+    latitude: 10.4112456
+    source: GPS
+  heading: 349
+  course: 344
+  speed:
+    sog: 5.2
+  log: 12397.8
+  barometer: 1010.34
+  wind:
+    speed: 3.6
+    direction: 181
+  engine:
+    hours: 1008.8
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: navigation
+- datetime: 2025-10-21T13:18:25.200Z
+  text: Anchored
+  author: ""
+  position:
+    longitude: -75.5460088
+    latitude: 10.4169544
+    source: GPS
+  heading: 132
+  course: 133
+  speed:
+    sog: 1
+  log: 12398.4
+  barometer: 1010.6
+  wind:
+    speed: 1.8
+    direction: 222
+  engine:
+    hours: 1008.9
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  end: true
+  category: navigation
+- datetime: 2025-10-21T13:22:12.198Z
+  text: Stopped main engine
+  author: ""
+  position:
+    longitude: -75.5459499
+    latitude: 10.417022
+    source: GPS
+  heading: 176
+  course: 115
+  speed:
+    sog: 0.2
+  log: 12398.4
+  barometer: 1010.69
+  wind:
+    speed: 2.5
+    direction: 141
+  engine:
+    hours: 1008.9
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: navigation
