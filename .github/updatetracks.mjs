@@ -79,10 +79,13 @@ function ensurePositionMeta(entry, trackName) {
           const [front, head, body] = content.split('---');
           const metadata = parse(head);
           metadata.position = {
-            lat: entry.position.lat,
-            lon: entry.position.lon,
+            ...entry.position,
           };
           const updatedHead = stringify(metadata);
+          if (updatedHead.indexOf('position: \'{') !== -1) {
+            // For some reason we weren't able to encode position correctly, skip
+            return Promise.resolve();
+          }
           const updatedContent = `---\n${updatedHead}---${body}`;
           return writeFile(resolve(logDir, entry.filename), updatedContent);
         });
