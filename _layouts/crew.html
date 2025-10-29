@@ -10,7 +10,7 @@ unlinked_countries:
 {% assign sorted_crew = site.crew | sort: "crew-order"%}
 {% for crew in sorted_crew %}
   <article>
-    <h2 id="{{ crew.name  | downcase | url_encode }}">{{ crew.name }} - {{ crew.position }}</h2>
+    <h2 id="{{ crew.name  | downcase | url_encode }}">{{ crew.name }} {% if crew.callsign %}- {{ crew.callsign }} {% endif %}- {{ crew.position }}</h2>
     {{ crew.content }}
     <img src="{{ crew.photo }}" alt="{{ crew.name }}" />
     {% if site.data.crew_miles %}
