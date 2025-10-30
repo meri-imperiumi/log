@@ -1,0 +1,112 @@
+- datetime: 2025-10-23T15:05:57.702Z
+  text: Started main engine
+  author: ""
+  position:
+    longitude: -75.5459871
+    latitude: 10.4171466
+    source: GPS
+  heading: 188
+  course: 244
+  speed:
+    sog: 0
+  log: 12398.4
+  barometer: 1011.9
+  wind:
+    speed: 11.3
+    direction: 155
+  engine:
+    hours: 1008.9
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: navigation
+- datetime: 2025-10-23T15:13:23.699Z
+  text: Anchor up, motoring
+  author: ""
+  position:
+    longitude: -75.5459749
+    latitude: 10.4169698
+    source: GPS
+  heading: 150
+  course: 124
+  speed:
+    sog: 0.8
+  log: 12398.4
+  barometer: 1011.91
+  wind:
+    speed: 13.2
+    direction: 165
+  engine:
+    hours: 1009
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: navigation
+- datetime: 2025-10-23T15:25:39.699Z
+  text: Anchored
+  author: ""
+  position:
+    longitude: -75.5463048
+    latitude: 10.4163704
+    source: GPS
+  heading: 109
+  course: 143
+  speed:
+    sog: 0.4
+  log: 12398.5
+  barometer: 1011.84
+  wind:
+    speed: 10.6
+    direction: 159
+  engine:
+    hours: 1009.3
+  crewNames:
+    - ihmis-suski
+    - bergie
+  end: true
+  category: navigation
+- datetime: 2025-10-23T15:49:16.697Z
+  text: Stopped main engine
+  author: ""
+  position:
+    longitude: -75.5462425
+    latitude: 10.4165841
+    source: GPS
+  heading: 158
+  course: 286
+  speed:
+    sog: 0
+  log: 12398.5
+  barometer: 1012.07
+  wind:
+    speed: 7.9
+    direction: 172
+  engine:
+    hours: 1009.6
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: navigation
+- datetime: 2025-10-23T15:54:37.702Z
+  text: Suski was able to unclog the deck drains, including the one that has been
+    clogged since 2022
+  author: bergie
+  position:
+    longitude: -75.546235
+    latitude: 10.4165936
+    source: GPS
+  heading: 189
+  course: 308
+  speed:
+    sog: 0
+  log: 12398.5
+  barometer: 1012.16
+  wind:
+    speed: 6.6
+    direction: 167
+  engine:
+    hours: 1009.7
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: maintenance
