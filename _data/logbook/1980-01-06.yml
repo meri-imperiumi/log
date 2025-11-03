@@ -1,0 +1,23 @@
+- datetime: 1980-01-06T00:00:19.600Z
+  text: We stopped receiving wind data. Required booting N2K, as the YDNR-02 was
+    stuck
+  author: bergie
+  position:
+    longitude: -75.546194
+    latitude: 10.4164829
+    source: GPS
+  heading: 217
+  course: 215
+  speed:
+    sog: 0
+  log: 12398.5
+  barometer: 1010.71
+  wind:
+    speed: 5.4
+    direction: 208
+  engine:
+    hours: 1009.6
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: maintenance

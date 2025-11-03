@@ -1,0 +1,46 @@
+- datetime: 2025-11-01T14:54:09.200Z
+  text: Swim ladder was welded back together. Now it fits on the port side
+    brackets but not starboard
+  author: bergie
+  position:
+    longitude: -75.5462069
+    latitude: 10.4164823
+    source: GPS
+  heading: 203
+  course: 20
+  speed:
+    sog: 0
+  log: 12398.5
+  barometer: 1010.73
+  wind:
+    speed: 0
+    direction: 0
+  engine:
+    hours: 1009.6
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: maintenance
+- datetime: 2025-11-01T14:58:13.798Z
+  text: We stopped receiving wind data. Required rebooting N2K as YDNR-02 was
+    stuck again
+  author: bergie
+  position:
+    longitude: -75.54618835449219
+    latitude: 10.416483847300212
+    source: GPS
+  heading: 213
+  course: 119
+  speed:
+    sog: 0
+  log: 12398.5
+  barometer: 1010.71
+  wind:
+    speed: 5.1
+    direction: 193
+  engine:
+    hours: 1009.6
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: maintenance
