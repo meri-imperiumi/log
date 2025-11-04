@@ -21,3 +21,69 @@
     - ihmis-suski
     - bergie
   category: navigation
+- datetime: 2025-11-04T12:10:54.700Z
+  text: Started main engine
+  author: ""
+  position:
+    longitude: -75.5462774
+    latitude: 10.4164256
+    source: GPS
+  heading: 142
+  course: 305
+  speed:
+    sog: 0
+  log: 12398.5
+  barometer: 1014.75
+  wind:
+    speed: 4.4
+    direction: 115
+  engine:
+    hours: 1009.6
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: navigation
+- datetime: 2025-11-04T12:13:08.700Z
+  text: Stopped main engine
+  author: ""
+  position:
+    longitude: -75.5462568
+    latitude: 10.4164226
+    source: GPS
+  heading: 154
+  course: 98
+  speed:
+    sog: 0
+  log: 12398.5
+  barometer: 1014.53
+  wind:
+    speed: 5.1
+    direction: 123
+  engine:
+    hours: 1009.7
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: navigation
+- datetime: 2025-11-04T12:50:01.500Z
+  text: Depth sounder (P79) started working again after a NMEA2000 reboot
+  author: bergie
+  position:
+    longitude: -75.5462631
+    latitude: 10.4164448
+    source: GPS
+  heading: 155
+  course: 359
+  speed:
+    sog: 0
+  log: 12398.5
+  barometer: 1012.22
+  wind:
+    speed: 5.1
+    direction: 131
+  engine:
+    hours: 1009.7
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: maintenance
