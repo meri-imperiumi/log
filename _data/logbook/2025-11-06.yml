@@ -1,0 +1,45 @@
+- datetime: 2025-11-06T18:56:19.500Z
+  text: Straightened and tightened the windvane servo rudder
+  author: bergie
+  position:
+    longitude: -75.5459696
+    latitude: 10.4164091
+    source: GPS
+  heading: 259
+  course: 294
+  speed:
+    sog: 0.3
+  log: 12398.5
+  barometer: 1009.02
+  wind:
+    speed: 9.6
+    direction: 243
+  engine:
+    hours: 1009.7
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: maintenance
+- datetime: 2025-11-06T19:57:19.500Z
+  text: Installed a Caframo fan for the galley / nav station. This is the one that
+    broke and Suski was able to re-solder
+  author: bergie
+  position:
+    longitude: -75.545951
+    latitude: 10.416401
+    source: GPS
+  heading: 282
+  course: 165
+  speed:
+    sog: 0
+  log: 12398.5
+  barometer: 1008.15
+  wind:
+    speed: 10.1
+    direction: 246
+  engine:
+    hours: 1009.7
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: maintenance
