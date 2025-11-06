@@ -65,6 +65,24 @@ readdir('_data/logbook')
         return logPosition;
       });
   })
+  .then((logPosition) => {
+    return readFile('_data/winlink.json')
+      .then((c) => JSON.parse(c))
+      .then((data) => {
+        const winlinkDate = new Date(data.timestamp);
+        if (winlinkDate > logPosition.time) {
+          // Winlink is newer, use that. We're likely far offshore and without internet
+          return {
+            time: winlinkDate,
+            latitude: data.position.lat,
+            longitude: data.position.lon,
+            source: 'Winlink',
+          };
+        }
+        // Logbook or AIS is newer
+        return logPosition;
+      });
+  })
   .then((latestPosition) => {
     console.log(`Latest is ${latestPosition.source} from ${latestPosition.time}`);
     return writeFile('_data/position.json', JSON.stringify(latestPosition, null, 2));
