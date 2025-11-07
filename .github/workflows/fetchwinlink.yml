@@ -1,0 +1,32 @@
+name: Update data from Winlink amateur radio service
+
+on:
+  schedule:
+  - cron: "0 */7 * * *"
+
+jobs:
+  fetch:
+    name: Fetch Winlink data
+    runs-on: ubuntu-latest
+    steps:
+    - uses: actions/checkout@v3
+    - uses: actions/setup-node@v3
+      with:
+        node-version: 22
+    - run: npm install where rss-parser yaml
+    - run: node .github/fetchwinlink.mjs
+    - run: node .github/updateposition.mjs
+    - name: Commit files
+      run: |
+        if [ -z "$(git status --porcelain)" ]; then exit 0;fi
+        git config --local user.email "41898282+github-actions[bot]@users.noreply.github.com"
+        git config --local user.name "github-actions[bot]"
+        git add _data/winlink.json
+        git add _data/position.json
+        git add _texts/*.md
+        git commit -m "Updated Winlink data"
+    - name: Push changes
+      uses: ad-m/github-push-action@master
+      with:
+        github_token: ${{ secrets.GITHUB_TOKEN }}
+        branch: main
