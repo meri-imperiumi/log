@@ -21,52 +21,6 @@
     - ihmis-suski
     - bergie
   category: maintenance
-- datetime: 2025-11-07T20:19:01.497Z
-  text: Started main engine
-  author: ""
-  position:
-    longitude: -75.5460143
-    latitude: 10.4163923
-    source: GPS
-  heading: 305
-  course: 258
-  speed:
-    sog: 0.3
-  log: 12398.5
-  barometer: 1006.19
-  wind:
-    speed: 8.3
-    direction: 224
-  engine:
-    hours: 1009.7
-  vhf: "16"
-  crewNames:
-    - ihmis-suski
-    - bergie
-  category: navigation
-- datetime: 2025-11-07T20:19:42.502Z
-  text: Stopped main engine
-  author: ""
-  position:
-    longitude: -75.5460283
-    latitude: 10.4164446
-    source: GPS
-  heading: 287
-  course: 20
-  speed:
-    sog: 0.8
-  log: 12398.5
-  barometer: 1006.18
-  wind:
-    speed: 8.4
-    direction: 251
-  engine:
-    hours: 1009.7
-  vhf: "16"
-  crewNames:
-    - ihmis-suski
-    - bergie
-  category: navigation
 - datetime: 2025-11-07T20:20:05.497Z
   text: Started main engine
   author: ""
@@ -113,29 +67,6 @@
     - ihmis-suski
     - bergie
   category: navigation
-- datetime: 2025-11-07T20:38:24.499Z
-  text: Motor stopped, sailing with Main, Genoa 1
-  author: ""
-  position:
-    longitude: -75.5451753616333
-    latitude: 10.416591167449951
-    source: GPS
-  heading: 179
-  course: 95
-  speed:
-    sog: 0.3
-  log: 12398.9
-  barometer: 1006.2
-  wind:
-    speed: 7.1
-    direction: 272
-  engine:
-    hours: 1010
-  vhf: "16"
-  crewNames:
-    - ihmis-suski
-    - bergie
-  category: navigation
 - datetime: 2025-11-07T20:45:43.500Z
   text: Stopped
   author: ""
@@ -160,6 +91,29 @@
     - bergie
   end: true
   category: navigation
+- datetime: 2025-11-07T20:48:43.500Z
+  text: Filled up 91l diesel + 25l into canisters. 0.6EUR/l
+  author: bergie
+  position:
+    longitude: -75.5451878
+    latitude: 10.4165846
+    source: GPS
+  heading: 178
+  course: 275
+  speed:
+    sog: 0
+  log: 12398.9
+  barometer: 1006.24
+  wind:
+    speed: 7.8
+    direction: 281
+  engine:
+    hours: 1010
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: engine
 - datetime: 2025-11-07T20:49:11.500Z
   text: Started main engine
   author: ""
@@ -201,6 +155,76 @@
     direction: 262
   engine:
     hours: 1010.1
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: navigation
+- datetime: 2025-11-07T21:00:38.502Z
+  text: ""
+  author: ""
+  position:
+    longitude: -75.5437851
+    latitude: 10.4127449
+    source: GPS
+  heading: 276
+  course: 281
+  speed:
+    sog: 1.7
+  log: 12399.3
+  barometer: 1006.14
+  wind:
+    speed: 3.9
+    direction: 277
+  engine:
+    hours: 1010.2
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: navigation
+- datetime: 2025-11-07T21:02:11.500Z
+  text: Picked up a mooring
+  author: bergie
+  position:
+    longitude: -75.5442501
+    latitude: 10.4128006
+    source: GPS
+  heading: 344
+  course: 324
+  speed:
+    sog: 0.2
+  log: 12399.3
+  barometer: 1006.19
+  wind:
+    speed: 9.8
+    direction: 276
+  engine:
+    hours: 1010.2
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  end: true
+  category: navigation
+- datetime: 2025-11-07T21:03:43.500Z
+  text: Stopped main engine
+  author: ""
+  position:
+    longitude: -75.5442024
+    latitude: 10.4127904
+    source: GPS
+  heading: 296
+  course: 323
+  speed:
+    sog: 0.2
+  log: 12399.3
+  barometer: 1006.24
+  wind:
+    speed: 3.7
+    direction: 294
+  engine:
+    hours: 1010.2
   vhf: "16"
   crewNames:
     - ihmis-suski
