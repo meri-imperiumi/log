@@ -1,0 +1,23 @@
+- datetime: 2025-11-11T14:04:09.699Z
+  text: Something is wrong with the mast Meshtastic node, the battery has dropped
+    to 3.6V-ish at sundown last two nights
+  author: bergie
+  position:
+    longitude: -75.5441968
+    latitude: 10.4128218
+    source: GPS
+  heading: 210
+  course: 205
+  speed:
+    sog: 0
+  log: 12399.3
+  barometer: 1012.34
+  wind:
+    speed: 6.2
+    direction: 249
+  engine:
+    hours: 1010.2
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: maintenance
