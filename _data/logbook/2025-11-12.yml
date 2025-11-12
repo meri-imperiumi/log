@@ -390,3 +390,111 @@
     - ihmis-suski
     - bergie
   category: maintenance
+- datetime: 2025-11-12T22:00:06.899Z
+  text: ""
+  author: ""
+  position:
+    longitude: -75.8109439
+    latitude: 10.3235266
+    source: GPS
+  heading: 261
+  course: 257
+  speed:
+    sog: 4.3
+  log: 12424.5
+  waypoint:
+    longitude: -75.81449
+    latitude: 10.317808
+  barometer: 1007.51
+  wind:
+    speed: 12.3
+    direction: 24
+  engine:
+    hours: 1012.4
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: navigation
+- datetime: 2025-11-12T22:27:24.902Z
+  text: "Sails set: Main, Genoa 1 (30% furled)"
+  author: ""
+  position:
+    longitude: -75.8392656
+    latitude: 10.3121066
+    source: GPS
+  heading: 244
+  course: 264
+  speed:
+    sog: 4
+  log: 12426.3
+  waypoint:
+    longitude: -75.835694
+    latitude: 10.301916
+  barometer: 1007.3
+  wind:
+    speed: 15.6
+    direction: 11
+  engine:
+    hours: 1012.4
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: navigation
+- datetime: 2025-11-12T22:45:17.900Z
+  text: "Sails set: Main (1st reef), Genoa 1 (30% furled)"
+  author: ""
+  position:
+    longitude: -75.8565241
+    latitude: 10.3038649
+    source: GPS
+  heading: 231
+  course: 260
+  speed:
+    sog: 4.2
+  log: 12427.4
+  waypoint:
+    longitude: -75.869434
+    latitude: 10.275813
+  barometer: 1007.32
+  wind:
+    speed: 17.4
+    direction: 0
+  engine:
+    hours: 1012.4
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: navigation
+- datetime: 2025-11-12T22:53:05.900Z
+  text: Going into the night with reefed sails just on the safe side.
+  author: ihmis-suski
+  position:
+    longitude: -75.8628475
+    latitude: 10.2995403
+    source: GPS
+  heading: 206
+  course: 221
+  speed:
+    sog: 3.7
+  log: 12427.9
+  waypoint:
+    longitude: -75.869434
+    latitude: 10.275813
+  barometer: 1007.41
+  wind:
+    speed: 15.1
+    direction: 347
+  engine:
+    hours: 1012.4
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: navigation
+  observations:
+    seaState: 3
+    cloudCoverage: 5
+    visibility: 7
