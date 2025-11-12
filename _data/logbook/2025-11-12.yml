@@ -235,8 +235,8 @@
     cloudCoverage: 3
     visibility: 7
 - datetime: 2025-11-12T18:00:09.702Z
-  text: ""
-  author: ""
+  text: Tacked on course to Panama
+  author: bergie
   position:
     longitude: -75.6705806
     latitude: 10.3666863
@@ -253,6 +253,32 @@
   wind:
     speed: 10.1
     direction: 241
+  engine:
+    hours: 1012.4
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: navigation
+- datetime: 2025-11-12T19:00:06.796Z
+  text: ""
+  author: ""
+  position:
+    longitude: -75.7114538
+    latitude: 10.3791663
+    source: GPS
+  heading: 238
+  course: 267
+  speed:
+    sog: 1.8
+  log: 12417.1
+  waypoint:
+    longitude: -75.735367
+    latitude: 10.361111
+  barometer: 1008.57
+  wind:
+    speed: 8.9
+    direction: 294
   engine:
     hours: 1012.4
   vhf: "16"
