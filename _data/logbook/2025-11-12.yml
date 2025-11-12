@@ -125,3 +125,82 @@
   crewNames:
     - ihmis-suski
     - bergie
+  category: navigation
+- datetime: 2025-11-12T16:12:03.699Z
+  text: Autopilot deactivated, entering the narrow part on Boca Chica
+  author: bergie
+  position:
+    longitude: -75.5627991
+    latitude: 10.3196174
+    source: GPS
+  heading: 246
+  course: 243
+  speed:
+    sog: 4.3
+  log: 12406.2
+  waypoint:
+    longitude: -75.584223
+    latitude: 10.315515
+  barometer: 1010.56
+  wind:
+    speed: 11.4
+    direction: 237
+  engine:
+    hours: 1011.9
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: navigation
+- datetime: 2025-11-12T16:31:09.702Z
+  text: Autopilot activated, out of Boca Chica channel
+  author: bergie
+  position:
+    longitude: -75.5852675
+    latitude: 10.3169983
+    source: GPS
+  heading: 281
+  course: 282
+  speed:
+    sog: 3.9
+  log: 12407.6
+  waypoint:
+    longitude: -75.604194
+    latitude: 10.313148
+  barometer: 1010.25
+  wind:
+    speed: 10.6
+    direction: 223
+  engine:
+    hours: 1012.2
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: navigation
+- datetime: 2025-11-12T16:41:21.702Z
+  text: Motor stopped, sailing with Main, Genoa 1
+  author: ""
+  position:
+    longitude: -75.5956836
+    latitude: 10.3202916
+    source: GPS
+  heading: 294
+  course: 304
+  speed:
+    sog: 3.4
+  log: 12408.3
+  waypoint:
+    longitude: -75.604194
+    latitude: 10.313148
+  barometer: 1010.03
+  wind:
+    speed: 12.3
+    direction: 214
+  engine:
+    hours: 1012.4
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: navigation
