@@ -74,3 +74,54 @@
     - ihmis-suski
     - bergie
   category: navigation
+- datetime: 2025-11-12T15:15:04.601Z
+  text: "Signal K can't see the autopilot "
+  author: bergie
+  position:
+    longitude: -75.5371133
+    latitude: 10.3690291
+    source: GPS
+  heading: 157
+  course: 162
+  speed:
+    sog: 3.9
+  log: 12402.2
+  waypoint:
+    longitude: -75.531053
+    latitude: 10.33899
+  barometer: 1011.29
+  wind:
+    speed: 8.6
+    direction: 207
+  engine:
+    hours: 1011
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: maintenance
+- datetime: 2025-11-12T16:00:03.699Z
+  text: ""
+  author: ""
+  position:
+    longitude: -75.5507841
+    latitude: 10.3275624
+    source: GPS
+  heading: 230
+  course: 234
+  speed:
+    sog: 4.1
+  log: 12405.3
+  waypoint:
+    longitude: -75.580649
+    latitude: 10.316796
+  barometer: 1010.69
+  wind:
+    speed: 8.1
+    direction: 228
+  engine:
+    hours: 1011.7
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
