@@ -759,3 +759,55 @@
     - ihmis-suski
     - bergie
   category: navigation
+- datetime: 2025-11-13T16:00:28.800Z
+  text: ""
+  author: ""
+  position:
+    longitude: -77.0667539
+    latitude: 9.8620731
+    source: GPS
+  heading: 179
+  course: 181
+  speed:
+    sog: 4.5
+  log: 12506.1
+  waypoint:
+    longitude: -77.056599
+    latitude: 9.834424
+  barometer: 1010.02
+  wind:
+    speed: 6.1
+    direction: 32
+  engine:
+    hours: 1012.5
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: navigation
+- datetime: 2025-11-13T16:03:29.798Z
+  text: "Autopilot activated "
+  author: bergie
+  position:
+    longitude: -77.0673198
+    latitude: 9.8579096
+    source: GPS
+  heading: 182
+  course: 196
+  speed:
+    sog: 5.5
+  log: 12506.3
+  waypoint:
+    longitude: -77.049297
+    latitude: 9.809805
+  barometer: 1009.99
+  wind:
+    speed: 5.6
+    direction: 16
+  engine:
+    hours: 1012.5
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: navigation
