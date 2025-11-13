@@ -626,3 +626,136 @@
     - ihmis-suski
     - bergie
   category: maintenance
+- datetime: 2025-11-13T15:00:27.801Z
+  text: ""
+  author: ""
+  position:
+    longitude: -77.0199974
+    latitude: 9.8854864
+    source: GPS
+  heading: 245
+  course: 237
+  speed:
+    sog: 2.8
+  log: 12502.8
+  waypoint:
+    longitude: -76.905004
+    latitude: 9.859216
+  barometer: 1010.59
+  wind:
+    speed: 10.4
+    direction: 25
+  engine:
+    hours: 1012.4
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: navigation
+- datetime: 2025-11-13T15:31:02.796Z
+  text: |-
+    Sails set: Main (1st reef), Genoa 1
+
+    Trying to find a sail setup with the least amount of flapping. 
+  author: ihmis-suski
+  position:
+    longitude: -77.0407534
+    latitude: 9.8687998
+    source: GPS
+  heading: 249
+  course: 246
+  speed:
+    sog: 3.4
+  log: 12504.4
+  waypoint:
+    longitude: -76.905004
+    latitude: 9.859216
+  barometer: 1010.22
+  wind:
+    speed: 8.1
+    direction: 31
+  engine:
+    hours: 1012.4
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: navigation
+- datetime: 2025-11-13T15:40:28.800Z
+  text: Watermaker 272ppm. Jug full.
+  author: ihmis-suski
+  position:
+    longitude: -77.0508496
+    latitude: 9.8655688
+    source: GPS
+  heading: 270
+  course: 275
+  speed:
+    sog: 3.1
+  log: 12505
+  waypoint:
+    longitude: -76.905004
+    latitude: 9.859216
+  barometer: 1010.18
+  wind:
+    speed: 8.4
+    direction: 30
+  engine:
+    hours: 1012.4
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: maintenance
+- datetime: 2025-11-13T15:53:28.800Z
+  text: Stopped watermaker, 272ppm
+  author: bergie
+  position:
+    longitude: -77.06201416651407
+    latitude: 9.862969017028808
+    source: GPS
+  heading: 299
+  course: 303
+  speed:
+    sog: 2
+  log: 12505.7
+  waypoint:
+    longitude: -77.061168
+    latitude: 9.861887
+  barometer: 1010.06
+  wind:
+    speed: 6.1
+    direction: 60
+  engine:
+    hours: 1012.4
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: maintenance
+- datetime: 2025-11-13T15:56:12.800Z
+  text: Sails down, motoring
+  author: ""
+  position:
+    longitude: -77.0632833
+    latitude: 9.8631346
+    source: GPS
+  heading: 309
+  course: 318
+  speed:
+    sog: 1.4
+  log: 12505.8
+  waypoint:
+    longitude: -77.061168
+    latitude: 9.861887
+  barometer: 1010.09
+  wind:
+    speed: 7.7
+    direction: 46
+  engine:
+    hours: 1012.4
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: navigation
