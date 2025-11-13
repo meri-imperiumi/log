@@ -923,3 +923,55 @@
     cloudCoverage: 6
     seaState: 4
     visibility: 7
+- datetime: 2025-11-13T21:00:41.100Z
+  text: ""
+  author: ""
+  position:
+    longitude: -77.219327
+    latitude: 9.5188445
+    source: GPS
+  heading: 184
+  course: 209
+  speed:
+    sog: 4.4
+  log: 12528.7
+  waypoint:
+    longitude: -77.424746
+    latitude: 8.667893
+  barometer: 1007.32
+  wind:
+    speed: 5.8
+    direction: 224
+  engine:
+    hours: 1017.5
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: navigation
+- datetime: 2025-11-13T21:31:49.100Z
+  text: Motor stopped, sailing with Genoa 1
+  author: ""
+  position:
+    longitude: -77.2307508
+    latitude: 9.4902625
+    source: GPS
+  heading: 187
+  course: 204
+  speed:
+    sog: 1.7
+  log: 12530.5
+  waypoint:
+    longitude: -77.424746
+    latitude: 8.667893
+  barometer: 1007.17
+  wind:
+    speed: 6.8
+    direction: 259
+  engine:
+    hours: 1018
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: navigation
