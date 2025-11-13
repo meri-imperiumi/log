@@ -314,3 +314,55 @@
     - ihmis-suski
     - bergie
   category: navigation
+- datetime: 2025-11-13T07:00:08.499Z
+  text: ""
+  author: ""
+  position:
+    longitude: -76.4825116
+    latitude: 10.1963111
+    source: GPS
+  heading: 258
+  course: 239
+  speed:
+    sog: 6.6
+  log: 12465.6
+  waypoint:
+    longitude: -76.328674
+    latitude: 10.062236
+  barometer: 1008.22
+  wind:
+    speed: 20.2
+    direction: 40
+  engine:
+    hours: 1012.4
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: navigation
+- datetime: 2025-11-13T07:59:11.600Z
+  text: "Sails set: Main (1st reef)"
+  author: ""
+  position:
+    longitude: -76.5590255
+    latitude: 10.1681288
+    source: GPS
+  heading: 280
+  course: 267
+  speed:
+    sog: 5.3
+  log: 12470.4
+  waypoint:
+    longitude: -76.373472
+    latitude: 9.991899
+  barometer: 1008.42
+  wind:
+    speed: 19.4
+    direction: 62
+  engine:
+    hours: 1012.4
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: navigation
