@@ -262,3 +262,55 @@
     - ihmis-suski
     - bergie
   category: navigation
+- datetime: 2025-11-13T06:00:07.500Z
+  text: ""
+  author: ""
+  position:
+    longitude: -76.4066214
+    latitude: 10.2239196
+    source: GPS
+  heading: 263
+  course: 248
+  speed:
+    sog: 5.3
+  log: 12460.7
+  waypoint:
+    longitude: -76.285234
+    latitude: 10.13109
+  barometer: 1008.86
+  wind:
+    speed: 18.7
+    direction: 47
+  engine:
+    hours: 1012.4
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: navigation
+- datetime: 2025-11-13T06:20:07.500Z
+  text: Moon slowly becoming visible.
+  author: ihmis-suski
+  position:
+    longitude: -76.4310715
+    latitude: 10.2156363
+    source: GPS
+  heading: 265
+  course: 259
+  speed:
+    sog: 5.6
+  log: 12462.3
+  waypoint:
+    longitude: -76.328674
+    latitude: 10.062236
+  barometer: 1008.68
+  wind:
+    speed: 22
+    direction: 41
+  engine:
+    hours: 1012.4
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: navigation
