@@ -154,3 +154,59 @@
     - ihmis-suski
     - bergie
   category: navigation
+- datetime: 2025-11-13T03:00:07.000Z
+  text: ""
+  author: ""
+  position:
+    longitude: -76.1579984
+    latitude: 10.2604968
+    source: GPS
+  heading: 263
+  course: 262
+  speed:
+    sog: 5.5
+  log: 12445.8
+  waypoint:
+    longitude: -76.157801
+    latitude: 10.254684
+  barometer: 1010.02
+  wind:
+    speed: 19.8
+    direction: 44
+  engine:
+    hours: 1012.4
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: navigation
+- datetime: 2025-11-13T03:30:07.100Z
+  text: First flying fish of this trip in the cockpit
+  author: bergie
+  position:
+    longitude: -76.198483
+    latitude: 10.2536176
+    source: GPS
+  heading: 273
+  course: 260
+  speed:
+    sog: 4.9
+  log: 12448.2
+  waypoint:
+    longitude: -76.204136
+    latitude: 10.213538
+  barometer: 1010.23
+  wind:
+    speed: 19.9
+    direction: 51
+  engine:
+    hours: 1012.4
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: navigation
+  observations:
+    seaState: 4
+    cloudCoverage: 1
+    visibility: 7
