@@ -315,3 +315,60 @@
   crewNames:
     - ihmis-suski
     - bergie
+  category: navigation
+- datetime: 2025-11-14T07:20:53.800Z
+  text: >-
+    Sails down, motoring
+
+
+    If we want to get to the anchorage during daylight, we need to motor to
+    Obaldia for checkin.
+  author: ihmis-suski
+  position:
+    longitude: -77.2944395
+    latitude: 8.9762871
+    source: GPS
+  heading: 146
+  course: 125
+  speed:
+    sog: 2.2
+  log: 12564.1
+  waypoint:
+    longitude: -77.424746
+    latitude: 8.667893
+  barometer: 1009.21
+  wind:
+    speed: 7.1
+    direction: 207
+  engine:
+    hours: 1018
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: navigation
+- datetime: 2025-11-14T08:00:07.801Z
+  text: ""
+  author: ""
+  position:
+    longitude: -77.3120536
+    latitude: 8.9398236
+    source: GPS
+  heading: 209
+  course: 213
+  speed:
+    sog: 3.9
+  log: 12566.6
+  waypoint:
+    longitude: -77.424746
+    latitude: 8.667893
+  barometer: 1008.72
+  wind:
+    speed: 7.1
+    direction: 205
+  engine:
+    hours: 1018.7
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
