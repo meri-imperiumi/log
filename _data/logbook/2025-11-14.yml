@@ -52,3 +52,82 @@
   category: navigation
   observations:
     seaState: 3
+- datetime: 2025-11-14T02:00:53.200Z
+  text: ""
+  author: ""
+  position:
+    longitude: -77.3479633
+    latitude: 9.2442601
+    source: GPS
+  heading: 193
+  course: 191
+  speed:
+    sog: 4.3
+  log: 12547.1
+  waypoint:
+    longitude: -77.424746
+    latitude: 8.667893
+  barometer: 1010.67
+  wind:
+    speed: 10.7
+    direction: 273
+  engine:
+    hours: 1018
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: navigation
+- datetime: 2025-11-14T02:13:18.200Z
+  text: "Sails set: Main, Genoa 1 (10% furled)"
+  author: ""
+  position:
+    longitude: -77.3509191
+    latitude: 9.2284908
+    source: GPS
+  heading: 191
+  course: 185
+  speed:
+    sog: 4.2
+  log: 12548.1
+  waypoint:
+    longitude: -77.424746
+    latitude: 8.667893
+  barometer: 1010.79
+  wind:
+    speed: 12.8
+    direction: 270
+  engine:
+    hours: 1018
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: navigation
+- datetime: 2025-11-14T02:25:18.200Z
+  text: "Sails set: Main, Genoa 1 (40% furled). Getting a bit gustier, and some
+    flashing in the horizon"
+  author: bergie
+  position:
+    longitude: -77.3529498
+    latitude: 9.2135344
+    source: GPS
+  heading: 194
+  course: 196
+  speed:
+    sog: 3.9
+  log: 12549
+  waypoint:
+    longitude: -77.424746
+    latitude: 8.667893
+  barometer: 1010.94
+  wind:
+    speed: 12.1
+    direction: 273
+  engine:
+    hours: 1018
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: navigation
