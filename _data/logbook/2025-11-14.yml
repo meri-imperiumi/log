@@ -182,3 +182,85 @@
   crewNames:
     - ihmis-suski
     - bergie
+  category: navigation
+- datetime: 2025-11-14T04:59:59.699Z
+  text: Suski.on watch
+  author: ihmis-suski
+  position:
+    longitude: -77.3447271
+    latitude: 9.0739048
+    source: GPS
+  heading: 159
+  course: 171
+  speed:
+    sog: 2.9
+  log: 12557.5
+  waypoint:
+    longitude: -77.424746
+    latitude: 8.667893
+  barometer: 1010.7
+  wind:
+    speed: 13.8
+    direction: 225
+  engine:
+    hours: 1018
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: navigation
+- datetime: 2025-11-14T05:26:16.700Z
+  text: |-
+    Sails set: Main (1st reef), Genoa 1 (40% furled)
+
+    Rain ahead, and hoping for a full 4 houra of sleep for Bergie
+  author: ihmis-suski
+  position:
+    longitude: -77.3339073
+    latitude: 9.0539033
+    source: GPS
+  heading: 155
+  course: 153
+  speed:
+    sog: 3
+  log: 12558.9
+  waypoint:
+    longitude: -77.424746
+    latitude: 8.667893
+  barometer: 1010.43
+  wind:
+    speed: 9.2
+    direction: 214
+  engine:
+    hours: 1018
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: navigation
+- datetime: 2025-11-14T05:31:12.700Z
+  text: "Sails set: Main (1st reef), Genoa 1 (30% furled)"
+  author: ""
+  position:
+    longitude: -77.3323078
+    latitude: 9.0510428
+    source: GPS
+  heading: 155
+  course: 149
+  speed:
+    sog: 2.9
+  log: 12559.1
+  waypoint:
+    longitude: -77.424746
+    latitude: 8.667893
+  barometer: 1010.39
+  wind:
+    speed: 10.2
+    direction: 213
+  engine:
+    hours: 1018
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: navigation
