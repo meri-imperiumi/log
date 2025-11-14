@@ -374,8 +374,8 @@
     - bergie
   category: navigation
 - datetime: 2025-11-14T09:00:10.800Z
-  text: ""
-  author: ""
+  text: "Bergie on watch "
+  author: bergie
   position:
     longitude: -77.3445021
     latitude: 8.879335
@@ -398,3 +398,8 @@
   crewNames:
     - ihmis-suski
     - bergie
+  category: navigation
+  observations:
+    seaState: 3
+    cloudCoverage: 7
+    visibility: 7
