@@ -1000,3 +1000,83 @@
   crewNames:
     - ihmis-suski
     - bergie
+  category: navigation
+- datetime: 2025-11-13T23:00:46.099Z
+  text: ""
+  author: ""
+  position:
+    longitude: -77.2786085
+    latitude: 9.4275548
+    source: GPS
+  heading: 201
+  course: 208
+  speed:
+    sog: 3.3
+  log: 12535.2
+  waypoint:
+    longitude: -77.424746
+    latitude: 8.667893
+  barometer: 1007.94
+  wind:
+    speed: 7.8
+    direction: 289
+  engine:
+    hours: 1018
+  vhf: "14"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: navigation
+- datetime: 2025-11-13T23:14:46.099Z
+  text: Tried unsuccessfully to get Winlink email connection over Ardop or Vara on
+    20m band. No response form any rms
+  author: bergie
+  position:
+    longitude: -77.2868154
+    latitude: 9.4133403
+    source: GPS
+  heading: 195
+  course: 209
+  speed:
+    sog: 3
+  log: 12536.2
+  waypoint:
+    longitude: -77.424746
+    latitude: 8.667893
+  barometer: 1008.26
+  wind:
+    speed: 8.7
+    direction: 278
+  engine:
+    hours: 1018
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: radio
+- datetime: 2025-11-13T23:52:47.200Z
+  text: The night is very dark again.
+  author: ihmis-suski
+  position:
+    longitude: -77.3076156
+    latitude: 9.3764156
+    source: GPS
+  heading: 198
+  course: 207
+  speed:
+    sog: 4.7
+  log: 12538.8
+  waypoint:
+    longitude: -77.424746
+    latitude: 8.667893
+  barometer: 1008.94
+  wind:
+    speed: 8.6
+    direction: 299
+  engine:
+    hours: 1018
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: navigation
