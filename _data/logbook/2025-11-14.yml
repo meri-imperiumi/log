@@ -454,3 +454,52 @@
   crewNames:
     - ihmis-suski
     - bergie
+  category: navigation
+- datetime: 2025-11-14T11:49:17.900Z
+  text: "Autopilot deactivated "
+  author: bergie
+  position:
+    longitude: -77.4262839
+    latitude: 8.6763259
+    source: GPS
+  heading: 188
+  course: 197
+  speed:
+    sog: 4.3
+  log: 12583.9
+  waypoint:
+    longitude: -77.424746
+    latitude: 8.667893
+  barometer: 1010.45
+  wind:
+    speed: 1.8
+    direction: 134
+  engine:
+    hours: 1022.5
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: navigation
+- datetime: 2025-11-14T12:00:18.899Z
+  text: ""
+  author: ""
+  position:
+    longitude: -77.4226393
+    latitude: 8.6648206
+    source: GPS
+  heading: 321
+  course: 318
+  speed:
+    sog: 2.9
+  log: 12584.7
+  barometer: 1010.53
+  wind:
+    speed: 3.4
+    direction: 135
+  engine:
+    hours: 1022.7
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
