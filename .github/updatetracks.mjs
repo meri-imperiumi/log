@@ -10,6 +10,19 @@ const logDir = resolve(__dirname, '../_logs');
 const trackDir = resolve(__dirname, '../tracks');
 const startOfHistory = new Date('2022-01-10');
 
+function parseHead(head) {
+  try {
+    return parse(head);
+  } catch (e) {
+    if (head.indexOf('position:') !== -1) {
+      // Likely a position object GitJournal messed up
+      const withoutPos = head.split('position:')[0];
+      return parse(withoutPos);
+    }
+    throw e;
+  }
+}
+
 function getLogMeta(name, previous) {
   return readFile(resolve(logDir, name), 'utf-8')
     .then((content) => {
@@ -25,7 +38,7 @@ function getLogMeta(name, previous) {
       entry.title = entry.to.toLocaleDateString();
       if (content.indexOf('---') === 0) {
         const [front, head, body] = content.split('---');
-        const metadata = parse(head);
+        const metadata = parseHead(head);
         if (metadata && metadata.created) {
           entry.to = new Date(metadata.created);
         }
@@ -33,7 +46,11 @@ function getLogMeta(name, previous) {
           entry.title = metadata.title;
         }
         if (metadata && metadata.position) {
-          entry.position = metadata.position;
+          if (Number.isFinite(metadata.position.lat)) {
+            entry.position = metadata.position;
+          } else {
+            delete metadata.position;
+          }
         }
         if (entry.title.indexOf('Intermission') !== -1) {
           entry.intermission = true;
@@ -77,7 +94,7 @@ function ensurePositionMeta(entry, trackName) {
             return Promise.resolve();
           }
           const [front, head, body] = content.split('---');
-          const metadata = parse(head);
+          const metadata = parseHead(head);
           metadata.position = {
             ...entry.position,
           };
