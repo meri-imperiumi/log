@@ -1,0 +1,51 @@
+- datetime: 2025-11-15T13:59:41.798Z
+  text: Meshtastic mast node fell into the sea when trying to take it down for
+    inspection. Suski was able to dive it
+  author: bergie
+  position:
+    longitude: -77.6863078
+    latitude: 8.8972886
+    source: GPS
+  heading: 252
+  course: 259
+  speed:
+    sog: 0
+  log: 12607.3
+  waypoint:
+    longitude: -77.683271
+    latitude: 8.887663
+  barometer: 1011.5
+  wind:
+    speed: 11.3
+    direction: 219
+  engine:
+    hours: 1027.9
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: maintenance
+- datetime: 2025-11-15T14:31:41.900Z
+  text: Started watermaker
+  author: bergie
+  position:
+    longitude: -77.6863496
+    latitude: 8.8973255
+    source: GPS
+  heading: 208
+  course: 340
+  speed:
+    sog: 0
+  log: 12607.3
+  waypoint:
+    longitude: -77.683271
+    latitude: 8.887663
+  barometer: 1011.7
+  wind:
+    speed: 12
+    direction: 208
+  engine:
+    hours: 1027.9
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: maintenance
