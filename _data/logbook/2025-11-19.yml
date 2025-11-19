@@ -97,3 +97,74 @@
   crewNames:
     - ihmis-suski
     - bergie
+  category: navigation
+- datetime: 2025-11-19T17:00:32.102Z
+  text: ""
+  author: ""
+  position:
+    longitude: -77.7512228
+    latitude: 8.9928676
+    source: GPS
+  heading: 306
+  course: 333
+  speed:
+    sog: 2.1
+  log: 12616
+  barometer: 1010.83
+  wind:
+    speed: 3.9
+    direction: 233
+  engine:
+    hours: 1030.6
+  vhf: "17"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: navigation
+- datetime: 2025-11-19T17:25:45.203Z
+  text: Anchored
+  author: ""
+  position:
+    longitude: -77.7605028
+    latitude: 8.9993063
+    source: GPS
+  heading: 113
+  course: 83
+  speed:
+    sog: 0.6
+  log: 12616.8
+  barometer: 1010.38
+  wind:
+    speed: 3
+    direction: 247
+  engine:
+    hours: 1031
+  vhf: "72"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  end: true
+  category: navigation
+- datetime: 2025-11-19T17:30:37.196Z
+  text: Stopped main engine
+  author: ""
+  position:
+    longitude: -77.7605448
+    latitude: 8.9990938
+    source: GPS
+  heading: 20
+  course: 21
+  speed:
+    sog: 0.3
+  log: 12616.8
+  barometer: 1010.35
+  wind:
+    speed: 2.3
+    direction: 251
+  engine:
+    hours: 1031.1
+  vhf: "72"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: navigation
