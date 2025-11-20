@@ -76,8 +76,8 @@
     - bergie
   category: navigation
 - datetime: 2025-11-19T16:00:34.099Z
-  text: ""
-  author: ""
+  text: Distress from Plan B over VHF. Their engine died. We try to tow them
+  author: bergie
   position:
     longitude: -77.73507798512777
     latitude: 8.973129145304362
@@ -98,6 +98,8 @@
     - ihmis-suski
     - bergie
   category: navigation
+  observations:
+    seaState: 4
 - datetime: 2025-11-19T17:00:32.102Z
   text: ""
   author: ""
@@ -122,8 +124,9 @@
     - bergie
   category: navigation
 - datetime: 2025-11-19T17:25:45.203Z
-  text: Anchored
-  author: ""
+  text: Anchored. Got Plan B towed into the anchorage. Port stern cleat almost
+    ripped off
+  author: bergie
   position:
     longitude: -77.7605028
     latitude: 8.9993063
