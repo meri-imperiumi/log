@@ -64,3 +64,49 @@
     - ihmis-suski
     - bergie
   category: maintenance
+- datetime: 2025-11-28T15:05:08.499Z
+  text: Diesel tank sensor started showing values after some wiggling. Seems poor
+    contact on Cerbo GX end. Similarly Cerbo started seeing Ruuvi Tags again
+    after a reboot
+  author: bergie
+  position:
+    longitude: -78.1229366
+    latitude: 9.2703551
+    source: GPS
+  heading: 298
+  course: 346
+  speed:
+    sog: 0
+  log: 12650
+  barometer: 1011.22
+  wind:
+    speed: 4.7
+    direction: 287
+  engine:
+    hours: 1040.8
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: maintenance
+- datetime: 2025-11-28T15:17:08.499Z
+  text: Watermaker 252ppm
+  author: bergie
+  position:
+    longitude: -78.1229538
+    latitude: 9.2703426
+    source: GPS
+  heading: 269
+  course: 213
+  speed:
+    sog: 0
+  log: 12650
+  barometer: 1011.14
+  wind:
+    speed: 6.8
+    direction: 305
+  engine:
+    hours: 1040.8
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: maintenance
