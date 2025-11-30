@@ -301,3 +301,54 @@
     - ihmis-suski
     - bergie
   category: maintenance
+- datetime: 2025-11-30T21:15:40.902Z
+  text: Had a successful radio conversation with Sya in 16.528MHz. They're 25NM
+    from Jamaica
+  author: bergie
+  position:
+    longitude: -78.675565
+    latitude: 9.5885478
+    source: GPS
+  heading: 117
+  course: 179
+  speed:
+    sog: 0
+  log: 12691.8
+  waypoint:
+    longitude: -78.677923
+    latitude: 9.582431
+  barometer: 0
+  wind:
+    speed: 4.6
+    direction: 109
+  engine:
+    hours: 1052.8
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: radio
+- datetime: 2025-11-30T21:23:40.902Z
+  text: "Stopped watermaker "
+  author: bergie
+  position:
+    longitude: -78.6755781
+    latitude: 9.5885639
+    source: GPS
+  heading: 108
+  course: 275
+  speed:
+    sog: 0
+  log: 12691.8
+  waypoint:
+    longitude: -78.677923
+    latitude: 9.582431
+  barometer: 1007.62
+  wind:
+    speed: 3
+    direction: 111
+  engine:
+    hours: 1052.8
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: maintenance
