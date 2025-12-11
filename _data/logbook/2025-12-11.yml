@@ -314,8 +314,8 @@
     - bergie
   category: maintenance
 - datetime: 2025-12-11T16:00:26.400Z
-  text: ""
-  author: ""
+  text: Bergie on watch. Prepared to pole out later
+  author: bergie
   position:
     longitude: -79.2597211
     latitude: 9.6634366
@@ -332,6 +332,36 @@
   wind:
     speed: 17.9
     direction: 59
+  engine:
+    hours: 1054.1
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: navigation
+  observations:
+    seaState: 4
+    cloudCoverage: 6
+    visibility: 6
+- datetime: 2025-12-11T17:00:28.403Z
+  text: ""
+  author: ""
+  position:
+    longitude: -79.3480653444926
+    latitude: 9.656936009724935
+    source: GPS
+  heading: 271
+  course: 256
+  speed:
+    sog: 5
+  log: 12735.8
+  waypoint:
+    longitude: -79.440309
+    latitude: 9.650239
+  barometer: 1010.15
+  wind:
+    speed: 15
+    direction: 52
   engine:
     hours: 1054.1
   vhf: "16"
