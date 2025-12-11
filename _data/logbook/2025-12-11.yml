@@ -395,3 +395,81 @@
     - ihmis-suski
     - bergie
   category: maintenance
+- datetime: 2025-12-11T18:00:31.398Z
+  text: ""
+  author: ""
+  position:
+    longitude: -79.4258916536967
+    latitude: 9.65082581837972
+    source: GPS
+  heading: 292
+  course: 290
+  speed:
+    sog: 5.5
+  log: 12740.5
+  waypoint:
+    longitude: -79.442907
+    latitude: 9.649775
+  barometer: 1009.69
+  wind:
+    speed: 13.7
+    direction: 48
+  engine:
+    hours: 1054.1
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: navigation
+- datetime: 2025-12-11T18:01:22.400Z
+  text: "Sails set: Main (1st reef), Genoa 1"
+  author: ""
+  position:
+    longitude: -79.42705615361531
+    latitude: 9.651038996378581
+    source: GPS
+  heading: 265
+  course: 291
+  speed:
+    sog: 4.9
+  log: 12740.6
+  waypoint:
+    longitude: -79.442907
+    latitude: 9.649775
+  barometer: 1009.72
+  wind:
+    speed: 13.4
+    direction: 35
+  engine:
+    hours: 1054.1
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: navigation
+- datetime: 2025-12-11T18:45:32.499Z
+  text: "Autopilot activated "
+  author: bergie
+  position:
+    longitude: -79.4845231
+    latitude: 9.6494988
+    source: GPS
+  heading: 245
+  course: 246
+  speed:
+    sog: 4.4
+  log: 12744
+  waypoint:
+    longitude: -79.527041
+    latitude: 9.641962
+  barometer: 1008.89
+  wind:
+    speed: 9.7
+    direction: 37
+  engine:
+    hours: 1054.1
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: navigation
