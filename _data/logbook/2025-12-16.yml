@@ -1,0 +1,51 @@
+- datetime: 2025-12-16T00:26:37.100Z
+  text: Tightened alternator belt. Lots of black dust, belt likely needs changing
+    soon
+  author: bergie
+  position:
+    longitude: -79.5878926
+    latitude: 9.6126708
+    source: GPS
+  heading: 177
+  course: 79
+  speed:
+    sog: 0
+  log: 12751.1
+  waypoint:
+    longitude: -79.583196
+    latitude: 9.613479
+  barometer: 1011.11
+  wind:
+    speed: 6.3
+    direction: 179
+  engine:
+    hours: 1055.3
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: maintenance
+- datetime: 2025-12-16T00:34:55.100Z
+  text: Started main engine
+  author: ""
+  position:
+    longitude: -79.5879135
+    latitude: 9.612664
+    source: GPS
+  heading: 144
+  course: 124
+  speed:
+    sog: 0
+  log: 12751.1
+  waypoint:
+    longitude: -79.583196
+    latitude: 9.613479
+  barometer: 1011.09
+  wind:
+    speed: 5.2
+    direction: 175
+  engine:
+    hours: 1055.3
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: navigation
