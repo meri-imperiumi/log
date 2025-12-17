@@ -77,8 +77,8 @@
     - bergie
   category: navigation
 - datetime: 2025-12-17T13:17:07.100Z
-  text: Stopped
-  author: ""
+  text: Stopped at a waiting mooring ball
+  author: bergie
   position:
     longitude: -79.6084696
     latitude: 9.6100148
@@ -153,34 +153,9 @@
     - ihmis-suski
     - bergie
   category: navigation
-- datetime: 2025-12-17T16:31:14.598Z
-  text: Sailing with Main (1st reef), Genoa 1
-  author: ""
-  position:
-    longitude: -79.6090366
-    latitude: 9.6092746
-    source: GPS
-  heading: 216
-  course: 225
-  speed:
-    sog: 1
-  log: 12753.4
-  waypoint:
-    longitude: -79.583196
-    latitude: 9.613479
-  barometer: 1011.08
-  wind:
-    speed: 11.6
-    direction: 57
-  engine:
-    hours: 1057.7
-  crewNames:
-    - ihmis-suski
-    - bergie
-  category: navigation
 - datetime: 2025-12-17T16:33:14.598Z
-  text: Stopped
-  author: ""
+  text: Stopped at the slip
+  author: bergie
   position:
     longitude: -79.6091353
     latitude: 9.6091776
@@ -205,8 +180,8 @@
   end: true
   category: navigation
 - datetime: 2025-12-17T16:53:15.596Z
-  text: Sailing with Main (1st reef), Genoa 1
-  author: ""
+  text: On a trailer
+  author: bergie
   position:
     longitude: -79.6096248
     latitude: 9.6082968
@@ -229,34 +204,9 @@
     - ihmis-suski
     - bergie
   category: navigation
-- datetime: 2025-12-17T17:00:14.598Z
-  text: ""
-  author: ""
-  position:
-    longitude: -79.6093051
-    latitude: 9.6078224
-    source: GPS
-  heading: 348
-  course: 136
-  speed:
-    sog: 0
-  log: 12753.5
-  waypoint:
-    longitude: -79.583196
-    latitude: 9.613479
-  barometer: 1010.55
-  wind:
-    speed: 6.4
-    direction: 62
-  engine:
-    hours: 1057.7
-  crewNames:
-    - ihmis-suski
-    - bergie
-  category: navigation
 - datetime: 2025-12-17T17:03:15.596Z
-  text: Stopped
-  author: ""
+  text: Stopped on the work yard
+  author: bergie
   position:
     longitude: -79.6092821
     latitude: 9.6078213
