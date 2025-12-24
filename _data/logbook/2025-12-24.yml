@@ -1,6 +1,6 @@
 - datetime: 2025-12-24T04:53:19.000Z
-  text: Sailing with Main (1st reef), Genoa 1
-  author: ""
+  text: "Applied new antifouling: 5l of Seajet 033 was enough for 1.5 rounds"
+  author: bergie
   position:
     latitude: 9.607879638671875
     longitude: -79.6093521118164
@@ -15,41 +15,4 @@
   crewNames:
     - ihmis-suski
     - bergie
-  category: navigation
-- datetime: 2025-12-24T05:00:25.000Z
-  text: ""
-  author: ""
-  position:
-    latitude: 9.607830047607422
-    longitude: -79.60918426513672
-    altitude: 0.10000000149011612
-  course: 215
-  speed:
-    sog: 0.1
-  log: 12753.8
-  barometer: 1011.05
-  engine:
-    hours: 1057.7
-  crewNames:
-    - ihmis-suski
-    - bergie
-  category: navigation
-- datetime: 2025-12-24T05:03:28.000Z
-  text: Stopped
-  author: ""
-  position:
-    latitude: 9.607851028442383
-    longitude: -79.6092300415039
-    altitude: 15.600000381469727
-  course: 151
-  speed:
-    sog: 0.1
-  log: 12753.8
-  barometer: 1011.1
-  engine:
-    hours: 1057.7
-  crewNames:
-    - ihmis-suski
-    - bergie
-  end: true
-  category: navigation
+  category: maintenance
