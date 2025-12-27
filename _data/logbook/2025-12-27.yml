@@ -1,0 +1,37 @@
+- datetime: 2025-12-27T07:26:57.000Z
+  text: Sailing with Main (1st reef), Genoa 1
+  author: ""
+  position:
+    latitude: 9.607770919799805
+    longitude: -79.60914611816406
+    altitude: -9.800000190734863
+  course: 98
+  speed:
+    sog: 0.1
+  log: 12753.8
+  barometer: 1009.59
+  engine:
+    hours: 1057.7
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: navigation
+- datetime: 2025-12-27T07:29:03.000Z
+  text: Stopped
+  author: ""
+  position:
+    latitude: 9.607797622680664
+    longitude: -79.6091537475586
+    altitude: -3.0999999046325684
+  course: 189
+  speed:
+    sog: 0.1
+  log: 12753.8
+  barometer: 1009.61
+  engine:
+    hours: 1057.7
+  crewNames:
+    - ihmis-suski
+    - bergie
+  end: true
+  category: navigation
