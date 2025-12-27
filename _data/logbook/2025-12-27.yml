@@ -72,3 +72,155 @@
     - bergie
   end: true
   category: navigation
+- datetime: 2025-12-27T14:28:28.000Z
+  text: Sailing with Main (1st reef), Genoa 1
+  author: ""
+  position:
+    latitude: 9.609126091003418
+    longitude: -79.60916900634766
+    altitude: 6
+  course: 41
+  speed:
+    sog: 1.8
+  log: 12753.9
+  barometer: 1012.31
+  engine:
+    hours: 1057.7
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: navigation
+- datetime: 2025-12-27T14:32:35.600Z
+  text: Sails down, motoring
+  author: ""
+  position:
+    longitude: -79.6088558
+    latitude: 9.6095211
+    source: GPS
+  heading: 213
+  course: 22
+  speed:
+    sog: 0
+  log: 12754
+  barometer: 1012.61
+  wind:
+    speed: 9.2
+    direction: 54
+  engine:
+    hours: 1057.7
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: navigation
+- datetime: 2025-12-27T14:33:01.600Z
+  text: Stopped
+  author: ""
+  position:
+    longitude: -79.6088661
+    latitude: 9.6095131
+    source: GPS
+  heading: 214
+  course: 225
+  speed:
+    sog: 0
+  log: 12754
+  barometer: 1012.65
+  wind:
+    speed: 9.3
+    direction: 57
+  engine:
+    hours: 1057.7
+  crewNames:
+    - ihmis-suski
+    - bergie
+  end: true
+  category: navigation
+- datetime: 2025-12-27T14:34:26.598Z
+  text: Started main engine
+  author: ""
+  position:
+    longitude: -79.6088511
+    latitude: 9.6095198
+    source: GPS
+  heading: 210
+  course: 29
+  speed:
+    sog: 0
+  log: 12754
+  barometer: 1012.61
+  wind:
+    speed: 11.2
+    direction: 48
+  engine:
+    hours: 1057.7
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: navigation
+- datetime: 2025-12-27T14:37:29.600Z
+  text: Motoring
+  author: ""
+  position:
+    longitude: -79.6090276
+    latitude: 9.6101254
+    source: GPS
+  heading: 163
+  course: 209
+  speed:
+    sog: 3
+  log: 12754
+  barometer: 1012.63
+  wind:
+    speed: 11.2
+    direction: 34
+  engine:
+    hours: 1057.8
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: navigation
+- datetime: 2025-12-27T14:40:11.600Z
+  text: Anchored
+  author: ""
+  position:
+    longitude: -79.6087811
+    latitude: 9.6100826
+    source: GPS
+  heading: 58
+  course: 310
+  speed:
+    sog: 0
+  log: 12754
+  barometer: 1012.68
+  wind:
+    speed: 11.5
+    direction: 58
+  engine:
+    hours: 1057.8
+  crewNames:
+    - ihmis-suski
+    - bergie
+  end: true
+  category: navigation
+- datetime: 2025-12-27T14:40:21.600Z
+  text: Stopped main engine
+  author: ""
+  position:
+    longitude: -79.6087835
+    latitude: 9.6100816
+    source: GPS
+  heading: 60
+  course: 304
+  speed:
+    sog: 0
+  log: 12754
+  barometer: 1012.67
+  wind:
+    speed: 12.8
+    direction: 66
+  engine:
+    hours: 1057.8
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: navigation
