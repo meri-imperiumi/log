@@ -131,3 +131,28 @@
     seaState: 4
     cloudCoverage: 7
     visibility: 7
+- datetime: 2026-01-02T15:00:24.198Z
+  text: ""
+  author: ""
+  position:
+    longitude: -79.6889474
+    latitude: 9.5966958
+    source: GPS
+  heading: 236
+  course: 246
+  speed:
+    sog: 3.5
+  log: 12759.9
+  waypoint:
+    longitude: -79.916618
+    latitude: 9.399809
+  barometer: 1012.95
+  wind:
+    speed: 15.8
+    direction: 28
+  engine:
+    hours: 1058.5
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
