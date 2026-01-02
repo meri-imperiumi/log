@@ -287,3 +287,83 @@
   crewNames:
     - ihmis-suski
     - bergie
+  category: navigation
+- datetime: 2026-01-02T19:00:35.302Z
+  text: ""
+  author: ""
+  position:
+    longitude: -79.9260199
+    latitude: 9.3832741
+    source: GPS
+  heading: 236
+  course: 236
+  speed:
+    sog: 4.7
+  log: 12779.5
+  waypoint:
+    longitude: -79.939716
+    latitude: 9.374458
+  barometer: 1010.23
+  wind:
+    speed: 15.9
+    direction: 7
+  engine:
+    hours: 1058.5
+  vhf: "12"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: navigation
+- datetime: 2026-01-02T19:04:58.297Z
+  text: Sails down, motoring
+  author: ""
+  position:
+    longitude: -79.9308473
+    latitude: 9.380134
+    source: GPS
+  heading: 238
+  course: 237
+  speed:
+    sog: 5
+  log: 12779.8
+  waypoint:
+    longitude: -79.939716
+    latitude: 9.374458
+  barometer: 1010.12
+  wind:
+    speed: 19.3
+    direction: 9
+  engine:
+    hours: 1058.5
+  vhf: "12"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: navigation
+- datetime: 2026-01-02T19:35:37.299Z
+  text: Stopped
+  author: ""
+  position:
+    longitude: -79.9513711
+    latitude: 9.3673628
+    source: GPS
+  heading: 26
+  course: 270
+  speed:
+    sog: 0
+  log: 12781.4
+  waypoint:
+    longitude: -79.949598
+    latitude: 9.369476
+  barometer: 1009.94
+  wind:
+    speed: 7.8
+    direction: 6
+  engine:
+    hours: 1059
+  vhf: "74"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  end: true
+  category: navigation
