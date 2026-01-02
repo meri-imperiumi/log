@@ -74,3 +74,60 @@
   crewNames:
     - ihmis-suski
     - bergie
+  category: navigation
+- datetime: 2026-01-02T14:14:05.200Z
+  text: Motor stopped, sailing with Main (1st reef)
+  author: ""
+  position:
+    longitude: -79.6342278
+    latitude: 9.6250526
+    source: GPS
+  heading: 260
+  course: 263
+  speed:
+    sog: 3.8
+  log: 12756.2
+  waypoint:
+    longitude: -79.64271
+    latitude: 9.619048
+  barometer: 1012.78
+  wind:
+    speed: 18.2
+    direction: 22
+  engine:
+    hours: 1058.5
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: navigation
+- datetime: 2026-01-02T14:23:04.198Z
+  text: "Sails set: Main (1st reef), Genoa 1 (60% furled)"
+  author: ihmis-suski
+  position:
+    longitude: -79.6459273
+    latitude: 9.6231501
+    source: GPS
+  heading: 272
+  course: 264
+  speed:
+    sog: 4
+  log: 12756.9
+  waypoint:
+    longitude: -79.668036
+    latitude: 9.603724
+  barometer: 1012.92
+  wind:
+    speed: 19.9
+    direction: 36
+  engine:
+    hours: 1058.5
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: navigation
+  observations:
+    seaState: 4
+    cloudCoverage: 7
+    visibility: 7
