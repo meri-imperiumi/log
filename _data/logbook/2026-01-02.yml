@@ -182,3 +182,83 @@
   crewNames:
     - ihmis-suski
     - bergie
+  category: navigation
+- datetime: 2026-01-02T17:00:29.299Z
+  text: ""
+  author: ""
+  position:
+    longitude: -79.82216517130534
+    latitude: 9.50208683013916
+    source: GPS
+  heading: 232
+  course: 220
+  speed:
+    sog: 3.9
+  log: 12769.8
+  waypoint:
+    longitude: -79.916465
+    latitude: 9.403088
+  barometer: 1012.22
+  wind:
+    speed: 15.2
+    direction: 23
+  engine:
+    hours: 1058.5
+  vhf: "12"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: navigation
+- datetime: 2026-01-02T17:12:29.299Z
+  text: Contacted Cristobal Signal Station 8NM from breakwater. Next contact 2NM
+    before.
+  author: bergie
+  position:
+    longitude: -79.8322536
+    latitude: 9.4894241
+    source: GPS
+  heading: 220
+  course: 232
+  speed:
+    sog: 4.7
+  log: 12770.8
+  waypoint:
+    longitude: -79.916465
+    latitude: 9.403088
+  barometer: 1012.07
+  wind:
+    speed: 18.6
+    direction: 5
+  engine:
+    hours: 1058.5
+  vhf: "12"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: radio
+- datetime: 2026-01-02T17:13:30.297Z
+  text: "Sails set: Main (1st reef)"
+  author: ""
+  position:
+    longitude: -79.8330724
+    latitude: 9.4882603
+    source: GPS
+  heading: 229
+  course: 274
+  speed:
+    sog: 5.8
+  log: 12770.9
+  waypoint:
+    longitude: -79.916465
+    latitude: 9.403088
+  barometer: 1012.06
+  wind:
+    speed: 22.9
+    direction: 12
+  engine:
+    hours: 1058.5
+  vhf: "12"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: navigation
