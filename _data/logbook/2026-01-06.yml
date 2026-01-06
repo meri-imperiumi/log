@@ -65,3 +65,69 @@
     - ihmis-suski
     - bergie
   category: navigation
+- datetime: 2026-01-06T16:00:04.000Z
+  text: "Oil change: Yanmar genuine 15W40 engine oil"
+  author: bergie
+  position:
+    longitude: -79.9513554
+    latitude: 9.3673645
+    source: GPS
+  heading: 28
+  course: 343
+  speed:
+    sog: 0
+  log: 12781.4
+  barometer: 1013.54
+  wind:
+    speed: 9
+    direction: 14
+  engine:
+    hours: 1059
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: engine
+- datetime: 2026-01-06T16:04:46.003Z
+  text: Started main engine
+  author: ""
+  position:
+    longitude: -79.9513758
+    latitude: 9.3673651
+    source: GPS
+  heading: 29
+  course: 232
+  speed:
+    sog: 0
+  log: 12781.4
+  barometer: 1013.56
+  wind:
+    speed: 6.4
+    direction: 14
+  engine:
+    hours: 1059
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: navigation
+- datetime: 2026-01-06T16:08:23.001Z
+  text: Stopped main engine
+  author: ""
+  position:
+    longitude: -79.9513594
+    latitude: 9.3673558
+    source: GPS
+  heading: 28
+  course: 312
+  speed:
+    sog: 0
+  log: 12781.4
+  barometer: 1013.59
+  wind:
+    speed: 7.3
+    direction: 21
+  engine:
+    hours: 1059.1
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: navigation
