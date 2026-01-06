@@ -1,0 +1,67 @@
+- datetime: 2026-01-06T14:19:57.900Z
+  text: Checked and lubricated the engine impeller. Water pump belt had cracks.
+    Changed both belts.
+  author: bergie
+  position:
+    longitude: -79.9513618
+    latitude: 9.3673293
+    source: GPS
+  heading: 27
+  course: 281
+  speed:
+    sog: 0
+  log: 12781.4
+  barometer: 1013.53
+  wind:
+    speed: 7.4
+    direction: 358
+  engine:
+    hours: 1059
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: engine
+- datetime: 2026-01-06T14:50:42.899Z
+  text: Started main engine
+  author: ""
+  position:
+    longitude: -79.9513568
+    latitude: 9.3673333
+    source: GPS
+  heading: 28
+  course: 87
+  speed:
+    sog: 0
+  log: 12781.4
+  barometer: 1013.65
+  wind:
+    speed: 4.4
+    direction: 26
+  engine:
+    hours: 1059
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: navigation
+- datetime: 2026-01-06T14:52:43.900Z
+  text: Stopped main engine
+  author: ""
+  position:
+    longitude: -79.9513543
+    latitude: 9.367321
+    source: GPS
+  heading: 29
+  course: 298
+  speed:
+    sog: 0
+  log: 12781.4
+  barometer: 1013.7
+  wind:
+    speed: 6.4
+    direction: 7
+  engine:
+    hours: 1059
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: navigation
