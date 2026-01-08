@@ -97,3 +97,69 @@
     - ihmis-suski
     - bergie
   category: navigation
+- datetime: 2026-01-08T22:28:54.003Z
+  text: Canal advisor on board, we are callsign 34E
+  author: bergie
+  position:
+    longitude: -79.943516
+    latitude: 9.3696463
+    source: GPS
+  heading: 58
+  course: 256
+  speed:
+    sog: 0
+  log: 12782.2
+  barometer: 1010.03
+  wind:
+    speed: 11
+    direction: 14
+  engine:
+    hours: 1059.4
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: navigation
+- datetime: 2026-01-08T22:33:23.001Z
+  text: Started main engine
+  author: ""
+  position:
+    longitude: -79.94346
+    latitude: 9.3696125
+    source: GPS
+  heading: 4
+  course: 263
+  speed:
+    sog: 0
+  log: 12782.2
+  barometer: 1010.08
+  wind:
+    speed: 11.5
+    direction: 25
+  engine:
+    hours: 1059.4
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: navigation
+- datetime: 2026-01-08T22:36:20.000Z
+  text: Anchor up, motoring
+  author: ""
+  position:
+    longitude: -79.9432715
+    latitude: 9.3698571
+    source: GPS
+  heading: 358
+  course: 105
+  speed:
+    sog: 0.3
+  log: 12782.2
+  barometer: 1010.05
+  wind:
+    speed: 12.1
+    direction: 10
+  engine:
+    hours: 1059.5
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: navigation
