@@ -403,3 +403,54 @@
     - bergie
   end: true
   category: navigation
+- datetime: 2026-01-09T19:08:08.396Z
+  text: Motoring
+  author: ""
+  position:
+    longitude: -79.6107006
+    latitude: 9.0150079
+    source: GPS
+  heading: 146
+  course: 146
+  speed:
+    sog: 4
+  log: 12817.6
+  waypoint:
+    longitude: -79.92086
+    latitude: 9.284727
+  barometer: 1007.12
+  wind:
+    speed: 6.7
+    direction: 19
+  engine:
+    hours: 1070.3
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: navigation
+- datetime: 2026-01-09T19:41:09.401Z
+  text: Stopped, first Miraflores locks
+  author: bergie
+  position:
+    longitude: -79.5921846
+    latitude: 8.9969856
+    source: GPS
+  heading: 135
+  course: 61
+  speed:
+    sog: 0
+  log: 12819.1
+  waypoint:
+    longitude: -79.92086
+    latitude: 9.284727
+  barometer: 1006.74
+  wind:
+    speed: 6.1
+    direction: 342
+  engine:
+    hours: 1070.8
+  crewNames:
+    - ihmis-suski
+    - bergie
+  end: true
+  category: navigation
