@@ -454,3 +454,79 @@
     - bergie
   end: true
   category: navigation
+- datetime: 2026-01-09T20:15:50.400Z
+  text: Motoring
+  author: ""
+  position:
+    longitude: -79.5911738
+    latitude: 8.9960266
+    source: GPS
+  heading: 140
+  course: 142
+  speed:
+    sog: 2
+  log: 12819.1
+  waypoint:
+    longitude: -79.92086
+    latitude: 9.284727
+  barometer: 1007.53
+  wind:
+    speed: 4.5
+    direction: 308
+  engine:
+    hours: 1071.4
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: navigation
+- datetime: 2026-01-09T20:27:51.398Z
+  text: Stopped
+  author: ""
+  position:
+    longitude: -79.5900128
+    latitude: 8.9947238
+    source: GPS
+  heading: 141
+  course: 345
+  speed:
+    sog: 0
+  log: 12819.3
+  waypoint:
+    longitude: -79.92086
+    latitude: 9.284727
+  barometer: 1007.95
+  wind:
+    speed: 5.6
+    direction: 340
+  engine:
+    hours: 1071.6
+  crewNames:
+    - ihmis-suski
+    - bergie
+  end: true
+  category: navigation
+- datetime: 2026-01-09T20:34:53.401Z
+  text: Motoring
+  author: ""
+  position:
+    longitude: -79.5892361
+    latitude: 8.9940033
+    source: GPS
+  heading: 135
+  course: 123
+  speed:
+    sog: 4.2
+  log: 12819.3
+  waypoint:
+    longitude: -79.92086
+    latitude: 9.284727
+  barometer: 1008.5
+  wind:
+    speed: 5.6
+    direction: 23
+  engine:
+    hours: 1071.7
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: navigation
