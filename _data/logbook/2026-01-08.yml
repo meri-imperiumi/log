@@ -1,3 +1,27 @@
+- datetime: 2026-01-08T00:00:00.000Z
+  text: ""
+  author: ""
+  position:
+    longitude: -79.9208084
+    latitude: 9.2913811
+    source: GPS
+  heading: 187
+  course: 188
+  speed:
+    sog: 1.9
+  log: 12787.8
+  waypoint:
+    longitude: -79.921062
+    latitude: 9.285574
+  barometer: 1010.76
+  wind:
+    speed: 6.8
+    direction: 20
+  engine:
+    hours: 1060.9
+  crewNames:
+    - ihmis-suski
+    - bergie
 - datetime: 2026-01-08T19:05:11.801Z
   text: Started main engine
   author: ""
@@ -159,6 +183,31 @@
     direction: 10
   engine:
     hours: 1059.5
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: navigation
+- datetime: 2026-01-08T23:00:57.996Z
+  text: ""
+  author: ""
+  position:
+    longitude: -79.9227908
+    latitude: 9.3591974
+    source: GPS
+  heading: 134
+  course: 143
+  speed:
+    sog: 5.8
+  log: 12783.6
+  waypoint:
+    longitude: -79.918807
+    latitude: 9.337359
+  barometer: 1010.37
+  wind:
+    speed: 12.5
+    direction: 358
+  engine:
+    hours: 1059.9
   crewNames:
     - ihmis-suski
     - bergie
