@@ -1,0 +1,126 @@
+- datetime: 2026-01-09T00:40:03.000Z
+  text: Stopped, first lock chamber
+  author: bergie
+  position:
+    longitude: -79.9224806
+    latitude: 9.2781609
+    source: GPS
+  heading: 179
+  course: 93
+  speed:
+    sog: 0
+  log: 12788.8
+  waypoint:
+    longitude: -79.92086
+    latitude: 9.284727
+  barometer: 1010.36
+  wind:
+    speed: 4.3
+    direction: 348
+  engine:
+    hours: 1061.5
+  crewNames:
+    - ihmis-suski
+    - bergie
+  end: true
+  category: navigation
+- datetime: 2026-01-09T00:51:15.000Z
+  text: Stopped main engine
+  author: ""
+  position:
+    longitude: -79.9224685
+    latitude: 9.2781761
+    source: GPS
+  heading: 179
+  course: 13
+  speed:
+    sog: 0
+  log: 12788.8
+  waypoint:
+    longitude: -79.92086
+    latitude: 9.284727
+  barometer: 1010.33
+  wind:
+    speed: 5.7
+    direction: 54
+  engine:
+    hours: 1061.6
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: navigation
+- datetime: 2026-01-09T00:51:16.000Z
+  text: Started main engine
+  author: ""
+  position:
+    longitude: -79.9224691
+    latitude: 9.2781761
+    source: GPS
+  heading: 178
+  course: 13
+  speed:
+    sog: 0
+  log: 12788.8
+  waypoint:
+    longitude: -79.92086
+    latitude: 9.284727
+  barometer: 1010.33
+  wind:
+    speed: 6
+    direction: 54
+  engine:
+    hours: 1061.6
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: navigation
+- datetime: 2026-01-09T00:51:30.000Z
+  text: Stopped main engine
+  author: ""
+  position:
+    longitude: -79.9224696
+    latitude: 9.2781763
+    source: GPS
+  heading: 175
+  course: 14
+  speed:
+    sog: 0
+  log: 12788.8
+  waypoint:
+    longitude: -79.92086
+    latitude: 9.284727
+  barometer: 1010.33
+  wind:
+    speed: 5.2
+    direction: 52
+  engine:
+    hours: 1061.6
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: navigation
+- datetime: 2026-01-09T00:51:31.000Z
+  text: Started main engine
+  author: ""
+  position:
+    longitude: -79.92247
+    latitude: 9.2781764
+    source: GPS
+  heading: 175
+  course: 13
+  speed:
+    sog: 0
+  log: 12788.8
+  waypoint:
+    longitude: -79.92086
+    latitude: 9.284727
+  barometer: 1010.33
+  wind:
+    speed: 4.6
+    direction: 47
+  engine:
+    hours: 1061.6
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: navigation
