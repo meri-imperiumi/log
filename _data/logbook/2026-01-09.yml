@@ -376,3 +376,30 @@
   crewNames:
     - ihmis-suski
     - bergie
+  category: navigation
+- datetime: 2026-01-09T17:43:04.300Z
+  text: Stopped, Pedro Miguel locks
+  author: bergie
+  position:
+    longitude: -79.6118238
+    latitude: 9.0159918
+    source: GPS
+  heading: 135
+  course: 257
+  speed:
+    sog: 0
+  log: 12817.6
+  waypoint:
+    longitude: -79.92086
+    latitude: 9.284727
+  barometer: 1007.33
+  wind:
+    speed: 8.6
+    direction: 28
+  engine:
+    hours: 1068.9
+  crewNames:
+    - ihmis-suski
+    - bergie
+  end: true
+  category: navigation
