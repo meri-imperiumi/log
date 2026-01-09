@@ -24,103 +24,105 @@
     - bergie
   end: true
   category: navigation
-- datetime: 2026-01-09T00:51:15.000Z
-  text: Stopped main engine
+- datetime: 2026-01-09T01:06:04.000Z
+  text: Motoring
   author: ""
   position:
-    longitude: -79.9224685
-    latitude: 9.2781761
+    longitude: -79.9226511
+    latitude: 9.2769968
     source: GPS
-  heading: 179
-  course: 13
+  heading: 186
+  course: 188
   speed:
-    sog: 0
+    sog: 2.2
   log: 12788.8
   waypoint:
     longitude: -79.92086
     latitude: 9.284727
-  barometer: 1010.33
+  barometer: 1010.41
   wind:
-    speed: 5.7
-    direction: 54
+    speed: 2.9
+    direction: 335
   engine:
-    hours: 1061.6
+    hours: 1061.9
   crewNames:
     - ihmis-suski
     - bergie
   category: navigation
-- datetime: 2026-01-09T00:51:16.000Z
-  text: Started main engine
-  author: ""
+- datetime: 2026-01-09T01:18:05.000Z
+  text: Stopped, second Gatun lock
+  author: bergie
   position:
-    longitude: -79.9224691
-    latitude: 9.2781761
+    longitude: -79.9228961
+    latitude: 9.2751531
     source: GPS
-  heading: 178
-  course: 13
+  heading: 188
+  course: 176
   speed:
     sog: 0
-  log: 12788.8
+  log: 12788.9
   waypoint:
     longitude: -79.92086
     latitude: 9.284727
-  barometer: 1010.33
+  barometer: 1009.77
   wind:
-    speed: 6
-    direction: 54
+    speed: 1.3
+    direction: 266
   engine:
-    hours: 1061.6
+    hours: 1062.1
+  crewNames:
+    - ihmis-suski
+    - bergie
+  end: true
+  category: navigation
+- datetime: 2026-01-09T01:42:06.100Z
+  text: Motoring
+  author: ""
+  position:
+    longitude: -79.9230718
+    latitude: 9.2739635
+    source: GPS
+  heading: 183
+  course: 180
+  speed:
+    sog: 2.8
+  log: 12788.9
+  waypoint:
+    longitude: -79.92086
+    latitude: 9.284727
+  barometer: 1009.83
+  wind:
+    speed: 4.1
+    direction: 23
+  engine:
+    hours: 1062.5
   crewNames:
     - ihmis-suski
     - bergie
   category: navigation
-- datetime: 2026-01-09T00:51:30.000Z
-  text: Stopped main engine
-  author: ""
+- datetime: 2026-01-09T01:55:07.100Z
+  text: Stopped, third Gatun lock
+  author: bergie
   position:
-    longitude: -79.9224696
-    latitude: 9.2781763
+    longitude: -79.9233301
+    latitude: 9.2720549
     source: GPS
-  heading: 175
-  course: 14
+  heading: 176
+  course: 53
   speed:
     sog: 0
-  log: 12788.8
+  log: 12789.1
   waypoint:
     longitude: -79.92086
     latitude: 9.284727
-  barometer: 1010.33
+  barometer: 1009.22
   wind:
-    speed: 5.2
-    direction: 52
+    speed: 2.5
+    direction: 18
   engine:
-    hours: 1061.6
+    hours: 1062.7
   crewNames:
     - ihmis-suski
     - bergie
-  category: navigation
-- datetime: 2026-01-09T00:51:31.000Z
-  text: Started main engine
-  author: ""
-  position:
-    longitude: -79.92247
-    latitude: 9.2781764
-    source: GPS
-  heading: 175
-  course: 13
-  speed:
-    sog: 0
-  log: 12788.8
-  waypoint:
-    longitude: -79.92086
-    latitude: 9.284727
-  barometer: 1010.33
-  wind:
-    speed: 4.6
-    direction: 47
-  engine:
-    hours: 1061.6
-  crewNames:
-    - ihmis-suski
-    - bergie
+  end: true
   category: navigation
