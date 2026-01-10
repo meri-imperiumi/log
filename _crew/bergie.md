@@ -1,7 +1,7 @@
 ---
 name: Bergie
 username: bergie
-callsign: DO7HB
+callsign: DF4HB
 position: owner
 crew-order: 2
 photo: '/2023/PXL_20230416_101648565.jpg'
@@ -10,7 +10,7 @@ certifications:
   - SBF See
   - UBI
   - LRC
-  - Amateur Radio License (CEPT Novice)
+  - Amateur Radio License (CEPT Full)
 logged-year: 2001
 countries-sailed:
   - FI

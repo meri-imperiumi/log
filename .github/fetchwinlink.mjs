@@ -3,7 +3,7 @@ import { Point } from 'where';
 import { readFile, writeFile } from 'fs/promises';
 import { stringify } from 'yaml';
 
-let feedUrl = 'https://cms.winlink.org:444/rss/rsspositionreports.aspx?callsign=DO7HB';
+let feedUrl = 'https://cms.winlink.org:444/rss/rsspositionreports.aspx?callsign=DF4HB';
 const parser = new Parser();
 parser.parseURL(feedUrl)
   .then((feed) => {
@@ -13,7 +13,7 @@ parser.parseURL(feedUrl)
     return feed.items
       .map((item) => {
         const itemDate = new Date(item.isoDate);
-        const coords = item.title.match(/for DO7HB is ([0-9\.\-]+) \/ ([0-9\.\-]+)/);
+        const coords = item.title.match(/for DF4HB is ([0-9\.\-]+) \/ ([0-9\.\-]+)/);
         if (!coords) {
           return null;
         }
