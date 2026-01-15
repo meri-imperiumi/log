@@ -4,8 +4,9 @@ cd /home/pi/log
 git pull origin main
 echo "Backing up digital logbook"
 cp /home/pi/.signalk/plugin-config-data/signalk-logbook/* _data/logbook/
+echo "Backing up blog entries"
 cp /home/pi/log-sync/_logs/*.md _logs/
-cp "/home/pi/log-sync/$(date +%Y)/* $(date +%Y)"
+cp -r "/home/pi/log-sync/$(date +%Y)/" .
 echo "Producing GeoJson track files"
 node .github/updatetracks.mjs
 echo "Committing changes as needed"
