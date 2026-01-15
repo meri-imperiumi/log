@@ -35,3 +35,5 @@ exclude:
   - package.json
   - package-lock.json
   - node_modules
+  - .obsidian
+  - _templates
