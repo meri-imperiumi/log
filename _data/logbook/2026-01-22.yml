@@ -1,0 +1,69 @@
+- datetime: 2026-01-22T17:18:15.200Z
+  text: Installed new paddle wheel for the sumlog
+  author: bergie
+  position:
+    longitude: -79.5348591
+    latitude: 8.9220091
+    source: GPS
+  heading: 343
+  course: 222
+  speed:
+    stw: 0
+    sog: 0
+  log: 12828.8
+  barometer: 1011.37
+  wind:
+    speed: 12
+    direction: 343
+  engine:
+    hours: 1073.6
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: maintenance
+- datetime: 2026-01-22T17:30:32.198Z
+  text: Started watermaker
+  author: bergie
+  position:
+    longitude: -79.534903
+    latitude: 8.9220018
+    source: GPS
+  heading: 10
+  course: 1
+  speed:
+    stw: 0
+    sog: 0
+  log: 12828.8
+  barometer: 1011.28
+  wind:
+    speed: 13.3
+    direction: 349
+  engine:
+    hours: 1073.6
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: maintenance
+- datetime: 2026-01-22T17:41:32.198Z
+  text: Watermaker 246ppm
+  author: bergie
+  position:
+    longitude: -79.5348701
+    latitude: 8.9220158
+    source: GPS
+  heading: 320
+  course: 312
+  speed:
+    stw: 0
+    sog: 0
+  log: 12828.8
+  barometer: 1011.13
+  wind:
+    speed: 14.3
+    direction: 343
+  engine:
+    hours: 1073.6
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: maintenance
