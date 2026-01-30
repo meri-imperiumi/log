@@ -94,3 +94,52 @@
     - ihmis-suski
     - bergie
   category: navigation
+- datetime: 2026-01-30T15:00:50.803Z
+  text: ""
+  author: ""
+  position:
+    longitude: -79.5747451
+    latitude: 8.8226895
+    source: GPS
+  heading: 34
+  course: 46
+  speed:
+    stw: 0
+    sog: 3.4
+  log: 12849.8
+  barometer: 1013.94
+  wind:
+    speed: 16.7
+    direction: 342
+  engine:
+    hours: 1077.6
+  vhf: "12"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: navigation
+- datetime: 2026-01-30T15:50:11.801Z
+  text: Sails down, motoring. We were intercepted by coast guard boat that told us
+    to drop sail since we are close to the channel.
+  author: bergie
+  position:
+    longitude: -79.5443278
+    latitude: 8.8621995
+    source: GPS
+  heading: 3
+  course: 3
+  speed:
+    stw: 0
+    sog: 1.6
+  log: 12852.9
+  barometer: 1013.75
+  wind:
+    speed: 16.8
+    direction: 343
+  engine:
+    hours: 1077.6
+  vhf: "12"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: navigation
