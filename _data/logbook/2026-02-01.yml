@@ -1,0 +1,78 @@
+- datetime: 2026-02-01T15:27:15.699Z
+  text: Wired up center console buttons with a custom ESP32
+  author: bergie
+  position:
+    longitude: -79.5268641
+    latitude: 8.9105969
+    source: GPS
+  heading: 25
+  course: 169
+  speed:
+    stw: 0
+    sog: 0
+  log: 12856.3
+  waypoint:
+    longitude: -79.550414
+    latitude: 8.802369
+  barometer: 1015.59
+  wind:
+    speed: 10.7
+    direction: 351
+  engine:
+    hours: 1078.7
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: maintenance
+- datetime: 2026-02-01T15:51:38.700Z
+  text: "Changed v-berth USB-C socket and the nav station 12V socket "
+  author: bergie
+  position:
+    longitude: -79.5268864
+    latitude: 8.9105706
+    source: GPS
+  heading: 19
+  course: 157
+  speed:
+    stw: 0
+    sog: 0.2
+  log: 12856.3
+  waypoint:
+    longitude: -79.550414
+    latitude: 8.802369
+  barometer: 1015.92
+  wind:
+    speed: 16.5
+    direction: 356
+  engine:
+    hours: 1078.7
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: maintenance
+- datetime: 2026-02-01T15:54:38.700Z
+  text: "Started watermaker "
+  author: bergie
+  position:
+    longitude: -79.52688
+    latitude: 8.9105708
+    source: GPS
+  heading: 353
+  course: 99
+  speed:
+    stw: 0
+    sog: 0.6
+  log: 12856.3
+  waypoint:
+    longitude: -79.550414
+    latitude: 8.802369
+  barometer: 1016.04
+  wind:
+    speed: 11.3
+    direction: 351
+  engine:
+    hours: 1078.7
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: maintenance
