@@ -20,3 +20,69 @@
     - ihmis-suski
     - bergie
   category: maintenance
+- datetime: 2026-02-08T18:26:20.102Z
+  text: Switched exhaust elbow to high rise
+  author: bergie
+  position:
+    longitude: -79.5268203
+    latitude: 8.9106073
+    source: GPS
+  heading: 345
+  course: 336
+  speed:
+    sog: 0
+  log: 12856.3
+  barometer: 1014.24
+  wind:
+    speed: 12.1
+    direction: 336
+  engine:
+    hours: 1078.7
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: engine
+- datetime: 2026-02-08T18:27:15.097Z
+  text: Started main engine
+  author: ""
+  position:
+    longitude: -79.52681732177734
+    latitude: 8.910603968302409
+    source: GPS
+  heading: 334
+  course: 324
+  speed:
+    sog: 0
+  log: 12856.3
+  barometer: 1014.3
+  wind:
+    speed: 11.2
+    direction: 338
+  engine:
+    hours: 1078.7
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: navigation
+- datetime: 2026-02-08T18:28:42.099Z
+  text: Stopped main engine
+  author: ""
+  position:
+    longitude: -79.5268466
+    latitude: 8.9105916
+    source: GPS
+  heading: 11
+  course: 285
+  speed:
+    sog: 0.6
+  log: 12856.3
+  barometer: 1014.22
+  wind:
+    speed: 12.1
+    direction: 331
+  engine:
+    hours: 1078.7
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: navigation
