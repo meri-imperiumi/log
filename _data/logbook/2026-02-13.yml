@@ -64,3 +64,48 @@
     - ihmis-suski
     - bergie
   category: maintenance
+- datetime: 2026-02-13T18:16:38.598Z
+  text: Stopped watermaker, 188ppm
+  author: bergie
+  position:
+    longitude: -79.5272723
+    latitude: 8.9106848
+    source: GPS
+  heading: 63
+  course: 359
+  speed:
+    sog: 0.7
+  log: 12856.3
+  barometer: 1010.37
+  wind:
+    speed: 6.8
+    direction: 58
+  engine:
+    hours: 1078.8
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: maintenance
+- datetime: 2026-02-13T18:29:39.699Z
+  text: Installed Shelly RGBW2 for the new cockpit light, with NoFlo graph for
+    automatic red light mode etc
+  author: bergie
+  position:
+    longitude: -79.5272751
+    latitude: 8.9106721
+    source: GPS
+  heading: 49
+  course: 286
+  speed:
+    sog: 0
+  log: 12856.3
+  barometer: 1010.26
+  wind:
+    speed: 5.7
+    direction: 36
+  engine:
+    hours: 1078.8
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: maintenance
