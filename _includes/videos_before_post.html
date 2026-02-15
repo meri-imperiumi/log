@@ -25,6 +25,7 @@
 {% endif %}
 
 {% assign videos = site.videos | reverse %}
+
 {% for video in videos %}
   {% assign videotime = video.timestamp | date: '%s' %}
   {% assign videoyear = video.timestamp | date: '%Y' | abs %}
@@ -35,13 +36,20 @@
       <li id="{{ video.timestamp | date: "%Y%m%d" }}" class="video">
         <article>
           <h2 class="meta">{{ video.timestamp | date: "%A, %B %-d, %Y" }}<h2>
+          <h1>
           {% if video.title contains ': ' %}
-          <h1><a href="{{ video.link }}">{{ video.title }}</a></h1>
+            <a href="{{ video.link }}">{{ video.title }}</a>
           {% else %}
-          <h1><a href="{{ video.link }}">Video postcard: {{ video.title }}</a></h1>
+            <a href="{{ video.link }}">Video postcard: {{ video.title }}</a>
           {% endif %}
+          </h1>
           <lite-youtube videoid="{{ video_id }}"></lite-youtube>
-          <p class="meta">Spoken Finnish with English subtitles</p>
+          <p class="meta">
+            Spoken Finnish with English subtitles.
+            {% if video.peertube %}
+              Also available <a href="{{ video.peertube }}">on Peertube</a>.
+            {% endif %}
+          </p>
           <hr>
         </article>
       </li>

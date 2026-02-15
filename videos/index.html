@@ -5,7 +5,7 @@ title: Videos
 {% include video_element.html %}
 <h1>{{ page.title }}</h1>
 <div>
-  <p>Our video postcards can also be found <a href="https://www.youtube.com/@lille-oe">on YouTube</a>.</p>
+  <p>Our video postcards can also be found <a href="https://www.youtube.com/@lille-oe">on YouTube</a> and <a href="https://lone.earth/c/lille.oe_channel/videos">on PeerTube</a>.</p>
 </div>
 <hr>
 <ul class="logs">
@@ -21,7 +21,12 @@ title: Videos
       <h1><a href="{{ video.link }}">Video postcard: {{ video.title }}</a></h1>
       {% endif %}
       <lite-youtube videoid="{{ video_id }}"></lite-youtube>
-      <p class="meta">Spoken Finnish with English subtitles</p>
+      <p class="meta">
+        Spoken Finnish with English subtitles.
+        {% if video.peertube %}
+          Also available <a href="{{ video.peertube }}">on PeerTube</a>.
+        {% endif %}
+      </p>
       <hr>
     </article>
   </li>
