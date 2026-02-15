@@ -25,8 +25,11 @@
 {% endif %}
 
 {% assign videos = site.videos | reverse %}
-
 {% for video in videos %}
+  {% assign video_link = video.link %}
+  {% if video.peertube %}
+    {% assign video_link = video.peertube %}
+  {% endif %}
   {% assign videotime = video.timestamp | date: '%s' %}
   {% assign videoyear = video.timestamp | date: '%Y' | abs %}
   {% if videotime < nexttime %}
@@ -38,16 +41,16 @@
           <h2 class="meta">{{ video.timestamp | date: "%A, %B %-d, %Y" }}<h2>
           <h1>
           {% if video.title contains ': ' %}
-            <a href="{{ video.link }}">{{ video.title }}</a>
+            <a href="{{ video_link }}">{{ video.title }}</a>
           {% else %}
-            <a href="{{ video.link }}">Video postcard: {{ video.title }}</a>
+            <a href="{{ video_link }}">Video postcard: {{ video.title }}</a>
           {% endif %}
           </h1>
           <lite-youtube videoid="{{ video_id }}"></lite-youtube>
           <p class="meta">
             Spoken Finnish with English subtitles.
             {% if video.peertube %}
-              Also available <a href="{{ video.peertube }}">on Peertube</a>.
+              Available on <a href="{{ video.peertube }}">PeerTube</a> and <a href="{{ video.link }}">YouTube</a>
             {% endif %}
           </p>
           <hr>

@@ -24,6 +24,10 @@
 
 {% for video in site.videos %}
   {% assign videotime = video.timestamp | date: '%s' %}
+  {% assign video_link = video.link %}
+  {% if video.peertube %}
+    {% assign video_link = video.peertube %}
+  {% endif %}
   {% if videotime < nexttime %}
     {% if videotime > posttime %}
     <item>
@@ -36,7 +40,7 @@
       {% endif %}
       <description>{{ video.content | xml_escape }}</description>
       <pubDate>{{ video.timestamp | date_to_rfc822 }}</pubDate>
-      <link>{{ video.link }}</link>
+      <link>{{ video_link }}</link>
       <guid isPermaLink="true">{{ video.link }}</guid>
     </item>
     {% endif %}
