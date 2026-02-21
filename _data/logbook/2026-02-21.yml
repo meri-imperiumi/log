@@ -1,5 +1,5 @@
 - datetime: 2026-02-21T19:01:20.102Z
-  text: Started watermaker, new bearings, new gearbox oil cleaned filter
+  text: Started watermaker, new bearings, new gearbox oil, cleaned filter
   author: bergie
   position:
     longitude: -79.5269496
@@ -58,6 +58,28 @@
   wind:
     speed: 3.8
     direction: 319
+  engine:
+    hours: 1078.8
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: maintenance
+- datetime: 2026-02-21T22:31:30.598Z
+  text: Watermaker 194ppm
+  author: bergie
+  position:
+    longitude: -79.5269968
+    latitude: 8.9109361
+    source: GPS
+  heading: 167
+  course: 168
+  speed:
+    sog: 0
+  log: 12856.3
+  barometer: 1007.65
+  wind:
+    speed: 4.3
+    direction: 285
   engine:
     hours: 1078.8
   crewNames:
