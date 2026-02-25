@@ -1,0 +1,71 @@
+- datetime: 2026-02-25T20:07:51.801Z
+  text: Bilge emptied
+  author: ihmis-suski
+  position:
+    longitude: -79.5270166
+    latitude: 8.9105389
+    source: GPS
+  heading: 351
+  course: 118
+  speed:
+    sog: 0.3
+  log: 12856.3
+  barometer: 1007.81
+  wind:
+    speed: 14.9
+    direction: 353
+  engine:
+    hours: 1078.8
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: maintenance
+- datetime: 2026-02-25T20:10:02.803Z
+  text: Started main engine
+  author: ""
+  position:
+    longitude: -79.5270921
+    latitude: 8.9105489
+    source: GPS
+  heading: 26
+  course: 256
+  speed:
+    sog: 0
+  log: 12856.3
+  barometer: 1007.8
+  wind:
+    speed: 9.4
+    direction: 6
+  engine:
+    hours: 1078.8
+  vhf: "12"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: navigation
+- datetime: 2026-02-25T20:17:39.801Z
+  text: Anchor up, motoring
+  author: ""
+  position:
+    longitude: -79.5270081
+    latitude: 8.9108985
+    source: GPS
+  heading: 287
+  course: 299
+  speed:
+    sog: 0
+  log: 12856.3
+  waypoint:
+    longitude: -79.571533
+    latitude: 8.799967
+  barometer: 1007.77
+  wind:
+    speed: 5.2
+    direction: 2
+  engine:
+    hours: 1078.9
+  vhf: "12"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: navigation
