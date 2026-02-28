@@ -1,0 +1,26 @@
+- datetime: 2026-02-28T19:59:00.403Z
+  text: Started main engine
+  author: ""
+  position:
+    longitude: -79.5518558
+    latitude: 8.7815338
+    source: GPS
+  heading: 242
+  course: 178
+  speed:
+    sog: 0.4
+  log: 12866.1
+  waypoint:
+    longitude: -79.498091
+    latitude: 8.798038
+  barometer: 1005.94
+  wind:
+    speed: 1.9
+    direction: 356
+  engine:
+    hours: 1081.4
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: navigation
