@@ -690,3 +690,158 @@
     - ihmis-suski
     - bergie
   category: maintenance
+- datetime: 2026-03-01T17:00:57.798Z
+  text: Bergie on watch, gybed to hopefully get out of the light wind patch
+  author: bergie
+  position:
+    longitude: -80.460063
+    latitude: 6.6281196
+    source: GPS
+  heading: 174
+  course: 215
+  speed:
+    sog: 5.3
+  log: 13012.8
+  waypoint:
+    longitude: -80.089313
+    latitude: 3.858063
+  barometer: 1008.9
+  wind:
+    speed: 12.6
+    direction: 13
+  engine:
+    hours: 1082.2
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: navigation
+- datetime: 2026-03-01T17:15:41.798Z
+  text: "Sails set: Main, Genoa 1 (30% furled), Staysail"
+  author: ""
+  position:
+    longitude: -80.4722524
+    latitude: 6.6099471
+    source: GPS
+  heading: 197
+  course: 227
+  speed:
+    sog: 6.6
+  log: 13014.1
+  waypoint:
+    longitude: -80.089313
+    latitude: 3.858063
+  barometer: 1008.76
+  wind:
+    speed: 9.8
+    direction: 21
+  engine:
+    hours: 1082.2
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: navigation
+- datetime: 2026-03-01T17:42:14.796Z
+  text: Autopilot activated
+  author: ""
+  position:
+    longitude: -80.4925868
+    latitude: 6.5795356
+    source: GPS
+  heading: 141
+  course: 215
+  speed:
+    sog: 3.4
+  log: 13016.4
+  waypoint:
+    longitude: -80.089313
+    latitude: 3.858063
+  barometer: 1008.49
+  wind:
+    speed: 5.4
+    direction: 347
+  engine:
+    hours: 1082.2
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: navigation
+- datetime: 2026-03-01T17:53:59.801Z
+  text: We are effectively sailing backwards
+  author: bergie
+  position:
+    longitude: -80.4982378
+    latitude: 6.5705211
+    source: GPS
+  heading: 95
+  course: 254
+  speed:
+    sog: 2.1
+  log: 13017
+  waypoint:
+    longitude: -80.089313
+    latitude: 3.858063
+  barometer: 1008.33
+  wind:
+    speed: 5
+    direction: 302
+  engine:
+    hours: 1082.2
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: navigation
+- datetime: 2026-03-01T17:58:30.796Z
+  text: Autopilot deactivated
+  author: ""
+  position:
+    longitude: -80.5005738
+    latitude: 6.5681533
+    source: GPS
+  heading: 96
+  course: 221
+  speed:
+    sog: 2.6
+  log: 13017.2
+  waypoint:
+    longitude: -80.089313
+    latitude: 3.858063
+  barometer: 1008.3
+  wind:
+    speed: 5.5
+    direction: 310
+  engine:
+    hours: 1082.2
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: navigation
+- datetime: 2026-03-01T18:00:00.800Z
+  text: ""
+  author: ""
+  position:
+    longitude: -80.50155932108561
+    latitude: 6.567166010538737
+    source: GPS
+  heading: 194
+  course: 223
+  speed:
+    sog: 4.1
+  log: 13017.3
+  waypoint:
+    longitude: -80.089313
+    latitude: 3.858063
+  barometer: 1008.27
+  wind:
+    speed: 6.1
+    direction: 350
+  engine:
+    hours: 1082.2
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
