@@ -265,3 +265,54 @@
     - ihmis-suski
     - bergie
   category: radio
+- datetime: 2026-03-01T04:00:29.100Z
+  text: ""
+  author: ""
+  position:
+    longitude: -79.6200803
+    latitude: 8.0159464
+    source: GPS
+  heading: 195
+  course: 203
+  speed:
+    sog: 6.6
+  log: 12914
+  waypoint:
+    longitude: -80.089313
+    latitude: 3.858063
+  barometer: 1009.25
+  wind:
+    speed: 21.6
+    direction: 344
+  engine:
+    hours: 1082.2
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: navigation
+- datetime: 2026-03-01T05:00:30.099Z
+  text: ""
+  author: ""
+  position:
+    longitude: -79.6799181
+    latitude: 7.9295231
+    source: GPS
+  heading: 209
+  course: 229
+  speed:
+    sog: 5.6
+  log: 12920.3
+  waypoint:
+    longitude: -80.089313
+    latitude: 3.858063
+  barometer: 1009.13
+  wind:
+    speed: 21.1
+    direction: 356
+  engine:
+    hours: 1082.2
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
