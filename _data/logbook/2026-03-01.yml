@@ -558,3 +558,57 @@
   crewNames:
     - ihmis-suski
     - bergie
+  category: navigation
+- datetime: 2026-03-01T14:00:50.700Z
+  text: ""
+  author: ""
+  position:
+    longitude: -80.2111891
+    latitude: 6.8892718
+    source: GPS
+  heading: 217
+  course: 220
+  speed:
+    sog: 7.9
+  log: 12991.1
+  waypoint:
+    longitude: -80.089313
+    latitude: 3.858063
+  barometer: 1009.56
+  wind:
+    speed: 17.2
+    direction: 12
+  engine:
+    hours: 1082.2
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: navigation
+- datetime: 2026-03-01T14:31:51.699Z
+  text: We are out of the main route for shipping. Had 4 under 1 mile passes with
+    cargo ships.
+  author: ihmis-suski
+  position:
+    longitude: -80.2551143
+    latitude: 6.8411549
+    source: GPS
+  heading: 222
+  course: 224
+  speed:
+    sog: 7.8
+  log: 12995
+  waypoint:
+    longitude: -80.089313
+    latitude: 3.858063
+  barometer: 1009.74
+  wind:
+    speed: 16.5
+    direction: 19
+  engine:
+    hours: 1082.2
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: navigation
