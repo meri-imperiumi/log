@@ -1001,3 +1001,56 @@
   crewNames:
     - ihmis-suski
     - bergie
+  category: navigation
+- datetime: 2026-03-01T21:11:04.998Z
+  text: Reattached the hydrogenerator. Didn't see any damage so maybe it jumped
+    off when a dinghy hit it earlier
+  author: bergie
+  position:
+    longitude: -80.6893536
+    latitude: 6.4316888
+    source: GPS
+  heading: 202
+  course: 240
+  speed:
+    sog: 3.7
+  log: 13031.2
+  waypoint:
+    longitude: -80.089313
+    latitude: 3.858063
+  barometer: 1005.49
+  wind:
+    speed: 6.7
+    direction: 21
+  engine:
+    hours: 1082.2
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: maintenance
+- datetime: 2026-03-01T22:00:08.396Z
+  text: ""
+  author: ""
+  position:
+    longitude: -80.7380039
+    latitude: 6.4011439
+    source: GPS
+  heading: 204
+  course: 250
+  speed:
+    sog: 3.5
+  log: 13034.7
+  waypoint:
+    longitude: -80.089313
+    latitude: 3.858063
+  barometer: 1005.61
+  wind:
+    speed: 4.8
+    direction: 25
+  engine:
+    hours: 1082.2
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
