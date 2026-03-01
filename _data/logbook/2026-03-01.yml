@@ -949,3 +949,55 @@
   crewNames:
     - ihmis-suski
     - bergie
+  category: navigation
+- datetime: 2026-03-01T20:51:04.998Z
+  text: Stopped watermaker, something red floating in the water. Whale poop?
+  author: bergie
+  position:
+    longitude: -80.670211
+    latitude: 6.4427758
+    source: GPS
+  heading: 202
+  course: 240
+  speed:
+    sog: 4.1
+  log: 13029.9
+  waypoint:
+    longitude: -80.089313
+    latitude: 3.858063
+  barometer: 1005.61
+  wind:
+    speed: 5
+    direction: 33
+  engine:
+    hours: 1082.2
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: maintenance
+- datetime: 2026-03-01T21:00:04.998Z
+  text: ""
+  author: ""
+  position:
+    longitude: -80.6788445
+    latitude: 6.4378644
+    source: GPS
+  heading: 205
+  course: 238
+  speed:
+    sog: 5.6
+  log: 13030.5
+  waypoint:
+    longitude: -80.089313
+    latitude: 3.858063
+  barometer: 1005.6
+  wind:
+    speed: 5.5
+    direction: 34
+  engine:
+    hours: 1082.2
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
