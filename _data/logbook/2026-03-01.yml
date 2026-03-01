@@ -794,32 +794,6 @@
     - ihmis-suski
     - bergie
   category: navigation
-- datetime: 2026-03-01T17:58:30.796Z
-  text: Autopilot deactivated
-  author: ""
-  position:
-    longitude: -80.5005738
-    latitude: 6.5681533
-    source: GPS
-  heading: 96
-  course: 221
-  speed:
-    sog: 2.6
-  log: 13017.2
-  waypoint:
-    longitude: -80.089313
-    latitude: 3.858063
-  barometer: 1008.3
-  wind:
-    speed: 5.5
-    direction: 310
-  engine:
-    hours: 1082.2
-  vhf: "16"
-  crewNames:
-    - ihmis-suski
-    - bergie
-  category: navigation
 - datetime: 2026-03-01T18:00:00.800Z
   text: ""
   author: ""
@@ -839,6 +813,84 @@
   wind:
     speed: 6.1
     direction: 350
+  engine:
+    hours: 1082.2
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: navigation
+- datetime: 2026-03-01T18:00:59.801Z
+  text: Gybed back, the other course just didn't work with this tide and current
+  author: bergie
+  position:
+    longitude: -80.502604
+    latitude: 6.5663429
+    source: GPS
+  heading: 208
+  course: 232
+  speed:
+    sog: 5.6
+  log: 13017.4
+  waypoint:
+    longitude: -80.089313
+    latitude: 3.858063
+  barometer: 1008.26
+  wind:
+    speed: 6.8
+    direction: 1
+  engine:
+    hours: 1082.2
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: navigation
+- datetime: 2026-03-01T18:17:00.800Z
+  text: School of something big, tuna? Barracuda? was jumping next to the boat
+  author: bergie
+  position:
+    longitude: -80.5186603
+    latitude: 6.5546411
+    source: GPS
+  heading: 164
+  course: 235
+  speed:
+    sog: 4.4
+  log: 13018.6
+  waypoint:
+    longitude: -80.089313
+    latitude: 3.858063
+  barometer: 1007.92
+  wind:
+    speed: 6.6
+    direction: 343
+  engine:
+    hours: 1082.2
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: navigation
+- datetime: 2026-03-01T18:59:59.897Z
+  text: ""
+  author: ""
+  position:
+    longitude: -80.560825
+    latitude: 6.5227053
+    source: GPS
+  heading: 211
+  course: 229
+  speed:
+    sog: 5.1
+  log: 13021.8
+  waypoint:
+    longitude: -80.089313
+    latitude: 3.858063
+  barometer: 1006.94
+  wind:
+    speed: 8.8
+    direction: 28
   engine:
     hours: 1082.2
   vhf: "16"
