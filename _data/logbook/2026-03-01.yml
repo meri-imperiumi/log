@@ -424,3 +424,55 @@
   crewNames:
     - ihmis-suski
     - bergie
+  category: navigation
+- datetime: 2026-03-01T09:52:42.201Z
+  text: The moon is about to set
+  author: bergie
+  position:
+    longitude: -79.9048735
+    latitude: 7.3741468
+    source: GPS
+  heading: 206
+  course: 202
+  speed:
+    sog: 6.9
+  log: 12956.6
+  waypoint:
+    longitude: -80.089313
+    latitude: 3.858063
+  barometer: 1007.7
+  wind:
+    speed: 20.7
+    direction: 0
+  engine:
+    hours: 1082.2
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: navigation
+- datetime: 2026-03-01T10:00:42.201Z
+  text: ""
+  author: ""
+  position:
+    longitude: -79.9121353
+    latitude: 7.3558826
+    source: GPS
+  heading: 204
+  course: 201
+  speed:
+    sog: 10
+  log: 12957.8
+  waypoint:
+    longitude: -80.089313
+    latitude: 3.858063
+  barometer: 1007.81
+  wind:
+    speed: 19.1
+    direction: 11
+  engine:
+    hours: 1082.2
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
