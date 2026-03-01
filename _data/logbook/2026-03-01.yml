@@ -372,3 +372,55 @@
   crewNames:
     - ihmis-suski
     - bergie
+  category: navigation
+- datetime: 2026-03-01T08:00:38.201Z
+  text: Surfing up to 9kn
+  author: bergie
+  position:
+    longitude: -79.825086
+    latitude: 7.6174836
+    source: GPS
+  heading: 202
+  course: 202
+  speed:
+    sog: 7.8
+  log: 12941.2
+  waypoint:
+    longitude: -80.089313
+    latitude: 3.858063
+  barometer: 1007.39
+  wind:
+    speed: 24.4
+    direction: 359
+  engine:
+    hours: 1082.2
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: navigation
+- datetime: 2026-03-01T09:00:40.198Z
+  text: ""
+  author: ""
+  position:
+    longitude: -79.8579243
+    latitude: 7.4890316
+    source: GPS
+  heading: 209
+  course: 200
+  speed:
+    sog: 8.7
+  log: 12949.2
+  waypoint:
+    longitude: -80.089313
+    latitude: 3.858063
+  barometer: 1007.63
+  wind:
+    speed: 21.8
+    direction: 14
+  engine:
+    hours: 1082.2
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
