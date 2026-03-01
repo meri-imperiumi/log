@@ -23,3 +23,87 @@
   crewNames:
     - ihmis-suski
     - bergie
+  category: navigation
+- datetime: 2026-03-01T00:05:19.900Z
+  text: Panamanian territorial waters are behind us!
+  author: ihmis-suski
+  position:
+    longitude: -79.5059361
+    latitude: 8.4041588
+    source: GPS
+  heading: 168
+  course: 176
+  speed:
+    sog: 5.5
+  log: 12889.2
+  waypoint:
+    longitude: -79.234723
+    latitude: 8.223145
+  barometer: 1007.57
+  wind:
+    speed: 13.7
+    direction: 327
+  engine:
+    hours: 1082.2
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: navigation
+  observations:
+    seaState: 3
+    cloudCoverage: 6
+    visibility: 7
+- datetime: 2026-03-01T00:42:22.000Z
+  text: USNS Pathfinder went around us with plenty of searoom fromnwhat initially
+    was a collision course.
+  author: ihmis-suski
+  position:
+    longitude: -79.50916500091553
+    latitude: 8.336926333109538
+    source: GPS
+  heading: 195
+  course: 201
+  speed:
+    sog: 7.3
+  log: 12893.2
+  waypoint:
+    longitude: -79.234723
+    latitude: 8.223145
+  barometer: 1007.82
+  wind:
+    speed: 22.3
+    direction: 340
+  engine:
+    hours: 1082.2
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: navigation
+- datetime: 2026-03-01T00:46:21.000Z
+  text: USNS Pathfinder is now following us. Wtf
+  author: ihmis-suski
+  position:
+    longitude: -79.5101305
+    latitude: 8.3294985
+    source: GPS
+  heading: 188
+  course: 181
+  speed:
+    sog: 7
+  log: 12893.7
+  waypoint:
+    longitude: -79.234723
+    latitude: 8.223145
+  barometer: 1007.86
+  wind:
+    speed: 22.8
+    direction: 335
+  engine:
+    hours: 1082.2
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: navigation
