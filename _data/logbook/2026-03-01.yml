@@ -237,3 +237,31 @@
   crewNames:
     - ihmis-suski
     - bergie
+  category: navigation
+- datetime: 2026-03-01T03:14:28.000Z
+  text: Joined Pacific Seafarers roll call (14300kHz), net control in California
+    couldn't hear us, but relay in North Carolina could
+  author: bergie
+  position:
+    longitude: -79.5760911
+    latitude: 8.0850918
+    source: GPS
+  heading: 194
+  course: 222
+  speed:
+    sog: 6.1
+  log: 12909.1
+  waypoint:
+    longitude: -80.089313
+    latitude: 3.858063
+  barometer: 1009.3
+  wind:
+    speed: 20.5
+    direction: 341
+  engine:
+    hours: 1082.2
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: radio
