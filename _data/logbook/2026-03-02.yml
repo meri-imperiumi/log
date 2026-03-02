@@ -396,3 +396,56 @@
   crewNames:
     - ihmis-suski
     - bergie
+  category: navigation
+- datetime: 2026-03-02T10:00:32.099Z
+  text: ""
+  author: ""
+  position:
+    longitude: -81.3105189
+    latitude: 5.9183031
+    source: GPS
+  heading: 151
+  course: 159
+  speed:
+    sog: 4.3
+  log: 13083.3
+  waypoint:
+    longitude: -80.089313
+    latitude: 3.858063
+  barometer: 1007.15
+  wind:
+    speed: 13.1
+    direction: 54
+  engine:
+    hours: 1082.2
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: navigation
+- datetime: 2026-03-02T10:57:03.100Z
+  text: "Sails set: Main (2nd reef), Staysail"
+  author: ""
+  position:
+    longitude: -81.3105001
+    latitude: 5.8314998
+    source: GPS
+  heading: 180
+  course: 176
+  speed:
+    sog: 4.9
+  log: 13088.5
+  waypoint:
+    longitude: -80.089313
+    latitude: 3.858063
+  barometer: 1007.58
+  wind:
+    speed: 21
+    direction: 45
+  engine:
+    hours: 1082.2
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: navigation
