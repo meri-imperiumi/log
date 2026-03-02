@@ -929,3 +929,80 @@
     - ihmis-suski
     - bergie
   category: maintenance
+- datetime: 2026-03-02T21:00:53.401Z
+  text: ""
+  author: ""
+  position:
+    longitude: -81.6136629
+    latitude: 4.7145935
+    source: GPS
+  heading: 218
+  course: 209
+  speed:
+    sog: 8.6
+  log: 13159.8
+  waypoint:
+    longitude: -89.545581
+    latitude: -3.483262
+  barometer: 1004.59
+  wind:
+    speed: 24.1
+    direction: 49
+  engine:
+    hours: 1082.2
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: navigation
+- datetime: 2026-03-02T21:08:54.400Z
+  text: Pumped the bilge
+  author: bergie
+  position:
+    longitude: -81.6217554
+    latitude: 4.6998004
+    source: GPS
+  heading: 199
+  course: 197
+  speed:
+    sog: 7.7
+  log: 13160.8
+  waypoint:
+    longitude: -89.545581
+    latitude: -3.483262
+  barometer: 1004.6
+  wind:
+    speed: 21.8
+    direction: 29
+  engine:
+    hours: 1082.2
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: maintenance
+- datetime: 2026-03-02T22:00:01.401Z
+  text: ""
+  author: ""
+  position:
+    longitude: -81.6561186
+    latitude: 4.6023944
+    source: GPS
+  heading: 195
+  course: 192
+  speed:
+    sog: 6.7
+  log: 13167
+  waypoint:
+    longitude: -89.545581
+    latitude: -3.483262
+  barometer: 1005.23
+  wind:
+    speed: 17.7
+    direction: 28
+  engine:
+    hours: 1082.2
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
