@@ -238,3 +238,83 @@
   crewNames:
     - ihmis-suski
     - bergie
+  category: navigation
+- datetime: 2026-03-02T07:00:31.600Z
+  text: ""
+  author: ""
+  position:
+    longitude: -81.2382825
+    latitude: 6.0604454
+    source: GPS
+  heading: 208
+  course: 256
+  speed:
+    sog: 3.2
+  log: 13072
+  waypoint:
+    longitude: -80.089313
+    latitude: 3.858063
+  barometer: 1007.07
+  wind:
+    speed: 5.5
+    direction: 73
+  engine:
+    hours: 1082.2
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: navigation
+- datetime: 2026-03-02T07:33:32.700Z
+  text: Windows are fogged over. I can see the southern cross, but north star is
+    so low you can't see it in the haze
+  author: bergie
+  position:
+    longitude: -81.2683204
+    latitude: 6.0553816
+    source: GPS
+  heading: 209
+  course: 268
+  speed:
+    sog: 3.6
+  log: 13073.8
+  waypoint:
+    longitude: -80.089313
+    latitude: 3.858063
+  barometer: 1007.07
+  wind:
+    speed: 7
+    direction: 78
+  engine:
+    hours: 1082.2
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: navigation
+- datetime: 2026-03-02T07:54:36.700Z
+  text: "Sails set: Main (1st reef), Staysail"
+  author: ""
+  position:
+    longitude: -81.28695933024089
+    latitude: 6.049973666667938
+    source: GPS
+  heading: 194
+  course: 234
+  speed:
+    sog: 2.8
+  log: 13075
+  waypoint:
+    longitude: -80.089313
+    latitude: 3.858063
+  barometer: 1006.94
+  wind:
+    speed: 8.1
+    direction: 82
+  engine:
+    hours: 1082.2
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: navigation
