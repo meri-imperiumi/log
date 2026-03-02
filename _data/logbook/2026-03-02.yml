@@ -104,3 +104,56 @@
   category: navigation
   observations:
     cloudCoverage: 4
+- datetime: 2026-03-02T03:00:27.500Z
+  text: ""
+  author: ""
+  position:
+    longitude: -81.0167059
+    latitude: 6.1578473
+    source: GPS
+  heading: 179
+  course: 228
+  speed:
+    sog: 3.7
+  log: 13057.4
+  waypoint:
+    longitude: -80.089313
+    latitude: 3.858063
+  barometer: 1007.95
+  wind:
+    speed: 7.7
+    direction: 333
+  engine:
+    hours: 1082.2
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: navigation
+- datetime: 2026-03-02T03:10:26.500Z
+  text: Joined the Pacific Seafarers roll call, the controller in Hawaii heard me
+    clearly
+  author: bergie
+  position:
+    longitude: -81.0245661
+    latitude: 6.1511668
+    source: GPS
+  heading: 193
+  course: 210
+  speed:
+    sog: 3.6
+  log: 13058
+  waypoint:
+    longitude: -80.089313
+    latitude: 3.858063
+  barometer: 1007.81
+  wind:
+    speed: 8
+    direction: 338
+  engine:
+    hours: 1082.2
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: radio
