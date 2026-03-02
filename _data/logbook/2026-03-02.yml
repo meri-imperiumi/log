@@ -293,8 +293,9 @@
     - bergie
   category: navigation
 - datetime: 2026-03-02T07:54:36.700Z
-  text: "Sails set: Main (1st reef), Staysail"
-  author: ""
+  text: "Sails set: Main (1st reef), Staysail. Finally back to sailing instead of
+    drifting!"
+  author: bergie
   position:
     longitude: -81.28695933024089
     latitude: 6.049973666667938
@@ -311,6 +312,58 @@
   wind:
     speed: 8.1
     direction: 82
+  engine:
+    hours: 1082.2
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: navigation
+- datetime: 2026-03-02T08:00:32.700Z
+  text: ""
+  author: ""
+  position:
+    longitude: -81.2909674
+    latitude: 6.0464256
+    source: GPS
+  heading: 189
+  course: 223
+  speed:
+    sog: 3.6
+  log: 13075.3
+  waypoint:
+    longitude: -80.089313
+    latitude: 3.858063
+  barometer: 1006.97
+  wind:
+    speed: 8.4
+    direction: 72
+  engine:
+    hours: 1082.2
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: navigation
+- datetime: 2026-03-02T08:23:39.699Z
+  text: Autopilot deactivated, windvane steering
+  author: bergie
+  position:
+    longitude: -81.3021756
+    latitude: 6.0264349
+    source: GPS
+  heading: 180
+  course: 199
+  speed:
+    sog: 3.9
+  log: 13076.7
+  waypoint:
+    longitude: -80.089313
+    latitude: 3.858063
+  barometer: 1006.78
+  wind:
+    speed: 11.7
+    direction: 60
   engine:
     hours: 1082.2
   vhf: "16"
