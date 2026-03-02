@@ -49,3 +49,58 @@
   crewNames:
     - ihmis-suski
     - bergie
+  category: navigation
+- datetime: 2026-03-02T02:00:24.500Z
+  text: ""
+  author: ""
+  position:
+    longitude: -80.9756116
+    latitude: 6.2142646
+    source: GPS
+  heading: 181
+  course: 206
+  speed:
+    sog: 5
+  log: 13053.2
+  waypoint:
+    longitude: -80.089313
+    latitude: 3.858063
+  barometer: 1007.57
+  wind:
+    speed: 12.8
+    direction: 315
+  engine:
+    hours: 1082.2
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: navigation
+- datetime: 2026-03-02T02:26:25.500Z
+  text: Sky partially filled with clouds looking like cotton balls. Looks epic.
+  author: ihmis-suski
+  position:
+    longitude: -80.9936906
+    latitude: 6.1848591
+    source: GPS
+  heading: 174
+  course: 211
+  speed:
+    sog: 4.6
+  log: 13055.3
+  waypoint:
+    longitude: -80.089313
+    latitude: 3.858063
+  barometer: 1007.74
+  wind:
+    speed: 9.9
+    direction: 323
+  engine:
+    hours: 1082.2
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: navigation
+  observations:
+    cloudCoverage: 4
