@@ -603,3 +603,85 @@
     - ihmis-suski
     - bergie
   category: navigation
+- datetime: 2026-03-03T17:00:55.302Z
+  text: Bergie on watch. One dried squid and one flying fish evicted from deck
+  author: bergie
+  position:
+    longitude: -82.2658746
+    latitude: 2.7585149
+    source: GPS
+  heading: 181
+  course: 199
+  speed:
+    sog: 6.6
+  log: 13284.9
+  waypoint:
+    longitude: -89.545581
+    latitude: -3.483262
+  barometer: 1008.69
+  wind:
+    speed: 15.5
+    direction: 18
+  engine:
+    hours: 1082.2
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: navigation
+  observations:
+    seaState: 3
+    cloudCoverage: 3
+    visibility: 7
+- datetime: 2026-03-03T17:28:56.300Z
+  text: Started watermaker
+  author: bergie
+  position:
+    longitude: -82.2776238
+    latitude: 2.7167808
+    source: GPS
+  heading: 193
+  course: 200
+  speed:
+    sog: 5.9
+  log: 13287.6
+  waypoint:
+    longitude: -89.545581
+    latitude: -3.483262
+  barometer: 1008.44
+  wind:
+    speed: 15
+    direction: 32
+  engine:
+    hours: 1082.2
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: maintenance
+- datetime: 2026-03-03T17:42:57.401Z
+  text: Watermaker 232ppm
+  author: bergie
+  position:
+    longitude: -82.2832101
+    latitude: 2.6960969
+    source: GPS
+  heading: 178
+  course: 188
+  speed:
+    sog: 5.2
+  log: 13288.8
+  waypoint:
+    longitude: -89.545581
+    latitude: -3.483262
+  barometer: 1008.23
+  wind:
+    speed: 13.7
+    direction: 26
+  engine:
+    hours: 1082.2
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: maintenance
