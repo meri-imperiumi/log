@@ -788,3 +788,55 @@
   crewNames:
     - ihmis-suski
     - bergie
+  category: navigation
+- datetime: 2026-03-03T20:36:03.398Z
+  text: Big pod of dolphins came by
+  author: bergie
+  position:
+    longitude: -82.3096368
+    latitude: 2.4394016
+    source: GPS
+  heading: 153
+  course: 170
+  speed:
+    sog: 5.7
+  log: 13304.5
+  waypoint:
+    longitude: -89.545581
+    latitude: -3.483262
+  barometer: 1005.53
+  wind:
+    speed: 14.7
+    direction: 350
+  engine:
+    hours: 1082.2
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: navigation
+- datetime: 2026-03-03T21:00:04.499Z
+  text: ""
+  author: ""
+  position:
+    longitude: -82.3049446
+    latitude: 2.4072376
+    source: GPS
+  heading: 164
+  course: 177
+  speed:
+    sog: 4.3
+  log: 13306.4
+  waypoint:
+    longitude: -89.545581
+    latitude: -3.483262
+  barometer: 1005.5
+  wind:
+    speed: 10.1
+    direction: 6
+  engine:
+    hours: 1082.2
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
