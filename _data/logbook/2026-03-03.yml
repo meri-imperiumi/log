@@ -181,8 +181,8 @@
     - bergie
   category: navigation
 - datetime: 2026-03-03T05:00:13.600Z
-  text: ""
-  author: ""
+  text: Bergie on watch
+  author: bergie
   position:
     longitude: -81.9955256
     latitude: 3.8546138
@@ -199,6 +199,61 @@
   wind:
     speed: 23.2
     direction: 40
+  engine:
+    hours: 1082.2
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: navigation
+  observations:
+    seaState: 3
+    cloudCoverage: 0
+- datetime: 2026-03-03T05:39:15.699Z
+  text: I believe this was the first flying fish hit of the trip, port side deck
+  author: bergie
+  position:
+    longitude: -82.0242598
+    latitude: 3.7815496
+    source: GPS
+  heading: 199
+  course: 204
+  speed:
+    sog: 7.4
+  log: 13221.2
+  waypoint:
+    longitude: -89.545581
+    latitude: -3.483262
+  barometer: 1007.49
+  wind:
+    speed: 18.5
+    direction: 40
+  engine:
+    hours: 1082.2
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: navigation
+- datetime: 2026-03-03T06:00:11.000Z
+  text: ""
+  author: ""
+  position:
+    longitude: -82.03967516819635
+    latitude: 3.7427389780680334
+    source: Combined GPS/GLONASS
+  heading: 197
+  course: 217
+  speed:
+    sog: 5.8
+  log: 13223.8
+  waypoint:
+    longitude: -89.545581
+    latitude: -3.483262
+  barometer: 1007.18
+  wind:
+    speed: 16.7
+    direction: 35
   engine:
     hours: 1082.2
   vhf: "16"
