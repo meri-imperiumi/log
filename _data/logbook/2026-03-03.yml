@@ -392,8 +392,8 @@
     - bergie
   category: navigation
 - datetime: 2026-03-03T11:00:39.200Z
-  text: ""
-  author: ""
+  text: Suski on watch. Lunar eclipse nearly full
+  author: ihmis-suski
   position:
     longitude: -82.1357676
     latitude: 3.2783549
@@ -410,6 +410,62 @@
   wind:
     speed: 10.1
     direction: 16
+  engine:
+    hours: 1082.2
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: navigation
+- datetime: 2026-03-03T11:41:40.198Z
+  text: Brown boobie has left the spi boom.
+  author: ihmis-suski
+  position:
+    longitude: -82.1419008
+    latitude: 3.2222643
+    source: GPS
+  heading: 182
+  course: 190
+  speed:
+    sog: 5.5
+  log: 13256
+  waypoint:
+    longitude: -89.545581
+    latitude: -3.483262
+  barometer: 1007.21
+  wind:
+    speed: 13.9
+    direction: 30
+  engine:
+    hours: 1082.2
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: navigation
+  observations:
+    seaState: 3
+    cloudCoverage: 0
+    visibility: 7
+- datetime: 2026-03-03T12:00:43.200Z
+  text: ""
+  author: ""
+  position:
+    longitude: -82.1465373
+    latitude: 3.195836
+    source: GPS
+  heading: 187
+  course: 179
+  speed:
+    sog: 4.9
+  log: 13257.7
+  waypoint:
+    longitude: -89.545581
+    latitude: -3.483262
+  barometer: 1007.49
+  wind:
+    speed: 12.8
+    direction: 32
   engine:
     hours: 1082.2
   vhf: "16"
