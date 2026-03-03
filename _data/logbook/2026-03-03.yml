@@ -23,3 +23,55 @@
   crewNames:
     - ihmis-suski
     - bergie
+  category: navigation
+- datetime: 2026-03-03T00:03:02.500Z
+  text: Brown boobie sitting at the end of the spi-boom.
+  author: ihmis-suski
+  position:
+    longitude: -81.7534605
+    latitude: 4.3851576
+    source: GPS
+  heading: 184
+  course: 197
+  speed:
+    sog: 8.2
+  log: 13181.4
+  waypoint:
+    longitude: -89.545581
+    latitude: -3.483262
+  barometer: 1006.5
+  wind:
+    speed: 16.8
+    direction: 25
+  engine:
+    hours: 1082.2
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: navigation
+- datetime: 2026-03-03T01:00:04.500Z
+  text: ""
+  author: ""
+  position:
+    longitude: -81.7961085
+    latitude: 4.2849718
+    source: GPS
+  heading: 187
+  course: 211
+  speed:
+    sog: 5.6
+  log: 13187.9
+  waypoint:
+    longitude: -89.545581
+    latitude: -3.483262
+  barometer: 1006.87
+  wind:
+    speed: 12.4
+    direction: 21
+  engine:
+    hours: 1082.2
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
