@@ -364,3 +364,55 @@
   crewNames:
     - ihmis-suski
     - bergie
+  category: navigation
+- datetime: 2026-03-03T10:05:37.100Z
+  text: Partial lunar eclipse, the top is cut off
+  author: bergie
+  position:
+    longitude: -82.1422181
+    latitude: 3.3568609
+    source: GPS
+  heading: 162
+  course: 171
+  speed:
+    sog: 4.8
+  log: 13247.9
+  waypoint:
+    longitude: -89.545581
+    latitude: -3.483262
+  barometer: 1006.23
+  wind:
+    speed: 13.7
+    direction: 13
+  engine:
+    hours: 1082.2
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: navigation
+- datetime: 2026-03-03T11:00:39.200Z
+  text: ""
+  author: ""
+  position:
+    longitude: -82.1357676
+    latitude: 3.2783549
+    source: GPS
+  heading: 178
+  course: 194
+  speed:
+    sog: 3.4
+  log: 13252.6
+  waypoint:
+    longitude: -89.545581
+    latitude: -3.483262
+  barometer: 1006.56
+  wind:
+    speed: 10.1
+    direction: 16
+  engine:
+    hours: 1082.2
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
