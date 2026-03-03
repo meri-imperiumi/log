@@ -127,3 +127,55 @@
   crewNames:
     - ihmis-suski
     - bergie
+  category: navigation
+- datetime: 2026-03-03T03:29:12.600Z
+  text: Daily PacSeaNet. Also tried calling VA7TEX on 7123kHz but no contact
+  author: bergie
+  position:
+    longitude: -81.928851
+    latitude: 4.0287541
+    source: GPS
+  heading: 194
+  course: 189
+  speed:
+    sog: 6.9
+  log: 13205.3
+  waypoint:
+    longitude: -89.545581
+    latitude: -3.483262
+  barometer: 1007.78
+  wind:
+    speed: 20.6
+    direction: 43
+  engine:
+    hours: 1082.2
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: radio
+- datetime: 2026-03-03T04:00:12.600Z
+  text: ""
+  author: ""
+  position:
+    longitude: -81.9508895
+    latitude: 3.9684214
+    source: GPS
+  heading: 195
+  course: 192
+  speed:
+    sog: 5.7
+  log: 13209.2
+  waypoint:
+    longitude: -89.545581
+    latitude: -3.483262
+  barometer: 1007.77
+  wind:
+    speed: 20.3
+    direction: 41
+  engine:
+    hours: 1082.2
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
