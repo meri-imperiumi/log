@@ -1074,7 +1074,8 @@
     - bergie
   category: navigation
 - datetime: 2026-03-04T16:47:05.798Z
-  text: Fishing vessel Marta Lucia R (vessel 8) passed our stern
+  text: Fishing vessel Marta Lucia R (vessel 8 since Panamanian waters, first
+    properly offshore) passed our stern
   author: bergie
   position:
     longitude: -82.5280544
@@ -1126,8 +1127,8 @@
     - bergie
   category: navigation
 - datetime: 2026-03-04T17:00:05.798Z
-  text: ""
-  author: ""
+  text: Bergie on watch
+  author: bergie
   position:
     longitude: -82.5325356
     latitude: 1.5194974
@@ -1144,6 +1145,62 @@
   wind:
     speed: 2.2
     direction: 128
+  engine:
+    hours: 1082.2
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: navigation
+  observations:
+    cloudCoverage: 6
+    seaState: 2
+    visibility: 7
+- datetime: 2026-03-04T17:02:18.803Z
+  text: "Sails set: Main, Genoa 1"
+  author: ""
+  position:
+    longitude: -82.5332223
+    latitude: 1.5184505
+    source: GPS
+  heading: 193
+  course: 197
+  speed:
+    sog: 2.2
+  log: 13364.2
+  waypoint:
+    longitude: -89.545581
+    latitude: -3.483262
+  barometer: 1010.75
+  wind:
+    speed: 2.7
+    direction: 114
+  engine:
+    hours: 1082.2
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: navigation
+- datetime: 2026-03-04T18:00:05.798Z
+  text: ""
+  author: ""
+  position:
+    longitude: -82.5576841
+    latitude: 1.482968
+    source: GPS
+  heading: 201
+  course: 211
+  speed:
+    sog: 2.1
+  log: 13366.8
+  waypoint:
+    longitude: -89.545581
+    latitude: -3.483262
+  barometer: 1010.17
+  wind:
+    speed: 3.8
+    direction: 122
   engine:
     hours: 1082.2
   vhf: "16"
