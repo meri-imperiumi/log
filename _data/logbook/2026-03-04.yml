@@ -313,3 +313,159 @@
   crewNames:
     - ihmis-suski
     - bergie
+  category: navigation
+- datetime: 2026-03-04T08:23:29.200Z
+  text: Autopilot deactivated
+  author: ""
+  position:
+    longitude: -82.35071
+    latitude: 1.7680533
+    source: GPS
+  heading: 198
+  course: 208
+  speed:
+    sog: 1.4
+  log: 13345.4
+  waypoint:
+    longitude: -89.545581
+    latitude: -3.483262
+  barometer: 1008.19
+  wind:
+    speed: 2.8
+    direction: 74
+  engine:
+    hours: 1082.2
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: navigation
+- datetime: 2026-03-04T08:24:38.201Z
+  text: Autopilot activated, wind shift
+  author: bergie
+  position:
+    longitude: -82.3509628
+    latitude: 1.7675919
+    source: GPS
+  heading: 242
+  course: 287
+  speed:
+    sog: 1
+  log: 13345.5
+  waypoint:
+    longitude: -89.545581
+    latitude: -3.483262
+  barometer: 1008.21
+  wind:
+    speed: 3.4
+    direction: 56
+  engine:
+    hours: 1082.2
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: navigation
+- datetime: 2026-03-04T08:33:27.200Z
+  text: Autopilot deactivated
+  author: ""
+  position:
+    longitude: -82.3539331
+    latitude: 1.7641016
+    source: GPS
+  heading: 261
+  course: 223
+  speed:
+    sog: 1
+  log: 13345.7
+  waypoint:
+    longitude: -89.545581
+    latitude: -3.483262
+  barometer: 1008.2
+  wind:
+    speed: 3.5
+    direction: 115
+  engine:
+    hours: 1082.2
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: navigation
+- datetime: 2026-03-04T08:34:14.201Z
+  text: Autopilot activated
+  author: ""
+  position:
+    longitude: -82.3541641
+    latitude: 1.7638513
+    source: GPS
+  heading: 210
+  course: 226
+  speed:
+    sog: 1.8
+  log: 13345.8
+  waypoint:
+    longitude: -89.545581
+    latitude: -3.483262
+  barometer: 1008.19
+  wind:
+    speed: 1.7
+    direction: 70
+  engine:
+    hours: 1082.2
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: navigation
+- datetime: 2026-03-04T08:52:43.200Z
+  text: Another pod of dolphins swam by, could be more heard than seen
+  author: bergie
+  position:
+    longitude: -82.3596696
+    latitude: 1.7552896
+    source: GPS
+  heading: 209
+  course: 214
+  speed:
+    sog: 2.5
+  log: 13346.4
+  waypoint:
+    longitude: -89.545581
+    latitude: -3.483262
+  barometer: 1008.24
+  wind:
+    speed: 3.6
+    direction: 70
+  engine:
+    hours: 1082.2
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: navigation
+- datetime: 2026-03-04T09:00:43.200Z
+  text: ""
+  author: ""
+  position:
+    longitude: -82.3621888
+    latitude: 1.7514984
+    source: GPS
+  heading: 219
+  course: 205
+  speed:
+    sog: 4.2
+  log: 13346.6
+  waypoint:
+    longitude: -89.545581
+    latitude: -3.483262
+  barometer: 1008.28
+  wind:
+    speed: 7.3
+    direction: 97
+  engine:
+    hours: 1082.2
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
