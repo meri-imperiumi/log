@@ -101,3 +101,107 @@
   crewNames:
     - ihmis-suski
     - bergie
+  category: navigation
+- datetime: 2026-03-04T03:29:20.000Z
+  text: PacSeaNet checkin
+  author: bergie
+  position:
+    longitude: -82.3248836
+    latitude: 1.9258686
+    source: GPS
+  heading: 190
+  course: 215
+  speed:
+    sog: 3.4
+  log: 13335.7
+  waypoint:
+    longitude: -89.545581
+    latitude: -3.483262
+  barometer: 1009.65
+  wind:
+    speed: 7.4
+    direction: 11
+  engine:
+    hours: 1082.2
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: radio
+- datetime: 2026-03-04T03:47:34.000Z
+  text: "Sails set: Genoa 1 (30% furled), Staysail"
+  author: ""
+  position:
+    longitude: -82.328868
+    latitude: 1.9123896
+    source: GPS
+  heading: 150
+  course: 161
+  speed:
+    sog: 2.6
+  log: 13336.6
+  waypoint:
+    longitude: -89.545581
+    latitude: -3.483262
+  barometer: 1009.73
+  wind:
+    speed: 5.7
+    direction: 350
+  engine:
+    hours: 1082.2
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: navigation
+- datetime: 2026-03-04T03:49:42.000Z
+  text: Autopilot activated
+  author: ""
+  position:
+    longitude: -82.3288871
+    latitude: 1.9110125
+    source: GPS
+  heading: 164
+  course: 200
+  speed:
+    sog: 3.5
+  log: 13336.7
+  waypoint:
+    longitude: -89.545581
+    latitude: -3.483262
+  barometer: 1009.79
+  wind:
+    speed: 6.1
+    direction: 357
+  engine:
+    hours: 1082.2
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: navigation
+- datetime: 2026-03-04T04:00:21.000Z
+  text: ""
+  author: ""
+  position:
+    longitude: -82.3294923
+    latitude: 1.9035918
+    source: GPS
+  heading: 158
+  course: 198
+  speed:
+    sog: 3
+  log: 13337.1
+  waypoint:
+    longitude: -89.545581
+    latitude: -3.483262
+  barometer: 1009.87
+  wind:
+    speed: 6.9
+    direction: 350
+  engine:
+    hours: 1082.2
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
