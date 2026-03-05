@@ -1009,3 +1009,81 @@
   crewNames:
     - ihmis-suski
     - bergie
+  category: navigation
+- datetime: 2026-03-05T21:26:02.400Z
+  text: Gybed the setup; pole now on starboard side
+  author: bergie
+  position:
+    longitude: -83.1201348
+    latitude: 0.31714
+    source: GPS
+  heading: 184
+  course: 219
+  speed:
+    sog: 2.2
+  log: 13447.1
+  waypoint:
+    longitude: -89.545581
+    latitude: -3.483262
+  barometer: 1006.58
+  wind:
+    speed: 6.2
+    direction: 352
+  engine:
+    hours: 1082.2
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: navigation
+- datetime: 2026-03-05T21:47:03.398Z
+  text: Suski planted some lettuce
+  author: bergie
+  position:
+    longitude: -83.1289283
+    latitude: 0.3058546
+    source: GPS
+  heading: 192
+  course: 223
+  speed:
+    sog: 2.3
+  log: 13447.9
+  waypoint:
+    longitude: -89.545581
+    latitude: -3.483262
+  barometer: 1006.45
+  wind:
+    speed: 6.5
+    direction: 357
+  engine:
+    hours: 1082.2
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: maintenance
+- datetime: 2026-03-05T22:00:03.398Z
+  text: ""
+  author: ""
+  position:
+    longitude: -83.1347021
+    latitude: 0.2986763
+    source: GPS
+  heading: 190
+  course: 217
+  speed:
+    sog: 2.3
+  log: 13448.5
+  waypoint:
+    longitude: -89.545581
+    latitude: -3.483262
+  barometer: 1006.54
+  wind:
+    speed: 7.7
+    direction: 344
+  engine:
+    hours: 1082.2
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
