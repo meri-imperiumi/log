@@ -131,3 +131,138 @@
   crewNames:
     - ihmis-suski
     - bergie
+  category: navigation
+- datetime: 2026-03-05T02:40:10.500Z
+  text: "Sails set: Genoa 1"
+  author: ""
+  position:
+    longitude: -82.7172953
+    latitude: 1.1416515
+    source: GPS
+  heading: 279
+  course: 269
+  speed:
+    sog: 1.8
+  log: 13390.2
+  waypoint:
+    longitude: -89.545581
+    latitude: -3.483262
+  barometer: 1009.79
+  wind:
+    speed: 3.9
+    direction: 136
+  engine:
+    hours: 1082.2
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: navigation
+- datetime: 2026-03-05T02:40:20.500Z
+  text: "Sails set: Genoa 1, Staysail"
+  author: ""
+  position:
+    longitude: -82.7173704
+    latitude: 1.1416346
+    source: GPS
+  heading: 278
+  course: 316
+  speed:
+    sog: 1.9
+  log: 13390.2
+  waypoint:
+    longitude: -89.545581
+    latitude: -3.483262
+  barometer: 1009.81
+  wind:
+    speed: 4.6
+    direction: 132
+  engine:
+    hours: 1082.2
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: navigation
+- datetime: 2026-03-05T02:46:35.500Z
+  text: Autopilot activated
+  author: ""
+  position:
+    longitude: -82.7204621
+    latitude: 1.1400716
+    source: GPS
+  heading: 220
+  course: 244
+  speed:
+    sog: 2.5
+  log: 13390.4
+  waypoint:
+    longitude: -89.545581
+    latitude: -3.483262
+  barometer: 1009.87
+  wind:
+    speed: 2.7
+    direction: 107
+  engine:
+    hours: 1082.2
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: navigation
+- datetime: 2026-03-05T02:47:28.500Z
+  text: "Sails set: Genoa 1"
+  author: ""
+  position:
+    longitude: -82.72087383270264
+    latitude: 1.1397826671600342
+    source: GPS
+  heading: 209
+  course: 237
+  speed:
+    sog: 1.5
+  log: 13390.4
+  waypoint:
+    longitude: -89.545581
+    latitude: -3.483262
+  barometer: 1009.89
+  wind:
+    speed: 2.1
+    direction: 97
+  engine:
+    hours: 1082.2
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: navigation
+- datetime: 2026-03-05T02:47:44.500Z
+  text: Oh boy that was a piruette. Lets see of we can keep course with this.
+  author: ihmis-suski
+  position:
+    longitude: -82.7210149
+    latitude: 1.1396786
+    source: GPS
+  heading: 208
+  course: 223
+  speed:
+    sog: 2.5
+  log: 13390.5
+  waypoint:
+    longitude: -89.545581
+    latitude: -3.483262
+  barometer: 1009.88
+  wind:
+    speed: 2.8
+    direction: 93
+  engine:
+    hours: 1082.2
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: navigation
+  observations:
+    seaState: 2
+    cloudCoverage: 8
+    visibility: 7
