@@ -370,3 +370,32 @@
     - ihmis-suski
     - bergie
   category: navigation
+- datetime: 2026-03-05T05:00:52.499Z
+  text: Bergie on watch. So weird to be sailing upwind. Light rain
+  author: bergie
+  position:
+    longitude: -82.7860698
+    latitude: 1.0724063
+    source: GPS
+  heading: 201
+  course: 217
+  speed:
+    sog: 4.8
+  log: 13396.1
+  waypoint:
+    longitude: -89.545581
+    latitude: -3.483262
+  barometer: 1010.83
+  wind:
+    speed: 8.7
+    direction: 143
+  engine:
+    hours: 1082.2
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: navigation
+  observations:
+    seaState: 2
+    cloudCoverage: 8
