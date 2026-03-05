@@ -291,3 +291,82 @@
   crewNames:
     - ihmis-suski
     - bergie
+  category: navigation
+- datetime: 2026-03-05T04:00:49.500Z
+  text: ""
+  author: ""
+  position:
+    longitude: -82.7559663
+    latitude: 1.1082791
+    source: GPS
+  heading: 201
+  course: 234
+  speed:
+    sog: 2.4
+  log: 13393.3
+  waypoint:
+    longitude: -89.545581
+    latitude: -3.483262
+  barometer: 1011.06
+  wind:
+    speed: 5.2
+    direction: 131
+  engine:
+    hours: 1082.2
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: navigation
+- datetime: 2026-03-05T04:56:03.500Z
+  text: "Sails set: Main, Genoa 1 it's raining gently"
+  author: ihmis-suski
+  position:
+    longitude: -82.7829778
+    latitude: 1.0768299
+    source: GPS
+  heading: 198
+  course: 212
+  speed:
+    sog: 4
+  log: 13395.8
+  waypoint:
+    longitude: -89.545581
+    latitude: -3.483262
+  barometer: 1010.87
+  wind:
+    speed: 8.1
+    direction: 152
+  engine:
+    hours: 1082.2
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: navigation
+- datetime: 2026-03-05T04:57:16.499Z
+  text: Autopilot deactivated, windvane steering
+  author: bergie
+  position:
+    longitude: -82.7837123
+    latitude: 1.0757836
+    source: GPS
+  heading: 198
+  course: 209
+  speed:
+    sog: 4.6
+  log: 13395.9
+  waypoint:
+    longitude: -89.545581
+    latitude: -3.483262
+  barometer: 1010.84
+  wind:
+    speed: 8.5
+    direction: 145
+  engine:
+    hours: 1082.2
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: navigation
