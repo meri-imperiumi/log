@@ -528,3 +528,55 @@
   crewNames:
     - ihmis-suski
     - bergie
+  category: navigation
+- datetime: 2026-03-05T10:17:06.700Z
+  text: Dolphins around us again
+  author: bergie
+  position:
+    longitude: -82.8750826
+    latitude: 0.7791739
+    source: GPS
+  heading: 174
+  course: 197
+  speed:
+    sog: 3.3
+  log: 13414.8
+  waypoint:
+    longitude: -89.545581
+    latitude: -3.483262
+  barometer: 1008.27
+  wind:
+    speed: 8.9
+    direction: 76
+  engine:
+    hours: 1082.2
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: navigation
+- datetime: 2026-03-05T11:00:09.699Z
+  text: ""
+  author: ""
+  position:
+    longitude: -82.8820933
+    latitude: 0.7359061
+    source: GPS
+  heading: 167
+  course: 185
+  speed:
+    sog: 4.3
+  log: 13417.4
+  waypoint:
+    longitude: -89.545581
+    latitude: -3.483262
+  barometer: 1008.38
+  wind:
+    speed: 9.6
+    direction: 71
+  engine:
+    hours: 1082.2
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
