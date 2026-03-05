@@ -662,3 +662,86 @@
   crewNames:
     - ihmis-suski
     - bergie
+  category: navigation
+- datetime: 2026-03-05T15:34:51.200Z
+  text: Autopilot activated
+  author: ""
+  position:
+    longitude: -83.0019858
+    latitude: 0.4952371
+    source: GPS
+  heading: 167
+  course: 184
+  speed:
+    sog: 2.6
+  log: 13433.9
+  waypoint:
+    longitude: -89.545581
+    latitude: -3.483262
+  barometer: 1010.46
+  wind:
+    speed: 4.8
+    direction: 44
+  engine:
+    hours: 1082.2
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: navigation
+- datetime: 2026-03-05T15:47:45.203Z
+  text: "Sails set: Main, Genoa 1 (30% furled) wing on wing. The knot to the extra
+    sheet is too long, next time tiny knot to be able to furl out further."
+  author: ihmis-suski
+  position:
+    longitude: -83.00429000010094
+    latitude: 0.4908643404642742
+    source: GPS
+  heading: 193
+  course: 202
+  speed:
+    sog: 1.9
+  log: 13434.2
+  waypoint:
+    longitude: -89.545581
+    latitude: -3.483262
+  barometer: 1010.27
+  wind:
+    speed: 4.7
+    direction: 47
+  engine:
+    hours: 1082.2
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: navigation
+  observations:
+    seaState: 2
+    cloudCoverage: 5
+    visibility: 7
+- datetime: 2026-03-05T16:00:23.200Z
+  text: ""
+  author: ""
+  position:
+    longitude: -83.0063816
+    latitude: 0.4875323
+    source: GPS
+  heading: 194
+  course: 216
+  speed:
+    sog: 0.7
+  log: 13434.5
+  waypoint:
+    longitude: -89.545581
+    latitude: -3.483262
+  barometer: 1010.19
+  wind:
+    speed: 4.1
+    direction: 59
+  engine:
+    hours: 1082.2
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
