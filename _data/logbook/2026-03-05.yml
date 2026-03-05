@@ -854,3 +854,81 @@
     - ihmis-suski
     - bergie
   category: maintenance
+- datetime: 2026-03-05T19:00:52.300Z
+  text: Dolphins in the distance
+  author: bergie
+  position:
+    longitude: -83.0730455
+    latitude: 0.3719558
+    source: GPS
+  heading: 195
+  course: 287
+  speed:
+    sog: 0.9
+  log: 13442.6
+  waypoint:
+    longitude: -89.545581
+    latitude: -3.483262
+  barometer: 1008.54
+  wind:
+    speed: 4.4
+    direction: 43
+  engine:
+    hours: 1082.2
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: navigation
+- datetime: 2026-03-05T19:14:53.299Z
+  text: Watermaker 231ppm
+  author: bergie
+  position:
+    longitude: -83.0781268
+    latitude: 0.3690771
+    source: GPS
+  heading: 189
+  course: 232
+  speed:
+    sog: 1.9
+  log: 13443
+  waypoint:
+    longitude: -89.545581
+    latitude: -3.483262
+  barometer: 1008.29
+  wind:
+    speed: 4.8
+    direction: 17
+  engine:
+    hours: 1082.2
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: maintenance
+- datetime: 2026-03-05T19:17:53.299Z
+  text: Poled out yet again
+  author: bergie
+  position:
+    longitude: -83.0793150027593
+    latitude: 0.3682041803995768
+    source: GPS
+  heading: 193
+  course: 222
+  speed:
+    sog: 2
+  log: 13443.1
+  waypoint:
+    longitude: -89.545581
+    latitude: -3.483262
+  barometer: 1008.28
+  wind:
+    speed: 5.5
+    direction: 30
+  engine:
+    hours: 1082.2
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: navigation
