@@ -575,3 +575,85 @@
     - ihmis-suski
     - bergie
   category: navigation
+- datetime: 2026-03-06T12:00:23.500Z
+  text: ""
+  author: ""
+  position:
+    longitude: -83.4773289
+    latitude: 0.1099376
+    source: GPS
+  heading: 219
+  course: 228
+  speed:
+    sog: 1.7
+  log: 13473
+  waypoint:
+    longitude: -89.545581
+    latitude: -3.483262
+  barometer: 1009.31
+  wind:
+    speed: 3.4
+    direction: 20
+  engine:
+    hours: 1082.2
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: navigation
+- datetime: 2026-03-06T12:01:51.500Z
+  text: Back to starboard. Frigate bird also left.
+  author: ihmis-suski
+  position:
+    longitude: -83.4777916
+    latitude: 0.1097429
+    source: GPS
+  heading: 222
+  course: 203
+  speed:
+    sog: 1.4
+  log: 13473.1
+  waypoint:
+    longitude: -89.545581
+    latitude: -3.483262
+  barometer: 1009.34
+  wind:
+    speed: 2.6
+    direction: 36
+  engine:
+    hours: 1082.2
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: navigation
+  observations:
+    seaState: 2
+    cloudCoverage: 3
+    visibility: 7
+- datetime: 2026-03-06T12:58:54.598Z
+  text: Creagrus furcatus , yölokki at solar panel
+  author: ihmis-suski
+  position:
+    longitude: -83.5009966
+    latitude: 0.0980766
+    source: GPS
+  heading: 219
+  course: 251
+  speed:
+    sog: 1.5
+  log: 13474.6
+  waypoint:
+    longitude: -89.545581
+    latitude: -3.483262
+  barometer: 1010.18
+  wind:
+    speed: 4.1
+    direction: 21
+  engine:
+    hours: 1082.2
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: navigation
