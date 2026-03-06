@@ -208,8 +208,8 @@
     - bergie
   category: navigation
 - datetime: 2026-03-06T05:00:14.000Z
-  text: ""
-  author: ""
+  text: Bergie on watch
+  author: bergie
   position:
     longitude: -83.3362178
     latitude: 0.1450935
@@ -226,6 +226,62 @@
   wind:
     speed: 3.6
     direction: 2
+  engine:
+    hours: 1082.2
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: navigation
+  observations:
+    seaState: 2
+    cloudCoverage: 8
+- datetime: 2026-03-06T05:56:18.000Z
+  text: We have another night guest, this time on the aft solar arch. Now ETA 112
+    days to Marquesas
+  author: bergie
+  position:
+    longitude: -83.357929
+    latitude: 0.136299
+    source: GPS
+  heading: 211
+  course: 252
+  speed:
+    sog: 1.7
+  log: 13465.5
+  waypoint:
+    longitude: -89.545581
+    latitude: -3.483262
+  barometer: 1010.37
+  wind:
+    speed: 2
+    direction: 335
+  engine:
+    hours: 1082.2
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: navigation
+- datetime: 2026-03-06T06:00:17.000Z
+  text: ""
+  author: ""
+  position:
+    longitude: -83.3592166
+    latitude: 0.1360581
+    source: GPS
+  heading: 200
+  course: 253
+  speed:
+    sog: 1.5
+  log: 13465.6
+  waypoint:
+    longitude: -89.545581
+    latitude: -3.483262
+  barometer: 1010.3
+  wind:
+    speed: 2
+    direction: 352
   engine:
     hours: 1082.2
   vhf: "16"
