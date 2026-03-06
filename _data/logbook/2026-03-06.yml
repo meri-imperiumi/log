@@ -237,8 +237,8 @@
     seaState: 2
     cloudCoverage: 8
 - datetime: 2026-03-06T05:56:18.000Z
-  text: We have another night guest, this time on the aft solar arch. Now ETA 112
-    days to Marquesas
+  text: We have another night guest, this time a frigate bird on the aft solar
+    arch. Now ETA 112 days to Marquesas
   author: bergie
   position:
     longitude: -83.357929
@@ -412,6 +412,84 @@
   wind:
     speed: 2.1
     direction: 88
+  engine:
+    hours: 1082.2
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: navigation
+- datetime: 2026-03-06T09:31:01.500Z
+  text: Autopilot deactivated
+  author: ""
+  position:
+    longitude: -83.43288866678874
+    latitude: 0.1255019982655843
+    source: GPS
+  heading: 163
+  course: 225
+  speed:
+    sog: 1.1
+  log: 13470.1
+  waypoint:
+    longitude: -89.545581
+    latitude: -3.483262
+  barometer: 1008.18
+  wind:
+    speed: 0.9
+    direction: 350
+  engine:
+    hours: 1082.2
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: navigation
+- datetime: 2026-03-06T09:37:13.500Z
+  text: "Sails set: Genoa 1"
+  author: ""
+  position:
+    longitude: -83.434305
+    latitude: 0.1253816
+    source: GPS
+  heading: 129
+  course: 272
+  speed:
+    sog: 0.8
+  log: 13470.2
+  waypoint:
+    longitude: -89.545581
+    latitude: -3.483262
+  barometer: 1008.21
+  wind:
+    speed: 0.8
+    direction: 323
+  engine:
+    hours: 1082.2
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: navigation
+- datetime: 2026-03-06T10:00:33.500Z
+  text: ""
+  author: ""
+  position:
+    longitude: -83.4390286
+    latitude: 0.1262344
+    source: GPS
+  heading: 132
+  course: 264
+  speed:
+    sog: 0.5
+  log: 13470.5
+  waypoint:
+    longitude: -89.545581
+    latitude: -3.483262
+  barometer: 1008.35
+  wind:
+    speed: 1.1
+    direction: 337
   engine:
     hours: 1082.2
   vhf: "16"
