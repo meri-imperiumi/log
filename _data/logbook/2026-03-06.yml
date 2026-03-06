@@ -524,8 +524,8 @@
     - bergie
   category: navigation
 - datetime: 2026-03-06T11:00:37.500Z
-  text: ""
-  author: ""
+  text: Suski on watch
+  author: ihmis-suski
   position:
     longitude: -83.45635000864665
     latitude: 0.1230904976526896
@@ -548,3 +548,30 @@
   crewNames:
     - ihmis-suski
     - bergie
+  category: navigation
+- datetime: 2026-03-06T11:33:38.499Z
+  text: Trying port side tack
+  author: ihmis-suski
+  position:
+    longitude: -83.4682184
+    latitude: 0.1153803
+    source: GPS
+  heading: 216
+  course: 231
+  speed:
+    sog: 1.5
+  log: 13472.4
+  waypoint:
+    longitude: -89.545581
+    latitude: -3.483262
+  barometer: 1008.85
+  wind:
+    speed: 3.4
+    direction: 36
+  engine:
+    hours: 1082.2
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: navigation
