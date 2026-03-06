@@ -23,3 +23,56 @@
   crewNames:
     - ihmis-suski
     - bergie
+  category: navigation
+- datetime: 2026-03-06T00:13:02.800Z
+  text: Heard 2 boats talking to each other one maybe called Serendipity . Both
+    motoring. One heading to Gambier, the other to Marquesas
+  author: ihmis-suski
+  position:
+    longitude: -83.1856171
+    latitude: 0.2602156
+    source: GPS
+  heading: 210
+  course: 265
+  speed:
+    sog: 1.9
+  log: 13452.6
+  waypoint:
+    longitude: -89.545581
+    latitude: -3.483262
+  barometer: 1007.43
+  wind:
+    speed: 4.4
+    direction: 15
+  engine:
+    hours: 1082.2
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: radio
+- datetime: 2026-03-06T01:00:03.900Z
+  text: ""
+  author: ""
+  position:
+    longitude: -83.2082894
+    latitude: 0.2436756
+    source: GPS
+  heading: 205
+  course: 245
+  speed:
+    sog: 2
+  log: 13454.3
+  waypoint:
+    longitude: -89.545581
+    latitude: -3.483262
+  barometer: 1008.31
+  wind:
+    speed: 4.4
+    direction: 352
+  engine:
+    hours: 1082.2
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
