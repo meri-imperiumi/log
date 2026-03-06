@@ -920,3 +920,55 @@
   crewNames:
     - ihmis-suski
     - bergie
+  category: navigation
+- datetime: 2026-03-06T18:51:22.803Z
+  text: Crossed the line
+  author: bergie
+  position:
+    longitude: -83.6664993
+    latitude: -0.000447
+    source: GPS
+  heading: 215
+  course: 231
+  speed:
+    sog: 3.6
+  log: 13486.5
+  waypoint:
+    longitude: -89.545581
+    latitude: -3.483262
+  barometer: 1009.58
+  wind:
+    speed: 8.5
+    direction: 348
+  engine:
+    hours: 1082.2
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: navigation
+- datetime: 2026-03-06T19:00:22.796Z
+  text: ""
+  author: ""
+  position:
+    longitude: -83.6717658
+    latitude: -0.0057161
+    source: GPS
+  heading: 215
+  course: 219
+  speed:
+    sog: 3.3
+  log: 13486.9
+  waypoint:
+    longitude: -89.545581
+    latitude: -3.483262
+  barometer: 1009.48
+  wind:
+    speed: 8
+    direction: 354
+  engine:
+    hours: 1082.2
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
