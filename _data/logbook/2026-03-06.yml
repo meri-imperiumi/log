@@ -288,3 +288,81 @@
   crewNames:
     - ihmis-suski
     - bergie
+  category: navigation
+- datetime: 2026-03-06T06:36:24.000Z
+  text: I think this is the first time we are actually drifting to a wrong direction
+  author: bergie
+  position:
+    longitude: -83.3720358
+    latitude: 0.135032
+    source: GPS
+  heading: 200
+  course: 239
+  speed:
+    sog: 0.7
+  log: 13466.3
+  waypoint:
+    longitude: -89.545581
+    latitude: -3.483262
+  barometer: 1009.76
+  wind:
+    speed: 1.4
+    direction: 60
+  engine:
+    hours: 1082.2
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: navigation
+- datetime: 2026-03-06T06:54:24.000Z
+  text: Dolphins. Bright glint of moonlight reflecting off them as they surface
+  author: bergie
+  position:
+    longitude: -83.3782059
+    latitude: 0.1333371
+    source: GPS
+  heading: 202
+  course: 262
+  speed:
+    sog: 1.6
+  log: 13466.7
+  waypoint:
+    longitude: -89.545581
+    latitude: -3.483262
+  barometer: 1009.5
+  wind:
+    speed: 3.4
+    direction: 7
+  engine:
+    hours: 1082.2
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: navigation
+- datetime: 2026-03-06T07:00:26.000Z
+  text: ""
+  author: ""
+  position:
+    longitude: -83.3803076
+    latitude: 0.1328351
+    source: GPS
+  heading: 208
+  course: 269
+  speed:
+    sog: 1
+  log: 13466.8
+  waypoint:
+    longitude: -89.545581
+    latitude: -3.483262
+  barometer: 1009.46
+  wind:
+    speed: 2.3
+    direction: 39
+  engine:
+    hours: 1082.2
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
