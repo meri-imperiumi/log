@@ -76,3 +76,55 @@
   crewNames:
     - ihmis-suski
     - bergie
+  category: navigation
+- datetime: 2026-03-06T01:15:04.900Z
+  text: Took genoa over to port side
+  author: ihmis-suski
+  position:
+    longitude: -83.2150184
+    latitude: 0.2380029
+    source: GPS
+  heading: 214
+  course: 235
+  speed:
+    sog: 3.3
+  log: 13454.8
+  waypoint:
+    longitude: -89.545581
+    latitude: -3.483262
+  barometer: 1008.54
+  wind:
+    speed: 6.4
+    direction: 359
+  engine:
+    hours: 1082.2
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: navigation
+- datetime: 2026-03-06T02:00:05.900Z
+  text: ""
+  author: ""
+  position:
+    longitude: -83.2443559
+    latitude: 0.2115583
+    source: GPS
+  heading: 216
+  course: 218
+  speed:
+    sog: 3.1
+  log: 13457.2
+  waypoint:
+    longitude: -89.545581
+    latitude: -3.483262
+  barometer: 1009.38
+  wind:
+    speed: 7
+    direction: 346
+  engine:
+    hours: 1082.2
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
