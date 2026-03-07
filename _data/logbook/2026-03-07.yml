@@ -393,8 +393,8 @@
     - bergie
   category: navigation
 - datetime: 2026-03-07T11:00:31.001Z
-  text: ""
-  author: ""
+  text: Suski on watch
+  author: ihmis-suski
   position:
     longitude: -84.188029
     latitude: -0.3162806
@@ -417,3 +417,60 @@
   crewNames:
     - ihmis-suski
     - bergie
+  category: navigation
+  observations:
+    seaState: 2
+    cloudCoverage: 6
+    visibility: 7
+- datetime: 2026-03-07T11:25:31.001Z
+  text: Dolphins!
+  author: ihmis-suski
+  position:
+    longitude: -84.2015681
+    latitude: -0.3301758
+    source: GPS
+  heading: 208
+  course: 226
+  speed:
+    sog: 1.9
+  log: 13524.9
+  waypoint:
+    longitude: -89.545581
+    latitude: -3.483262
+  barometer: 1008.44
+  wind:
+    speed: 2.8
+    direction: 88
+  engine:
+    hours: 1082.2
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: navigation
+- datetime: 2026-03-07T11:54:33.100Z
+  text: After a light rain, washed aft and hard dodger solar panels from poop.
+  author: ihmis-suski
+  position:
+    longitude: -84.2176538
+    latitude: -0.3502394
+    source: GPS
+  heading: 201
+  course: 213
+  speed:
+    sog: 4.3
+  log: 13526.4
+  waypoint:
+    longitude: -89.545581
+    latitude: -3.483262
+  barometer: 1008.67
+  wind:
+    speed: 7.4
+    direction: 83
+  engine:
+    hours: 1082.2
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: navigation
