@@ -1,0 +1,77 @@
+- datetime: 2026-03-07T00:00:27.400Z
+  text: ""
+  author: ""
+  position:
+    longitude: -83.8417543
+    latitude: -0.1503416
+    source: GPS
+  heading: 223
+  course: 238
+  speed:
+    sog: 2.8
+  log: 13500.4
+  waypoint:
+    longitude: -89.545581
+    latitude: -3.483262
+  barometer: 1007.62
+  wind:
+    speed: 5.9
+    direction: 20
+  engine:
+    hours: 1082.2
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: navigation
+- datetime: 2026-03-07T00:32:00.400Z
+  text: Dolphins in the dark!
+  author: ihmis-suski
+  position:
+    longitude: -83.8631058
+    latitude: -0.1641816
+    source: GPS
+  heading: 223
+  course: 234
+  speed:
+    sog: 3.1
+  log: 13502
+  waypoint:
+    longitude: -89.545581
+    latitude: -3.483262
+  barometer: 1008
+  wind:
+    speed: 6.2
+    direction: 19
+  engine:
+    hours: 1082.2
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: navigation
+- datetime: 2026-03-07T01:00:01.400Z
+  text: ""
+  author: ""
+  position:
+    longitude: -83.8801724
+    latitude: -0.1744706
+    source: GPS
+  heading: 220
+  course: 227
+  speed:
+    sog: 2.7
+  log: 13503.2
+  waypoint:
+    longitude: -89.545581
+    latitude: -3.483262
+  barometer: 1008.34
+  wind:
+    speed: 4.4
+    direction: 35
+  engine:
+    hours: 1082.2
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
