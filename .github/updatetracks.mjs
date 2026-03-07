@@ -77,6 +77,9 @@ function ensurePositionMeta(entry, trackName) {
         return Promise.resolve();
       }
       const lastSegment = track.coordinates[track.coordinates.length - 1];
+      if (!lastSegment) {
+        return Promise.resolve();
+      }
       const [lon, lat] = lastSegment[lastSegment.length - 1];
       if (entry.position
         && (entry.position.lat === lat || entry.position.lon === lon)) {
