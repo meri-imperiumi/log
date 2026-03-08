@@ -341,3 +341,107 @@
     - ihmis-suski
     - bergie
   category: navigation
+- datetime: 2026-03-08T07:00:23.400Z
+  text: Flashes of lightning, far away southeast
+  author: bergie
+  position:
+    longitude: -84.6713093
+    latitude: -0.9973886
+    source: GPS
+  heading: 199
+  course: 289
+  speed:
+    sog: 0.6
+  log: 13575.6
+  waypoint:
+    longitude: -89.545581
+    latitude: -3.483262
+  barometer: 1009.09
+  wind:
+    speed: 0.6
+    direction: 1
+  engine:
+    hours: 1083.7
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: navigation
+- datetime: 2026-03-08T07:14:44.400Z
+  text: "Sails set: Genoa 1 (40% furled). Main was slatting too much"
+  author: bergie
+  position:
+    longitude: -84.6744711
+    latitude: -0.9973158
+    source: GPS
+  heading: 189
+  course: 347
+  speed:
+    sog: 0.4
+  log: 13575.8
+  waypoint:
+    longitude: -89.545581
+    latitude: -3.483262
+  barometer: 1008.91
+  wind:
+    speed: 2
+    direction: 8
+  engine:
+    hours: 1083.7
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: navigation
+- datetime: 2026-03-08T07:19:19.400Z
+  text: Autopilot deactivated, drifting to NW. 170 days to FP
+  author: bergie
+  position:
+    longitude: -84.6753084
+    latitude: -0.9968739
+    source: GPS
+  heading: 184
+  course: 330
+  speed:
+    sog: 1.2
+  log: 13575.9
+  waypoint:
+    longitude: -89.545581
+    latitude: -3.483262
+  barometer: 1008.87
+  wind:
+    speed: 1.9
+    direction: 352
+  engine:
+    hours: 1083.7
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: navigation
+- datetime: 2026-03-08T07:32:24.400Z
+  text: There's a blinking light in the horizon at about 140°
+  author: bergie
+  position:
+    longitude: -84.6771224
+    latitude: -0.9957145
+    source: GPS
+  heading: 121
+  course: 320
+  speed:
+    sog: 1
+  log: 13576
+  waypoint:
+    longitude: -89.545581
+    latitude: -3.483262
+  barometer: 1008.69
+  wind:
+    speed: 1.8
+    direction: 340
+  engine:
+    hours: 1083.7
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: navigation
