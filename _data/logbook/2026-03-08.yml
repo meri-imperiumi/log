@@ -530,7 +530,8 @@
   category: navigation
 - datetime: 2026-03-08T10:15:33.500Z
   text: Ok, it is definitely a vessel, the one bright light changed to two rocking
-    ones. I guess they turned off their worklight. Yup, can see a red nav light
+    ones. I guess they turned off their worklight. Yup, can see a red nav light.
+    Vessel no. 2
   author: bergie
   position:
     longitude: -84.705149
@@ -797,3 +798,55 @@
     - ihmis-suski
     - bergie
   category: navigation
+- datetime: 2026-03-08T16:00:26.099Z
+  text: ""
+  author: ""
+  position:
+    longitude: -84.8491769
+    latitude: -1.0705466
+    source: GPS
+  heading: 196
+  course: 226
+  speed:
+    sog: 2
+  log: 13588.8
+  waypoint:
+    longitude: -89.545581
+    latitude: -3.483262
+  barometer: 1010.48
+  wind:
+    speed: 3
+    direction: 113
+  engine:
+    hours: 1083.7
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: navigation
+- datetime: 2026-03-08T16:50:28.102Z
+  text: Started watermaker
+  author: bergie
+  position:
+    longitude: -84.874455
+    latitude: -1.0910305
+    source: GPS
+  heading: 206
+  course: 258
+  speed:
+    sog: 1.7
+  log: 13590.7
+  waypoint:
+    longitude: -89.545581
+    latitude: -3.483262
+  barometer: 1010.13
+  wind:
+    speed: 2.7
+    direction: 133
+  engine:
+    hours: 1083.7
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: maintenance
