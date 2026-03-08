@@ -502,3 +502,86 @@
     seaState: 2
     cloudCoverage: 8
     visibility: 7
+- datetime: 2026-03-08T10:00:30.499Z
+  text: ""
+  author: ""
+  position:
+    longitude: -84.7018414
+    latitude: -0.9817284
+    source: GPS
+  heading: 216
+  course: 282
+  speed:
+    sog: 0.9
+  log: 13577.8
+  waypoint:
+    longitude: -89.545581
+    latitude: -3.483262
+  barometer: 1008.28
+  wind:
+    speed: 1.4
+    direction: 35
+  engine:
+    hours: 1083.7
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: navigation
+- datetime: 2026-03-08T10:15:33.500Z
+  text: Ok, it is definitely a vessel, the one bright light changed to two rocking
+    ones. I guess they turned off their worklight. Yup, can see a red nav light
+  author: bergie
+  position:
+    longitude: -84.705149
+    latitude: -0.980635
+    source: GPS
+  heading: 271
+  course: 288
+  speed:
+    sog: 1
+  log: 13578
+  waypoint:
+    longitude: -89.545581
+    latitude: -3.483262
+  barometer: 1008.17
+  wind:
+    speed: 2.5
+    direction: 155
+  engine:
+    hours: 1083.7
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: navigation
+  observations:
+    seaState: 2
+    cloudCoverage: 2
+    visibility: 7
+- datetime: 2026-03-08T10:27:53.500Z
+  text: "Sails set: Genoa 1 (20% furled)"
+  author: ""
+  position:
+    longitude: -84.7084216
+    latitude: -0.9785785
+    source: GPS
+  heading: 290
+  course: 314
+  speed:
+    sog: 1.2
+  log: 13578.2
+  waypoint:
+    longitude: -89.545581
+    latitude: -3.483262
+  barometer: 1008.1
+  wind:
+    speed: 2.2
+    direction: 133
+  engine:
+    hours: 1083.7
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: navigation
