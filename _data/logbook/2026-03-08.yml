@@ -233,58 +233,6 @@
     - ihmis-suski
     - bergie
   category: navigation
-- datetime: 2026-03-08T04:50:27.400Z
-  text: Autopilot activated
-  author: ""
-  position:
-    longitude: -84.5939556
-    latitude: -0.9061545
-    source: GPS
-  heading: 90
-  course: 55
-  speed:
-    sog: 1.5
-  log: 13568.2
-  waypoint:
-    longitude: -89.545581
-    latitude: -3.483262
-  barometer: 1010.19
-  wind:
-    speed: 1.5
-    direction: 30
-  engine:
-    hours: 1082.2
-  vhf: "16"
-  crewNames:
-    - ihmis-suski
-    - bergie
-  category: navigation
-- datetime: 2026-03-08T04:50:44.400Z
-  text: Autopilot deactivated
-  author: ""
-  position:
-    longitude: -84.5937886
-    latitude: -0.9061171
-    source: GPS
-  heading: 83
-  course: 75
-  speed:
-    sog: 2.8
-  log: 13568.2
-  waypoint:
-    longitude: -89.545581
-    latitude: -3.483262
-  barometer: 1010.19
-  wind:
-    speed: 1.1
-    direction: 8
-  engine:
-    hours: 1082.2
-  vhf: "16"
-  crewNames:
-    - ihmis-suski
-    - bergie
-  category: navigation
 - datetime: 2026-03-08T04:51:45.400Z
   text: Autopilot activated
   author: ""
@@ -312,8 +260,8 @@
     - bergie
   category: navigation
 - datetime: 2026-03-08T05:00:04.400Z
-  text: ""
-  author: ""
+  text: Bergie on watch
+  author: bergie
   position:
     longitude: -84.6022166
     latitude: -0.913035
@@ -332,6 +280,36 @@
     direction: 65
   engine:
     hours: 1082.4
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: navigation
+  observations:
+    seaState: 2
+    cloudCoverage: 2
+    visibility: 7
+- datetime: 2026-03-08T06:00:07.400Z
+  text: ""
+  author: ""
+  position:
+    longitude: -84.6480571
+    latitude: -0.9755465
+    source: GPS
+  heading: 208
+  course: 216
+  speed:
+    sog: 5
+  log: 13573.6
+  waypoint:
+    longitude: -89.545581
+    latitude: -3.483262
+  barometer: 1009.63
+  wind:
+    speed: 1.8
+    direction: 57
+  engine:
+    hours: 1083.4
   vhf: "16"
   crewNames:
     - ihmis-suski
