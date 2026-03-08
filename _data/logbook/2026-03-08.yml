@@ -906,3 +906,107 @@
     - ihmis-suski
     - bergie
   category: maintenance
+- datetime: 2026-03-08T18:00:17.203Z
+  text: ""
+  author: ""
+  position:
+    longitude: -84.9142775
+    latitude: -1.1209286
+    source: GPS
+  heading: 222
+  course: 253
+  speed:
+    sog: 3.3
+  log: 13593.8
+  waypoint:
+    longitude: -89.545581
+    latitude: -3.483262
+  barometer: 1008.89
+  wind:
+    speed: 4.9
+    direction: 157
+  engine:
+    hours: 1083.7
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: navigation
+- datetime: 2026-03-08T18:39:33.196Z
+  text: Autopilot deactivated
+  author: ""
+  position:
+    longitude: -84.9378441
+    latitude: -1.129512
+    source: GPS
+  heading: 161
+  course: 345
+  speed:
+    sog: 1.1
+  log: 13595.4
+  waypoint:
+    longitude: -89.545581
+    latitude: -3.483262
+  barometer: 1008.42
+  wind:
+    speed: 3.8
+    direction: 222
+  engine:
+    hours: 1083.7
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: navigation
+- datetime: 2026-03-08T18:46:26.201Z
+  text: Autopilot activated
+  author: ""
+  position:
+    longitude: -84.93828818003337
+    latitude: -1.1289686679840087
+    source: GPS
+  heading: 241
+  course: 263
+  speed:
+    sog: 2.1
+  log: 13595.5
+  waypoint:
+    longitude: -89.545581
+    latitude: -3.483262
+  barometer: 1008.27
+  wind:
+    speed: 5.2
+    direction: 174
+  engine:
+    hours: 1083.7
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: navigation
+- datetime: 2026-03-08T18:50:50.201Z
+  text: Watermaker 239ppm
+  author: bergie
+  position:
+    longitude: -84.9406979
+    latitude: -1.1289951
+    source: GPS
+  heading: 232
+  course: 275
+  speed:
+    sog: 1.9
+  log: 13595.6
+  waypoint:
+    longitude: -89.545581
+    latitude: -3.483262
+  barometer: 1008.08
+  wind:
+    speed: 3.5
+    direction: 183
+  engine:
+    hours: 1083.7
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: maintenance
