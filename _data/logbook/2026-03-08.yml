@@ -314,3 +314,30 @@
   crewNames:
     - ihmis-suski
     - bergie
+  category: navigation
+- datetime: 2026-03-08T06:19:11.400Z
+  text: Motor stopped, sailing with Main
+  author: ""
+  position:
+    longitude: -84.6628328
+    latitude: -0.9956158
+    source: GPS
+  heading: 204
+  course: 217
+  speed:
+    sog: 2.8
+  log: 13575.1
+  waypoint:
+    longitude: -89.545581
+    latitude: -3.483262
+  barometer: 1009.43
+  wind:
+    speed: 1.3
+    direction: 59
+  engine:
+    hours: 1083.7
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: navigation
