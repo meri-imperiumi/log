@@ -1062,3 +1062,138 @@
     - ihmis-suski
     - bergie
   category: navigation
+- datetime: 2026-03-08T20:00:53.299Z
+  text: ""
+  author: ""
+  position:
+    longitude: -84.9822136
+    latitude: -1.1506338
+    source: GPS
+  heading: 223
+  course: 237
+  speed:
+    sog: 2.5
+  log: 13598.6
+  waypoint:
+    longitude: -89.545581
+    latitude: -3.483262
+  barometer: 1007.12
+  wind:
+    speed: 5.1
+    direction: 161
+  engine:
+    hours: 1083.7
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: navigation
+- datetime: 2026-03-08T20:26:55.302Z
+  text: Watermaker 250ppm
+  author: bergie
+  position:
+    longitude: -84.9988653
+    latitude: -1.1567563
+    source: GPS
+  heading: 234
+  course: 248
+  speed:
+    sog: 2.4
+  log: 13599.7
+  waypoint:
+    longitude: -89.545581
+    latitude: -3.483262
+  barometer: 1006.6
+  wind:
+    speed: 3.5
+    direction: 161
+  engine:
+    hours: 1083.7
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: maintenance
+- datetime: 2026-03-08T20:28:54.297Z
+  text: First squall of the trip to the south of us. So far looks like it'll miss
+  author: bergie
+  position:
+    longitude: -85.0000281
+    latitude: -1.1573496
+    source: GPS
+  heading: 219
+  course: 221
+  speed:
+    sog: 2.9
+  log: 13599.7
+  waypoint:
+    longitude: -89.545581
+    latitude: -3.483262
+  barometer: 1006.53
+  wind:
+    speed: 4.2
+    direction: 140
+  engine:
+    hours: 1083.7
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: navigation
+  observations:
+    seaState: 2
+    cloudCoverage: 4
+    visibility: 7
+- datetime: 2026-03-08T20:44:45.299Z
+  text: "Sails set: Main (1st reef), Staysail. Squall is here, though seemingly
+    without major winds"
+  author: bergie
+  position:
+    longitude: -85.0065533
+    latitude: -1.1615748
+    source: GPS
+  heading: 196
+  course: 179
+  speed:
+    sog: 0.6
+  log: 13600.2
+  waypoint:
+    longitude: -89.545581
+    latitude: -3.483262
+  barometer: 1006.39
+  wind:
+    speed: 4.7
+    direction: 156
+  engine:
+    hours: 1083.7
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: navigation
+- datetime: 2026-03-08T20:58:03.302Z
+  text: "Sails set: Main, Genoa 1"
+  author: ""
+  position:
+    longitude: -85.0104503
+    latitude: -1.1640961
+    source: GPS
+  heading: 247
+  course: 297
+  speed:
+    sog: 1.6
+  log: 13600.6
+  waypoint:
+    longitude: -89.545581
+    latitude: -3.483262
+  barometer: 1006.32
+  wind:
+    speed: 1.9
+    direction: 171
+  engine:
+    hours: 1083.7
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: navigation
