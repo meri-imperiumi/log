@@ -470,3 +470,35 @@
   crewNames:
     - ihmis-suski
     - bergie
+  category: navigation
+- datetime: 2026-03-08T09:00:28.499Z
+  text: The bright light to our west has also stayed visible despite the clouds,
+    so likely a fishing vessel and not a planet. Nothing on AIS
+  author: bergie
+  position:
+    longitude: -84.693044
+    latitude: -0.9880326
+    source: GPS
+  heading: 181
+  course: 267
+  speed:
+    sog: 1.2
+  log: 13577.1
+  waypoint:
+    longitude: -89.545581
+    latitude: -3.483262
+  barometer: 1008.24
+  wind:
+    speed: 1.2
+    direction: 44
+  engine:
+    hours: 1083.7
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: navigation
+  observations:
+    seaState: 2
+    cloudCoverage: 8
+    visibility: 7
