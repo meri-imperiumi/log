@@ -287,7 +287,7 @@
     - bergie
   category: navigation
 - datetime: 2026-03-09T01:29:48.800Z
-  text: Restarted the shelly2 plugin to fix Shslly connectivity with Signal K
+  text: Restarted the shelly2 plugin to fix Shelly connectivity with Signal K
   author: bergie
   position:
     longitude: -85.1712798
@@ -1145,6 +1145,162 @@
   wind:
     speed: 4.8
     direction: 45
+  engine:
+    hours: 1084.2
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: navigation
+- datetime: 2026-03-09T07:00:34.000Z
+  text: "We shall designate these two fishing vessels #3 and #4 of the trip"
+  author: bergie
+  position:
+    longitude: -85.310011
+    latitude: -1.314754
+    source: GPS
+  heading: 235
+  course: 247
+  speed:
+    sog: 2.3
+  log: 13625.2
+  waypoint:
+    longitude: -89.545581
+    latitude: -3.483262
+  barometer: 1008.96
+  wind:
+    speed: 3.5
+    direction: 306
+  engine:
+    hours: 1084.2
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: navigation
+- datetime: 2026-03-09T07:26:08.000Z
+  text: Autopilot deactivated
+  author: ""
+  position:
+    longitude: -85.3167941
+    latitude: -1.3172151
+    source: GPS
+  heading: 279
+  course: 194
+  speed:
+    sog: 0.9
+  log: 13625.6
+  waypoint:
+    longitude: -89.545581
+    latitude: -3.483262
+  barometer: 1008.53
+  wind:
+    speed: 1.6
+    direction: 178
+  engine:
+    hours: 1084.2
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: navigation
+- datetime: 2026-03-09T07:26:09.000Z
+  text: Autopilot activated
+  author: ""
+  position:
+    longitude: -85.3167933
+    latitude: -1.3172131
+    source: GPS
+  heading: 279
+  course: 308
+  speed:
+    sog: 0.7
+  log: 13625.6
+  waypoint:
+    longitude: -89.545581
+    latitude: -3.483262
+  barometer: 1008.53
+  wind:
+    speed: 1
+    direction: 197
+  engine:
+    hours: 1084.2
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: navigation
+- datetime: 2026-03-09T07:27:36.000Z
+  text: Autopilot deactivated
+  author: ""
+  position:
+    longitude: -85.3169771
+    latitude: -1.3170031
+    source: GPS
+  heading: 305
+  course: 356
+  speed:
+    sog: 1
+  log: 13625.6
+  waypoint:
+    longitude: -89.545581
+    latitude: -3.483262
+  barometer: 1008.55
+  wind:
+    speed: 1.5
+    direction: 183
+  engine:
+    hours: 1084.2
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: navigation
+- datetime: 2026-03-09T07:35:36.000Z
+  text: First flash of lightning, over a minute (20km) away
+  author: bergie
+  position:
+    longitude: -85.3182358
+    latitude: -1.3150841
+    source: GPS
+  heading: 306
+  course: 332
+  speed:
+    sog: 1.2
+  log: 13625.8
+  waypoint:
+    longitude: -89.545581
+    latitude: -3.483262
+  barometer: 1008.54
+  wind:
+    speed: 7.1
+    direction: 186
+  engine:
+    hours: 1084.2
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: navigation
+- datetime: 2026-03-09T07:48:11.001Z
+  text: "Sails set: Main (1st reef)"
+  author: ""
+  position:
+    longitude: -85.3241536
+    latitude: -1.3122841
+    source: GPS
+  heading: 243
+  course: 270
+  speed:
+    sog: 1
+  log: 13626.2
+  waypoint:
+    longitude: -89.545581
+    latitude: -3.483262
+  barometer: 1008.65
+  wind:
+    speed: 8.4
+    direction: 195
   engine:
     hours: 1084.2
   vhf: "16"
