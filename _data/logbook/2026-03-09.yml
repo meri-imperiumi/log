@@ -1018,3 +1018,84 @@
     - ihmis-suski
     - bergie
   category: navigation
+- datetime: 2026-03-09T05:00:58.899Z
+  text: Bergie on watchp
+  author: bergie
+  position:
+    longitude: -85.2765383
+    latitude: -1.2475625
+    source: GPS
+  heading: 210
+  course: 205
+  speed:
+    sog: 4.5
+  log: 13620.4
+  waypoint:
+    longitude: -89.545581
+    latitude: -3.483262
+  barometer: 1009.88
+  wind:
+    speed: 2.4
+    direction: 138
+  engine:
+    hours: 1084
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: navigation
+  observations:
+    seaState: 2
+    cloudCoverage: 6
+    visibility: 7
+- datetime: 2026-03-09T05:10:14.899Z
+  text: Motor stopped, sailing with Main (1st reef), Genoa 1
+  author: bergie
+  position:
+    longitude: -85.28166418075561
+    latitude: -1.2559228261311848
+    source: GPS
+  heading: 177
+  course: 186
+  speed:
+    sog: 1.5
+  log: 13621
+  waypoint:
+    longitude: -89.545581
+    latitude: -3.483262
+  barometer: 1009.77
+  wind:
+    speed: 7.9
+    direction: 244
+  engine:
+    hours: 1084.2
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: navigation
+- datetime: 2026-03-09T06:00:01.000Z
+  text: ""
+  author: ""
+  position:
+    longitude: -85.2942784
+    latitude: -1.2969536
+    source: GPS
+  heading: 199
+  course: 202
+  speed:
+    sog: 3.2
+  log: 13623.6
+  waypoint:
+    longitude: -89.545581
+    latitude: -3.483262
+  barometer: 1009.46
+  wind:
+    speed: 7.9
+    direction: 278
+  engine:
+    hours: 1084.2
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
