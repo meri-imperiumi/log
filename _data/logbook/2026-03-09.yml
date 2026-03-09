@@ -1807,59 +1807,6 @@
     - ihmis-suski
     - bergie
   category: navigation
-- datetime: 2026-03-09T12:28:32.499Z
-  text: Stopped. We didn't. We are just drifting
-  author: ihmis-suski
-  position:
-    longitude: -85.4024554
-    latitude: -1.3433753
-    source: GPS
-  heading: 246
-  course: 192
-  speed:
-    sog: 0.8
-  log: 13632.2
-  waypoint:
-    longitude: -89.545581
-    latitude: -3.483262
-  barometer: 1010.87
-  wind:
-    speed: 1.3
-    direction: 127
-  engine:
-    hours: 1084.2
-  vhf: "16"
-  crewNames:
-    - ihmis-suski
-    - bergie
-  end: true
-  category: navigation
-- datetime: 2026-03-09T12:30:32.499Z
-  text: Sailing with Main (1st reef)
-  author: ""
-  position:
-    longitude: -85.4027728
-    latitude: -1.3434733
-    source: GPS
-  heading: 244
-  course: 216
-  speed:
-    sog: 0.9
-  log: 13632.2
-  waypoint:
-    longitude: -89.545581
-    latitude: -3.483262
-  barometer: 1010.91
-  wind:
-    speed: 2.5
-    direction: 165
-  engine:
-    hours: 1084.2
-  vhf: "16"
-  crewNames:
-    - ihmis-suski
-    - bergie
-  category: navigation
 - datetime: 2026-03-09T12:54:31.500Z
   text: Autopilot activated
   author: ""
@@ -2040,32 +1987,6 @@
   wind:
     speed: 1.7
     direction: 28
-  engine:
-    hours: 1084.2
-  vhf: "16"
-  crewNames:
-    - ihmis-suski
-    - bergie
-  category: navigation
-- datetime: 2026-03-09T13:35:24.499Z
-  text: Autopilot activated
-  author: ""
-  position:
-    longitude: -85.4158951
-    latitude: -1.3474473
-    source: GPS
-  heading: 211
-  course: 151
-  speed:
-    sog: 0.3
-  log: 13633.4
-  waypoint:
-    longitude: -89.545581
-    latitude: -3.483262
-  barometer: 1011.9
-  wind:
-    speed: 2.7
-    direction: 38
   engine:
     hours: 1084.2
   vhf: "16"
@@ -2284,3 +2205,61 @@
   crewNames:
     - ihmis-suski
     - bergie
+  category: navigation
+- datetime: 2026-03-09T17:00:43.596Z
+  text: Bergie on watch
+  author: bergie
+  position:
+    longitude: -85.48265482584635
+    latitude: -1.4486148198445639
+    source: GPS
+  heading: 188
+  course: 202
+  speed:
+    sog: 4.4
+  log: 13641.6
+  waypoint:
+    longitude: -89.545581
+    latitude: -3.483262
+  barometer: 1011.31
+  wind:
+    speed: 10.5
+    direction: 51
+  engine:
+    hours: 1084.2
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: navigation
+  observations:
+    seaState: 2
+    cloudCoverage: 8
+    visibility: 7
+- datetime: 2026-03-09T17:56:53.600Z
+  text: There was something big floating in the sea , not quite container but
+    maybe 2m×3m. Tons of birds standing on it made it quite visible
+  author: bergie
+  position:
+    longitude: -85.5006015
+    latitude: -1.4926823
+    source: GPS
+  heading: 173
+  course: 179
+  speed:
+    sog: 2.6
+  log: 13644.4
+  waypoint:
+    longitude: -89.545581
+    latitude: -3.483262
+  barometer: 1010.81
+  wind:
+    speed: 9.4
+    direction: 28
+  engine:
+    hours: 1084.2
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: navigation
