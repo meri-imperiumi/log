@@ -1361,3 +1361,57 @@
     - ihmis-suski
     - bergie
   category: navigation
+- datetime: 2026-03-09T09:00:40.000Z
+  text: ""
+  author: ""
+  position:
+    longitude: -85.3503886
+    latitude: -1.3037308
+    source: GPS
+  heading: 236
+  course: 265
+  speed:
+    sog: 0.9
+  log: 13627.9
+  waypoint:
+    longitude: -89.545581
+    latitude: -3.483262
+  barometer: 1008.55
+  wind:
+    speed: 4.3
+    direction: 129
+  engine:
+    hours: 1084.2
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: navigation
+- datetime: 2026-03-09T09:41:42.000Z
+  text: Thunder still about 20km away
+  author: bergie
+  position:
+    longitude: -85.3598603
+    latitude: -1.3058693
+    source: GPS
+  heading: 191
+  course: 249
+  speed:
+    sog: 1.2
+  log: 13628.5
+  waypoint:
+    longitude: -89.545581
+    latitude: -3.483262
+  barometer: 1008.62
+  wind:
+    speed: 8.1
+    direction: 134
+  engine:
+    hours: 1084.2
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: navigation
+  observations:
+    cloudCoverage: 8
