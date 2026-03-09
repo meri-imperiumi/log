@@ -1938,3 +1938,164 @@
     - ihmis-suski
     - bergie
   category: navigation
+- datetime: 2026-03-09T13:00:32.499Z
+  text: ""
+  author: ""
+  position:
+    longitude: -85.4032573
+    latitude: -1.342094
+    source: GPS
+  heading: 231
+  course: 238
+  speed:
+    sog: 1.7
+  log: 13632.5
+  waypoint:
+    longitude: -89.545581
+    latitude: -3.483262
+  barometer: 1011.05
+  wind:
+    speed: 8.3
+    direction: 17
+  engine:
+    hours: 1084.2
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: navigation
+- datetime: 2026-03-09T13:01:34.499Z
+  text: "Sails set: Main (1st reef), Genoa 1 (30% furled)"
+  author: ""
+  position:
+    longitude: -85.4037879
+    latitude: -1.3424381
+    source: GPS
+  heading: 236
+  course: 239
+  speed:
+    sog: 3
+  log: 13632.6
+  waypoint:
+    longitude: -89.545581
+    latitude: -3.483262
+  barometer: 1011.04
+  wind:
+    speed: 9.4
+    direction: 21
+  engine:
+    hours: 1084.2
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: navigation
+- datetime: 2026-03-09T13:33:33.500Z
+  text: "This is just ridiculous. The wind goes whatever, waves go washing
+    machine. Rain buckets down. "
+  author: ihmis-suski
+  position:
+    longitude: -85.4155846
+    latitude: -1.3474676
+    source: GPS
+  heading: 239
+  course: 263
+  speed:
+    sog: 1.3
+  log: 13633.4
+  waypoint:
+    longitude: -89.545581
+    latitude: -3.483262
+  barometer: 1011.88
+  wind:
+    speed: 1.6
+    direction: 44
+  engine:
+    hours: 1084.2
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: navigation
+  observations:
+    seaState: 3
+    cloudCoverage: 8
+    visibility: 5
+- datetime: 2026-03-09T13:34:26.499Z
+  text: Autopilot deactivated
+  author: ""
+  position:
+    longitude: -85.4157384
+    latitude: -1.3474541
+    source: GPS
+  heading: 222
+  course: 270
+  speed:
+    sog: 1.2
+  log: 13633.4
+  waypoint:
+    longitude: -89.545581
+    latitude: -3.483262
+  barometer: 1011.9
+  wind:
+    speed: 1.7
+    direction: 28
+  engine:
+    hours: 1084.2
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: navigation
+- datetime: 2026-03-09T13:35:24.499Z
+  text: Autopilot activated
+  author: ""
+  position:
+    longitude: -85.4158951
+    latitude: -1.3474473
+    source: GPS
+  heading: 211
+  course: 151
+  speed:
+    sog: 0.3
+  log: 13633.4
+  waypoint:
+    longitude: -89.545581
+    latitude: -3.483262
+  barometer: 1011.9
+  wind:
+    speed: 2.7
+    direction: 38
+  engine:
+    hours: 1084.2
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: navigation
+- datetime: 2026-03-09T13:35:25.500Z
+  text: Autopilot activated
+  author: ""
+  position:
+    longitude: -85.41589533487955
+    latitude: -1.3474486668904622
+    source: GPS
+  heading: 212
+  course: 223
+  speed:
+    sog: 0.7
+  log: 13633.4
+  waypoint:
+    longitude: -89.545581
+    latitude: -3.483262
+  barometer: 1011.9
+  wind:
+    speed: 3.3
+    direction: 37
+  engine:
+    hours: 1084.2
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: navigation
