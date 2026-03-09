@@ -2099,3 +2099,107 @@
     - ihmis-suski
     - bergie
   category: navigation
+- datetime: 2026-03-09T14:00:34.499Z
+  text: ""
+  author: ""
+  position:
+    longitude: -85.4246221
+    latitude: -1.3500278
+    source: GPS
+  heading: 256
+  course: 259
+  speed:
+    sog: 2.1
+  log: 13634
+  waypoint:
+    longitude: -89.545581
+    latitude: -3.483262
+  barometer: 1011.91
+  wind:
+    speed: 8
+    direction: 37
+  engine:
+    hours: 1084.2
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: navigation
+- datetime: 2026-03-09T14:17:09.500Z
+  text: "Sails set: Main (1st reef), Genoa 1"
+  author: ""
+  position:
+    longitude: -85.4365518
+    latitude: -1.3506026
+    source: GPS
+  heading: 269
+  course: 271
+  speed:
+    sog: 3.5
+  log: 13634.7
+  waypoint:
+    longitude: -89.545581
+    latitude: -3.483262
+  barometer: 1012.08
+  wind:
+    speed: 9.9
+    direction: 43
+  engine:
+    hours: 1084.2
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: navigation
+- datetime: 2026-03-09T14:25:22.499Z
+  text: Autopilot deactivated
+  author: ""
+  position:
+    longitude: -85.4449213
+    latitude: -1.3506898
+    source: GPS
+  heading: 234
+  course: 261
+  speed:
+    sog: 2.9
+  log: 13635.2
+  waypoint:
+    longitude: -89.545581
+    latitude: -3.483262
+  barometer: 1012.15
+  wind:
+    speed: 8.9
+    direction: 29
+  engine:
+    hours: 1084.2
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: navigation
+- datetime: 2026-03-09T14:26:02.499Z
+  text: Autopilot activated
+  author: ""
+  position:
+    longitude: -85.4451813
+    latitude: -1.3509583
+    source: GPS
+  heading: 148
+  course: 162
+  speed:
+    sog: 0.6
+  log: 13635.2
+  waypoint:
+    longitude: -89.545581
+    latitude: -3.483262
+  barometer: 1012.1
+  wind:
+    speed: 8.8
+    direction: 44
+  engine:
+    hours: 1084.2
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: navigation
