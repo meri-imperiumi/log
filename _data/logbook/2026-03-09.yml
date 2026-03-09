@@ -2366,3 +2366,134 @@
   crewNames:
     - ihmis-suski
     - bergie
+  category: navigation
+- datetime: 2026-03-09T22:00:54.796Z
+  text: ""
+  author: ""
+  position:
+    longitude: -85.4982769
+    latitude: -1.634313
+    source: GPS
+  heading: 188
+  course: 201
+  speed:
+    sog: 1.1
+  log: 13653.2
+  waypoint:
+    longitude: -89.545581
+    latitude: -3.483262
+  barometer: 1008.01
+  wind:
+    speed: 4.2
+    direction: 44
+  engine:
+    hours: 1084.2
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: navigation
+- datetime: 2026-03-09T22:08:51.097Z
+  text: Autopilot deactivated
+  author: ""
+  position:
+    longitude: -85.4998119
+    latitude: -1.637467
+    source: GPS
+  heading: 187
+  course: 181
+  speed:
+    sog: 1.6
+  log: 13653.4
+  waypoint:
+    longitude: -89.545581
+    latitude: -3.483262
+  barometer: 1008.18
+  wind:
+    speed: 5.7
+    direction: 68
+  engine:
+    hours: 1084.2
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: navigation
+- datetime: 2026-03-09T22:10:00.102Z
+  text: Sails down, motoring
+  author: ""
+  position:
+    longitude: -85.5000226
+    latitude: -1.6377783
+    source: GPS
+  heading: 209
+  course: 196
+  speed:
+    sog: 1
+  log: 13653.4
+  waypoint:
+    longitude: -89.545581
+    latitude: -3.483262
+  barometer: 1008.29
+  wind:
+    speed: 4
+    direction: 70
+  engine:
+    hours: 1084.2
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: navigation
+- datetime: 2026-03-09T22:12:12.102Z
+  text: Autopilot activated
+  author: ""
+  position:
+    longitude: -85.5017554918925
+    latitude: -1.6389905293782552
+    source: GPS
+  heading: 203
+  course: 217
+  speed:
+    sog: 4.2
+  log: 13653.5
+  waypoint:
+    longitude: -89.545581
+    latitude: -3.483262
+  barometer: 1008.33
+  wind:
+    speed: 2.8
+    direction: 71
+  engine:
+    hours: 1084.2
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: navigation
+- datetime: 2026-03-09T22:19:54.099Z
+  text: It seems our shaft seal is leaking when motoring
+  author: bergie
+  position:
+    longitude: -85.5102993
+    latitude: -1.6435491
+    source: GPS
+  heading: 246
+  course: 240
+  speed:
+    sog: 4.7
+  log: 13654.1
+  waypoint:
+    longitude: -89.545581
+    latitude: -3.483262
+  barometer: 1008.52
+  wind:
+    speed: 3.3
+    direction: 122
+  engine:
+    hours: 1084.3
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: maintenance
