@@ -232,3 +232,135 @@
     - ihmis-suski
     - bergie
   category: navigation
+- datetime: 2026-03-09T01:00:41.800Z
+  text: ""
+  author: ""
+  position:
+    longitude: -85.1662305
+    latitude: -1.1900223
+    source: GPS
+  heading: 177
+  course: 172
+  speed:
+    sog: 2
+  log: 13611.3
+  waypoint:
+    longitude: -89.545581
+    latitude: -3.483262
+  barometer: 1007.94
+  wind:
+    speed: 6.3
+    direction: 236
+  engine:
+    hours: 1083.7
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: navigation
+- datetime: 2026-03-09T01:25:49.800Z
+  text: Running lights didn't automatically come on and the overide didn't work
+    either. Took me an hour to notice with all the babysitting Nipa. They are on
+    now.
+  author: ihmis-suski
+  position:
+    longitude: -85.1705368
+    latitude: -1.2036164
+    source: GPS
+  heading: 182
+  course: 206
+  speed:
+    sog: 2.2
+  log: 13612.2
+  waypoint:
+    longitude: -89.545581
+    latitude: -3.483262
+  barometer: 1008.5
+  wind:
+    speed: 5.6
+    direction: 258
+  engine:
+    hours: 1083.7
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: navigation
+- datetime: 2026-03-09T01:29:48.800Z
+  text: Restarted the shelly2 plugin to fix Shslly connectivity with Signal K
+  author: bergie
+  position:
+    longitude: -85.1712798
+    latitude: -1.2060815
+    source: GPS
+  heading: 186
+  course: 200
+  speed:
+    sog: 2.8
+  log: 13612.4
+  waypoint:
+    longitude: -89.545581
+    latitude: -3.483262
+  barometer: 1008.48
+  wind:
+    speed: 5.6
+    direction: 251
+  engine:
+    hours: 1083.7
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: maintenance
+- datetime: 2026-03-09T01:43:04.800Z
+  text: Autopilot deactivated. Starbuck on.
+  author: ihmis-suski
+  position:
+    longitude: -85.1740196
+    latitude: -1.214798
+    source: GPS
+  heading: 193
+  course: 204
+  speed:
+    sog: 2.3
+  log: 13612.9
+  waypoint:
+    longitude: -89.545581
+    latitude: -3.483262
+  barometer: 1008.64
+  wind:
+    speed: 4.9
+    direction: 266
+  engine:
+    hours: 1083.7
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: navigation
+- datetime: 2026-03-09T01:59:33.800Z
+  text: Sails down, motoring
+  author: ""
+  position:
+    longitude: -85.1752838
+    latitude: -1.2238066
+    source: GPS
+  heading: 251
+  course: 284
+  speed:
+    sog: 2.8
+  log: 13613.6
+  waypoint:
+    longitude: -89.545581
+    latitude: -3.483262
+  barometer: 1008.68
+  wind:
+    speed: 16.3
+    direction: 166
+  engine:
+    hours: 1083.7
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: navigation
