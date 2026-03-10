@@ -704,3 +704,138 @@
   crewNames:
     - ihmis-suski
     - bergie
+  category: navigation
+- datetime: 2026-03-10T14:25:28.998Z
+  text: Autopilot activated
+  author: ""
+  position:
+    longitude: -86.5434471
+    latitude: -2.2372546
+    source: GPS
+  heading: 258
+  course: 230
+  speed:
+    sog: 2.5
+  log: 13727.2
+  waypoint:
+    longitude: -89.545581
+    latitude: -3.483262
+  barometer: 1012.33
+  wind:
+    speed: 6.8
+    direction: 42
+  engine:
+    hours: 1093.3
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: navigation
+- datetime: 2026-03-10T14:31:12.000Z
+  text: Sails down, motoring
+  author: ""
+  position:
+    longitude: -86.5464515
+    latitude: -2.2385855
+    source: GPS
+  heading: 260
+  course: 260
+  speed:
+    sog: 1.7
+  log: 13727.4
+  waypoint:
+    longitude: -89.545581
+    latitude: -3.483262
+  barometer: 1012.51
+  wind:
+    speed: 7
+    direction: 43
+  engine:
+    hours: 1093.3
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: navigation
+- datetime: 2026-03-10T14:35:03.001Z
+  text: Wind and sea state not compatible. Motoring till either sea calms or wind
+    picks up
+  author: ihmis-suski
+  position:
+    longitude: -86.5504913
+    latitude: -2.2397858
+    source: GPS
+  heading: 256
+  course: 251
+  speed:
+    sog: 4.3
+  log: 13727.6
+  waypoint:
+    longitude: -89.545581
+    latitude: -3.483262
+  barometer: 1012.53
+  wind:
+    speed: 5.1
+    direction: 43
+  engine:
+    hours: 1093.3
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: navigation
+  observations:
+    cloudCoverage: 8
+    seaState: 3
+    visibility: 6
+- datetime: 2026-03-10T14:50:04.000Z
+  text: Bucketing down with rain
+  author: ihmis-suski
+  position:
+    longitude: -86.5675593
+    latitude: -2.2502966
+    source: GPS
+  heading: 245
+  course: 227
+  speed:
+    sog: 5.2
+  log: 13728.8
+  waypoint:
+    longitude: -89.545581
+    latitude: -3.483262
+  barometer: 1012.82
+  wind:
+    speed: 5.3
+    direction: 65
+  engine:
+    hours: 1093.6
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: navigation
+- datetime: 2026-03-10T15:00:04.000Z
+  text: ""
+  author: ""
+  position:
+    longitude: -86.5788625
+    latitude: -2.2579896
+    source: GPS
+  heading: 243
+  course: 236
+  speed:
+    sog: 5.2
+  log: 13729.7
+  waypoint:
+    longitude: -89.545581
+    latitude: -3.483262
+  barometer: 1013.01
+  wind:
+    speed: 6.7
+    direction: 68
+  engine:
+    hours: 1093.7
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
