@@ -50,3 +50,56 @@
     - ihmis-suski
     - bergie
   category: navigation
+- datetime: 2026-03-10T01:00:54.200Z
+  text: ""
+  author: ""
+  position:
+    longitude: -85.7073581
+    latitude: -1.7261471
+    source: GPS
+  heading: 251
+  course: 249
+  speed:
+    sog: 5.4
+  log: 13667
+  waypoint:
+    longitude: -89.545581
+    latitude: -3.483262
+  barometer: 1009.87
+  wind:
+    speed: 10.6
+    direction: 47
+  engine:
+    hours: 1087
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: navigation
+- datetime: 2026-03-10T01:22:54.200Z
+  text: We are being circled by 5+ swallow tailed gulls. Apparently fishes around
+    the boat. They make low gurgling sounds as they hunt.
+  author: ihmis-suski
+  position:
+    longitude: -85.7369991
+    latitude: -1.7405026
+    source: GPS
+  heading: 246
+  course: 241
+  speed:
+    sog: 5.4
+  log: 13668.9
+  waypoint:
+    longitude: -89.545581
+    latitude: -3.483262
+  barometer: 1010.09
+  wind:
+    speed: 4.2
+    direction: 43
+  engine:
+    hours: 1087.4
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: navigation
