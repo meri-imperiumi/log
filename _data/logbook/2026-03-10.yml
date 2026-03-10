@@ -1,0 +1,52 @@
+- datetime: 2026-03-10T00:00:54.200Z
+  text: ""
+  author: ""
+  position:
+    longitude: -85.6326974
+    latitude: -1.6933083
+    source: GPS
+  heading: 248
+  course: 249
+  speed:
+    sog: 5.2
+  log: 13662.1
+  waypoint:
+    longitude: -89.545581
+    latitude: -3.483262
+  barometer: 1009.11
+  wind:
+    speed: 3.8
+    direction: 67
+  engine:
+    hours: 1086
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: navigation
+- datetime: 2026-03-10T00:56:55.200Z
+  text: Squall in the pitch black.
+  author: ihmis-suski
+  position:
+    longitude: -85.7021614
+    latitude: -1.7239571
+    source: GPS
+  heading: 249
+  course: 252
+  speed:
+    sog: 5
+  log: 13666.6
+  waypoint:
+    longitude: -89.545581
+    latitude: -3.483262
+  barometer: 1009.68
+  wind:
+    speed: 13
+    direction: 36
+  engine:
+    hours: 1087
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: navigation
