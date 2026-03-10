@@ -128,3 +128,82 @@
   crewNames:
     - ihmis-suski
     - bergie
+  category: navigation
+- datetime: 2026-03-10T03:00:54.300Z
+  text: ""
+  author: ""
+  position:
+    longitude: -85.8536688
+    latitude: -1.7938456
+    source: GPS
+  heading: 245
+  course: 238
+  speed:
+    sog: 5.7
+  log: 13676.7
+  waypoint:
+    longitude: -89.545581
+    latitude: -3.483262
+  barometer: 1010.41
+  wind:
+    speed: 4.9
+    direction: 346
+  engine:
+    hours: 1089
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: navigation
+- datetime: 2026-03-10T03:08:54.300Z
+  text: PacSeaNet. Had to drop revs to hear the radio
+  author: bergie
+  position:
+    longitude: -85.8586956
+    latitude: -1.7959065
+    source: GPS
+  heading: 246
+  course: 222
+  speed:
+    sog: 0.5
+  log: 13677
+  waypoint:
+    longitude: -89.545581
+    latitude: -3.483262
+  barometer: 1010.71
+  wind:
+    speed: 2.6
+    direction: 353
+  engine:
+    hours: 1089.1
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: radio
+- datetime: 2026-03-10T03:51:54.300Z
+  text: Lights of cargo ship Humbolt Express visible in 12.9 miles. Boat#6
+  author: ihmis-suski
+  position:
+    longitude: -85.9026703
+    latitude: -1.8153208
+    source: GPS
+  heading: 243
+  course: 238
+  speed:
+    sog: 4.3
+  log: 13679.9
+  waypoint:
+    longitude: -89.545581
+    latitude: -3.483262
+  barometer: 1010.79
+  wind:
+    speed: 5.4
+    direction: 5
+  engine:
+    hours: 1089.9
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: navigation
