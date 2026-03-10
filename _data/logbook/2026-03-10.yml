@@ -1107,3 +1107,133 @@
   observations:
     seaState: 3
     cloudCoverage: 7
+- datetime: 2026-03-10T19:00:13.100Z
+  text: ""
+  author: ""
+  position:
+    longitude: -86.7767309
+    latitude: -2.4226691
+    source: GPS
+  heading: 277
+  course: 239
+  speed:
+    sog: 1.6
+  log: 13745.5
+  waypoint:
+    longitude: -89.545581
+    latitude: -3.483262
+  barometer: 1011.3
+  wind:
+    speed: 7.2
+    direction: 18
+  engine:
+    hours: 1094.9
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: navigation
+- datetime: 2026-03-10T19:16:30.099Z
+  text: Autopilot activated
+  author: ""
+  position:
+    longitude: -86.7813611
+    latitude: -2.4306335
+    source: GPS
+  heading: 285
+  course: 234
+  speed:
+    sog: 1.4
+  log: 13746.1
+  waypoint:
+    longitude: -89.545581
+    latitude: -3.483262
+  barometer: 1010.98
+  wind:
+    speed: 3
+    direction: 25
+  engine:
+    hours: 1094.9
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: navigation
+- datetime: 2026-03-10T19:16:35.097Z
+  text: Sails down, motoring
+  author: ""
+  position:
+    longitude: -86.7813716
+    latitude: -2.4306476
+    source: GPS
+  heading: 289
+  course: 206
+  speed:
+    sog: 2.3
+  log: 13746.1
+  waypoint:
+    longitude: -89.545581
+    latitude: -3.483262
+  barometer: 1010.96
+  wind:
+    speed: 2.2
+    direction: 31
+  engine:
+    hours: 1094.9
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: navigation
+- datetime: 2026-03-10T19:43:37.100Z
+  text: Motor stopped, sailing with Main (1st reef), Genoa 1 (40% furled)
+  author: ""
+  position:
+    longitude: -86.8050623
+    latitude: -2.4559995
+    source: GPS
+  heading: 235
+  course: 229
+  speed:
+    sog: 3.6
+  log: 13748.2
+  waypoint:
+    longitude: -89.545581
+    latitude: -3.483262
+  barometer: 1010.36
+  wind:
+    speed: 13.6
+    direction: 1
+  engine:
+    hours: 1095.4
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: navigation
+- datetime: 2026-03-10T19:44:15.097Z
+  text: Pumped the bilge, maybe 3 pumps
+  author: bergie
+  position:
+    longitude: -86.8055798
+    latitude: -2.4566183
+    source: GPS
+  heading: 235
+  course: 227
+  speed:
+    sog: 5.2
+  log: 13748.2
+  waypoint:
+    longitude: -89.545581
+    latitude: -3.483262
+  barometer: 1010.3
+  wind:
+    speed: 12.2
+    direction: 359
+  engine:
+    hours: 1095.4
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: maintenance
