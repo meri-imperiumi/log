@@ -626,3 +626,81 @@
   crewNames:
     - ihmis-suski
     - bergie
+  category: navigation
+- datetime: 2026-03-10T13:00:57.900Z
+  text: ""
+  author: ""
+  position:
+    longitude: -86.4594631
+    latitude: -2.2102894
+    source: GPS
+  heading: 252
+  course: 244
+  speed:
+    sog: 5
+  log: 13721.6
+  waypoint:
+    longitude: -89.545581
+    latitude: -3.483262
+  barometer: 1011.16
+  wind:
+    speed: 12.8
+    direction: 30
+  engine:
+    hours: 1093.3
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: navigation
+- datetime: 2026-03-10T13:56:01.900Z
+  text: Rain rain rain
+  author: ihmis-suski
+  position:
+    longitude: -86.5168985
+    latitude: -2.2379089
+    source: GPS
+  heading: 274
+  course: 251
+  speed:
+    sog: 3.9
+  log: 13725.6
+  waypoint:
+    longitude: -89.545581
+    latitude: -3.483262
+  barometer: 1011.84
+  wind:
+    speed: 8.6
+    direction: 70
+  engine:
+    hours: 1093.3
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: navigation
+- datetime: 2026-03-10T13:59:59.900Z
+  text: ""
+  author: ""
+  position:
+    longitude: -86.5206188
+    latitude: -2.2378051
+    source: GPS
+  heading: 276
+  course: 295
+  speed:
+    sog: 3.7
+  log: 13725.8
+  waypoint:
+    longitude: -89.545581
+    latitude: -3.483262
+  barometer: 1011.88
+  wind:
+    speed: 10.8
+    direction: 41
+  engine:
+    hours: 1093.3
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
