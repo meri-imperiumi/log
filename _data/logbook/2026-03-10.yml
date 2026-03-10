@@ -1052,3 +1052,58 @@
     - ihmis-suski
     - bergie
   category: maintenance
+- datetime: 2026-03-10T18:00:09.996Z
+  text: ""
+  author: ""
+  position:
+    longitude: -86.74078731536865
+    latitude: -2.395626990000407
+    source: GPS
+  heading: 265
+  course: 234
+  speed:
+    sog: 3.3
+  log: 13742.7
+  waypoint:
+    longitude: -89.545581
+    latitude: -3.483262
+  barometer: 1012.57
+  wind:
+    speed: 8.3
+    direction: 15
+  engine:
+    hours: 1094.9
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: navigation
+- datetime: 2026-03-10T18:47:12.102Z
+  text: I can see a sliver of blue sky ahead
+  author: bergie
+  position:
+    longitude: -86.7697069
+    latitude: -2.4173791
+    source: GPS
+  heading: 256
+  course: 233
+  speed:
+    sog: 1.8
+  log: 13745
+  waypoint:
+    longitude: -89.545581
+    latitude: -3.483262
+  barometer: 1011.63
+  wind:
+    speed: 6.5
+    direction: 359
+  engine:
+    hours: 1094.9
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: navigation
+  observations:
+    seaState: 3
+    cloudCoverage: 7
