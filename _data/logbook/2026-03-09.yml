@@ -2497,3 +2497,59 @@
     - ihmis-suski
     - bergie
   category: maintenance
+- datetime: 2026-03-09T23:00:54.201Z
+  text: Suski on watch
+  author: ihmis-suski
+  position:
+    longitude: -85.5588101
+    latitude: -1.6624941
+    source: GPS
+  heading: 248
+  course: 250
+  speed:
+    sog: 4.7
+  log: 13657.2
+  waypoint:
+    longitude: -89.545581
+    latitude: -3.483262
+  barometer: 1008.52
+  wind:
+    speed: 2.8
+    direction: 52
+  engine:
+    hours: 1085
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: navigation
+  observations:
+    seaState: 2
+    cloudCoverage: 8
+    visibility: 7
+- datetime: 2026-03-09T23:46:54.201Z
+  text: Bilge pumped
+  author: ihmis-suski
+  position:
+    longitude: -85.615427
+    latitude: -1.6857516
+    source: GPS
+  heading: 246
+  course: 246
+  speed:
+    sog: 5.3
+  log: 13660.9
+  waypoint:
+    longitude: -89.545581
+    latitude: -3.483262
+  barometer: 1009.05
+  wind:
+    speed: 2.7
+    direction: 68
+  engine:
+    hours: 1085.8
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: maintenance
