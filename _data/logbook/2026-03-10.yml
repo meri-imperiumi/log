@@ -232,3 +232,86 @@
   crewNames:
     - ihmis-suski
     - bergie
+  category: navigation
+- datetime: 2026-03-10T05:00:55.400Z
+  text: Bergie on watch. Rain
+  author: bergie
+  position:
+    longitude: -85.9813124
+    latitude: -1.8600681
+    source: GPS
+  heading: 236
+  course: 237
+  speed:
+    sog: 4.8
+  log: 13685.3
+  waypoint:
+    longitude: -89.545581
+    latitude: -3.483262
+  barometer: 1010.82
+  wind:
+    speed: 13.5
+    direction: 23
+  engine:
+    hours: 1090.9
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: navigation
+  observations:
+    seaState: 2
+    cloudCoverage: 8
+    visibility: 7
+- datetime: 2026-03-10T05:51:54.400Z
+  text: Pumped the bilge
+  author: bergie
+  position:
+    longitude: -86.0338946
+    latitude: -1.8995749
+    source: GPS
+  heading: 251
+  course: 252
+  speed:
+    sog: 4.6
+  log: 13689.3
+  waypoint:
+    longitude: -89.545581
+    latitude: -3.483262
+  barometer: 1010.2
+  wind:
+    speed: 11.8
+    direction: 52
+  engine:
+    hours: 1091.7
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: maintenance
+- datetime: 2026-03-10T05:58:39.400Z
+  text: Motor stopped, sailing with Main (1st reef), Genoa 1
+  author: ""
+  position:
+    longitude: -86.0405278
+    latitude: -1.9030796
+    source: GPS
+  heading: 261
+  course: 239
+  speed:
+    sog: 3.1
+  log: 13689.7
+  waypoint:
+    longitude: -89.545581
+    latitude: -3.483262
+  barometer: 1010.24
+  wind:
+    speed: 12.4
+    direction: 52
+  engine:
+    hours: 1091.9
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: navigation
