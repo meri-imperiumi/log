@@ -997,8 +997,8 @@
     - bergie
   category: navigation
 - datetime: 2026-03-10T17:00:04.998Z
-  text: ""
-  author: ""
+  text: Bergie on watch
+  author: bergie
   position:
     longitude: -86.6984366
     latitude: -2.3663973
@@ -1021,3 +1021,34 @@
   crewNames:
     - ihmis-suski
     - bergie
+  category: navigation
+  observations:
+    seaState: 3
+    cloudCoverage: 8
+    visibility: 6
+- datetime: 2026-03-10T17:07:04.998Z
+  text: The starboard aftmost window has a slight leak
+  author: bergie
+  position:
+    longitude: -86.7028964
+    latitude: -2.3723435
+    source: GPS
+  heading: 238
+  course: 220
+  speed:
+    sog: 3.8
+  log: 13740
+  waypoint:
+    longitude: -89.545581
+    latitude: -3.483262
+  barometer: 1012.75
+  wind:
+    speed: 9.3
+    direction: 0
+  engine:
+    hours: 1094.9
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: maintenance
