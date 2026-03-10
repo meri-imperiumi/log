@@ -865,3 +865,159 @@
   crewNames:
     - ihmis-suski
     - bergie
+  category: navigation
+- datetime: 2026-03-10T16:10:06.003Z
+  text: Motor stopped, sailing with Main (1st reef), Genoa 1 (20% furled)
+  author: ""
+  position:
+    longitude: -86.6571366
+    latitude: -2.3153731
+    source: GPS
+  heading: 242
+  course: 226
+  speed:
+    sog: 5.5
+  log: 13735.5
+  waypoint:
+    longitude: -89.545581
+    latitude: -3.483262
+  barometer: 1013.31
+  wind:
+    speed: 13.5
+    direction: 347
+  engine:
+    hours: 1094.9
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: navigation
+- datetime: 2026-03-10T16:14:00.998Z
+  text: Autopilot deactivated. Starbuck on
+  author: ihmis-suski
+  position:
+    longitude: -86.66163914998373
+    latitude: -2.3189723332722982
+    source: GPS
+  heading: 248
+  course: 238
+  speed:
+    sog: 4.8
+  log: 13735.9
+  waypoint:
+    longitude: -89.545581
+    latitude: -3.483262
+  barometer: 1013.09
+  wind:
+    speed: 14.2
+    direction: 353
+  engine:
+    hours: 1094.9
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: navigation
+- datetime: 2026-03-10T16:17:05.996Z
+  text: Bilge pumped, maybe 4 pumps of water
+  author: ihmis-suski
+  position:
+    longitude: -86.6654324
+    latitude: -2.3209266
+    source: GPS
+  heading: 263
+  course: 272
+  speed:
+    sog: 3
+  log: 13736.1
+  waypoint:
+    longitude: -89.545581
+    latitude: -3.483262
+  barometer: 1012.76
+  wind:
+    speed: 18.5
+    direction: 360
+  engine:
+    hours: 1094.9
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: maintenance
+- datetime: 2026-03-10T16:17:32.998Z
+  text: "Sails set: Main (1st reef), Genoa 1 (40% furled) we are out of the rain"
+  author: ihmis-suski
+  position:
+    longitude: -86.6659194
+    latitude: -2.3212293
+    source: GPS
+  heading: 247
+  course: 233
+  speed:
+    sog: 4.9
+  log: 13736.1
+  waypoint:
+    longitude: -89.545581
+    latitude: -3.483262
+  barometer: 1012.86
+  wind:
+    speed: 16.4
+    direction: 360
+  engine:
+    hours: 1094.9
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: navigation
+- datetime: 2026-03-10T16:42:04.998Z
+  text: Shifted ship's time by 1h, now Galapagos time UTC-6
+  author: bergie
+  position:
+    longitude: -86.687096
+    latitude: -2.3472055
+    source: GPS
+  heading: 217
+  course: 213
+  speed:
+    sog: 4.9
+  log: 13738.2
+  waypoint:
+    longitude: -89.545581
+    latitude: -3.483262
+  barometer: 1012.99
+  wind:
+    speed: 14.2
+    direction: 348
+  engine:
+    hours: 1094.9
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: navigation
+- datetime: 2026-03-10T17:00:04.998Z
+  text: ""
+  author: ""
+  position:
+    longitude: -86.6984366
+    latitude: -2.3663973
+    source: GPS
+  heading: 230
+  course: 216
+  speed:
+    sog: 4.1
+  log: 13739.6
+  waypoint:
+    longitude: -89.545581
+    latitude: -3.483262
+  barometer: 1012.81
+  wind:
+    speed: 10.9
+    direction: 360
+  engine:
+    hours: 1094.9
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
