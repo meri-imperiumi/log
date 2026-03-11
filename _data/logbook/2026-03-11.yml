@@ -371,3 +371,55 @@
     seaState: 2
     cloudCoverage: 1
     visibility: 7
+- datetime: 2026-03-11T07:00:43.800Z
+  text: ""
+  author: ""
+  position:
+    longitude: -87.12788
+    latitude: -2.9579699
+    source: GPS
+  heading: 217
+  course: 207
+  speed:
+    sog: 2.5
+  log: 13785.7
+  waypoint:
+    longitude: -89.545581
+    latitude: -3.483262
+  barometer: 1011.13
+  wind:
+    speed: 6.3
+    direction: 93
+  engine:
+    hours: 1100
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: navigation
+- datetime: 2026-03-11T07:36:37.900Z
+  text: Autopilot deactivated, windvane steering
+  author: bergie
+  position:
+    longitude: -87.1413733
+    latitude: -2.9842268
+    source: GPS
+  heading: 205
+  course: 202
+  speed:
+    sog: 2.8
+  log: 13787.5
+  waypoint:
+    longitude: -89.545581
+    latitude: -3.483262
+  barometer: 1010.7
+  wind:
+    speed: 8.5
+    direction: 84
+  engine:
+    hours: 1100
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: navigation
