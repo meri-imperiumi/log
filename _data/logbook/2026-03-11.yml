@@ -423,3 +423,56 @@
     - ihmis-suski
     - bergie
   category: navigation
+- datetime: 2026-03-11T08:00:45.900Z
+  text: "Fishing vessel to the east of us, coming closer. Can see green #9"
+  author: bergie
+  position:
+    longitude: -87.1494883
+    latitude: -3.0049326
+    source: GPS
+  heading: 209
+  course: 200
+  speed:
+    sog: 3.2
+  log: 13788.8
+  waypoint:
+    longitude: -89.545581
+    latitude: -3.483262
+  barometer: 1010.46
+  wind:
+    speed: 10.5
+    direction: 93
+  engine:
+    hours: 1100
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: navigation
+- datetime: 2026-03-11T08:53:50.300Z
+  text: The fishing vessel just passed our bow, quite far away. Looks like their
+    trawl is lit like a string of xmas lights
+  author: bergie
+  position:
+    longitude: -87.1719075
+    latitude: -3.0515751
+    source: GPS
+  heading: 217
+  course: 208
+  speed:
+    sog: 2.7
+  log: 13791.9
+  waypoint:
+    longitude: -89.545581
+    latitude: -3.483262
+  barometer: 1010.25
+  wind:
+    speed: 10
+    direction: 85
+  engine:
+    hours: 1100
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: navigation
