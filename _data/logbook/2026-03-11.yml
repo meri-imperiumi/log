@@ -1,0 +1,57 @@
+- datetime: 2026-03-11T00:00:23.600Z
+  text: Suski on watch
+  author: ihmis-suski
+  position:
+    longitude: -86.9991111
+    latitude: -2.6501848
+    source: GPS
+  heading: 228
+  course: 222
+  speed:
+    sog: 3.9
+  log: 13765.1
+  waypoint:
+    longitude: -89.545581
+    latitude: -3.483262
+  barometer: 1009.21
+  wind:
+    speed: 4.7
+    direction: 74
+  engine:
+    hours: 1098.4
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: navigation
+  observations:
+    seaState: 4
+    cloudCoverage: 7
+    visibility: 7
+- datetime: 2026-03-11T00:28:24.600Z
+  text: "Fishing boat on our starboard side. Only very bright working light
+    visible. #7"
+  author: ihmis-suski
+  position:
+    longitude: -87.0211079
+    latitude: -2.6778851
+    source: GPS
+  heading: 231
+  course: 222
+  speed:
+    sog: 4.2
+  log: 13767.3
+  waypoint:
+    longitude: -89.545581
+    latitude: -3.483262
+  barometer: 1009.61
+  wind:
+    speed: 3
+    direction: 49
+  engine:
+    hours: 1098.9
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: navigation
