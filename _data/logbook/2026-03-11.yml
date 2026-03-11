@@ -662,3 +662,30 @@
   crewNames:
     - ihmis-suski
     - bergie
+  category: navigation
+- datetime: 2026-03-11T14:10:06.400Z
+  text: Suski got a fish! Yellowfin tuna
+  author: bergie
+  position:
+    longitude: -87.3252963
+    latitude: -3.3284043
+    source: GPS
+  heading: 244
+  course: 243
+  speed:
+    sog: 4
+  log: 13811.1
+  waypoint:
+    longitude: -89.545581
+    latitude: -3.483262
+  barometer: 1012.54
+  wind:
+    speed: 11.6
+    direction: 120
+  engine:
+    hours: 1100
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: navigation
