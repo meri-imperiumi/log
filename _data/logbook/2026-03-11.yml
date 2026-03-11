@@ -55,3 +55,133 @@
     - ihmis-suski
     - bergie
   category: navigation
+- datetime: 2026-03-11T01:00:25.600Z
+  text: ""
+  author: ""
+  position:
+    longitude: -87.0470586
+    latitude: -2.7109873
+    source: GPS
+  heading: 227
+  course: 224
+  speed:
+    sog: 5.4
+  log: 13769.8
+  waypoint:
+    longitude: -89.545581
+    latitude: -3.483262
+  barometer: 1009.88
+  wind:
+    speed: 5.6
+    direction: 55
+  engine:
+    hours: 1099.4
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: navigation
+- datetime: 2026-03-11T01:14:25.700Z
+  text: Blink-plancton!
+  author: ihmis-suski
+  position:
+    longitude: -87.0583951
+    latitude: -2.7252145
+    source: GPS
+  heading: 224
+  course: 221
+  speed:
+    sog: 6
+  log: 13770.9
+  waypoint:
+    longitude: -89.545581
+    latitude: -3.483262
+  barometer: 1010.13
+  wind:
+    speed: 6.9
+    direction: 58
+  engine:
+    hours: 1099.7
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: navigation
+- datetime: 2026-03-11T01:32:15.700Z
+  text: Motor stopped, sailing with Main (1st reef), Genoa 1 (40% furled)
+  author: ""
+  position:
+    longitude: -87.0705683
+    latitude: -2.7417328
+    source: GPS
+  heading: 214
+  course: 225
+  speed:
+    sog: 1.7
+  log: 13772.1
+  waypoint:
+    longitude: -89.545581
+    latitude: -3.483262
+  barometer: 1010.26
+  wind:
+    speed: 6.9
+    direction: 85
+  engine:
+    hours: 1100
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: navigation
+- datetime: 2026-03-11T01:38:36.700Z
+  text: "Sails set: Main (1st reef), Genoa 1"
+  author: ""
+  position:
+    longitude: -87.0713316
+    latitude: -2.7449163
+    source: GPS
+  heading: 220
+  course: 187
+  speed:
+    sog: 1.9
+  log: 13772.3
+  waypoint:
+    longitude: -89.545581
+    latitude: -3.483262
+  barometer: 1010.39
+  wind:
+    speed: 5.6
+    direction: 86
+  engine:
+    hours: 1100
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: navigation
+- datetime: 2026-03-11T01:49:28.700Z
+  text: "Second fishing boat behind us. #8"
+  author: ihmis-suski
+  position:
+    longitude: -87.07299933433532
+    latitude: -2.7504470189412435
+    source: GPS
+  heading: 210
+  course: 191
+  speed:
+    sog: 2.8
+  log: 13772.7
+  waypoint:
+    longitude: -89.545581
+    latitude: -3.483262
+  barometer: 1010.57
+  wind:
+    speed: 7
+    direction: 79
+  engine:
+    hours: 1100
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: navigation
