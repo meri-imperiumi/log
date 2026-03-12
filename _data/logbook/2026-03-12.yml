@@ -504,3 +504,56 @@
   crewNames:
     - ihmis-suski
     - bergie
+  category: navigation
+- datetime: 2026-03-12T14:00:16.998Z
+  text: ""
+  author: ""
+  position:
+    longitude: -88.4486286
+    latitude: -4.2518249
+    source: GPS
+  heading: 220
+  course: 223
+  speed:
+    sog: 4.4
+  log: 13899.6
+  waypoint:
+    longitude: -89.545581
+    latitude: -3.483262
+  barometer: 1012.27
+  wind:
+    speed: 9.2
+    direction: 117
+  engine:
+    hours: 1100
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: navigation
+- datetime: 2026-03-12T14:04:16.998Z
+  text: Dolphins!
+  author: ihmis-suski
+  position:
+    longitude: -88.451939
+    latitude: -4.2552594
+    source: GPS
+  heading: 227
+  course: 241
+  speed:
+    sog: 4.5
+  log: 13899.9
+  waypoint:
+    longitude: -89.545581
+    latitude: -3.483262
+  barometer: 1012.37
+  wind:
+    speed: 10.1
+    direction: 109
+  engine:
+    hours: 1100
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: navigation
