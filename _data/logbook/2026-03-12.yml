@@ -717,3 +717,55 @@
     seaState: 3
     cloudCoverage: 2
     visibility: 7
+- datetime: 2026-03-12T19:00:29.497Z
+  text: ""
+  author: ""
+  position:
+    longitude: -88.6990163
+    latitude: -4.4644725
+    source: GPS
+  heading: 221
+  course: 231
+  speed:
+    sog: 3.2
+  log: 13919.5
+  waypoint:
+    longitude: -89.545581
+    latitude: -3.483262
+  barometer: 1011.18
+  wind:
+    speed: 9.4
+    direction: 115
+  engine:
+    hours: 1100
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: navigation
+- datetime: 2026-03-12T19:40:30.502Z
+  text: Watermaker 239ppm
+  author: bergie
+  position:
+    longitude: -88.7321398
+    latitude: -4.4825559
+    source: GPS
+  heading: 233
+  course: 245
+  speed:
+    sog: 3.4
+  log: 13921.8
+  waypoint:
+    longitude: -89.545581
+    latitude: -3.483262
+  barometer: 1010.51
+  wind:
+    speed: 10.2
+    direction: 121
+  engine:
+    hours: 1100
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: maintenance
