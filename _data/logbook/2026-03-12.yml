@@ -54,3 +54,55 @@
     - ihmis-suski
     - bergie
   category: navigation
+- datetime: 2026-03-12T01:00:38.200Z
+  text: ""
+  author: ""
+  position:
+    longitude: -87.8419053
+    latitude: -3.7913085
+    source: GPS
+  heading: 233
+  course: 237
+  speed:
+    sog: 2.7
+  log: 13853.1
+  waypoint:
+    longitude: -89.545581
+    latitude: -3.483262
+  barometer: 1010.73
+  wind:
+    speed: 9
+    direction: 121
+  engine:
+    hours: 1100
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: navigation
+- datetime: 2026-03-12T01:21:39.200Z
+  text: "Sails set: Main (1st reef), Genoa 1 only starry sky ahead"
+  author: ihmis-suski
+  position:
+    longitude: -87.85530548095703
+    latitude: -3.7994890213012695
+    source: GPS
+  heading: 245
+  course: 251
+  speed:
+    sog: 3.4
+  log: 13854
+  waypoint:
+    longitude: -89.545581
+    latitude: -3.483262
+  barometer: 1010.95
+  wind:
+    speed: 9.1
+    direction: 129
+  engine:
+    hours: 1100
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: navigation
