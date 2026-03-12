@@ -236,3 +236,56 @@
   crewNames:
     - ihmis-suski
     - bergie
+  category: navigation
+- datetime: 2026-03-12T05:00:51.299Z
+  text: ""
+  author: ""
+  position:
+    longitude: -88.03865199883779
+    latitude: -3.9079455057779953
+    source: GPS
+  heading: 245
+  course: 235
+  speed:
+    sog: 3.4
+  log: 13866.9
+  waypoint:
+    longitude: -89.545581
+    latitude: -3.483262
+  barometer: 1012.61
+  wind:
+    speed: 10.6
+    direction: 134
+  engine:
+    hours: 1100
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: navigation
+- datetime: 2026-03-12T05:49:53.699Z
+  text: Suski adjusted the course a bit higher due to a wind shift
+  author: bergie
+  position:
+    longitude: -88.0858776
+    latitude: -3.9247553
+    source: GPS
+  heading: 245
+  course: 254
+  speed:
+    sog: 3.1
+  log: 13870
+  waypoint:
+    longitude: -89.545581
+    latitude: -3.483262
+  barometer: 1012.2
+  wind:
+    speed: 7.6
+    direction: 125
+  engine:
+    hours: 1100
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: navigation
