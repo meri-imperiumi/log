@@ -505,3 +505,57 @@
   crewNames:
     - ihmis-suski
     - bergie
+  category: navigation
+- datetime: 2026-03-13T15:00:19.500Z
+  text: ""
+  author: ""
+  position:
+    longitude: -89.7122343
+    latitude: -5.3600488
+    source: GPS
+  heading: 235
+  course: 237
+  speed:
+    sog: 5.5
+  log: 14001.6
+  waypoint:
+    longitude: -138.781641
+    latitude: -9.802193
+  barometer: 1012.87
+  wind:
+    speed: 18.5
+    direction: 122
+  engine:
+    hours: 1100
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: navigation
+- datetime: 2026-03-13T15:24:14.899Z
+  text: "Sails set: Main, Genoa 1 (30% furled) wind keeps hiking up, so just in
+    case it keeps doing it, we are good for it."
+  author: ihmis-suski
+  position:
+    longitude: -89.7436033
+    latitude: -5.3799451
+    source: GPS
+  heading: 225
+  course: 226
+  speed:
+    sog: 5.2
+  log: 14003.9
+  waypoint:
+    longitude: -138.774442
+    latitude: -9.811499
+  barometer: 1012.8
+  wind:
+    speed: 18.7
+    direction: 111
+  engine:
+    hours: 1100
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: navigation
