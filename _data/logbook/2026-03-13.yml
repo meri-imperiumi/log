@@ -612,7 +612,7 @@
     - bergie
   category: navigation
 - datetime: 2026-03-13T17:35:28.000Z
-  text: Heading towards Marquesas
+  text: Heading towards Marquesas. ETA says 24 days
   author: bergie
   position:
     longitude: -89.9083553
@@ -689,3 +689,33 @@
     - ihmis-suski
     - bergie
   category: maintenance
+- datetime: 2026-03-13T18:00:28.000Z
+  text: Bergie on watch
+  author: bergie
+  position:
+    longitude: -89.9460624
+    latitude: -5.4704508
+    source: GPS
+  heading: 258
+  course: 258
+  speed:
+    sog: 4.5
+  log: 14017.5
+  waypoint:
+    longitude: -138.774442
+    latitude: -9.811499
+  barometer: 1011.95
+  wind:
+    speed: 15
+    direction: 120
+  engine:
+    hours: 1100
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: navigation
+  observations:
+    seaState: 3
+    cloudCoverage: 3
+    visibility: 7
