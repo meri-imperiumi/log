@@ -719,3 +719,187 @@
     seaState: 3
     cloudCoverage: 3
     visibility: 7
+- datetime: 2026-03-13T19:00:31.001Z
+  text: ""
+  author: ""
+  position:
+    longitude: -90.0372236
+    latitude: -5.4835209
+    source: GPS
+  heading: 257
+  course: 249
+  speed:
+    sog: 4.7
+  log: 14023
+  waypoint:
+    longitude: -138.774442
+    latitude: -9.811499
+  barometer: 1010.88
+  wind:
+    speed: 17.2
+    direction: 135
+  engine:
+    hours: 1100
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: navigation
+- datetime: 2026-03-13T19:08:31.001Z
+  text: There's a squall ahead. Need to monitor how it moves
+  author: bergie
+  position:
+    longitude: -90.0497085
+    latitude: -5.4847693
+    source: GPS
+  heading: 249
+  course: 240
+  speed:
+    sog: 5.2
+  log: 14023.8
+  waypoint:
+    longitude: -138.774442
+    latitude: -9.811499
+  barometer: 1010.7
+  wind:
+    speed: 16.3
+    direction: 120
+  engine:
+    hours: 1100
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: navigation
+- datetime: 2026-03-13T19:08:31.001Z
+  text: There's a squall ahead. Need to monitor how it moves
+  author: bergie
+  position:
+    longitude: -90.0497085
+    latitude: -5.4847693
+    source: GPS
+  heading: 249
+  course: 240
+  speed:
+    sog: 5.2
+  log: 14023.8
+  waypoint:
+    longitude: -138.774442
+    latitude: -9.811499
+  barometer: 1010.7
+  wind:
+    speed: 16.3
+    direction: 120
+  engine:
+    hours: 1100
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: navigation
+- datetime: 2026-03-13T19:25:32.102Z
+  text: Bilge alarm and pumped the bilge. 12 pumps
+  author: bergie
+  position:
+    longitude: -90.0745593
+    latitude: -5.4892541
+    source: GPS
+  heading: 265
+  course: 250
+  speed:
+    sog: 5
+  log: 14025.3
+  waypoint:
+    longitude: -138.774442
+    latitude: -9.811499
+  barometer: 1010.45
+  wind:
+    speed: 17.1
+    direction: 131
+  engine:
+    hours: 1100
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: maintenance
+- datetime: 2026-03-13T19:27:46.099Z
+  text: "Sails set: Main (1st reef), Genoa 1 (30% furled)"
+  author: bergie
+  position:
+    longitude: -90.0777724
+    latitude: -5.489297
+    source: GPS
+  heading: 274
+  course: 256
+  speed:
+    sog: 4.7
+  log: 14025.5
+  waypoint:
+    longitude: -138.774442
+    latitude: -9.811499
+  barometer: 1010.45
+  wind:
+    speed: 16.4
+    direction: 138
+  engine:
+    hours: 1100
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: navigation
+  observations:
+    cloudCoverage: 5
+- datetime: 2026-03-13T19:35:32.102Z
+  text: Stopped watermaker, 254ppm
+  author: bergie
+  position:
+    longitude: -90.0884911
+    latitude: -5.4904371
+    source: GPS
+  heading: 251
+  course: 246
+  speed:
+    sog: 5.5
+  log: 14026.1
+  waypoint:
+    longitude: -138.774442
+    latitude: -9.811499
+  barometer: 1010.24
+  wind:
+    speed: 18
+    direction: 124
+  engine:
+    hours: 1100
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: maintenance
+- datetime: 2026-03-13T19:38:11.097Z
+  text: "Sails set: Main (1st reef), Genoa 1 (40% furled)"
+  author: ""
+  position:
+    longitude: -90.0922263
+    latitude: -5.4909933
+    source: GPS
+  heading: 261
+  course: 257
+  speed:
+    sog: 5.1
+  log: 14026.4
+  waypoint:
+    longitude: -138.774442
+    latitude: -9.811499
+  barometer: 1010.19
+  wind:
+    speed: 17
+    direction: 127
+  engine:
+    hours: 1100
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: navigation
