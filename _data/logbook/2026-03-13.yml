@@ -105,3 +105,83 @@
   crewNames:
     - ihmis-suski
     - bergie
+  category: navigation
+- datetime: 2026-03-13T04:00:49.800Z
+  text: ""
+  author: ""
+  position:
+    longitude: -89.0915915
+    latitude: -4.85732
+    source: GPS
+  heading: 211
+  course: 223
+  speed:
+    sog: 2.1
+  log: 13953.3
+  waypoint:
+    longitude: -89.545581
+    latitude: -3.483262
+  barometer: 1012.82
+  wind:
+    speed: 9.1
+    direction: 94
+  engine:
+    hours: 1100
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: navigation
+- datetime: 2026-03-13T04:30:51.200Z
+  text: Very faint white light on our port side
+  author: ihmis-suski
+  position:
+    longitude: -89.11421783765157
+    latitude: -4.88362185160319
+    source: GPS
+  heading: 222
+  course: 210
+  speed:
+    sog: 3.4
+  log: 13955.3
+  waypoint:
+    longitude: -89.545581
+    latitude: -3.483262
+  barometer: 1012.79
+  wind:
+    speed: 10.8
+    direction: 110
+  engine:
+    hours: 1100
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: navigation
+- datetime: 2026-03-13T04:48:53.200Z
+  text: "Definitely a fishing boat. Because boat with random lights with no
+    AIS  and from time to time we get static on channel 16 #10"
+  author: ihmis-suski
+  position:
+    longitude: -89.1288625
+    latitude: -4.896046
+    source: GPS
+  heading: 236
+  course: 236
+  speed:
+    sog: 3.9
+  log: 13956.5
+  waypoint:
+    longitude: -89.545581
+    latitude: -3.483262
+  barometer: 1012.91
+  wind:
+    speed: 9.5
+    direction: 125
+  engine:
+    hours: 1100
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: navigation
