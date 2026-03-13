@@ -397,3 +397,55 @@
   crewNames:
     - ihmis-suski
     - bergie
+  category: navigation
+- datetime: 2026-03-13T11:34:11.398Z
+  text: Our night guest just left
+  author: bergie
+  position:
+    longitude: -89.4883843
+    latitude: -5.1768854
+    source: GPS
+  heading: 214
+  course: 205
+  speed:
+    sog: 4.6
+  log: 13984.1
+  waypoint:
+    longitude: -138.781641
+    latitude: -9.802193
+  barometer: 1010.64
+  wind:
+    speed: 15.1
+    direction: 104
+  engine:
+    hours: 1100
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: navigation
+- datetime: 2026-03-13T12:00:13.401Z
+  text: ""
+  author: ""
+  position:
+    longitude: -89.5117903
+    latitude: -5.2020623
+    source: GPS
+  heading: 226
+  course: 227
+  speed:
+    sog: 4.4
+  log: 13986.2
+  waypoint:
+    longitude: -138.781641
+    latitude: -9.802193
+  barometer: 1010.81
+  wind:
+    speed: 13.1
+    direction: 118
+  engine:
+    hours: 1100
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
