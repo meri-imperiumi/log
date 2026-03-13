@@ -954,3 +954,57 @@
   crewNames:
     - ihmis-suski
     - bergie
+  category: navigation
+- datetime: 2026-03-13T22:00:39.097Z
+  text: ""
+  author: ""
+  position:
+    longitude: -90.3209433
+    latitude: -5.5087793
+    source: GPS
+  heading: 265
+  course: 271
+  speed:
+    sog: 7.3
+  log: 14040.2
+  waypoint:
+    longitude: -138.774442
+    latitude: -9.811499
+  barometer: 1008.63
+  wind:
+    speed: 21.1
+    direction: 144
+  engine:
+    hours: 1100
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: navigation
+- datetime: 2026-03-13T22:12:39.200Z
+  text: Got a Lost GPS fix alarm from our main unit. It seems the others were
+    still getting a fix. Recovered quite quickly
+  author: bergie
+  position:
+    longitude: -90.3408815
+    latitude: -5.5124681
+    source: GPS
+  heading: 260
+  course: 266
+  speed:
+    sog: 5.9
+  log: 14041.4
+  waypoint:
+    longitude: -139.021002
+    latitude: -9.816712
+  barometer: 1008.62
+  wind:
+    speed: 16.7
+    direction: 126
+  engine:
+    hours: 1100
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: maintenance
