@@ -28,3 +28,29 @@
     seaState: 3
     cloudCoverage: 1
     visibility: 7
+- datetime: 2026-03-13T01:00:43.800Z
+  text: "A juvenile booby on the aft panel. "
+  author: ihmis-suski
+  position:
+    longitude: -88.9625598
+    latitude: -4.7009628
+    source: GPS
+  heading: 216
+  course: 224
+  speed:
+    sog: 3.5
+  log: 13941
+  waypoint:
+    longitude: -89.545581
+    latitude: -3.483262
+  barometer: 1010.47
+  wind:
+    speed: 9.4
+    direction: 119
+  engine:
+    hours: 1100
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: navigation
