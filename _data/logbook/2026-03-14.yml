@@ -110,3 +110,56 @@
     seaState: 4
     cloudCoverage: 0
     visibility: 7
+- datetime: 2026-03-14T04:00:45.299Z
+  text: ""
+  author: ""
+  position:
+    longitude: -90.8910308
+    latitude: -5.5881313
+    source: GPS
+  heading: 268
+  course: 246
+  speed:
+    sog: 5.6
+  log: 14074.8
+  waypoint:
+    longitude: -98.991045
+    latitude: -6.361622
+  barometer: 1012.14
+  wind:
+    speed: 18.3
+    direction: 147
+  engine:
+    hours: 1100
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: navigation
+- datetime: 2026-03-14T04:44:50.300Z
+  text: A wave decided to make a splashy entrance to the cockpit. Luckily backdrop
+    was 2/3 closed
+  author: ihmis-suski
+  position:
+    longitude: -90.9617503
+    latitude: -5.5994354
+    source: GPS
+  heading: 277
+  course: 260
+  speed:
+    sog: 5.8
+  log: 14079.1
+  waypoint:
+    longitude: -98.991045
+    latitude: -6.361622
+  barometer: 1012.32
+  wind:
+    speed: 20.3
+    direction: 144
+  engine:
+    hours: 1100
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: navigation
