@@ -718,3 +718,83 @@
   crewNames:
     - ihmis-suski
     - bergie
+  category: navigation
+- datetime: 2026-03-15T20:00:35.801Z
+  text: There's a squall behind us, but it looks like it will pass our stern quite
+    far
+  author: bergie
+  position:
+    longitude: -94.2139628
+    latitude: -5.9812596
+    source: GPS
+  heading: 257
+  course: 271
+  speed:
+    sog: 4.6
+  log: 14279.2
+  waypoint:
+    longitude: -98.991045
+    latitude: -6.361622
+  barometer: 1009.24
+  wind:
+    speed: 12.7
+    direction: 127
+  engine:
+    hours: 1100
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: navigation
+- datetime: 2026-03-15T20:03:34.796Z
+  text: Watermaker 251ppm
+  author: bergie
+  position:
+    longitude: -94.2173876
+    latitude: -5.9820423
+    source: GPS
+  heading: 266
+  course: 240
+  speed:
+    sog: 4.1
+  log: 14279.4
+  waypoint:
+    longitude: -98.991045
+    latitude: -6.361622
+  barometer: 1009.16
+  wind:
+    speed: 11.3
+    direction: 125
+  engine:
+    hours: 1100
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: maintenance
+- datetime: 2026-03-15T20:41:12.902Z
+  text: "Sails set: Main, Genoa 1"
+  author: ""
+  position:
+    longitude: -94.2614948
+    latitude: -5.9915788
+    source: GPS
+  heading: 268
+  course: 255
+  speed:
+    sog: 4.1
+  log: 14282.2
+  waypoint:
+    longitude: -98.991045
+    latitude: -6.361622
+  barometer: 1008.74
+  wind:
+    speed: 14.7
+    direction: 138
+  engine:
+    hours: 1100
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: navigation
