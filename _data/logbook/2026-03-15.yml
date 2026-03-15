@@ -582,3 +582,114 @@
   crewNames:
     - ihmis-suski
     - bergie
+  category: navigation
+- datetime: 2026-03-15T17:50:28.800Z
+  text: Washed bow panel from booby poop
+  author: ihmis-suski
+  position:
+    longitude: -94.06119666894277
+    latitude: -5.933706982930501
+    source: GPS
+  heading: 255
+  course: 255
+  speed:
+    sog: 5
+  log: 14269.6
+  waypoint:
+    longitude: -98.991045
+    latitude: -6.361622
+  barometer: 1010.35
+  wind:
+    speed: 14.1
+    direction: 120
+  engine:
+    hours: 1100
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: navigation
+- datetime: 2026-03-15T18:00:28.800Z
+  text: Bergie on watch
+  author: bergie
+  position:
+    longitude: -94.0734733
+    latitude: -5.9381098
+    source: GPS
+  heading: 244
+  course: 234
+  speed:
+    sog: 5.2
+  log: 14270.4
+  waypoint:
+    longitude: -98.991045
+    latitude: -6.361622
+  barometer: 1010.32
+  wind:
+    speed: 15.5
+    direction: 107
+  engine:
+    hours: 1100
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: navigation
+  observations:
+    seaState: 3
+    cloudCoverage: 3
+    visibility: 7
+- datetime: 2026-03-15T18:04:28.800Z
+  text: Started watermaker. One connector on the power switch had corroded
+    through. Bypassed it. Now circuit turns on saltwaterpump, and the old pump
+    switch activates watermaker
+  author: bergie
+  position:
+    longitude: -94.0783661
+    latitude: -5.9403769
+    source: GPS
+  heading: 256
+  course: 250
+  speed:
+    sog: 5.3
+  log: 14270.7
+  waypoint:
+    longitude: -98.991045
+    latitude: -6.361622
+  barometer: 1010.33
+  wind:
+    speed: 16
+    direction: 123
+  engine:
+    hours: 1100
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: maintenance
+- datetime: 2026-03-15T18:17:29.798Z
+  text: Watermaker 281ppm
+  author: bergie
+  position:
+    longitude: -94.0945695
+    latitude: -5.945438
+    source: GPS
+  heading: 253
+  course: 248
+  speed:
+    sog: 4.9
+  log: 14271.7
+  waypoint:
+    longitude: -98.991045
+    latitude: -6.361622
+  barometer: 1010.3
+  wind:
+    speed: 13.9
+    direction: 111
+  engine:
+    hours: 1100
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: maintenance
