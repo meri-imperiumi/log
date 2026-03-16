@@ -339,3 +339,82 @@
   crewNames:
     - ihmis-suski
     - bergie
+  category: navigation
+- datetime: 2026-03-16T11:00:06.598Z
+  text: ""
+  author: ""
+  position:
+    longitude: -95.2895929
+    latitude: -6.1264403
+    source: GPS
+  heading: 271
+  course: 254
+  speed:
+    sog: 3.9
+  log: 14345
+  waypoint:
+    longitude: -98.991045
+    latitude: -6.361622
+  barometer: 1008.62
+  wind:
+    speed: 11.7
+    direction: 115
+  engine:
+    hours: 1100
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: navigation
+- datetime: 2026-03-16T11:50:08.601Z
+  text: Cleaned bow solar panel
+  author: bergie
+  position:
+    longitude: -95.3440131
+    latitude: -6.1249526
+    source: GPS
+  heading: 275
+  course: 256
+  speed:
+    sog: 4.4
+  log: 14348.2
+  waypoint:
+    longitude: -98.991045
+    latitude: -6.361622
+  barometer: 1008.91
+  wind:
+    speed: 13.5
+    direction: 122
+  engine:
+    hours: 1100
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: navigation
+- datetime: 2026-03-16T11:53:33.600Z
+  text: "Sails set: Main, Genoa 1 (10% furled)"
+  author: ""
+  position:
+    longitude: -95.3480024
+    latitude: -6.1248401
+    source: GPS
+  heading: 271
+  course: 274
+  speed:
+    sog: 3.9
+  log: 14348.5
+  waypoint:
+    longitude: -98.991045
+    latitude: -6.361622
+  barometer: 1008.92
+  wind:
+    speed: 11
+    direction: 107
+  engine:
+    hours: 1100
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: navigation
