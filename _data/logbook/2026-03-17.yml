@@ -235,3 +235,55 @@
   crewNames:
     - ihmis-suski
     - bergie
+  category: navigation
+- datetime: 2026-03-17T09:00:56.998Z
+  text: Quite a few shooting stars tonight
+  author: bergie
+  position:
+    longitude: -96.7648309
+    latitude: -6.235523
+    source: GPS
+  heading: 247
+  course: 249
+  speed:
+    sog: 3.7
+  log: 14434.4
+  waypoint:
+    longitude: -98.991045
+    latitude: -6.361622
+  barometer: 1010.52
+  wind:
+    speed: 12.4
+    direction: 130
+  engine:
+    hours: 1100
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: navigation
+- datetime: 2026-03-17T10:00:00.099Z
+  text: ""
+  author: ""
+  position:
+    longitude: -96.828193
+    latitude: -6.2557978
+    source: GPS
+  heading: 252
+  course: 259
+  speed:
+    sog: 4.2
+  log: 14438.4
+  waypoint:
+    longitude: -98.991045
+    latitude: -6.361622
+  barometer: 1010.02
+  wind:
+    speed: 11.3
+    direction: 123
+  engine:
+    hours: 1100
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
