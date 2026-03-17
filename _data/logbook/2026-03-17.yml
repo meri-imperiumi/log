@@ -577,3 +577,163 @@
   crewNames:
     - ihmis-suski
     - bergie
+  category: navigation
+- datetime: 2026-03-17T17:12:34.598Z
+  text: "Sails set: Main, Genoa 1. Bergie on watch"
+  author: bergie
+  position:
+    longitude: -97.36352418263753
+    latitude: -6.349371655782064
+    source: GPS
+  heading: 246
+  course: 249
+  speed:
+    sog: 3.8
+  log: 14471.3
+  waypoint:
+    longitude: -98.991045
+    latitude: -6.361622
+  barometer: 1012.47
+  wind:
+    speed: 14
+    direction: 108
+  engine:
+    hours: 1100
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: navigation
+  observations:
+    seaState: 3
+    cloudCoverage: 2
+    visibility: 7
+- datetime: 2026-03-17T17:23:17.600Z
+  text: Started watermaker
+  author: bergie
+  position:
+    longitude: -97.3769683
+    latitude: -6.3526798
+    source: GPS
+  heading: 255
+  course: 264
+  speed:
+    sog: 4.9
+  log: 14472.2
+  waypoint:
+    longitude: -98.991045
+    latitude: -6.361622
+  barometer: 1012.32
+  wind:
+    speed: 13.4
+    direction: 106
+  engine:
+    hours: 1100
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: maintenance
+- datetime: 2026-03-17T17:33:17.600Z
+  text: Stopped watermaker, 319ppm
+  author: bergie
+  position:
+    longitude: -97.3904048
+    latitude: -6.3566894
+    source: GPS
+  heading: 239
+  course: 252
+  speed:
+    sog: 4.6
+  log: 14473
+  waypoint:
+    longitude: -98.991045
+    latitude: -6.361622
+  barometer: 1011.94
+  wind:
+    speed: 14.3
+    direction: 94
+  engine:
+    hours: 1100
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: maintenance
+- datetime: 2026-03-17T17:49:20.601Z
+  text: Started watermaker after filter change
+  author: bergie
+  position:
+    longitude: -97.410761
+    latitude: -6.3647123
+    source: GPS
+  heading: 252
+  course: 261
+  speed:
+    sog: 3.3
+  log: 14474.3
+  waypoint:
+    longitude: -98.991045
+    latitude: -6.361622
+  barometer: 1011.95
+  wind:
+    speed: 12.3
+    direction: 108
+  engine:
+    hours: 1100
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: maintenance
+- datetime: 2026-03-17T17:50:20.601Z
+  text: Wing on wing
+  author: bergie
+  position:
+    longitude: -97.4118439
+    latitude: -6.3646971
+    source: GPS
+  heading: 254
+  course: 246
+  speed:
+    sog: 4.7
+  log: 14474.4
+  waypoint:
+    longitude: -98.991045
+    latitude: -6.361622
+  barometer: 1011.94
+  wind:
+    speed: 17.3
+    direction: 107
+  engine:
+    hours: 1100
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: navigation
+- datetime: 2026-03-17T18:00:20.601Z
+  text: ""
+  author: ""
+  position:
+    longitude: -97.4244933
+    latitude: -6.3625331
+    source: GPS
+  heading: 271
+  course: 286
+  speed:
+    sog: 4.9
+  log: 14475.2
+  waypoint:
+    longitude: -98.991045
+    latitude: -6.361622
+  barometer: 1011.86
+  wind:
+    speed: 11.8
+    direction: 107
+  engine:
+    hours: 1100
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
