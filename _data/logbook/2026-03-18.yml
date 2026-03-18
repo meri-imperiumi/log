@@ -503,3 +503,82 @@
   crewNames:
     - ihmis-suski
     - bergie
+  category: navigation
+- datetime: 2026-03-18T16:12:00.998Z
+  text: Ran out of second roll of logbook paper
+  author: ihmis-suski
+  position:
+    longitude: -98.5466678
+    latitude: -6.7701494
+    source: GPS
+  heading: 237
+  course: 246
+  speed:
+    sog: 3.4
+  log: 14550.7
+  waypoint:
+    longitude: -98.78349
+    latitude: -6.955975
+  barometer: 1013.76
+  wind:
+    speed: 10.1
+    direction: 116
+  engine:
+    hours: 1100
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: maintenance
+- datetime: 2026-03-18T16:23:02.003Z
+  text: |
+    Paper found and changed
+  author: ihmis-suski
+  position:
+    longitude: -98.5566011
+    latitude: -6.7745204
+    source: GPS
+  heading: 228
+  course: 245
+  speed:
+    sog: 3.1
+  log: 14551.3
+  waypoint:
+    longitude: -98.78349
+    latitude: -6.955975
+  barometer: 1013.69
+  wind:
+    speed: 9.6
+    direction: 104
+  engine:
+    hours: 1100
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: navigation
+- datetime: 2026-03-18T17:00:03.097Z
+  text: ""
+  author: ""
+  position:
+    longitude: -98.5865325
+    latitude: -6.7925381
+    source: GPS
+  heading: 229
+  course: 224
+  speed:
+    sog: 3.2
+  log: 14553.4
+  waypoint:
+    longitude: -99.635326
+    latitude: -7.49974
+  barometer: 1013.73
+  wind:
+    speed: 10.8
+    direction: 106
+  engine:
+    hours: 1100
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
