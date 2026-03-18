@@ -666,8 +666,11 @@
     - bergie
   category: navigation
 - datetime: 2026-03-18T20:04:12.198Z
-  text: "Norwegian freighter Belita on its way to China passed 4NM behind us.
-    Vessel #11"
+  text: >-
+    Norwegian freighter Belita on its way to China passed 4NM behind us. Vessel
+    #11
+
+    We could see the ship at 8NM
   author: bergie
   position:
     longitude: -98.752371
@@ -711,6 +714,32 @@
   wind:
     speed: 12
     direction: 108
+  engine:
+    hours: 1100
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: navigation
+- datetime: 2026-03-18T22:00:19.302Z
+  text: ""
+  author: ""
+  position:
+    longitude: -98.8514653
+    latitude: -6.9337131
+    source: GPS
+  heading: 218
+  course: 223
+  speed:
+    sog: 4.1
+  log: 14571.4
+  waypoint:
+    longitude: -99.635326
+    latitude: -7.49974
+  barometer: 1009.81
+  wind:
+    speed: 9.5
+    direction: 99
   engine:
     hours: 1100
   vhf: "16"
