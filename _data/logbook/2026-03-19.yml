@@ -343,3 +343,112 @@
   crewNames:
     - ihmis-suski
     - bergie
+  category: navigation
+- datetime: 2026-03-19T12:00:48.099Z
+  text: Suski on watch
+  author: ihmis-suski
+  position:
+    longitude: -99.5334709
+    latitude: -7.4554813
+    source: GPS
+  heading: 226
+  course: 229
+  speed:
+    sog: 4.5
+  log: 14623.3
+  waypoint:
+    longitude: -99.635326
+    latitude: -7.49974
+  barometer: 1011.46
+  wind:
+    speed: 13.8
+    direction: 97
+  engine:
+    hours: 1100
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: navigation
+  observations:
+    seaState: 3
+    cloudCoverage: 4
+    visibility: 7
+- datetime: 2026-03-19T12:15:20.099Z
+  text: "Sails set: Main, Genoa 1 (20% furled)"
+  author: ""
+  position:
+    longitude: -99.5458853
+    latitude: -7.4680589
+    source: GPS
+  heading: 222
+  course: 227
+  speed:
+    sog: 4
+  log: 14624.3
+  waypoint:
+    longitude: -99.635326
+    latitude: -7.49974
+  barometer: 1011.56
+  wind:
+    speed: 13.9
+    direction: 96
+  engine:
+    hours: 1100
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: navigation
+- datetime: 2026-03-19T12:27:55.100Z
+  text: "Sails set: Main (1st reef), Genoa 1 (20% furled) squall ahead"
+  author: ihmis-suski
+  position:
+    longitude: -99.5548558
+    latitude: -7.4774716
+    source: GPS
+  heading: 213
+  course: 219
+  speed:
+    sog: 4.3
+  log: 14625.1
+  waypoint:
+    longitude: -99.635326
+    latitude: -7.49974
+  barometer: 1011.67
+  wind:
+    speed: 11.9
+    direction: 82
+  engine:
+    hours: 1100
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: navigation
+- datetime: 2026-03-19T12:41:50.099Z
+  text: Started to rain
+  author: ihmis-suski
+  position:
+    longitude: -99.561601
+    latitude: -7.4897321
+    source: GPS
+  heading: 214
+  course: 208
+  speed:
+    sog: 4.7
+  log: 14625.9
+  waypoint:
+    longitude: -99.635326
+    latitude: -7.49974
+  barometer: 1011.78
+  wind:
+    speed: 13.2
+    direction: 96
+  engine:
+    hours: 1100
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: navigation
