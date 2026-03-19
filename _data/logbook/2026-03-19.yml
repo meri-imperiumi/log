@@ -737,3 +737,55 @@
   crewNames:
     - ihmis-suski
     - bergie
+  category: navigation
+- datetime: 2026-03-19T17:28:05.600Z
+  text: Sails on starboard side again.
+  author: ihmis-suski
+  position:
+    longitude: -99.887457
+    latitude: -7.5616224
+    source: GPS
+  heading: 273
+  course: 283
+  speed:
+    sog: 4.3
+  log: 14646.4
+  waypoint:
+    longitude: -105.379199
+    latitude: -7.837642
+  barometer: 1013.77
+  wind:
+    speed: 16.7
+    direction: 127
+  engine:
+    hours: 1100
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: navigation
+- datetime: 2026-03-19T18:00:06.598Z
+  text: ""
+  author: ""
+  position:
+    longitude: -99.924525
+    latitude: -7.5653284
+    source: GPS
+  heading: 260
+  course: 272
+  speed:
+    sog: 4
+  log: 14648.7
+  waypoint:
+    longitude: -105.379199
+    latitude: -7.837642
+  barometer: 1013.66
+  wind:
+    speed: 15.3
+    direction: 123
+  engine:
+    hours: 1100
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
