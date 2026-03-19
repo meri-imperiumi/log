@@ -976,3 +976,55 @@
   crewNames:
     - ihmis-suski
     - bergie
+  category: navigation
+- datetime: 2026-03-19T22:06:18.700Z
+  text: We have a lot of gooseneck barnacles, at least on the rudder
+  author: bergie
+  position:
+    longitude: -100.2329703
+    latitude: -7.6188615
+    source: GPS
+  heading: 271
+  course: 257
+  speed:
+    sog: 4.7
+  log: 14667.7
+  waypoint:
+    longitude: -105.379199
+    latitude: -7.837642
+  barometer: 1010.86
+  wind:
+    speed: 18.6
+    direction: 117
+  engine:
+    hours: 1100
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: navigation
+- datetime: 2026-03-19T23:00:20.697Z
+  text: ""
+  author: ""
+  position:
+    longitude: -100.30407981872558
+    latitude: -7.623984146118165
+    source: GPS
+  heading: 270
+  course: 270
+  speed:
+    sog: 5.4
+  log: 14671.9
+  waypoint:
+    longitude: -105.379199
+    latitude: -7.837642
+  barometer: 1010.79
+  wind:
+    speed: 17
+    direction: 110
+  engine:
+    hours: 1100
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
