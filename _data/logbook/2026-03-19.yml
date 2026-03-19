@@ -1,6 +1,6 @@
 - datetime: 2026-03-19T00:00:17.400Z
-  text: ""
-  author: ""
+  text: Suski on watch
+  author: ihmis-suski
   position:
     longitude: -98.95179799397786
     latitude: -7.00038183334594
@@ -17,6 +17,62 @@
   wind:
     speed: 11.2
     direction: 88
+  engine:
+    hours: 1100
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: navigation
+  observations:
+    seaState: 3
+    cloudCoverage: 2
+    visibility: 7
+- datetime: 2026-03-19T00:48:17.400Z
+  text: Lil G spotted in kitchen garden
+  author: ihmis-suski
+  position:
+    longitude: -98.9846895
+    latitude: -7.0313928
+    source: GPS
+  heading: 207
+  course: 231
+  speed:
+    sog: 3.3
+  log: 14581.4
+  waypoint:
+    longitude: -99.635326
+    latitude: -7.49974
+  barometer: 1010.71
+  wind:
+    speed: 9.3
+    direction: 105
+  engine:
+    hours: 1100
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: navigation
+- datetime: 2026-03-19T01:00:18.400Z
+  text: ""
+  author: ""
+  position:
+    longitude: -98.9931353
+    latitude: -7.0394386
+    source: GPS
+  heading: 210
+  course: 220
+  speed:
+    sog: 3.8
+  log: 14582.1
+  waypoint:
+    longitude: -99.635326
+    latitude: -7.49974
+  barometer: 1010.94
+  wind:
+    speed: 11.8
+    direction: 106
   engine:
     hours: 1100
   vhf: "16"
