@@ -25,8 +25,8 @@
     - bergie
   category: navigation
 - datetime: 2026-03-20T01:00:21.800Z
-  text: ""
-  author: ""
+  text: Suski on watch
+  author: ihmis-suski
   position:
     longitude: -100.4523104
     latitude: -7.63935
@@ -43,6 +43,62 @@
   wind:
     speed: 18.5
     direction: 135
+  engine:
+    hours: 1100
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: navigation
+  observations:
+    seaState: 4
+    cloudCoverage: 7
+    visibility: 7
+- datetime: 2026-03-20T01:50:48.800Z
+  text: "Sails set: Main (1st reef), Staysail"
+  author: ""
+  position:
+    longitude: -100.5181544
+    latitude: -7.6442618
+    source: GPS
+  heading: 274
+  course: 267
+  speed:
+    sog: 6.5
+  log: 14684.9
+  waypoint:
+    longitude: -105.379199
+    latitude: -7.837642
+  barometer: 1011.73
+  wind:
+    speed: 18.4
+    direction: 126
+  engine:
+    hours: 1100
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: navigation
+- datetime: 2026-03-20T02:00:23.800Z
+  text: ""
+  author: ""
+  position:
+    longitude: -100.5312143
+    latitude: -7.6480126
+    source: GPS
+  heading: 277
+  course: 271
+  speed:
+    sog: 4.1
+  log: 14685.8
+  waypoint:
+    longitude: -105.379199
+    latitude: -7.837642
+  barometer: 1011.72
+  wind:
+    speed: 22.1
+    direction: 121
   engine:
     hours: 1100
   vhf: "16"
