@@ -263,3 +263,81 @@
     - ihmis-suski
     - bergie
   category: navigation
+- datetime: 2026-03-20T06:00:34.899Z
+  text: ""
+  author: ""
+  position:
+    longitude: -100.8167851
+    latitude: -7.6502164
+    source: GPS
+  heading: 250
+  course: 225
+  speed:
+    sog: 4.9
+  log: 14703.2
+  waypoint:
+    longitude: -105.379199
+    latitude: -7.837642
+  barometer: 1012.85
+  wind:
+    speed: 19.8
+    direction: 116
+  engine:
+    hours: 1100
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: navigation
+- datetime: 2026-03-20T06:12:35.900Z
+  text: Wing on wing
+  author: ihmis-suski
+  position:
+    longitude: -100.83125584920248
+    latitude: -7.653837013244629
+    source: GPS
+  heading: 264
+  course: 263
+  speed:
+    sog: 4.2
+  log: 14704.1
+  waypoint:
+    longitude: -105.379199
+    latitude: -7.837642
+  barometer: 1012.67
+  wind:
+    speed: 18.2
+    direction: 115
+  engine:
+    hours: 1100
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: navigation
+- datetime: 2026-03-20T06:54:38.000Z
+  text: Back on port tack
+  author: bergie
+  position:
+    longitude: -100.8825556
+    latitude: -7.6480818
+    source: GPS
+  heading: 262
+  course: 271
+  speed:
+    sog: 5.5
+  log: 14707.2
+  waypoint:
+    longitude: -105.379199
+    latitude: -7.837642
+  barometer: 1012.4
+  wind:
+    speed: 16.9
+    direction: 120
+  engine:
+    hours: 1100
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: navigation
