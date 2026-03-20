@@ -81,8 +81,8 @@
     - bergie
   category: navigation
 - datetime: 2026-03-20T02:00:23.800Z
-  text: ""
-  author: ""
+  text: Wing on wing
+  author: ihmis-suski
   position:
     longitude: -100.5312143
     latitude: -7.6480126
@@ -99,6 +99,59 @@
   wind:
     speed: 22.1
     direction: 121
+  engine:
+    hours: 1100
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: navigation
+- datetime: 2026-03-20T02:46:26.900Z
+  text: Backdrop prevented a flying fish from making a grand entrance straight
+    inside. The night is very dark. No stars, no moon, only blackness.
+  author: ihmis-suski
+  position:
+    longitude: -100.58530197143554
+    latitude: -7.643675994873048
+    source: GPS
+  heading: 292
+  course: 283
+  speed:
+    sog: 4.3
+  log: 14689
+  waypoint:
+    longitude: -105.379199
+    latitude: -7.837642
+  barometer: 1012.41
+  wind:
+    speed: 15.7
+    direction: 131
+  engine:
+    hours: 1100
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: navigation
+- datetime: 2026-03-20T03:00:25.900Z
+  text: ""
+  author: ""
+  position:
+    longitude: -100.602861
+    latitude: -7.645567
+    source: GPS
+  heading: 266
+  course: 275
+  speed:
+    sog: 4
+  log: 14690.1
+  waypoint:
+    longitude: -105.379199
+    latitude: -7.837642
+  barometer: 1012.55
+  wind:
+    speed: 19.8
+    direction: 114
   engine:
     hours: 1100
   vhf: "16"
