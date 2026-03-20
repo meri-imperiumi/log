@@ -184,3 +184,30 @@
   crewNames:
     - ihmis-suski
     - bergie
+  category: navigation
+- datetime: 2026-03-20T04:18:28.899Z
+  text: Back to starry night sky.
+  author: ihmis-suski
+  position:
+    longitude: -100.694831
+    latitude: -7.6402456
+    source: GPS
+  heading: 296
+  course: 262
+  speed:
+    sog: 3.4
+  log: 14695.6
+  waypoint:
+    longitude: -105.379199
+    latitude: -7.837642
+  barometer: 1013.02
+  wind:
+    speed: 15.2
+    direction: 138
+  engine:
+    hours: 1100
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: navigation
