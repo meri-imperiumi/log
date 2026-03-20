@@ -371,3 +371,55 @@
     seaState: 4
     cloudCoverage: 5
     visibility: 7
+- datetime: 2026-03-20T08:00:39.001Z
+  text: ""
+  author: ""
+  position:
+    longitude: -100.96713
+    latitude: -7.6847714
+    source: GPS
+  heading: 254
+  course: 235
+  speed:
+    sog: 5.5
+  log: 14712.8
+  waypoint:
+    longitude: -105.379199
+    latitude: -7.837642
+  barometer: 1011.79
+  wind:
+    speed: 22.9
+    direction: 126
+  engine:
+    hours: 1100
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: navigation
+- datetime: 2026-03-20T08:55:44.000Z
+  text: Wing on wing
+  author: bergie
+  position:
+    longitude: -101.033393
+    latitude: -7.7172931
+    source: GPS
+  heading: 276
+  course: 248
+  speed:
+    sog: 3.9
+  log: 14717.2
+  waypoint:
+    longitude: -105.379199
+    latitude: -7.837642
+  barometer: 1011.23
+  wind:
+    speed: 19.3
+    direction: 127
+  engine:
+    hours: 1100
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: navigation
