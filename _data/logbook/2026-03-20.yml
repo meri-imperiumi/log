@@ -211,3 +211,55 @@
     - ihmis-suski
     - bergie
   category: navigation
+- datetime: 2026-03-20T05:00:32.899Z
+  text: ""
+  author: ""
+  position:
+    longitude: -100.7441153
+    latitude: -7.6317643
+    source: GPS
+  heading: 256
+  course: 250
+  speed:
+    sog: 6
+  log: 14698.6
+  waypoint:
+    longitude: -105.379199
+    latitude: -7.837642
+  barometer: 1012.94
+  wind:
+    speed: 24.6
+    direction: 118
+  engine:
+    hours: 1100
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: navigation
+- datetime: 2026-03-20T05:02:32.899Z
+  text: Sails back on starboard side
+  author: ihmis-suski
+  position:
+    longitude: -100.74685751597086
+    latitude: -7.632499821980794
+    source: GPS
+  heading: 264
+  course: 258
+  speed:
+    sog: 5.4
+  log: 14698.8
+  waypoint:
+    longitude: -105.379199
+    latitude: -7.837642
+  barometer: 1012.94
+  wind:
+    speed: 20.9
+    direction: 122
+  engine:
+    hours: 1100
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: navigation
