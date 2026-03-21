@@ -556,3 +556,81 @@
   crewNames:
     - ihmis-suski
     - bergie
+  category: navigation
+- datetime: 2026-03-21T18:37:10.297Z
+  text: Removed 15 flying fish from deck and scuppers
+  author: bergie
+  position:
+    longitude: -103.5016461
+    latitude: -8.3554201
+    source: GPS
+  heading: 237
+  course: 230
+  speed:
+    sog: 4.1
+  log: 14874.3
+  waypoint:
+    longitude: -103.824016
+    latitude: -8.495808
+  barometer: 1011.54
+  wind:
+    speed: 16.2
+    direction: 107
+  engine:
+    hours: 1100.3
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: maintenance
+- datetime: 2026-03-21T18:52:11.302Z
+  text: Started watermaker
+  author: bergie
+  position:
+    longitude: -103.5150148
+    latitude: -8.3666113
+    source: GPS
+  heading: 243
+  course: 259
+  speed:
+    sog: 5.1
+  log: 14875.3
+  waypoint:
+    longitude: -103.824016
+    latitude: -8.495808
+  barometer: 1011.35
+  wind:
+    speed: 14.7
+    direction: 100
+  engine:
+    hours: 1100.3
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: maintenance
+- datetime: 2026-03-21T19:00:10.297Z
+  text: ""
+  author: ""
+  position:
+    longitude: -103.5221523
+    latitude: -8.3720886
+    source: GPS
+  heading: 250
+  course: 216
+  speed:
+    sog: 5
+  log: 14875.9
+  waypoint:
+    longitude: -103.824016
+    latitude: -8.495808
+  barometer: 1011.25
+  wind:
+    speed: 19.4
+    direction: 125
+  engine:
+    hours: 1100.3
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
