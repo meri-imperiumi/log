@@ -317,3 +317,57 @@
   crewNames:
     - ihmis-suski
     - bergie
+  category: navigation
+- datetime: 2026-03-21T11:00:48.099Z
+  text: ""
+  author: ""
+  position:
+    longitude: -102.9785561
+    latitude: -8.1101119
+    source: GPS
+  heading: 262
+  course: 261
+  speed:
+    sog: 4
+  log: 14839.6
+  waypoint:
+    longitude: -104.40324
+    latitude: -8.45748
+  barometer: 1009.93
+  wind:
+    speed: 14.4
+    direction: 120
+  engine:
+    hours: 1100.3
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: navigation
+- datetime: 2026-03-21T11:48:50.099Z
+  text: "Freighter Nord Anthem passed us 8NM behind, barely visible. Heading to
+    Argentina. Vessel #12"
+  author: bergie
+  position:
+    longitude: -103.0324418
+    latitude: -8.1339538
+    source: GPS
+  heading: 261
+  course: 254
+  speed:
+    sog: 5
+  log: 14843.1
+  waypoint:
+    longitude: -104.40324
+    latitude: -8.45748
+  barometer: 1010.16
+  wind:
+    speed: 18.1
+    direction: 130
+  engine:
+    hours: 1100.3
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: navigation
