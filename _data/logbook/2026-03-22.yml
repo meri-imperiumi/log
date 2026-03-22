@@ -236,3 +236,55 @@
     seaState: 3
     cloudCoverage: 1
     visibility: 7
+- datetime: 2026-03-22T08:00:44.700Z
+  text: ""
+  author: ""
+  position:
+    longitude: -104.306663
+    latitude: -8.4932693
+    source: GPS
+  heading: 269
+  course: 283
+  speed:
+    sog: 5.1
+  log: 14925.5
+  waypoint:
+    longitude: -110.667505
+    latitude: -8.712223
+  barometer: 1010.06
+  wind:
+    speed: 18.6
+    direction: 107
+  engine:
+    hours: 1100.3
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: navigation
+- datetime: 2026-03-22T08:11:44.700Z
+  text: Halfway! 2060NM behind, 2060NM to go
+  author: bergie
+  position:
+    longitude: -104.3180341
+    latitude: -8.4928739
+    source: GPS
+  heading: 270
+  course: 268
+  speed:
+    sog: 4.3
+  log: 14926.2
+  waypoint:
+    longitude: -110.667505
+    latitude: -8.712223
+  barometer: 1009.88
+  wind:
+    speed: 17.3
+    direction: 123
+  engine:
+    hours: 1100.3
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: navigation
