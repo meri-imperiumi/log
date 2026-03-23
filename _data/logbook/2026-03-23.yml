@@ -687,6 +687,32 @@
     - ihmis-suski
     - bergie
   category: navigation
+- datetime: 2026-03-23T17:51:04.000Z
+  text: Back on course, wing on wing
+  author: bergie
+  position:
+    longitude: -106.2907835
+    latitude: -8.8010995
+    source: GPS
+  heading: 246
+  course: 269
+  speed:
+    sog: 5.2
+  log: 15052.4
+  waypoint:
+    longitude: -110.667505
+    latitude: -8.712223
+  barometer: 1012.68
+  wind:
+    speed: 20
+    direction: 96
+  engine:
+    hours: 1100.3
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: navigation
 - datetime: 2026-03-23T18:00:04.000Z
   text: ""
   author: ""
@@ -706,6 +732,58 @@
   wind:
     speed: 16.5
     direction: 112
+  engine:
+    hours: 1100.3
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: navigation
+- datetime: 2026-03-23T18:27:05.996Z
+  text: Rain
+  author: bergie
+  position:
+    longitude: -106.33255500793457
+    latitude: -8.81151434580485
+    source: GPS
+  heading: 273
+  course: 261
+  speed:
+    sog: 5.1
+  log: 15055
+  waypoint:
+    longitude: -110.667505
+    latitude: -8.712223
+  barometer: 1012.4
+  wind:
+    speed: 18.7
+    direction: 135
+  engine:
+    hours: 1100.3
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: navigation
+- datetime: 2026-03-23T19:00:07.001Z
+  text: ""
+  author: ""
+  position:
+    longitude: -106.3716428
+    latitude: -8.8166036
+    source: GPS
+  heading: 249
+  course: 266
+  speed:
+    sog: 4.3
+  log: 15057.3
+  waypoint:
+    longitude: -110.667505
+    latitude: -8.712223
+  barometer: 1012.09
+  wind:
+    speed: 19.1
+    direction: 95
   engine:
     hours: 1100.3
   vhf: "16"
