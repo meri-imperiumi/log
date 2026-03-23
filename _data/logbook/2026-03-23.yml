@@ -158,3 +158,81 @@
     - ihmis-suski
     - bergie
   category: navigation
+- datetime: 2026-03-23T05:00:28.700Z
+  text: ""
+  author: ""
+  position:
+    longitude: -105.6588598
+    latitude: -8.6451266
+    source: GPS
+  heading: 212
+  course: 209
+  speed:
+    sog: 3.9
+  log: 15009.4
+  waypoint:
+    longitude: -110.667505
+    latitude: -8.712223
+  barometer: 1012.97
+  wind:
+    speed: 13.8
+    direction: 51
+  engine:
+    hours: 1100.3
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: navigation
+- datetime: 2026-03-23T05:35:30.700Z
+  text: Even more windshift and a gust of 30. Gybed.
+  author: ihmis-suski
+  position:
+    longitude: -105.67157751719157
+    latitude: -8.679471015930176
+    source: GPS
+  heading: 260
+  course: 265
+  speed:
+    sog: 5.1
+  log: 15011.8
+  waypoint:
+    longitude: -110.667505
+    latitude: -8.712223
+  barometer: 1013.21
+  wind:
+    speed: 20.3
+    direction: 25
+  engine:
+    hours: 1100.3
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: navigation
+- datetime: 2026-03-23T05:57:30.700Z
+  text: Rain
+  author: ihmis-suski
+  position:
+    longitude: -105.695347
+    latitude: -8.688828
+    source: GPS
+  heading: 263
+  course: 237
+  speed:
+    sog: 3.8
+  log: 15013.3
+  waypoint:
+    longitude: -110.667505
+    latitude: -8.712223
+  barometer: 1013.18
+  wind:
+    speed: 17.5
+    direction: 40
+  engine:
+    hours: 1100.3
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: navigation
