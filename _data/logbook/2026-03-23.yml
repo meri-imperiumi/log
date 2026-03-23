@@ -530,3 +530,58 @@
   crewNames:
     - ihmis-suski
     - bergie
+  category: navigation
+- datetime: 2026-03-23T15:00:54.899Z
+  text: ""
+  author: ""
+  position:
+    longitude: -106.1364736
+    latitude: -8.7830541
+    source: GPS
+  heading: 231
+  course: 243
+  speed:
+    sog: 4
+  log: 15041.9
+  waypoint:
+    longitude: -110.667505
+    latitude: -8.712223
+  barometer: 1011.88
+  wind:
+    speed: 16.5
+    direction: 82
+  engine:
+    hours: 1100.3
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: navigation
+- datetime: 2026-03-23T15:50:59.001Z
+  text: A new squall and a new wind direction. The sheet for stay sail is under
+    the solar panel but I don't want to wake Bergie up to go to the bow, so we
+    meander with the wind.
+  author: ihmis-suski
+  position:
+    longitude: -106.1868668
+    latitude: -8.773994
+    source: GPS
+  heading: 314
+  course: 327
+  speed:
+    sog: 3.6
+  log: 15045.3
+  waypoint:
+    longitude: -110.667505
+    latitude: -8.712223
+  barometer: 1012.61
+  wind:
+    speed: 11.5
+    direction: 159
+  engine:
+    hours: 1100.3
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: navigation
