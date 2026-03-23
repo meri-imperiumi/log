@@ -447,3 +447,61 @@
   crewNames:
     - ihmis-suski
     - bergie
+  category: navigation
+- datetime: 2026-03-23T13:00:50.899Z
+  text: |
+    Suski on watch
+  author: ihmis-suski
+  position:
+    longitude: -106.0396233
+    latitude: -8.7185916
+    source: GPS
+  heading: 250
+  course: 271
+  speed:
+    sog: 3.6
+  log: 15034.7
+  waypoint:
+    longitude: -110.667505
+    latitude: -8.712223
+  barometer: 1011.2
+  wind:
+    speed: 11.9
+    direction: 106
+  engine:
+    hours: 1100.3
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: navigation
+  observations:
+    seaState: 4
+    cloudCoverage: 8
+    visibility: 7
+- datetime: 2026-03-23T13:16:50.899Z
+  text: A small squall
+  author: ihmis-suski
+  position:
+    longitude: -106.0526528
+    latitude: -8.7247053
+    source: GPS
+  heading: 247
+  course: 256
+  speed:
+    sog: 4
+  log: 15035.6
+  waypoint:
+    longitude: -110.667505
+    latitude: -8.712223
+  barometer: 1011.2
+  wind:
+    speed: 14.3
+    direction: 94
+  engine:
+    hours: 1100.3
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: navigation
