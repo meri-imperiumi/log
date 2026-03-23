@@ -795,3 +795,31 @@
     seaState: 4
     cloudCoverage: 8
     visibility: 6
+- datetime: 2026-03-23T20:00:11.097Z
+  text: Clouds are starting to lift
+  author: bergie
+  position:
+    longitude: -106.4371746
+    latitude: -8.823578
+    source: GPS
+  heading: 256
+  course: 262
+  speed:
+    sog: 4.1
+  log: 15061.3
+  waypoint:
+    longitude: -110.667505
+    latitude: -8.712223
+  barometer: 1011.32
+  wind:
+    speed: 16.8
+    direction: 100
+  engine:
+    hours: 1100.3
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: navigation
+  observations:
+    cloudCoverage: 6
