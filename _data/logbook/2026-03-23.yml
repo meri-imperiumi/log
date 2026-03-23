@@ -823,3 +823,56 @@
   category: navigation
   observations:
     cloudCoverage: 6
+- datetime: 2026-03-23T21:00:13.100Z
+  text: ""
+  author: ""
+  position:
+    longitude: -106.4990496
+    latitude: -8.8311196
+    source: GPS
+  heading: 249
+  course: 248
+  speed:
+    sog: 3.8
+  log: 15065
+  waypoint:
+    longitude: -110.667505
+    latitude: -8.712223
+  barometer: 1010.52
+  wind:
+    speed: 14.7
+    direction: 102
+  engine:
+    hours: 1100.3
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: navigation
+- datetime: 2026-03-23T21:21:14.099Z
+  text: We just had a brief glitch that moved the plotter to the coast of Costa
+    Rica. Came back quickly. Then again. Fixed by restarting the app
+  author: bergie
+  position:
+    longitude: -106.5197325
+    latitude: -8.8370586
+    source: GPS
+  heading: 252
+  course: 272
+  speed:
+    sog: 4.9
+  log: 15066.3
+  waypoint:
+    longitude: -110.667505
+    latitude: -8.712223
+  barometer: 1010.39
+  wind:
+    speed: 15.8
+    direction: 94
+  engine:
+    hours: 1100.3
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: navigation
