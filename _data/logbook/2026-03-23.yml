@@ -261,3 +261,60 @@
   crewNames:
     - ihmis-suski
     - bergie
+  category: navigation
+- datetime: 2026-03-23T07:00:32.700Z
+  text: Bergie on watch
+  author: bergie
+  position:
+    longitude: -105.7530789
+    latitude: -8.7073781
+    source: GPS
+  heading: 272
+  course: 222
+  speed:
+    sog: 4.1
+  log: 15017
+  waypoint:
+    longitude: -110.667505
+    latitude: -8.712223
+  barometer: 1012.15
+  wind:
+    speed: 9.1
+    direction: 54
+  engine:
+    hours: 1100.3
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: navigation
+  observations:
+    seaState: 3
+    cloudCoverage: 8
+    visibility: 7
+- datetime: 2026-03-23T07:39:33.798Z
+  text: Gybed back on course
+  author: bergie
+  position:
+    longitude: -105.7701819
+    latitude: -8.7040211
+    source: GPS
+  heading: 253
+  course: 232
+  speed:
+    sog: 3
+  log: 15018.2
+  waypoint:
+    longitude: -110.667505
+    latitude: -8.712223
+  barometer: 1011.21
+  wind:
+    speed: 12.5
+    direction: 116
+  engine:
+    hours: 1100.3
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: navigation
