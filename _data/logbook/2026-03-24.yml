@@ -1,0 +1,532 @@
+- datetime: 2026-03-24T00:00:21.200Z
+  text: ""
+  author: ""
+  position:
+    longitude: -106.6958049
+    latitude: -8.8704131
+    source: Combined GPS/GLONASS
+  heading: 253
+  course: 255
+  speed:
+    sog: 5.1
+  log: 15077.1
+  waypoint:
+    longitude: -110.667505
+    latitude: -8.712223
+  barometer: 1009.87
+  wind:
+    speed: 16.5
+    direction: 105
+  engine:
+    hours: 1100.3
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: navigation
+- datetime: 2026-03-24T01:00:21.200Z
+  text: Suski on watch
+  author: ihmis-suski
+  position:
+    longitude: -106.76413199106852
+    latitude: -8.89151668548584
+    source: Combined GPS/GLONASS
+  heading: 258
+  course: 261
+  speed:
+    sog: 4.8
+  log: 15081.4
+  waypoint:
+    longitude: -110.667505
+    latitude: -8.712223
+  barometer: 1010.51
+  wind:
+    speed: 18.8
+    direction: 111
+  engine:
+    hours: 1100.3
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: navigation
+  observations:
+    seaState: 4
+    cloudCoverage: 8
+    visibility: 7
+- datetime: 2026-03-24T02:00:22.300Z
+  text: ""
+  author: ""
+  position:
+    longitude: -106.8421778
+    latitude: -8.9000356
+    source: Combined GPS/GLONASS
+  heading: 277
+  course: 280
+  speed:
+    sog: 5.5
+  log: 15086.1
+  waypoint:
+    longitude: -110.667505
+    latitude: -8.712223
+  barometer: 1011
+  wind:
+    speed: 25.1
+    direction: 133
+  engine:
+    hours: 1100.3
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: navigation
+- datetime: 2026-03-24T03:00:24.300Z
+  text: ""
+  author: ""
+  position:
+    longitude: -106.933797
+    latitude: -8.904246
+    source: Combined GPS/GLONASS
+  heading: 261
+  course: 261
+  speed:
+    sog: 5.4
+  log: 15091.5
+  waypoint:
+    longitude: -110.667505
+    latitude: -8.712223
+  barometer: 1011.72
+  wind:
+    speed: 21.9
+    direction: 118
+  engine:
+    hours: 1100.3
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: navigation
+- datetime: 2026-03-24T04:00:29.299Z
+  text: ""
+  author: ""
+  position:
+    longitude: -107.0079828
+    latitude: -8.9296656
+    source: Combined GPS/GLONASS
+  heading: 244
+  course: 249
+  speed:
+    sog: 4.2
+  log: 15096.2
+  waypoint:
+    longitude: -110.667505
+    latitude: -8.712223
+  barometer: 1012.31
+  wind:
+    speed: 15.9
+    direction: 98
+  engine:
+    hours: 1100.3
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: navigation
+- datetime: 2026-03-24T05:00:31.299Z
+  text: ""
+  author: ""
+  position:
+    longitude: -107.0794568
+    latitude: -8.9458663
+    source: Combined GPS/GLONASS
+  heading: 256
+  course: 270
+  speed:
+    sog: 4.3
+  log: 15100.6
+  waypoint:
+    longitude: -110.667505
+    latitude: -8.712223
+  barometer: 1012.79
+  wind:
+    speed: 19.4
+    direction: 110
+  engine:
+    hours: 1100.3
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: navigation
+- datetime: 2026-03-24T06:00:33.400Z
+  text: ""
+  author: ""
+  position:
+    longitude: -107.1531113
+    latitude: -8.9668914
+    source: Combined GPS/GLONASS
+  heading: 252
+  course: 243
+  speed:
+    sog: 4.6
+  log: 15105.2
+  waypoint:
+    longitude: -110.667505
+    latitude: -8.712223
+  barometer: 1012.97
+  wind:
+    speed: 17.8
+    direction: 110
+  engine:
+    hours: 1100.3
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: navigation
+- datetime: 2026-03-24T07:00:35.400Z
+  text: Bergie on watch
+  author: bergie
+  position:
+    longitude: -107.2265963
+    latitude: -8.9855796
+    source: Combined GPS/GLONASS
+  heading: 259
+  course: 254
+  speed:
+    sog: 4.5
+  log: 15109.7
+  waypoint:
+    longitude: -111.988638
+    latitude: -9.095335
+  barometer: 1012.31
+  wind:
+    speed: 19.9
+    direction: 115
+  engine:
+    hours: 1100.3
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: navigation
+  observations:
+    seaState: 4
+    cloudCoverage: 1
+    visibility: 7
+- datetime: 2026-03-24T08:00:39.398Z
+  text: ""
+  author: ""
+  position:
+    longitude: -107.3000426
+    latitude: -8.9970238
+    source: Combined GPS/GLONASS
+  heading: 263
+  course: 247
+  speed:
+    sog: 4.5
+  log: 15114.1
+  waypoint:
+    longitude: -111.988638
+    latitude: -9.095335
+  barometer: 1011.7
+  wind:
+    speed: 19.9
+    direction: 114
+  engine:
+    hours: 1100.3
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: navigation
+- datetime: 2026-03-24T09:00:41.401Z
+  text: ""
+  author: ""
+  position:
+    longitude: -107.3716459
+    latitude: -9.0013641
+    source: Combined GPS/GLONASS
+  heading: 267
+  course: 263
+  speed:
+    sog: 3.9
+  log: 15118.4
+  waypoint:
+    longitude: -111.988638
+    latitude: -9.095335
+  barometer: 1011.05
+  wind:
+    speed: 15.4
+    direction: 117
+  engine:
+    hours: 1100.3
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: navigation
+- datetime: 2026-03-24T10:00:44.499Z
+  text: ""
+  author: ""
+  position:
+    longitude: -107.4459978
+    latitude: -9.0079461
+    source: Combined GPS/GLONASS
+  heading: 272
+  course: 256
+  speed:
+    sog: 4.1
+  log: 15122.8
+  waypoint:
+    longitude: -111.988638
+    latitude: -9.095335
+  barometer: 1010.84
+  wind:
+    speed: 16.2
+    direction: 123
+  engine:
+    hours: 1100.3
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: navigation
+- datetime: 2026-03-24T11:00:48.499Z
+  text: ""
+  author: ""
+  position:
+    longitude: -107.5134988
+    latitude: -9.0127211
+    source: Combined GPS/GLONASS
+  heading: 256
+  course: 261
+  speed:
+    sog: 4.3
+  log: 15126.9
+  waypoint:
+    longitude: -111.988638
+    latitude: -9.095335
+  barometer: 1010.86
+  wind:
+    speed: 15.2
+    direction: 117
+  engine:
+    hours: 1100.3
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: navigation
+- datetime: 2026-03-24T12:00:50.499Z
+  text: ""
+  author: ""
+  position:
+    longitude: -107.5772113
+    latitude: -9.0108968
+    source: GPS
+  heading: 277
+  course: 257
+  speed:
+    sog: 2.5
+  log: 15130.7
+  waypoint:
+    longitude: -111.988638
+    latitude: -9.095335
+  barometer: 1011.12
+  wind:
+    speed: 11.9
+    direction: 126
+  engine:
+    hours: 1100.3
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: navigation
+- datetime: 2026-03-24T13:00:51.600Z
+  text: Suski on watch
+  author: ihmis-suski
+  position:
+    longitude: -107.6519498
+    latitude: -9.0262525
+    source: GPS
+  heading: 264
+  course: 260
+  speed:
+    sog: 5.1
+  log: 15135.2
+  waypoint:
+    longitude: -111.988638
+    latitude: -9.095335
+  barometer: 1011.47
+  wind:
+    speed: 20.2
+    direction: 117
+  engine:
+    hours: 1100.3
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: navigation
+  observations:
+    seaState: 4
+    cloudCoverage: 4
+    visibility: 7
+- datetime: 2026-03-24T14:00:53.600Z
+  text: ""
+  author: ""
+  position:
+    longitude: -107.7246456
+    latitude: -9.0409536
+    source: GPS
+  heading: 257
+  course: 262
+  speed:
+    sog: 4.3
+  log: 15139.6
+  waypoint:
+    longitude: -111.988638
+    latitude: -9.095335
+  barometer: 1012.39
+  wind:
+    speed: 17.7
+    direction: 111
+  engine:
+    hours: 1100.3
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: navigation
+- datetime: 2026-03-24T15:00:56.000Z
+  text: ""
+  author: ""
+  position:
+    longitude: -107.7962975
+    latitude: -9.0541479
+    source: GPS
+  heading: 271
+  course: 274
+  speed:
+    sog: 5.4
+  log: 15144
+  waypoint:
+    longitude: -111.988638
+    latitude: -9.095335
+  barometer: 1012.83
+  wind:
+    speed: 14.4
+    direction: 110
+  engine:
+    hours: 1100.3
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: navigation
+- datetime: 2026-03-24T16:00:00.998Z
+  text: ""
+  author: ""
+  position:
+    longitude: -107.8615964
+    latitude: -9.0694033
+    source: GPS
+  heading: 252
+  course: 273
+  speed:
+    sog: 3.9
+  log: 15148
+  waypoint:
+    longitude: -111.988638
+    latitude: -9.095335
+  barometer: 1013.36
+  wind:
+    speed: 18.2
+    direction: 107
+  engine:
+    hours: 1100.3
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: navigation
+- datetime: 2026-03-24T17:00:03.097Z
+  text: ""
+  author: ""
+  position:
+    longitude: -107.9295469
+    latitude: -9.0917628
+    source: GPS
+  heading: 259
+  course: 255
+  speed:
+    sog: 5.4
+  log: 15152.2
+  waypoint:
+    longitude: -111.988638
+    latitude: -9.095335
+  barometer: 1013.29
+  wind:
+    speed: 17.4
+    direction: 109
+  engine:
+    hours: 1100.3
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: navigation
+- datetime: 2026-03-24T18:00:05.100Z
+  text: ""
+  author: ""
+  position:
+    longitude: -108.0009046
+    latitude: -9.1159911
+    source: GPS
+  heading: 250
+  course: 261
+  speed:
+    sog: 4.4
+  log: 15156.7
+  waypoint:
+    longitude: -111.988638
+    latitude: -9.095335
+  barometer: 1012.79
+  wind:
+    speed: 16.8
+    direction: 99
+  engine:
+    hours: 1100.3
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: navigation
+- datetime: 2026-03-24T18:38:06.099Z
+  text: Started watermaker
+  author: bergie
+  position:
+    longitude: -108.0470191
+    latitude: -9.124913
+    source: GPS
+  heading: 265
+  course: 264
+  speed:
+    sog: 4
+  log: 15159.5
+  waypoint:
+    longitude: -111.988638
+    latitude: -9.095335
+  barometer: 1012.45
+  wind:
+    speed: 15.2
+    direction: 117
+  engine:
+    hours: 1100.3
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: maintenance
