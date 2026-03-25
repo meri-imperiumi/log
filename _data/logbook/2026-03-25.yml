@@ -479,3 +479,55 @@
     - ihmis-suski
     - bergie
   category: navigation
+- datetime: 2026-03-25T15:00:50.700Z
+  text: ""
+  author: ""
+  position:
+    longitude: -109.6223829
+    latitude: -9.3436285
+    source: GPS
+  heading: 270
+  course: 256
+  speed:
+    sog: 6.3
+  log: 15254.5
+  waypoint:
+    longitude: -114.817239
+    latitude: -9.307669
+  barometer: 1012.15
+  wind:
+    speed: 23
+    direction: 118
+  engine:
+    hours: 1100.3
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: navigation
+- datetime: 2026-03-25T15:21:51.699Z
+  text: Phaethon rubricauda ( valkotropiikkilintu) flew over us!
+  author: ihmis-suski
+  position:
+    longitude: -109.6498131
+    latitude: -9.3457416
+    source: GPS
+  heading: 256
+  course: 235
+  speed:
+    sog: 5.3
+  log: 15256.2
+  waypoint:
+    longitude: -114.688671
+    latitude: -9.426066
+  barometer: 1012.39
+  wind:
+    speed: 22.7
+    direction: 120
+  engine:
+    hours: 1100.3
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: navigation
