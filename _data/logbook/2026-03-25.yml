@@ -317,3 +317,55 @@
   crewNames:
     - ihmis-suski
     - bergie
+  category: navigation
+- datetime: 2026-03-25T10:12:38.598Z
+  text: Light rain, can still see the stars mostly
+  author: bergie
+  position:
+    longitude: -109.2344045
+    latitude: -9.2906381
+    source: GPS
+  heading: 261
+  course: 272
+  speed:
+    sog: 5
+  log: 15231.2
+  waypoint:
+    longitude: -114.817239
+    latitude: -9.307669
+  barometer: 1010.45
+  wind:
+    speed: 19.3
+    direction: 104
+  engine:
+    hours: 1100.3
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: navigation
+- datetime: 2026-03-25T11:00:40.601Z
+  text: ""
+  author: ""
+  position:
+    longitude: -109.2949951
+    latitude: -9.2998141
+    source: GPS
+  heading: 265
+  course: 255
+  speed:
+    sog: 5.2
+  log: 15234.8
+  waypoint:
+    longitude: -114.817239
+    latitude: -9.307669
+  barometer: 1010.28
+  wind:
+    speed: 20.5
+    direction: 113
+  engine:
+    hours: 1100.3
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
