@@ -506,3 +506,56 @@
   crewNames:
     - ihmis-suski
     - bergie
+  category: navigation
+- datetime: 2026-03-27T17:00:43.398Z
+  text: ""
+  author: ""
+  position:
+    longitude: -113.52956717809042
+    latitude: -9.345982678731282
+    source: GPS
+  heading: 284
+  course: 304
+  speed:
+    sog: 2.8
+  log: 15489.5
+  waypoint:
+    longitude: -115.14552
+    latitude: -9.369646
+  barometer: 1012.2
+  wind:
+    speed: 15.3
+    direction: 115
+  engine:
+    hours: 1100.3
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: navigation
+- datetime: 2026-03-27T17:04:42.400Z
+  text: Starboard side bigger deck drain is leaking.
+  author: ihmis-suski
+  position:
+    longitude: -113.5343994
+    latitude: -9.3462444
+    source: GPS
+  heading: 263
+  course: 259
+  speed:
+    sog: 2.6
+  log: 15489.8
+  waypoint:
+    longitude: -115.14552
+    latitude: -9.369646
+  barometer: 1012.17
+  wind:
+    speed: 17.4
+    direction: 119
+  engine:
+    hours: 1100.3
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: navigation
