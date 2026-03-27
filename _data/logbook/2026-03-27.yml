@@ -559,3 +559,55 @@
     - ihmis-suski
     - bergie
   category: navigation
+- datetime: 2026-03-27T18:00:44.499Z
+  text: ""
+  author: ""
+  position:
+    longitude: -113.6044998
+    latitude: -9.3402488
+    source: GPS
+  heading: 266
+  course: 247
+  speed:
+    sog: 3.1
+  log: 15494
+  waypoint:
+    longitude: -115.14552
+    latitude: -9.369646
+  barometer: 1011.65
+  wind:
+    speed: 19.8
+    direction: 128
+  engine:
+    hours: 1100.3
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: navigation
+- datetime: 2026-03-27T18:07:44.499Z
+  text: Suski applied sealant to the starboard deck drain
+  author: bergie
+  position:
+    longitude: -113.6136881
+    latitude: -9.3402833
+    source: GPS
+  heading: 286
+  course: 296
+  speed:
+    sog: 4.8
+  log: 15494.6
+  waypoint:
+    longitude: -115.14552
+    latitude: -9.369646
+  barometer: 1011.58
+  wind:
+    speed: 16.6
+    direction: 121
+  engine:
+    hours: 1100.3
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: navigation
