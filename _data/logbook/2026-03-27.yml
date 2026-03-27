@@ -25,8 +25,8 @@
     - bergie
   category: navigation
 - datetime: 2026-03-27T01:00:59.000Z
-  text: ""
-  author: ""
+  text: Suski on watch
+  author: ihmis-suski
   position:
     longitude: -112.31514565149944
     latitude: -9.315458997090657
@@ -50,6 +50,10 @@
     - ihmis-suski
     - bergie
   category: navigation
+  observations:
+    seaState: 4
+    cloudCoverage: 4
+    visibility: 7
 - datetime: 2026-03-27T02:00:00.000Z
   text: ""
   author: ""
@@ -69,6 +73,59 @@
   wind:
     speed: 19.8
     direction: 124
+  engine:
+    hours: 1100.3
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: navigation
+- datetime: 2026-03-27T02:35:02.100Z
+  text: A booby just ripped off half of the wind vane ribbon for light wind. It
+    was in it's face while sitting at the aft solar panel.
+  author: ihmis-suski
+  position:
+    longitude: -112.43861017227172
+    latitude: -9.31627966562907
+    source: GPS
+  heading: 280
+  course: 285
+  speed:
+    sog: 6.4
+  log: 15424
+  waypoint:
+    longitude: -114.20329
+    latitude: -9.323331
+  barometer: 1010.68
+  wind:
+    speed: 22
+    direction: 132
+  engine:
+    hours: 1100.3
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: navigation
+- datetime: 2026-03-27T03:00:03.100Z
+  text: ""
+  author: ""
+  position:
+    longitude: -112.4700901
+    latitude: -9.3161179
+    source: GPS
+  heading: 276
+  course: 275
+  speed:
+    sog: 5.5
+  log: 15425.9
+  waypoint:
+    longitude: -114.20329
+    latitude: -9.323331
+  barometer: 1011.16
+  wind:
+    speed: 20.6
+    direction: 117
   engine:
     hours: 1100.3
   vhf: "16"
