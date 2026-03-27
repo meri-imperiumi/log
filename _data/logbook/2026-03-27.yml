@@ -158,3 +158,56 @@
   crewNames:
     - ihmis-suski
     - bergie
+  category: navigation
+- datetime: 2026-03-27T04:28:07.100Z
+  text: "Chung Kuo No.828 a 28 meter long fishing vessel on our port side in 7
+    miles. Visible only when both on top of a wave #13"
+  author: ihmis-suski
+  position:
+    longitude: -112.5824129
+    latitude: -9.3187273
+    source: GPS
+  heading: 266
+  course: 274
+  speed:
+    sog: 4.8
+  log: 15432.6
+  waypoint:
+    longitude: -114.20329
+    latitude: -9.323331
+  barometer: 1011.93
+  wind:
+    speed: 20.2
+    direction: 119
+  engine:
+    hours: 1100.3
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: navigation
+- datetime: 2026-03-27T05:00:09.100Z
+  text: ""
+  author: ""
+  position:
+    longitude: -112.6257398
+    latitude: -9.3206705
+    source: GPS
+  heading: 264
+  course: 246
+  speed:
+    sog: 4.1
+  log: 15435.2
+  waypoint:
+    longitude: -114.20329
+    latitude: -9.323331
+  barometer: 1012
+  wind:
+    speed: 20.3
+    direction: 124
+  engine:
+    hours: 1100.3
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
