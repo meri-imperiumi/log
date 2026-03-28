@@ -75,3 +75,82 @@
   crewNames:
     - ihmis-suski
     - bergie
+  category: navigation
+- datetime: 2026-03-28T03:00:58.700Z
+  text: ""
+  author: ""
+  position:
+    longitude: -114.2642625
+    latitude: -9.3095108
+    source: GPS
+  heading: 266
+  course: 273
+  speed:
+    sog: 3.8
+  log: 15533.6
+  waypoint:
+    longitude: -115.14552
+    latitude: -9.369646
+  barometer: 1010.31
+  wind:
+    speed: 17.2
+    direction: 109
+  engine:
+    hours: 1100.3
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: navigation
+- datetime: 2026-03-28T03:09:58.700Z
+  text: PacSeaNet was problematic today, good propagation but extreme QRM. Was
+    able to give position
+  author: bergie
+  position:
+    longitude: -114.2749309
+    latitude: -9.311187
+    source: GPS
+  heading: 263
+  course: 259
+  speed:
+    sog: 3.8
+  log: 15534.3
+  waypoint:
+    longitude: -115.14552
+    latitude: -9.369646
+  barometer: 1010.39
+  wind:
+    speed: 17.6
+    direction: 118
+  engine:
+    hours: 1100.3
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: radio
+- datetime: 2026-03-28T04:00:00.800Z
+  text: ""
+  author: ""
+  position:
+    longitude: -114.3417506
+    latitude: -9.3188306
+    source: GPS
+  heading: 268
+  course: 265
+  speed:
+    sog: 4.8
+  log: 15538.3
+  waypoint:
+    longitude: -115.14552
+    latitude: -9.369646
+  barometer: 1010.96
+  wind:
+    speed: 23.1
+    direction: 123
+  engine:
+    hours: 1100.3
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
