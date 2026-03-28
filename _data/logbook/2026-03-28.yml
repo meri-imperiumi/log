@@ -368,8 +368,8 @@
     - bergie
   category: navigation
 - datetime: 2026-03-28T13:00:28.000Z
-  text: ""
-  author: ""
+  text: Suski on watch
+  author: ihmis-suski
   position:
     longitude: -115.0537
     latitude: -9.4152591
@@ -444,3 +444,56 @@
   crewNames:
     - ihmis-suski
     - bergie
+  category: navigation
+- datetime: 2026-03-28T16:00:36.102Z
+  text: ""
+  author: ""
+  position:
+    longitude: -115.2796473
+    latitude: -9.4516143
+    source: GPS
+  heading: 257
+  course: 265
+  speed:
+    sog: 5.3
+  log: 15594.8
+  waypoint:
+    longitude: -117.77288
+    latitude: -9.461556
+  barometer: 1012.59
+  wind:
+    speed: 18.9
+    direction: 110
+  engine:
+    hours: 1100.3
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: navigation
+- datetime: 2026-03-28T16:35:40.102Z
+  text: Heard a snap of a conversation, very garbled.
+  author: ihmis-suski
+  position:
+    longitude: -115.3229729
+    latitude: -9.4562411
+    source: GPS
+  heading: 270
+  course: 257
+  speed:
+    sog: 3.2
+  log: 15597.4
+  waypoint:
+    longitude: -117.77288
+    latitude: -9.461556
+  barometer: 1012.86
+  wind:
+    speed: 17.7
+    direction: 130
+  engine:
+    hours: 1100.3
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: radio
