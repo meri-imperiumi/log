@@ -265,3 +265,56 @@
   crewNames:
     - ihmis-suski
     - bergie
+  category: navigation
+- datetime: 2026-03-29T09:54:08.000Z
+  text: "Chinese fishing vessel Rong Heng 68 coming from south. Should pass well
+    behind, can see red light. Vessel #14"
+  author: bergie
+  position:
+    longitude: -116.6559305
+    latitude: -9.3095458
+    source: GPS
+  heading: 268
+  course: 278
+  speed:
+    sog: 4.8
+  log: 15677.5
+  waypoint:
+    longitude: -117.77288
+    latitude: -9.461556
+  barometer: 1010.79
+  wind:
+    speed: 16.7
+    direction: 118
+  engine:
+    hours: 1100.3
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: navigation
+- datetime: 2026-03-29T10:00:08.998Z
+  text: ""
+  author: ""
+  position:
+    longitude: -116.66361834208172
+    latitude: -9.309509181976319
+    source: GPS
+  heading: 266
+  course: 250
+  speed:
+    sog: 2.6
+  log: 15678
+  waypoint:
+    longitude: -117.77288
+    latitude: -9.461556
+  barometer: 1010.66
+  wind:
+    speed: 18
+    direction: 122
+  engine:
+    hours: 1100.3
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
