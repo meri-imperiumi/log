@@ -51,8 +51,8 @@
     - bergie
   category: navigation
 - datetime: 2026-03-30T02:00:47.800Z
-  text: ""
-  author: ""
+  text: Suski on watch
+  author: ihmis-suski
   position:
     longitude: -117.9328514
     latitude: -9.3905941
@@ -75,3 +75,60 @@
   crewNames:
     - ihmis-suski
     - bergie
+  category: navigation
+  observations:
+    seaState: 4
+    cloudCoverage: 4
+    visibility: 7
+- datetime: 2026-03-30T03:00:42.800Z
+  text: ""
+  author: ""
+  position:
+    longitude: -118.0190031
+    latitude: -9.3853714
+    source: GPS
+  heading: 280
+  course: 278
+  speed:
+    sog: 5.5
+  log: 15759.4
+  waypoint:
+    longitude: -121.209203
+    latitude: -9.461051
+  barometer: 1011.05
+  wind:
+    speed: 17.1
+    direction: 133
+  engine:
+    hours: 1100.3
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: navigation
+- datetime: 2026-03-30T03:58:35.900Z
+  text: "Sails set: Main (1st reef), Staysail, Genoa 1 (20% furled)"
+  author: ""
+  position:
+    longitude: -118.105677
+    latitude: -9.3732481
+    source: GPS
+  heading: 278
+  course: 281
+  speed:
+    sog: 6.7
+  log: 15764.6
+  waypoint:
+    longitude: -121.209203
+    latitude: -9.461051
+  barometer: 1011.31
+  wind:
+    speed: 19.1
+    direction: 128
+  engine:
+    hours: 1100.3
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: navigation
