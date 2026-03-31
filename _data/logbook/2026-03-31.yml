@@ -23,3 +23,53 @@
   crewNames:
     - ihmis-suski
     - bergie
+  category: navigation
+- datetime: 2026-03-31T01:00:42.800Z
+  text: ""
+  author: ""
+  position:
+    longitude: -119.7682311
+    latitude: -9.4237055
+    source: GPS
+  heading: 279
+  course: 277
+  speed:
+    sog: 6.1
+  log: 15864.4
+  waypoint:
+    longitude: -121.209203
+    latitude: -9.461051
+  barometer: 1010.25
+  wind:
+    speed: 17.5
+    direction: 115
+  engine:
+    hours: 1100.3
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: navigation
+- datetime: 2026-03-31T01:19:45.700Z
+  text: Values from Orca Core were blinking in Tritons. Restarted N2K to fix
+  author: bergie
+  position:
+    longitude: -119.7949598
+    latitude: -9.4189224
+    source: GPS
+  heading: 292
+  course: 283
+  speed:
+    sog: 5
+  log: 15866.1
+  barometer: 1010.42
+  wind:
+    speed: 15.5
+    direction: 128
+  engine:
+    hours: 1100.3
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: maintenance
