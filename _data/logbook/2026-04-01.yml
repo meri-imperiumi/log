@@ -1,0 +1,52 @@
+- datetime: 2026-04-01T00:00:37.300Z
+  text: ""
+  author: ""
+  position:
+    longitude: -121.3625454
+    latitude: -9.2644403
+    source: GPS
+  heading: 266
+  course: 265
+  speed:
+    sog: 5
+  log: 15960.6
+  waypoint:
+    longitude: -138.957061
+    latitude: -9.831274
+  barometer: 1010.05
+  wind:
+    speed: 21.2
+    direction: 127
+  engine:
+    hours: 1100.7
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: navigation
+- datetime: 2026-04-01T00:00:53.300Z
+  text: Motor stopped, sailing with Main (1st reef), Staysail
+  author: ""
+  position:
+    longitude: -121.362893
+    latitude: -9.2644415
+    source: GPS
+  heading: 272
+  course: 256
+  speed:
+    sog: 4.2
+  log: 15960.7
+  waypoint:
+    longitude: -138.957061
+    latitude: -9.831274
+  barometer: 1010.08
+  wind:
+    speed: 19.2
+    direction: 135
+  engine:
+    hours: 1100.7
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: navigation
