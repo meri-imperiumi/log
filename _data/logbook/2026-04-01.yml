@@ -709,8 +709,8 @@
     - bergie
   category: navigation
 - datetime: 2026-04-01T20:00:27.897Z
-  text: ""
-  author: ""
+  text: Bergie on watch
+  author: bergie
   position:
     longitude: -122.908068
     latitude: -9.2413674
@@ -727,6 +727,36 @@
   wind:
     speed: 22.8
     direction: 121
+  engine:
+    hours: 1100.7
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: navigation
+  observations:
+    seaState: 4
+    cloudCoverage: 2
+    visibility: 7
+- datetime: 2026-04-01T21:00:29.900Z
+  text: ""
+  author: ""
+  position:
+    longitude: -122.9847771
+    latitude: -9.2616708
+    source: GPS
+  heading: 255
+  course: 266
+  speed:
+    sog: 5
+  log: 16058.3
+  waypoint:
+    longitude: -138.957061
+    latitude: -9.831274
+  barometer: 1010.99
+  wind:
+    speed: 19.6
+    direction: 122
   engine:
     hours: 1100.7
   vhf: "16"
