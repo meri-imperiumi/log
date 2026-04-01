@@ -25,8 +25,8 @@
     - bergie
   category: navigation
 - datetime: 2026-04-01T00:00:53.300Z
-  text: Motor stopped, sailing with Main (1st reef), Staysail
-  author: ""
+  text: Motor stopped, sailing with Main (1st reef), Staysail. Windvane steering
+  author: bergie
   position:
     longitude: -121.362893
     latitude: -9.2644415
@@ -50,3 +50,28 @@
     - ihmis-suski
     - bergie
   category: navigation
+- datetime: 2026-04-01T01:00:37.400Z
+  text: ""
+  author: ""
+  position:
+    longitude: -121.4426118
+    latitude: -9.2653824
+    source: GPS
+  heading: 267
+  course: 271
+  speed:
+    sog: 5.6
+  log: 15965.4
+  waypoint:
+    longitude: -138.957061
+    latitude: -9.831274
+  barometer: 1010.25
+  wind:
+    speed: 21.2
+    direction: 125
+  engine:
+    hours: 1100.7
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
