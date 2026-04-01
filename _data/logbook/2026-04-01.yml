@@ -681,3 +681,55 @@
   crewNames:
     - ihmis-suski
     - bergie
+  category: navigation
+- datetime: 2026-04-01T19:24:23.897Z
+  text: On port tack
+  author: bergie
+  position:
+    longitude: -122.8625951
+    latitude: -9.2302868
+    source: GPS
+  heading: 265
+  course: 270
+  speed:
+    sog: 4.8
+  log: 16050.7
+  waypoint:
+    longitude: -138.957061
+    latitude: -9.831274
+  barometer: 1012.5
+  wind:
+    speed: 20.5
+    direction: 131
+  engine:
+    hours: 1100.7
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: navigation
+- datetime: 2026-04-01T20:00:27.897Z
+  text: ""
+  author: ""
+  position:
+    longitude: -122.908068
+    latitude: -9.2413674
+    source: GPS
+  heading: 250
+  course: 254
+  speed:
+    sog: 6.4
+  log: 16053.5
+  waypoint:
+    longitude: -138.957061
+    latitude: -9.831274
+  barometer: 1011.97
+  wind:
+    speed: 22.8
+    direction: 121
+  engine:
+    hours: 1100.7
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
