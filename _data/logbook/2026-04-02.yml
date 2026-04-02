@@ -664,3 +664,81 @@
   crewNames:
     - ihmis-suski
     - bergie
+  category: navigation
+- datetime: 2026-04-02T20:43:43.603Z
+  text: Moved AIS GPS antenna outside, now it has a fix
+  author: bergie
+  position:
+    longitude: -124.7539319
+    latitude: -9.6752991
+    source: GPS
+  heading: 281
+  course: 259
+  speed:
+    sog: 3.4
+  log: 16167.8
+  waypoint:
+    longitude: -138.957061
+    latitude: -9.831274
+  barometer: 1010.48
+  wind:
+    speed: 14.9
+    direction: 125
+  engine:
+    hours: 1100.7
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: maintenance
+- datetime: 2026-04-02T20:58:04.601Z
+  text: "Sails set: Main, Staysail, Genoa 1 (10% furled)"
+  author: ""
+  position:
+    longitude: -124.768932
+    latitude: -9.6764511
+    source: GPS
+  heading: 264
+  course: 234
+  speed:
+    sog: 6.1
+  log: 16168.7
+  waypoint:
+    longitude: -138.957061
+    latitude: -9.831274
+  barometer: 1010.28
+  wind:
+    speed: 18.8
+    direction: 114
+  engine:
+    hours: 1100.7
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: navigation
+- datetime: 2026-04-02T21:00:43.596Z
+  text: ""
+  author: ""
+  position:
+    longitude: -124.7722936
+    latitude: -9.6767108
+    source: GPS
+  heading: 263
+  course: 270
+  speed:
+    sog: 5.1
+  log: 16168.9
+  waypoint:
+    longitude: -138.957061
+    latitude: -9.831274
+  barometer: 1010.21
+  wind:
+    speed: 14.8
+    direction: 103
+  engine:
+    hours: 1100.7
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
