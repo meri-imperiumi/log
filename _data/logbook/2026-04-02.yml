@@ -482,7 +482,7 @@
   category: navigation
 - datetime: 2026-04-02T17:22:21.497Z
   text: "A sailboat! Vessel #15 Mastegot Oyster 595, under way from Galapagos to
-    Hiva Oa. Vhf contact, we are not visible in their AIS. Not sure which end
+    Hiva Oa. VHF contact, we are not visible in their AIS. Not sure which end
     has the problem."
   author: ihmis-suski
   position:
@@ -507,7 +507,7 @@
   crewNames:
     - ihmis-suski
     - bergie
-  category: navigation
+  category: radio
 - datetime: 2026-04-02T17:47:03.500Z
   text: Rebooted AIS transceiver just in case that helps
   author: bergie
@@ -640,8 +640,8 @@
     - bergie
   category: maintenance
 - datetime: 2026-04-02T20:00:38.598Z
-  text: ""
-  author: ""
+  text: Bergie on watch
+  author: bergie
   position:
     longitude: -124.7065914
     latitude: -9.6705566
@@ -665,8 +665,13 @@
     - ihmis-suski
     - bergie
   category: navigation
+  observations:
+    seaState: 4
+    cloudCoverage: 7
+    visibility: 7
 - datetime: 2026-04-02T20:43:43.603Z
-  text: Moved AIS GPS antenna outside, now it has a fix
+  text: Moved AIS GPS antenna outside, now it has a fix. At least our VHF handheld
+    receives coordinates now.
   author: bergie
   position:
     longitude: -124.7539319
@@ -736,6 +741,84 @@
   wind:
     speed: 14.8
     direction: 103
+  engine:
+    hours: 1100.7
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: navigation
+- datetime: 2026-04-02T21:16:44.601Z
+  text: Started watermaker
+  author: bergie
+  position:
+    longitude: -124.792796
+    latitude: -9.6803824
+    source: GPS
+  heading: 270
+  course: 264
+  speed:
+    sog: 3.7
+  log: 16170.1
+  waypoint:
+    longitude: -138.957061
+    latitude: -9.831274
+  barometer: 1009.9
+  wind:
+    speed: 13.5
+    direction: 116
+  engine:
+    hours: 1100.7
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: maintenance
+- datetime: 2026-04-02T21:37:44.601Z
+  text: Watermaker 280ppm
+  author: bergie
+  position:
+    longitude: -124.8198474
+    latitude: -9.6874721
+    source: GPS
+  heading: 265
+  course: 261
+  speed:
+    sog: 4.2
+  log: 16171.8
+  waypoint:
+    longitude: -138.957061
+    latitude: -9.831274
+  barometer: 1009.46
+  wind:
+    speed: 11.5
+    direction: 103
+  engine:
+    hours: 1100.7
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: maintenance
+- datetime: 2026-04-02T22:00:48.601Z
+  text: ""
+  author: ""
+  position:
+    longitude: -124.8489673
+    latitude: -9.6968678
+    source: GPS
+  heading: 244
+  course: 245
+  speed:
+    sog: 4.5
+  log: 16173.6
+  waypoint:
+    longitude: -138.957061
+    latitude: -9.831274
+  barometer: 1009.31
+  wind:
+    speed: 15.8
+    direction: 96
   engine:
     hours: 1100.7
   vhf: "16"
