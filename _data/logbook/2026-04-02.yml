@@ -479,3 +479,83 @@
   crewNames:
     - ihmis-suski
     - bergie
+  category: navigation
+- datetime: 2026-04-02T17:22:21.497Z
+  text: "A sailboat! Vessel #15 Mastegot Oyster 595, under way from Galapagos to
+    Hiva Oa. Vhf contact, we are not visible in their AIS. Not sure which end
+    has the problem."
+  author: ihmis-suski
+  position:
+    longitude: -124.5065543
+    latitude: -9.6531148
+    source: GPS
+  heading: 265
+  course: 272
+  speed:
+    sog: 5.6
+  log: 16153
+  waypoint:
+    longitude: -138.957061
+    latitude: -9.831274
+  barometer: 1011.58
+  wind:
+    speed: 18.8
+    direction: 104
+  engine:
+    hours: 1100.7
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: navigation
+- datetime: 2026-04-02T17:47:03.500Z
+  text: Rebooted AIS transceiver just in case that helps
+  author: bergie
+  position:
+    longitude: -124.5396811
+    latitude: -9.654969
+    source: GPS
+  heading: 274
+  course: 271
+  speed:
+    sog: 5
+  log: 16154.9
+  waypoint:
+    longitude: -138.957061
+    latitude: -9.831274
+  barometer: 1011.89
+  wind:
+    speed: 20.5
+    direction: 126
+  engine:
+    hours: 1100.7
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: maintenance
+- datetime: 2026-04-02T18:00:30.502Z
+  text: ""
+  author: ""
+  position:
+    longitude: -124.5572046
+    latitude: -9.6563106
+    source: GPS
+  heading: 264
+  course: 259
+  speed:
+    sog: 3.5
+  log: 16156
+  waypoint:
+    longitude: -138.957061
+    latitude: -9.831274
+  barometer: 1012.04
+  wind:
+    speed: 15.8
+    direction: 119
+  engine:
+    hours: 1100.7
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
