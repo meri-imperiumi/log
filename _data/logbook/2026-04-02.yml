@@ -585,3 +585,82 @@
   crewNames:
     - ihmis-suski
     - bergie
+  category: navigation
+- datetime: 2026-04-02T19:35:34.598Z
+  text: Rebooted AIS again, there was a red Err light
+  author: bergie
+  position:
+    longitude: -124.6778111
+    latitude: -9.6672871
+    source: GPS
+  heading: 266
+  course: 291
+  speed:
+    sog: 5.3
+  log: 16163.2
+  waypoint:
+    longitude: -138.957061
+    latitude: -9.831274
+  barometer: 1011.17
+  wind:
+    speed: 13.5
+    direction: 106
+  engine:
+    hours: 1100.7
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: maintenance
+- datetime: 2026-04-02T19:57:36.601Z
+  text: Turns out AIS transmitter has no GPS fix. Trying to move the antenna to a
+    better position
+  author: bergie
+  position:
+    longitude: -124.7030648
+    latitude: -9.6702498
+    source: GPS
+  heading: 266
+  course: 268
+  speed:
+    sog: 4.6
+  log: 16164.7
+  waypoint:
+    longitude: -138.957061
+    latitude: -9.831274
+  barometer: 1011.19
+  wind:
+    speed: 14.7
+    direction: 108
+  engine:
+    hours: 1100.7
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: maintenance
+- datetime: 2026-04-02T20:00:38.598Z
+  text: ""
+  author: ""
+  position:
+    longitude: -124.7065914
+    latitude: -9.6705566
+    source: GPS
+  heading: 263
+  course: 285
+  speed:
+    sog: 6.7
+  log: 16164.9
+  waypoint:
+    longitude: -138.957061
+    latitude: -9.831274
+  barometer: 1011.18
+  wind:
+    speed: 15.2
+    direction: 91
+  engine:
+    hours: 1100.7
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
