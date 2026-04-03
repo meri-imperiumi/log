@@ -51,8 +51,8 @@
     - bergie
   category: navigation
 - datetime: 2026-04-03T02:00:57.800Z
-  text: ""
-  author: ""
+  text: Suski on watch. Dolphins at sunset!
+  author: ihmis-suski
   position:
     longitude: -125.1293634
     latitude: -9.7810174
@@ -76,6 +76,10 @@
     - ihmis-suski
     - bergie
   category: navigation
+  observations:
+    seaState: 4
+    cloudCoverage: 2
+    visibility: 7
 - datetime: 2026-04-03T03:00:56.800Z
   text: ""
   author: ""
@@ -95,6 +99,58 @@
   wind:
     speed: 11.2
     direction: 113
+  engine:
+    hours: 1100.7
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: navigation
+- datetime: 2026-04-03T04:00:59.800Z
+  text: ""
+  author: ""
+  position:
+    longitude: -125.25795817375183
+    latitude: -9.8027774810791
+    source: GPS
+  heading: 266
+  course: 257
+  speed:
+    sog: 4.2
+  log: 16199
+  waypoint:
+    longitude: -138.957061
+    latitude: -9.831274
+  barometer: 1010.22
+  wind:
+    speed: 10.8
+    direction: 111
+  engine:
+    hours: 1100.7
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: navigation
+- datetime: 2026-04-03T05:00:03.900Z
+  text: ""
+  author: ""
+  position:
+    longitude: -125.321
+    latitude: -9.8120901
+    source: GPS
+  heading: 260
+  course: 261
+  speed:
+    sog: 3.4
+  log: 16202.8
+  waypoint:
+    longitude: -138.957061
+    latitude: -9.831274
+  barometer: 1011.17
+  wind:
+    speed: 11.1
+    direction: 107
   engine:
     hours: 1100.7
   vhf: "16"
