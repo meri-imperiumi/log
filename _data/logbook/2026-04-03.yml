@@ -211,8 +211,8 @@
     - bergie
   category: navigation
 - datetime: 2026-04-03T08:00:11.299Z
-  text: ""
-  author: ""
+  text: Bergie on watch
+  author: bergie
   position:
     longitude: -125.506965
     latitude: -9.8501419
@@ -229,6 +229,62 @@
   wind:
     speed: 12.2
     direction: 105
+  engine:
+    hours: 1100.7
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: navigation
+  observations:
+    seaState: 4
+    cloudCoverage: 3
+    visibility: 7
+- datetime: 2026-04-03T08:03:04.300Z
+  text: "Sails set: Staysail, Genoa 1 (10% furled). Main was slatting too much"
+  author: bergie
+  position:
+    longitude: -125.5093453
+    latitude: -9.8496438
+    source: GPS
+  heading: 281
+  course: 285
+  speed:
+    sog: 3.2
+  log: 16214.3
+  waypoint:
+    longitude: -138.957061
+    latitude: -9.831274
+  barometer: 1011.24
+  wind:
+    speed: 9.4
+    direction: 111
+  engine:
+    hours: 1100.7
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: navigation
+- datetime: 2026-04-03T09:00:15.299Z
+  text: ""
+  author: ""
+  position:
+    longitude: -125.5561649
+    latitude: -9.8496481
+    source: GPS
+  heading: 271
+  course: 303
+  speed:
+    sog: 4
+  log: 16217.1
+  waypoint:
+    longitude: -138.957061
+    latitude: -9.831274
+  barometer: 1010.64
+  wind:
+    speed: 8.8
+    direction: 101
   engine:
     hours: 1100.7
   vhf: "16"
