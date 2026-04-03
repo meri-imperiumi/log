@@ -397,8 +397,8 @@
     - bergie
   category: navigation
 - datetime: 2026-04-03T14:00:30.400Z
-  text: ""
-  author: ""
+  text: Suski on watch
+  author: ihmis-suski
   position:
     longitude: -125.7938774
     latitude: -9.8264496
@@ -422,6 +422,10 @@
     - ihmis-suski
     - bergie
   category: navigation
+  observations:
+    seaState: 3
+    cloudCoverage: 1
+    visibility: 7
 - datetime: 2026-04-03T14:05:42.400Z
   text: Autopilot activated
   author: ""
@@ -577,3 +581,4 @@
   crewNames:
     - ihmis-suski
     - bergie
+  category: navigation
