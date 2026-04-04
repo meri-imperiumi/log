@@ -443,6 +443,9 @@ h2.meta {
   font-style: italic;
   font-size: smaller;
 }
+.geo abbr {
+  text-decoration: none;
+}
 #rss {
   float: right;
   margin-top: 0.7em;
