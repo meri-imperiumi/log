@@ -657,8 +657,8 @@
     - bergie
   category: maintenance
 - datetime: 2026-04-04T20:00:04.499Z
-  text: ""
-  author: ""
+  text: Bergie on watch
+  author: bergie
   position:
     longitude: -127.61845149993897
     latitude: -9.706321144104004
@@ -674,6 +674,62 @@
   barometer: 1010.52
   wind:
     speed: 12.3
+    direction: 100
+  engine:
+    hours: 1100.7
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: navigation
+  observations:
+    seaState: 3
+    cloudCoverage: 2
+    visibility: 7
+- datetime: 2026-04-04T20:15:04.499Z
+  text: Suski washed the dodger windows and aft solar panel
+  author: bergie
+  position:
+    longitude: -127.6349999
+    latitude: -9.7084653
+    source: GPS
+  heading: 251
+  course: 236
+  speed:
+    sog: 3.6
+  log: 16342.1
+  waypoint:
+    longitude: -138.957061
+    latitude: -9.831274
+  barometer: 1010.26
+  wind:
+    speed: 13
+    direction: 104
+  engine:
+    hours: 1100.7
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: maintenance
+- datetime: 2026-04-04T21:00:06.502Z
+  text: ""
+  author: ""
+  position:
+    longitude: -127.6868063
+    latitude: -9.7192736
+    source: GPS
+  heading: 262
+  course: 260
+  speed:
+    sog: 5.7
+  log: 16345.3
+  waypoint:
+    longitude: -138.957061
+    latitude: -9.831274
+  barometer: 1009.54
+  wind:
+    speed: 14.8
     direction: 100
   engine:
     hours: 1100.7
