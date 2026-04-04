@@ -1,22 +1,22 @@
-- datetime: 2026-04-04T00:00:01.100Z
-  text: ""
+- datetime: 2026-04-04T07:50:46.400Z
+  text: "Sails set: Main (1st reef), Staysail, Genoa 1 (10% furled)"
   author: ""
   position:
-    longitude: -126.314619
-    latitude: -9.794974
+    longitude: -126.7613671
+    latitude: -9.7341243
     source: GPS
-  heading: 287
-  course: 300
+  heading: 302
+  course: 279
   speed:
-    sog: 2.9
-  log: 16262.5
+    sog: 3
+  log: 16289.4
   waypoint:
     longitude: -138.957061
     latitude: -9.831274
-  barometer: 1008.15
+  barometer: 1010.76
   wind:
-    speed: 8.2
-    direction: 125
+    speed: 9.3
+    direction: 136
   engine:
     hours: 1100.7
   vhf: "16"
@@ -24,185 +24,25 @@
     - ihmis-suski
     - bergie
   category: navigation
-- datetime: 2026-04-04T01:00:05.200Z
+- datetime: 2026-04-04T08:00:23.801Z
   text: ""
   author: ""
   position:
-    longitude: -126.3662284
-    latitude: -9.7929593
+    longitude: -126.7723539
+    latitude: -9.7318164
     source: GPS
   heading: 274
-  course: 274
-  speed:
-    sog: 2.6
-  log: 16265.6
-  waypoint:
-    longitude: -138.957061
-    latitude: -9.831274
-  barometer: 1008.41
-  wind:
-    speed: 8.7
-    direction: 115
-  engine:
-    hours: 1100.7
-  vhf: "16"
-  crewNames:
-    - ihmis-suski
-    - bergie
-  category: navigation
-- datetime: 2026-04-04T02:00:07.200Z
-  text: Suski on watch
-  author: ihmis-suski
-  position:
-    longitude: -126.4194921
-    latitude: -9.7859566
-    source: GPS
-  heading: 270
-  course: 260
-  speed:
-    sog: 3.7
-  log: 16268.8
-  waypoint:
-    longitude: -138.957061
-    latitude: -9.831274
-  barometer: 1008.67
-  wind:
-    speed: 11.6
-    direction: 120
-  engine:
-    hours: 1100.7
-  vhf: "16"
-  crewNames:
-    - ihmis-suski
-    - bergie
-  category: navigation
-  observations:
-    seaState: 3
-    cloudCoverage: 1
-    visibility: 7
-- datetime: 2026-04-04T03:00:06.200Z
-  text: ""
-  author: ""
-  position:
-    longitude: -126.4732379
-    latitude: -9.7856138
-    source: GPS
-  heading: 265
-  course: 265
-  speed:
-    sog: 4.1
-  log: 16272
-  waypoint:
-    longitude: -138.957061
-    latitude: -9.831274
-  barometer: 1009.19
-  wind:
-    speed: 11.6
-    direction: 112
-  engine:
-    hours: 1100.7
-  vhf: "16"
-  crewNames:
-    - ihmis-suski
-    - bergie
-  category: navigation
-- datetime: 2026-04-04T04:00:11.299Z
-  text: ""
-  author: ""
-  position:
-    longitude: -126.5326444
-    latitude: -9.7813961
-    source: GPS
-  heading: 280
-  course: 273
+  course: 271
   speed:
     sog: 3.9
-  log: 16275.5
+  log: 16290.1
   waypoint:
     longitude: -138.957061
     latitude: -9.831274
-  barometer: 1009.84
+  barometer: 1010.8
   wind:
-    speed: 12.2
-    direction: 126
-  engine:
-    hours: 1100.7
-  vhf: "16"
-  crewNames:
-    - ihmis-suski
-    - bergie
-  category: navigation
-- datetime: 2026-04-04T05:00:13.299Z
-  text: ""
-  author: ""
-  position:
-    longitude: -126.5960953
-    latitude: -9.7667061
-    source: GPS
-  heading: 276
-  course: 283
-  speed:
-    sog: 4.3
-  log: 16279.4
-  waypoint:
-    longitude: -138.957061
-    latitude: -9.831274
-  barometer: 1010.37
-  wind:
-    speed: 11.4
-    direction: 130
-  engine:
-    hours: 1100.7
-  vhf: "16"
-  crewNames:
-    - ihmis-suski
-    - bergie
-  category: navigation
-- datetime: 2026-04-04T06:00:16.300Z
-  text: ""
-  author: ""
-  position:
-    longitude: -126.6566251
-    latitude: -9.7537521
-    source: GPS
-  heading: 281
-  course: 310
-  speed:
-    sog: 4.8
-  log: 16283.1
-  waypoint:
-    longitude: -138.957061
-    latitude: -9.831274
-  barometer: 1010.91
-  wind:
-    speed: 8.4
-    direction: 120
-  engine:
-    hours: 1100.7
-  vhf: "16"
-  crewNames:
-    - ihmis-suski
-    - bergie
-  category: navigation
-- datetime: 2026-04-04T07:00:20.400Z
-  text: ""
-  author: ""
-  position:
-    longitude: -126.7159664
-    latitude: -9.742115
-    source: GPS
-  heading: 282
-  course: 299
-  speed:
-    sog: 3.1
-  log: 16286.7
-  waypoint:
-    longitude: -138.957061
-    latitude: -9.831274
-  barometer: 1010.98
-  wind:
-    speed: 9.4
-    direction: 119
+    speed: 12.1
+    direction: 127
   engine:
     hours: 1100.7
   vhf: "16"
