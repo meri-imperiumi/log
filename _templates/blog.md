@@ -1,7 +1,7 @@
 ---
 title: From - To
 ---
-Text here
+K
 
 * Distance today: XXNM
 * Lunch: XX
