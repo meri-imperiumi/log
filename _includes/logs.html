@@ -11,7 +11,7 @@
     {% if post_year contains current_year %}
   <li id="{{ post.created | date: "%Y%m%d" }}">
     <article>
-      <h2 class="meta">{{ post.created | date: "%A, %B %-d, %Y" }}</h2>
+      <h2 class="meta">{% include post_metadata.html %}</h2>
       <h1><a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a></h1>
       {{ post.excerpt | replace: 'img src="..', 'img src="https://meri-imperiumi.github.io/log'| replace: 'https://meri-imperiumi.github.io/log',site.baseurl | replace: "Lille Ø", "<i>Lille Ø</i>" | replace: "Isosaari", "<i>Isosaari</i>" }}
       {% assign images = post.content | split:"<img " %}

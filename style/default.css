@@ -443,6 +443,9 @@ h2.meta {
   font-style: italic;
   font-size: smaller;
 }
+.meta .geo {
+  margin-left: 0.7em;
+}
 .geo abbr {
   text-decoration: none;
 }

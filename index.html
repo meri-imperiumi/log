@@ -25,23 +25,7 @@ excerpt: Lille Ø is our cruising sailboat, a 1979 Amigo 40. A Swedish-built boa
   {% include videos_before_post.html %}
   <li id="{{ post.created | date: "%Y%m%d" }}">
     <article>
-      <h2 class="meta">{{ post.created | date: "%A, %B %-d, %Y" }}{% 
-      if post.position %}
-        {% assign lat_deg = post.position.lat | abs %}
-        {% assign lat_deg_f = lat_deg | floor %}
-        {% assign lat_min = lat_deg | minus: lat_deg_f | times: 60 %}
-        {% assign lat_min_f = lat_min | floor %}
-        {% assign lat_sec = lat_min | minus: lat_min_f | times: 60 | floor %}
-        {% assign lon_deg = post.position.lon | abs %}
-        {% assign lon_deg_f = lon_deg | floor %}
-        {% assign lon_min = lon_deg | minus: lon_deg_f | times: 60 %}
-        {% assign lon_min_f = lon_min | floor %}
-        {% assign lon_sec = lon_min | minus: lon_min_f | times: 60 | floor %}
-        <span class="geo">
-          <abbr class="latitude" title="{{ post.position.lat }}">{{ lat_deg_f }}&deg;{{ lat_min_f }}'{{ lat_sec }}"{% if post.position.lat >= 0 %}N{% else %}S{% endif %}</abbr>
-          <abbr class="longitude" title="{{ post.position.lon }}">{{ lon_deg_f }}&deg;{{ lon_min_f }}'{{ lon_sec }}"{% if post.position.lon >= 0 %}E{% else %}W{% endif %}</abbr>
-        </span>
-      {% endif %}</h2>
+      <h2 class="meta">{% include post_metadata.html %}</h2>
       <h1><a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a></h1>
       {% if post.content.size > 4000 %}
       {{ post.content | split: '<!--more-->' | first | replace: 'img src="..', 'img src="https://meri-imperiumi.github.io/log'| replace: 'https://meri-imperiumi.github.io/log',site.baseurl | replace: "Lille Ø", "<i>Lille Ø</i>" | replace: "Isosaari", "<i>Isosaari</i>" }}
