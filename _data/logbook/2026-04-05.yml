@@ -157,3 +157,55 @@
   crewNames:
     - ihmis-suski
     - bergie
+  category: navigation
+- datetime: 2026-04-05T04:32:13.800Z
+  text: The moon rises as a gigantic wheel of cheese.
+  author: ihmis-suski
+  position:
+    longitude: -128.2103551
+    latitude: -9.8174479
+    source: GPS
+  heading: 255
+  course: 245
+  speed:
+    sog: 4.6
+  log: 16377
+  waypoint:
+    longitude: -138.957061
+    latitude: -9.831274
+  barometer: 1010.17
+  wind:
+    speed: 14.4
+    direction: 108
+  engine:
+    hours: 1100.7
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: navigation
+- datetime: 2026-04-05T05:00:17.800Z
+  text: ""
+  author: ""
+  position:
+    longitude: -128.2471433
+    latitude: -9.8233929
+    source: GPS
+  heading: 251
+  course: 253
+  speed:
+    sog: 4.8
+  log: 16379.3
+  waypoint:
+    longitude: -138.957061
+    latitude: -9.831274
+  barometer: 1010.5
+  wind:
+    speed: 14.1
+    direction: 96
+  engine:
+    hours: 1100.7
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
