@@ -426,3 +426,55 @@
     - ihmis-suski
     - bergie
   category: navigation
+- datetime: 2026-04-06T15:00:36.902Z
+  text: ""
+  author: ""
+  position:
+    longitude: -130.497904
+    latitude: -10.2671191
+    source: GPS
+  heading: 304
+  course: 290
+  speed:
+    sog: 4.4
+  log: 16517.7
+  waypoint:
+    longitude: -138.957061
+    latitude: -9.831274
+  barometer: 1010.71
+  wind:
+    speed: 13.1
+    direction: 97
+  engine:
+    hours: 1100.7
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: navigation
+- datetime: 2026-04-06T15:03:36.902Z
+  text: InReach mini ran out of battery. Charging it now.
+  author: ihmis-suski
+  position:
+    longitude: -130.5007886
+    latitude: -10.2663181
+    source: GPS
+  heading: 289
+  course: 289
+  speed:
+    sog: 3.1
+  log: 16517.9
+  waypoint:
+    longitude: -138.957061
+    latitude: -9.831274
+  barometer: 1010.77
+  wind:
+    speed: 8.5
+    direction: 100
+  engine:
+    hours: 1100.7
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: maintenance
