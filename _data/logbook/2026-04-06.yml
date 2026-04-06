@@ -555,3 +555,135 @@
   crewNames:
     - ihmis-suski
     - bergie
+  category: navigation
+- datetime: 2026-04-06T19:00:49.401Z
+  text: ""
+  author: ""
+  position:
+    longitude: -130.7241271
+    latitude: -10.2322039
+    source: GPS
+  heading: 291
+  course: 281
+  speed:
+    sog: 3.9
+  log: 16531.4
+  waypoint:
+    longitude: -133.23193
+    latitude: -10.115684
+  barometer: 1011.97
+  wind:
+    speed: 10.3
+    direction: 87
+  engine:
+    hours: 1100.7
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: navigation
+- datetime: 2026-04-06T19:23:06.400Z
+  text: "Sails set: Main (1st reef), Staysail, Genoa 1 (30% furled) looks like a
+    squall might hit"
+  author: ihmis-suski
+  position:
+    longitude: -130.7408178
+    latitude: -10.2264968
+    source: GPS
+  heading: 307
+  course: 300
+  speed:
+    sog: 3.2
+  log: 16532.5
+  waypoint:
+    longitude: -133.23193
+    latitude: -10.115684
+  barometer: 1011.64
+  wind:
+    speed: 9.2
+    direction: 98
+  engine:
+    hours: 1100.7
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: navigation
+- datetime: 2026-04-06T19:31:51.398Z
+  text: Rain
+  author: ihmis-suski
+  position:
+    longitude: -130.74670581817628
+    latitude: -10.224641672770183
+    source: GPS
+  heading: 273
+  course: 264
+  speed:
+    sog: 2.6
+  log: 16532.9
+  waypoint:
+    longitude: -133.23193
+    latitude: -10.115684
+  barometer: 1011.53
+  wind:
+    speed: 9.8
+    direction: 72
+  engine:
+    hours: 1100.7
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: navigation
+- datetime: 2026-04-06T19:39:51.398Z
+  text: Changed ship's time to UTC-9
+  author: bergie
+  position:
+    longitude: -130.7535306
+    latitude: -10.2242674
+    source: GPS
+  heading: 304
+  course: 286
+  speed:
+    sog: 3.7
+  log: 16533.3
+  waypoint:
+    longitude: -133.23193
+    latitude: -10.115684
+  barometer: 1011.53
+  wind:
+    speed: 14.1
+    direction: 83
+  engine:
+    hours: 1100.7
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: navigation
+- datetime: 2026-04-06T19:57:04.396Z
+  text: "Sails set: Main (1st reef), Staysail, Genoa 1 (10% furled)"
+  author: ""
+  position:
+    longitude: -130.76816298166912
+    latitude: -10.2232616742452
+    source: GPS
+  heading: 274
+  course: 268
+  speed:
+    sog: 3.1
+  log: 16534.2
+  waypoint:
+    longitude: -133.23193
+    latitude: -10.115684
+  barometer: 1011.21
+  wind:
+    speed: 10.9
+    direction: 66
+  engine:
+    hours: 1100.7
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: navigation
