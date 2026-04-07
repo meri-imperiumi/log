@@ -822,3 +822,107 @@
     - ihmis-suski
     - bergie
   category: navigation
+- datetime: 2026-04-07T20:00:00.902Z
+  text: ""
+  author: ""
+  position:
+    longitude: -132.1980295
+    latitude: -9.8586993
+    source: GPS
+  heading: 300
+  course: 306
+  speed:
+    sog: 4.2
+  log: 16622.8
+  waypoint:
+    longitude: -132.210511
+    latitude: -9.851729
+  barometer: 1011.23
+  wind:
+    speed: 13.4
+    direction: 89
+  engine:
+    hours: 1100.7
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: navigation
+- datetime: 2026-04-07T20:02:59.897Z
+  text: Started watermaker
+  author: bergie
+  position:
+    longitude: -132.2011144
+    latitude: -9.8574715
+    source: GPS
+  heading: 304
+  course: 301
+  speed:
+    sog: 3.4
+  log: 16623
+  waypoint:
+    longitude: -132.210511
+    latitude: -9.851729
+  barometer: 1011.14
+  wind:
+    speed: 11.4
+    direction: 98
+  engine:
+    hours: 1100.7
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: maintenance
+- datetime: 2026-04-07T20:17:01.900Z
+  text: Watermaker 301ppm
+  author: bergie
+  position:
+    longitude: -132.2156068
+    latitude: -9.8510726
+    source: GPS
+  heading: 297
+  course: 306
+  speed:
+    sog: 4
+  log: 16623.9
+  waypoint:
+    longitude: -132.290759
+    latitude: -9.823036
+  barometer: 1010.99
+  wind:
+    speed: 11.2
+    direction: 99
+  engine:
+    hours: 1100.7
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: maintenance
+- datetime: 2026-04-07T20:29:13.900Z
+  text: Autopilot deactivated, windvane steering
+  author: bergie
+  position:
+    longitude: -132.2273796
+    latitude: -9.8453146
+    source: GPS
+  heading: 307
+  course: 282
+  speed:
+    sog: 3.4
+  log: 16624.7
+  waypoint:
+    longitude: -132.290759
+    latitude: -9.823036
+  barometer: 1010.84
+  wind:
+    speed: 10.2
+    direction: 103
+  engine:
+    hours: 1100.7
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: navigation
