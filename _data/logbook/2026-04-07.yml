@@ -926,3 +926,55 @@
     - ihmis-suski
     - bergie
   category: navigation
+- datetime: 2026-04-07T21:00:02.899Z
+  text: ""
+  author: ""
+  position:
+    longitude: -132.2540333
+    latitude: -9.8263566
+    source: GPS
+  heading: 307
+  course: 299
+  speed:
+    sog: 3.5
+  log: 16626.7
+  waypoint:
+    longitude: -132.290759
+    latitude: -9.823036
+  barometer: 1010.32
+  wind:
+    speed: 8.9
+    direction: 118
+  engine:
+    hours: 1100.7
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: navigation
+- datetime: 2026-04-07T21:30:04.902Z
+  text: Lots of VHF static again
+  author: bergie
+  position:
+    longitude: -132.2783318
+    latitude: -9.8033786
+    source: GPS
+  heading: 322
+  course: 328
+  speed:
+    sog: 4.6
+  log: 16628.7
+  waypoint:
+    longitude: -132.290759
+    latitude: -9.823036
+  barometer: 1009.81
+  wind:
+    speed: 12.5
+    direction: 109
+  engine:
+    hours: 1100.7
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: radio
