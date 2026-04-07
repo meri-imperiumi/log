@@ -132,3 +132,30 @@
     - ihmis-suski
     - bergie
   category: navigation
+- datetime: 2026-04-07T05:00:14.099Z
+  text: We have gotten a ping from a class B AIS target 15 minutes ago. Mmsi
+    227015810. 10 miles behind us. (Vessel name La Bulle)
+  author: ihmis-suski
+  position:
+    longitude: -131.3044503
+    latitude: -10.1246949
+    source: GPS
+  heading: 295
+  course: 296
+  speed:
+    sog: 4.5
+  log: 16566.9
+  waypoint:
+    longitude: -131.355631
+    latitude: -10.08822
+  barometer: 1011.02
+  wind:
+    speed: 10.2
+    direction: 92
+  engine:
+    hours: 1100.7
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: navigation
