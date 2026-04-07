@@ -451,3 +451,56 @@
   crewNames:
     - ihmis-suski
     - bergie
+  category: navigation
+- datetime: 2026-04-07T12:00:35.299Z
+  text: ""
+  author: ""
+  position:
+    longitude: -131.75317033131918
+    latitude: -10.03609383503596
+    source: GPS
+  heading: 292
+  course: 274
+  speed:
+    sog: 4.2
+  log: 16594.2
+  waypoint:
+    longitude: -131.754141
+    latitude: -9.99101
+  barometer: 1009.53
+  wind:
+    speed: 10.2
+    direction: 89
+  engine:
+    hours: 1100.7
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: navigation
+- datetime: 2026-04-07T12:49:36.300Z
+  text: La Bulle is now passing us, 0.4NM to starboard
+  author: bergie
+  position:
+    longitude: -131.8022823
+    latitude: -10.0230058
+    source: GPS
+  heading: 289
+  course: 297
+  speed:
+    sog: 2.6
+  log: 16597.2
+  waypoint:
+    longitude: -131.831648
+    latitude: -9.971838
+  barometer: 1009.33
+  wind:
+    speed: 6.7
+    direction: 85
+  engine:
+    hours: 1100.7
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: navigation
