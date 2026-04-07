@@ -159,3 +159,83 @@
     - ihmis-suski
     - bergie
   category: navigation
+- datetime: 2026-04-07T06:00:18.099Z
+  text: ""
+  author: ""
+  position:
+    longitude: -131.3721148
+    latitude: -10.1097599
+    source: GPS
+  heading: 277
+  course: 266
+  speed:
+    sog: 4.5
+  log: 16571.1
+  waypoint:
+    longitude: -131.436181
+    latitude: -10.067022
+  barometer: 1011.56
+  wind:
+    speed: 12.9
+    direction: 76
+  engine:
+    hours: 1100.7
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: navigation
+- datetime: 2026-04-07T06:08:19.100Z
+  text: Finally got the detail data for La Bulle. 18x4 meters, so one of the
+    Oysters. Still 9 miles out.
+  author: ihmis-suski
+  position:
+    longitude: -131.3809508
+    latitude: -10.1084406
+    source: GPS
+  heading: 289
+  course: 279
+  speed:
+    sog: 3.7
+  log: 16571.6
+  waypoint:
+    longitude: -131.436181
+    latitude: -10.067022
+  barometer: 1011.53
+  wind:
+    speed: 11.2
+    direction: 84
+  engine:
+    hours: 1100.7
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: navigation
+- datetime: 2026-04-07T06:24:19.100Z
+  text: The wheel of cheese is rising. A sizeable chunk missing. Not unlike us, we
+    are on the last sliver of cheese on board.
+  author: ihmis-suski
+  position:
+    longitude: -131.3985249
+    latitude: -10.1063341
+    source: GPS
+  heading: 289
+  course: 284
+  speed:
+    sog: 4.5
+  log: 16572.6
+  waypoint:
+    longitude: -131.436181
+    latitude: -10.067022
+  barometer: 1011.65
+  wind:
+    speed: 11.1
+    direction: 95
+  engine:
+    hours: 1100.7
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: navigation
