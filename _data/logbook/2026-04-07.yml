@@ -641,7 +641,7 @@
     - bergie
   category: navigation
 - datetime: 2026-04-07T15:41:45.702Z
-  text: Rqin
+  text: Rain
   author: ihmis-suski
   position:
     longitude: -131.9564324
@@ -795,3 +795,30 @@
   crewNames:
     - ihmis-suski
     - bergie
+  category: navigation
+- datetime: 2026-04-07T19:00:56.800Z
+  text: ""
+  author: ""
+  position:
+    longitude: -132.1354938
+    latitude: -9.8772736
+    source: GPS
+  heading: 292
+  course: 298
+  speed:
+    sog: 3.7
+  log: 16618.9
+  waypoint:
+    longitude: -132.210511
+    latitude: -9.851729
+  barometer: 1011.9
+  wind:
+    speed: 11.6
+    direction: 96
+  engine:
+    hours: 1100.7
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: navigation
