@@ -239,3 +239,56 @@
     - ihmis-suski
     - bergie
   category: navigation
+- datetime: 2026-04-07T07:00:21.100Z
+  text: ""
+  author: ""
+  position:
+    longitude: -131.4356373
+    latitude: -10.0970441
+    source: GPS
+  heading: 278
+  course: 266
+  speed:
+    sog: 3.3
+  log: 16574.9
+  waypoint:
+    longitude: -131.436181
+    latitude: -10.067022
+  barometer: 1011.76
+  wind:
+    speed: 10.2
+    direction: 85
+  engine:
+    hours: 1100.7
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: navigation
+- datetime: 2026-04-07T07:52:22.099Z
+  text: "Every now and then the red navigational light is visible! 6.3nm #16?
+    (Need to check)"
+  author: ihmis-suski
+  position:
+    longitude: -131.4904216
+    latitude: -10.0867904
+    source: GPS
+  heading: 274
+  course: 279
+  speed:
+    sog: 3.5
+  log: 16578.3
+  waypoint:
+    longitude: -131.51726
+    latitude: -10.046155
+  barometer: 1011.75
+  wind:
+    speed: 11.1
+    direction: 69
+  engine:
+    hours: 1100.7
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: navigation
