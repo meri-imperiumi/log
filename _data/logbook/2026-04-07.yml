@@ -344,3 +344,59 @@
     - ihmis-suski
     - bergie
   category: radio
+- datetime: 2026-04-07T09:00:25.200Z
+  text: Bergie on watch
+  author: bergie
+  position:
+    longitude: -131.5615259
+    latitude: -10.0714584
+    source: GPS
+  heading: 274
+  course: 248
+  speed:
+    sog: 3.2
+  log: 16582.6
+  waypoint:
+    longitude: -131.595524
+    latitude: -10.023445
+  barometer: 1011.18
+  wind:
+    speed: 6.4
+    direction: 91
+  engine:
+    hours: 1100.7
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: navigation
+  observations:
+    seaState: 3
+    cloudCoverage: 1
+    visibility: 7
+- datetime: 2026-04-07T09:11:33.200Z
+  text: Autopilot activated
+  author: ""
+  position:
+    longitude: -131.5731263478597
+    latitude: -10.071389333407085
+    source: GPS
+  heading: 276
+  course: 296
+  speed:
+    sog: 2.8
+  log: 16583.3
+  waypoint:
+    longitude: -131.595524
+    latitude: -10.023445
+  barometer: 1011.04
+  wind:
+    speed: 7.6
+    direction: 75
+  engine:
+    hours: 1100.7
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: navigation
