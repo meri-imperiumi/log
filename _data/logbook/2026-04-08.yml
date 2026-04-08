@@ -77,3 +77,82 @@
     - ihmis-suski
     - bergie
   category: navigation
+- datetime: 2026-04-08T01:00:17.400Z
+  text: ""
+  author: ""
+  position:
+    longitude: -132.4739848
+    latitude: -9.6853253
+    source: GPS
+  heading: 315
+  course: 318
+  speed:
+    sog: 2.8
+  log: 16642.4
+  waypoint:
+    longitude: -132.478973
+    latitude: -9.800639
+  barometer: 1008.14
+  wind:
+    speed: 10.5
+    direction: 108
+  engine:
+    hours: 1101.1
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: navigation
+- datetime: 2026-04-08T01:11:17.400Z
+  text: Gybed
+  author: bergie
+  position:
+    longitude: -132.481343
+    latitude: -9.6811563
+    source: GPS
+  heading: 280
+  course: 269
+  speed:
+    sog: 3
+  log: 16643
+  waypoint:
+    longitude: -132.478973
+    latitude: -9.800639
+  barometer: 1008.16
+  wind:
+    speed: 11.1
+    direction: 117
+  engine:
+    hours: 1101.1
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: navigation
+- datetime: 2026-04-08T01:24:18.400Z
+  text: "Moved the port side Starbuck steering line by 20cm to get the slightly
+    worn part off the roll. "
+  author: ihmis-suski
+  position:
+    longitude: -132.4958911
+    latitude: -9.6800698
+    source: GPS
+  heading: 262
+  course: 250
+  speed:
+    sog: 4.1
+  log: 16643.8
+  waypoint:
+    longitude: -132.478973
+    latitude: -9.800639
+  barometer: 1008.23
+  wind:
+    speed: 15.8
+    direction: 113
+  engine:
+    hours: 1101.1
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: maintenance
