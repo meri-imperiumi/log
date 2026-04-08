@@ -183,8 +183,8 @@
     - bergie
   category: navigation
 - datetime: 2026-04-08T03:00:17.500Z
-  text: ""
-  author: ""
+  text: Suski on watch
+  author: ihmis-suski
   position:
     longitude: -132.612516
     latitude: -9.6777786
@@ -208,6 +208,10 @@
     - ihmis-suski
     - bergie
   category: navigation
+  observations:
+    seaState: 3
+    cloudCoverage: 3
+    visibility: 7
 - datetime: 2026-04-08T03:10:55.500Z
   text: "Sails set: Main (1st reef), Staysail, Genoa 1 (20% furled)"
   author: ""
@@ -305,6 +309,84 @@
   wind:
     speed: 17
     direction: 116
+  engine:
+    hours: 1101.1
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: navigation
+- datetime: 2026-04-08T04:00:19.500Z
+  text: ""
+  author: ""
+  position:
+    longitude: -132.6858181
+    latitude: -9.6748948
+    source: GPS
+  heading: 262
+  course: 273
+  speed:
+    sog: 4.5
+  log: 16655.2
+  waypoint:
+    longitude: -132.702892
+    latitude: -9.692082
+  barometer: 1009.96
+  wind:
+    speed: 16.2
+    direction: 107
+  engine:
+    hours: 1101.1
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: navigation
+- datetime: 2026-04-08T04:16:25.500Z
+  text: "Sails set: Main (1st reef), Staysail, Genoa 1 (30% furled)"
+  author: ""
+  position:
+    longitude: -132.7062171
+    latitude: -9.6762923
+    source: GPS
+  heading: 253
+  course: 254
+  speed:
+    sog: 4.4
+  log: 16656.4
+  waypoint:
+    longitude: -132.777096
+    latitude: -9.702422
+  barometer: 1010.29
+  wind:
+    speed: 15.1
+    direction: 102
+  engine:
+    hours: 1101.1
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: navigation
+- datetime: 2026-04-08T04:55:40.499Z
+  text: "Sails set: Main (1st reef), Staysail, Genoa 1 (50% furled)"
+  author: ""
+  position:
+    longitude: -132.7572411
+    latitude: -9.6824886
+    source: GPS
+  heading: 253
+  course: 248
+  speed:
+    sog: 5.1
+  log: 16659.4
+  waypoint:
+    longitude: -132.777096
+    latitude: -9.702422
+  barometer: 1010.54
+  wind:
+    speed: 17.9
+    direction: 103
   engine:
     hours: 1101.1
   vhf: "16"
