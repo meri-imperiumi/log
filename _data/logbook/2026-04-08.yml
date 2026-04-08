@@ -948,3 +948,108 @@
   crewNames:
     - ihmis-suski
     - bergie
+  category: navigation
+- datetime: 2026-04-08T20:00:10.400Z
+  text: ""
+  author: ""
+  position:
+    longitude: -133.85350933074952
+    latitude: -9.754748153686524
+    source: GPS
+  heading: 247
+  course: 238
+  speed:
+    sog: 3.1
+  log: 16725.9
+  waypoint:
+    longitude: -138.974555
+    latitude: -9.833475
+  barometer: 1011.76
+  wind:
+    speed: 14
+    direction: 91
+  engine:
+    hours: 1101.1
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: navigation
+- datetime: 2026-04-08T20:18:11.398Z
+  text: Started watermaker
+  author: bergie
+  position:
+    longitude: -133.8760466
+    latitude: -9.7584891
+    source: GPS
+  heading: 248
+  course: 267
+  speed:
+    sog: 5.1
+  log: 16727.2
+  waypoint:
+    longitude: -138.974555
+    latitude: -9.833475
+  barometer: 1011.44
+  wind:
+    speed: 16.8
+    direction: 87
+  engine:
+    hours: 1101.1
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: maintenance
+- datetime: 2026-04-08T20:31:11.398Z
+  text: Watermaker 291ppm
+  author: bergie
+  position:
+    longitude: -133.891817
+    latitude: -9.760386
+    source: GPS
+  heading: 260
+  course: 276
+  speed:
+    sog: 3.9
+  log: 16728.2
+  waypoint:
+    longitude: -138.974555
+    latitude: -9.833475
+  barometer: 1011.24
+  wind:
+    speed: 15.1
+    direction: 82
+  engine:
+    hours: 1101.1
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: maintenance
+- datetime: 2026-04-08T20:45:11.398Z
+  text: Added dacron sail patch to the hole in staysail
+  author: ihmis-suski
+  position:
+    longitude: -133.9084585
+    latitude: -9.7619384
+    source: GPS
+  heading: 262
+  course: 252
+  speed:
+    sog: 3.7
+  log: 16729.2
+  waypoint:
+    longitude: -138.974555
+    latitude: -9.833475
+  barometer: 1011.06
+  wind:
+    speed: 15.9
+    direction: 104
+  engine:
+    hours: 1101.1
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: maintenance
