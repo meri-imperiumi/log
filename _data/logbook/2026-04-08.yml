@@ -659,3 +659,55 @@
     - ihmis-suski
     - bergie
   category: navigation
+- datetime: 2026-04-08T11:00:39.699Z
+  text: ""
+  author: ""
+  position:
+    longitude: -133.1855583
+    latitude: -9.6762973
+    source: GPS
+  heading: 263
+  course: 261
+  speed:
+    sog: 4.6
+  log: 16685.3
+  waypoint:
+    longitude: -133.239598
+    latitude: -9.723473
+  barometer: 1009.97
+  wind:
+    speed: 18.1
+    direction: 108
+  engine:
+    hours: 1101.1
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: navigation
+- datetime: 2026-04-08T11:38:41.699Z
+  text: Again rain
+  author: bergie
+  position:
+    longitude: -133.2327393
+    latitude: -9.6718371
+    source: GPS
+  heading: 260
+  course: 266
+  speed:
+    sog: 5.5
+  log: 16688.1
+  waypoint:
+    longitude: -133.239598
+    latitude: -9.723473
+  barometer: 1009.74
+  wind:
+    speed: 22.3
+    direction: 115
+  engine:
+    hours: 1101.1
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: navigation
