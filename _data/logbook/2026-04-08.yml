@@ -581,3 +581,81 @@
     - ihmis-suski
     - bergie
   category: navigation
+- datetime: 2026-04-08T10:00:37.699Z
+  text: ""
+  author: ""
+  position:
+    longitude: -133.1143109
+    latitude: -9.6834379
+    source: GPS
+  heading: 276
+  course: 272
+  speed:
+    sog: 4.6
+  log: 16681
+  waypoint:
+    longitude: -133.147975
+    latitude: -9.711762
+  barometer: 1010.35
+  wind:
+    speed: 17.2
+    direction: 123
+  engine:
+    hours: 1101.1
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: navigation
+- datetime: 2026-04-08T10:47:40.700Z
+  text: Rain
+  author: bergie
+  position:
+    longitude: -133.1688343365987
+    latitude: -9.676062520345052
+    source: GPS
+  heading: 261
+  course: 280
+  speed:
+    sog: 5.2
+  log: 16684.3
+  waypoint:
+    longitude: -133.239598
+    latitude: -9.723473
+  barometer: 1009.96
+  wind:
+    speed: 17.5
+    direction: 100
+  engine:
+    hours: 1101.1
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: navigation
+- datetime: 2026-04-08T10:53:40.700Z
+  text: Gusting to 25kn. The dodger backdrop is pure magic
+  author: bergie
+  position:
+    longitude: -133.17664
+    latitude: -9.676998
+    source: GPS
+  heading: 262
+  course: 282
+  speed:
+    sog: 6.2
+  log: 16684.7
+  waypoint:
+    longitude: -133.239598
+    latitude: -9.723473
+  barometer: 1009.89
+  wind:
+    speed: 23.2
+    direction: 111
+  engine:
+    hours: 1101.1
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: navigation
