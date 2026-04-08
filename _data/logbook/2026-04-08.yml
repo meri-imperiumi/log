@@ -1,0 +1,79 @@
+- datetime: 2026-04-08T00:00:15.000Z
+  text: ""
+  author: ""
+  position:
+    longitude: -132.42196067174277
+    latitude: -9.720767529805501
+    source: GPS
+  heading: 311
+  course: 317
+  speed:
+    sog: 3.6
+  log: 16638.6
+  waypoint:
+    longitude: -132.478973
+    latitude: -9.800639
+  barometer: 1008.03
+  wind:
+    speed: 11
+    direction: 110
+  engine:
+    hours: 1100.7
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: navigation
+- datetime: 2026-04-08T00:11:37.000Z
+  text: Sails down, motoring
+  author: ""
+  position:
+    longitude: -132.4320989
+    latitude: -9.714742
+    source: GPS
+  heading: 310
+  course: 310
+  speed:
+    sog: 3.7
+  log: 16639.4
+  waypoint:
+    longitude: -132.478973
+    latitude: -9.800639
+  barometer: 1008.02
+  wind:
+    speed: 11.4
+    direction: 107
+  engine:
+    hours: 1100.7
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: navigation
+- datetime: 2026-04-08T00:33:23.400Z
+  text: Motor stopped, sailing with Main (1st reef), Staysail, Genoa 1 (10%
+    furled). Windvane steering
+  author: bergie
+  position:
+    longitude: -132.4526666
+    latitude: -9.7007108
+    source: GPS
+  heading: 310
+  course: 294
+  speed:
+    sog: 4.2
+  log: 16640.8
+  waypoint:
+    longitude: -132.478973
+    latitude: -9.800639
+  barometer: 1008.16
+  wind:
+    speed: 10.3
+    direction: 116
+  engine:
+    hours: 1101.1
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: navigation
