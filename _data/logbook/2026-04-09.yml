@@ -447,3 +447,56 @@
   crewNames:
     - ihmis-suski
     - bergie
+  category: navigation
+- datetime: 2026-04-09T15:00:53.299Z
+  text: ""
+  author: ""
+  position:
+    longitude: -135.0572968
+    latitude: -9.5347689
+    source: GPS
+  heading: 227
+  course: 239
+  speed:
+    sog: 3.9
+  log: 16803.6
+  waypoint:
+    longitude: -139.034536
+    latitude: -9.821366
+  barometer: 1011.62
+  wind:
+    speed: 18.2
+    direction: 91
+  engine:
+    hours: 1101.1
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: navigation
+- datetime: 2026-04-09T15:12:53.299Z
+  text: Gybe to port tack
+  author: bergie
+  position:
+    longitude: -135.0685011
+    latitude: -9.5405178
+    source: GPS
+  heading: 263
+  course: 260
+  speed:
+    sog: 5.9
+  log: 16804.3
+  waypoint:
+    longitude: -139.034536
+    latitude: -9.821366
+  barometer: 1011.66
+  wind:
+    speed: 17.4
+    direction: 109
+  engine:
+    hours: 1101.1
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: navigation
