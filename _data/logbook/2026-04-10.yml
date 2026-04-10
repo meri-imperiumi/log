@@ -819,3 +819,86 @@
   crewNames:
     - ihmis-suski
     - bergie
+  category: navigation
+- datetime: 2026-04-10T20:33:06.201Z
+  text: "Sails set: Main (1st reef), Staysail"
+  author: ""
+  position:
+    longitude: -137.1732106
+    latitude: -9.7162045
+    source: GPS
+  heading: 250
+  course: 254
+  speed:
+    sog: 4.6
+  log: 16931
+  waypoint:
+    longitude: -138.931137
+    latitude: -9.829477
+  barometer: 1010.46
+  wind:
+    speed: 13.9
+    direction: 103
+  engine:
+    hours: 1101.1
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: navigation
+- datetime: 2026-04-10T20:48:06.201Z
+  text: Rain
+  author: bergie
+  position:
+    longitude: -137.1884473
+    latitude: -9.7196884
+    source: GPS
+  heading: 262
+  course: 265
+  speed:
+    sog: 4.1
+  log: 16931.9
+  waypoint:
+    longitude: -138.931137
+    latitude: -9.829477
+  barometer: 1010.26
+  wind:
+    speed: 14.7
+    direction: 113
+  engine:
+    hours: 1101.1
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: navigation
+- datetime: 2026-04-10T21:00:07.200Z
+  text: Bergie on watch
+  author: bergie
+  position:
+    longitude: -137.2024828
+    latitude: -9.7200746
+    source: GPS
+  heading: 280
+  course: 304
+  speed:
+    sog: 2.9
+  log: 16932.7
+  waypoint:
+    longitude: -138.931137
+    latitude: -9.829477
+  barometer: 1010.15
+  wind:
+    speed: 14.6
+    direction: 108
+  engine:
+    hours: 1101.1
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: navigation
+  observations:
+    seaState: 4
+    cloudCoverage: 6
+    visibility: 7
