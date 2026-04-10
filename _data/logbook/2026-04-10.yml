@@ -23,3 +23,81 @@
   crewNames:
     - ihmis-suski
     - bergie
+  category: navigation
+- datetime: 2026-04-10T00:12:21.600Z
+  text: Wave splashed the cockpit
+  author: bergie
+  position:
+    longitude: -135.7321843
+    latitude: -9.6049603
+    source: GPS
+  heading: 276
+  course: 278
+  speed:
+    sog: 3.3
+  log: 16844.2
+  waypoint:
+    longitude: -138.931137
+    latitude: -9.829477
+  barometer: 1008.49
+  wind:
+    speed: 11.9
+    direction: 86
+  engine:
+    hours: 1101.1
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: navigation
+- datetime: 2026-04-10T00:27:20.600Z
+  text: Rain
+  author: bergie
+  position:
+    longitude: -135.7486728
+    latitude: -9.6049731
+    source: GPS
+  heading: 275
+  course: 270
+  speed:
+    sog: 4.2
+  log: 16845.2
+  waypoint:
+    longitude: -138.931137
+    latitude: -9.829477
+  barometer: 1008.39
+  wind:
+    speed: 14.3
+    direction: 101
+  engine:
+    hours: 1101.1
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: navigation
+- datetime: 2026-04-10T01:00:22.600Z
+  text: ""
+  author: ""
+  position:
+    longitude: -135.788422
+    latitude: -9.6102421
+    source: GPS
+  heading: 273
+  course: 281
+  speed:
+    sog: 5.4
+  log: 16847.6
+  waypoint:
+    longitude: -138.931137
+    latitude: -9.829477
+  barometer: 1008.49
+  wind:
+    speed: 17.9
+    direction: 100
+  engine:
+    hours: 1101.1
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
