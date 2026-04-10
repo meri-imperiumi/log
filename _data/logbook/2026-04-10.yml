@@ -927,3 +927,81 @@
   crewNames:
     - ihmis-suski
     - bergie
+  category: navigation
+- datetime: 2026-04-10T22:08:10.201Z
+  text: Drizzle and still no wind
+  author: bergie
+  position:
+    longitude: -137.26591
+    latitude: -9.7177258
+    source: GPS
+  heading: 267
+  course: 269
+  speed:
+    sog: 3
+  log: 16936.5
+  waypoint:
+    longitude: -138.931137
+    latitude: -9.829477
+  barometer: 1009.29
+  wind:
+    speed: 12.2
+    direction: 121
+  engine:
+    hours: 1101.1
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: navigation
+- datetime: 2026-04-10T22:31:10.598Z
+  text: That "squall" brought at least some
+  author: bergie
+  position:
+    longitude: -137.2837395
+    latitude: -9.7219068
+    source: GPS
+  heading: 221
+  course: 218
+  speed:
+    sog: 4.1
+  log: 16937.6
+  waypoint:
+    longitude: -138.931137
+    latitude: -9.829477
+  barometer: 1009.01
+  wind:
+    speed: 18.8
+    direction: 87
+  engine:
+    hours: 1101.1
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: navigation
+- datetime: 2026-04-10T23:00:03.596Z
+  text: ""
+  author: ""
+  position:
+    longitude: -137.3093266
+    latitude: -9.7431353
+    source: GPS
+  heading: 237
+  course: 264
+  speed:
+    sog: 4.3
+  log: 16939.6
+  waypoint:
+    longitude: -138.931137
+    latitude: -9.829477
+  barometer: 1008.63
+  wind:
+    speed: 16.1
+    direction: 48
+  engine:
+    hours: 1101.1
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
