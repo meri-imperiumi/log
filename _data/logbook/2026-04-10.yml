@@ -365,3 +365,82 @@
   crewNames:
     - ihmis-suski
     - bergie
+  category: navigation
+- datetime: 2026-04-10T08:18:30.800Z
+  text: "Alpenglow 5nm behind. Nav lights visible. Going at 8kn. Vessel #17"
+  author: ihmis-suski
+  position:
+    longitude: -136.3121859
+    latitude: -9.683815
+    source: GPS
+  heading: 253
+  course: 268
+  speed:
+    sog: 4.3
+  log: 16879.1
+  waypoint:
+    longitude: -138.931137
+    latitude: -9.829477
+  barometer: 1011.16
+  wind:
+    speed: 19.9
+    direction: 102
+  engine:
+    hours: 1101.1
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: navigation
+- datetime: 2026-04-10T08:55:33.900Z
+  text: Had a QSO with Alpenglow. They're day 25 out. 5 people, heading for Hiva
+    Oa. Oyster rally boat
+  author: bergie
+  position:
+    longitude: -136.3599081
+    latitude: -9.6897141
+    source: GPS
+  heading: 270
+  course: 265
+  speed:
+    sog: 4.5
+  log: 16881.9
+  waypoint:
+    longitude: -138.931137
+    latitude: -9.829477
+  barometer: 1010.84
+  wind:
+    speed: 21
+    direction: 117
+  engine:
+    hours: 1101.1
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: radio
+- datetime: 2026-04-10T09:00:33.900Z
+  text: ""
+  author: ""
+  position:
+    longitude: -136.3665238
+    latitude: -9.6904178
+    source: GPS
+  heading: 254
+  course: 260
+  speed:
+    sog: 4.2
+  log: 16882.3
+  waypoint:
+    longitude: -138.931137
+    latitude: -9.829477
+  barometer: 1010.77
+  wind:
+    speed: 17.3
+    direction: 103
+  engine:
+    hours: 1101.1
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
