@@ -554,8 +554,8 @@
     - bergie
   category: navigation
 - datetime: 2026-04-11T15:00:45.100Z
-  text: ""
-  author: ""
+  text: Suski on watch
+  author: ihmis-suski
   position:
     longitude: -138.520914
     latitude: -9.8413328
@@ -571,6 +571,63 @@
   barometer: 1009.58
   wind:
     speed: 17.5
+    direction: 103
+  engine:
+    hours: 1101.1
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: navigation
+  observations:
+    seaState: 5
+    visibility: 8
+    cloudCoverage: 7
+- datetime: 2026-04-11T15:18:46.099Z
+  text: Maata näkyvissä! Land ho! 15nm out and the eastern tip is visible between
+    the clouds!
+  author: ihmis-suski
+  position:
+    longitude: -138.54787
+    latitude: -9.8426818
+    source: GPS
+  heading: 258
+  course: 268
+  speed:
+    sog: 5
+  log: 17015.8
+  waypoint:
+    longitude: -138.930431
+    latitude: -9.830324
+  barometer: 1009.95
+  wind:
+    speed: 20.4
+    direction: 106
+  engine:
+    hours: 1101.1
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: navigation
+- datetime: 2026-04-11T16:00:47.097Z
+  text: ""
+  author: ""
+  position:
+    longitude: -138.6092781
+    latitude: -9.8479333
+    source: GPS
+  heading: 266
+  course: 281
+  speed:
+    sog: 6.2
+  log: 17019.5
+  waypoint:
+    longitude: -138.930431
+    latitude: -9.830324
+  barometer: 1010.87
+  wind:
+    speed: 22.4
     direction: 103
   engine:
     hours: 1101.1
