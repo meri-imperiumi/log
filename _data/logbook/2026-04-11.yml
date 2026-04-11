@@ -103,8 +103,8 @@
     - bergie
   category: navigation
 - datetime: 2026-04-11T03:00:11.800Z
-  text: ""
-  author: ""
+  text: Suski on watch
+  author: ihmis-suski
   position:
     longitude: -137.5880921681722
     latitude: -9.815688323974609
@@ -121,6 +121,63 @@
   wind:
     speed: 19.8
     direction: 94
+  engine:
+    hours: 1101.1
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: navigation
+  observations:
+    seaState: 4
+    cloudCoverage: 7
+    visibility: 7
+- datetime: 2026-04-11T03:13:11.800Z
+  text: Did the likely last PacSeaNet checkin of the passage today, will email
+    them when anchored
+  author: bergie
+  position:
+    longitude: -137.6037686
+    latitude: -9.8160501
+    source: GPS
+  heading: 272
+  course: 266
+  speed:
+    sog: 3.1
+  log: 16958.2
+  waypoint:
+    longitude: -138.930431
+    latitude: -9.830324
+  barometer: 1009.03
+  wind:
+    speed: 16
+    direction: 111
+  engine:
+    hours: 1101.1
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: radio
+- datetime: 2026-04-11T04:00:13.800Z
+  text: ""
+  author: ""
+  position:
+    longitude: -137.6581293
+    latitude: -9.8208676
+    source: GPS
+  heading: 268
+  course: 240
+  speed:
+    sog: 4.5
+  log: 16961.5
+  waypoint:
+    longitude: -138.930431
+    latitude: -9.830324
+  barometer: 1009.51
+  wind:
+    speed: 18.5
+    direction: 116
   engine:
     hours: 1101.1
   vhf: "16"
