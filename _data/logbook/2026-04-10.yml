@@ -981,8 +981,8 @@
     - bergie
   category: navigation
 - datetime: 2026-04-10T23:00:03.596Z
-  text: ""
-  author: ""
+  text: Lots of rain now
+  author: bergie
   position:
     longitude: -137.3093266
     latitude: -9.7431353
@@ -1005,3 +1005,36 @@
   crewNames:
     - ihmis-suski
     - bergie
+  category: navigation
+  observations:
+    cloudCoverage: 8
+    visibility: 3
+- datetime: 2026-04-10T23:49:05.702Z
+  text: Double digits! 99NM to go
+  author: bergie
+  position:
+    longitude: -137.3686556
+    latitude: -9.7601478
+    source: GPS
+  heading: 262
+  course: 247
+  speed:
+    sog: 4.7
+  log: 16943.4
+  waypoint:
+    longitude: -138.930431
+    latitude: -9.830324
+  barometer: 1008
+  wind:
+    speed: 19.9
+    direction: 112
+  engine:
+    hours: 1101.1
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: navigation
+  observations:
+    cloudCoverage: 7
+    visibility: 7
