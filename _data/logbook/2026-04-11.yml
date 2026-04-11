@@ -211,3 +211,54 @@
     - ihmis-suski
     - bergie
   category: navigation
+- datetime: 2026-04-11T05:51:19.800Z
+  text: Sky dark again and big windshift
+  author: ihmis-suski
+  position:
+    longitude: -137.7919231
+    latitude: -9.8292363
+    source: GPS
+  heading: 231
+  course: 250
+  speed:
+    sog: 5.5
+  log: 16969.5
+  waypoint:
+    longitude: -138.930431
+    latitude: -9.830324
+  barometer: 1010.96
+  wind:
+    speed: 17.5
+    direction: 69
+  engine:
+    hours: 1101.1
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: navigation
+- datetime: 2026-04-11T06:00:19.800Z
+  text: ""
+  author: ""
+  position:
+    longitude: -137.8004883
+    latitude: -9.8358549
+    source: GPS
+  heading: 229
+  course: 238
+  speed:
+    sog: 5.3
+  log: 16970.2
+  waypoint:
+    longitude: -138.930431
+    latitude: -9.830324
+  barometer: 1010.9
+  wind:
+    speed: 19
+    direction: 67
+  engine:
+    hours: 1101.1
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
