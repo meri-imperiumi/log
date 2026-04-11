@@ -770,3 +770,81 @@
     - ihmis-suski
     - bergie
   category: navigation
+- datetime: 2026-04-11T20:00:55.200Z
+  text: ""
+  author: ""
+  position:
+    longitude: -138.9301991
+    latitude: -9.8607535
+    source: GPS
+  heading: 316
+  course: 293
+  speed:
+    sog: 5.1
+  log: 17039.3
+  waypoint:
+    longitude: -139.032659
+    latitude: -9.81374
+  barometer: 1011.94
+  wind:
+    speed: 20.1
+    direction: 94
+  engine:
+    hours: 1101.1
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: navigation
+- datetime: 2026-04-11T20:16:56.300Z
+  text: Hand steering.
+  author: ihmis-suski
+  position:
+    longitude: -138.9477978
+    latitude: -9.8518431
+    source: GPS
+  heading: 300
+  course: 296
+  speed:
+    sog: 4
+  log: 17040.5
+  waypoint:
+    longitude: -139.032659
+    latitude: -9.81374
+  barometer: 1011.85
+  wind:
+    speed: 16.7
+    direction: 77
+  engine:
+    hours: 1101.1
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: navigation
+- datetime: 2026-04-11T20:52:29.299Z
+  text: "Sails set: Main (1st reef)"
+  author: ""
+  position:
+    longitude: -138.98350048065186
+    latitude: -9.835217666625976
+    source: GPS
+  heading: 294
+  course: 277
+  speed:
+    sog: 3.7
+  log: 17042.8
+  waypoint:
+    longitude: -139.032659
+    latitude: -9.81374
+  barometer: 1011.12
+  wind:
+    speed: 17.4
+    direction: 84
+  engine:
+    hours: 1101.1
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: navigation
