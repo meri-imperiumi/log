@@ -635,3 +635,59 @@
   crewNames:
     - ihmis-suski
     - bergie
+  category: navigation
+- datetime: 2026-04-11T16:09:47.097Z
+  text: We have entered the territorial waters of French Polynesia!
+  author: ihmis-suski
+  position:
+    longitude: -138.6224691
+    latitude: -9.8486641
+    source: GPS
+  heading: 277
+  course: 271
+  speed:
+    sog: 5
+  log: 17020.3
+  waypoint:
+    longitude: -138.930431
+    latitude: -9.830324
+  barometer: 1011.07
+  wind:
+    speed: 20.1
+    direction: 120
+  engine:
+    hours: 1101.1
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: navigation
+  observations:
+    seaState: 4
+    cloudCoverage: 6
+    visibility: 8
+- datetime: 2026-04-11T17:00:50.099Z
+  text: ""
+  author: ""
+  position:
+    longitude: -138.6986415227254
+    latitude: -9.849026679992676
+    source: GPS
+  heading: 266
+  course: 262
+  speed:
+    sog: 7.1
+  log: 17024.8
+  waypoint:
+    longitude: -138.930431
+    latitude: -9.830324
+  barometer: 1011.46
+  wind:
+    speed: 26.2
+    direction: 114
+  engine:
+    hours: 1101.1
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
