@@ -502,8 +502,8 @@
     - bergie
   category: navigation
 - datetime: 2026-04-11T13:00:39.001Z
-  text: ""
-  author: ""
+  text: There is actual land on the plotter at 3NM zoom level
+  author: bergie
   position:
     longitude: -138.3300323
     latitude: -9.8321795
@@ -520,6 +520,32 @@
   wind:
     speed: 17.3
     direction: 115
+  engine:
+    hours: 1101.1
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: navigation
+- datetime: 2026-04-11T14:00:43.100Z
+  text: ""
+  author: ""
+  position:
+    longitude: -138.4234606
+    latitude: -9.8349021
+    source: GPS
+  heading: 273
+  course: 272
+  speed:
+    sog: 6.1
+  log: 17008.4
+  waypoint:
+    longitude: -138.930431
+    latitude: -9.830324
+  barometer: 1009.17
+  wind:
+    speed: 21.4
+    direction: 121
   engine:
     hours: 1101.1
   vhf: "16"
