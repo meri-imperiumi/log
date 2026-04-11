@@ -238,8 +238,8 @@
     - bergie
   category: navigation
 - datetime: 2026-04-11T06:00:19.800Z
-  text: ""
-  author: ""
+  text: Rain.
+  author: ihmis-suski
   position:
     longitude: -137.8004883
     latitude: -9.8358549
@@ -256,6 +256,58 @@
   wind:
     speed: 19
     direction: 67
+  engine:
+    hours: 1101.1
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: navigation
+- datetime: 2026-04-11T06:37:21.900Z
+  text: Back to stars and correct(ish) heading
+  author: ihmis-suski
+  position:
+    longitude: -137.8310244
+    latitude: -9.8609048
+    source: GPS
+  heading: 253
+  course: 221
+  speed:
+    sog: 4.5
+  log: 16972.5
+  waypoint:
+    longitude: -138.930431
+    latitude: -9.830324
+  barometer: 1010.95
+  wind:
+    speed: 16.7
+    direction: 110
+  engine:
+    hours: 1101.1
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: navigation
+- datetime: 2026-04-11T07:00:22.899Z
+  text: ""
+  author: ""
+  position:
+    longitude: -137.8572715
+    latitude: -9.8636661
+    source: GPS
+  heading: 265
+  course: 300
+  speed:
+    sog: 5.6
+  log: 16974.1
+  waypoint:
+    longitude: -138.930431
+    latitude: -9.830324
+  barometer: 1010.98
+  wind:
+    speed: 17.4
+    direction: 107
   engine:
     hours: 1101.1
   vhf: "16"
