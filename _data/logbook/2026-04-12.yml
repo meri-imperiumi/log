@@ -1,0 +1,26 @@
+- datetime: 2026-04-12T17:23:34.598Z
+  text: Changed ship's time to UTC-9:30
+  author: bergie
+  position:
+    longitude: -139.0306198
+    latitude: -9.8032183
+    source: GPS
+  heading: 21
+  course: 36
+  speed:
+    sog: 0
+  log: 17046.9
+  waypoint:
+    longitude: -139.03142
+    latitude: -9.80402
+  barometer: 1013.1
+  wind:
+    speed: 1
+    direction: 95
+  engine:
+    hours: 1102
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: navigation
