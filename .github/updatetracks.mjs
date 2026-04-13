@@ -143,6 +143,9 @@ function ensureTrack(entry, tracks) {
       const newData = {...geoJson};
       let prevPoint = null;
       newData.coordinates[0] = geoJson.coordinates[0].filter((coord) => {
+        if (!coord) {
+          return false;
+        }
         const point = new Point(coord[1], coord[0]);
         if (!prevPoint) {
           prevPoint = point;
