@@ -11,6 +11,7 @@ certifications:
   - UBI
   - LRC
   - Amateur Radio License (CEPT Full)
+  - EU Drone License (A1-A3)
 logged-year: 2001
 countries-sailed:
   - FI
