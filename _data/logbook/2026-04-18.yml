@@ -126,3 +126,57 @@
   crewNames:
     - ihmis-suski
     - bergie
+  category: navigation
+- datetime: 2026-04-18T20:18:32.102Z
+  text: Wing on wing
+  author: bergie
+  position:
+    longitude: -139.0407064
+    latitude: -9.8631659
+    source: GPS
+  heading: 254
+  course: 245
+  speed:
+    sog: 5.2
+  log: 17051
+  waypoint:
+    longitude: -139.075463
+    latitude: -9.885614
+  barometer: 1013.01
+  wind:
+    speed: 13.7
+    direction: 96
+  engine:
+    hours: 1102.3
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: navigation
+  observations:
+    cloudCoverage: 7
+- datetime: 2026-04-18T21:00:33.100Z
+  text: ""
+  author: ""
+  position:
+    longitude: -139.1028084
+    latitude: -9.8922351
+    source: GPS
+  heading: 193
+  course: 197
+  speed:
+    sog: 5
+  log: 17055.2
+  waypoint:
+    longitude: -139.10948
+    latitude: -9.902187
+  barometer: 1012.13
+  wind:
+    speed: 16.3
+    direction: 84
+  engine:
+    hours: 1102.3
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
