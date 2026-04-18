@@ -180,3 +180,109 @@
   crewNames:
     - ihmis-suski
     - bergie
+  category: navigation
+- datetime: 2026-04-18T21:13:08.102Z
+  text: Sails down, motoring
+  author: ""
+  position:
+    longitude: -139.1061238
+    latitude: -9.901107
+    source: GPS
+  heading: 188
+  course: 192
+  speed:
+    sog: 1.8
+  log: 17055.8
+  waypoint:
+    longitude: -139.109067
+    latitude: -9.901388
+  barometer: 1011.88
+  wind:
+    speed: 8.9
+    direction: 70
+  engine:
+    hours: 1102.3
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: navigation
+- datetime: 2026-04-18T21:30:30.502Z
+  text: Anchored
+  author: ""
+  position:
+    longitude: -139.1038396
+    latitude: -9.9074653
+    source: GPS
+  heading: 55
+  course: 20
+  speed:
+    sog: 0.5
+  log: 17056.3
+  waypoint:
+    longitude: -139.10575
+    latitude: -9.907299
+  barometer: 1011.58
+  wind:
+    speed: 6
+    direction: 149
+  engine:
+    hours: 1102.6
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  end: true
+  category: navigation
+- datetime: 2026-04-18T21:37:48.499Z
+  text: Stopped main engine
+  author: ""
+  position:
+    longitude: -139.1040593
+    latitude: -9.9075831
+    source: GPS
+  heading: 49
+  course: 324
+  speed:
+    sog: 0.4
+  log: 17056.3
+  waypoint:
+    longitude: -139.10575
+    latitude: -9.907299
+  barometer: 1011.48
+  wind:
+    speed: 10.3
+    direction: 49
+  engine:
+    hours: 1102.7
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: navigation
+- datetime: 2026-04-18T21:41:33.497Z
+  text: Watermaker on
+  author: ihmis-suski
+  position:
+    longitude: -139.1041061
+    latitude: -9.9075141
+    source: GPS
+  heading: 78
+  course: 308
+  speed:
+    sog: 0.2
+  log: 17056.3
+  waypoint:
+    longitude: -139.10575
+    latitude: -9.907299
+  barometer: 1011.53
+  wind:
+    speed: 6.6
+    direction: 65
+  engine:
+    hours: 1102.7
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: maintenance
