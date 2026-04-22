@@ -382,3 +382,109 @@
   crewNames:
     - ihmis-suski
     - bergie
+  category: navigation
+- datetime: 2026-04-22T18:00:54.700Z
+  text: ""
+  author: ""
+  position:
+    longitude: -138.91494
+    latitude: -9.9964961
+    source: GPS
+  heading: 139
+  course: 145
+  speed:
+    sog: 4.6
+  log: 17071.5
+  waypoint:
+    longitude: -138.89238
+    latitude: -10.053787
+  barometer: 1013.57
+  wind:
+    speed: 9.6
+    direction: 51
+  engine:
+    hours: 1104.7
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: navigation
+- datetime: 2026-04-22T18:01:52.697Z
+  text: Can see Fatu Hiva in the horizon
+  author: bergie
+  position:
+    longitude: -138.9142143
+    latitude: -9.9974328
+    source: GPS
+  heading: 135
+  course: 145
+  speed:
+    sog: 4.2
+  log: 17071.5
+  waypoint:
+    longitude: -138.886991
+    latitude: -10.054675
+  barometer: 1013.56
+  wind:
+    speed: 9.7
+    direction: 50
+  engine:
+    hours: 1104.7
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: navigation
+  observations: {}
+- datetime: 2026-04-22T18:26:56.800Z
+  text: Sails down, motoring. Wind hole from Moho Tani
+  author: bergie
+  position:
+    longitude: -138.8974221
+    latitude: -10.0195101
+    source: GPS
+  heading: 136
+  course: 154
+  speed:
+    sog: 2.5
+  log: 17073.2
+  waypoint:
+    longitude: -138.873814
+    latitude: -10.07819
+  barometer: 1013.71
+  wind:
+    speed: 5.2
+    direction: 31
+  engine:
+    hours: 1104.7
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: navigation
+- datetime: 2026-04-22T18:49:20.800Z
+  text: Motor stopped, sailing with Main, Genoa 1
+  author: ""
+  position:
+    longitude: -138.8803858
+    latitude: -10.0444459
+    source: GPS
+  heading: 145
+  course: 159
+  speed:
+    sog: 3.1
+  log: 17075
+  waypoint:
+    longitude: -138.85341
+    latitude: -10.100244
+  barometer: 1013.65
+  wind:
+    speed: 9.7
+    direction: 94
+  engine:
+    hours: 1105.1
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: navigation
