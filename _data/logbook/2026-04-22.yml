@@ -64,3 +64,81 @@
     - ihmis-suski
     - bergie
   category: maintenance
+- datetime: 2026-04-22T14:28:10.598Z
+  text: Started main engine
+  author: ""
+  position:
+    longitude: -139.1040271
+    latitude: -9.9072903
+    source: GPS
+  heading: 154
+  course: 308
+  speed:
+    sog: 0
+  log: 17056.3
+  waypoint:
+    longitude: -139.108502
+    latitude: -9.905647
+  barometer: 1011.82
+  wind:
+    speed: 3.9
+    direction: 82
+  engine:
+    hours: 1102.7
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: navigation
+- datetime: 2026-04-22T14:33:55.600Z
+  text: Anchor up, motoring
+  author: ""
+  position:
+    longitude: -139.1036959
+    latitude: -9.907364
+    source: GPS
+  heading: 190
+  course: 166
+  speed:
+    sog: 0.3
+  log: 17056.3
+  waypoint:
+    longitude: -139.108508
+    latitude: -9.905643
+  barometer: 1011.79
+  wind:
+    speed: 5.6
+    direction: 89
+  engine:
+    hours: 1102.8
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: navigation
+- datetime: 2026-04-22T14:47:39.600Z
+  text: Autopilot activated
+  author: ""
+  position:
+    longitude: -139.1065266
+    latitude: -9.8993308
+    source: GPS
+  heading: 31
+  course: 33
+  speed:
+    sog: 3.5
+  log: 17057
+  waypoint:
+    longitude: -139.106148
+    latitude: -9.880427
+  barometer: 1011.82
+  wind:
+    speed: 6.5
+    direction: 74
+  engine:
+    hours: 1103.1
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: navigation
