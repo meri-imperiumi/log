@@ -279,3 +279,81 @@
     - bergie
   category: navigation
   observations: {}
+- datetime: 2026-04-22T16:00:54.700Z
+  text: ""
+  author: ""
+  position:
+    longitude: -139.0263863
+    latitude: -9.8979446
+    source: GPS
+  heading: 112
+  course: 128
+  speed:
+    sog: 3.1
+  log: 17062.5
+  waypoint:
+    longitude: -138.998279
+    latitude: -9.947676
+  barometer: 1012.56
+  wind:
+    speed: 7.9
+    direction: 357
+  engine:
+    hours: 1104.2
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: navigation
+- datetime: 2026-04-22T16:11:59.699Z
+  text: Sails down, motoring
+  author: ""
+  position:
+    longitude: -139.0201243
+    latitude: -9.900988
+    source: GPS
+  heading: 120
+  course: 108
+  speed:
+    sog: 0.9
+  log: 17062.9
+  waypoint:
+    longitude: -138.993513
+    latitude: -9.956775
+  barometer: 1012.74
+  wind:
+    speed: 4.2
+    direction: 13
+  engine:
+    hours: 1104.2
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: navigation
+- datetime: 2026-04-22T16:40:47.699Z
+  text: Motor stopped, sailing with Main, Genoa 1
+  author: ""
+  position:
+    longitude: -138.9896328
+    latitude: -9.9246551
+    source: GPS
+  heading: 128
+  course: 130
+  speed:
+    sog: 4.8
+  log: 17065.2
+  waypoint:
+    longitude: -138.956116
+    latitude: -9.978864
+  barometer: 1012.76
+  wind:
+    speed: 10.8
+    direction: 27
+  engine:
+    hours: 1104.7
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: navigation
