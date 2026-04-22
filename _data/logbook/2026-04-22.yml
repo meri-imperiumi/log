@@ -142,3 +142,140 @@
     - ihmis-suski
     - bergie
   category: navigation
+- datetime: 2026-04-22T15:00:54.700Z
+  text: ""
+  author: ""
+  position:
+    longitude: -139.0946296
+    latitude: -9.8871113
+    source: GPS
+  heading: 52
+  course: 56
+  speed:
+    sog: 4.7
+  log: 17058
+  waypoint:
+    longitude: -139.095854
+    latitude: -9.883089
+  barometer: 1011.95
+  wind:
+    speed: 3.3
+    direction: 98
+  engine:
+    hours: 1103.3
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: navigation
+- datetime: 2026-04-22T15:13:57.702Z
+  text: In the Haava strait
+  author: bergie
+  position:
+    longitude: -139.0796355
+    latitude: -9.8795581
+    source: GPS
+  heading: 60
+  course: 61
+  speed:
+    sog: 5.1
+  log: 17059
+  waypoint:
+    longitude: -139.06142
+    latitude: -9.888983
+  barometer: 1012.02
+  wind:
+    speed: 4.2
+    direction: 85
+  engine:
+    hours: 1103.5
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: navigation
+  observations:
+    cloudCoverage: 5
+    seaState: 3
+    visibility: 7
+- datetime: 2026-04-22T15:20:56.697Z
+  text: Tack towards Fatu Hiva
+  author: bergie
+  position:
+    longitude: -139.0716923
+    latitude: -9.8771481
+    source: GPS
+  heading: 118
+  course: 118
+  speed:
+    sog: 4.2
+  log: 17059.5
+  waypoint:
+    longitude: -139.04073
+    latitude: -9.902537
+  barometer: 1012.12
+  wind:
+    speed: 5.6
+    direction: 50
+  engine:
+    hours: 1103.6
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: navigation
+  observations:
+    cloudCoverage: 4
+- datetime: 2026-04-22T15:52:40.697Z
+  text: Motor stopped, sailing with Main, Genoa 1
+  author: ""
+  position:
+    longitude: -139.0325949
+    latitude: -9.8952379
+    source: GPS
+  heading: 109
+  course: 106
+  speed:
+    sog: 4.3
+  log: 17062.1
+  waypoint:
+    longitude: -138.995604
+    latitude: -9.955095
+  barometer: 1012.57
+  wind:
+    speed: 10.4
+    direction: 350
+  engine:
+    hours: 1104.1
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: navigation
+- datetime: 2026-04-22T15:54:53.702Z
+  text: Pumped the bilge. 14 pumps
+  author: bergie
+  position:
+    longitude: -139.0309803
+    latitude: -9.8959618
+    source: GPS
+  heading: 108
+  course: 113
+  speed:
+    sog: 3.6
+  log: 17062.2
+  waypoint:
+    longitude: -138.996249
+    latitude: -9.951921
+  barometer: 1012.59
+  wind:
+    speed: 6.7
+    direction: 0
+  engine:
+    hours: 1104.2
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: navigation
+  observations: {}
