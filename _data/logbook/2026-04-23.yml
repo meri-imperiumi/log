@@ -23,3 +23,109 @@
   crewNames:
     - ihmis-suski
     - bergie
+  category: navigation
+- datetime: 2026-04-23T00:12:14.400Z
+  text: "Sails set: Main, Genoa 1 (30% furled)"
+  author: ""
+  position:
+    longitude: -138.7034916
+    latitude: -10.4230463
+    source: GPS
+  heading: 159
+  course: 169
+  speed:
+    sog: 5.2
+  log: 17100.1
+  waypoint:
+    longitude: -138.706771
+    latitude: -10.450793
+  barometer: 1010.57
+  wind:
+    speed: 14.1
+    direction: 43
+  engine:
+    hours: 1105.1
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: navigation
+- datetime: 2026-04-23T00:29:24.400Z
+  text: Sails down, motoring
+  author: ""
+  position:
+    longitude: -138.6929223
+    latitude: -10.444137
+    source: GPS
+  heading: 152
+  course: 157
+  speed:
+    sog: 3.9
+  log: 17101.5
+  waypoint:
+    longitude: -138.696297
+    latitude: -10.452056
+  barometer: 1010.36
+  wind:
+    speed: 14
+    direction: 356
+  engine:
+    hours: 1105.1
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: navigation
+- datetime: 2026-04-23T00:30:14.400Z
+  text: Autopilot deactivated
+  author: ""
+  position:
+    longitude: -138.6925076
+    latitude: -10.4449458
+    source: GPS
+  heading: 150
+  course: 152
+  speed:
+    sog: 3.8
+  log: 17101.5
+  waypoint:
+    longitude: -138.67023
+    latitude: -10.4648
+  barometer: 1010.38
+  wind:
+    speed: 13.5
+    direction: 348
+  engine:
+    hours: 1105.1
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: navigation
+- datetime: 2026-04-23T00:59:14.400Z
+  text: Anchored
+  author: ""
+  position:
+    longitude: -138.6674023
+    latitude: -10.46475
+    source: GPS
+  heading: 83
+  course: 187
+  speed:
+    sog: 0.2
+  log: 17103.5
+  waypoint:
+    longitude: -138.67023
+    latitude: -10.4648
+  barometer: 1010.3
+  wind:
+    speed: 4.8
+    direction: 90
+  engine:
+    hours: 1105.6
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  end: true
+  category: navigation
