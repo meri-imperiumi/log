@@ -48,3 +48,103 @@
     - ihmis-suski
     - bergie
   category: navigation
+- datetime: 2026-04-29T18:03:52.000Z
+  text: Greased front chamber of shaft seal
+  author: bergie
+  position:
+    longitude: -138.6682186
+    latitude: -10.4641308
+    source: GPS
+  heading: 92
+  course: 4
+  speed:
+    sog: 0.2
+  log: 17104.3
+  waypoint:
+    longitude: -138.669136
+    latitude: -10.464759
+  barometer: 1012.66
+  wind:
+    speed: 14.5
+    direction: 92
+  engine:
+    hours: 1108.4
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: engine
+- datetime: 2026-04-29T18:08:46.003Z
+  text: Started main engine
+  author: ""
+  position:
+    longitude: -138.6682116
+    latitude: -10.4641359
+    source: GPS
+  heading: 71
+  course: 269
+  speed:
+    sog: 0.6
+  log: 17104.3
+  waypoint:
+    longitude: -138.669136
+    latitude: -10.464759
+  barometer: 1012.65
+  wind:
+    speed: 16.7
+    direction: 92
+  engine:
+    hours: 1108.4
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: navigation
+- datetime: 2026-04-29T18:20:44.000Z
+  text: Stopped main engine
+  author: ""
+  position:
+    longitude: -138.6682189
+    latitude: -10.4641271
+    source: GPS
+  heading: 105
+  course: 61
+  speed:
+    sog: 0.1
+  log: 17104.3
+  waypoint:
+    longitude: -138.669136
+    latitude: -10.464759
+  barometer: 1012.77
+  wind:
+    speed: 11.6
+    direction: 98
+  engine:
+    hours: 1108.6
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: navigation
+- datetime: 2026-04-29T18:47:53.996Z
+  text: Filled up 40l diesel via baja filter
+  author: bergie
+  position:
+    longitude: -138.6681659
+    latitude: -10.4640816
+    source: GPS
+  heading: 150
+  course: 193
+  speed:
+    sog: 0.3
+  log: 17104.3
+  waypoint:
+    longitude: -138.669136
+    latitude: -10.464759
+  barometer: 1013.07
+  wind:
+    speed: 7.7
+    direction: 81
+  engine:
+    hours: 1108.6
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: engine
