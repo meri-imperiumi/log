@@ -206,3 +206,81 @@
     - ihmis-suski
     - bergie
   category: navigation
+- datetime: 2026-04-30T19:00:58.502Z
+  text: ""
+  author: ""
+  position:
+    longitude: -138.8405358
+    latitude: -10.3025871
+    source: GPS
+  heading: 324
+  course: 311
+  speed:
+    sog: 5.2
+  log: 17118.7
+  waypoint:
+    longitude: -139.124347
+    latitude: -10.028654
+  barometer: 1013.77
+  wind:
+    speed: 16
+    direction: 106
+  engine:
+    hours: 1110.4
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: navigation
+- datetime: 2026-04-30T19:00:58.502Z
+  text: Port side gate latch is gone. Noticed the line in the water, the end is gone.
+  author: ihmis-suski
+  position:
+    longitude: -138.8405358
+    latitude: -10.3025871
+    source: GPS
+  heading: 324
+  course: 311
+  speed:
+    sog: 5.2
+  log: 17118.7
+  waypoint:
+    longitude: -139.124347
+    latitude: -10.028654
+  barometer: 1013.77
+  wind:
+    speed: 16
+    direction: 106
+  engine:
+    hours: 1110.4
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: maintenance
+- datetime: 2026-04-30T19:45:02.598Z
+  text: Watermaker 234ppm
+  author: bergie
+  position:
+    longitude: -138.8787171
+    latitude: -10.2543755
+    source: GPS
+  heading: 320
+  course: 336
+  speed:
+    sog: 4.1
+  log: 17122.4
+  waypoint:
+    longitude: -139.124347
+    latitude: -10.028654
+  barometer: 1013.29
+  wind:
+    speed: 17.9
+    direction: 103
+  engine:
+    hours: 1110.4
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: maintenance
