@@ -76,3 +76,133 @@
     - ihmis-suski
     - bergie
   category: navigation
+- datetime: 2026-04-30T17:00:57.497Z
+  text: ""
+  author: ""
+  position:
+    longitude: -138.7208246866862
+    latitude: -10.431137180328369
+    source: GPS
+  heading: 311
+  course: 319
+  speed:
+    sog: 3.7
+  log: 17108.2
+  waypoint:
+    longitude: -139.124347
+    latitude: -10.028654
+  barometer: 1012.58
+  wind:
+    speed: 3.1
+    direction: 295
+  engine:
+    hours: 1109.7
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: navigation
+- datetime: 2026-04-30T17:40:19.500Z
+  text: Motor stopped, sailing with Main (1st reef), Genoa 1 (30% furled)
+  author: ""
+  position:
+    longitude: -138.7574625
+    latitude: -10.3960506
+    source: GPS
+  heading: 344
+  course: 328
+  speed:
+    sog: 4.6
+  log: 17111.2
+  waypoint:
+    longitude: -139.124347
+    latitude: -10.028654
+  barometer: 1013.07
+  wind:
+    speed: 17.7
+    direction: 103
+  engine:
+    hours: 1110.4
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: navigation
+- datetime: 2026-04-30T17:43:41.497Z
+  text: "Sails set: Main (1st reef), Genoa 1"
+  author: ""
+  position:
+    longitude: -138.7606056
+    latitude: -10.3921546
+    source: GPS
+  heading: 332
+  course: 332
+  speed:
+    sog: 4.5
+  log: 17111.5
+  waypoint:
+    longitude: -139.124347
+    latitude: -10.028654
+  barometer: 1013.21
+  wind:
+    speed: 14.9
+    direction: 100
+  engine:
+    hours: 1110.4
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: navigation
+- datetime: 2026-04-30T17:46:57.497Z
+  text: Started watermaker
+  author: bergie
+  position:
+    longitude: -138.7638184
+    latitude: -10.3882593
+    source: GPS
+  heading: 320
+  course: 307
+  speed:
+    sog: 6.7
+  log: 17111.8
+  waypoint:
+    longitude: -139.124347
+    latitude: -10.028654
+  barometer: 1013.27
+  wind:
+    speed: 17.6
+    direction: 93
+  engine:
+    hours: 1110.4
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: maintenance
+- datetime: 2026-04-30T17:58:56.499Z
+  text: Watermaker 309ppm
+  author: bergie
+  position:
+    longitude: -138.7768233
+    latitude: -10.3733744
+    source: GPS
+  heading: 326
+  course: 312
+  speed:
+    sog: 6.5
+  log: 17113
+  waypoint:
+    longitude: -139.124347
+    latitude: -10.028654
+  barometer: 1013.52
+  wind:
+    speed: 17
+    direction: 101
+  engine:
+    hours: 1110.4
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: maintenance
