@@ -443,3 +443,56 @@
   crewNames:
     - ihmis-suski
     - bergie
+  category: navigation
+- datetime: 2026-04-30T23:24:04.697Z
+  text: Watermaker 198ppm
+  author: bergie
+  position:
+    longitude: -139.0967804
+    latitude: -10.0667069
+    source: GPS
+  heading: 310
+  course: 296
+  speed:
+    sog: 4
+  log: 17139.7
+  waypoint:
+    longitude: -139.122713
+    latitude: -10.030513
+  barometer: 1010.23
+  wind:
+    speed: 11.1
+    direction: 109
+  engine:
+    hours: 1110.4
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: maintenance
+- datetime: 2026-04-30T23:46:21.702Z
+  text: "Sails set: Main (1st reef), Genoa 1 (10% furled). Starboard tack"
+  author: bergie
+  position:
+    longitude: -139.117781
+    latitude: -10.0534721
+    source: GPS
+  heading: 323
+  course: 317
+  speed:
+    sog: 4.2
+  log: 17141.2
+  waypoint:
+    longitude: -139.122713
+    latitude: -10.030513
+  barometer: 1010.03
+  wind:
+    speed: 14.1
+    direction: 103
+  engine:
+    hours: 1110.4
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: navigation
