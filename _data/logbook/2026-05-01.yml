@@ -23,3 +23,186 @@
   crewNames:
     - ihmis-suski
     - bergie
+  category: navigation
+- datetime: 2026-05-01T00:09:38.700Z
+  text: "Sails set: Main (1st reef), Genoa 1 (30% furled). Getting to wind
+    acceleration zone."
+  author: ihmis-suski
+  position:
+    longitude: -139.1352184
+    latitude: -10.0265378
+    source: GPS
+  heading: 332
+  course: 329
+  speed:
+    sog: 4.9
+  log: 17143.1
+  waypoint:
+    longitude: -139.131579
+    latitude: -10.021785
+  barometer: 1009.75
+  wind:
+    speed: 19.5
+    direction: 104
+  engine:
+    hours: 1110.4
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: navigation
+- datetime: 2026-05-01T00:16:04.700Z
+  text: "Sails set: Main (1st reef), Genoa 1 (50% furled)"
+  author: ""
+  position:
+    longitude: -139.1383621
+    latitude: -10.0170036
+    source: GPS
+  heading: 0
+  course: 354
+  speed:
+    sog: 6.1
+  log: 17143.7
+  waypoint:
+    longitude: -139.137154
+    latitude: -10.01367
+  barometer: 1009.56
+  wind:
+    speed: 25.6
+    direction: 115
+  engine:
+    hours: 1110.4
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: navigation
+- datetime: 2026-05-01T00:21:50.700Z
+  text: Stopped watermaker, 194ppm
+  author: bergie
+  position:
+    longitude: -139.139654
+    latitude: -10.0084229
+    source: GPS
+  heading: 0
+  course: 4
+  speed:
+    sog: 4.5
+  log: 17144.2
+  waypoint:
+    longitude: -139.140628
+    latitude: -9.967472
+  barometer: 1009.45
+  wind:
+    speed: 17.1
+    direction: 96
+  engine:
+    hours: 1110.4
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: maintenance
+- datetime: 2026-05-01T00:28:38.700Z
+  text: Autopilot deactivated
+  author: ""
+  position:
+    longitude: -139.1399374
+    latitude: -10.0002518
+    source: GPS
+  heading: 2
+  course: 349
+  speed:
+    sog: 4.6
+  log: 17144.7
+  waypoint:
+    longitude: -139.140628
+    latitude: -9.967472
+  barometer: 1009.21
+  wind:
+    speed: 20.7
+    direction: 71
+  engine:
+    hours: 1110.4
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: navigation
+- datetime: 2026-05-01T00:34:19.700Z
+  text: "Sails set: Main (1st reef)"
+  author: ""
+  position:
+    longitude: -139.1403474
+    latitude: -9.9933126
+    source: GPS
+  heading: 1
+  course: 354
+  speed:
+    sog: 3.7
+  log: 17145.1
+  waypoint:
+    longitude: -139.140628
+    latitude: -9.967472
+  barometer: 1009.27
+  wind:
+    speed: 20.7
+    direction: 86
+  engine:
+    hours: 1110.4
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: navigation
+- datetime: 2026-05-01T00:50:31.700Z
+  text: Sails down, motoring
+  author: ""
+  position:
+    longitude: -139.1377998
+    latitude: -9.9771291
+    source: GPS
+  heading: 26
+  course: 4
+  speed:
+    sog: 2.6
+  log: 17146.1
+  waypoint:
+    longitude: -139.140628
+    latitude: -9.967472
+  barometer: 1009.47
+  wind:
+    speed: 17
+    direction: 78
+  engine:
+    hours: 1110.4
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: navigation
+- datetime: 2026-05-01T01:00:48.800Z
+  text: ""
+  author: ""
+  position:
+    longitude: -139.1303366
+    latitude: -9.96696
+    source: GPS
+  heading: 53
+  course: 53
+  speed:
+    sog: 4.9
+  log: 17146.9
+  waypoint:
+    longitude: -139.118941
+    latitude: -9.962367
+  barometer: 1009.4
+  wind:
+    speed: 9.8
+    direction: 142
+  engine:
+    hours: 1110.5
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
