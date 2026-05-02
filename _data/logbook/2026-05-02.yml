@@ -86,3 +86,47 @@
     - ihmis-suski
     - bergie
   category: maintenance
+- datetime: 2026-05-02T21:22:08.000Z
+  text: Replaced the webbing on the topmost FLINsail car
+  author: bergie
+  position:
+    longitude: -139.1040501
+    latitude: -9.9087209
+    source: GPS
+  heading: 119
+  course: 170
+  speed:
+    sog: 0.8
+  log: 17152
+  barometer: 1009.38
+  wind:
+    speed: 7.9
+    direction: 75
+  engine:
+    hours: 1112.4
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: maintenance
+- datetime: 2026-05-02T21:31:08.000Z
+  text: Watermaker 201ppm
+  author: bergie
+  position:
+    longitude: -139.1040491
+    latitude: -9.9087996
+    source: GPS
+  heading: 55
+  course: 33
+  speed:
+    sog: 0.1
+  log: 17152
+  barometer: 1009.27
+  wind:
+    speed: 8.7
+    direction: 86
+  engine:
+    hours: 1112.4
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: maintenance
