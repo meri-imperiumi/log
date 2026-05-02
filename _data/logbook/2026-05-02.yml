@@ -42,3 +42,47 @@
     - ihmis-suski
     - bergie
   category: radio
+- datetime: 2026-05-02T19:29:09.600Z
+  text: Started watermaker
+  author: bergie
+  position:
+    longitude: -139.1040708
+    latitude: -9.9087461
+    source: GPS
+  heading: 91
+  course: 151
+  speed:
+    sog: 0.3
+  log: 17152
+  barometer: 1010.91
+  wind:
+    speed: 9.4
+    direction: 87
+  engine:
+    hours: 1112.4
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: maintenance
+- datetime: 2026-05-02T19:41:08.601Z
+  text: Watermaker 252ppm. Changed the LR44 batteries on the TDS meter
+  author: bergie
+  position:
+    longitude: -139.1040824
+    latitude: -9.9087461
+    source: GPS
+  heading: 109
+  course: 213
+  speed:
+    sog: 0.6
+  log: 17152
+  barometer: 1010.73
+  wind:
+    speed: 6.3
+    direction: 54
+  engine:
+    hours: 1112.4
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: maintenance
