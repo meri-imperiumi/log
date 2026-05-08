@@ -128,3 +128,83 @@
     - ihmis-suski
     - bergie
   category: navigation
+- datetime: 2026-05-08T01:00:39.300Z
+  text: ""
+  author: ""
+  position:
+    longitude: -139.1393918
+    latitude: -9.8677261
+    source: GPS
+  heading: 332
+  course: 323
+  speed:
+    sog: 6.8
+  log: 17155.4
+  waypoint:
+    longitude: -140.096821
+    latitude: -8.942283
+  barometer: 1010.09
+  wind:
+    speed: 21.2
+    direction: 103
+  engine:
+    hours: 1112.6
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: navigation
+- datetime: 2026-05-08T01:20:37.300Z
+  text: Wing on wing
+  author: bergie
+  position:
+    longitude: -139.1632378
+    latitude: -9.8434624
+    source: GPS
+  heading: 317
+  course: 317
+  speed:
+    sog: 5.4
+  log: 17157.4
+  waypoint:
+    longitude: -140.096821
+    latitude: -8.942283
+  barometer: 1009.81
+  wind:
+    speed: 18.3
+    direction: 108
+  engine:
+    hours: 1112.6
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: navigation
+  observations: {}
+- datetime: 2026-05-08T01:30:36.300Z
+  text: Dolphins!
+  author: bergie
+  position:
+    longitude: -139.1763148
+    latitude: -9.8314431
+    source: GPS
+  heading: 310
+  course: 309
+  speed:
+    sog: 6.1
+  log: 17158.5
+  waypoint:
+    longitude: -140.096821
+    latitude: -8.942283
+  barometer: 1009.82
+  wind:
+    speed: 23.3
+    direction: 112
+  engine:
+    hours: 1112.6
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: navigation
+  observations: {}
