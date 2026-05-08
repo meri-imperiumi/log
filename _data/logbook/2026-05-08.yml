@@ -442,3 +442,55 @@
     - ihmis-suski
     - bergie
   category: navigation
+- datetime: 2026-05-08T06:00:44.499Z
+  text: ""
+  author: ""
+  position:
+    longitude: -139.4443
+    latitude: -9.5695246
+    source: GPS
+  heading: 304
+  course: 322
+  speed:
+    sog: 6
+  log: 17181.3
+  waypoint:
+    longitude: -140.096821
+    latitude: -8.942283
+  barometer: 1012.42
+  wind:
+    speed: 16.1
+    direction: 97
+  engine:
+    hours: 1114.6
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: navigation
+- datetime: 2026-05-08T06:16:29.500Z
+  text: Autopilot deactivated, windvane steering
+  author: bergie
+  position:
+    longitude: -139.4642293
+    latitude: -9.5586029
+    source: GPS
+  heading: 301
+  course: 279
+  speed:
+    sog: 5.9
+  log: 17182.7
+  waypoint:
+    longitude: -140.096821
+    latitude: -8.942283
+  barometer: 1012.68
+  wind:
+    speed: 16.7
+    direction: 91
+  engine:
+    hours: 1114.6
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: navigation
