@@ -809,3 +809,161 @@
   crewNames:
     - ihmis-suski
     - bergie
+  category: navigation
+- datetime: 2026-05-08T17:00:15.097Z
+  text: ""
+  author: ""
+  position:
+    longitude: -140.0834261
+    latitude: -8.9634231
+    source: GPS
+  heading: 307
+  course: 320
+  speed:
+    sog: 4.6
+  log: 17236.2
+  waypoint:
+    longitude: -140.096821
+    latitude: -8.942283
+  barometer: 1013.93
+  wind:
+    speed: 14.7
+    direction: 104
+  engine:
+    hours: 1114.6
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: navigation
+- datetime: 2026-05-08T17:07:31.097Z
+  text: "Sails set: Main (1st reef)"
+  author: ""
+  position:
+    longitude: -140.0898896
+    latitude: -8.9569603
+    source: GPS
+  heading: 337
+  course: 344
+  speed:
+    sog: 3.9
+  log: 17236.7
+  waypoint:
+    longitude: -140.096821
+    latitude: -8.942283
+  barometer: 1014
+  wind:
+    speed: 17.2
+    direction: 112
+  engine:
+    hours: 1114.6
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: navigation
+- datetime: 2026-05-08T17:12:24.102Z
+  text: Autopilot activated
+  author: ""
+  position:
+    longitude: -140.0923528
+    latitude: -8.952588
+    source: GPS
+  heading: 336
+  course: 327
+  speed:
+    sog: 6
+  log: 17237
+  waypoint:
+    longitude: -140.096821
+    latitude: -8.942283
+  barometer: 1014.08
+  wind:
+    speed: 17.3
+    direction: 122
+  engine:
+    hours: 1114.6
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: navigation
+- datetime: 2026-05-08T17:29:51.097Z
+  text: Sails down, motoring
+  author: ""
+  position:
+    longitude: -140.0997623
+    latitude: -8.9372801
+    source: GPS
+  heading: 342
+  course: 333
+  speed:
+    sog: 2
+  log: 17238.1
+  waypoint:
+    longitude: -140.100643
+    latitude: -8.932408
+  barometer: 1014.13
+  wind:
+    speed: 7.1
+    direction: 137
+  engine:
+    hours: 1114.6
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: navigation
+- datetime: 2026-05-08T17:39:01.100Z
+  text: Autopilot deactivated
+  author: ""
+  position:
+    longitude: -140.0990661
+    latitude: -8.9271053
+    source: GPS
+  heading: 10
+  course: 8
+  speed:
+    sog: 5
+  log: 17238.7
+  waypoint:
+    longitude: -140.096921
+    latitude: -8.919985
+  barometer: 1014.27
+  wind:
+    speed: 7
+    direction: 161
+  engine:
+    hours: 1114.8
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: navigation
+- datetime: 2026-05-08T17:56:02.201Z
+  text: Anchored
+  author: ""
+  position:
+    longitude: -140.1006685
+    latitude: -8.9149873
+    source: GPS
+  heading: 184
+  course: 173
+  speed:
+    sog: 0.2
+  log: 17239.7
+  waypoint:
+    longitude: -140.103242
+    latitude: -8.915187
+  barometer: 1014.34
+  wind:
+    speed: 10.3
+    direction: 207
+  engine:
+    hours: 1115
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  end: true
+  category: navigation
