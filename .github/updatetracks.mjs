@@ -141,8 +141,11 @@ function ensureTrack(entry, tracks) {
         return geoJson;
       }
       const newData = {...geoJson};
+      newData.coordinates = [newData.coordinates.reduce((points, curr) => {
+        return points.concat(curr);
+      }, [])];
       let prevPoint = null;
-      newData.coordinates[0] = geoJson.coordinates[0].filter((coord) => {
+      newData.coordinates[0] = newData.coordinates[0].filter((coord) => {
         if (!coord) {
           return false;
         }
