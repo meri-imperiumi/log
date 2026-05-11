@@ -388,3 +388,81 @@
     - ihmis-suski
     - bergie
   category: maintenance
+- datetime: 2026-05-10T23:00:48.499Z
+  text: ""
+  author: ""
+  position:
+    longitude: -139.9904256
+    latitude: -8.8421661
+    source: GPS
+  heading: 2
+  course: 13
+  speed:
+    sog: 4.9
+  log: 17257.2
+  waypoint:
+    longitude: -139.997546
+    latitude: -8.800297
+  barometer: 1009.55
+  wind:
+    speed: 10.9
+    direction: 129
+  engine:
+    hours: 1116
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: navigation
+- datetime: 2026-05-10T23:37:46.598Z
+  text: Stopped watermaker, 198ppm
+  author: bergie
+  position:
+    longitude: -140.0034904
+    latitude: -8.7918318
+    source: GPS
+  heading: 328
+  course: 332
+  speed:
+    sog: 6.4
+  log: 17260.4
+  waypoint:
+    longitude: -140.043763
+    latitude: -8.79067
+  barometer: 1009.04
+  wind:
+    speed: 16.3
+    direction: 100
+  engine:
+    hours: 1116
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: maintenance
+- datetime: 2026-05-10T23:51:50.598Z
+  text: "Sails set: Main gybed"
+  author: ihmis-suski
+  position:
+    longitude: -140.0169618
+    latitude: -8.778314
+    source: GPS
+  heading: 255
+  course: 258
+  speed:
+    sog: 5.8
+  log: 17261.6
+  waypoint:
+    longitude: -140.043763
+    latitude: -8.79067
+  barometer: 1008.78
+  wind:
+    speed: 16
+    direction: 101
+  engine:
+    hours: 1116
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: navigation
