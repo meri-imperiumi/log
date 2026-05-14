@@ -43,7 +43,7 @@
     - bergie
   category: maintenance
 - datetime: 2026-05-14T02:20:18.700Z
-  text: Watermamet 194ppm
+  text: Watermaker 194ppm
   author: bergie
   position:
     longitude: -140.0643996
@@ -58,6 +58,28 @@
   wind:
     speed: 10.4
     direction: 125
+  engine:
+    hours: 1116.7
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: maintenance
+- datetime: 2026-05-14T03:57:21.100Z
+  text: Stopped watermaker, 190ppm
+  author: bergie
+  position:
+    longitude: -140.0643768
+    latitude: -8.8228753
+    source: GPS
+  heading: 155
+  course: 120
+  speed:
+    sog: 0
+  log: 17266.1
+  barometer: 1008.83
+  wind:
+    speed: 11
+    direction: 134
   engine:
     hours: 1116.7
   crewNames:
