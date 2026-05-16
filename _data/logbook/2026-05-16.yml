@@ -20,3 +20,55 @@
     - ihmis-suski
     - bergie
   category: maintenance
+- datetime: 2026-05-16T19:10:33.299Z
+  text: Installed paddle wheel log, got maybe 1dl water in
+  author: bergie
+  position:
+    longitude: -140.0644649
+    latitude: -8.8229913
+    source: GPS
+  heading: 88
+  course: 70
+  speed:
+    stw: 0
+    sog: 0
+  log: 17266.1
+  waypoint:
+    longitude: -140.062565
+    latitude: -8.822198
+  barometer: 1012.29
+  wind:
+    speed: 9
+    direction: 108
+  engine:
+    hours: 1116.7
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: maintenance
+- datetime: 2026-05-16T19:11:33.299Z
+  text: Pumped the bilge
+  author: bergie
+  position:
+    longitude: -140.0644606
+    latitude: -8.8229833
+    source: GPS
+  heading: 95
+  course: 85
+  speed:
+    stw: 0
+    sog: 0
+  log: 17266.1
+  waypoint:
+    longitude: -140.062565
+    latitude: -8.822198
+  barometer: 1012.25
+  wind:
+    speed: 9
+    direction: 114
+  engine:
+    hours: 1116.7
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: maintenance
