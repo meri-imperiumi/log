@@ -267,3 +267,31 @@
   crewNames:
     - ihmis-suski
     - bergie
+  category: navigation
+- datetime: 2026-05-17T03:18:27.700Z
+  text: Enrolled again in PacSeaNet. Good contact with W9EEE
+  author: bergie
+  position:
+    longitude: -140.2936404
+    latitude: -8.939667
+    source: GPS
+  heading: 180
+  course: 179
+  speed:
+    stw: 4.5
+    sog: 5.1
+  log: 17291
+  waypoint:
+    longitude: -140.307018
+    latitude: -8.998567
+  barometer: 0
+  wind:
+    speed: 5.9
+    direction: 287
+  engine:
+    hours: 1119
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: radio
