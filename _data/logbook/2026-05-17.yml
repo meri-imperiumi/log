@@ -1083,8 +1083,8 @@
     - bergie
   category: maintenance
 - datetime: 2026-05-17T22:00:25.600Z
-  text: ""
-  author: ""
+  text: Bergie on watch
+  author: bergie
   position:
     longitude: -140.7698166
     latitude: -10.5927516
@@ -1108,3 +1108,8 @@
   crewNames:
     - ihmis-suski
     - bergie
+  category: navigation
+  observations:
+    seaState: 3
+    cloudCoverage: 2
+    visibility: 7
