@@ -782,8 +782,8 @@
     - bergie
   category: maintenance
 - datetime: 2026-05-17T16:00:24.396Z
-  text: ""
-  author: ""
+  text: Suski on watch
+  author: ihmis-suski
   position:
     longitude: -140.5669551
     latitude: -10.0663076
@@ -807,3 +807,35 @@
   crewNames:
     - ihmis-suski
     - bergie
+  category: navigation
+- datetime: 2026-05-17T16:21:19.398Z
+  text: "Sails set: Main (1st reef), Genoa 1 (20% furled). Squall upwind of us."
+  author: ihmis-suski
+  position:
+    longitude: -140.5761113
+    latitude: -10.0965049
+    source: GPS
+  heading: 193
+  course: 202
+  speed:
+    stw: 4.8
+    sog: 6.5
+  log: 17363.3
+  waypoint:
+    longitude: -140.657195
+    latitude: -10.177763
+  barometer: 1011.65
+  wind:
+    speed: 14.9
+    direction: 93
+  engine:
+    hours: 1119.6
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: navigation
+  observations:
+    seaState: 4
+    cloudCoverage: 3
+    visibility: 7
