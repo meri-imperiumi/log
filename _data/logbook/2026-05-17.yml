@@ -187,3 +187,83 @@
     - ihmis-suski
     - bergie
   category: navigation
+- datetime: 2026-05-17T02:14:11.600Z
+  text: Sails down, motoring
+  author: ""
+  position:
+    longitude: -140.2825215
+    latitude: -8.8602268
+    source: GPS
+  heading: 117
+  course: 159
+  speed:
+    stw: 0.2
+    sog: 0.6
+  log: 17286.1
+  waypoint:
+    longitude: -140.290674
+    latitude: -8.942004
+  barometer: 1008.97
+  wind:
+    speed: 7
+    direction: 196
+  engine:
+    hours: 1117.9
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: navigation
+- datetime: 2026-05-17T02:41:28.600Z
+  text: Dolphins!
+  author: bergie
+  position:
+    longitude: -140.2886666
+    latitude: -8.8904455
+    source: GPS
+  heading: 184
+  course: 190
+  speed:
+    stw: 4.4
+    sog: 4.3
+  log: 17288
+  waypoint:
+    longitude: -140.299572
+    latitude: -8.955343
+  barometer: 1009.23
+  wind:
+    speed: 5.6
+    direction: 240
+  engine:
+    hours: 1118.4
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: navigation
+- datetime: 2026-05-17T03:00:27.600Z
+  text: ""
+  author: ""
+  position:
+    longitude: -140.2916874
+    latitude: -8.9151878
+    source: GPS
+  heading: 182
+  course: 181
+  speed:
+    stw: 4.5
+    sog: 4.3
+  log: 17289.5
+  waypoint:
+    longitude: -140.302196
+    latitude: -8.980846
+  barometer: 1009.34
+  wind:
+    speed: 5.1
+    direction: 279
+  engine:
+    hours: 1118.7
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
