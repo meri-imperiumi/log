@@ -1,0 +1,80 @@
+- datetime: 2026-05-17T00:00:34.600Z
+  text: ""
+  author: ""
+  position:
+    longitude: -140.1903156
+    latitude: -8.7579273
+    source: GPS
+  heading: 287
+  course: 278
+  speed:
+    stw: 4.9
+    sog: 6.6
+  log: 17275.9
+  waypoint:
+    longitude: -140.214838
+    latitude: -8.759329
+  barometer: 1008.88
+  wind:
+    speed: 18.3
+    direction: 82
+  engine:
+    hours: 1117.9
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: navigation
+- datetime: 2026-05-17T00:42:23.600Z
+  text: Gybed to west of Nuku Hiva
+  author: bergie
+  position:
+    longitude: -140.2499636
+    latitude: -8.7590805
+    source: GPS
+  heading: 221
+  course: 212
+  speed:
+    stw: 5
+    sog: 5.5
+  log: 17279.6
+  waypoint:
+    longitude: -140.26436
+    latitude: -8.786908
+  barometer: 1008.52
+  wind:
+    speed: 16.5
+    direction: 94
+  engine:
+    hours: 1117.9
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: navigation
+- datetime: 2026-05-17T01:00:23.600Z
+  text: ""
+  author: ""
+  position:
+    longitude: -140.2628391
+    latitude: -8.7786161
+    source: GPS
+  heading: 200
+  course: 202
+  speed:
+    stw: 4.7
+    sog: 4
+  log: 17281
+  waypoint:
+    longitude: -140.265668
+    latitude: -8.79596
+  barometer: 1008.52
+  wind:
+    speed: 13.2
+    direction: 76
+  engine:
+    hours: 1117.9
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
