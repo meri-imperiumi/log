@@ -287,3 +287,116 @@
     - ihmis-suski
     - bergie
   category: navigation
+- datetime: 2026-05-16T23:00:44.499Z
+  text: ""
+  author: ""
+  position:
+    longitude: -140.0991446
+    latitude: -8.7787076
+    source: GPS
+  heading: 292
+  course: 290
+  speed:
+    stw: 5.3
+    sog: 5.8
+  log: 17270.3
+  waypoint:
+    longitude: -140.122913
+    latitude: -8.781489
+  barometer: 1009.56
+  wind:
+    speed: 19.7
+    direction: 78
+  engine:
+    hours: 1117.7
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: navigation
+- datetime: 2026-05-16T23:14:06.502Z
+  text: Motor stopped, sailing with Main (1st reef)
+  author: ""
+  position:
+    longitude: -140.12020099957783
+    latitude: -8.770949490865071
+    source: GPS
+  heading: 298
+  course: 296
+  speed:
+    stw: 4
+    sog: 4.5
+  log: 17271.7
+  waypoint:
+    longitude: -140.148839
+    latitude: -8.767973
+  barometer: 1009.42
+  wind:
+    speed: 18.3
+    direction: 77
+  engine:
+    hours: 1117.9
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: navigation
+- datetime: 2026-05-16T23:17:59.500Z
+  text: "Sails set: Main (1st reef), Genoa 1 (10% furled). Poled out"
+  author: bergie
+  position:
+    longitude: -140.1251603
+    latitude: -8.7696641
+    source: GPS
+  heading: 283
+  course: 291
+  speed:
+    stw: 4.6
+    sog: 5.2
+  log: 17272
+  waypoint:
+    longitude: -140.150904
+    latitude: -8.76691
+  barometer: 1009.36
+  wind:
+    speed: 14.5
+    direction: 83
+  engine:
+    hours: 1117.9
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: navigation
+  observations:
+    seaState: 3
+    cloudCoverage: 6
+    visibility: 6
+- datetime: 2026-05-16T23:32:39.500Z
+  text: Changed ship's time to UTC-10
+  author: bergie
+  position:
+    longitude: -140.1465731
+    latitude: -8.7656901
+    source: GPS
+  heading: 288
+  course: 277
+  speed:
+    stw: 4.4
+    sog: 4.8
+  log: 17273.2
+  waypoint:
+    longitude: -140.181554
+    latitude: -8.763278
+  barometer: 1009.18
+  wind:
+    speed: 10.5
+    direction: 91
+  engine:
+    hours: 1117.9
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: navigation
+  observations: {}
