@@ -295,3 +295,56 @@
     - ihmis-suski
     - bergie
   category: radio
+- datetime: 2026-05-17T03:54:14.700Z
+  text: Motor stopped, sailing with Main (1st reef), Genoa 1 (20% furled)
+  author: ""
+  position:
+    longitude: -140.2963921
+    latitude: -8.9883555
+    source: GPS
+  heading: 178
+  course: 183
+  speed:
+    stw: 3.9
+    sog: 4.8
+  log: 17293.9
+  waypoint:
+    longitude: -140.311999
+    latitude: -9.047321
+  barometer: 1009.85
+  wind:
+    speed: 10.5
+    direction: 84
+  engine:
+    hours: 1119.6
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: navigation
+- datetime: 2026-05-17T04:00:25.699Z
+  text: ""
+  author: ""
+  position:
+    longitude: -140.296811
+    latitude: -8.9964016
+    source: GPS
+  heading: 178
+  course: 175
+  speed:
+    stw: 3.9
+    sog: 4.8
+  log: 17294.4
+  waypoint:
+    longitude: -140.312426
+    latitude: -9.055235
+  barometer: 1010.1
+  wind:
+    speed: 12.5
+    direction: 78
+  engine:
+    hours: 1119.6
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
