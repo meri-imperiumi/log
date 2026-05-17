@@ -673,3 +673,137 @@
     - ihmis-suski
     - bergie
   category: navigation
+- datetime: 2026-05-17T15:00:24.396Z
+  text: ""
+  author: ""
+  position:
+    longitude: -140.5415706
+    latitude: -9.9990746
+    source: GPS
+  heading: 211
+  course: 215
+  speed:
+    stw: 4.2
+    sog: 5.1
+  log: 17357
+  waypoint:
+    longitude: -140.598523
+    latitude: -9.990635
+  barometer: 1010.85
+  wind:
+    speed: 11.7
+    direction: 96
+  engine:
+    hours: 1119.6
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: navigation
+- datetime: 2026-05-17T15:29:21.401Z
+  text: "Sails set: Main (1st reef), Genoa 1"
+  author: ""
+  position:
+    longitude: -140.5592891
+    latitude: -10.0297459
+    source: GPS
+  heading: 204
+  course: 217
+  speed:
+    stw: 3.4
+    sog: 3.3
+  log: 17359.1
+  waypoint:
+    longitude: -140.625934
+    latitude: -10.079745
+  barometer: 1011.21
+  wind:
+    speed: 7.5
+    direction: 105
+  engine:
+    hours: 1119.6
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: navigation
+- datetime: 2026-05-17T15:46:24.396Z
+  text: Started watermaker
+  author: bergie
+  position:
+    longitude: -140.563065
+    latitude: -10.0476416
+    source: GPS
+  heading: 186
+  course: 205
+  speed:
+    stw: 3.7
+    sog: 4.2
+  log: 17360.2
+  waypoint:
+    longitude: -140.625934
+    latitude: -10.079745
+  barometer: 1011.3
+  wind:
+    speed: 14
+    direction: 104
+  engine:
+    hours: 1119.6
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: maintenance
+- datetime: 2026-05-17T15:59:24.403Z
+  text: Watermaker 265ppm
+  author: bergie
+  position:
+    longitude: -140.566728
+    latitude: -10.0648586
+    source: GPS
+  heading: 184
+  course: 186
+  speed:
+    stw: 5
+    sog: 5.3
+  log: 17361.3
+  waypoint:
+    longitude: -140.625934
+    latitude: -10.079745
+  barometer: 1011.38
+  wind:
+    speed: 15.4
+    direction: 88
+  engine:
+    hours: 1119.6
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: maintenance
+- datetime: 2026-05-17T16:00:24.396Z
+  text: ""
+  author: ""
+  position:
+    longitude: -140.5669551
+    latitude: -10.0663076
+    source: GPS
+  heading: 187
+  course: 179
+  speed:
+    stw: 4.6
+    sog: 5.9
+  log: 17361.4
+  waypoint:
+    longitude: -140.625934
+    latitude: -10.079745
+  barometer: 1011.42
+  wind:
+    speed: 17.1
+    direction: 91
+  engine:
+    hours: 1119.6
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
