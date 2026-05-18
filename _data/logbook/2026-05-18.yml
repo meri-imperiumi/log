@@ -514,3 +514,57 @@
   crewNames:
     - ihmis-suski
     - bergie
+  category: navigation
+- datetime: 2026-05-18T13:21:06.800Z
+  text: Airplane passed overhead. So rare to see here that it warrants a log entry
+  author: bergie
+  position:
+    longitude: -141.2078321
+    latitude: -11.8847448
+    source: GPS
+  heading: 205
+  course: 207
+  speed:
+    stw: 4.3
+    sog: 4.1
+  log: 17477.4
+  waypoint:
+    longitude: -141.382082
+    latitude: -11.872515
+  barometer: 1011.28
+  wind:
+    speed: 12
+    direction: 84
+  engine:
+    hours: 1119.6
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: navigation
+- datetime: 2026-05-18T14:00:06.899Z
+  text: ""
+  author: ""
+  position:
+    longitude: -141.2333538
+    latitude: -11.9277598
+    source: GPS
+  heading: 211
+  course: 213
+  speed:
+    stw: 3.8
+    sog: 4.6
+  log: 17480.5
+  waypoint:
+    longitude: -141.382082
+    latitude: -11.872515
+  barometer: 1011.36
+  wind:
+    speed: 10.1
+    direction: 87
+  engine:
+    hours: 1119.6
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
