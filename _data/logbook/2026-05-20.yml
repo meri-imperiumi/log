@@ -817,8 +817,8 @@
     - bergie
   category: navigation
 - datetime: 2026-05-20T22:00:13.600Z
-  text: ""
-  author: ""
+  text: Land ho! I can see palm trees on the Ohomo atoll
+  author: bergie
   position:
     longitude: -142.4270649909973
     latitude: -15.805505498250326
@@ -838,6 +838,37 @@
     direction: 42
   engine:
     hours: 1120.3
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: navigation
+  observations:
+    seaState: 3
+    cloudCoverage: 4
+    visibility: 7
+- datetime: 2026-05-20T23:00:15.603Z
+  text: ""
+  author: ""
+  position:
+    longitude: -142.440946
+    latitude: -15.8961256
+    source: GPS
+  heading: 199
+  course: 196
+  speed:
+    stw: 5
+    sog: 5.5
+  log: 17734.2
+  waypoint:
+    longitude: -142.460954
+    latitude: -16.01151
+  barometer: 1011.79
+  wind:
+    speed: 10.1
+    direction: 21
+  engine:
+    hours: 1121.3
   vhf: "16"
   crewNames:
     - ihmis-suski
