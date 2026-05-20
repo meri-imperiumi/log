@@ -321,3 +321,35 @@
   crewNames:
     - ihmis-suski
     - bergie
+  category: navigation
+- datetime: 2026-05-20T10:00:34.800Z
+  text: Bergie on watch. The wave set from SE causes some hobbyhorsing
+  author: bergie
+  position:
+    longitude: -142.3052508
+    latitude: -14.9118319
+    source: GPS
+  heading: 197
+  course: 201
+  speed:
+    stw: 3.8
+    sog: 4.1
+  log: 17673.1
+  waypoint:
+    longitude: -142.421657
+    latitude: -15.589362
+  barometer: 1012.41
+  wind:
+    speed: 9.4
+    direction: 113
+  engine:
+    hours: 1119.6
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: navigation
+  observations:
+    seaState: 4
+    cloudCoverage: 3
+    visibility: 7
