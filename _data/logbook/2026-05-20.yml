@@ -78,3 +78,57 @@
   crewNames:
     - ihmis-suski
     - bergie
+  category: navigation
+- datetime: 2026-05-20T01:27:13.200Z
+  text: Sailing vessel Alissa is now visible in the horizon, 8NM away
+  author: bergie
+  position:
+    longitude: -142.1274273
+    latitude: -14.3057768
+    source: GPS
+  heading: 183
+  course: 198
+  speed:
+    stw: 4.4
+    sog: 5.2
+  log: 17635
+  waypoint:
+    longitude: -142.421657
+    latitude: -15.589362
+  barometer: 1010.2
+  wind:
+    speed: 9.9
+    direction: 65
+  engine:
+    hours: 1119.6
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: navigation
+- datetime: 2026-05-20T02:00:14.200Z
+  text: ""
+  author: ""
+  position:
+    longitude: -142.1410583
+    latitude: -14.3474321
+    source: GPS
+  heading: 188
+  course: 196
+  speed:
+    stw: 4.4
+    sog: 4.9
+  log: 17637.6
+  waypoint:
+    longitude: -142.421657
+    latitude: -15.589362
+  barometer: 1010.44
+  wind:
+    speed: 10.3
+    direction: 65
+  engine:
+    hours: 1119.6
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
