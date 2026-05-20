@@ -568,3 +568,115 @@
   crewNames:
     - ihmis-suski
     - bergie
+  category: navigation
+- datetime: 2026-05-20T17:00:59.001Z
+  text: ""
+  author: ""
+  position:
+    longitude: -142.3360815
+    latitude: -15.4197134
+    source: GPS
+  heading: 186
+  course: 180
+  speed:
+    stw: 5.4
+    sog: 4.9
+  log: 17704.7
+  waypoint:
+    longitude: -142.460954
+    latitude: -16.01151
+  barometer: 1013.12
+  wind:
+    speed: 17.8
+    direction: 43
+  engine:
+    hours: 1119.6
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: navigation
+- datetime: 2026-05-20T17:39:28.998Z
+  text: "Sails set: Main, Genoa 1"
+  author: ""
+  position:
+    longitude: -142.3494876
+    latitude: -15.4707814
+    source: GPS
+  heading: 187
+  course: 179
+  speed:
+    stw: 4.7
+    sog: 4.2
+  log: 17707.9
+  waypoint:
+    longitude: -142.460954
+    latitude: -16.01151
+  barometer: 1013.66
+  wind:
+    speed: 14.9
+    direction: 34
+  engine:
+    hours: 1119.6
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: navigation
+- datetime: 2026-05-20T17:56:40.000Z
+  text: "Sails set: Main, Genoa 1 (10% furled). Wing on wing."
+  author: ihmis-suski
+  position:
+    longitude: -142.3511618
+    latitude: -15.4933466
+    source: GPS
+  heading: 192
+  course: 193
+  speed:
+    stw: 4.8
+    sog: 5.7
+  log: 17709.2
+  waypoint:
+    longitude: -142.460954
+    latitude: -16.01151
+  barometer: 1013.73
+  wind:
+    speed: 15.3
+    direction: 34
+  engine:
+    hours: 1119.6
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: navigation
+  observations:
+    seaState: 4
+    cloudCoverage: 2
+    visibility: 7
+- datetime: 2026-05-20T18:00:00.000Z
+  text: ""
+  author: ""
+  position:
+    longitude: -142.3528743
+    latitude: -15.4972936
+    source: GPS
+  heading: 200
+  course: 199
+  speed:
+    stw: 4.6
+    sog: 4.5
+  log: 17709.5
+  waypoint:
+    longitude: -142.460954
+    latitude: -16.01151
+  barometer: 1013.76
+  wind:
+    speed: 14.1
+    direction: 40
+  engine:
+    hours: 1119.6
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
