@@ -896,3 +896,56 @@
   crewNames:
     - ihmis-suski
     - bergie
+  category: navigation
+- datetime: 2026-06-03T20:20:45.702Z
+  text: "Sails set: Main (1st reef), Staysail"
+  author: ""
+  position:
+    longitude: -143.4052
+    latitude: -16.4909441
+    source: GPS
+  heading: 330
+  course: 331
+  speed:
+    stw: 3.4
+    sog: 3.8
+  log: 17843.9
+  waypoint:
+    longitude: -143.554031
+    latitude: -16.585548
+  barometer: 1012.38
+  wind:
+    speed: 23.1
+    direction: 273
+  engine:
+    hours: 1134.8
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: navigation
+- datetime: 2026-06-03T20:23:44.697Z
+  text: Another 33kn squall, this time with rain hitting us
+  author: bergie
+  position:
+    longitude: -143.4064888
+    latitude: -16.4876348
+    source: GPS
+  heading: 335
+  course: 341
+  speed:
+    stw: 3.8
+    sog: 4
+  log: 17844.1
+  waypoint:
+    longitude: -143.554031
+    latitude: -16.585548
+  barometer: 1012.3
+  wind:
+    speed: 18.7
+    direction: 279
+  engine:
+    hours: 1134.8
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: navigation
