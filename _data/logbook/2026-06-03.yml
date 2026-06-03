@@ -815,3 +815,84 @@
   crewNames:
     - ihmis-suski
     - bergie
+  category: navigation
+- datetime: 2026-06-03T19:38:09.702Z
+  text: Pumped the bilge
+  author: bergie
+  position:
+    longitude: -143.3864839
+    latitude: -16.5262249
+    source: GPS
+  heading: 315
+  course: 331
+  speed:
+    stw: 2.2
+    sog: 3.4
+  log: 17841.4
+  waypoint:
+    longitude: -143.442129
+    latitude: -16.552269
+  barometer: 1012.26
+  wind:
+    speed: 13.2
+    direction: 260
+  engine:
+    hours: 1134.8
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: maintenance
+- datetime: 2026-06-03T19:50:02.700Z
+  text: "Sails set: Main (1st reef), Staysail"
+  author: ""
+  position:
+    longitude: -143.3903253
+    latitude: -16.5188118
+    source: GPS
+  heading: 316
+  course: 326
+  speed:
+    stw: 2.5
+    sog: 3.5
+  log: 17841.9
+  waypoint:
+    longitude: -143.442129
+    latitude: -16.552269
+  barometer: 1012.2
+  wind:
+    speed: 14.5
+    direction: 253
+  engine:
+    hours: 1134.8
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: navigation
+- datetime: 2026-06-03T20:00:09.702Z
+  text: ""
+  author: ""
+  position:
+    longitude: -143.3970529
+    latitude: -16.5114289
+    source: GPS
+  heading: 319
+  course: 321
+  speed:
+    stw: 2.6
+    sog: 3.3
+  log: 17842.5
+  waypoint:
+    longitude: -143.442129
+    latitude: -16.552269
+  barometer: 1012.19
+  wind:
+    speed: 15.5
+    direction: 266
+  engine:
+    hours: 1134.8
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
