@@ -949,3 +949,133 @@
     - ihmis-suski
     - bergie
   category: navigation
+- datetime: 2026-06-03T21:00:45.702Z
+  text: ""
+  author: ""
+  position:
+    longitude: -143.4022505
+    latitude: -16.4926936
+    source: GPS
+  heading: 229
+  course: 222
+  speed:
+    stw: 4.8
+    sog: 4.8
+  log: 17847.5
+  waypoint:
+    longitude: -143.554031
+    latitude: -16.585548
+  barometer: 1011.96
+  wind:
+    speed: 18.1
+    direction: 292
+  engine:
+    hours: 1134.8
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: navigation
+- datetime: 2026-06-03T21:02:01.702Z
+  text: "Sails set: Main (2nd reef), Staysail"
+  author: ""
+  position:
+    longitude: -143.4033343
+    latitude: -16.493879
+    source: GPS
+  heading: 235
+  course: 229
+  speed:
+    stw: 4.4
+    sog: 4.3
+  log: 17847.6
+  waypoint:
+    longitude: -143.554031
+    latitude: -16.585548
+  barometer: 1011.96
+  wind:
+    speed: 17
+    direction: 300
+  engine:
+    hours: 1134.8
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: navigation
+- datetime: 2026-06-03T21:22:45.702Z
+  text: Gusting up to 45kn
+  author: bergie
+  position:
+    longitude: -143.4227191
+    latitude: -16.5119743
+    source: GPS
+  heading: 191
+  course: 193
+  speed:
+    stw: 5.3
+    sog: 4.4
+  log: 17849.2
+  waypoint:
+    longitude: -143.554031
+    latitude: -16.585548
+  barometer: 1011.07
+  wind:
+    speed: 29.8
+    direction: 244
+  engine:
+    hours: 1134.8
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: navigation
+- datetime: 2026-06-03T21:28:32.697Z
+  text: Sails down, motoring
+  author: ""
+  position:
+    longitude: -143.4152331
+    latitude: -16.5174331
+    source: GPS
+  heading: 133
+  course: 135
+  speed:
+    stw: 2.8
+    sog: 2.4
+  log: 17849.8
+  waypoint:
+    longitude: -143.554031
+    latitude: -16.585548
+  barometer: 1011.26
+  wind:
+    speed: 27
+    direction: 254
+  engine:
+    hours: 1134.8
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: navigation
+- datetime: 2026-06-03T21:32:15.801Z
+  text: Autopilot activated
+  author: ""
+  position:
+    longitude: -143.4132511
+    latitude: -16.5196641
+    source: GPS
+  heading: 206
+  course: 139
+  speed:
+    stw: 2.1
+    sog: 2.5
+  log: 17850
+  waypoint:
+    longitude: -143.554031
+    latitude: -16.585548
+  barometer: 1011.79
+  wind:
+    speed: 21.1
+    direction: 250
+  engine:
+    hours: 1134.9
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: navigation
