@@ -326,3 +326,141 @@
     - ihmis-suski
     - bergie
   category: maintenance
+- datetime: 2026-06-03T10:00:36.400Z
+  text: Bergie on watch
+  author: bergie
+  position:
+    longitude: -142.86925099690754
+    latitude: -16.377179654439292
+    source: GPS
+  heading: 248
+  course: 254
+  speed:
+    stw: 3
+    sog: 2.5
+  log: 17805.6
+  waypoint:
+    longitude: -142.892728
+    latitude: -16.359742
+  barometer: 1010.56
+  wind:
+    speed: 13.6
+    direction: 304
+  engine:
+    hours: 1130.6
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: navigation
+  observations:
+    seaState: 4
+    cloudCoverage: 5
+    visibility: 7
+- datetime: 2026-06-03T10:20:37.401Z
+  text: Big squall, gusting 33kn. No rain though
+  author: bergie
+  position:
+    longitude: -142.8844708
+    latitude: -16.3935683
+    source: GPS
+  heading: 217
+  course: 211
+  speed:
+    stw: 5.8
+    sog: 5.8
+  log: 17807.1
+  waypoint:
+    longitude: -142.96284
+    latitude: -16.408818
+  barometer: 1010.42
+  wind:
+    speed: 27.3
+    direction: 320
+  engine:
+    hours: 1130.6
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: navigation
+- datetime: 2026-06-03T10:47:41.500Z
+  text: Secured the chain floats better, as they were making noise
+  author: bergie
+  position:
+    longitude: -142.9081603
+    latitude: -16.4195598
+    source: GPS
+  heading: 238
+  course: 243
+  speed:
+    stw: 4.6
+    sog: 4.3
+  log: 17809.2
+  waypoint:
+    longitude: -142.96284
+    latitude: -16.408818
+  barometer: 1009.88
+  wind:
+    speed: 14
+    direction: 315
+  engine:
+    hours: 1130.6
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: navigation
+- datetime: 2026-06-03T10:56:23.500Z
+  text: "Sails set: Main (1st reef), Staysail"
+  author: ""
+  position:
+    longitude: -142.9177925
+    latitude: -16.4249913
+    source: GPS
+  heading: 240
+  course: 257
+  speed:
+    stw: 4.3
+    sog: 3.6
+  log: 17809.8
+  waypoint:
+    longitude: -142.96284
+    latitude: -16.408818
+  barometer: 1009.96
+  wind:
+    speed: 16.7
+    direction: 317
+  engine:
+    hours: 1130.6
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: navigation
+- datetime: 2026-06-03T11:00:22.499Z
+  text: ""
+  author: ""
+  position:
+    longitude: -142.92210083007814
+    latitude: -16.42734915415446
+    source: GPS
+  heading: 242
+  course: 239
+  speed:
+    stw: 4.3
+    sog: 4.6
+  log: 17810.1
+  waypoint:
+    longitude: -142.96284
+    latitude: -16.408818
+  barometer: 1009.95
+  wind:
+    speed: 13.9
+    direction: 318
+  engine:
+    hours: 1130.6
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
