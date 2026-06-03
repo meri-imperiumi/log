@@ -734,3 +734,84 @@
   crewNames:
     - ihmis-suski
     - bergie
+  category: navigation
+- datetime: 2026-06-03T18:43:51.699Z
+  text: Motor stopped, sailing with Main (1st reef), Genoa 1
+  author: ""
+  position:
+    longitude: -143.3507603
+    latitude: -16.5657566
+    source: GPS
+  heading: 291
+  course: 288
+  speed:
+    stw: 2.9
+    sog: 3.9
+  log: 17838.2
+  waypoint:
+    longitude: -143.406396
+    latitude: -16.570575
+  barometer: 1012.18
+  wind:
+    speed: 11.5
+    direction: 229
+  engine:
+    hours: 1134.8
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: navigation
+- datetime: 2026-06-03T18:46:44.697Z
+  text: Autopilot deactivated, windvane steering
+  author: bergie
+  position:
+    longitude: -143.3538955
+    latitude: -16.5643978
+    source: GPS
+  heading: 300
+  course: 287
+  speed:
+    stw: 2.7
+    sog: 4.1
+  log: 17838.4
+  waypoint:
+    longitude: -143.406396
+    latitude: -16.570575
+  barometer: 1012.24
+  wind:
+    speed: 10.3
+    direction: 236
+  engine:
+    hours: 1134.8
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: navigation
+- datetime: 2026-06-03T19:00:11.699Z
+  text: ""
+  author: ""
+  position:
+    longitude: -143.3627998
+    latitude: -16.5564221
+    source: GPS
+  heading: 306
+  course: 300
+  speed:
+    stw: 2.8
+    sog: 3.5
+  log: 17839.1
+  waypoint:
+    longitude: -143.382197
+    latitude: -16.53104
+  barometer: 1012.27
+  wind:
+    speed: 10.4
+    direction: 243
+  engine:
+    hours: 1134.8
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
