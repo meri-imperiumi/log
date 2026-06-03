@@ -271,3 +271,58 @@
   crewNames:
     - ihmis-suski
     - bergie
+  category: navigation
+- datetime: 2026-06-03T09:00:34.400Z
+  text: ""
+  author: ""
+  position:
+    longitude: -142.8293351
+    latitude: -16.3543186
+    source: GPS
+  heading: 247
+  course: 252
+  speed:
+    stw: 2.9
+    sog: 3.6
+  log: 17802.9
+  waypoint:
+    longitude: -142.892728
+    latitude: -16.359742
+  barometer: 1010.68
+  wind:
+    speed: 12.2
+    direction: 305
+  engine:
+    hours: 1130.6
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: navigation
+- datetime: 2026-06-03T09:37:36.400Z
+  text: Pumped the bilge
+  author: bergie
+  position:
+    longitude: -142.8528884
+    latitude: -16.3691639
+    source: GPS
+  heading: 241
+  course: 229
+  speed:
+    stw: 2.5
+    sog: 2.3
+  log: 17804.6
+  waypoint:
+    longitude: -142.892728
+    latitude: -16.359742
+  barometer: 1010.54
+  wind:
+    speed: 13
+    direction: 299
+  engine:
+    hours: 1130.6
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: maintenance
