@@ -1,3 +1,29 @@
+- datetime: 2026-06-03T00:00:00.200Z
+  text: Autopilot deactivated
+  author: ""
+  position:
+    longitude: -143.5597958
+    latitude: -16.5904591
+    source: GPS
+  heading: 218
+  course: 208
+  speed:
+    stw: 4.6
+    sog: 4.5
+  log: 17859.6
+  waypoint:
+    longitude: -143.566797
+    latitude: -16.597644
+  barometer: 1010.17
+  wind:
+    speed: 1.7
+    direction: 240
+  engine:
+    hours: 1137.3
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: navigation
 - datetime: 2026-06-03T00:00:10.200Z
   text: ""
   author: ""
@@ -1104,3 +1130,30 @@
   crewNames:
     - ihmis-suski
     - bergie
+  category: navigation
+- datetime: 2026-06-03T23:00:45.798Z
+  text: ""
+  author: ""
+  position:
+    longitude: -143.4865858
+    latitude: -16.562527
+    source: GPS
+  heading: 249
+  course: 248
+  speed:
+    stw: 4.5
+    sog: 5.1
+  log: 17855
+  waypoint:
+    longitude: -143.554031
+    latitude: -16.585548
+  barometer: 1010.82
+  wind:
+    speed: 5.3
+    direction: 320
+  engine:
+    hours: 1136.3
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: navigation
