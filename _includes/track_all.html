@@ -30,9 +30,13 @@
           if (!geoJson) {
             return;
           }
+          const cleanedJson = {
+            ...geoJson,
+            coordinates: geoJson.coordinates ? [geoJson.coordinates[0].filter((c) => Array.isArray(c))] : [],
+          };
           mapall.addSource('{{ track_name }}', {
             type: 'geojson',
-            data: geoJson,
+            data: cleanedJson,
           });
           mapall.addLayer({
             'id': '{{ track_name }}',
@@ -47,7 +51,7 @@
               'line-width': 5
             }
           });
-          const coordinates = geoJson.coordinates[0];
+          const coordinates = cleanedJson.coordinates[0];
           bounds = coordinates.reduce((bb, coord) => {
             return bb.extend(coord);
           }, bounds ? bounds: new maplibregl.LngLatBounds(coordinates[0], coordinates[1]));

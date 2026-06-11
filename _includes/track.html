@@ -32,10 +32,14 @@
         fetch('/tracks/{{ track_name }}')
           .then((data) => data.json())
           .then((geoJson) => {
+            const cleanedJson = {
+              ...geoJson,
+              coordinates: geoJson.coordinates ? [geoJson.coordinates[0].filter((c) => Array.isArray(c))] : [],
+            };
             map.touchZoomRotate.disableRotation();
             map.addSource('{{ track_name }}', {
               type: 'geojson',
-              data: geoJson,
+              data: cleanedJson,
             });
             map.addLayer({
               'id': '{{ track_name }}',
@@ -50,7 +54,7 @@
                 'line-width': 5
               }
             });
-            const coordinates = geoJson.coordinates[0];
+            const coordinates = cleanedJson.coordinates[0];
             const bounds = coordinates.reduce((bounds, coord) => {
               return bounds.extend(coord);
             }, new maplibregl.LngLatBounds(coordinates[0], coordinates[1]));
