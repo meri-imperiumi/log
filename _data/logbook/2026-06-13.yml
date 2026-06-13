@@ -1,0 +1,78 @@
+- datetime: 2026-06-13T02:31:25.100Z
+  text: "Changed watermaker o-rings "
+  author: bergie
+  position:
+    latitude: -16.6541666
+    longitude: -143.3968021
+    source: GPS
+  heading: 61
+  course: 56
+  speed:
+    stw: 0
+    sog: 0
+  log: 369.2
+  barometer: 1011.55
+  wind:
+    speed: 1.8
+    direction: 16
+  engine:
+    engines:
+      main:
+        hours: 1139.5
+    hours: 1139.5
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: maintenance
+- datetime: 2026-06-13T02:46:26.100Z
+  text: Started watermaker
+  author: bergie
+  position:
+    latitude: -16.654151153564452
+    longitude: -143.39676701227825
+    source: GPS
+  heading: 49
+  course: 149
+  speed:
+    stw: 0
+    sog: 0
+  log: 369.2
+  barometer: 1011.71
+  wind:
+    speed: 1.4
+    direction: 47
+  engine:
+    engines:
+      main:
+        hours: 1139.5
+    hours: 1139.5
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: maintenance
+- datetime: 2026-06-13T02:58:25.100Z
+  text: Watermaker 255ppm
+  author: bergie
+  position:
+    latitude: -16.6541036
+    longitude: -143.3967881
+    source: GPS
+  heading: 81
+  course: 181
+  speed:
+    stw: 0
+    sog: 0
+  log: 369.2
+  barometer: 1011.87
+  wind:
+    speed: 0.2
+    direction: 305
+  engine:
+    engines:
+      main:
+        hours: 1139.5
+    hours: 1139.5
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: maintenance
