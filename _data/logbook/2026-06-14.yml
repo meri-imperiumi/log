@@ -1,0 +1,29 @@
+- datetime: 2026-06-14T00:30:31.500Z
+  text: Watermaker 200ppm. Going to Plan B.
+  author: ihmis-suski
+  position:
+    latitude: -16.6538693
+    longitude: -143.3966121
+    source: GPS
+  heading: 167
+  course: 165
+  speed:
+    stw: 0
+    sog: 0
+  log: 369.2
+  waypoint:
+    latitude: -16.652883
+    longitude: -143.405572
+  barometer: 1011.26
+  wind:
+    speed: 3.7
+    direction: 233
+  engine:
+    engines:
+      main:
+        hours: 1139.5
+    hours: 1139.5
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: maintenance
