@@ -1,0 +1,53 @@
+- datetime: 2026-06-17T00:42:51.000Z
+  text: "Warn: Not connected to Meshtastic device
+    (communication.meshtastic.deviceStateNum)"
+  author: ""
+  position:
+    latitude: -16.6538459
+    longitude: -143.3968831
+    source: GPS
+  heading: 161
+  course: 193
+  speed:
+    stw: 0
+    sog: 0.3
+  log: 369.2
+  barometer: 1014.72
+  wind:
+    speed: 14.9
+    direction: 123
+  engine:
+    engines:
+      main:
+        hours: 1139.5
+    hours: 1139.5
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: radio
+- datetime: 2026-06-17T00:45:06.141Z
+  text: "Cleared after 2 min: Not connected to Meshtastic device, 4 transitions"
+  author: ""
+  position:
+    latitude: -16.6538903
+    longitude: -143.3969305
+    source: GPS
+  heading: 104
+  course: 201
+  speed:
+    stw: 0
+    sog: 0.1
+  log: 369.2
+  barometer: 1014.72
+  wind:
+    speed: 12.5
+    direction: 116
+  engine:
+    engines:
+      main:
+        hours: 1139.5
+    hours: 1139.5
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: radio
