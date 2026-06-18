@@ -696,3 +696,64 @@
   crewNames:
     - ihmis-suski
     - bergie
+  category: navigation
+- datetime: 2026-06-18T14:39:43.100Z
+  text: Had a brief conversation with SV Senyera that is soon passing us behind.
+    They also aim for the Tahanea pass around 6am local
+  author: bergie
+  position:
+    latitude: -16.8208695
+    longitude: -144.6343004
+    source: GPS
+  heading: 170
+  course: 189
+  speed:
+    stw: 0
+    sog: 0.9
+  log: 456.7
+  waypoint:
+    latitude: -16.847273
+    longitude: -144.680895
+  barometer: 1015.33
+  wind:
+    speed: 17.5
+    direction: 98
+  engine:
+    engines:
+      main:
+        hours: 1142
+    hours: 1142
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: radio
+- datetime: 2026-06-18T15:00:44.102Z
+  text: ""
+  author: ""
+  position:
+    latitude: -16.8265918
+    longitude: -144.6379044
+    source: GPS
+  heading: 167
+  course: 340
+  speed:
+    stw: 0
+    sog: 1
+  log: 457.2
+  waypoint:
+    latitude: -16.847273
+    longitude: -144.680895
+  barometer: 1015.36
+  wind:
+    speed: 21.8
+    direction: 112
+  engine:
+    engines:
+      main:
+        hours: 1142
+    hours: 1142
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
