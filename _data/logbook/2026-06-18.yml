@@ -608,8 +608,8 @@
     - bergie
   category: navigation
 - datetime: 2026-06-18T13:00:39.100Z
-  text: ""
-  author: ""
+  text: Hand steering
+  author: bergie
   position:
     latitude: -16.7980944
     longitude: -144.6157383
@@ -638,8 +638,8 @@
     - bergie
   category: navigation
 - datetime: 2026-06-18T13:00:40.099Z
-  text: "Sails set: Main (2nd reef)"
-  author: ""
+  text: "Sails set: Main (2nd reef). Heaved to on port tack"
+  author: bergie
   position:
     latitude: -16.7980956
     longitude: -144.6157484
@@ -667,3 +667,32 @@
     - ihmis-suski
     - bergie
   category: navigation
+- datetime: 2026-06-18T14:00:41.100Z
+  text: ""
+  author: ""
+  position:
+    latitude: -16.8109396
+    longitude: -144.6263338
+    source: GPS
+  heading: 159
+  course: 203
+  speed:
+    stw: 0
+    sog: 1.5
+  log: 456
+  waypoint:
+    latitude: -16.833574
+    longitude: -144.671676
+  barometer: 1015.4
+  wind:
+    speed: 17.2
+    direction: 103
+  engine:
+    engines:
+      main:
+        hours: 1142
+    hours: 1142
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
