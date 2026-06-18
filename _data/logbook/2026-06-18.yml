@@ -391,3 +391,124 @@
   crewNames:
     - ihmis-suski
     - bergie
+  category: navigation
+- datetime: 2026-06-18T09:22:20.000Z
+  text: "Alarm: Water in the bilge (electrical.venus-input.1.stateNumber)"
+  author: ""
+  position:
+    latitude: -16.6185939
+    longitude: -144.3463593
+    source: GPS
+  heading: 246
+  course: 256
+  speed:
+    stw: 4.9
+    sog: 6.3
+  log: 435.8
+  waypoint:
+    latitude: -16.833574
+    longitude: -144.671676
+  barometer: 1016.22
+  wind:
+    speed: 18.9
+    direction: 103
+  engine:
+    engines:
+      main:
+        hours: 1142
+    hours: 1142
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: engine
+- datetime: 2026-06-18T09:25:22.058Z
+  text: "Cleared after 3 min: Water in the bilge, 8 transitions"
+  author: ""
+  position:
+    latitude: -16.6246709
+    longitude: -144.3588966
+    source: GPS
+  heading: 249
+  course: 237
+  speed:
+    stw: 5
+    sog: 5.8
+  log: 436.6
+  waypoint:
+    latitude: -16.833574
+    longitude: -144.671676
+  barometer: 1016.18
+  wind:
+    speed: 19.5
+    direction: 114
+  engine:
+    engines:
+      main:
+        hours: 1142
+    hours: 1142
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: engine
+- datetime: 2026-06-18T09:56:43.001Z
+  text: "Sails set: Main (2nd reef), Staysail. We need slow down a bit for arrival
+    timing"
+  author: bergie
+  position:
+    latitude: -16.6430355
+    longitude: -144.3997641
+    source: GPS
+  heading: 249
+  course: 256
+  speed:
+    stw: 4.9
+    sog: 5.8
+  log: 439.2
+  waypoint:
+    latitude: -16.833574
+    longitude: -144.671676
+  barometer: 1016.11
+  wind:
+    speed: 19.6
+    direction: 104
+  engine:
+    engines:
+      main:
+        hours: 1142
+    hours: 1142
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: navigation
+- datetime: 2026-06-18T10:00:28.000Z
+  text: ""
+  author: ""
+  position:
+    latitude: -16.6451021
+    longitude: -144.4057618
+    source: GPS
+  heading: 258
+  course: 251
+  speed:
+    stw: 5.2
+    sog: 6
+  log: 439.6
+  waypoint:
+    latitude: -16.833574
+    longitude: -144.671676
+  barometer: 1016.12
+  wind:
+    speed: 17.8
+    direction: 114
+  engine:
+    engines:
+      main:
+        hours: 1142
+    hours: 1142
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
