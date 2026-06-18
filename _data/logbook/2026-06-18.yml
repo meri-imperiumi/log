@@ -757,3 +757,93 @@
   crewNames:
     - ihmis-suski
     - bergie
+  category: navigation
+- datetime: 2026-06-18T15:33:46.099Z
+  text: Back to sail8ng
+  author: bergie
+  position:
+    latitude: -16.8364079
+    longitude: -144.6435984
+    source: GPS
+  heading: 233
+  course: 239
+  speed:
+    stw: 4.6
+    sog: 5.3
+  log: 457.9
+  waypoint:
+    latitude: -16.847273
+    longitude: -144.680895
+  barometer: 1015.56
+  wind:
+    speed: 24.1
+    direction: 112
+  engine:
+    engines:
+      main:
+        hours: 1142
+    hours: 1142
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: navigation
+- datetime: 2026-06-18T15:47:36.102Z
+  text: Sails down, motoring
+  author: ""
+  position:
+    latitude: -16.8384011
+    longitude: -144.6644051
+    source: GPS
+  heading: 240
+  course: 233
+  speed:
+    stw: 4.7
+    sog: 5.4
+  log: 459.1
+  waypoint:
+    latitude: -16.847273
+    longitude: -144.680895
+  barometer: 1015.7
+  wind:
+    speed: 24.4
+    direction: 116
+  engine:
+    engines:
+      main:
+        hours: 1142
+    hours: 1142
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: navigation
+- datetime: 2026-06-18T16:00:47.097Z
+  text: ""
+  author: ""
+  position:
+    latitude: -16.8497294
+    longitude: -144.6803451
+    source: GPS
+  heading: 237
+  course: 227
+  speed:
+    stw: 4.9
+    sog: 5.8
+  log: 460.2
+  waypoint:
+    latitude: -16.847273
+    longitude: -144.680895
+  barometer: 1015.69
+  wind:
+    speed: 23
+    direction: 116
+  engine:
+    engines:
+      main:
+        hours: 1142.2
+    hours: 1142.2
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
