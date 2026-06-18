@@ -546,3 +546,63 @@
   crewNames:
     - ihmis-suski
     - bergie
+  category: navigation
+- datetime: 2026-06-18T11:29:31.001Z
+  text: Lots of shooting stars
+  author: bergie
+  position:
+    latitude: -16.714941
+    longitude: -144.5245935
+    source: GPS
+  heading: 247
+  course: 242
+  speed:
+    stw: 4.8
+    sog: 6.2
+  log: 447.6
+  waypoint:
+    latitude: -16.833574
+    longitude: -144.671676
+  barometer: 1015.52
+  wind:
+    speed: 18.2
+    direction: 114
+  engine:
+    engines:
+      main:
+        hours: 1142
+    hours: 1142
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: navigation
+- datetime: 2026-06-18T12:00:34.099Z
+  text: ""
+  author: ""
+  position:
+    latitude: -16.7449636
+    longitude: -144.5553654
+    source: GPS
+  heading: 213
+  course: 210
+  speed:
+    stw: 4.6
+    sog: 6
+  log: 450.2
+  waypoint:
+    latitude: -16.833574
+    longitude: -144.671676
+  barometer: 1015.35
+  wind:
+    speed: 20.6
+    direction: 95
+  engine:
+    engines:
+      main:
+        hours: 1142
+    hours: 1142
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
