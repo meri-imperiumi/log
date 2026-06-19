@@ -27,3 +27,93 @@
   crewNames:
     - ihmis-suski
     - bergie
+  category: navigation
+- datetime: 2026-06-19T00:13:38.800Z
+  text: Motor stopped, sailing with Main (2nd reef)
+  author: ""
+  position:
+    latitude: -16.9423066
+    longitude: -144.6365296
+    source: GPS
+  heading: 142
+  course: 145
+  speed:
+    stw: 4.1
+    sog: 4.3
+  log: 469
+  waypoint:
+    latitude: -16.951936
+    longitude: -144.579398
+  barometer: 1014.76
+  wind:
+    speed: 17.5
+    direction: 92
+  engine:
+    engines:
+      main:
+        hours: 1145.3
+    hours: 1145.3
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: navigation
+- datetime: 2026-06-19T00:13:45.800Z
+  text: Sails down, motoring
+  author: ""
+  position:
+    latitude: -16.9424016
+    longitude: -144.6364695
+    source: GPS
+  heading: 140
+  course: 142
+  speed:
+    stw: 4.1
+    sog: 4.6
+  log: 469
+  waypoint:
+    latitude: -16.951936
+    longitude: -144.579398
+  barometer: 1014.75
+  wind:
+    speed: 17.8
+    direction: 95
+  engine:
+    engines:
+      main:
+        hours: 1145.3
+    hours: 1145.3
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: navigation
+- datetime: 2026-06-19T01:00:16.800Z
+  text: ""
+  author: ""
+  position:
+    latitude: -16.951387
+    longitude: -144.5921468
+    source: GPS
+  heading: 119
+  course: 123
+  speed:
+    stw: 3.7
+    sog: 4
+  log: 471.9
+  waypoint:
+    latitude: -16.951936
+    longitude: -144.579398
+  barometer: 1014.64
+  wind:
+    speed: 17
+    direction: 99
+  engine:
+    engines:
+      main:
+        hours: 1146
+    hours: 1146
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
