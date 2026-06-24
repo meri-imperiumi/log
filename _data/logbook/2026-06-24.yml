@@ -27,3 +27,33 @@
     - ihmis-suski
     - bergie
   category: maintenance
+- datetime: 2026-06-24T02:19:16.300Z
+  text: "Emergency: Crew Overboard Beacon detected 642.0 meters to northeast
+    (mob.972226142)"
+  author: ""
+  position:
+    latitude: -16.9572393
+    longitude: -144.5834395
+    source: GPS
+  heading: 93
+  course: 239
+  speed:
+    stw: 0
+    sog: 0.1
+  log: 369.2
+  waypoint:
+    latitude: -16.955934
+    longitude: -144.588782
+  barometer: 1013.47
+  wind:
+    speed: 11.4
+    direction: 78
+  engine:
+    engines:
+      main:
+        hours: 1146.5
+    hours: 1146.5
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: navigation
