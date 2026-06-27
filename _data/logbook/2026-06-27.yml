@@ -56,3 +56,61 @@
     - ihmis-suski
     - bergie
   category: maintenance
+- datetime: 2026-06-27T22:15:08.198Z
+  text: Watermaker 212ppm
+  author: bergie
+  position:
+    latitude: -16.957135
+    longitude: -144.5834013
+    source: GPS
+  heading: 110
+  course: 237
+  speed:
+    stw: 0
+    sog: 0.1
+  log: 369.2
+  waypoint:
+    latitude: -16.955934
+    longitude: -144.588782
+  barometer: 1012.08
+  wind:
+    speed: 9.5
+    direction: 96
+  engine:
+    engines:
+      main:
+        hours: 1146.5
+    hours: 1146.5
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: maintenance
+- datetime: 2026-06-27T22:24:08.198Z
+  text: Gas struts in safari window replaced.
+  author: ihmis-suski
+  position:
+    latitude: -16.9572566
+    longitude: -144.5834145
+    source: GPS
+  heading: 50
+  course: 312
+  speed:
+    stw: 0
+    sog: 0.1
+  log: 369.2
+  waypoint:
+    latitude: -16.955934
+    longitude: -144.588782
+  barometer: 1011.94
+  wind:
+    speed: 9.6
+    direction: 88
+  engine:
+    engines:
+      main:
+        hours: 1146.5
+    hours: 1146.5
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: maintenance
