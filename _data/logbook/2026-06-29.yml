@@ -1,0 +1,58 @@
+- datetime: 2026-06-29T18:02:09.900Z
+  text: Started watermaker
+  author: bergie
+  position:
+    latitude: -16.9575016
+    longitude: -144.583248
+    source: GPS
+  heading: 49
+  course: 260
+  speed:
+    stw: 0
+    sog: 0
+  log: 369.2
+  waypoint:
+    latitude: -16.955934
+    longitude: -144.588782
+  barometer: 1014.35
+  wind:
+    speed: 6
+    direction: 16
+  engine:
+    engines:
+      main:
+        hours: 1146.5
+    hours: 1146.5
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: maintenance
+- datetime: 2026-06-29T18:03:09.900Z
+  text: "Measured the leak on the galley tap: 1dl/h or about 2.5l/day"
+  author: bergie
+  position:
+    latitude: -16.9575115
+    longitude: -144.583219
+    source: GPS
+  heading: 30
+  course: 5
+  speed:
+    stw: 0
+    sog: 0
+  log: 369.2
+  waypoint:
+    latitude: -16.955934
+    longitude: -144.588782
+  barometer: 1014.36
+  wind:
+    speed: 5.4
+    direction: 14
+  engine:
+    engines:
+      main:
+        hours: 1146.5
+    hours: 1146.5
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: maintenance
