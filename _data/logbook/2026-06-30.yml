@@ -1,0 +1,58 @@
+- datetime: 2026-06-30T01:01:42.300Z
+  text: Installed a new fan to kitchen. Powered by port side light circuit.
+  author: ihmis-suski
+  position:
+    latitude: -16.9572111
+    longitude: -144.5828858
+    source: GPS
+  heading: 250
+  course: 142
+  speed:
+    stw: 0
+    sog: 0
+  log: 369.2
+  waypoint:
+    latitude: -16.955934
+    longitude: -144.588782
+  barometer: 1011.61
+  wind:
+    speed: 1.9
+    direction: 256
+  engine:
+    engines:
+      main:
+        hours: 1146.5
+    hours: 1146.5
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: maintenance
+- datetime: 2026-06-30T01:03:43.300Z
+  text: Stopped watermaker, 206ppm
+  author: bergie
+  position:
+    latitude: -16.957206
+    longitude: -144.5828773
+    source: GPS
+  heading: 228
+  course: 325
+  speed:
+    stw: 0
+    sog: 0
+  log: 369.2
+  waypoint:
+    latitude: -16.955934
+    longitude: -144.588782
+  barometer: 1011.57
+  wind:
+    speed: 2.5
+    direction: 262
+  engine:
+    engines:
+      main:
+        hours: 1146.5
+    hours: 1146.5
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: maintenance
