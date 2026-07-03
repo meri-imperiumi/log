@@ -85,3 +85,31 @@
     - bergie
     - ihmis-suski
   category: maintenance
+- datetime: 2026-07-03T18:16:54.099Z
+  text: Installed Superwind after bearing replacement. Originally we had a short
+    in the wiring, but now having replaced heat shrink connectors with Wago it
+    works
+  author: bergie
+  position:
+    latitude: -16.8829411
+    longitude: -144.5841559
+    source: GPS
+  heading: 35
+  course: 351
+  speed:
+    stw: 0
+    sog: 0.5
+  log: 374.5
+  barometer: 1012.75
+  wind:
+    speed: 15.6
+    direction: 79
+  engine:
+    engines:
+      main:
+        hours: 1148.2
+    hours: 1148.2
+  crewNames:
+    - bergie
+    - ihmis-suski
+  category: maintenance
