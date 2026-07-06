@@ -138,3 +138,62 @@
     - bergie
     - ihmis-suski
   category: maintenance
+- datetime: 2026-07-06T21:27:32.998Z
+  text: "Emergency: Anchor Alarm - Emergency (navigation.anchor)"
+  author: ""
+  position:
+    latitude: -16.8619925
+    longitude: -144.6511795
+    source: GPS
+  heading: 281
+  course: 185
+  speed:
+    stw: 0
+    sog: 0
+  log: 378.9
+  waypoint:
+    latitude: -16.862115
+    longitude: -144.651149
+  barometer: 1008.26
+  wind:
+    speed: 15.2
+    direction: 309
+  engine:
+    engines:
+      main:
+        hours: 1149.7
+    hours: 1149.7
+  crewNames:
+    - bergie
+    - ihmis-suski
+  category: navigation
+- datetime: 2026-07-06T21:27:46.020Z
+  text: "Cleared after 12 s: Anchor Alarm - Emergency. We were dragging, added 10m
+    more chain"
+  author: bergie
+  position:
+    latitude: -16.8620058
+    longitude: -144.6511091
+    source: GPS
+  heading: 289
+  course: 284
+  speed:
+    stw: 0
+    sog: 0.5
+  log: 378.9
+  waypoint:
+    latitude: -16.86224
+    longitude: -144.649509
+  barometer: 1008.15
+  wind:
+    speed: 12.7
+    direction: 315
+  engine:
+    engines:
+      main:
+        hours: 1149.7
+    hours: 1149.7
+  crewNames:
+    - bergie
+    - ihmis-suski
+  category: navigation
