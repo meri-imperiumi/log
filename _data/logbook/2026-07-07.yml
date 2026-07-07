@@ -366,3 +366,63 @@
     seaState: 3
     cloudCoverage: 6
     visibility: 7
+- datetime: 2026-07-07T20:59:35.398Z
+  text: ""
+  author: ""
+  position:
+    latitude: -16.6752986
+    longitude: -144.9648158
+    source: GPS
+  heading: 326
+  course: 298
+  speed:
+    stw: 4.4
+    sog: 5.5
+  log: 401.5
+  waypoint:
+    latitude: -16.679528
+    longitude: -144.977281
+  barometer: 1009.81
+  wind:
+    speed: 12.8
+    direction: 199
+  engine:
+    engines:
+      main:
+        hours: 1150.8
+    hours: 1150.8
+  vhf: "16"
+  crewNames:
+    - bergie
+    - ihmis-suski
+  category: navigation
+- datetime: 2026-07-07T22:00:10.502Z
+  text: ihmis-suski on watch
+  author: ""
+  position:
+    latitude: -16.6467136
+    longitude: -145.0462283
+    source: GPS
+  heading: 323
+  course: 291
+  speed:
+    stw: 4.2
+    sog: 5.4
+  log: 406.5
+  waypoint:
+    latitude: -16.639006
+    longitude: -145.072707
+  barometer: 1009.31
+  wind:
+    speed: 12.5
+    direction: 209
+  engine:
+    engines:
+      main:
+        hours: 1150.8
+    hours: 1150.8
+  vhf: "16"
+  crewNames:
+    - bergie
+    - ihmis-suski
+  category: navigation
