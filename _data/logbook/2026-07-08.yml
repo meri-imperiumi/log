@@ -118,3 +118,84 @@
     - bergie
     - ihmis-suski
   category: navigation
+- datetime: 2026-07-08T02:59:35.000Z
+  text: ""
+  author: ""
+  position:
+    latitude: -16.5030355
+    longitude: -145.4623773
+    source: GPS
+  heading: 64
+  course: 90
+  speed:
+    stw: 4.5
+    sog: 5
+  log: 433.1
+  barometer: 1009.15
+  wind:
+    speed: 12.5
+    direction: 188
+  engine:
+    engines:
+      main:
+        hours: 1151.3
+    hours: 1151.3
+  vhf: "16"
+  crewNames:
+    - bergie
+    - ihmis-suski
+  category: navigation
+- datetime: 2026-07-08T03:10:25.000Z
+  text: Anchored. Watch schedule stopped
+  author: bergie
+  position:
+    latitude: -16.5073494
+    longitude: -145.4571436
+    source: GPS
+  heading: 94
+  course: 128
+  speed:
+    stw: 0
+    sog: 0
+  log: 433.5
+  barometer: 1009.27
+  wind:
+    speed: 4.7
+    direction: 190
+  engine:
+    engines:
+      main:
+        hours: 1151.5
+    hours: 1151.5
+  vhf: "16"
+  crewNames:
+    - bergie
+    - ihmis-suski
+  category: navigation
+- datetime: 2026-07-08T03:17:53.000Z
+  text: Stopped main engine
+  author: ""
+  position:
+    latitude: -16.5070863
+    longitude: -145.456932
+    source: GPS
+  heading: 136
+  course: 208
+  speed:
+    stw: 0
+    sog: 0.4
+  log: 433.5
+  barometer: 1009.35
+  wind:
+    speed: 5.5
+    direction: 178
+  engine:
+    engines:
+      main:
+        hours: 1151.6
+    hours: 1151.6
+  vhf: "16"
+  crewNames:
+    - bergie
+    - ihmis-suski
+  category: navigation
