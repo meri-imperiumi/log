@@ -86,69 +86,9 @@
     - bergie
     - ihmis-suski
   category: navigation
-- datetime: 2026-07-12T16:21:58.796Z
-  text: "Emergency: Anchor Dragging (71m) (navigation.anchor)"
-  author: ""
-  position:
-    latitude: -16.0604113
-    longitude: -145.6202178
-    source: GPS
-  heading: 351
-  course: 304
-  speed:
-    stw: 3.3
-    sog: 4
-  log: 383
-  waypoint:
-    latitude: -16.060645
-    longitude: -145.621286
-  barometer: 1010.95
-  wind:
-    speed: 2.2
-    direction: 260
-  engine:
-    engines:
-      main:
-        hours: 1153
-    hours: 1153
-  vhf: "16"
-  crewNames:
-    - bergie
-    - ihmis-suski
-  category: navigation
-- datetime: 2026-07-12T16:22:13.400Z
-  text: "Cleared after 12 s: Anchor Dragging (71m), 2 transitions"
-  author: ""
-  position:
-    latitude: -16.0626758
-    longitude: -145.6272253
-    source: GPS
-  heading: 330
-  course: 249
-  speed:
-    stw: 4.5
-    sog: 5
-  log: 383.4
-  waypoint:
-    latitude: -16.075395
-    longitude: -145.655248
-  barometer: 1010.96
-  wind:
-    speed: 0.8
-    direction: 295
-  engine:
-    engines:
-      main:
-        hours: 1153.1
-    hours: 1153.1
-  vhf: "16"
-  crewNames:
-    - bergie
-    - ihmis-suski
-  category: navigation
 - datetime: 2026-07-12T16:22:18.803Z
-  text: Anchor up, motoring
-  author: ""
+  text: Anchor up, motoring. We were stuck under some bommies
+  author: bergie
   position:
     latitude: -16.0602314
     longitude: -145.6205473
@@ -292,6 +232,96 @@
       main:
         hours: 1153.6
     hours: 1153.6
+  vhf: "16"
+  crewNames:
+    - bergie
+    - ihmis-suski
+  category: navigation
+- datetime: 2026-07-12T16:59:38.803Z
+  text: ""
+  author: ""
+  position:
+    latitude: -16.075605
+    longitude: -145.6690305
+    source: GPS
+  heading: 241
+  course: 251
+  speed:
+    stw: 4.2
+    sog: 4.8
+  log: 385.9
+  waypoint:
+    latitude: -16.090552
+    longitude: -145.668131
+  barometer: 1011.34
+  wind:
+    speed: 8.3
+    direction: 209
+  engine:
+    engines:
+      main:
+        hours: 1153.6
+    hours: 1153.6
+  vhf: "16"
+  crewNames:
+    - bergie
+    - ihmis-suski
+  category: navigation
+- datetime: 2026-07-12T17:27:09.900Z
+  text: Autopilot deactivated
+  author: ""
+  position:
+    latitude: -16.0841271
+    longitude: -145.7038971
+    source: GPS
+  heading: 275
+  course: 287
+  speed:
+    stw: 3.8
+    sog: 5.1
+  log: 388
+  waypoint:
+    latitude: -16.082999
+    longitude: -145.707428
+  barometer: 1011.56
+  wind:
+    speed: 9.6
+    direction: 197
+  engine:
+    engines:
+      main:
+        hours: 1154.1
+    hours: 1154.1
+  vhf: "16"
+  crewNames:
+    - bergie
+    - ihmis-suski
+  category: navigation
+- datetime: 2026-07-12T17:38:07.897Z
+  text: Autopilot activated
+  author: ""
+  position:
+    latitude: -16.074219663937885
+    longitude: -145.71594219207765
+    source: GPS
+  heading: 318
+  course: 316
+  speed:
+    stw: 2.4
+    sog: 3.1
+  log: 389
+  waypoint:
+    latitude: -16.038103
+    longitude: -145.734503
+  barometer: 1011.75
+  wind:
+    speed: 10.4
+    direction: 198
+  engine:
+    engines:
+      main:
+        hours: 1154.3
+    hours: 1154.3
   vhf: "16"
   crewNames:
     - bergie
