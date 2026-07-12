@@ -1,0 +1,87 @@
+- datetime: 2026-07-11T23:08:03.596Z
+  text: Pumped the bilge
+  author: bergie
+  position:
+    latitude: -16.061190835634868
+    longitude: -145.61965014139813
+    source: GPS
+  heading: 343
+  course: 211
+  speed:
+    stw: 0
+    sog: 0
+  log: 383
+  waypoint:
+    latitude: -16.060555
+    longitude: -145.621311
+  barometer: 1010.03
+  wind:
+    speed: 11.4
+    direction: 333
+  engine:
+    engines:
+      main:
+        hours: 1152.7
+    hours: 1152.7
+  crewNames:
+    - bergie
+    - ihmis-suski
+  category: maintenance
+- datetime: 2026-07-11T23:13:03.603Z
+  text: "Started watermaker "
+  author: bergie
+  position:
+    latitude: -16.0611593
+    longitude: -145.6195673
+    source: GPS
+  heading: 5
+  course: 83
+  speed:
+    stw: 0
+    sog: 0.4
+  log: 383
+  waypoint:
+    latitude: -16.060555
+    longitude: -145.621311
+  barometer: 1009.86
+  wind:
+    speed: 14.1
+    direction: 330
+  engine:
+    engines:
+      main:
+        hours: 1152.7
+    hours: 1152.7
+  crewNames:
+    - bergie
+    - ihmis-suski
+  category: maintenance
+- datetime: 2026-07-11T23:25:03.603Z
+  text: Watermaker 315ppm
+  author: bergie
+  position:
+    latitude: -16.0611435
+    longitude: -145.6195128
+    source: GPS
+  heading: 340
+  course: 49
+  speed:
+    stw: 0
+    sog: 0.2
+  log: 383
+  waypoint:
+    latitude: -16.060555
+    longitude: -145.621311
+  barometer: 1009.74
+  wind:
+    speed: 14.5
+    direction: 328
+  engine:
+    engines:
+      main:
+        hours: 1152.7
+    hours: 1152.7
+  crewNames:
+    - bergie
+    - ihmis-suski
+  category: maintenance
