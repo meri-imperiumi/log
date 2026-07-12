@@ -571,3 +571,33 @@
     - bergie
     - ihmis-suski
   category: navigation
+- datetime: 2026-07-12T22:41:13.996Z
+  text: Watermaker 212ppm
+  author: bergie
+  position:
+    latitude: -15.7892916
+    longitude: -146.0633516
+    source: GPS
+  heading: 271
+  course: 283
+  speed:
+    stw: 4.6
+    sog: 5.1
+  log: 416
+  waypoint:
+    latitude: -15.779964
+    longitude: -146.073458
+  barometer: 1010.34
+  wind:
+    speed: 3.8
+    direction: 212
+  engine:
+    engines:
+      main:
+        hours: 1159.2
+    hours: 1159.2
+  vhf: "16"
+  crewNames:
+    - bergie
+    - ihmis-suski
+  category: maintenance
