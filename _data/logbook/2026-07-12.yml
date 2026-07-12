@@ -56,3 +56,244 @@
     - bergie
     - ihmis-suski
   category: maintenance
+- datetime: 2026-07-12T16:03:13.798Z
+  text: Started main engine
+  author: ""
+  position:
+    latitude: -16.0607249
+    longitude: -145.6195531
+    source: GPS
+  heading: 113
+  course: 75
+  speed:
+    stw: 0
+    sog: 0
+  log: 383
+  waypoint:
+    latitude: -16.060658
+    longitude: -145.621069
+  barometer: 1010.7
+  wind:
+    speed: 1.9
+    direction: 241
+  engine:
+    engines:
+      main:
+        hours: 1152.7
+    hours: 1152.7
+  vhf: "16"
+  crewNames:
+    - bergie
+    - ihmis-suski
+  category: navigation
+- datetime: 2026-07-12T16:21:58.796Z
+  text: "Emergency: Anchor Dragging (71m) (navigation.anchor)"
+  author: ""
+  position:
+    latitude: -16.0604113
+    longitude: -145.6202178
+    source: GPS
+  heading: 351
+  course: 304
+  speed:
+    stw: 3.3
+    sog: 4
+  log: 383
+  waypoint:
+    latitude: -16.060645
+    longitude: -145.621286
+  barometer: 1010.95
+  wind:
+    speed: 2.2
+    direction: 260
+  engine:
+    engines:
+      main:
+        hours: 1153
+    hours: 1153
+  vhf: "16"
+  crewNames:
+    - bergie
+    - ihmis-suski
+  category: navigation
+- datetime: 2026-07-12T16:22:13.400Z
+  text: "Cleared after 12 s: Anchor Dragging (71m), 2 transitions"
+  author: ""
+  position:
+    latitude: -16.0626758
+    longitude: -145.6272253
+    source: GPS
+  heading: 330
+  course: 249
+  speed:
+    stw: 4.5
+    sog: 5
+  log: 383.4
+  waypoint:
+    latitude: -16.075395
+    longitude: -145.655248
+  barometer: 1010.96
+  wind:
+    speed: 0.8
+    direction: 295
+  engine:
+    engines:
+      main:
+        hours: 1153.1
+    hours: 1153.1
+  vhf: "16"
+  crewNames:
+    - bergie
+    - ihmis-suski
+  category: navigation
+- datetime: 2026-07-12T16:22:18.803Z
+  text: Anchor up, motoring
+  author: ""
+  position:
+    latitude: -16.0602314
+    longitude: -145.6205473
+    source: GPS
+  heading: 347
+  course: 295
+  speed:
+    stw: 3.6
+    sog: 4.1
+  log: 383
+  waypoint:
+    latitude: -16.060645
+    longitude: -145.621286
+  barometer: 1010.95
+  wind:
+    speed: 1.8
+    direction: 257
+  engine:
+    engines:
+      main:
+        hours: 1153
+    hours: 1153
+  vhf: "16"
+  crewNames:
+    - bergie
+    - ihmis-suski
+  category: navigation
+- datetime: 2026-07-12T16:51:36.800Z
+  text: Autopilot activated
+  author: ""
+  position:
+    latitude: -16.0728036
+    longitude: -145.6582951
+    source: GPS
+  heading: 252
+  course: 259
+  speed:
+    stw: 4.4
+    sog: 4.5
+  log: 385.3
+  waypoint:
+    latitude: -16.066259
+    longitude: -145.666897
+  barometer: 1011.24
+  wind:
+    speed: 7.6
+    direction: 199
+  engine:
+    engines:
+      main:
+        hours: 1153.5
+    hours: 1153.5
+  vhf: "16"
+  crewNames:
+    - bergie
+    - ihmis-suski
+  category: navigation
+- datetime: 2026-07-12T16:52:26.803Z
+  text: Autopilot deactivated, was getting a "no data" error. Moving some peach
+    cans away from.bar cabinet fixed it
+  author: bergie
+  position:
+    latitude: -16.0730063
+    longitude: -145.6594718
+    source: GPS
+  heading: 249
+  course: 259
+  speed:
+    stw: 4.3
+    sog: 4.6
+  log: 385.4
+  waypoint:
+    latitude: -16.068324
+    longitude: -145.66764
+  barometer: 1011.23
+  wind:
+    speed: 6.8
+    direction: 195
+  engine:
+    engines:
+      main:
+        hours: 1153.5
+    hours: 1153.5
+  vhf: "16"
+  crewNames:
+    - bergie
+    - ihmis-suski
+  category: navigation
+- datetime: 2026-07-12T16:52:42.803Z
+  text: Autopilot activated
+  author: ""
+  position:
+    latitude: -16.0730813
+    longitude: -145.6598246
+    source: GPS
+  heading: 249
+  course: 259
+  speed:
+    stw: 4.3
+    sog: 4.9
+  log: 385.4
+  waypoint:
+    latitude: -16.068324
+    longitude: -145.66764
+  barometer: 1011.25
+  wind:
+    speed: 8
+    direction: 201
+  engine:
+    engines:
+      main:
+        hours: 1153.5
+    hours: 1153.5
+  vhf: "16"
+  crewNames:
+    - bergie
+    - ihmis-suski
+  category: navigation
+- datetime: 2026-07-12T16:56:40.800Z
+  text: ihmis-suski on watch
+  author: ""
+  position:
+    latitude: -16.07423450152079
+    longitude: -145.6652041753133
+    source: GPS
+  heading: 245
+  course: 252
+  speed:
+    stw: 4.3
+    sog: 4.9
+  log: 385.7
+  waypoint:
+    latitude: -16.071264
+    longitude: -145.669172
+  barometer: 1011.31
+  wind:
+    speed: 8
+    direction: 201
+  engine:
+    engines:
+      main:
+        hours: 1153.6
+    hours: 1153.6
+  vhf: "16"
+  crewNames:
+    - bergie
+    - ihmis-suski
+  category: navigation
