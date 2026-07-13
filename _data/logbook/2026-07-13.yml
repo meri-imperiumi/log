@@ -1,0 +1,120 @@
+- datetime: 2026-07-13T00:03:30.400Z
+  text: Picked up mooring
+  author: bergie
+  position:
+    latitude: -15.8034109
+    longitude: -146.1523956
+    source: GPS
+  heading: 260
+  course: 78
+  speed:
+    stw: 0
+    sog: 0
+  log: 422.5
+  waypoint:
+    latitude: -15.803061
+    longitude: -146.152413
+  barometer: 1009.68
+  wind:
+    speed: 4.2
+    direction: 203
+  engine:
+    engines:
+      main:
+        hours: 1160.6
+    hours: 1160.6
+  vhf: "16"
+  crewNames:
+    - bergie
+    - ihmis-suski
+  end: true
+  category: navigation
+- datetime: 2026-07-13T00:03:30.400Z
+  text: Watch schedule stopped
+  author: ""
+  position:
+    latitude: -15.8034109
+    longitude: -146.1523956
+    source: GPS
+  heading: 260
+  course: 78
+  speed:
+    stw: 0
+    sog: 0
+  log: 422.5
+  waypoint:
+    latitude: -15.803061
+    longitude: -146.152413
+  barometer: 1009.68
+  wind:
+    speed: 4.2
+    direction: 203
+  engine:
+    engines:
+      main:
+        hours: 1160.6
+    hours: 1160.6
+  vhf: "16"
+  crewNames:
+    - bergie
+    - ihmis-suski
+  category: navigation
+- datetime: 2026-07-13T00:04:00.400Z
+  text: Stopped main engine
+  author: ""
+  position:
+    latitude: -15.8034151
+    longitude: -146.1523876
+    source: GPS
+  heading: 269
+  course: 203
+  speed:
+    stw: 0
+    sog: 0
+  log: 422.5
+  waypoint:
+    latitude: -15.803061
+    longitude: -146.152413
+  barometer: 1009.67
+  wind:
+    speed: 5.1
+    direction: 205
+  engine:
+    engines:
+      main:
+        hours: 1160.6
+    hours: 1160.6
+  vhf: "16"
+  crewNames:
+    - bergie
+    - ihmis-suski
+  category: navigation
+- datetime: 2026-07-13T00:20:10.400Z
+  text: Stopped Watermaker, 201ppm
+  author: ihmis-suski
+  position:
+    latitude: -15.8033119
+    longitude: -146.1524659
+    source: GPS
+  heading: 206
+  course: 43
+  speed:
+    stw: 0
+    sog: 0
+  log: 422.5
+  waypoint:
+    latitude: -15.803061
+    longitude: -146.152413
+  barometer: 1009.65
+  wind:
+    speed: 8
+    direction: 184
+  engine:
+    engines:
+      main:
+        hours: 1160.7
+    hours: 1160.7
+  crewNames:
+    - bergie
+    - ihmis-suski
+  category: maintenance
