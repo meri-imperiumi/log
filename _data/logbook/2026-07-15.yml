@@ -409,7 +409,7 @@
   category: navigation
 - datetime: 2026-07-15T22:00:21.600Z
   text: bergie on watch
-  author: ""
+  author: bergie
   origin: auto
   position:
     latitude: -16.0470948
@@ -438,3 +438,131 @@
     - bergie
     - ihmis-suski
   category: navigation
+  observations:
+    seaState: 4
+    cloudCoverage: 6
+    visibility: 7
+- datetime: 2026-07-15T22:01:22.598Z
+  text: "Alarm: Water in the bilge (electrical.venus-input.1.stateNumber)"
+  author: ""
+  origin: auto
+  position:
+    latitude: -16.0478344
+    longitude: -146.4806634
+    source: GPS
+  heading: 221
+  course: 258
+  speed:
+    stw: 4.4
+    sog: 3.4
+  log: 446.9
+  waypoint:
+    latitude: -16.027969
+    longitude: -146.533862
+  barometer: 1013.28
+  wind:
+    speed: 14.1
+    direction: 158
+  engine:
+    engines:
+      main:
+        hours: 1161
+    hours: 1161
+  vhf: "16"
+  crewNames:
+    - bergie
+    - ihmis-suski
+  category: engine
+- datetime: 2026-07-15T22:01:37.009Z
+  text: "Cleared after 14 s: Water in the bilge, 4 transitions"
+  author: ""
+  origin: auto
+  position:
+    latitude: -16.0512979
+    longitude: -146.4863409
+    source: GPS
+  heading: 238
+  course: 262
+  speed:
+    stw: 3.6
+    sog: 3.4
+  log: 447.3
+  waypoint:
+    latitude: -16.027969
+    longitude: -146.533862
+  barometer: 1013.18
+  wind:
+    speed: 12.7
+    direction: 159
+  engine:
+    engines:
+      main:
+        hours: 1161
+    hours: 1161
+  vhf: "16"
+  crewNames:
+    - bergie
+    - ihmis-suski
+  category: engine
+- datetime: 2026-07-15T22:03:50.598Z
+  text: Pumped the bilge
+  author: bergie
+  origin: manual
+  position:
+    latitude: -16.0493836
+    longitude: -146.4832396
+    source: GPS
+  heading: 221
+  course: 225
+  speed:
+    stw: 4.7
+    sog: 4.5
+  log: 447.1
+  waypoint:
+    latitude: -16.027969
+    longitude: -146.533862
+  barometer: 1013.17
+  wind:
+    speed: 16.1
+    direction: 153
+  engine:
+    engines:
+      main:
+        hours: 1161
+    hours: 1161
+  vhf: "16"
+  crewNames:
+    - bergie
+    - ihmis-suski
+  category: maintenance
+- datetime: 2026-07-15T22:23:51.603Z
+  text: Watermaker 315ppm
+  author: bergie
+  origin: manual
+  position:
+    latitude: -16.063195665677387
+    longitude: -146.50261418024698
+    source: GPS
+  heading: 214
+  course: 227
+  speed:
+    stw: 4.4
+    sog: 5
+  log: 448.5
+  waypoint:
+    latitude: -16.027969
+    longitude: -146.533862
+  barometer: 1012.93
+  wind:
+    speed: 14.3
+    direction: 141
+  engine:
+    engines:
+      main:
+        hours: 1161
+    hours: 1161
+  vhf: "16"
+  crewNames:
+    - bergie
+    - ihmis-suski
+  category: maintenance
