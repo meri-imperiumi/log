@@ -58,70 +58,9 @@
     - bergie
     - ihmis-suski
   category: navigation
-- datetime: 2026-07-15T16:38:20.403Z
-  text: Started main engine
-  author: ""
-  origin: auto
-  position:
-    latitude: -15.8032713
-    longitude: -146.152569
-    source: GPS
-  heading: 134
-  course: 264
-  speed:
-    stw: 0
-    sog: 0
-  log: 422.5
-  waypoint:
-    latitude: -15.803223
-    longitude: -146.15275
-  barometer: 1012.96
-  wind:
-    speed: 15
-    direction: 153
-  engine:
-    engines:
-      main:
-        hours: 1160.7
-    hours: 1160.7
-  crewNames:
-    - bergie
-    - ihmis-suski
-  category: navigation
 - datetime: 2026-07-15T16:46:52.403Z
-  text: Anchor up, motoring
-  author: ""
-  origin: auto
-  position:
-    latitude: -15.8032775
-    longitude: -146.1525764
-    source: GPS
-  heading: 119
-  course: 108
-  speed:
-    stw: 0
-    sog: 0
-  log: 422.5
-  waypoint:
-    latitude: -15.803223
-    longitude: -146.15275
-  barometer: 1013.25
-  wind:
-    speed: 12
-    direction: 153
-  engine:
-    engines:
-      main:
-        hours: 1160.8
-    hours: 1160.8
-  vhf: "16"
-  crewNames:
-    - bergie
-    - ihmis-suski
-  category: navigation
-- datetime: 2026-07-15T16:46:52.403Z
-  text: Anchor up, motoring
-  author: ""
+  text: Dropped mooring, motoring
+  author: bergie
   origin: auto
   position:
     latitude: -15.8032775
@@ -151,8 +90,8 @@
     - ihmis-suski
   category: navigation
 - datetime: 2026-07-15T16:56:27.398Z
-  text: Motor stopped, sailing with Main, Genoa 1
-  author: ""
+  text: Motor stopped, sailing with Main, Staysail
+  author: bergie
   origin: auto
   position:
     latitude: -15.8019014
@@ -181,27 +120,27 @@
     - bergie
     - ihmis-suski
   category: navigation
-- datetime: 2026-07-15T16:56:27.398Z
-  text: Motor stopped, sailing with Main, Genoa 1
+- datetime: 2026-07-15T16:59:37.401Z
+  text: ""
   author: ""
   origin: auto
   position:
-    latitude: -15.8019014
-    longitude: -146.1629045
+    latitude: -15.8034791
+    longitude: -146.1659658
     source: GPS
-  heading: 250
-  course: 248
+  heading: 232
+  course: 240
   speed:
-    stw: 2.5
-    sog: 3.6
-  log: 423.2
+    stw: 4.3
+    sog: 4.8
+  log: 423.4
   waypoint:
-    latitude: -15.800626
-    longitude: -146.162365
-  barometer: 1013.48
+    latitude: -15.797239
+    longitude: -146.168517
+  barometer: 1013.52
   wind:
-    speed: 12.6
-    direction: 163
+    speed: 14.5
+    direction: 162
   engine:
     engines:
       main:
@@ -212,3 +151,73 @@
     - bergie
     - ihmis-suski
   category: navigation
+- datetime: 2026-07-15T17:04:38.400Z
+  text: Windvane steering
+  author: bergie
+  origin: manual
+  position:
+    latitude: -15.8073481
+    longitude: -146.1723729
+    source: GPS
+  heading: 223
+  course: 232
+  speed:
+    stw: 4.3
+    sog: 4.5
+  log: 423.8
+  waypoint:
+    latitude: -15.797239
+    longitude: -146.168517
+  barometer: 1013.59
+  wind:
+    speed: 12
+    direction: 152
+  engine:
+    engines:
+      main:
+        hours: 1161
+    hours: 1161
+  vhf: "16"
+  crewNames:
+    - bergie
+    - ihmis-suski
+  category: navigation
+  observations:
+    seaState: 4
+    cloudCoverage: 7
+    visibility: 7
+- datetime: 2026-07-15T17:55:38.502Z
+  text: Out of the lee of Toau
+  author: ihmis-suski
+  origin: manual
+  position:
+    latitude: -15.854957
+    longitude: -146.2330608
+    source: GPS
+  heading: 226
+  course: 228
+  speed:
+    stw: 4.4
+    sog: 6.5
+  log: 428.4
+  waypoint:
+    latitude: -15.847894
+    longitude: -146.251162
+  barometer: 1014.1
+  wind:
+    speed: 13.5
+    direction: 156
+  engine:
+    engines:
+      main:
+        hours: 1161
+    hours: 1161
+  vhf: "16"
+  crewNames:
+    - bergie
+    - ihmis-suski
+  category: navigation
+  observations:
+    seaState: 4
+    cloudCoverage: 7
+    visibility: 7
