@@ -153,130 +153,6 @@
     - bergie
     - ihmis-suski
   category: navigation
-- datetime: 2026-07-16T02:19:33.700Z
-  text: "Sails set: Main (1st reef), Staysail"
-  author: ""
-  origin: auto
-  position:
-    latitude: -16.2364693
-    longitude: -146.7634706
-    source: GPS
-  heading: 231
-  course: 230
-  speed:
-    stw: 4.9
-    sog: 5.8
-  log: 467
-  waypoint:
-    latitude: -16.201783
-    longitude: -146.870779
-  barometer: 1011.62
-  wind:
-    speed: 18
-    direction: 149
-  engine:
-    engines:
-      main:
-        hours: 1161
-    hours: 1161
-  vhf: "16"
-  crewNames:
-    - bergie
-    - ihmis-suski
-  category: navigation
-- datetime: 2026-07-16T02:19:33.700Z
-  text: "Sails set: Main (1st reef), Staysail"
-  author: ""
-  origin: auto
-  position:
-    latitude: -16.2364693
-    longitude: -146.7634706
-    source: GPS
-  heading: 231
-  course: 230
-  speed:
-    stw: 4.9
-    sog: 5.8
-  log: 467
-  waypoint:
-    latitude: -16.201783
-    longitude: -146.870779
-  barometer: 1011.62
-  wind:
-    speed: 18
-    direction: 149
-  engine:
-    engines:
-      main:
-        hours: 1161
-    hours: 1161
-  vhf: "16"
-  crewNames:
-    - bergie
-    - ihmis-suski
-  category: navigation
-- datetime: 2026-07-16T02:19:33.700Z
-  text: "Sails set: Main (1st reef), Staysail"
-  author: ""
-  origin: auto
-  position:
-    latitude: -16.2364693
-    longitude: -146.7634706
-    source: GPS
-  heading: 231
-  course: 230
-  speed:
-    stw: 4.9
-    sog: 5.8
-  log: 467
-  waypoint:
-    latitude: -16.201783
-    longitude: -146.870779
-  barometer: 1011.62
-  wind:
-    speed: 18
-    direction: 149
-  engine:
-    engines:
-      main:
-        hours: 1161
-    hours: 1161
-  vhf: "16"
-  crewNames:
-    - bergie
-    - ihmis-suski
-  category: navigation
-- datetime: 2026-07-16T02:19:33.700Z
-  text: "Sails set: Main (1st reef), Staysail"
-  author: ""
-  origin: auto
-  position:
-    latitude: -16.2364693
-    longitude: -146.7634706
-    source: GPS
-  heading: 231
-  course: 230
-  speed:
-    stw: 4.9
-    sog: 5.8
-  log: 467
-  waypoint:
-    latitude: -16.201783
-    longitude: -146.870779
-  barometer: 1011.62
-  wind:
-    speed: 18
-    direction: 149
-  engine:
-    engines:
-      main:
-        hours: 1161
-    hours: 1161
-  vhf: "16"
-  crewNames:
-    - bergie
-    - ihmis-suski
-  category: navigation
 - datetime: 2026-07-16T02:59:04.700Z
   text: ""
   author: ""
@@ -525,3 +401,97 @@
     - bergie
     - ihmis-suski
   category: engine
+- datetime: 2026-07-16T08:59:21.900Z
+  text: ""
+  author: ""
+  origin: auto
+  position:
+    latitude: -16.5267063
+    longitude: -147.1802393
+    source: GPS
+  heading: 212
+  course: 210
+  speed:
+    stw: 3.5
+    sog: 4.1
+  log: 497
+  waypoint:
+    latitude: -16.52844
+    longitude: -147.222488
+  barometer: 1013.43
+  wind:
+    speed: 16.5
+    direction: 130
+  engine:
+    engines:
+      main:
+        hours: 1161
+    hours: 1161
+  vhf: "16"
+  crewNames:
+    - bergie
+    - ihmis-suski
+  category: navigation
+- datetime: 2026-07-16T09:50:53.435Z
+  text: "Pumped the bilge. Cleared after 1 h 39 min: Water in the bilge, 126
+    transitions"
+  author: bergie
+  origin: auto
+  position:
+    latitude: -16.5672775
+    longitude: -147.2346476
+    source: GPS
+  heading: 220
+  course: 225
+  speed:
+    stw: 4.2
+    sog: 5.6
+  log: 501
+  waypoint:
+    latitude: -16.565552
+    longitude: -147.293712
+  barometer: 1013.58
+  wind:
+    speed: 15.7
+    direction: 151
+  engine:
+    engines:
+      main:
+        hours: 1161
+    hours: 1161
+  vhf: "16"
+  crewNames:
+    - bergie
+    - ihmis-suski
+  category: engine
+- datetime: 2026-07-16T10:00:25.900Z
+  text: bergie on watch
+  author: ""
+  origin: auto
+  position:
+    latitude: -16.5703109
+    longitude: -147.2384971
+    source: GPS
+  heading: 218
+  course: 219
+  speed:
+    stw: 4.8
+    sog: 5.7
+  log: 501.3
+  waypoint:
+    latitude: -16.565552
+    longitude: -147.293712
+  barometer: 1013.48
+  wind:
+    speed: 17.7
+    direction: 151
+  engine:
+    engines:
+      main:
+        hours: 1161
+    hours: 1161
+  vhf: "16"
+  crewNames:
+    - bergie
+    - ihmis-suski
+  category: navigation
