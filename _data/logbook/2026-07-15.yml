@@ -474,8 +474,8 @@
     - ihmis-suski
   category: engine
 - datetime: 2026-07-15T22:01:37.009Z
-  text: "Cleared after 14 s: Water in the bilge, 4 transitions"
-  author: ""
+  text: "Pumped the bilge. Cleared after 14 s: Water in the bilge, 4 transitions"
+  author: bergie
   origin: auto
   position:
     latitude: -16.0512979
@@ -504,37 +504,6 @@
     - bergie
     - ihmis-suski
   category: engine
-- datetime: 2026-07-15T22:03:50.598Z
-  text: Pumped the bilge
-  author: bergie
-  origin: manual
-  position:
-    latitude: -16.0493836
-    longitude: -146.4832396
-    source: GPS
-  heading: 221
-  course: 225
-  speed:
-    stw: 4.7
-    sog: 4.5
-  log: 447.1
-  waypoint:
-    latitude: -16.027969
-    longitude: -146.533862
-  barometer: 1013.17
-  wind:
-    speed: 16.1
-    direction: 153
-  engine:
-    engines:
-      main:
-        hours: 1161
-    hours: 1161
-  vhf: "16"
-  crewNames:
-    - bergie
-    - ihmis-suski
-  category: maintenance
 - datetime: 2026-07-15T22:23:51.603Z
   text: Watermaker 315ppm
   author: bergie
@@ -566,3 +535,65 @@
     - bergie
     - ihmis-suski
   category: maintenance
+- datetime: 2026-07-15T22:59:53.600Z
+  text: ""
+  author: ""
+  origin: auto
+  position:
+    latitude: -16.0887614
+    longitude: -146.5378529
+    source: GPS
+  heading: 233
+  course: 255
+  speed:
+    stw: 4.8
+    sog: 4.6
+  log: 451.1
+  waypoint:
+    latitude: -16.075188
+    longitude: -146.610683
+  barometer: 1012.43
+  wind:
+    speed: 15.7
+    direction: 151
+  engine:
+    engines:
+      main:
+        hours: 1161
+    hours: 1161
+  vhf: "16"
+  crewNames:
+    - bergie
+    - ihmis-suski
+  category: navigation
+- datetime: 2026-07-15T23:53:57.600Z
+  text: Out of Tuamotus waters. Point Venus 185NM 243°
+  author: bergie
+  origin: manual
+  position:
+    latitude: -16.1223913
+    longitude: -146.6026916
+    source: GPS
+  heading: 232
+  course: 248
+  speed:
+    stw: 4.6
+    sog: 5.3
+  log: 455.4
+  waypoint:
+    latitude: -16.116744
+    longitude: -146.695285
+  barometer: 1011.79
+  wind:
+    speed: 14.9
+    direction: 158
+  engine:
+    engines:
+      main:
+        hours: 1161
+    hours: 1161
+  vhf: "16"
+  crewNames:
+    - bergie
+    - ihmis-suski
+  category: navigation
