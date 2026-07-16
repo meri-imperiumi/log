@@ -745,3 +745,65 @@
     - bergie
     - ihmis-suski
   category: navigation
+- datetime: 2026-07-16T16:59:52.102Z
+  text: ""
+  author: ""
+  origin: auto
+  position:
+    latitude: -16.7901736
+    longitude: -147.6409109
+    source: GPS
+  heading: 241
+  course: 242
+  speed:
+    stw: 2.3
+    sog: 3.1
+  log: 528.4
+  waypoint:
+    latitude: -16.740913
+    longitude: -147.6955
+  barometer: 1014.15
+  wind:
+    speed: 10.7
+    direction: 156
+  engine:
+    engines:
+      main:
+        hours: 1161
+    hours: 1161
+  vhf: "16"
+  crewNames:
+    - bergie
+    - ihmis-suski
+  category: navigation
+- datetime: 2026-07-16T17:39:53.100Z
+  text: Passed a sailboat (Kaki Anau) in 0.6 miles
+  author: ihmis-suski
+  origin: manual
+  position:
+    latitude: -16.8155631
+    longitude: -147.6778565
+    source: GPS
+  heading: 225
+  course: 235
+  speed:
+    stw: 4.3
+    sog: 4.8
+  log: 531
+  waypoint:
+    latitude: -16.77413
+    longitude: -147.773772
+  barometer: 1014.4
+  wind:
+    speed: 15.7
+    direction: 155
+  engine:
+    engines:
+      main:
+        hours: 1161
+    hours: 1161
+  vhf: "16"
+  crewNames:
+    - bergie
+    - ihmis-suski
+  category: navigation
