@@ -121,3 +121,97 @@
   crewNames:
     - bergie
     - ihmis-suski
+  category: navigation
+- datetime: 2026-07-17T02:59:21.300Z
+  text: ""
+  author: ""
+  origin: auto
+  position:
+    latitude: -17.142283328374226
+    longitude: -148.30093148549398
+    source: GPS
+  heading: 243
+  course: 269
+  speed:
+    stw: 4.9
+    sog: 5.2
+  log: 572.4
+  waypoint:
+    latitude: -17.163438
+    longitude: -148.380493
+  barometer: 1013.02
+  wind:
+    speed: 15.3
+    direction: 163
+  engine:
+    engines:
+      main:
+        hours: 1161
+    hours: 1161
+  vhf: "16"
+  crewNames:
+    - bergie
+    - ihmis-suski
+  category: navigation
+- datetime: 2026-07-17T03:38:22.300Z
+  text: Contacted Italian sailing vessel Maimai to confirm passing port-to-port
+  author: bergie
+  origin: manual
+  position:
+    latitude: -17.1557014
+    longitude: -148.3579048
+    source: GPS
+  heading: 250
+  course: 267
+  speed:
+    stw: 4.5
+    sog: 4.7
+  log: 575.8
+  waypoint:
+    latitude: -17.161575
+    longitude: -148.393797
+  barometer: 1013.61
+  wind:
+    speed: 15.4
+    direction: 166
+  engine:
+    engines:
+      main:
+        hours: 1161
+    hours: 1161
+  vhf: "16"
+  crewNames:
+    - bergie
+    - ihmis-suski
+  category: radio
+- datetime: 2026-07-17T04:00:25.299Z
+  text: ihmis-suski on watch
+  author: ""
+  origin: auto
+  position:
+    latitude: -17.160770670572916
+    longitude: -148.38884566624958
+    source: GPS
+  heading: 234
+  course: 250
+  speed:
+    stw: 3.4
+    sog: 4.3
+  log: 577.7
+  waypoint:
+    latitude: -17.161575
+    longitude: -148.393797
+  barometer: 1013.33
+  wind:
+    speed: 15.3
+    direction: 170
+  engine:
+    engines:
+      main:
+        hours: 1161
+    hours: 1161
+  vhf: "16"
+  crewNames:
+    - bergie
+    - ihmis-suski
+  category: navigation
