@@ -586,3 +586,66 @@
   crewNames:
     - bergie
     - ihmis-suski
+  category: navigation
+- datetime: 2026-07-17T12:59:51.900Z
+  text: ""
+  author: ""
+  origin: auto
+  position:
+    latitude: -17.3454664
+    longitude: -149.0864216
+    source: GPS
+  heading: 255
+  course: 271
+  speed:
+    stw: 3.9
+    sog: 5
+  log: 619.7
+  waypoint:
+    latitude: -17.337857
+    longitude: -149.112313
+  barometer: 1012.97
+  wind:
+    speed: 13.9
+    direction: 179
+  engine:
+    engines:
+      main:
+        hours: 1161
+    hours: 1161
+  vhf: "16"
+  crewNames:
+    - bergie
+    - ihmis-suski
+  category: navigation
+- datetime: 2026-07-17T13:02:52.899Z
+  text: Huge bright shooting star south of us
+  author: bergie
+  origin: manual
+  position:
+    latitude: -17.3453834
+    longitude: -149.090779
+    source: GPS
+  heading: 247
+  course: 273
+  speed:
+    stw: 4.3
+    sog: 5.7
+  log: 620
+  waypoint:
+    latitude: -17.337857
+    longitude: -149.112313
+  barometer: 1012.94
+  wind:
+    speed: 14.7
+    direction: 167
+  engine:
+    engines:
+      main:
+        hours: 1161
+    hours: 1161
+  vhf: "16"
+  crewNames:
+    - bergie
+    - ihmis-suski
+  category: navigation
