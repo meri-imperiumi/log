@@ -494,3 +494,65 @@
     - bergie
     - ihmis-suski
   category: navigation
+- datetime: 2026-07-17T10:59:45.798Z
+  text: ""
+  author: ""
+  origin: auto
+  position:
+    latitude: -17.3232358
+    longitude: -148.9207808
+    source: GPS
+  heading: 253
+  course: 260
+  speed:
+    stw: 3.9
+    sog: 4.4
+  log: 610
+  waypoint:
+    latitude: -17.289573
+    longitude: -148.930945
+  barometer: 1013.72
+  wind:
+    speed: 14.5
+    direction: 173
+  engine:
+    engines:
+      main:
+        hours: 1161
+    hours: 1161
+  vhf: "16"
+  crewNames:
+    - bergie
+    - ihmis-suski
+  category: navigation
+- datetime: 2026-07-17T11:36:47.801Z
+  text: Sea state feels a lot better already
+  author: bergie
+  origin: manual
+  position:
+    latitude: -17.333466657002766
+    longitude: -148.96898352305095
+    source: GPS
+  heading: 243
+  course: 266
+  speed:
+    stw: 4.1
+    sog: 5.3
+  log: 612.9
+  waypoint:
+    latitude: -17.313596
+    longitude: -149.021939
+  barometer: 1013.48
+  wind:
+    speed: 13.2
+    direction: 169
+  engine:
+    engines:
+      main:
+        hours: 1161
+    hours: 1161
+  vhf: "16"
+  crewNames:
+    - bergie
+    - ihmis-suski
+  category: navigation
