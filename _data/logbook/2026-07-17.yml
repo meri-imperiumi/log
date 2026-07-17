@@ -866,120 +866,27 @@
     - bergie
     - ihmis-suski
   category: navigation
-- datetime: 2026-07-17T16:51:03.897Z
-  text: Autopilot deactivated
+- datetime: 2026-07-17T16:56:50.899Z
+  text: "Sails set: Main (1st reef), Genoa 1"
   author: ""
   origin: auto
   position:
-    latitude: -17.4351746
-    longitude: -149.3812355
+    latitude: -17.4356849
+    longitude: -149.3856736
     source: GPS
-  heading: 262
-  course: 297
+  heading: 237
+  course: 265
   speed:
-    stw: 1.3
-    sog: 1.7
-  log: 637.7
-  waypoint:
-    latitude: -17.416142
-    longitude: -149.39777
-  barometer: 1014.17
-  wind:
-    speed: 5.9
-    direction: 166
-  engine:
-    engines:
-      main:
-        hours: 1161
-    hours: 1161
-  vhf: "16"
-  crewNames:
-    - bergie
-    - ihmis-suski
-  category: navigation
-- datetime: 2026-07-17T16:51:55.897Z
-  text: Autopilot activated
-  author: ""
-  origin: auto
-  position:
-    latitude: -17.4351568
-    longitude: -149.3816818
-    source: GPS
-  heading: 263
-  course: 282
-  speed:
-    stw: 1.3
-    sog: 2.5
-  log: 637.7
-  waypoint:
-    latitude: -17.416142
-    longitude: -149.39777
-  barometer: 1014.18
-  wind:
-    speed: 6.6
-    direction: 149
-  engine:
-    engines:
-      main:
-        hours: 1161
-    hours: 1161
-  vhf: "16"
-  crewNames:
-    - bergie
-    - ihmis-suski
-  category: navigation
-- datetime: 2026-07-17T16:53:00.902Z
-  text: Autopilot deactivated
-  author: ""
-  origin: auto
-  position:
-    latitude: -17.435039
-    longitude: -149.3822763
-    source: GPS
-  heading: 281
-  course: 295
-  speed:
-    stw: 1.8
-    sog: 1.6
-  log: 637.8
-  waypoint:
-    latitude: -17.416142
-    longitude: -149.39777
-  barometer: 1014.21
-  wind:
-    speed: 6.9
-    direction: 163
-  engine:
-    engines:
-      main:
-        hours: 1161
-    hours: 1161
-  vhf: "16"
-  crewNames:
-    - bergie
-    - ihmis-suski
-  category: navigation
-- datetime: 2026-07-17T16:53:19.897Z
-  text: Autopilot activated
-  author: ""
-  origin: auto
-  position:
-    latitude: -17.4349958
-    longitude: -149.3824763
-    source: GPS
-  heading: 252
-  course: 262
-  speed:
-    stw: 1.8
-    sog: 2.6
-  log: 637.8
+    stw: 1.9
+    sog: 4
+  log: 638
   waypoint:
     latitude: -17.416142
     longitude: -149.39777
   barometer: 1014.2
   wind:
-    speed: 8.7
-    direction: 160
+    speed: 4
+    direction: 165
   engine:
     engines:
       main:
@@ -990,342 +897,94 @@
     - bergie
     - ihmis-suski
   category: navigation
-- datetime: 2026-07-17T16:54:33.900Z
+- datetime: 2026-07-17T16:58:55.897Z
+  text: Sails down, motoring
+  author: ""
+  origin: auto
+  position:
+    latitude: -17.4360921
+    longitude: -149.3867333
+    source: GPS
+  heading: 232
+  course: 240
+  speed:
+    stw: 1.2
+    sog: 1.8
+  log: 638.1
+  waypoint:
+    latitude: -17.453182
+    longitude: -149.456649
+  barometer: 1014.24
+  wind:
+    speed: 2.9
+    direction: 167
+  engine:
+    engines:
+      main:
+        hours: 1161
+    hours: 1161
+  vhf: "16"
+  crewNames:
+    - bergie
+    - ihmis-suski
+  category: navigation
+- datetime: 2026-07-17T17:19:11.001Z
   text: Autopilot deactivated
   author: ""
   origin: auto
   position:
-    latitude: -17.4350465
-    longitude: -149.3836444
+    latitude: -17.4486661
+    longitude: -149.4132089
     source: GPS
-  heading: 262
-  course: 293
+  heading: 238
+  course: 246
   speed:
-    stw: 2.7
-    sog: 3.8
-  log: 637.9
+    stw: 4.7
+    sog: 5.1
+  log: 639.8
   waypoint:
-    latitude: -17.416142
-    longitude: -149.39777
-  barometer: 1014.21
+    latitude: -17.483668
+    longitude: -149.493263
+  barometer: 1014.37
   wind:
-    speed: 7.9
-    direction: 152
+    speed: 3
+    direction: 203
   engine:
     engines:
       main:
-        hours: 1161
-    hours: 1161
+        hours: 1161.3
+    hours: 1161.3
   vhf: "16"
   crewNames:
     - bergie
     - ihmis-suski
   category: navigation
-- datetime: 2026-07-17T16:54:48.902Z
+- datetime: 2026-07-17T17:24:27.001Z
   text: Autopilot activated
   author: ""
   origin: auto
   position:
-    latitude: -17.435090827941895
-    longitude: -149.38384831746419
-    source: GPS
-  heading: 234
-  course: 247
-  speed:
-    stw: 2.7
-    sog: 3.5
-  log: 637.9
-  waypoint:
-    latitude: -17.416142
-    longitude: -149.39777
-  barometer: 1014.22
-  wind:
-    speed: 6.9
-    direction: 149
-  engine:
-    engines:
-      main:
-        hours: 1161
-    hours: 1161
-  vhf: "16"
-  crewNames:
-    - bergie
-    - ihmis-suski
-  category: navigation
-- datetime: 2026-07-17T16:55:29.900Z
-  text: Autopilot deactivated
-  author: ""
-  origin: auto
-  position:
-    latitude: -17.4352954
-    longitude: -149.3845318
-    source: GPS
-  heading: 248
-  course: 257
-  speed:
-    stw: 3.2
-    sog: 3.5
-  log: 637.9
-  waypoint:
-    latitude: -17.416142
-    longitude: -149.39777
-  barometer: 1014.21
-  wind:
-    speed: 7.3
-    direction: 155
-  engine:
-    engines:
-      main:
-        hours: 1161
-    hours: 1161
-  vhf: "16"
-  crewNames:
-    - bergie
-    - ihmis-suski
-  category: navigation
-- datetime: 2026-07-17T16:55:37.900Z
-  text: Autopilot activated
-  author: ""
-  origin: auto
-  position:
-    latitude: -17.4353234
-    longitude: -149.3846676
+    latitude: -17.4517431
+    longitude: -149.4205498
     source: GPS
   heading: 240
-  course: 248
+  course: 242
   speed:
-    stw: 3.3
-    sog: 3.9
-  log: 637.9
+    stw: 4.8
+    sog: 4.9
+  log: 640.2
   waypoint:
-    latitude: -17.416142
-    longitude: -149.39777
-  barometer: 1014.22
+    latitude: -17.483682
+    longitude: -149.494406
+  barometer: 1014.48
   wind:
-    speed: 6.6
-    direction: 155
+    speed: 4.3
+    direction: 193
   engine:
     engines:
       main:
-        hours: 1161
-    hours: 1161
-  vhf: "16"
-  crewNames:
-    - bergie
-    - ihmis-suski
-  category: navigation
-- datetime: 2026-07-17T16:56:50.899Z
-  text: "Sails set: Main (1st reef), Genoa 1"
-  author: ""
-  origin: auto
-  position:
-    latitude: -17.4356849
-    longitude: -149.3856736
-    source: GPS
-  heading: 237
-  course: 265
-  speed:
-    stw: 1.9
-    sog: 4
-  log: 638
-  waypoint:
-    latitude: -17.416142
-    longitude: -149.39777
-  barometer: 1014.2
-  wind:
-    speed: 4
-    direction: 165
-  engine:
-    engines:
-      main:
-        hours: 1161
-    hours: 1161
-  vhf: "16"
-  crewNames:
-    - bergie
-    - ihmis-suski
-  category: navigation
-- datetime: 2026-07-17T16:56:50.899Z
-  text: "Sails set: Main (1st reef), Genoa 1"
-  author: ""
-  origin: auto
-  position:
-    latitude: -17.4356849
-    longitude: -149.3856736
-    source: GPS
-  heading: 237
-  course: 265
-  speed:
-    stw: 1.9
-    sog: 4
-  log: 638
-  waypoint:
-    latitude: -17.416142
-    longitude: -149.39777
-  barometer: 1014.2
-  wind:
-    speed: 4
-    direction: 165
-  engine:
-    engines:
-      main:
-        hours: 1161
-    hours: 1161
-  vhf: "16"
-  crewNames:
-    - bergie
-    - ihmis-suski
-  category: navigation
-- datetime: 2026-07-17T16:56:50.899Z
-  text: "Sails set: Main (1st reef), Genoa 1"
-  author: ""
-  origin: auto
-  position:
-    latitude: -17.4356849
-    longitude: -149.3856736
-    source: GPS
-  heading: 237
-  course: 265
-  speed:
-    stw: 1.9
-    sog: 4
-  log: 638
-  waypoint:
-    latitude: -17.416142
-    longitude: -149.39777
-  barometer: 1014.2
-  wind:
-    speed: 4
-    direction: 165
-  engine:
-    engines:
-      main:
-        hours: 1161
-    hours: 1161
-  vhf: "16"
-  crewNames:
-    - bergie
-    - ihmis-suski
-  category: navigation
-- datetime: 2026-07-17T16:56:50.899Z
-  text: "Sails set: Main (1st reef), Genoa 1"
-  author: ""
-  origin: auto
-  position:
-    latitude: -17.4356849
-    longitude: -149.3856736
-    source: GPS
-  heading: 237
-  course: 265
-  speed:
-    stw: 1.9
-    sog: 4
-  log: 638
-  waypoint:
-    latitude: -17.416142
-    longitude: -149.39777
-  barometer: 1014.2
-  wind:
-    speed: 4
-    direction: 165
-  engine:
-    engines:
-      main:
-        hours: 1161
-    hours: 1161
-  vhf: "16"
-  crewNames:
-    - bergie
-    - ihmis-suski
-  category: navigation
-- datetime: 2026-07-17T16:56:50.899Z
-  text: "Sails set: Main (1st reef), Genoa 1"
-  author: ""
-  origin: auto
-  position:
-    latitude: -17.4356849
-    longitude: -149.3856736
-    source: GPS
-  heading: 237
-  course: 265
-  speed:
-    stw: 1.9
-    sog: 4
-  log: 638
-  waypoint:
-    latitude: -17.416142
-    longitude: -149.39777
-  barometer: 1014.2
-  wind:
-    speed: 4
-    direction: 165
-  engine:
-    engines:
-      main:
-        hours: 1161
-    hours: 1161
-  vhf: "16"
-  crewNames:
-    - bergie
-    - ihmis-suski
-  category: navigation
-- datetime: 2026-07-17T16:58:55.897Z
-  text: Sails down, motoring
-  author: ""
-  origin: auto
-  position:
-    latitude: -17.4360921
-    longitude: -149.3867333
-    source: GPS
-  heading: 232
-  course: 240
-  speed:
-    stw: 1.2
-    sog: 1.8
-  log: 638.1
-  waypoint:
-    latitude: -17.453182
-    longitude: -149.456649
-  barometer: 1014.24
-  wind:
-    speed: 2.9
-    direction: 167
-  engine:
-    engines:
-      main:
-        hours: 1161
-    hours: 1161
-  vhf: "16"
-  crewNames:
-    - bergie
-    - ihmis-suski
-  category: navigation
-- datetime: 2026-07-17T16:58:55.897Z
-  text: Sails down, motoring
-  author: ""
-  origin: auto
-  position:
-    latitude: -17.4360921
-    longitude: -149.3867333
-    source: GPS
-  heading: 232
-  course: 240
-  speed:
-    stw: 1.2
-    sog: 1.8
-  log: 638.1
-  waypoint:
-    latitude: -17.453182
-    longitude: -149.456649
-  barometer: 1014.24
-  wind:
-    speed: 2.9
-    direction: 167
-  engine:
-    engines:
-      main:
-        hours: 1161
-    hours: 1161
+        hours: 1161.4
+    hours: 1161.4
   vhf: "16"
   crewNames:
     - bergie
