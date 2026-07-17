@@ -338,3 +338,97 @@
   crewNames:
     - bergie
     - ihmis-suski
+  category: navigation
+- datetime: 2026-07-17T07:59:35.801Z
+  text: ""
+  author: ""
+  origin: auto
+  position:
+    latitude: -17.2633399
+    longitude: -148.7098794
+    source: GPS
+  heading: 246
+  course: 255
+  speed:
+    stw: 3.8
+    sog: 4.8
+  log: 597.3
+  waypoint:
+    latitude: -17.243485
+    longitude: -148.748516
+  barometer: 1014.37
+  wind:
+    speed: 14.3
+    direction: 176
+  engine:
+    engines:
+      main:
+        hours: 1161
+    hours: 1161
+  vhf: "16"
+  crewNames:
+    - bergie
+    - ihmis-suski
+  category: navigation
+- datetime: 2026-07-17T08:02:31.801Z
+  text: "Alarm: Water in the bilge (electrical.venus-input.1.stateNumber)"
+  author: ""
+  origin: auto
+  position:
+    latitude: -17.2645618
+    longitude: -148.7134995
+    source: GPS
+  heading: 244
+  course: 259
+  speed:
+    stw: 4.4
+    sog: 5.2
+  log: 597.5
+  waypoint:
+    latitude: -17.243485
+    longitude: -148.748516
+  barometer: 1014.37
+  wind:
+    speed: 14.6
+    direction: 170
+  engine:
+    engines:
+      main:
+        hours: 1161
+    hours: 1161
+  vhf: "16"
+  crewNames:
+    - bergie
+    - ihmis-suski
+  category: engine
+- datetime: 2026-07-17T08:38:00.942Z
+  text: "Cleared after 36 min: Water in the bilge, 96 transitions"
+  author: ""
+  origin: auto
+  position:
+    latitude: -17.2768369
+    longitude: -148.7583248
+    source: GPS
+  heading: 227
+  course: 256
+  speed:
+    stw: 2.9
+    sog: 3.6
+  log: 600.2
+  waypoint:
+    latitude: -17.266105
+    longitude: -148.839657
+  barometer: 1014.18
+  wind:
+    speed: 14.5
+    direction: 167
+  engine:
+    engines:
+      main:
+        hours: 1161
+    hours: 1161
+  vhf: "16"
+  crewNames:
+    - bergie
+    - ihmis-suski
+  category: engine
