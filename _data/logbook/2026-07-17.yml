@@ -711,3 +711,96 @@
     - bergie
     - ihmis-suski
   category: navigation
+- datetime: 2026-07-17T14:59:57.900Z
+  text: ""
+  author: ""
+  origin: auto
+  position:
+    latitude: -17.3781593
+    longitude: -149.2359888
+    source: GPS
+  heading: 233
+  course: 244
+  speed:
+    stw: 4.4
+    sog: 5.1
+  log: 628.6
+  waypoint:
+    latitude: -17.373794
+    longitude: -149.295308
+  barometer: 1013.14
+  wind:
+    speed: 14.5
+    direction: 170
+  engine:
+    engines:
+      main:
+        hours: 1161
+    hours: 1161
+  vhf: "16"
+  crewNames:
+    - bergie
+    - ihmis-suski
+  category: navigation
+- datetime: 2026-07-17T15:26:58.899Z
+  text: Pumped the bilge
+  author: bergie
+  origin: manual
+  position:
+    latitude: -17.3906528
+    longitude: -149.2705681
+    source: GPS
+  heading: 223
+  course: 231
+  speed:
+    stw: 4.3
+    sog: 4.5
+  log: 630.8
+  waypoint:
+    latitude: -17.373794
+    longitude: -149.295308
+  barometer: 1013.3
+  wind:
+    speed: 15.1
+    direction: 161
+  engine:
+    engines:
+      main:
+        hours: 1161
+    hours: 1161
+  vhf: "16"
+  crewNames:
+    - bergie
+    - ihmis-suski
+  category: maintenance
+- datetime: 2026-07-17T16:00:18.899Z
+  text: ihmis-suski on watch
+  author: ""
+  origin: auto
+  position:
+    latitude: -17.4120003
+    longitude: -149.3183436
+    source: GPS
+  heading: 241
+  course: 249
+  speed:
+    stw: 4.2
+    sog: 4.7
+  log: 633.8
+  waypoint:
+    latitude: -17.416142
+    longitude: -149.39777
+  barometer: 1013.61
+  wind:
+    speed: 15.1
+    direction: 177
+  engine:
+    engines:
+      main:
+        hours: 1161
+    hours: 1161
+  vhf: "16"
+  crewNames:
+    - bergie
+    - ihmis-suski
+  category: navigation
