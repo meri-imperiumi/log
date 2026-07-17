@@ -1020,3 +1020,98 @@
   crewNames:
     - bergie
     - ihmis-suski
+  category: navigation
+- datetime: 2026-07-17T18:59:04.000Z
+  text: ""
+  author: ""
+  origin: auto
+  position:
+    latitude: -17.5097163
+    longitude: -149.5567101
+    source: GPS
+  heading: 242
+  course: 247
+  speed:
+    stw: 4.7
+    sog: 5.7
+  log: 648.8
+  waypoint:
+    latitude: -17.521818
+    longitude: -149.574279
+  barometer: 1015.02
+  wind:
+    speed: 1.7
+    direction: 165
+  engine:
+    engines:
+      main:
+        hours: 1163
+    hours: 1163
+  vhf: "16"
+  crewNames:
+    - bergie
+    - ihmis-suski
+  category: navigation
+- datetime: 2026-07-17T19:13:04.998Z
+  text: Contacted Papeete Port Control and got permit to enter the Harbour. New
+    contact before crossing runway
+  author: bergie
+  origin: manual
+  position:
+    latitude: -17.5207893
+    longitude: -149.575086
+    source: GPS
+  heading: 229
+  course: 234
+  speed:
+    stw: 4.6
+    sog: 5.2
+  log: 650
+  waypoint:
+    latitude: -17.530354
+    longitude: -149.584693
+  barometer: 1015.07
+  wind:
+    speed: 2.9
+    direction: 251
+  engine:
+    engines:
+      main:
+        hours: 1163.2
+    hours: 1163.2
+  vhf: "12"
+  crewNames:
+    - bergie
+    - ihmis-suski
+  category: radio
+- datetime: 2026-07-17T19:14:04.000Z
+  text: Autopilot deactivated
+  author: ""
+  origin: auto
+  position:
+    latitude: -17.5216054
+    longitude: -149.5763393
+    source: GPS
+  heading: 230
+  course: 235
+  speed:
+    stw: 4.7
+    sog: 5.3
+  log: 650.1
+  waypoint:
+    latitude: -17.531186
+    longitude: -149.585463
+  barometer: 1015.08
+  wind:
+    speed: 3.9
+    direction: 267
+  engine:
+    engines:
+      main:
+        hours: 1163.3
+    hours: 1163.3
+  vhf: "12"
+  crewNames:
+    - bergie
+    - ihmis-suski
+  category: navigation
