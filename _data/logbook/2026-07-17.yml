@@ -1,0 +1,31 @@
+- datetime: 2026-07-17T00:37:14.200Z
+  text: Double digits!
+  author: bergie
+  origin: manual
+  position:
+    latitude: -17.05494216680527
+    longitude: -148.13715783754984
+    source: GPS
+  heading: 233
+  course: 254
+  speed:
+    stw: 4.4
+    sog: 5.5
+  log: 561.5
+  waypoint:
+    latitude: -16.971961
+    longitude: -148.223298
+  barometer: 1012.76
+  wind:
+    speed: 15.9
+    direction: 160
+  engine:
+    engines:
+      main:
+        hours: 1161
+    hours: 1161
+  vhf: "16"
+  crewNames:
+    - bergie
+    - ihmis-suski
+  category: navigation

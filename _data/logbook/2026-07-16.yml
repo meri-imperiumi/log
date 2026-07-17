@@ -1091,3 +1091,33 @@
     - bergie
     - ihmis-suski
   category: engine
+- datetime: 2026-07-16T23:59:13.203Z
+  text: ""
+  author: ""
+  origin: auto
+  position:
+    latitude: -17.0353928
+    longitude: -148.0949243
+    source: GPS
+  heading: 220
+  course: 240
+  speed:
+    stw: 3.7
+    sog: 5.3
+  log: 558.7
+  waypoint:
+    latitude: -16.971961
+    longitude: -148.223298
+  barometer: 1013.02
+  wind:
+    speed: 14.1
+    direction: 160
+  engine:
+    engines:
+      main:
+        hours: 1161
+    hours: 1161
+  vhf: "16"
+  crewNames:
+    - bergie
+    - ihmis-suski
