@@ -1,0 +1,27 @@
+- datetime: 2026-07-21T00:03:17.400Z
+  text: "Emergency: EPIRB detected 3389.0 meters to south (mob.974577997)"
+  author: ""
+  origin: auto
+  position:
+    latitude: -17.5542353
+    longitude: -149.6220578
+    source: GPS
+  heading: 301
+  course: 75
+  speed:
+    stw: 0
+    sog: 0
+  log: 655.2
+  barometer: 1012.86
+  wind:
+    speed: 7
+    direction: 270
+  engine:
+    engines:
+      main:
+        hours: 1165.2
+    hours: 1165.2
+  crewNames:
+    - bergie
+    - ihmis-suski
+  category: navigation
