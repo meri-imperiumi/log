@@ -52,3 +52,31 @@
     - bergie
     - ihmis-suski
   category: navigation
+- datetime: 2026-07-23T21:26:27.117Z
+  text: "Cleared after 1 h 9 min: EPIRB detected 6046.0 meters to northeast, 2
+    transitions"
+  author: ""
+  origin: auto
+  position:
+    latitude: -17.5547518
+    longitude: -149.6228718
+    source: GPS
+  heading: 36
+  course: 354
+  speed:
+    stw: 0
+    sog: 0.3
+  log: 655.2
+  barometer: 1013.53
+  wind:
+    speed: 15.8
+    direction: 56
+  engine:
+    engines:
+      main:
+        hours: 1165.2
+    hours: 1165.2
+  crewNames:
+    - bergie
+    - ihmis-suski
+  category: navigation
