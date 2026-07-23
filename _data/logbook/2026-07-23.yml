@@ -25,3 +25,30 @@
     - bergie
     - ihmis-suski
   category: maintenance
+- datetime: 2026-07-23T20:17:27.801Z
+  text: "Emergency: EPIRB detected 6046.0 meters to northeast (mob.974012024)"
+  author: ""
+  origin: auto
+  position:
+    latitude: -17.5547303
+    longitude: -149.6228539
+    source: GPS
+  heading: 76
+  course: 150
+  speed:
+    stw: 0
+    sog: 0.2
+  log: 655.2
+  barometer: 1013.98
+  wind:
+    speed: 19.1
+    direction: 49
+  engine:
+    engines:
+      main:
+        hours: 1165.2
+    hours: 1165.2
+  crewNames:
+    - bergie
+    - ihmis-suski
+  category: navigation
