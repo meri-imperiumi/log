@@ -29,3 +29,33 @@
     - bergie
     - ihmis-suski
   category: maintenance
+- datetime: 2026-07-28T21:05:03.398Z
+  text: Removed the leaking galley tap from the pressure water system
+  author: bergie
+  origin: manual
+  position:
+    latitude: -17.55483798980713
+    longitude: -149.62266635894775
+    source: GPS
+  heading: 355
+  course: 8
+  speed:
+    stw: 0
+    sog: 0
+  log: 369.2
+  waypoint:
+    latitude: -17.555095
+    longitude: -149.622585
+  barometer: 1013.91
+  wind:
+    speed: 10.6
+    direction: 34
+  engine:
+    engines:
+      main:
+        hours: 1165.2
+    hours: 1165.2
+  crewNames:
+    - bergie
+    - ihmis-suski
+  category: maintenance
