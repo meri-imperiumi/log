@@ -1,0 +1,31 @@
+- datetime: 2026-07-28T20:25:02.297Z
+  text: Replaced the topmost mainsail batten with 8mm diameter carbon fiber. Lazy
+    bag was repaired.
+  author: bergie
+  origin: manual
+  position:
+    latitude: -17.5547606
+    longitude: -149.6227431
+    source: GPS
+  heading: 30
+  course: 229
+  speed:
+    stw: 0
+    sog: 0
+  log: 369.2
+  waypoint:
+    latitude: -17.555095
+    longitude: -149.622585
+  barometer: 1014.11
+  wind:
+    speed: 12.1
+    direction: 45
+  engine:
+    engines:
+      main:
+        hours: 1165.2
+    hours: 1165.2
+  crewNames:
+    - bergie
+    - ihmis-suski
+  category: maintenance
