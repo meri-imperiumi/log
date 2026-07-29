@@ -88,3 +88,33 @@
     - bergie
     - ihmis-suski
   category: maintenance
+- datetime: 2026-07-29T18:31:05.702Z
+  text: Filled up 40l diesel
+  author: bergie
+  origin: manual
+  position:
+    latitude: -17.5547594
+    longitude: -149.6226391
+    source: GPS
+  heading: 48
+  course: 69
+  speed:
+    stw: 0
+    sog: 0
+  log: 369.2
+  waypoint:
+    latitude: -17.554322
+    longitude: -149.620491
+  barometer: 1014.19
+  wind:
+    speed: 5.9
+    direction: 29
+  engine:
+    engines:
+      main:
+        hours: 1165.2
+    hours: 1165.2
+  crewNames:
+    - bergie
+    - ihmis-suski
+  category: engine
