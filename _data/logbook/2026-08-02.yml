@@ -28,3 +28,96 @@
     - bergie
     - ihmis-suski
   category: maintenance
+- datetime: 2026-08-02T18:24:33.497Z
+  text: Started main engine
+  author: ""
+  origin: auto
+  position:
+    latitude: -17.5542541
+    longitude: -149.6223
+    source: GPS
+  heading: 178
+  course: 191
+  speed:
+    stw: 0
+    sog: 0
+  log: 369.2
+  waypoint:
+    latitude: -17.554322
+    longitude: -149.620491
+  barometer: 1016.93
+  wind:
+    speed: 2
+    direction: 176
+  engine:
+    engines:
+      main:
+        hours: 1165.2
+    hours: 1165.2
+  vhf: "12"
+  crewNames:
+    - bergie
+    - ihmis-suski
+  category: navigation
+- datetime: 2026-08-02T18:49:43.124Z
+  text: "Cleared after 1 min: Anchor Dragging (184m), 4 transitions"
+  author: ""
+  origin: auto
+  position:
+    latitude: -17.5509223
+    longitude: -149.6161816
+    source: GPS
+  heading: 42
+  course: 45
+  speed:
+    stw: 3.3
+    sog: 4.3
+  log: 369.6
+  waypoint:
+    latitude: -17.550194
+    longitude: -149.616069
+  barometer: 1017.19
+  wind:
+    speed: 3.4
+    direction: 208
+  engine:
+    engines:
+      main:
+        hours: 1165.8
+    hours: 1165.8
+  vhf: "12"
+  crewNames:
+    - bergie
+    - ihmis-suski
+  category: navigation
+- datetime: 2026-08-02T18:49:47.500Z
+  text: Anchor up, motoring. We had caught an old mooring rope
+  author: bergie
+  origin: auto
+  position:
+    latitude: -17.5553056
+    longitude: -149.6205289
+    source: GPS
+  heading: 70
+  course: 69
+  speed:
+    stw: 2.5
+    sog: 3.3
+  log: 369.2
+  waypoint:
+    latitude: -17.554322
+    longitude: -149.620491
+  barometer: 1017.18
+  wind:
+    speed: 3.9
+    direction: 191
+  engine:
+    engines:
+      main:
+        hours: 1165.7
+    hours: 1165.7
+  vhf: "12"
+  crewNames:
+    - bergie
+    - ihmis-suski
+  category: navigation
