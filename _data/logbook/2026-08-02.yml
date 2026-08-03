@@ -274,3 +274,85 @@
     - ihmis-suski
   end: true
   category: navigation
+- datetime: 2026-08-02T23:07:01.100Z
+  text: Stopped main engine
+  author: ""
+  origin: auto
+  position:
+    latitude: -17.501653
+    longitude: -149.8213793
+    source: GPS
+  heading: 259
+  course: 233
+  speed:
+    stw: 0
+    sog: 0
+  log: 388.9
+  barometer: 1014.74
+  wind:
+    speed: 5.2
+    direction: 325
+  engine:
+    engines:
+      main:
+        hours: 1169.9
+    hours: 1169.9
+  vhf: "16"
+  crewNames:
+    - bergie
+    - ihmis-suski
+  category: navigation
+- datetime: 2026-08-02T23:44:48.102Z
+  text: "Alarm: Overload (electrical.inverters.294.overload)"
+  author: ""
+  origin: auto
+  position:
+    latitude: -17.5013678
+    longitude: -149.8216089
+    source: GPS
+  heading: 149
+  course: 35
+  speed:
+    stw: 0
+    sog: 0
+  log: 388.9
+  barometer: 1014.42
+  wind:
+    speed: 5.7
+    direction: 162
+  engine:
+    engines:
+      main:
+        hours: 1170
+    hours: 1170
+  crewNames:
+    - bergie
+    - ihmis-suski
+  category: engine
+- datetime: 2026-08-02T23:45:58.486Z
+  text: "Cleared after 1 min: Overload, 8 transitions"
+  author: ""
+  origin: auto
+  position:
+    latitude: -17.501416
+    longitude: -149.8214998
+    source: GPS
+  heading: 214
+  course: 283
+  speed:
+    stw: 0
+    sog: 0
+  log: 388.9
+  barometer: 1014.35
+  wind:
+    speed: 6.3
+    direction: 174
+  engine:
+    engines:
+      main:
+        hours: 1170
+    hours: 1170
+  crewNames:
+    - bergie
+    - ihmis-suski
+  category: engine
