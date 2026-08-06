@@ -1,0 +1,33 @@
+- datetime: 2026-08-06T22:35:21.100Z
+  text: "Autopilot has not been working reliably, so we changed the wiring from
+    control head to tiller arm (except last 10cm). It worked for a moment, and
+    then not. So suspecting problem with the wiring at the last bit. For now, we
+    have no electric autopilot "
+  author: bergie
+  origin: manual
+  position:
+    latitude: -17.5019996
+    longitude: -149.8213296
+    source: GPS
+  heading: 348
+  course: 198
+  speed:
+    stw: 0
+    sog: 0
+  log: 369.2
+  waypoint:
+    latitude: -17.501213
+    longitude: -149.8205
+  barometer: 1013.1
+  wind:
+    speed: 3.9
+    direction: 12
+  engine:
+    engines:
+      main:
+        hours: 1170
+    hours: 1170
+  crewNames:
+    - bergie
+    - ihmis-suski
+  category: maintenance
