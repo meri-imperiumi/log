@@ -31,3 +31,95 @@
     - bergie
     - ihmis-suski
   category: maintenance
+- datetime: 2026-08-06T23:21:21.203Z
+  text: Reassembled the autopilot one more time and now it seems to run
+  author: bergie
+  origin: manual
+  position:
+    latitude: -17.501688
+    longitude: -149.821352
+    source: GPS
+  heading: 103
+  course: 4
+  speed:
+    stw: 0
+    sog: 0
+  log: 369.2
+  waypoint:
+    latitude: -17.501213
+    longitude: -149.8205
+  barometer: 1012.56
+  wind:
+    speed: 2.6
+    direction: 167
+  engine:
+    engines:
+      main:
+        hours: 1170
+    hours: 1170
+  crewNames:
+    - bergie
+    - ihmis-suski
+  category: maintenance
+- datetime: 2026-08-06T23:30:28.198Z
+  text: Started main engine
+  author: ""
+  origin: auto
+  position:
+    latitude: -17.50162150065104
+    longitude: -149.82128219604493
+    source: GPS
+  heading: 182
+  course: 71
+  speed:
+    stw: 0
+    sog: 0
+  log: 369.2
+  waypoint:
+    latitude: -17.501213
+    longitude: -149.8205
+  barometer: 1012.41
+  wind:
+    speed: 4.5
+    direction: 178
+  engine:
+    engines:
+      main:
+        hours: 1170
+    hours: 1170
+  vhf: "16"
+  crewNames:
+    - bergie
+    - ihmis-suski
+  category: navigation
+- datetime: 2026-08-06T23:56:41.203Z
+  text: Anchor up, motoring
+  author: ""
+  origin: auto
+  position:
+    latitude: -17.5012614
+    longitude: -149.8213393
+    source: GPS
+  heading: 307
+  course: 37
+  speed:
+    stw: 0
+    sog: 0
+  log: 369.2
+  waypoint:
+    latitude: -17.501213
+    longitude: -149.8205
+  barometer: 1011.93
+  wind:
+    speed: 4
+    direction: 180
+  engine:
+    engines:
+      main:
+        hours: 1170.4
+    hours: 1170.4
+  vhf: "16"
+  crewNames:
+    - bergie
+    - ihmis-suski
+  category: navigation
