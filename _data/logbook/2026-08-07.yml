@@ -245,3 +245,72 @@
   crewNames:
     - bergie
     - ihmis-suski
+  category: navigation
+- datetime: 2026-08-07T02:59:31.300Z
+  text: ""
+  author: ""
+  origin: auto
+  position:
+    latitude: -17.3555795
+    longitude: -149.9902945
+    source: GPS
+  heading: 294
+  course: 324
+  speed:
+    stw: 4
+    sog: 4.9
+  log: 383.1
+  waypoint:
+    latitude: -17.309835
+    longitude: -150.047371
+  barometer: 1012.04
+  wind:
+    speed: 13.2
+    direction: 182
+  engine:
+    engines:
+      main:
+        hours: 1171.1
+    hours: 1171.1
+  vhf: "16"
+  crewNames:
+    - bergie
+    - ihmis-suski
+  category: navigation
+- datetime: 2026-08-07T03:14:04.300Z
+  text: |-
+    Sails set: Main, Staysail
+    Light rain had a gust over 17.
+  author: ihmis-suski
+  origin: auto
+  position:
+    latitude: -17.3433076
+    longitude: -150.0054261
+    source: GPS
+  heading: 296
+  course: 315
+  speed:
+    stw: 3.3
+    sog: 4.4
+  log: 384.3
+  waypoint:
+    latitude: -17.309835
+    longitude: -150.047371
+  barometer: 1012.17
+  wind:
+    speed: 12.8
+    direction: 187
+  engine:
+    engines:
+      main:
+        hours: 1171.1
+    hours: 1171.1
+  vhf: "16"
+  crewNames:
+    - bergie
+    - ihmis-suski
+  category: navigation
+  observations:
+    seaState: 4
+    cloudCoverage: 6
+    visibility: 7
