@@ -945,3 +945,65 @@
     seaState: 4
     cloudCoverage: 8
     visibility: 7
+- datetime: 2026-08-07T15:59:13.996Z
+  text: ""
+  author: ""
+  origin: auto
+  position:
+    latitude: -16.8731459
+    longitude: -151.0243496
+    source: GPS
+  heading: 289
+  course: 304
+  speed:
+    stw: 4.2
+    sog: 5.5
+  log: 24.7
+  waypoint:
+    latitude: -16.78231
+    longitude: -151.06762
+  barometer: 1014.49
+  wind:
+    speed: 16.1
+    direction: 168
+  engine:
+    engines:
+      main:
+        hours: 1171.1
+    hours: 1171.1
+  vhf: "16"
+  crewNames:
+    - bergie
+    - ihmis-suski
+  category: navigation
+- datetime: 2026-08-07T16:25:56.000Z
+  text: Sails down, motoring
+  author: ""
+  origin: auto
+  position:
+    latitude: -16.8626051
+    longitude: -151.0482566
+    source: GPS
+  heading: 300
+  course: 302
+  speed:
+    stw: 1.5
+    sog: 1.7
+  log: 26.2
+  waypoint:
+    latitude: -16.78231
+    longitude: -151.06762
+  barometer: 1014.94
+  wind:
+    speed: 7
+    direction: 172
+  engine:
+    engines:
+      main:
+        hours: 1171.1
+    hours: 1171.1
+  vhf: "16"
+  crewNames:
+    - bergie
+    - ihmis-suski
+  category: navigation
