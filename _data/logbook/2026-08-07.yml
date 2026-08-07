@@ -442,3 +442,96 @@
     - bergie
     - ihmis-suski
   category: navigation
+- datetime: 2026-08-07T06:59:44.400Z
+  text: ""
+  author: ""
+  origin: auto
+  position:
+    latitude: -17.1723344
+    longitude: -150.2915045
+    source: GPS
+  heading: 284
+  course: 316
+  speed:
+    stw: 5.5
+    sog: 6.3
+  log: 403.7
+  waypoint:
+    latitude: -17.108867
+    longitude: -150.347576
+  barometer: 1013.55
+  wind:
+    speed: 24.7
+    direction: 164
+  engine:
+    engines:
+      main:
+        hours: 1171.1
+    hours: 1171.1
+  vhf: "16"
+  crewNames:
+    - bergie
+    - ihmis-suski
+  category: navigation
+- datetime: 2026-08-07T07:25:44.400Z
+  text: Waves are getting a bit sharper
+  author: bergie
+  origin: manual
+  position:
+    latitude: -17.145149660110473
+    longitude: -150.33127482732138
+    source: GPS
+  heading: 292
+  course: 297
+  speed:
+    stw: 5
+    sog: 6
+  log: 406.5
+  waypoint:
+    latitude: -17.108867
+    longitude: -150.347576
+  barometer: 1013.74
+  wind:
+    speed: 17.4
+    direction: 165
+  engine:
+    engines:
+      main:
+        hours: 1171.1
+    hours: 1171.1
+  vhf: "16"
+  crewNames:
+    - bergie
+    - ihmis-suski
+  category: navigation
+- datetime: 2026-08-07T07:56:45.401Z
+  text: Suski on watch
+  author: ihmis-suski
+  origin: manual
+  position:
+    latitude: -17.1152541
+    longitude: -150.3732278
+    source: GPS
+  heading: 294
+  course: 302
+  speed:
+    stw: 4.7
+    sog: 6.6
+  log: 409.5
+  waypoint:
+    latitude: -17.054499
+    longitude: -150.417991
+  barometer: 1013.86
+  wind:
+    speed: 20.5
+    direction: 172
+  engine:
+    engines:
+      main:
+        hours: 1171.1
+    hours: 1171.1
+  vhf: "16"
+  crewNames:
+    - bergie
+    - ihmis-suski
+  category: navigation
