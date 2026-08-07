@@ -380,3 +380,65 @@
     seaState: 4
     cloudCoverage: 2
     visibility: 7
+- datetime: 2026-08-07T05:59:40.400Z
+  text: ""
+  author: ""
+  origin: auto
+  position:
+    latitude: -17.2213883
+    longitude: -150.2073846
+    source: GPS
+  heading: 280
+  course: 299
+  speed:
+    stw: 3.8
+    sog: 4.6
+  log: 398
+  waypoint:
+    latitude: -17.15913
+    longitude: -150.272008
+  barometer: 1013.51
+  wind:
+    speed: 15.1
+    direction: 173
+  engine:
+    engines:
+      main:
+        hours: 1171.1
+    hours: 1171.1
+  vhf: "16"
+  crewNames:
+    - bergie
+    - ihmis-suski
+  category: navigation
+- datetime: 2026-08-07T06:49:40.400Z
+  text: "Sails set: Main (1st reef), Staysail. Gusting to 24kn"
+  author: bergie
+  origin: auto
+  position:
+    latitude: -17.18186483383179
+    longitude: -150.27496134440105
+    source: GPS
+  heading: 286
+  course: 304
+  speed:
+    stw: 5
+    sog: 5.9
+  log: 402.6
+  waypoint:
+    latitude: -17.15913
+    longitude: -150.272008
+  barometer: 1013.63
+  wind:
+    speed: 17.8
+    direction: 168
+  engine:
+    engines:
+      main:
+        hours: 1171.1
+    hours: 1171.1
+  vhf: "16"
+  crewNames:
+    - bergie
+    - ihmis-suski
+  category: navigation
