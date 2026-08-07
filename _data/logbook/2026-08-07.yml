@@ -535,3 +535,68 @@
     - bergie
     - ihmis-suski
   category: navigation
+- datetime: 2026-08-07T07:59:46.400Z
+  text: ""
+  author: ""
+  origin: auto
+  position:
+    latitude: -17.1127226
+    longitude: -150.3777215
+    source: GPS
+  heading: 293
+  course: 298
+  speed:
+    stw: 5.1
+    sog: 5.6
+  log: 409.8
+  waypoint:
+    latitude: -17.054499
+    longitude: -150.417991
+  barometer: 1013.86
+  wind:
+    speed: 19.1
+    direction: 170
+  engine:
+    engines:
+      main:
+        hours: 1171.1
+    hours: 1171.1
+  vhf: "16"
+  crewNames:
+    - bergie
+    - ihmis-suski
+  category: navigation
+- datetime: 2026-08-07T08:13:49.401Z
+  text: Busy night traffic wise. Us and 2 other sailboats going same direction, a
+    cargo vessel and now a sailboat coming the other direction.
+  author: ihmis-suski
+  origin: manual
+  position:
+    latitude: -17.102617
+    longitude: -150.3985245
+    source: GPS
+  heading: 292
+  course: 320
+  speed:
+    stw: 4.8
+    sog: 6.3
+  log: 411.2
+  waypoint:
+    latitude: -17.054499
+    longitude: -150.417991
+  barometer: 1013.87
+  wind:
+    speed: 17.7
+    direction: 171
+  engine:
+    engines:
+      main:
+        hours: 1171.1
+    hours: 1171.1
+  vhf: "16"
+  crewNames:
+    - bergie
+    - ihmis-suski
+  category: navigation
+  observations:
+    cloudCoverage: 6
