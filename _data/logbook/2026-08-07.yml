@@ -314,3 +314,34 @@
     seaState: 4
     cloudCoverage: 6
     visibility: 7
+- datetime: 2026-08-07T04:00:20.300Z
+  text: bergie on watch
+  author: ""
+  origin: auto
+  position:
+    latitude: -17.3078633
+    longitude: -150.0629674
+    source: GPS
+  heading: 290
+  course: 316
+  speed:
+    stw: 4
+    sog: 5.7
+  log: 388.2
+  waypoint:
+    latitude: -17.257245
+    longitude: -150.125774
+  barometer: 1012.43
+  wind:
+    speed: 13.9
+    direction: 191
+  engine:
+    engines:
+      main:
+        hours: 1171.1
+    hours: 1171.1
+  vhf: "16"
+  crewNames:
+    - bergie
+    - ihmis-suski
+  category: navigation
