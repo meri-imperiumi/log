@@ -60,10 +60,28 @@ fi
 
 echo "Draft gate cleared! Processing assets and logs..."
 
-# 1. Process legacy or new raster images sitting anywhere in per-year folders or sync assets
+# 1. Process ONLY raster images that are referenced in recent blog entries
 find "$SYNC_DIR" -type f \( -name "*.jpg" -o -name "*.jpeg" -o -name "*.png" \) ! -name "*.webp" | while read -r img; do
     [ -e "$img" ] || continue
     filename=$(basename -- "$img")
+    
+    # Check if this specific image filename is mentioned in any recent markdown file
+    is_referenced=0
+    for md_file in "$SYNC_DIR/_logs/"*.md; do
+        [ -e "$md_file" ] || continue
+        if is_recent_entry "$md_file"; then
+            if grep -q -F "$filename" "$md_file"; then
+                is_referenced=1
+                break
+            fi
+        fi
+    done
+
+    # If the image isn't referenced in any recent post, skip it entirely
+    if [ "$is_referenced" -eq 0 ]; then
+        continue
+    fi
+
     basename_noext="${filename%.*}"
     ext="${filename##*.}"
     target_dir=$(dirname "$img")
