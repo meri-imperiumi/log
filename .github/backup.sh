@@ -110,7 +110,13 @@ echo "Backing up digital logbook..."
 cp /home/pi/.signalk/plugin-config-data/signalk-logbook/* _data/logbook/
 
 echo "Backing up processed blog entries and WebP assets..."
-cp "$SYNC_DIR/_logs/*.md" _logs/
+# Copy only recent blog entries to prevent overwriting/touching older ones
+for md_file in "$SYNC_DIR/_logs/"*.md; do
+    [ -e "$md_file" ] || continue
+    if is_recent_entry "$md_file"; then
+        cp "$md_file" _logs/
+    fi
+done
 
 # Copy per-year folders dynamically (e.g., 2024, 2025, 2026)
 for year_dir in "$SYNC_DIR"/[0-9][0-9][0-9][0-9]; do
