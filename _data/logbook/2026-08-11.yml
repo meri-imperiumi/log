@@ -79,3 +79,86 @@
     - bergie
     - ihmis-suski
   category: navigation
+- datetime: 2026-08-11T17:09:50.201Z
+  text: Started main engine
+  author: ""
+  origin: auto
+  position:
+    latitude: -16.7351233
+    longitude: -151.0480338
+    source: GPS
+  heading: 237
+  course: 275
+  speed:
+    stw: 0.9
+    sog: 0.6
+  log: 125.1
+  barometer: 1016.23
+  wind:
+    speed: 16.6
+    direction: 75
+  engine:
+    engines:
+      main:
+        hours: 1177
+    hours: 1177
+  crewNames:
+    - bergie
+    - ihmis-suski
+  category: navigation
+- datetime: 2026-08-11T17:13:55.200Z
+  text: Anchor up, motoring. With the wind vs. current effects the catamaran
+    behind us was at risk of overrunning us
+  author: bergie
+  origin: auto
+  position:
+    latitude: -16.7351948
+    longitude: -151.0481318
+    source: GPS
+  heading: 229
+  course: 282
+  speed:
+    stw: 0.8
+    sog: 0.5
+  log: 125.2
+  barometer: 1016.22
+  wind:
+    speed: 4.5
+    direction: 143
+  engine:
+    engines:
+      main:
+        hours: 1177.1
+    hours: 1177.1
+  crewNames:
+    - bergie
+    - ihmis-suski
+  category: navigation
+- datetime: 2026-08-11T17:18:32.300Z
+  text: Anchored
+  author: ""
+  origin: auto
+  position:
+    latitude: -16.7356478
+    longitude: -151.0483694
+    source: GPS
+  heading: 221
+  course: 55
+  speed:
+    stw: 0
+    sog: 0.6
+  log: 125.3
+  barometer: 1016.45
+  wind:
+    speed: 3.9
+    direction: 213
+  engine:
+    engines:
+      main:
+        hours: 1177.1
+    hours: 1177.1
+  crewNames:
+    - bergie
+    - ihmis-suski
+  end: true
+  category: navigation
