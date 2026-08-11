@@ -1,0 +1,54 @@
+- datetime: 2026-08-11T02:27:51.200Z
+  text: Started main engine
+  author: ""
+  origin: auto
+  position:
+    latitude: -16.73503163655599
+    longitude: -151.04809283415477
+    source: GPS
+  heading: 209
+  course: 106
+  speed:
+    stw: 0.9
+    sog: 0
+  log: 111.4
+  barometer: 1015.41
+  wind:
+    speed: 4.6
+    direction: 151
+  engine:
+    engines:
+      main:
+        hours: 1175.1
+    hours: 1175.1
+  crewNames:
+    - bergie
+    - ihmis-suski
+  category: navigation
+- datetime: 2026-08-11T02:30:05.200Z
+  text: Pumped the bilge
+  author: bergie
+  origin: manual
+  position:
+    latitude: -16.7350523
+    longitude: -151.0480585
+    source: GPS
+  heading: 217
+  course: 63
+  speed:
+    stw: 0.9
+    sog: 0
+  log: 111.5
+  barometer: 1015.42
+  wind:
+    speed: 7.2
+    direction: 125
+  engine:
+    engines:
+      main:
+        hours: 1175.1
+    hours: 1175.1
+  crewNames:
+    - bergie
+    - ihmis-suski
+  category: maintenance
