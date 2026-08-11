@@ -132,11 +132,17 @@ node .github/updatetracks.mjs
 
 # Commit changes locally regardless of network state
 if [ -n "$(git status --porcelain)" ]; then
-    git add _data/logbook/*.yml
-    git add tracks/*.json
-    git add _logs/*.md
-    git add assets/hi-fi/*
-    git add [0-9][0-9][0-9][0-9]/*
+    # Use || true to prevent set -e from aborting the script if a folder is empty/missing
+    git add _data/logbook/ || true
+    git add tracks/ || true
+    git add _logs/ || true
+
+    # Add year folders dynamically (e.g., 2026/)
+    for year_dir in [0-9][0-9][0-9][0-9]; do
+        if [ -d "$year_dir" ]; then
+            git add "$year_dir/" || true
+        fi
+    done
 
     git config --local user.email boat@lille-oe.de
     git config --local user.name "Lille Oe"
