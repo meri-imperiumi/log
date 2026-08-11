@@ -4,6 +4,33 @@ set -e
 SYNC_DIR="/home/pi/log-sync"
 GIT_DIR="/home/pi/log"
 
+# Helper function to check if a blog entry is from 2026-08-01 or newer
+is_recent_entry() {
+    local file="$1"
+    local base=$(basename "$file")
+    local entry_date
+
+    # 1. Try extracting date from filename (e.g., 2026-08-02-title.md)
+    if [[ "$base" =~ ^([0-9]{4}-[0-9]{2}-[0-9]{2}) ]]; then
+        entry_date="${BASH_REMATCH[1]}"
+    else
+        # 2. Try extracting from frontmatter (date: YYYY-MM-DD)
+        entry_date=$(grep -m 1 -i '^date:' "$file" | grep -oE '[0-9]{4}-[0-9]{2}-[0-9]{2}' | head -n 1 || true)
+    fi
+
+    # If no date could be parsed, default to processing it
+    if [ -z "$entry_date" ]; then
+        return 0
+    fi
+
+    # Compare dates (Bash string comparison works securely for YYYY-MM-DD)
+    if [[ "$entry_date" < "2026-08-01" ]]; then
+        return 1 # False (older)
+    else
+        return 0 # True (recent)
+    fi
+}
+
 echo "Checking for ready (non-draft) posts..."
 
 # Gatekeeper: Scan staged logs for active drafts. If everything is a draft,
@@ -11,6 +38,11 @@ echo "Checking for ready (non-draft) posts..."
 READY_TO_PROCESS=0
 for md_file in "$SYNC_DIR/_logs/"*.md; do
     [ -e "$md_file" ] || continue
+
+    # Skip entries older than 2026-08-01
+    if ! is_recent_entry "$md_file"; then
+        continue
+    fi
 
     if grep -q -i "^draft:[[:space:]]*true" "$md_file" || grep -q -i "^draft:[[:space:]]*yes" "$md_file"; then
         echo "Skipping active draft: $(basename "$md_file")"
@@ -22,7 +54,7 @@ for md_file in "$SYNC_DIR/_logs/"*.md; do
 done
 
 if [ "$READY_TO_PROCESS" -eq 0 ]; then
-    echo "No published posts found. Exiting to prevent mid-edit sync conflicts."
+    echo "No published recent posts found. Exiting to prevent mid-edit sync conflicts."
     exit 0
 fi
 
@@ -37,10 +69,16 @@ find "$SYNC_DIR" -type f \( -name "*.jpg" -o -name "*.jpeg" -o -name "*.png" \) 
     target_dir=$(dirname "$img")
 
     echo "Converting image: $filename -> ${basename_noext}.webp"
-    magick "$img" -resize "1024x1024>" -quality 80 "$target_dir/${basename_noext}.webp"
+    # Use 'convert' instead of 'magick' for ImageMagick v6 compatibility
+    convert "$img" -resize "1024x1024>" -quality 80 "$target_dir/${basename_noext}.webp"
 
-    # Update markdown references across all staged logs pointing to this specific image
-    find "$SYNC_DIR/_logs" -name "*.md" -type f -exec sed -E -i "s/${basename_noext}\.${ext}/${basename_noext}.webp/g" {} +
+    # Update markdown references across recent staged logs pointing to this specific image
+    for md_file in "$SYNC_DIR/_logs/"*.md; do
+        [ -e "$md_file" ] || continue
+        if is_recent_entry "$md_file"; then
+            sed -E -i "s/${basename_noext}\.${ext}/${basename_noext}.webp/g" "$md_file"
+        fi
+    done
 
     # Remove heavy original raster file
     rm "$img"
@@ -64,11 +102,7 @@ echo "Backing up digital logbook..."
 cp /home/pi/.signalk/plugin-config-data/signalk-logbook/* _data/logbook/
 
 echo "Backing up processed blog entries and WebP assets..."
-cp "$SYNC_DIR/_logs/"*.md _logs/
-if [ -d "$SYNC_DIR/_assets" ]; then
-    mkdir -p assets/hi-fi/
-    cp -r "$SYNC_DIR/_assets/"* assets/hi-fi/
-fi
+cp "$SYNC_DIR/_logs/*.md" _logs/
 
 # Copy per-year folders dynamically (e.g., 2024, 2025, 2026)
 for year_dir in "$SYNC_DIR"/[0-9][0-9][0-9][0-9]; do
@@ -108,6 +142,7 @@ if git remote get-url origin > /dev/null 2>&1; then
         echo "Push failed (offline or network timeout). Commits are safely queued locally."
     fi
 fi
+
 # Attempt to push to rngit, failing gracefully if offline
 if git remote get-url rngit > /dev/null 2>&1; then
     echo "Attempting to push to rngit repository..."
