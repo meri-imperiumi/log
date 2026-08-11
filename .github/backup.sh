@@ -108,3 +108,12 @@ if git remote get-url origin > /dev/null 2>&1; then
         echo "Push failed (offline or network timeout). Commits are safely queued locally."
     fi
 fi
+# Attempt to push to rngit, failing gracefully if offline
+if git remote get-url rngit > /dev/null 2>&1; then
+    echo "Attempting to push to rngit repository..."
+    if git push rngit main > /dev/null 2>&1; then
+        echo "Successfully pushed changes to rngit!"
+    else
+        echo "rngit Push failed (offline or network timeout). Commits are safely queued locally."
+    fi
+fi
