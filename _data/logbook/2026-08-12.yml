@@ -27,3 +27,33 @@
     - bergie
     - ihmis-suski
   category: engine
+- datetime: 2026-08-12T02:17:56.900Z
+  text: Added grease to stern gland. No leak.
+  author: ihmis-suski
+  origin: manual
+  position:
+    latitude: -16.7354183
+    longitude: -151.0482241
+    source: GPS
+  heading: 212
+  course: 354
+  speed:
+    stw: 0
+    sog: 0
+  log: 132.4
+  waypoint:
+    latitude: -16.736708
+    longitude: -151.048037
+  barometer: 1013.93
+  wind:
+    speed: 3.9
+    direction: 238
+  engine:
+    engines:
+      main:
+        hours: 1178.3
+    hours: 1178.3
+  crewNames:
+    - bergie
+    - ihmis-suski
+  category: maintenance
