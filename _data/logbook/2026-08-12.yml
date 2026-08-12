@@ -1,0 +1,29 @@
+- datetime: 2026-08-12T00:23:44.847Z
+  text: |-
+    Cleared after 58 min: Water in the bilge, 6 transitions
+    Stern gland leaking.
+  author: ihmis-suski
+  origin: auto
+  position:
+    latitude: -16.7353813
+    longitude: -151.0482111
+    source: GPS
+  heading: 220
+  course: 181
+  speed:
+    stw: 0.7
+    sog: 0
+  log: 131.3
+  barometer: 1014.2
+  wind:
+    speed: 4.8
+    direction: 181
+  engine:
+    engines:
+      main:
+        hours: 1178.3
+    hours: 1178.3
+  crewNames:
+    - bergie
+    - ihmis-suski
+  category: engine
