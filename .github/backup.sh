@@ -44,8 +44,9 @@ for md_file in "$SYNC_DIR/_logs/"*.md; do
     fi
 
     if grep -q -iE "^draft:[[:space:]]*(\"true\"|'true'|true|\"yes\"|'yes'|yes)" "$md_file"; then
-        echo "Skipping active draft: $(basename "$md_file")"
-        continue
+        echo "Draft gate BLOCKED: active draft detected - $(basename "$md_file")"
+        echo "Aborting backup to prevent mid-edit sync conflicts."
+        exit 1
     fi
 
     VALID_MDS+=("$md_file")
