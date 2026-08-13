@@ -28,3 +28,33 @@
     - bergie
     - ihmis-suski
   category: maintenance
+- datetime: 2026-08-13T06:13:02.400Z
+  text: Started main engine
+  author: ""
+  origin: auto
+  position:
+    latitude: -16.7354093
+    longitude: -151.0482243
+    source: GPS
+  heading: 218
+  course: 313
+  speed:
+    stw: 0.4
+    sog: 0
+  log: 151.9
+  waypoint:
+    latitude: -16.736708
+    longitude: -151.048037
+  barometer: 1015.19
+  wind:
+    speed: 8.4
+    direction: 170
+  engine:
+    engines:
+      main:
+        hours: 1180.4
+    hours: 1180.4
+  crewNames:
+    - bergie
+    - ihmis-suski
+  category: navigation
