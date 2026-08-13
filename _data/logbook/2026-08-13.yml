@@ -461,3 +461,66 @@
     - bergie
     - ihmis-suski
   category: radio
+- datetime: 2026-08-13T20:34:42.099Z
+  text: JRCC Tahiti hailed all stations around Raiatea for Radio check
+  author: ihmis-suski
+  origin: manual
+  position:
+    latitude: -16.919463666280112
+    longitude: -151.3369671821594
+    source: GPS
+  heading: 233
+  course: 230
+  speed:
+    stw: 4.5
+    sog: 5.6
+  log: 180.3
+  waypoint:
+    latitude: -16.903976
+    longitude: -151.368656
+  barometer: 1014.25
+  wind:
+    speed: 14.8
+    direction: 90
+  engine:
+    engines:
+      main:
+        hours: 1183.1
+    hours: 1183.1
+  vhf: "16"
+  crewNames:
+    - bergie
+    - ihmis-suski
+  category: radio
+- datetime: 2026-08-13T20:37:42.099Z
+  text: Tahiti JRCC tries to send us DSC. We recieved it, MMSI 005461000 and could
+    send DSC call which they recieved. Radio check over.
+  author: ihmis-suski
+  origin: manual
+  position:
+    latitude: -16.9214324
+    longitude: -151.3410046
+    source: GPS
+  heading: 233
+  course: 234
+  speed:
+    stw: 4.6
+    sog: 6.3
+  log: 180.6
+  waypoint:
+    latitude: -16.903976
+    longitude: -151.368656
+  barometer: 1014.16
+  wind:
+    speed: 18.5
+    direction: 87
+  engine:
+    engines:
+      main:
+        hours: 1183.1
+    hours: 1183.1
+  vhf: "67"
+  crewNames:
+    - bergie
+    - ihmis-suski
+  category: radio
