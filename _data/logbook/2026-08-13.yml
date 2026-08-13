@@ -335,3 +335,66 @@
   crewNames:
     - bergie
     - ihmis-suski
+  category: navigation
+- datetime: 2026-08-13T18:59:42.099Z
+  text: ""
+  author: ""
+  origin: auto
+  position:
+    latitude: -16.8607666
+    longitude: -151.2125568
+    source: GPS
+  heading: 216
+  course: 228
+  speed:
+    stw: 3.1
+    sog: 5.3
+  log: 172.5
+  waypoint:
+    latitude: -16.838199
+    longitude: -151.24187
+  barometer: 1014.97
+  wind:
+    speed: 16.6
+    direction: 100
+  engine:
+    engines:
+      main:
+        hours: 1183.1
+    hours: 1183.1
+  vhf: "16"
+  crewNames:
+    - bergie
+    - ihmis-suski
+  category: navigation
+- datetime: 2026-08-13T19:08:41.100Z
+  text: Poled out
+  author: bergie
+  origin: manual
+  position:
+    latitude: -16.8663546
+    longitude: -151.2228586
+    source: GPS
+  heading: 241
+  course: 230
+  speed:
+    stw: 4.1
+    sog: 5.3
+  log: 173.2
+  waypoint:
+    latitude: -16.838199
+    longitude: -151.24187
+  barometer: 1015.04
+  wind:
+    speed: 12.1
+    direction: 87
+  engine:
+    engines:
+      main:
+        hours: 1183.1
+    hours: 1183.1
+  vhf: "16"
+  crewNames:
+    - bergie
+    - ihmis-suski
+  category: navigation
