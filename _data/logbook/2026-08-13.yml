@@ -428,3 +428,36 @@
   crewNames:
     - bergie
     - ihmis-suski
+  category: navigation
+- datetime: 2026-08-13T20:26:42.099Z
+  text: Tahiti JRCC trying to hail multiple vessels. None of the vessels visible
+    on our AIS.
+  author: ihmis-suski
+  origin: manual
+  position:
+    latitude: -16.9156866
+    longitude: -151.3263655
+    source: GPS
+  heading: 252
+  course: 248
+  speed:
+    stw: 4.3
+    sog: 5.7
+  log: 179.7
+  waypoint:
+    latitude: -16.903976
+    longitude: -151.368656
+  barometer: 1014.39
+  wind:
+    speed: 14.8
+    direction: 102
+  engine:
+    engines:
+      main:
+        hours: 1183.1
+    hours: 1183.1
+  vhf: "16"
+  crewNames:
+    - bergie
+    - ihmis-suski
+  category: radio
