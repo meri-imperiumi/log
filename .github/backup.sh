@@ -43,7 +43,7 @@ for md_file in "$SYNC_DIR/_logs/"*.md; do
         continue
     fi
 
-    if grep -q -i "^draft:[[:space:]]*true" "$md_file" || grep -q -i "^draft:[[:space:]]*yes" "$md_file"; then
+    if grep -q -iE "^draft:[[:space:]]*(\"true\"|'true'|true|\"yes\"|'yes'|yes)" "$md_file"; then
         echo "Skipping active draft: $(basename "$md_file")"
         continue
     fi
