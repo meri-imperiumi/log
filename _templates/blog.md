@@ -1,6 +1,6 @@
 ---
 title: From - To
-draft: "true"
+draft: true
 ---
 K
 
