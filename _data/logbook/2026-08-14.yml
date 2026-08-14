@@ -94,3 +94,35 @@
   crewNames:
     - bergie
     - ihmis-suski
+  category: navigation
+- datetime: 2026-08-14T02:34:47.700Z
+  text: Genoa back on port tack
+  author: bergie
+  origin: manual
+  position:
+    latitude: -17.0227541
+    longitude: -151.8351466
+    source: GPS
+  heading: 256
+  course: 257
+  speed:
+    stw: 4.3
+    sog: 5.5
+  log: 210.5
+  waypoint:
+    latitude: -18.820333
+    longitude: -159.7751
+  barometer: 1011.9
+  wind:
+    speed: 13.3
+    direction: 109
+  engine:
+    engines:
+      main:
+        hours: 1183.1
+    hours: 1183.1
+  vhf: "16"
+  crewNames:
+    - bergie
+    - ihmis-suski
+  category: navigation
