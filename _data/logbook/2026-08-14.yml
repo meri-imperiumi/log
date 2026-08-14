@@ -1,0 +1,35 @@
+- datetime: 2026-08-14T00:37:46.600Z
+  text: Out of French Polynesian waters
+  author: bergie
+  origin: manual
+  position:
+    latitude: -17.0136331
+    longitude: -151.6679194
+    source: GPS
+  heading: 255
+  course: 257
+  speed:
+    stw: 4.3
+    sog: 5
+  log: 201
+  waypoint:
+    latitude: -18.820333
+    longitude: -159.7751
+  barometer: 1011.95
+  wind:
+    speed: 13.5
+    direction: 107
+  engine:
+    engines:
+      main:
+        hours: 1183.1
+    hours: 1183.1
+  vhf: "16"
+  crewNames:
+    - bergie
+    - ihmis-suski
+  category: navigation
+  observations:
+    seaState: 4
+    cloudCoverage: 2
+    visibility: 8
