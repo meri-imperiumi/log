@@ -626,3 +626,35 @@
   crewNames:
     - bergie
     - ihmis-suski
+  category: navigation
+- datetime: 2026-08-14T15:09:13.401Z
+  text: Haze went away, so lots of shooting stars
+  author: bergie
+  origin: manual
+  position:
+    latitude: -17.3605286
+    longitude: -152.7297829
+    source: GPS
+  heading: 262
+  course: 280
+  speed:
+    stw: 2.8
+    sog: 4.3
+  log: 265.3
+  waypoint:
+    latitude: -18.820333
+    longitude: -159.7751
+  barometer: 1012.87
+  wind:
+    speed: 8.5
+    direction: 104
+  engine:
+    engines:
+      main:
+        hours: 1183.1
+    hours: 1183.1
+  vhf: "16"
+  crewNames:
+    - bergie
+    - ihmis-suski
+  category: navigation
