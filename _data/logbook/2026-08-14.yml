@@ -378,3 +378,66 @@
     seaState: 4
     cloudCoverage: 2
     visibility: 7
+- datetime: 2026-08-14T10:00:24.899Z
+  text: bergie on watch
+  author: ""
+  origin: auto
+  position:
+    latitude: -17.2898891
+    longitude: -152.3776543
+    source: GPS
+  heading: 240
+  course: 247
+  speed:
+    stw: 4.3
+    sog: 5.7
+  log: 246.1
+  waypoint:
+    latitude: -18.820333
+    longitude: -159.7751
+  barometer: 1013.57
+  wind:
+    speed: 13
+    direction: 92
+  engine:
+    engines:
+      main:
+        hours: 1183.1
+    hours: 1183.1
+  vhf: "16"
+  crewNames:
+    - bergie
+    - ihmis-suski
+  category: navigation
+- datetime: 2026-08-14T10:08:53.900Z
+  text: Tightened windvane steering cable by one link. Seems to lose less of the
+    steering impulse to slack
+  author: bergie
+  origin: manual
+  position:
+    latitude: -17.2930083
+    longitude: -152.3884741
+    source: GPS
+  heading: 261
+  course: 255
+  speed:
+    stw: 3.6
+    sog: 6.1
+  log: 246.7
+  waypoint:
+    latitude: -18.820333
+    longitude: -159.7751
+  barometer: 1013.56
+  wind:
+    speed: 12.8
+    direction: 103
+  engine:
+    engines:
+      main:
+        hours: 1183.1
+    hours: 1183.1
+  vhf: "16"
+  crewNames:
+    - bergie
+    - ihmis-suski
+  category: maintenance
