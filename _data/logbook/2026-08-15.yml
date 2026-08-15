@@ -932,3 +932,65 @@
     seaState: 5
     cloudCoverage: 7
     visibility: 7
+- datetime: 2026-08-15T17:59:56.403Z
+  text: ""
+  author: ""
+  origin: auto
+  position:
+    latitude: -17.8385291
+    longitude: -155.0224568
+    source: GPS
+  heading: 253
+  course: 261
+  speed:
+    stw: 5.9
+    sog: 8.1
+  log: 401.9
+  waypoint:
+    latitude: -18.820333
+    longitude: -159.7751
+  barometer: 1015.99
+  wind:
+    speed: 26.3
+    direction: 120
+  engine:
+    engines:
+      main:
+        hours: 1183.1
+    hours: 1183.1
+  vhf: "16"
+  crewNames:
+    - bergie
+    - ihmis-suski
+  category: navigation
+- datetime: 2026-08-15T18:08:57.401Z
+  text: A new rain cloud caught us
+  author: ihmis-suski
+  origin: manual
+  position:
+    latitude: -17.839856338500976
+    longitude: -155.03930016756058
+    source: GPS
+  heading: 254
+  course: 247
+  speed:
+    stw: 5.7
+    sog: 6.4
+  log: 402.8
+  waypoint:
+    latitude: -18.820333
+    longitude: -159.7751
+  barometer: 1016.23
+  wind:
+    speed: 21.5
+    direction: 119
+  engine:
+    engines:
+      main:
+        hours: 1183.1
+    hours: 1183.1
+  vhf: "16"
+  crewNames:
+    - bergie
+    - ihmis-suski
+  category: navigation
