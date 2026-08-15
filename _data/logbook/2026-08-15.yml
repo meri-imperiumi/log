@@ -1056,3 +1056,36 @@
     - bergie
     - ihmis-suski
   category: navigation
+- datetime: 2026-08-15T19:43:02.400Z
+  text: Calmer after the rain. New rain clouds in the horizon.
+  author: ihmis-suski
+  origin: manual
+  position:
+    latitude: -17.8984828
+    longitude: -155.1881344
+    source: GPS
+  heading: 280
+  course: 288
+  speed:
+    stw: 4.9
+    sog: 7.8
+  log: 412.6
+  waypoint:
+    latitude: -18.820333
+    longitude: -159.7751
+  barometer: 1016.74
+  wind:
+    speed: 21.1
+    direction: 124
+  engine:
+    engines:
+      main:
+        hours: 1183.1
+    hours: 1183.1
+  vhf: "16"
+  crewNames:
+    - bergie
+    - ihmis-suski
+  category: navigation
+  observations:
+    cloudCoverage: 7
