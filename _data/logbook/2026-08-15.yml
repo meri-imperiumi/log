@@ -618,3 +618,34 @@
     - bergie
     - ihmis-suski
   category: navigation
+- datetime: 2026-08-15T11:47:35.299Z
+  text: And now actual rain
+  author: bergie
+  origin: manual
+  position:
+    latitude: -17.7353019
+    longitude: -154.4410744
+    source: GPS
+  heading: 245
+  course: 238
+  speed:
+    stw: 5.3
+    sog: 4.8
+  log: 366
+  waypoint:
+    latitude: -18.820333
+    longitude: -159.7751
+  barometer: 1014.62
+  wind:
+    speed: 25.6
+    direction: 121
+  engine:
+    engines:
+      main:
+        hours: 1183.1
+    hours: 1183.1
+  vhf: "16"
+  crewNames:
+    - bergie
+    - ihmis-suski
+  category: navigation
