@@ -896,3 +896,39 @@
   crewNames:
     - bergie
     - ihmis-suski
+  category: navigation
+- datetime: 2026-08-15T17:20:54.400Z
+  text: Sky slowly clearing from rain clouds
+  author: ihmis-suski
+  origin: manual
+  position:
+    latitude: -17.83869482676188
+    longitude: -154.9542656580607
+    source: GPS
+  heading: 271
+  course: 275
+  speed:
+    stw: 5.1
+    sog: 5.7
+  log: 397.9
+  waypoint:
+    latitude: -18.820333
+    longitude: -159.7751
+  barometer: 1015.98
+  wind:
+    speed: 19
+    direction: 133
+  engine:
+    engines:
+      main:
+        hours: 1183.1
+    hours: 1183.1
+  vhf: "16"
+  crewNames:
+    - bergie
+    - ihmis-suski
+  category: navigation
+  observations:
+    seaState: 5
+    cloudCoverage: 7
+    visibility: 7
