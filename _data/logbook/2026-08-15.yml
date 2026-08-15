@@ -586,3 +586,35 @@
   crewNames:
     - bergie
     - ihmis-suski
+  category: navigation
+- datetime: 2026-08-15T11:22:32.300Z
+  text: Light drizzle
+  author: bergie
+  origin: manual
+  position:
+    latitude: -17.7111276
+    longitude: -154.4104535
+    source: GPS
+  heading: 256
+  course: 263
+  speed:
+    stw: 5
+    sog: 6
+  log: 363.7
+  waypoint:
+    latitude: -18.820333
+    longitude: -159.7751
+  barometer: 1014.82
+  wind:
+    speed: 19.6
+    direction: 107
+  engine:
+    engines:
+      main:
+        hours: 1183.1
+    hours: 1183.1
+  vhf: "16"
+  crewNames:
+    - bergie
+    - ihmis-suski
+  category: navigation
