@@ -1024,3 +1024,35 @@
   crewNames:
     - bergie
     - ihmis-suski
+  category: navigation
+- datetime: 2026-08-15T19:21:50.400Z
+  text: "Sails set: Main (2nd reef), Staysail. Poled out "
+  author: bergie
+  origin: auto
+  position:
+    latitude: -17.8987193
+    longitude: -155.1520549
+    source: GPS
+  heading: 259
+  course: 267
+  speed:
+    stw: 5.4
+    sog: 6.3
+  log: 410.5
+  waypoint:
+    latitude: -18.820333
+    longitude: -159.7751
+  barometer: 1016.77
+  wind:
+    speed: 24.2
+    direction: 117
+  engine:
+    engines:
+      main:
+        hours: 1183.1
+    hours: 1183.1
+  vhf: "16"
+  crewNames:
+    - bergie
+    - ihmis-suski
+  category: navigation
