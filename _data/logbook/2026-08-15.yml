@@ -1119,3 +1119,35 @@
   crewNames:
     - bergie
     - ihmis-suski
+  category: navigation
+- datetime: 2026-08-15T20:33:05.401Z
+  text: Another squall.
+  author: ihmis-suski
+  origin: manual
+  position:
+    latitude: -17.8997739
+    longitude: -155.2718858
+    source: GPS
+  heading: 267
+  course: 247
+  speed:
+    stw: 6.6
+    sog: 7.2
+  log: 417.7
+  waypoint:
+    latitude: -18.820333
+    longitude: -159.7751
+  barometer: 1016.26
+  wind:
+    speed: 30.2
+    direction: 114
+  engine:
+    engines:
+      main:
+        hours: 1183.1
+    hours: 1183.1
+  vhf: "16"
+  crewNames:
+    - bergie
+    - ihmis-suski
+  category: navigation
