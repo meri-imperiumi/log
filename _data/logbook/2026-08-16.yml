@@ -401,3 +401,34 @@
     - bergie
     - ihmis-suski
   category: engine
+- datetime: 2026-08-16T12:26:46.177Z
+  text: "Cleared after 1 min: Water in the bilge, 2 transitions"
+  author: ""
+  origin: auto
+  position:
+    latitude: -18.2191018
+    longitude: -156.7791371
+    source: GPS
+  heading: 268
+  course: 275
+  speed:
+    stw: 4.3
+    sog: 5.4
+  log: 720.9
+  waypoint:
+    latitude: -18.820333
+    longitude: -159.7751
+  barometer: 1015.01
+  wind:
+    speed: 19.6
+    direction: 109
+  engine:
+    engines:
+      main:
+        hours: 1183.1
+    hours: 1183.1
+  vhf: "16"
+  crewNames:
+    - bergie
+    - ihmis-suski
+  category: engine
