@@ -493,3 +493,35 @@
   crewNames:
     - bergie
     - ihmis-suski
+  category: navigation
+- datetime: 2026-08-16T14:24:06.201Z
+  text: Wanted to shake out the reef, but then a squall came
+  author: bergie
+  origin: manual
+  position:
+    latitude: -18.2453518
+    longitude: -156.9449498
+    source: GPS
+  heading: 244
+  course: 249
+  speed:
+    stw: 4.9
+    sog: 4.8
+  log: 730.6
+  waypoint:
+    latitude: -18.820333
+    longitude: -159.7751
+  barometer: 1014.75
+  wind:
+    speed: 20.7
+    direction: 94
+  engine:
+    engines:
+      main:
+        hours: 1183.1
+    hours: 1183.1
+  vhf: "16"
+  crewNames:
+    - bergie
+    - ihmis-suski
+  category: navigation
