@@ -369,3 +369,35 @@
   crewNames:
     - bergie
     - ihmis-suski
+  category: navigation
+- datetime: 2026-08-16T12:25:33.200Z
+  text: "Alarm: Water in the bilge (electrical.venus-input.1.stateNumber)"
+  author: ""
+  origin: auto
+  position:
+    latitude: -18.2174541
+    longitude: -156.7697858
+    source: GPS
+  heading: 253
+  course: 252
+  speed:
+    stw: 4.5
+    sog: 5
+  log: 720.4
+  waypoint:
+    latitude: -18.820333
+    longitude: -159.7751
+  barometer: 1015.03
+  wind:
+    speed: 18.4
+    direction: 103
+  engine:
+    engines:
+      main:
+        hours: 1183.1
+    hours: 1183.1
+  vhf: "16"
+  crewNames:
+    - bergie
+    - ihmis-suski
+  category: engine
