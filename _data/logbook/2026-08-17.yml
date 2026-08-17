@@ -215,3 +215,34 @@
     - bergie
     - ihmis-suski
   category: navigation
+- datetime: 2026-08-17T04:16:49.600Z
+  text: Gybed to course
+  author: bergie
+  origin: manual
+  position:
+    latitude: -18.6904965
+    longitude: -158.1851336
+    source: GPS
+  heading: 286
+  course: 284
+  speed:
+    stw: 4.5
+    sog: 6.8
+  log: 807.4
+  waypoint:
+    latitude: -18.82007
+    longitude: -159.773216
+  barometer: 1014.32
+  wind:
+    speed: 15.3
+    direction: 81
+  engine:
+    engines:
+      main:
+        hours: 1183.1
+    hours: 1183.1
+  vhf: "16"
+  crewNames:
+    - bergie
+    - ihmis-suski
+  category: navigation
