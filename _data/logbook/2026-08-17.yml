@@ -775,3 +775,35 @@
   crewNames:
     - bergie
     - ihmis-suski
+  category: navigation
+- datetime: 2026-08-17T18:26:38.899Z
+  text: "Land in sight! "
+  author: ihmis-suski
+  origin: manual
+  position:
+    latitude: -18.7970324
+    longitude: -159.4954428
+    source: GPS
+  heading: 288
+  course: 277
+  speed:
+    stw: 5.6
+    sog: 6
+  log: 884.6
+  waypoint:
+    latitude: -18.813124
+    longitude: -159.774997
+  barometer: 1013.98
+  wind:
+    speed: 18.9
+    direction: 42
+  engine:
+    engines:
+      main:
+        hours: 1183.1
+    hours: 1183.1
+  vhf: "16"
+  crewNames:
+    - bergie
+    - ihmis-suski
+  category: navigation
