@@ -996,3 +996,66 @@
   crewNames:
     - bergie
     - ihmis-suski
+  category: navigation
+- datetime: 2026-08-17T21:23:47.001Z
+  text: Hand steering
+  author: bergie
+  origin: manual
+  position:
+    latitude: -18.8140463
+    longitude: -159.7817085
+    source: GPS
+  heading: 237
+  course: 237
+  speed:
+    stw: 4.2
+    sog: 5.7
+  log: 901.3
+  waypoint:
+    latitude: -18.83626
+    longitude: -159.801109
+  barometer: 1013.39
+  wind:
+    speed: 15.8
+    direction: 33
+  engine:
+    engines:
+      main:
+        hours: 1183.1
+    hours: 1183.1
+  vhf: "16"
+  crewNames:
+    - bergie
+    - ihmis-suski
+  category: navigation
+- datetime: 2026-08-17T21:43:34.003Z
+  text: Sails down, motoring
+  author: ""
+  origin: auto
+  position:
+    latitude: -18.8330563
+    longitude: -159.7987291
+    source: GPS
+  heading: 213
+  course: 210
+  speed:
+    stw: 4.4
+    sog: 5.1
+  log: 902.8
+  waypoint:
+    latitude: -18.83626
+    longitude: -159.801109
+  barometer: 1013.21
+  wind:
+    speed: 14.4
+    direction: 27
+  engine:
+    engines:
+      main:
+        hours: 1183.1
+    hours: 1183.1
+  vhf: "12"
+  crewNames:
+    - bergie
+    - ihmis-suski
+  category: navigation
