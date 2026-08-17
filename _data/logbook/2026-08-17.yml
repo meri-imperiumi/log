@@ -122,27 +122,58 @@
     - bergie
     - ihmis-suski
   category: maintenance
-- datetime: 2026-08-17T02:29:59.500Z
-  text: "Sails set: Main (1st reef), Genoa 1 (10% furled)"
+- datetime: 2026-08-17T02:59:48.500Z
+  text: ""
   author: ""
   origin: auto
   position:
-    latitude: -18.62240365346273
-    longitude: -158.02830150127411
+    latitude: -18.6385708
+    longitude: -158.0728276
     source: GPS
-  heading: 255
-  course: 275
+  heading: 245
+  course: 255
   speed:
-    stw: 4.8
-    sog: 5.5
-  log: 797.4
+    stw: 5
+    sog: 6.6
+  log: 800.2
   waypoint:
     latitude: -18.82007
     longitude: -159.773216
-  barometer: 1013.73
+  barometer: 1013.9
   wind:
-    speed: 13.7
-    direction: 89
+    speed: 15.1
+    direction: 91
+  engine:
+    engines:
+      main:
+        hours: 1183.1
+    hours: 1183.1
+  vhf: "16"
+  crewNames:
+    - bergie
+    - ihmis-suski
+  category: navigation
+- datetime: 2026-08-17T03:04:38.500Z
+  text: "Sails set: Main, Genoa 1 (10% furled)"
+  author: ""
+  origin: auto
+  position:
+    latitude: -18.6422859
+    longitude: -158.0802133
+    source: GPS
+  heading: 235
+  course: 235
+  speed:
+    stw: 4.9
+    sog: 6.3
+  log: 800.6
+  waypoint:
+    latitude: -18.82007
+    longitude: -159.773216
+  barometer: 1013.9
+  wind:
+    speed: 18.1
+    direction: 85
   engine:
     engines:
       main:
