@@ -620,3 +620,35 @@
   crewNames:
     - bergie
     - ihmis-suski
+  category: navigation
+- datetime: 2026-08-17T15:39:29.798Z
+  text: Genoa on starboard tack
+  author: bergie
+  origin: manual
+  position:
+    latitude: -18.8288319
+    longitude: -159.2364281
+    source: GPS
+  heading: 263
+  course: 254
+  speed:
+    stw: 5
+    sog: 6.4
+  log: 869.5
+  waypoint:
+    latitude: -18.82007
+    longitude: -159.773216
+  barometer: 1013.22
+  wind:
+    speed: 15.8
+    direction: 47
+  engine:
+    engines:
+      main:
+        hours: 1183.1
+    hours: 1183.1
+  vhf: "16"
+  crewNames:
+    - bergie
+    - ihmis-suski
+  category: navigation
