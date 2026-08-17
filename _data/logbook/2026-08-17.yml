@@ -527,3 +527,35 @@
   crewNames:
     - bergie
     - ihmis-suski
+  category: navigation
+- datetime: 2026-08-17T12:59:19.801Z
+  text: I can see territorial water on the chart
+  author: bergie
+  origin: auto
+  position:
+    latitude: -18.7531516
+    longitude: -159.0072023
+    source: GPS
+  heading: 252
+  course: 252
+  speed:
+    stw: 4.8
+    sog: 6.4
+  log: 855.5
+  waypoint:
+    latitude: -18.82007
+    longitude: -159.773216
+  barometer: 1013.73
+  wind:
+    speed: 13.1
+    direction: 57
+  engine:
+    engines:
+      main:
+        hours: 1183.1
+    hours: 1183.1
+  vhf: "16"
+  crewNames:
+    - bergie
+    - ihmis-suski
+  category: navigation
