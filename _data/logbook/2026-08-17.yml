@@ -838,3 +838,69 @@
     - bergie
     - ihmis-suski
   category: maintenance
+- datetime: 2026-08-17T18:59:40.902Z
+  text: ""
+  author: ""
+  origin: auto
+  position:
+    latitude: -18.7939326
+    longitude: -159.5507418
+    source: GPS
+  heading: 281
+  course: 281
+  speed:
+    stw: 4.8
+    sog: 4.9
+  log: 887.8
+  waypoint:
+    latitude: -18.813124
+    longitude: -159.774997
+  barometer: 1013.95
+  wind:
+    speed: 17.9
+    direction: 44
+  engine:
+    engines:
+      main:
+        hours: 1183.1
+    hours: 1183.1
+  vhf: "16"
+  crewNames:
+    - bergie
+    - ihmis-suski
+  category: navigation
+- datetime: 2026-08-17T19:01:40.902Z
+  text: Territorial waters of Cook Islands
+  author: ihmis-suski
+  origin: manual
+  position:
+    latitude: -18.7936354
+    longitude: -159.5539349
+    source: GPS
+  heading: 283
+  course: 271
+  speed:
+    stw: 5.4
+    sog: 5.5
+  log: 888
+  waypoint:
+    latitude: -18.813124
+    longitude: -159.774997
+  barometer: 1014.03
+  wind:
+    speed: 19.1
+    direction: 42
+  engine:
+    engines:
+      main:
+        hours: 1183.1
+    hours: 1183.1
+  vhf: "16"
+  crewNames:
+    - bergie
+    - ihmis-suski
+  category: navigation
+  observations:
+    cloudCoverage: 8
+    seaState: 4
+    visibility: 7
