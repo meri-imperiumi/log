@@ -60,3 +60,66 @@
     - bergie
     - ihmis-suski
   category: navigation
+- datetime: 2026-08-22T18:46:21.100Z
+  text: Stopped
+  author: ""
+  origin: auto
+  position:
+    latitude: -18.8640288
+    longitude: -159.8000619
+    source: GPS
+  heading: 298
+  course: 132
+  speed:
+    stw: 0
+    sog: 0
+  log: 905.3
+  waypoint:
+    latitude: -18.863098
+    longitude: -159.801106
+  barometer: 1019.68
+  wind:
+    speed: 2.8
+    direction: 141
+  engine:
+    engines:
+      main:
+        hours: 1184.6
+    hours: 1184.6
+  vhf: "68"
+  crewNames:
+    - bergie
+    - ihmis-suski
+  end: true
+  category: navigation
+- datetime: 2026-08-22T18:48:12.102Z
+  text: Stopped main engine
+  author: ""
+  origin: auto
+  position:
+    latitude: -18.8640421
+    longitude: -159.8000763
+    source: GPS
+  heading: 301
+  course: 350
+  speed:
+    stw: 0
+    sog: 0
+  log: 905.3
+  waypoint:
+    latitude: -18.863098
+    longitude: -159.801106
+  barometer: 1019.68
+  wind:
+    speed: 5
+    direction: 148
+  engine:
+    engines:
+      main:
+        hours: 1184.6
+    hours: 1184.6
+  vhf: "68"
+  crewNames:
+    - bergie
+    - ihmis-suski
+  category: navigation
