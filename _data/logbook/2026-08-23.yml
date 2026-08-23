@@ -1,0 +1,30 @@
+- datetime: 2026-08-23T10:48:52.800Z
+  text: Pickled watermaker
+  author: bergie
+  origin: manual
+  position:
+    latitude: -18.8640446
+    longitude: -159.8000668
+    source: GPS
+  heading: 301
+  course: 298
+  speed:
+    stw: 0
+    sog: 0
+  log: 905.3
+  waypoint:
+    latitude: -18.863098
+    longitude: -159.801106
+  barometer: 1019.2
+  wind:
+    speed: 4.5
+    direction: 121
+  engine:
+    engines:
+      main:
+        hours: 1184.6
+    hours: 1184.6
+  crewNames:
+    - bergie
+    - ihmis-suski
+  category: maintenance
