@@ -36,6 +36,7 @@ countries-sailed:
   - CO
   - PA
   - PF
+  - CK
 ---
 Volunteered as a deck hand on schooner _Helena_ for couple of years.
 Atlantic crossing on schooner _Helena_ in 2014, and another on _Lille Ø_ in 2025.
