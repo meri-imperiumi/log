@@ -1,0 +1,30 @@
+- datetime: 2026-08-29T21:08:03.801Z
+  text: Suski cleaned the hull
+  author: bergie
+  origin: manual
+  position:
+    latitude: -18.8640618
+    longitude: -159.8000533
+    source: GPS
+  heading: 295
+  course: 120
+  speed:
+    stw: 0
+    sog: 0
+  log: 369.2
+  waypoint:
+    latitude: -18.863801
+    longitude: -159.799987
+  barometer: 1019.43
+  wind:
+    speed: 4.1
+    direction: 81
+  engine:
+    engines:
+      main:
+        hours: 1184.6
+    hours: 1184.6
+  crewNames:
+    - bergie
+    - ihmis-suski
+  category: maintenance
