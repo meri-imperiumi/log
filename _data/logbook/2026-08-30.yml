@@ -221,27 +221,27 @@
     - bergie
     - ihmis-suski
   category: maintenance
-- datetime: 2026-08-30T19:53:18.710Z
-  text: "Cleared after 4 min: No service"
+- datetime: 2026-08-30T19:59:31.097Z
+  text: ""
   author: ""
   origin: auto
   position:
-    latitude: -18.820546658833823
-    longitude: -159.90337518056234
+    latitude: -18.820081
+    longitude: -159.9047156
     source: GPS
-  heading: 301
-  course: 283
+  heading: 286
+  course: 275
   speed:
-    stw: 4.6
-    sog: 5.8
-  log: 376
+    stw: 4.8
+    sog: 3.8
+  log: 376.1
   waypoint:
     latitude: -18.946837
     longitude: -169.84751
-  barometer: 1019.86
+  barometer: 1019.81
   wind:
-    speed: 17.6
-    direction: 82
+    speed: 16.1
+    direction: 78
   engine:
     engines:
       main:
@@ -252,3 +252,34 @@
     - bergie
     - ihmis-suski
   category: navigation
+- datetime: 2026-08-30T20:12:31.097Z
+  text: Watermaker 350ppm
+  author: bergie
+  origin: manual
+  position:
+    latitude: -18.815350659688313
+    longitude: -159.9223118464152
+    source: GPS
+  heading: 297
+  course: 297
+  speed:
+    stw: 4.7
+    sog: 4.8
+  log: 377.1
+  waypoint:
+    latitude: -18.946837
+    longitude: -169.84751
+  barometer: 1019.78
+  wind:
+    speed: 17.3
+    direction: 81
+  engine:
+    engines:
+      main:
+        hours: 1185.1
+    hours: 1185.1
+  vhf: "16"
+  crewNames:
+    - bergie
+    - ihmis-suski
+  category: maintenance
