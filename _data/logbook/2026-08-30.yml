@@ -411,6 +411,11 @@
     - bergie
     - ihmis-suski
   category: navigation
+- datetime: 2026-08-30T22:07:00.000Z
+  text: Watermaker 265ppm
+  author: ihmis-suski
+  origin: manual
+  category: maintenance
 - datetime: 2026-08-30T22:16:25.100Z
   text: "Alarm: No usable signal (networking.lte.rssi)"
   author: ""
@@ -472,3 +477,4 @@
   crewNames:
     - bergie
     - ihmis-suski
+  category: navigation
