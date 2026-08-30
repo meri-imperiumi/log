@@ -221,3 +221,34 @@
     - bergie
     - ihmis-suski
   category: maintenance
+- datetime: 2026-08-30T19:53:18.710Z
+  text: "Cleared after 4 min: No service"
+  author: ""
+  origin: auto
+  position:
+    latitude: -18.820546658833823
+    longitude: -159.90337518056234
+    source: GPS
+  heading: 301
+  course: 283
+  speed:
+    stw: 4.6
+    sog: 5.8
+  log: 376
+  waypoint:
+    latitude: -18.946837
+    longitude: -169.84751
+  barometer: 1019.86
+  wind:
+    speed: 17.6
+    direction: 82
+  engine:
+    engines:
+      main:
+        hours: 1185.1
+    hours: 1185.1
+  vhf: "16"
+  crewNames:
+    - bergie
+    - ihmis-suski
+  category: navigation
