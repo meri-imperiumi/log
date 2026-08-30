@@ -61,8 +61,8 @@
     - ihmis-suski
   category: navigation
 - datetime: 2026-08-30T18:49:00.998Z
-  text: Motor stopped, sailing with Main, Genoa 1
-  author: ""
+  text: Motor stopped, sailing with Main (1st reef), Staysail
+  author: bergie
   origin: auto
   position:
     latitude: -18.8477681
@@ -91,3 +91,67 @@
     - bergie
     - ihmis-suski
   category: navigation
+- datetime: 2026-08-30T18:59:32.102Z
+  text: ""
+  author: ""
+  origin: auto
+  position:
+    latitude: -18.842126337687173
+    longitude: -159.82115618387857
+    source: GPS
+  heading: 289
+  course: 290
+  speed:
+    stw: 3.5
+    sog: 3.9
+  log: 371.1
+  waypoint:
+    latitude: -18.946837
+    longitude: -169.84751
+  barometer: 1019.57
+  wind:
+    speed: 16.8
+    direction: 73
+  engine:
+    engines:
+      main:
+        hours: 1185.1
+    hours: 1185.1
+  vhf: "16"
+  crewNames:
+    - bergie
+    - ihmis-suski
+  category: navigation
+- datetime: 2026-08-30T19:11:32.102Z
+  text: Windvane steering
+  author: bergie
+  origin: manual
+  position:
+    latitude: -18.8389221
+    longitude: -159.8376944
+    source: GPS
+  heading: 286
+  course: 287
+  speed:
+    stw: 5.2
+    sog: 5.6
+  log: 372.1
+  waypoint:
+    latitude: -18.946837
+    longitude: -169.84751
+  barometer: 1019.65
+  wind:
+    speed: 19.4
+    direction: 70
+  engine:
+    engines:
+      main:
+        hours: 1185.1
+    hours: 1185.1
+  vhf: "16"
+  crewNames:
+    - bergie
+    - ihmis-suski
+  category: navigation
+  observations:
+    cloudCoverage: 8
