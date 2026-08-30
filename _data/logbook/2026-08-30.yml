@@ -411,3 +411,34 @@
     - bergie
     - ihmis-suski
   category: navigation
+- datetime: 2026-08-30T22:16:25.100Z
+  text: "Alarm: No usable signal (networking.lte.rssi)"
+  author: ""
+  origin: auto
+  position:
+    latitude: -18.7726978
+    longitude: -160.0970144
+    source: GPS
+  heading: 285
+  course: 293
+  speed:
+    stw: 4.9
+    sog: 5.6
+  log: 387.4
+  waypoint:
+    latitude: -18.946837
+    longitude: -169.84751
+  barometer: 1018.45
+  wind:
+    speed: 13.4
+    direction: 74
+  engine:
+    engines:
+      main:
+        hours: 1185.1
+    hours: 1185.1
+  vhf: "16"
+  crewNames:
+    - bergie
+    - ihmis-suski
+  category: navigation
