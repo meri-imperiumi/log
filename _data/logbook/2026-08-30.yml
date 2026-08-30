@@ -380,3 +380,34 @@
     seaState: 5
     cloudCoverage: 1
     visibility: 7
+- datetime: 2026-08-30T22:00:21.100Z
+  text: ihmis-suski on watch
+  author: ""
+  origin: auto
+  position:
+    latitude: -18.7776028
+    longitude: -160.0740669
+    source: GPS
+  heading: 280
+  course: 273
+  speed:
+    stw: 4.3
+    sog: 4.1
+  log: 386.1
+  waypoint:
+    latitude: -18.946837
+    longitude: -169.84751
+  barometer: 1018.67
+  wind:
+    speed: 11.7
+    direction: 80
+  engine:
+    engines:
+      main:
+        hours: 1185.1
+    hours: 1185.1
+  vhf: "16"
+  crewNames:
+    - bergie
+    - ihmis-suski
+  category: navigation
