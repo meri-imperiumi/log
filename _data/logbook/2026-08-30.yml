@@ -314,37 +314,6 @@
     - bergie
     - ihmis-suski
   category: navigation
-- datetime: 2026-08-30T21:02:42.099Z
-  text: "Alarm: No service (networking.lte.bars)"
-  author: ""
-  origin: auto
-  position:
-    latitude: -18.7952441
-    longitude: -159.9909795
-    source: GPS
-  heading: 285
-  course: 271
-  speed:
-    stw: 4.7
-    sog: 5
-  log: 381.2
-  waypoint:
-    latitude: -18.946837
-    longitude: -169.84751
-  barometer: 1019.24
-  wind:
-    speed: 17.3
-    direction: 73
-  engine:
-    engines:
-      main:
-        hours: 1185.1
-    hours: 1185.1
-  vhf: "16"
-  crewNames:
-    - bergie
-    - ihmis-suski
-  category: navigation
 - datetime: 2026-08-30T21:11:31.097Z
   text: Leaving Cook Islands territorial waters
   author: ihmis-suski
@@ -416,37 +385,6 @@
   author: ihmis-suski
   origin: manual
   category: maintenance
-- datetime: 2026-08-30T22:16:25.100Z
-  text: "Alarm: No usable signal (networking.lte.rssi)"
-  author: ""
-  origin: auto
-  position:
-    latitude: -18.7726978
-    longitude: -160.0970144
-    source: GPS
-  heading: 285
-  course: 293
-  speed:
-    stw: 4.9
-    sog: 5.6
-  log: 387.4
-  waypoint:
-    latitude: -18.946837
-    longitude: -169.84751
-  barometer: 1018.45
-  wind:
-    speed: 13.4
-    direction: 74
-  engine:
-    engines:
-      main:
-        hours: 1185.1
-    hours: 1185.1
-  vhf: "16"
-  crewNames:
-    - bergie
-    - ihmis-suski
-  category: navigation
 - datetime: 2026-08-30T22:59:31.200Z
   text: ""
   author: ""
@@ -539,3 +477,4 @@
   crewNames:
     - bergie
     - ihmis-suski
+  category: navigation

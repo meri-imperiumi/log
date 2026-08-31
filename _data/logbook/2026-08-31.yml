@@ -31,7 +31,7 @@
   category: navigation
 - datetime: 2026-08-31T01:22:32.200Z
   text: |
-    Watermaker 200ppm. Stopped
+    Stopped watermaker 200ppm
   author: ihmis-suski
   origin: manual
   position:
@@ -61,3 +61,65 @@
     - bergie
     - ihmis-suski
   category: maintenance
+- datetime: 2026-08-31T01:59:39.300Z
+  text: ""
+  author: ""
+  origin: auto
+  position:
+    latitude: -18.6895401
+    longitude: -160.369887
+    source: GPS
+  heading: 305
+  course: 308
+  speed:
+    stw: 4.5
+    sog: 4.9
+  log: 404
+  waypoint:
+    latitude: -18.946837
+    longitude: -169.84751
+  barometer: 1016.54
+  wind:
+    speed: 16.7
+    direction: 93
+  engine:
+    engines:
+      main:
+        hours: 1185.1
+    hours: 1185.1
+  vhf: "16"
+  crewNames:
+    - bergie
+    - ihmis-suski
+  category: navigation
+- datetime: 2026-08-31T02:02:25.300Z
+  text: "Sails set: Main (1st reef), Genoa 1 (10% furled), Staysail"
+  author: ""
+  origin: auto
+  position:
+    latitude: -18.688030687967935
+    longitude: -160.3736925125122
+    source: GPS
+  heading: 308
+  course: 280
+  speed:
+    stw: 5.1
+    sog: 6
+  log: 404.2
+  waypoint:
+    latitude: -18.946837
+    longitude: -169.84751
+  barometer: 1016.55
+  wind:
+    speed: 12.7
+    direction: 93
+  engine:
+    engines:
+      main:
+        hours: 1185.1
+    hours: 1185.1
+  vhf: "16"
+  crewNames:
+    - bergie
+    - ihmis-suski
+  category: navigation
