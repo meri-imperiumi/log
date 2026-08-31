@@ -405,3 +405,71 @@
   crewNames:
     - bergie
     - ihmis-suski
+  category: navigation
+- datetime: 2026-08-31T10:00:27.801Z
+  text: ihmis-suski on watch
+  author: ""
+  origin: auto
+  position:
+    latitude: -18.6043029
+    longitude: -161.1359515
+    source: GPS
+  heading: 290
+  course: 288
+  speed:
+    stw: 4.7
+    sog: 4
+  log: 448.5
+  waypoint:
+    latitude: -18.944765
+    longitude: -169.851749
+  barometer: 1018.79
+  wind:
+    speed: 14.6
+    direction: 77
+  engine:
+    engines:
+      main:
+        hours: 1185.1
+    hours: 1185.1
+  vhf: "16"
+  crewNames:
+    - bergie
+    - ihmis-suski
+  category: navigation
+- datetime: 2026-08-31T10:02:57.798Z
+  text: The moon! For so long we have sailed during new moon that it is refreshing
+    to have moonlight illuminating the sea again!
+  author: ihmis-suski
+  origin: manual
+  position:
+    latitude: -18.6035348
+    longitude: -161.1392278
+    source: GPS
+  heading: 295
+  course: 291
+  speed:
+    stw: 4.8
+    sog: 5.1
+  log: 448.7
+  waypoint:
+    latitude: -18.944765
+    longitude: -169.851749
+  barometer: 1018.86
+  wind:
+    speed: 12.2
+    direction: 79
+  engine:
+    engines:
+      main:
+        hours: 1185.1
+    hours: 1185.1
+  vhf: "16"
+  crewNames:
+    - bergie
+    - ihmis-suski
+  category: navigation
+  observations:
+    seaState: 4
+    cloudCoverage: 0
+    visibility: 7
