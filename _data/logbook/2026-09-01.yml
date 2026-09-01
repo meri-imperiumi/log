@@ -1,0 +1,31 @@
+- datetime: 2026-09-01T00:22:44.600Z
+  text: Watermaker 334ppm
+  author: ihmis-suski
+  origin: manual
+  position:
+    latitude: -18.4010071
+    longitude: -162.0672863
+    source: GPS
+  heading: 293
+  course: 300
+  speed:
+    stw: 2.6
+    sog: 3.6
+  log: 503.9
+  waypoint:
+    latitude: -18.944765
+    longitude: -169.851749
+  barometer: 1016.63
+  wind:
+    speed: 7.1
+    direction: 99
+  engine:
+    engines:
+      main:
+        hours: 1185.1
+    hours: 1185.1
+  vhf: "16"
+  crewNames:
+    - bergie
+    - ihmis-suski
+  category: maintenance
