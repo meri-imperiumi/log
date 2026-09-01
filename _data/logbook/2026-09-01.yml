@@ -978,3 +978,66 @@
     - bergie
     - ihmis-suski
   category: navigation
+- datetime: 2026-09-01T17:59:38.400Z
+  text: ""
+  author: ""
+  origin: auto
+  position:
+    latitude: -18.8304371
+    longitude: -162.8862391
+    source: GPS
+  heading: 300
+  course: 301
+  speed:
+    stw: 0.9
+    sog: 1.8
+  log: 559.9
+  waypoint:
+    latitude: -18.944765
+    longitude: -169.851749
+  barometer: 1018.58
+  wind:
+    speed: 4.3
+    direction: 78
+  engine:
+    engines:
+      main:
+        hours: 1188
+    hours: 1188
+  vhf: "16"
+  crewNames:
+    - bergie
+    - ihmis-suski
+  category: navigation
+- datetime: 2026-09-01T18:04:37.401Z
+  text: Oil levels are good. Maybe the small leak was from around dipstick due to
+    the bouncy conditions
+  author: bergie
+  origin: manual
+  position:
+    latitude: -18.8295
+    longitude: -162.887977
+    source: GPS
+  heading: 309
+  course: 284
+  speed:
+    stw: 0
+    sog: 1.8
+  log: 560
+  waypoint:
+    latitude: -18.944765
+    longitude: -169.851749
+  barometer: 1018.66
+  wind:
+    speed: 3.9
+    direction: 102
+  engine:
+    engines:
+      main:
+        hours: 1188
+    hours: 1188
+  vhf: "16"
+  crewNames:
+    - bergie
+    - ihmis-suski
+  category: engine
