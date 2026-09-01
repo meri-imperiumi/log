@@ -1290,27 +1290,27 @@
     - bergie
     - ihmis-suski
   category: navigation
-- datetime: 2026-09-01T22:00:22.796Z
-  text: Watch schedule stopped
+- datetime: 2026-09-01T21:59:53.798Z
+  text: ""
   author: ""
   origin: auto
   position:
-    latitude: -18.8210393
-    longitude: -163.0232046
+    latitude: -18.8209885
+    longitude: -163.0225069
     source: GPS
-  heading: 265
-  course: 268
+  heading: 263
+  course: 266
   speed:
-    stw: 4.2
-    sog: 4.6
+    stw: 4.1
+    sog: 4.2
   log: 568.9
   waypoint:
     latitude: -18.946837
     longitude: -169.84751
-  barometer: 1018.93
+  barometer: 1018.96
   wind:
-    speed: 11.6
-    direction: 139
+    speed: 12.4
+    direction: 140
   engine:
     engines:
       main:
@@ -1320,4 +1320,3 @@
   crewNames:
     - bergie
     - ihmis-suski
-  category: navigation
