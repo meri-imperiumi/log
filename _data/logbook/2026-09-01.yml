@@ -498,6 +498,7 @@
   crewNames:
     - bergie
     - ihmis-suski
+  category: navigation
 - datetime: 2026-09-01T10:00:27.200Z
   text: ihmis-suski on watch
   author: ""
@@ -529,3 +530,40 @@
     - bergie
     - ihmis-suski
   category: navigation
+- datetime: 2026-09-01T10:24:11.200Z
+  text: Having still 2.5 to 3 kn of boat speed with 4 to 5kn of wind. Going about
+    40 degrees to much towards south. Should give us better wind angle when the
+    wind picks up sime time tomorrow afternoon.
+  author: ihmis-suski
+  origin: manual
+  position:
+    latitude: -18.6567333
+    longitude: -162.655931
+    source: GPS
+  heading: 210
+  course: 225
+  speed:
+    stw: 2
+    sog: 3.1
+  log: 542.1
+  waypoint:
+    latitude: -18.944765
+    longitude: -169.851749
+  barometer: 1018.14
+  wind:
+    speed: 4.9
+    direction: 96
+  engine:
+    engines:
+      main:
+        hours: 1188
+    hours: 1188
+  vhf: "16"
+  crewNames:
+    - bergie
+    - ihmis-suski
+  category: navigation
+  observations:
+    seaState: 3
+    cloudCoverage: 0
+    visibility: 7
