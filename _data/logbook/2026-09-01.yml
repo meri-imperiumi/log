@@ -753,3 +753,36 @@
     - bergie
     - ihmis-suski
   category: navigation
+- datetime: 2026-09-01T14:31:39.299Z
+  text: "Sails set: Main (1st reef), Genoa 1 (70% furled) squall behind us. Wind
+    did a 120 change. First genoa in, main to middle, now sails back on
+    starboard side waiting what will come of this"
+  author: ihmis-suski
+  origin: auto
+  position:
+    latitude: -18.7283571
+    longitude: -162.7633521
+    source: GPS
+  heading: 248
+  course: 259
+  speed:
+    stw: 1.9
+    sog: 2.8
+  log: 549.7
+  waypoint:
+    latitude: -18.944765
+    longitude: -169.851749
+  barometer: 1016.85
+  wind:
+    speed: 8.2
+    direction: 123
+  engine:
+    engines:
+      main:
+        hours: 1188
+    hours: 1188
+  vhf: "16"
+  crewNames:
+    - bergie
+    - ihmis-suski
+  category: navigation
