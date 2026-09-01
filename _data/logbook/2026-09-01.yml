@@ -1104,7 +1104,7 @@
     - ihmis-suski
   category: navigation
 - datetime: 2026-09-01T19:43:10.400Z
-  text: Autopilot deactivated, the tiller arm just broke
+  text: Autopilot deactivated, the tiller arm just broke.  Windvane steering
   author: bergie
   origin: auto
   position:
@@ -1195,3 +1195,36 @@
   crewNames:
     - bergie
     - ihmis-suski
+  category: navigation
+- datetime: 2026-09-01T21:34:49.798Z
+  text: "Replaced the shear pin of the lead screw assembly on the autopilot. Now
+    it runs again, but doesn't make happy sounds "
+  author: bergie
+  origin: manual
+  position:
+    latitude: -18.8198799
+    longitude: -162.9930071
+    source: GPS
+  heading: 253
+  course: 273
+  speed:
+    stw: 3.1
+    sog: 3.2
+  log: 567.2
+  waypoint:
+    latitude: -18.944765
+    longitude: -169.851749
+  barometer: 1019.28
+  wind:
+    speed: 10.5
+    direction: 145
+  engine:
+    engines:
+      main:
+        hours: 1188
+    hours: 1188
+  vhf: "16"
+  crewNames:
+    - bergie
+    - ihmis-suski
+  category: maintenance
