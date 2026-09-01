@@ -884,3 +884,35 @@
     seaState: 4
     cloudCoverage: 8
     visibility: 7
+- datetime: 2026-09-01T16:35:31.302Z
+  text: Sun is coming up. Now it is clear there are a couple of splotches of rain
+    behind us
+  author: bergie
+  origin: manual
+  position:
+    latitude: -18.7862855
+    longitude: -162.8440871
+    source: GPS
+  heading: 193
+  course: 218
+  speed:
+    stw: 2.7
+    sog: 2.8
+  log: 555.7
+  waypoint:
+    latitude: -18.944765
+    longitude: -169.851749
+  barometer: 1017.63
+  wind:
+    speed: 11.2
+    direction: 60
+  engine:
+    engines:
+      main:
+        hours: 1188
+    hours: 1188
+  vhf: "16"
+  crewNames:
+    - bergie
+    - ihmis-suski
+  category: navigation
