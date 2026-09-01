@@ -246,3 +246,66 @@
     - bergie
     - ihmis-suski
   category: navigation
+- datetime: 2026-09-01T03:46:49.699Z
+  text: There's an oil leak on the starboard side of the engine, somewhere near
+    the oil pan below the fuel lift pump
+  author: bergie
+  origin: manual
+  position:
+    latitude: -18.43585583368937
+    longitude: -162.29704984029135
+    source: GPS
+  heading: 223
+  course: 236
+  speed:
+    stw: 3
+    sog: 2.2
+  log: 517.6
+  waypoint:
+    latitude: -18.944765
+    longitude: -169.851749
+  barometer: 1016.62
+  wind:
+    speed: 7.9
+    direction: 104
+  engine:
+    engines:
+      main:
+        hours: 1188
+    hours: 1188
+  vhf: "16"
+  crewNames:
+    - bergie
+    - ihmis-suski
+  category: engine
+- datetime: 2026-09-01T04:00:20.700Z
+  text: bergie on watch
+  author: ""
+  origin: auto
+  position:
+    latitude: -18.4398566
+    longitude: -162.3059969
+    source: GPS
+  heading: 223
+  course: 257
+  speed:
+    stw: 3.3
+    sog: 3.5
+  log: 518.2
+  waypoint:
+    latitude: -18.944765
+    longitude: -169.851749
+  barometer: 1016.69
+  wind:
+    speed: 9.2
+    direction: 104
+  engine:
+    engines:
+      main:
+        hours: 1188
+    hours: 1188
+  vhf: "16"
+  crewNames:
+    - bergie
+    - ihmis-suski
+  category: navigation
