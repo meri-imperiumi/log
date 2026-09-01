@@ -248,7 +248,7 @@
   category: navigation
 - datetime: 2026-09-01T03:46:49.699Z
   text: There's an oil leak on the starboard side of the engine, somewhere near
-    the oil pan below the fuel lift pump
+    the oil pan below the fuel lift pump. Maybe from dipstick
   author: bergie
   origin: manual
   position:
@@ -280,7 +280,7 @@
   category: engine
 - datetime: 2026-09-01T04:00:20.700Z
   text: bergie on watch
-  author: ""
+  author: bergie
   origin: auto
   position:
     latitude: -18.4398566
@@ -309,3 +309,7 @@
     - bergie
     - ihmis-suski
   category: navigation
+  observations:
+    seaState: 4
+    cloudCoverage: 5
+    visibility: 7
