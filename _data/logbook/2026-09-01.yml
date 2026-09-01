@@ -1228,3 +1228,96 @@
     - bergie
     - ihmis-suski
   category: maintenance
+- datetime: 2026-09-01T21:46:33.798Z
+  text: "Sails set: Main (1st reef), Genoa 1"
+  author: ""
+  origin: auto
+  position:
+    latitude: -18.8213125
+    longitude: -163.0054011
+    source: GPS
+  heading: 282
+  course: 281
+  speed:
+    stw: 3.2
+    sog: 2.7
+  log: 567.9
+  waypoint:
+    latitude: -18.946837
+    longitude: -169.84751
+  barometer: 1019.13
+  wind:
+    speed: 10.5
+    direction: 144
+  engine:
+    engines:
+      main:
+        hours: 1188
+    hours: 1188
+  vhf: "16"
+  crewNames:
+    - bergie
+    - ihmis-suski
+  category: navigation
+- datetime: 2026-09-01T21:55:52.800Z
+  text: Switched ship's time to Niue time zone, UTC-11
+  author: bergie
+  origin: manual
+  position:
+    latitude: -18.8213316
+    longitude: -163.0175128
+    source: GPS
+  heading: 271
+  course: 276
+  speed:
+    stw: 4.3
+    sog: 4.3
+  log: 568.6
+  waypoint:
+    latitude: -18.946837
+    longitude: -169.84751
+  barometer: 1019.01
+  wind:
+    speed: 11.7
+    direction: 137
+  engine:
+    engines:
+      main:
+        hours: 1188
+    hours: 1188
+  vhf: "16"
+  crewNames:
+    - bergie
+    - ihmis-suski
+  category: navigation
+- datetime: 2026-09-01T22:00:22.796Z
+  text: Watch schedule stopped
+  author: ""
+  origin: auto
+  position:
+    latitude: -18.8210393
+    longitude: -163.0232046
+    source: GPS
+  heading: 265
+  course: 268
+  speed:
+    stw: 4.2
+    sog: 4.6
+  log: 568.9
+  waypoint:
+    latitude: -18.946837
+    longitude: -169.84751
+  barometer: 1018.93
+  wind:
+    speed: 11.6
+    direction: 139
+  engine:
+    engines:
+      main:
+        hours: 1188
+    hours: 1188
+  vhf: "16"
+  crewNames:
+    - bergie
+    - ihmis-suski
+  category: navigation
