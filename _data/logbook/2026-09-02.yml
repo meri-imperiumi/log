@@ -155,7 +155,7 @@
   category: navigation
 - datetime: 2026-09-02T05:00:20.000Z
   text: bergie on watch
-  author: ""
+  author: bergie
   origin: auto
   position:
     latitude: -18.8407821
@@ -184,3 +184,7 @@
     - bergie
     - ihmis-suski
   category: navigation
+  observations:
+    seaState: 3
+    cloudCoverage: 4
+    visibility: 7
