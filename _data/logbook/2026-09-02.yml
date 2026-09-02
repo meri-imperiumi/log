@@ -780,3 +780,66 @@
   crewNames:
     - bergie
     - ihmis-suski
+  category: navigation
+- datetime: 2026-09-02T20:15:39.699Z
+  text: "Started watermaker "
+  author: bergie
+  origin: manual
+  position:
+    latitude: -18.7780956
+    longitude: -165.0334425
+    source: GPS
+  heading: 271
+  course: 271
+  speed:
+    stw: 5.3
+    sog: 5.6
+  log: 685.2
+  waypoint:
+    latitude: -18.944765
+    longitude: -169.851749
+  barometer: 1020.92
+  wind:
+    speed: 18.5
+    direction: 134
+  engine:
+    engines:
+      main:
+        hours: 1188
+    hours: 1188
+  vhf: "16"
+  crewNames:
+    - bergie
+    - ihmis-suski
+  category: maintenance
+- datetime: 2026-09-02T20:22:25.702Z
+  text: "Sails set: Main (1st reef), Genoa 1 (40% furled)"
+  author: ""
+  origin: auto
+  position:
+    latitude: -18.776572481791177
+    longitude: -165.04528733094534
+    source: GPS
+  heading: 266
+  course: 283
+  speed:
+    stw: 4.7
+    sog: 6
+  log: 685.9
+  waypoint:
+    latitude: -18.944765
+    longitude: -169.851749
+  barometer: 1021.01
+  wind:
+    speed: 19.7
+    direction: 132
+  engine:
+    engines:
+      main:
+        hours: 1188
+    hours: 1188
+  vhf: "16"
+  crewNames:
+    - bergie
+    - ihmis-suski
+  category: navigation
