@@ -218,3 +218,35 @@
   crewNames:
     - bergie
     - ihmis-suski
+  category: navigation
+- datetime: 2026-09-02T06:51:19.100Z
+  text: "Sails set: Main (1st reef), Genoa 1 (30% furled)"
+  author: ""
+  origin: auto
+  position:
+    latitude: -18.8479886
+    longitude: -163.7937828
+    source: GPS
+  heading: 270
+  course: 277
+  speed:
+    stw: 5.4
+    sog: 7
+  log: 613.2
+  waypoint:
+    latitude: -18.946837
+    longitude: -169.84751
+  barometer: 1018.66
+  wind:
+    speed: 19.5
+    direction: 149
+  engine:
+    engines:
+      main:
+        hours: 1188
+    hours: 1188
+  vhf: "16"
+  crewNames:
+    - bergie
+    - ihmis-suski
+  category: navigation
