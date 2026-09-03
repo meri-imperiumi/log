@@ -246,6 +246,7 @@
   crewNames:
     - bergie
     - ihmis-suski
+  category: navigation
 - datetime: 2026-09-03T05:00:18.899Z
   text: bergie on watch
   author: ""
@@ -277,3 +278,65 @@
     - bergie
     - ihmis-suski
   category: navigation
+- datetime: 2026-09-03T05:59:15.900Z
+  text: ""
+  author: ""
+  origin: auto
+  position:
+    latitude: -18.6147544
+    longitude: -165.9955613
+    source: GPS
+  heading: 249
+  course: 261
+  speed:
+    stw: 6
+    sog: 8.4
+  log: 741.4
+  waypoint:
+    latitude: -18.944765
+    longitude: -169.851749
+  barometer: 1019.08
+  wind:
+    speed: 25.2
+    direction: 122
+  engine:
+    engines:
+      main:
+        hours: 1188
+    hours: 1188
+  vhf: "16"
+  crewNames:
+    - bergie
+    - ihmis-suski
+  category: navigation
+- datetime: 2026-09-03T06:14:02.000Z
+  text: "Alarm: Water in the bilge (electrical.venus-input.1.stateNumber)"
+  author: ""
+  origin: auto
+  position:
+    latitude: -18.6136381
+    longitude: -166.0209256
+    source: GPS
+  heading: 267
+  course: 271
+  speed:
+    stw: 4.5
+    sog: 6.3
+  log: 742.9
+  waypoint:
+    latitude: -18.944765
+    longitude: -169.851749
+  barometer: 1019.19
+  wind:
+    speed: 19.5
+    direction: 130
+  engine:
+    engines:
+      main:
+        hours: 1188
+    hours: 1188
+  vhf: "16"
+  crewNames:
+    - bergie
+    - ihmis-suski
+  category: engine
