@@ -618,3 +618,66 @@
   crewNames:
     - bergie
     - ihmis-suski
+  category: navigation
+- datetime: 2026-09-03T13:59:50.099Z
+  text: ""
+  author: ""
+  origin: auto
+  position:
+    latitude: -18.557387669881184
+    longitude: -166.79449132283528
+    source: GPS
+  heading: 283
+  course: 267
+  speed:
+    stw: 4.9
+    sog: 7.6
+  log: 787.7
+  waypoint:
+    latitude: -18.944765
+    longitude: -169.851749
+  barometer: 1018.19
+  wind:
+    speed: 20.8
+    direction: 128
+  engine:
+    engines:
+      main:
+        hours: 1188
+    hours: 1188
+  vhf: "16"
+  crewNames:
+    - bergie
+    - ihmis-suski
+  category: navigation
+- datetime: 2026-09-03T14:08:50.099Z
+  text: Gothia Anti-Meridian passed!
+  author: ihmis-suski
+  origin: manual
+  position:
+    latitude: -18.5586479
+    longitude: -166.8091838
+    source: GPS
+  heading: 268
+  course: 245
+  speed:
+    stw: 5.3
+    sog: 5.1
+  log: 788.6
+  waypoint:
+    latitude: -18.944765
+    longitude: -169.851749
+  barometer: 1018.2
+  wind:
+    speed: 19.8
+    direction: 119
+  engine:
+    engines:
+      main:
+        hours: 1188
+    hours: 1188
+  vhf: "16"
+  crewNames:
+    - bergie
+    - ihmis-suski
+  category: navigation
