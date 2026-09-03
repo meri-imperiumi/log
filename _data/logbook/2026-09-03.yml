@@ -154,3 +154,65 @@
     - bergie
     - ihmis-suski
   category: maintenance
+- datetime: 2026-09-03T03:59:06.899Z
+  text: ""
+  author: ""
+  origin: auto
+  position:
+    latitude: -18.6448456
+    longitude: -165.790154
+    source: GPS
+  heading: 252
+  course: 259
+  speed:
+    stw: 5.6
+    sog: 6.5
+  log: 729.4
+  waypoint:
+    latitude: -18.944765
+    longitude: -169.851749
+  barometer: 1018.85
+  wind:
+    speed: 30.6
+    direction: 127
+  engine:
+    engines:
+      main:
+        hours: 1188
+    hours: 1188
+  vhf: "16"
+  crewNames:
+    - bergie
+    - ihmis-suski
+  category: navigation
+- datetime: 2026-09-03T03:59:06.899Z
+  text: Squall, gusting 31kn
+  author: bergie
+  origin: manual
+  position:
+    latitude: -18.6448456
+    longitude: -165.790154
+    source: GPS
+  heading: 252
+  course: 259
+  speed:
+    stw: 5.6
+    sog: 6.5
+  log: 729.4
+  waypoint:
+    latitude: -18.944765
+    longitude: -169.851749
+  barometer: 1018.85
+  wind:
+    speed: 30.6
+    direction: 127
+  engine:
+    engines:
+      main:
+        hours: 1188
+    hours: 1188
+  vhf: "16"
+  crewNames:
+    - bergie
+    - ihmis-suski
+  category: navigation
