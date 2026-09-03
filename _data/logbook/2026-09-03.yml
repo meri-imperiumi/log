@@ -432,3 +432,35 @@
   crewNames:
     - bergie
     - ihmis-suski
+  category: navigation
+- datetime: 2026-09-03T08:19:31.001Z
+  text: "That was the 4th squall above 32kn in as many hours "
+  author: bergie
+  origin: manual
+  position:
+    latitude: -18.5847683
+    longitude: -166.227393
+    source: GPS
+  heading: 278
+  course: 277
+  speed:
+    stw: 5.3
+    sog: 6.2
+  log: 755
+  waypoint:
+    latitude: -18.944765
+    longitude: -169.851749
+  barometer: 1019.97
+  wind:
+    speed: 19.8
+    direction: 124
+  engine:
+    engines:
+      main:
+        hours: 1188
+    hours: 1188
+  vhf: "16"
+  crewNames:
+    - bergie
+    - ihmis-suski
+  category: navigation
