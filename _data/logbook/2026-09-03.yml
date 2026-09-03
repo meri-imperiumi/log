@@ -743,71 +743,9 @@
     - bergie
     - ihmis-suski
   category: navigation
-- datetime: 2026-09-03T16:50:46.201Z
-  text: Autopilot activated
-  author: ""
-  origin: auto
-  position:
-    latitude: -18.5808253
-    longitude: -167.086701
-    source: GPS
-  heading: 262
-  course: 262
-  speed:
-    stw: 5.2
-    sog: 7.1
-  log: 804.5
-  waypoint:
-    latitude: -18.944765
-    longitude: -169.851749
-  barometer: 1018.29
-  wind:
-    speed: 21.3
-    direction: 117
-  engine:
-    engines:
-      main:
-        hours: 1188
-    hours: 1188
-  vhf: "16"
-  crewNames:
-    - bergie
-    - ihmis-suski
-  category: navigation
-- datetime: 2026-09-03T16:51:20.198Z
-  text: Autopilot deactivated
-  author: ""
-  origin: auto
-  position:
-    latitude: -18.5808938
-    longitude: -167.0877116
-    source: GPS
-  heading: 259
-  course: 265
-  speed:
-    stw: 4.9
-    sog: 6.8
-  log: 804.6
-  waypoint:
-    latitude: -18.944765
-    longitude: -169.851749
-  barometer: 1018.3
-  wind:
-    speed: 17.6
-    direction: 112
-  engine:
-    engines:
-      main:
-        hours: 1188
-    hours: 1188
-  vhf: "16"
-  crewNames:
-    - bergie
-    - ihmis-suski
-  category: navigation
 - datetime: 2026-09-03T17:00:20.198Z
   text: bergie on watch
-  author: ""
+  author: bergie
   origin: auto
   position:
     latitude: -18.5830668
@@ -836,3 +774,7 @@
     - bergie
     - ihmis-suski
   category: navigation
+  observations:
+    cloudCoverage: 3
+    seaState: 4
+    visibility: 7
