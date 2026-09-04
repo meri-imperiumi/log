@@ -750,3 +750,34 @@
   crewNames:
     - bergie
     - ihmis-suski
+  category: navigation
+- datetime: 2026-09-04T18:59:00.102Z
+  text: ""
+  author: ""
+  origin: auto
+  position:
+    latitude: -19.20903050104777
+    longitude: -169.33285217285157
+    source: GPS
+  heading: 229
+  course: 238
+  speed:
+    stw: 4.6
+    sog: 6.1
+  log: 941.9
+  waypoint:
+    latitude: -19.161562
+    longitude: -169.877279
+  barometer: 1017.22
+  wind:
+    speed: 12.5
+    direction: 96
+  engine:
+    engines:
+      main:
+        hours: 1188
+    hours: 1188
+  vhf: "16"
+  crewNames:
+    - bergie
+    - ihmis-suski
