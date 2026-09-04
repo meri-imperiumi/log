@@ -436,3 +436,35 @@
   crewNames:
     - bergie
     - ihmis-suski
+  category: navigation
+- datetime: 2026-09-04T09:57:30.899Z
+  text: Genoa back to port tack. Wind is a bit too light again
+  author: bergie
+  origin: manual
+  position:
+    latitude: -18.9303311
+    longitude: -168.5814656
+    source: GPS
+  heading: 249
+  course: 271
+  speed:
+    stw: 4.4
+    sog: 6.3
+  log: 894.2
+  waypoint:
+    latitude: -18.946852
+    longitude: -169.854812
+  barometer: 1018.34
+  wind:
+    speed: 13
+    direction: 124
+  engine:
+    engines:
+      main:
+        hours: 1188
+    hours: 1188
+  vhf: "16"
+  crewNames:
+    - bergie
+    - ihmis-suski
+  category: navigation
