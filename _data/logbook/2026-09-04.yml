@@ -844,3 +844,35 @@
     - bergie
     - ihmis-suski
   category: navigation
+- datetime: 2026-09-04T19:54:03.097Z
+  text: We just exited the Marine Protected Area where we've been continuously
+    since leaving Aitutaki
+  author: bergie
+  origin: manual
+  position:
+    latitude: -19.2136158
+    longitude: -169.3923531
+    source: GPS
+  heading: 284
+  course: 257
+  speed:
+    stw: 4.2
+    sog: 3.5
+  log: 946
+  waypoint:
+    latitude: -19.161467
+    longitude: -169.878561
+  barometer: 1017.24
+  wind:
+    speed: 10.9
+    direction: 90
+  engine:
+    engines:
+      main:
+        hours: 1188
+    hours: 1188
+  vhf: "16"
+  crewNames:
+    - bergie
+    - ihmis-suski
+  category: navigation
