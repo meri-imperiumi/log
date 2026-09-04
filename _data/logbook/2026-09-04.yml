@@ -720,3 +720,33 @@
     seaState: 3
     cloudCoverage: 3
     visibility: 7
+- datetime: 2026-09-04T17:59:54.099Z
+  text: ""
+  author: ""
+  origin: auto
+  position:
+    latitude: -19.1551476
+    longitude: -169.2628624
+    source: GPS
+  heading: 233
+  course: 223
+  speed:
+    stw: 4.3
+    sog: 5.2
+  log: 936.7
+  waypoint:
+    latitude: -19.171745
+    longitude: -169.88147
+  barometer: 1016.95
+  wind:
+    speed: 12.4
+    direction: 109
+  engine:
+    engines:
+      main:
+        hours: 1188
+    hours: 1188
+  vhf: "16"
+  crewNames:
+    - bergie
+    - ihmis-suski
