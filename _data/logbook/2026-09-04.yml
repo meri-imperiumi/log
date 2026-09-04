@@ -813,3 +813,34 @@
     - bergie
     - ihmis-suski
   category: navigation
+- datetime: 2026-09-04T19:42:02.099Z
+  text: Trying wing on wing with this swell direction
+  author: bergie
+  origin: manual
+  position:
+    latitude: -19.2170976
+    longitude: -169.3778763
+    source: GPS
+  heading: 268
+  course: 245
+  speed:
+    stw: 4
+    sog: 4.8
+  log: 945.2
+  waypoint:
+    latitude: -19.161467
+    longitude: -169.878561
+  barometer: 1017.32
+  wind:
+    speed: 10.7
+    direction: 84
+  engine:
+    engines:
+      main:
+        hours: 1188
+    hours: 1188
+  vhf: "16"
+  crewNames:
+    - bergie
+    - ihmis-suski
+  category: navigation
