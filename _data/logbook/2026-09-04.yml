@@ -90,3 +90,98 @@
   crewNames:
     - bergie
     - ihmis-suski
+  category: navigation
+- datetime: 2026-09-04T02:59:29.800Z
+  text: ""
+  author: ""
+  origin: auto
+  position:
+    latitude: -18.7858828
+    longitude: -167.9968913
+    source: GPS
+  heading: 230
+  course: 235
+  speed:
+    stw: 3.2
+    sog: 3.1
+  log: 858.5
+  waypoint:
+    latitude: -19.176665
+    longitude: -169.887155
+  barometer: 1016.49
+  wind:
+    speed: 12.8
+    direction: 116
+  engine:
+    engines:
+      main:
+        hours: 1188
+    hours: 1188
+  vhf: "16"
+  crewNames:
+    - bergie
+    - ihmis-suski
+  category: navigation
+- datetime: 2026-09-04T03:00:51.800Z
+  text: "Sails set: Main, Genoa 1. Not enough wind for wing on wing in this sea
+    state"
+  author: bergie
+  origin: auto
+  position:
+    latitude: -18.7866588
+    longitude: -167.998793
+    source: GPS
+  heading: 248
+  course: 270
+  speed:
+    stw: 4.6
+    sog: 4.9
+  log: 858.6
+  waypoint:
+    latitude: -19.176665
+    longitude: -169.887155
+  barometer: 1016.5
+  wind:
+    speed: 13
+    direction: 118
+  engine:
+    engines:
+      main:
+        hours: 1188
+    hours: 1188
+  vhf: "16"
+  crewNames:
+    - bergie
+    - ihmis-suski
+  category: navigation
+- datetime: 2026-09-04T03:03:31.800Z
+  text: Stopped watermaker, 208ppm
+  author: bergie
+  origin: manual
+  position:
+    latitude: -18.7882654
+    longitude: -168.0027301
+    source: GPS
+  heading: 238
+  course: 237
+  speed:
+    stw: 4.3
+    sog: 5.9
+  log: 858.8
+  waypoint:
+    latitude: -19.176665
+    longitude: -169.887155
+  barometer: 1016.45
+  wind:
+    speed: 10.8
+    direction: 105
+  engine:
+    engines:
+      main:
+        hours: 1188
+    hours: 1188
+  vhf: "16"
+  crewNames:
+    - bergie
+    - ihmis-suski
+  category: maintenance
