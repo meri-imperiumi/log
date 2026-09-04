@@ -246,9 +246,10 @@
   crewNames:
     - bergie
     - ihmis-suski
+  category: navigation
 - datetime: 2026-09-04T05:00:13.800Z
   text: bergie on watch
-  author: ""
+  author: bergie
   origin: auto
   position:
     latitude: -18.8633474
@@ -277,3 +278,7 @@
     - bergie
     - ihmis-suski
   category: navigation
+  observations:
+    seaState: 4
+    cloudCoverage: 2
+    visibility: 7
