@@ -1030,3 +1030,36 @@
   crewNames:
     - bergie
     - ihmis-suski
+  category: navigation
+- datetime: 2026-09-04T22:25:11.603Z
+  text: We've had crackling on the radio for a while, but now we can hear Niue
+    Radio calling SV Surya
+  author: bergie
+  origin: manual
+  position:
+    latitude: -19.2259688
+    longitude: -169.5118121
+    source: GPS
+  heading: 232
+  course: 240
+  speed:
+    stw: 3.4
+    sog: 3.9
+  log: 954.5
+  waypoint:
+    latitude: -19.161467
+    longitude: -169.878561
+  barometer: 1016.19
+  wind:
+    speed: 8.3
+    direction: 103
+  engine:
+    engines:
+      main:
+        hours: 1188
+    hours: 1188
+  vhf: "16"
+  crewNames:
+    - bergie
+    - ihmis-suski
+  category: radio
