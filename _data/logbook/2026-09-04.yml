@@ -906,3 +906,35 @@
   crewNames:
     - bergie
     - ihmis-suski
+  category: navigation
+- datetime: 2026-09-04T20:30:04.499Z
+  text: Nope, not enough wind for wing on wing
+  author: bergie
+  origin: manual
+  position:
+    latitude: -19.1994294
+    longitude: -169.422375
+    source: GPS
+  heading: 335
+  course: 334
+  speed:
+    stw: 4.1
+    sog: 4
+  log: 948
+  waypoint:
+    latitude: -19.161467
+    longitude: -169.878561
+  barometer: 1017.58
+  wind:
+    speed: 9.7
+    direction: 107
+  engine:
+    engines:
+      main:
+        hours: 1188
+    hours: 1188
+  vhf: "16"
+  crewNames:
+    - bergie
+    - ihmis-suski
+  category: navigation
