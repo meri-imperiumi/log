@@ -1063,3 +1063,69 @@
     - bergie
     - ihmis-suski
   category: radio
+- datetime: 2026-09-04T22:46:12.601Z
+  text: Land in sight!
+  author: ihmis-suski
+  origin: manual
+  position:
+    latitude: -19.2312219
+    longitude: -169.5331956
+    source: GPS
+  heading: 250
+  course: 271
+  speed:
+    stw: 3.9
+    sog: 4.4
+  log: 955.8
+  waypoint:
+    latitude: -19.161467
+    longitude: -169.878561
+  barometer: 1015.74
+  wind:
+    speed: 10.7
+    direction: 111
+  engine:
+    engines:
+      main:
+        hours: 1188
+    hours: 1188
+  vhf: "16"
+  crewNames:
+    - bergie
+    - ihmis-suski
+  category: navigation
+  observations:
+    seaState: 4
+    cloudCoverage: 2
+    visibility: 8
+- datetime: 2026-09-04T23:00:14.598Z
+  text: ihmis-suski on watch
+  author: ""
+  origin: auto
+  position:
+    latitude: -19.2308448
+    longitude: -169.5480753
+    source: GPS
+  heading: 257
+  course: 305
+  speed:
+    stw: 3.5
+    sog: 3.8
+  log: 956.6
+  waypoint:
+    latitude: -19.161467
+    longitude: -169.878561
+  barometer: 1015.67
+  wind:
+    speed: 8.7
+    direction: 123
+  engine:
+    engines:
+      main:
+        hours: 1188
+    hours: 1188
+  vhf: "16"
+  crewNames:
+    - bergie
+    - ihmis-suski
+  category: navigation
