@@ -184,3 +184,35 @@
   crewNames:
     - bergie
     - ihmis-suski
+  category: navigation
+- datetime: 2026-09-05T04:40:17.699Z
+  text: "Once more with a feeling: wing on wing"
+  author: bergie
+  origin: manual
+  position:
+    latitude: -19.1310798
+    longitude: -169.9439541
+    source: GPS
+  heading: 341
+  course: 350
+  speed:
+    stw: 4.1
+    sog: 4.7
+  log: 982.6
+  waypoint:
+    latitude: -19.074166
+    longitude: -169.95777
+  barometer: 1014.53
+  wind:
+    speed: 11
+    direction: 140
+  engine:
+    engines:
+      main:
+        hours: 1188
+    hours: 1188
+  vhf: "11"
+  crewNames:
+    - bergie
+    - ihmis-suski
+  category: navigation
