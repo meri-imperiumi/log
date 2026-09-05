@@ -29,3 +29,128 @@
     - bergie
     - ihmis-suski
   category: navigation
+- datetime: 2026-09-05T00:12:41.319Z
+  text: "Cleared after 121 h 56 min: No usable signal, 2 transitions"
+  author: ""
+  origin: auto
+  position:
+    latitude: -19.2127733
+    longitude: -169.6425176
+    source: GPS
+  heading: 286
+  course: 307
+  speed:
+    stw: 4.4
+    sog: 4.8
+  log: 962.2
+  waypoint:
+    latitude: -19.161088
+    longitude: -169.880779
+  barometer: 1014.95
+  wind:
+    speed: 11.1
+    direction: 153
+  engine:
+    engines:
+      main:
+        hours: 1188
+    hours: 1188
+  vhf: "11"
+  crewNames:
+    - bergie
+    - ihmis-suski
+  category: navigation
+- datetime: 2026-09-05T00:12:41.322Z
+  text: "Cleared after 123 h 10 min: No service, 2 transitions"
+  author: ""
+  origin: auto
+  position:
+    latitude: -19.2127733
+    longitude: -169.6425176
+    source: GPS
+  heading: 286
+  course: 307
+  speed:
+    stw: 4.4
+    sog: 4.8
+  log: 962.2
+  waypoint:
+    latitude: -19.161088
+    longitude: -169.880779
+  barometer: 1014.95
+  wind:
+    speed: 11.1
+    direction: 153
+  engine:
+    engines:
+      main:
+        hours: 1188
+    hours: 1188
+  vhf: "11"
+  crewNames:
+    - bergie
+    - ihmis-suski
+  category: navigation
+- datetime: 2026-09-05T00:12:41.323Z
+  text: "Cleared after 124 h 2 min: No service, 2 transitions"
+  author: ""
+  origin: auto
+  position:
+    latitude: -19.2127733
+    longitude: -169.6425176
+    source: GPS
+  heading: 286
+  course: 307
+  speed:
+    stw: 4.4
+    sog: 4.8
+  log: 962.2
+  waypoint:
+    latitude: -19.161088
+    longitude: -169.880779
+  barometer: 1014.95
+  wind:
+    speed: 11.1
+    direction: 153
+  engine:
+    engines:
+      main:
+        hours: 1188
+    hours: 1188
+  vhf: "11"
+  crewNames:
+    - bergie
+    - ihmis-suski
+  category: navigation
+- datetime: 2026-09-05T00:16:26.600Z
+  text: "Checked in with Niue Radio and gave them our details and ETA. Were told
+    to stand by on 16 to hear immigration scheduling "
+  author: bergie
+  origin: manual
+  position:
+    latitude: -19.2140186
+    longitude: -169.6398775
+    source: GPS
+  heading: 274
+  course: 294
+  speed:
+    stw: 4
+    sog: 4.6
+  log: 962
+  waypoint:
+    latitude: -19.161088
+    longitude: -169.880779
+  barometer: 1014.95
+  wind:
+    speed: 10.4
+    direction: 157
+  engine:
+    engines:
+      main:
+        hours: 1188
+    hours: 1188
+  vhf: "16"
+  crewNames:
+    - bergie
+    - ihmis-suski
+  category: radio
