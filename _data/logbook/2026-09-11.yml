@@ -343,3 +343,34 @@
     seaState: 4
     cloudCoverage: 6
     visibility: 7
+- datetime: 2026-09-11T22:44:23.200Z
+  text: "Sails set: Main (1st reef), Staysail"
+  author: ""
+  origin: auto
+  position:
+    latitude: -19.1597854
+    longitude: -170.2165796
+    source: GPS
+  heading: 286
+  course: 313
+  speed:
+    stw: 3.6
+    sog: 3.6
+  log: 388
+  waypoint:
+    latitude: -19.201908
+    longitude: -170.279321
+  barometer: 1012.99
+  wind:
+    speed: 15.3
+    direction: 208
+  engine:
+    engines:
+      main:
+        hours: 1188.7
+    hours: 1188.7
+  vhf: "16"
+  crewNames:
+    - bergie
+    - ihmis-suski
+  category: navigation
