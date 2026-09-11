@@ -405,3 +405,35 @@
     - bergie
     - ihmis-suski
   category: navigation
+- datetime: 2026-09-11T23:15:48.300Z
+  text: "Pan pan pan from Could Be Worse at Niue mooring field, heading into the
+    reef. Niue Radio responded "
+  author: bergie
+  origin: manual
+  position:
+    latitude: -19.1475168
+    longitude: -170.2401811
+    source: GPS
+  heading: 294
+  course: 279
+  speed:
+    stw: 2.1
+    sog: 2.2
+  log: 389.5
+  waypoint:
+    latitude: -19.201908
+    longitude: -170.279321
+  barometer: 1012.7
+  wind:
+    speed: 16.6
+    direction: 202
+  engine:
+    engines:
+      main:
+        hours: 1188.7
+    hours: 1188.7
+  vhf: "16"
+  crewNames:
+    - bergie
+    - ihmis-suski
+  category: radio
