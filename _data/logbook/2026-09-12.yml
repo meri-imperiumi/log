@@ -1000,7 +1000,7 @@
   category: maintenance
 - datetime: 2026-09-12T23:00:13.100Z
   text: bergie on watch
-  author: ""
+  author: bergie
   origin: auto
   position:
     latitude: -18.5954895
@@ -1029,6 +1029,10 @@
     - bergie
     - ihmis-suski
   category: navigation
+  observations:
+    seaState: 3
+    cloudCoverage: 1
+    visibility: 7
 - datetime: 2026-09-12T23:04:53.100Z
   text: Watermaker 380ppm
   author: bergie
