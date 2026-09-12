@@ -1,0 +1,33 @@
+- datetime: 2026-09-12T00:21:06.300Z
+  text: Niue Radio just called all sailing vessels in harbour. I assume they'll be
+    told to move to the lee of the island. They're not unloading the supply ship
+    today either
+  author: bergie
+  origin: manual
+  position:
+    latitude: -19.1232056
+    longitude: -170.2926911
+    source: GPS
+  heading: 287
+  course: 287
+  speed:
+    stw: 4.5
+    sog: 4.2
+  log: 392.9
+  waypoint:
+    latitude: -19.201908
+    longitude: -170.279321
+  barometer: 1012.2
+  wind:
+    speed: 21.7
+    direction: 211
+  engine:
+    engines:
+      main:
+        hours: 1188.7
+    hours: 1188.7
+  vhf: "16"
+  crewNames:
+    - bergie
+    - ihmis-suski
+  category: radio
