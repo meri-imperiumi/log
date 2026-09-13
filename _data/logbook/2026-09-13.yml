@@ -90,3 +90,70 @@
   crewNames:
     - bergie
     - ihmis-suski
+  category: navigation
+- datetime: 2026-09-13T02:28:52.200Z
+  text: Stopped watermaker, 214ppm
+  author: bergie
+  origin: manual
+  position:
+    latitude: -18.6131671
+    longitude: -171.9820068
+    source: GPS
+  heading: 260
+  course: 279
+  speed:
+    stw: 4.6
+    sog: 4.2
+  log: 497
+  waypoint:
+    latitude: -18.544028
+    longitude: -173.96508
+  barometer: 1013.14
+  wind:
+    speed: 10.6
+    direction: 164
+  engine:
+    engines:
+      main:
+        hours: 1188.7
+    hours: 1188.7
+  vhf: "16"
+  crewNames:
+    - bergie
+    - ihmis-suski
+  category: maintenance
+- datetime: 2026-09-13T02:38:52.200Z
+  text: Halfway point, 128NM behind, 128NM to go. Bearing to SV Matilda 102°M
+  author: bergie
+  origin: manual
+  position:
+    latitude: -18.6140059
+    longitude: -171.9953586
+    source: GPS
+  heading: 245
+  course: 248
+  speed:
+    stw: 4.4
+    sog: 4.9
+  log: 497.7
+  waypoint:
+    latitude: -18.544028
+    longitude: -173.96508
+  barometer: 1013
+  wind:
+    speed: 11.4
+    direction: 153
+  engine:
+    engines:
+      main:
+        hours: 1188.7
+    hours: 1188.7
+  vhf: "16"
+  crewNames:
+    - bergie
+    - ihmis-suski
+  category: navigation
+  observations:
+    seaState: 4
+    cloudCoverage: 4
+    visibility: 7
