@@ -473,3 +473,34 @@
     - bergie
     - ihmis-suski
   category: navigation
+- datetime: 2026-09-13T11:28:39.699Z
+  text: "Sails set: Main, Genoa 1 (10% furled)"
+  author: ""
+  origin: auto
+  position:
+    latitude: -18.6708248
+    longitude: -172.6569268
+    source: GPS
+  heading: 256
+  course: 258
+  speed:
+    stw: 4.6
+    sog: 5.8
+  log: 536.5
+  waypoint:
+    latitude: -18.554413
+    longitude: -173.9634
+  barometer: 1015.44
+  wind:
+    speed: 15.9
+    direction: 133
+  engine:
+    engines:
+      main:
+        hours: 1188.7
+    hours: 1188.7
+  vhf: "16"
+  crewNames:
+    - bergie
+    - ihmis-suski
+  category: navigation
