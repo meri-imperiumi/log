@@ -448,7 +448,8 @@
   origin: manual
   category: navigation
 - datetime: 2026-09-13T11:00:03.699Z
-  text: bergie on watch. Switched ship's time to UTC+13
+  text: bergie on watch. Switched ship's time to UTC+13. We left Sunday behind in
+    the Tonga Trench
   author: bergie
   origin: auto
   position:
@@ -902,6 +903,72 @@
   wind:
     speed: 17.3
     direction: 139
+  engine:
+    engines:
+      main:
+        hours: 1188.7
+    hours: 1188.7
+  vhf: "16"
+  crewNames:
+    - bergie
+    - ihmis-suski
+  category: navigation
+- datetime: 2026-09-13T22:52:29.401Z
+  text: Finally enough wind for wing on wing
+  author: ihmis-suski
+  origin: manual
+  position:
+    latitude: -18.714668655395506
+    longitude: -173.57043298085532
+    source: GPS
+  heading: 291
+  course: 311
+  speed:
+    stw: 4.7
+    sog: 5.8
+  log: 590.1
+  waypoint:
+    latitude: -18.69723
+    longitude: -173.712578
+  barometer: 1016.16
+  wind:
+    speed: 16.1
+    direction: 139
+  engine:
+    engines:
+      main:
+        hours: 1188.7
+    hours: 1188.7
+  vhf: "16"
+  crewNames:
+    - bergie
+    - ihmis-suski
+  category: navigation
+  observations:
+    seaState: 4
+    cloudCoverage: 2
+    visibility: 7
+- datetime: 2026-09-13T23:00:26.400Z
+  text: bergie on watch
+  author: ""
+  origin: auto
+  position:
+    latitude: -18.7067628
+    longitude: -173.5818018
+    source: GPS
+  heading: 292
+  course: 310
+  speed:
+    stw: 5
+    sog: 5.9
+  log: 590.9
+  waypoint:
+    latitude: -18.569778
+    longitude: -173.932198
+  barometer: 1016.11
+  wind:
+    speed: 19.1
+    direction: 142
   engine:
     engines:
       main:
