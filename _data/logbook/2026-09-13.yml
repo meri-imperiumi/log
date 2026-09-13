@@ -950,7 +950,7 @@
     visibility: 7
 - datetime: 2026-09-13T23:00:26.400Z
   text: bergie on watch
-  author: ""
+  author: bergie
   origin: auto
   position:
     latitude: -18.7067628
@@ -969,6 +969,41 @@
   wind:
     speed: 19.1
     direction: 142
+  engine:
+    engines:
+      main:
+        hours: 1188.7
+    hours: 1188.7
+  vhf: "16"
+  crewNames:
+    - bergie
+    - ihmis-suski
+  category: navigation
+  observations:
+    seaState: 4
+    cloudCoverage: 5
+    visibility: 7
+- datetime: 2026-09-13T23:12:38.400Z
+  text: Land ahoy! Can see what's likely the NE tip of Vava'u
+  author: bergie
+  origin: manual
+  position:
+    latitude: -18.6951578
+    longitude: -173.599508
+    source: GPS
+  heading: 284
+  course: 302
+  speed:
+    stw: 4.7
+    sog: 6.5
+  log: 592.1
+  waypoint:
+    latitude: -18.569778
+    longitude: -173.932198
+  barometer: 1015.98
+  wind:
+    speed: 21
+    direction: 136
   engine:
     engines:
       main:
