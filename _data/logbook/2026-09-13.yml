@@ -373,3 +373,72 @@
   crewNames:
     - bergie
     - ihmis-suski
+  category: navigation
+- datetime: 2026-09-13T09:59:06.700Z
+  text: ""
+  author: ""
+  origin: auto
+  position:
+    latitude: -18.6532356
+    longitude: -172.5523853
+    source: GPS
+  heading: 247
+  course: 263
+  speed:
+    stw: 4.3
+    sog: 4.9
+  log: 530.4
+  waypoint:
+    latitude: -18.554413
+    longitude: -173.9634
+  barometer: 1015.67
+  wind:
+    speed: 12.5
+    direction: 136
+  engine:
+    engines:
+      main:
+        hours: 1188.7
+    hours: 1188.7
+  vhf: "16"
+  crewNames:
+    - bergie
+    - ihmis-suski
+  category: navigation
+- datetime: 2026-09-13T10:11:09.699Z
+  text: "We are sailing over the Tonga Trench. It is the deepest trench in the
+    southern hemisphere and the second deepest on Earth after the Mariana
+    Trench. "
+  author: ihmis-suski
+  origin: manual
+  position:
+    latitude: -18.6553536
+    longitude: -172.5650048
+    source: GPS
+  heading: 258
+  course: 262
+  speed:
+    stw: 4.4
+    sog: 4.5
+  log: 531.1
+  waypoint:
+    latitude: -18.554413
+    longitude: -173.9634
+  barometer: 1015.65
+  wind:
+    speed: 11.9
+    direction: 134
+  engine:
+    engines:
+      main:
+        hours: 1188.7
+    hours: 1188.7
+  vhf: "16"
+  crewNames:
+    - bergie
+    - ihmis-suski
+  category: navigation
+  observations:
+    seaState: 3
+    cloudCoverage: 8
+    visibility: 7
