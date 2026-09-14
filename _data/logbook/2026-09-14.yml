@@ -419,3 +419,65 @@
     - bergie
     - ihmis-suski
   category: navigation
+- datetime: 2026-09-14T18:01:49.497Z
+  text: Anchor up, motoring
+  author: ""
+  origin: auto
+  position:
+    latitude: -18.6239266
+    longitude: -174.0320678
+    source: GPS
+  heading: 309
+  course: 325
+  speed:
+    stw: 0
+    sog: 0.9
+  log: 622.1
+  waypoint:
+    latitude: -18.623582
+    longitude: -174.030501
+  barometer: 1015.73
+  wind:
+    speed: 2.3
+    direction: 246
+  engine:
+    engines:
+      main:
+        hours: 1189.9
+    hours: 1189.9
+  vhf: "16"
+  crewNames:
+    - bergie
+    - ihmis-suski
+  category: navigation
+- datetime: 2026-09-14T18:08:23.500Z
+  text: Motor stopped, sailing with Main (1st reef), Staysail
+  author: ""
+  origin: auto
+  position:
+    latitude: -18.6201419
+    longitude: -174.0359343
+    source: GPS
+  heading: 289
+  course: 291
+  speed:
+    stw: 2.2
+    sog: 2.8
+  log: 622.4
+  waypoint:
+    latitude: -18.617769
+    longitude: -174.047696
+  barometer: 1015.75
+  wind:
+    speed: 6.7
+    direction: 163
+  engine:
+    engines:
+      main:
+        hours: 1190
+    hours: 1190
+  vhf: "16"
+  crewNames:
+    - bergie
+    - ihmis-suski
+  category: navigation
