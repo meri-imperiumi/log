@@ -697,3 +697,35 @@
   crewNames:
     - bergie
     - ihmis-suski
+  category: navigation
+- datetime: 2026-09-14T21:39:16.499Z
+  text: Sails down, motoring
+  author: ""
+  origin: auto
+  position:
+    latitude: -18.6556421
+    longitude: -174.0047698
+    source: GPS
+  heading: 40
+  course: 39
+  speed:
+    stw: 2.7
+    sog: 3
+  log: 633.1
+  waypoint:
+    latitude: -18.652695
+    longitude: -173.999069
+  barometer: 1016.81
+  wind:
+    speed: 8.4
+    direction: 106
+  engine:
+    engines:
+      main:
+        hours: 1190
+    hours: 1190
+  vhf: "16"
+  crewNames:
+    - bergie
+    - ihmis-suski
+  category: navigation
