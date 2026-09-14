@@ -90,3 +90,35 @@
   crewNames:
     - bergie
     - ihmis-suski
+  category: navigation
+- datetime: 2026-09-14T02:43:11.400Z
+  text: Back to port tack, rounding Vava'u from the north
+  author: bergie
+  origin: manual
+  position:
+    latitude: -18.5416441
+    longitude: -173.9142043
+    source: GPS
+  heading: 266
+  course: 276
+  speed:
+    stw: 4.7
+    sog: 6.5
+  log: 612.5
+  waypoint:
+    latitude: -18.569778
+    longitude: -173.932198
+  barometer: 1014.96
+  wind:
+    speed: 17.4
+    direction: 131
+  engine:
+    engines:
+      main:
+        hours: 1188.7
+    hours: 1188.7
+  vhf: "16"
+  crewNames:
+    - bergie
+    - ihmis-suski
+  category: navigation
