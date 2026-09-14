@@ -122,3 +122,65 @@
     - bergie
     - ihmis-suski
   category: navigation
+- datetime: 2026-09-14T02:59:45.500Z
+  text: ""
+  author: ""
+  origin: auto
+  position:
+    latitude: -18.5456726
+    longitude: -173.9417964
+    source: GPS
+  heading: 250
+  course: 258
+  speed:
+    stw: 5.1
+    sog: 6.4
+  log: 614.1
+  waypoint:
+    latitude: -18.563358
+    longitude: -173.972695
+  barometer: 1014.81
+  wind:
+    speed: 18.3
+    direction: 134
+  engine:
+    engines:
+      main:
+        hours: 1188.7
+    hours: 1188.7
+  vhf: "16"
+  crewNames:
+    - bergie
+    - ihmis-suski
+  category: navigation
+- datetime: 2026-09-14T03:10:57.500Z
+  text: Pumped the bilge
+  author: bergie
+  origin: manual
+  position:
+    latitude: -18.5484358
+    longitude: -173.9611138
+    source: GPS
+  heading: 254
+  course: 256
+  speed:
+    stw: 4.3
+    sog: 4.9
+  log: 615.2
+  waypoint:
+    latitude: -18.563358
+    longitude: -173.972695
+  barometer: 1014.86
+  wind:
+    speed: 14.9
+    direction: 132
+  engine:
+    engines:
+      main:
+        hours: 1188.7
+    hours: 1188.7
+  vhf: "16"
+  crewNames:
+    - bergie
+    - ihmis-suski
+  category: navigation
