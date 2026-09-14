@@ -481,3 +481,65 @@
     - bergie
     - ihmis-suski
   category: navigation
+- datetime: 2026-09-14T18:59:43.500Z
+  text: ""
+  author: ""
+  origin: auto
+  position:
+    latitude: -18.6201083
+    longitude: -174.0659398
+    source: GPS
+  heading: 228
+  course: 237
+  speed:
+    stw: 0
+    sog: 1.3
+  log: 624.2
+  waypoint:
+    latitude: -18.629829
+    longitude: -174.06979
+  barometer: 1016.24
+  wind:
+    speed: 8.4
+    direction: 60
+  engine:
+    engines:
+      main:
+        hours: 1190
+    hours: 1190
+  vhf: "16"
+  crewNames:
+    - bergie
+    - ihmis-suski
+  category: navigation
+- datetime: 2026-09-14T19:03:40.499Z
+  text: Whales ahead!
+  author: bergie
+  origin: manual
+  position:
+    latitude: -18.6203065
+    longitude: -174.0671556
+    source: GPS
+  heading: 255
+  course: 320
+  speed:
+    stw: 0
+    sog: 0.6
+  log: 624.3
+  waypoint:
+    latitude: -18.629829
+    longitude: -174.06979
+  barometer: 1016.34
+  wind:
+    speed: 2.5
+    direction: 222
+  engine:
+    engines:
+      main:
+        hours: 1190
+    hours: 1190
+  vhf: "16"
+  crewNames:
+    - bergie
+    - ihmis-suski
+  category: navigation
