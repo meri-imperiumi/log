@@ -246,3 +246,32 @@
     - bergie
     - ihmis-suski
   category: navigation
+- datetime: 2026-09-14T04:40:43.500Z
+  text: Anchored
+  author: ""
+  origin: auto
+  position:
+    latitude: -18.6232891
+    longitude: -174.0293448
+    source: GPS
+  heading: 230
+  course: 305
+  speed:
+    stw: 0
+    sog: 0.7
+  log: 621.9
+  barometer: 1014.95
+  wind:
+    speed: 2.4
+    direction: 322
+  engine:
+    engines:
+      main:
+        hours: 1189.1
+    hours: 1189.1
+  vhf: "16"
+  crewNames:
+    - bergie
+    - ihmis-suski
+  end: true
+  category: navigation
