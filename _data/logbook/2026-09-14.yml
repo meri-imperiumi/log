@@ -605,3 +605,34 @@
     - bergie
     - ihmis-suski
   category: navigation
+- datetime: 2026-09-14T19:47:53.497Z
+  text: Brief radio call with No Regrets en route to Fiji. We'll meet in New Zealand
+  author: bergie
+  origin: manual
+  position:
+    latitude: -18.6367624
+    longitude: -174.078268
+    source: GPS
+  heading: 201
+  course: 198
+  speed:
+    stw: 3.4
+    sog: 4.3
+  log: 625.6
+  waypoint:
+    latitude: -18.666559
+    longitude: -174.073549
+  barometer: 1016.46
+  wind:
+    speed: 20.5
+    direction: 147
+  engine:
+    engines:
+      main:
+        hours: 1190
+    hours: 1190
+  vhf: "16"
+  crewNames:
+    - bergie
+    - ihmis-suski
+  category: radio
