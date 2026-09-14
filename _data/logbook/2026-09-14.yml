@@ -1,0 +1,31 @@
+- datetime: 2026-09-14T00:32:59.400Z
+  text: Inside Tongan waters
+  author: bergie
+  origin: manual
+  position:
+    latitude: -18.624917
+    longitude: -173.7156995
+    source: GPS
+  heading: 265
+  course: 284
+  speed:
+    stw: 5.3
+    sog: 7.4
+  log: 600
+  waypoint:
+    latitude: -18.569778
+    longitude: -173.932198
+  barometer: 1015.24
+  wind:
+    speed: 19.5
+    direction: 122
+  engine:
+    engines:
+      main:
+        hours: 1188.7
+    hours: 1188.7
+  vhf: "16"
+  crewNames:
+    - bergie
+    - ihmis-suski
+  category: navigation
