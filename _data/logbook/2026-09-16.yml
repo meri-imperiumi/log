@@ -1,0 +1,31 @@
+- datetime: 2026-09-16T01:58:23.200Z
+  text: Pumped the bilge
+  author: bergie
+  origin: manual
+  position:
+    latitude: -18.6582031
+    longitude: -173.9819414
+    source: GPS
+  heading: 155
+  course: 314
+  speed:
+    stw: 0
+    sog: 0
+  log: 635
+  waypoint:
+    latitude: -18.655059
+    longitude: -173.985877
+  barometer: 1011.43
+  wind:
+    speed: 5
+    direction: 110
+  engine:
+    engines:
+      main:
+        hours: 1191
+    hours: 1191
+  vhf: "9"
+  crewNames:
+    - bergie
+    - ihmis-suski
+  category: maintenance
