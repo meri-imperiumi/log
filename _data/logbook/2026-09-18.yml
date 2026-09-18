@@ -1,21 +1,22 @@
-- datetime: 2026-09-18T00:39:23.700Z
-  text: "Alarm: Water in the bilge (electrical.venus-input.1.stateNumber)"
-  author: ""
-  origin: auto
+- datetime: 2026-09-18T03:24:09.800Z
+  text: Changed the Seaflo pump used as the smaller bilge pump. Breaker of the big
+    pump had popped, it runs after retriggering it
+  author: bergie
+  origin: manual
   position:
-    latitude: -18.65823
-    longitude: -173.9820159
+    latitude: -18.6581668
+    longitude: -173.9819529
     source: GPS
-  heading: 95
-  course: 223
+  heading: 179
+  course: 90
   speed:
     stw: 0
-    sog: 0
+    sog: 0.1
   log: 635
-  barometer: 1013.95
+  barometer: 1013.1
   wind:
-    speed: 4.1
-    direction: 90
+    speed: 1.5
+    direction: 89
   engine:
     engines:
       main:
@@ -24,31 +25,4 @@
   crewNames:
     - bergie
     - ihmis-suski
-  category: engine
-- datetime: 2026-09-18T00:39:28.222Z
-  text: "Cleared after 3 s: Water in the bilge"
-  author: ""
-  origin: auto
-  position:
-    latitude: -18.6582401
-    longitude: -173.9820014
-    source: GPS
-  heading: 86
-  course: 138
-  speed:
-    stw: 0
-    sog: 0
-  log: 635
-  barometer: 1013.96
-  wind:
-    speed: 1.3
-    direction: 119
-  engine:
-    engines:
-      main:
-        hours: 1191
-    hours: 1191
-  crewNames:
-    - bergie
-    - ihmis-suski
-  category: engine
+  category: maintenance
