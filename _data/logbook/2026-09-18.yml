@@ -27,3 +27,33 @@
     - bergie
     - ihmis-suski
   category: maintenance
+- datetime: 2026-09-18T04:20:34.200Z
+  text: Wired small bilge pump via Cerbo relay 1, so it can be switched on
+    programmatically
+  author: bergie
+  origin: manual
+  position:
+    latitude: -18.6581743
+    longitude: -173.9819901
+    source: GPS
+  heading: 167
+  course: 97
+  speed:
+    stw: 0
+    sog: 0
+  log: 635
+  barometer: 1013.33
+  wind:
+    speed: 4.1
+    direction: 120
+  engine:
+    engines:
+      main:
+        hours: 1191
+    hours: 1191
+  crewNames:
+    - bergie
+    - ihmis-suski
+  category: maintenance
+  observations:
+    cloudCoverage: 2
