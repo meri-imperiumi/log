@@ -3,12 +3,12 @@
 {% capture track_name %}{{ current_year }}.json{% endcapture %}
 <section class="track">
   <div class="map" id="map_{{ current_year }}"></div>
-  <link href="https://unpkg.com/maplibre-gl@2.1.7/dist/maplibre-gl.css" rel="stylesheet" />
-  <script src="https://unpkg.com/maplibre-gl@2.1.7/dist/maplibre-gl.js"></script>
+  <link href="https://unpkg.com/maplibre-gl@5.24.0/dist/maplibre-gl.css" rel="stylesheet" />
+  <script src="https://unpkg.com/maplibre-gl@5.24.0/dist/maplibre-gl.js"></script>
   <script>
     const map{{ current_year }} = new maplibregl.Map({
       container: 'map_{{ current_year}}',
-      style: 'https://api.maptiler.com/maps/{{ site.map_style }}/style.json?key=BgltQL3i6kfpoIy9GMqW',
+      style: '{{ site.map_style }}',
       center: [{{ map_longitude}}, {{ map_latitude }}],
       zoom: 6,
       scrollZoom: false,

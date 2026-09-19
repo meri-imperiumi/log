@@ -1,12 +1,12 @@
   <div id="map"></div>
   <img id="boatmarker" src="{{site.baseurl}}/style/boat.png" style="width: 60px; height: 60px" alt="We are here">
-  <link href="https://unpkg.com/maplibre-gl@2.1.7/dist/maplibre-gl.css" rel="stylesheet" />
-  <script defer src="https://unpkg.com/maplibre-gl@2.1.7/dist/maplibre-gl.js"></script>
+  <link href="https://unpkg.com/maplibre-gl@5.24.0/dist/maplibre-gl.css" rel="stylesheet" />
+  <script defer src="https://unpkg.com/maplibre-gl@5.24.0/dist/maplibre-gl.js"></script>
   <script>
     window.addEventListener('DOMContentLoaded', function() {
       const map = new maplibregl.Map({
         container: 'map',
-        style: 'https://api.maptiler.com/maps/landscape/style.json?key=BgltQL3i6kfpoIy9GMqW',
+        style: '{{ site.map_style }}',
         center: [{{ site.data.aishub.LONGITUDE | plus: 0.2 }}, {{ site.data.aishub.LATITUDE | plus: 0.2 }}],
         zoom: 8,
       });
