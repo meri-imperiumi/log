@@ -28,3 +28,33 @@
     - bergie
     - ihmis-suski
   category: navigation
+- datetime: 2026-09-21T05:31:30.904Z
+  text: "Cleared after 1 h 1 min: Crew Overboard Beacon detected"
+  author: ""
+  origin: auto
+  position:
+    latitude: -18.6581566
+    longitude: -173.9818784
+    source: GPS
+  heading: 166
+  course: 29
+  speed:
+    stw: 0
+    sog: 0.3
+  log: 635
+  waypoint:
+    latitude: -18.658274
+    longitude: -173.982161
+  barometer: 1016
+  wind:
+    speed: 7.2
+    direction: 155
+  engine:
+    engines:
+      main:
+        hours: 1191
+    hours: 1191
+  crewNames:
+    - bergie
+    - ihmis-suski
+  category: navigation
