@@ -1,0 +1,55 @@
+- datetime: 2026-09-24T05:48:56.400Z
+  text: Greased the shaft seal
+  author: bergie
+  origin: manual
+  position:
+    latitude: -18.6581726
+    longitude: -173.981885
+    source: GPS
+  heading: 203
+  course: 81
+  speed:
+    stw: 0
+    sog: 0
+  log: 635
+  barometer: 1017.5
+  wind:
+    speed: 7.6
+    direction: 157
+  engine:
+    engines:
+      main:
+        hours: 1191
+    hours: 1191
+  crewNames:
+    - bergie
+    - ihmis-suski
+  category: maintenance
+- datetime: 2026-09-24T05:49:56.400Z
+  text: "On investigation, the oil leak is from the external pressurized
+    lubrication pipe. We tried to patch it but failed "
+  author: bergie
+  origin: manual
+  position:
+    latitude: -18.6581923
+    longitude: -173.9819475
+    source: GPS
+  heading: 163
+  course: 247
+  speed:
+    stw: 0
+    sog: 0
+  log: 635
+  barometer: 1017.49
+  wind:
+    speed: 8.7
+    direction: 151
+  engine:
+    engines:
+      main:
+        hours: 1191
+    hours: 1191
+  crewNames:
+    - bergie
+    - ihmis-suski
+  category: engine
