@@ -1,0 +1,22 @@
+- datetime: 2026-09-25T00:06:05.183Z
+  text: Fixed the Superwind. The bearing raceway was out of alignment. Fixed with
+    hammer and a pry bar
+  author: bergie
+  origin: manual
+  position:
+    latitude: -18.658180236816406
+    longitude: -173.98193359375
+  course: 129
+  speed:
+    sog: 0.3
+  log: 635
+  barometer: 1018.63
+  engine:
+    engines:
+      main:
+        hours: 1191
+    hours: 1191
+  crewNames:
+    - bergie
+    - ihmis-suski
+  category: maintenance
