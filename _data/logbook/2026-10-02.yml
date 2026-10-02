@@ -82,3 +82,32 @@
     - bergie
     - ihmis-suski
   category: maintenance
+- datetime: 2026-10-02T23:02:52.198Z
+  text: Wind sensor wasn't producing data. Was fixed by a N2K reboot
+  author: bergie
+  origin: manual
+  position:
+    latitude: -18.6582839
+    longitude: -173.9820188
+    source: GPS
+  heading: 95
+  course: 72
+  speed:
+    sog: 0
+  log: 635
+  waypoint:
+    latitude: -23.655453
+    longitude: -178.915014
+  barometer: 1018.89
+  wind:
+    speed: 9.2
+    direction: 109
+  engine:
+    engines:
+      main:
+        hours: 1191
+    hours: 1191
+  crewNames:
+    - bergie
+    - ihmis-suski
+  category: maintenance
