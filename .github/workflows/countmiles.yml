@@ -16,8 +16,6 @@ jobs:
     - run: npm install yaml
     - run: node .github/crewmiles.mjs
     - run: node .github/traveldays.mjs
-      env:
-        AISHUB_TOKEN: ${{secrets.AISHUB_TOKEN}}
     - name: Commit files
       run: |
         if [ -z "$(git status --porcelain)" ]; then exit 0;fi

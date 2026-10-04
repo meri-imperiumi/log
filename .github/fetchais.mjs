@@ -1,43 +1,62 @@
-import fetch from 'node-fetch';
 import { Point } from 'where';
 import { readFile, writeFile } from 'fs/promises';
-const apiKey = process.env.AISHUB_TOKEN;
-const mmsi = '211692440';
-fetch(`https://data.aishub.net/ws.php?username=${apiKey}&format=1&output=json&compress=0&mmsi=${mmsi}`)
-  .then(r => r.json())
-  .then((data) => {
-    if (data[0] && data[0].ERROR) {
-      throw new Error(data[0].ERROR_MESSAGE);
+const vesselUrl = 'https://ais.openwaters.io/v1/vessels/211692440';
+fetch(vesselUrl)
+  .then((res) => {
+    if (!res.ok) {
+      throw new Error(`HTTP ${res.status} received`);
     }
-    if (data.length < 2) {
-      throw new Error('Invalid data received');
-    }
-    if (data[1].length < 1) {
-      throw new Error('Invalid data received');
-    }
-    return data[1][0];
+    return res.json();
   })
-  .then((data) => {
-    const newPoint = new Point(data.LATITUDE, data.LONGITUDE);
-    console.log(`At ${data.TIME}, ${data.NAME} was at ${newPoint}`);
-    const currentTime = new Date();
-    const aisTime = new Date(data.TIME);
-    const timeSince = (currentTime - aisTime) / 1000;
+  .then((vessel) => {
+    if (vessel.type !== 'Feature' || vessel.geometry?.type !== 'Point') {
+      throw new Error('Invalid data received');
+    }
+    const data = {
+      timestamp: vessel.properties.seen,
+      position: {
+        lat: vessel.geometry.coordinates[1],
+        lon: vessel.geometry.coordinates[0],
+      },
+      sog: vessel.properties.sog,
+      heading: vessel.properties.heading,
+      name: vessel.properties.name,
+      callsign: vessel.properties.callsign,
+      mmsi: vessel.properties.mmsi,
+    };
+    if (Number.isNaN(new Date(data.timestamp).getTime())) {
+      throw new Error('Invalid position timestamp received');
+    }
+    const newPoint = new Point(data.position.lat, data.position.lon);
+    console.log(`At ${data.timestamp}, ${data.name} was at ${newPoint}`);
+    const timeSince = (Date.now() - new Date(data.timestamp).getTime()) / 1000;
     console.log(`Update is from ${timeSince}s ago`);
     if (timeSince > 60 * 60 * 6) {
       throw new Error('Stale AIS data');
     }
-    return readFile('_data/aishub.json', 'utf-8')
+    const writeData = () => writeFile('_data/openwaters.json', JSON.stringify(data, null, 2));
+    return readFile('_data/openwaters.json', 'utf-8')
       .then((content) => JSON.parse(content))
+      .catch((err) => {
+        if (err.code !== 'ENOENT') {
+          throw err;
+        }
+        // No previous data stored, accept anything
+        return null;
+      })
       .then((oldData) => {
-        const oldPoint = new Point(oldData.LATITUDE, oldData.LONGITUDE);
+        if (!oldData) {
+          console.log('No previous position stored');
+          return writeData();
+        }
+        const oldPoint = new Point(oldData.position.lat, oldData.position.lon);
         const distance = oldPoint.distanceTo(newPoint);
         console.log(`New position is ${distance}km away from stored position ${oldPoint}`);
         if (distance < 0.1) {
           console.log('Ignoring new position since boat hasn\'t moved much');
           return Promise.resolve();
         }
-        return writeFile('_data/aishub.json', JSON.stringify(data, null, 2));
+        return writeData();
       });
   })
   .then(() => {

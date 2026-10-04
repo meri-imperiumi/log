@@ -30,17 +30,17 @@ readdir('_data/logbook')
       });
   })
   .then((logPosition) => {
-    return readFile('_data/aishub.json')
+    return readFile('_data/openwaters.json')
       .then((c) => JSON.parse(c))
       .then((data) => {
-        const aisDate = new Date(data.TIME);
+        const aisDate = new Date(data.timestamp);
         if (aisDate > logPosition.time) {
           // AIS is newer, use that. We're likely offshore and without internet
           return {
             time: aisDate,
-            latitude: data.LATITUDE,
-            longitude: data.LONGITUDE,
-            source: 'AISHub',
+            latitude: data.position.lat,
+            longitude: data.position.lon,
+            source: 'Open Waters AIS',
           };
         }
         // Logbook is newer
