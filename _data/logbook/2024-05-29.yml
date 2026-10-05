@@ -21,6 +21,8 @@
     - ihmis-suski
     - bergie
   category: engine
+  origin: manual
+  id: f4543532-f2e8-475e-959b-7fa54cecc3ad
 - datetime: 2024-05-29T13:35:46.598Z
   text: Spade connector on DC-DC wire from starter battery had burned out,
     switched to slightly beefier ring terminal. Seems to have fixed the
@@ -47,6 +49,8 @@
     - ihmis-suski
     - bergie
   category: maintenance
+  origin: manual
+  id: f91e9f9b-f557-432f-8527-fb203ec546b5
 - datetime: 2024-05-29T13:43:11.600Z
   text: Started main engine
   author: ""
@@ -70,6 +74,8 @@
     - ihmis-suski
     - bergie
   category: navigation
+  origin: auto
+  id: 6334ab95-0df5-4abd-bffd-5d58e97255bb
 - datetime: 2024-05-29T14:16:36.601Z
   text: Stopped main engine
   author: ""
@@ -94,6 +100,8 @@
     - ihmis-suski
     - bergie
   category: navigation
+  origin: auto
+  id: 036ca39c-3142-4a99-90f5-7a8d311190c4
 - datetime: 2024-05-29T15:57:06.598Z
   text: Started main engine
   author: ""
@@ -118,6 +126,8 @@
     - ihmis-suski
     - bergie
   category: navigation
+  origin: auto
+  id: 667e8aa9-32c8-44d6-a363-f8ae10eb0192
 - datetime: 2024-05-29T16:24:35.596Z
   text: Stopped main engine
   author: ""
@@ -141,6 +151,8 @@
     - ihmis-suski
     - bergie
   category: navigation
+  origin: auto
+  id: abb09655-731f-46c1-8f65-e35788085b55
 - datetime: 2024-05-29T21:05:26.598Z
   text: Glued in Air Only vent with sika 291i
   author: ihmis-suski
@@ -164,3 +176,5 @@
     - ihmis-suski
     - bergie
   category: maintenance
+  origin: manual
+  id: 3c6a70e0-3185-437d-9b74-2fb16c26beb4

@@ -24,6 +24,8 @@
     - ihmis-suski
     - bergie
   category: navigation
+  origin: auto
+  id: 32aa3bb6-3526-4f9c-aea3-23fed437651a
 - datetime: 2026-04-01T00:00:53.300Z
   text: Motor stopped, sailing with Main (1st reef), Staysail. Windvane steering
   author: bergie
@@ -50,6 +52,8 @@
     - ihmis-suski
     - bergie
   category: navigation
+  origin: manual
+  id: 19246eac-cd18-4a1a-bffd-378275865feb
 - datetime: 2026-04-01T01:00:37.400Z
   text: ""
   author: ""
@@ -76,6 +80,8 @@
     - ihmis-suski
     - bergie
   category: navigation
+  origin: auto
+  id: fa0aef8e-d594-4308-a87b-80d0c1e83ece
 - datetime: 2026-04-01T02:00:39.400Z
   text: Suski on watch
   author: ihmis-suski
@@ -106,6 +112,8 @@
     seaState: 4
     cloudCoverage: 3
     visibility: 7
+  origin: manual
+  id: 7a2e5314-01b3-4c5b-a823-aeb52d4d82a6
 - datetime: 2026-04-01T02:39:36.400Z
   text: "Sails set: Main (2nd reef), Staysail"
   author: ""
@@ -132,6 +140,8 @@
     - ihmis-suski
     - bergie
   category: navigation
+  origin: auto
+  id: 3e379f90-66ef-47d5-acd8-8e4605893fc0
 - datetime: 2026-04-01T02:51:38.400Z
   text: Back to wing on wing
   author: ihmis-suski
@@ -158,6 +168,8 @@
     - ihmis-suski
     - bergie
   category: navigation
+  origin: manual
+  id: 8626e7ce-0425-4774-be0d-8907a09aa453
 - datetime: 2026-04-01T03:00:38.400Z
   text: ""
   author: ""
@@ -184,6 +196,8 @@
     - ihmis-suski
     - bergie
   category: navigation
+  origin: auto
+  id: e93ede52-9942-4136-966a-01f041f34e4b
 - datetime: 2026-04-01T04:00:39.400Z
   text: ""
   author: ""
@@ -210,6 +224,8 @@
     - ihmis-suski
     - bergie
   category: navigation
+  origin: auto
+  id: 098075bb-90fa-4d97-ae5e-60eafd2bb041
 - datetime: 2026-04-01T05:00:42.499Z
   text: ""
   author: ""
@@ -236,6 +252,8 @@
     - ihmis-suski
     - bergie
   category: navigation
+  origin: auto
+  id: 111212d3-ba54-4bdd-b61a-89d2e069f775
 - datetime: 2026-04-01T05:45:45.500Z
   text: Rain
   author: ihmis-suski
@@ -262,6 +280,8 @@
     - ihmis-suski
     - bergie
   category: navigation
+  origin: manual
+  id: 0410bcdf-db2a-4075-a6c9-0794d8c87636
 - datetime: 2026-04-01T06:00:47.500Z
   text: ""
   author: ""
@@ -288,6 +308,8 @@
     - ihmis-suski
     - bergie
   category: navigation
+  origin: auto
+  id: c7e03f0e-dfdf-42ea-a7b0-1961729dde0a
 - datetime: 2026-04-01T07:00:49.500Z
   text: ""
   author: ""
@@ -314,6 +336,8 @@
     - ihmis-suski
     - bergie
   category: navigation
+  origin: auto
+  id: 87752038-7999-4d1a-9976-2ea6a81a7c89
 - datetime: 2026-04-01T08:00:51.600Z
   text: Bergie on watch
   author: bergie
@@ -344,6 +368,8 @@
     seaState: 4
     cloudCoverage: 8
     visibility: 7
+  origin: manual
+  id: 287b3b4a-4e7d-4970-ad5b-ab988dd60238
 - datetime: 2026-04-01T09:00:53.600Z
   text: ""
   author: ""
@@ -370,6 +396,8 @@
     - ihmis-suski
     - bergie
   category: navigation
+  origin: auto
+  id: 43e85bc6-bbac-42ae-bb01-814632e728f3
 - datetime: 2026-04-01T10:00:57.600Z
   text: ""
   author: ""
@@ -396,6 +424,8 @@
     - ihmis-suski
     - bergie
   category: navigation
+  origin: auto
+  id: dd182c14-4017-4cc2-ad3d-b54d6a41aede
 - datetime: 2026-04-01T11:00:59.600Z
   text: ""
   author: ""
@@ -422,6 +452,8 @@
     - ihmis-suski
     - bergie
   category: navigation
+  origin: auto
+  id: 232cff76-3085-4639-ac7c-f64e7d60bee3
 - datetime: 2026-04-01T12:00:01.699Z
   text: ""
   author: ""
@@ -448,6 +480,8 @@
     - ihmis-suski
     - bergie
   category: navigation
+  origin: auto
+  id: ecf25665-c2fd-4a35-9547-cae3bef24815
 - datetime: 2026-04-01T12:09:01.699Z
   text: Gusting to 30kn
   author: bergie
@@ -474,6 +508,8 @@
     - ihmis-suski
     - bergie
   category: navigation
+  origin: manual
+  id: bb1b3839-4ff8-4234-934c-5e95de3cef79
 - datetime: 2026-04-01T13:00:03.699Z
   text: ""
   author: ""
@@ -500,6 +536,8 @@
     - ihmis-suski
     - bergie
   category: navigation
+  origin: auto
+  id: 23ccde74-6a0d-4679-97b8-91f4657a053b
 - datetime: 2026-04-01T13:49:07.699Z
   text: Triple digits! 999NM to go
   author: bergie
@@ -526,6 +564,8 @@
     - ihmis-suski
     - bergie
   category: navigation
+  origin: manual
+  id: beb8f5f4-3612-49a9-8e76-cfa0ddf13dc3
 - datetime: 2026-04-01T14:00:07.699Z
   text: ""
   author: ""
@@ -552,6 +592,8 @@
     - ihmis-suski
     - bergie
   category: navigation
+  origin: auto
+  id: 2cb63f3e-4ef9-4362-b3f9-3102a97e666a
 - datetime: 2026-04-01T15:00:10.700Z
   text: ""
   author: ""
@@ -578,6 +620,8 @@
     - ihmis-suski
     - bergie
   category: navigation
+  origin: auto
+  id: de21a560-de3c-476d-b81e-70d82ad96a6f
 - datetime: 2026-04-01T16:00:13.798Z
   text: ""
   author: ""
@@ -604,6 +648,8 @@
     - ihmis-suski
     - bergie
   category: navigation
+  origin: auto
+  id: 05740df4-485e-4ec2-81a7-8accae6f7d5e
 - datetime: 2026-04-01T17:00:17.798Z
   text: ""
   author: ""
@@ -630,6 +676,8 @@
     - ihmis-suski
     - bergie
   category: navigation
+  origin: auto
+  id: 5440f3e7-8b1a-444b-8679-db5da776bfc6
 - datetime: 2026-04-01T18:00:19.801Z
   text: ""
   author: ""
@@ -656,6 +704,8 @@
     - ihmis-suski
     - bergie
   category: navigation
+  origin: auto
+  id: 761941ff-c26c-400d-8fa2-7fa4a3d5fbd4
 - datetime: 2026-04-01T19:00:22.899Z
   text: ""
   author: ""
@@ -682,6 +732,8 @@
     - ihmis-suski
     - bergie
   category: navigation
+  origin: auto
+  id: af885e2a-1a3c-40d3-9bf5-aec2ce8088e5
 - datetime: 2026-04-01T19:24:23.897Z
   text: On port tack
   author: bergie
@@ -708,6 +760,8 @@
     - ihmis-suski
     - bergie
   category: navigation
+  origin: manual
+  id: 63caf7c8-e41b-43d7-ae6b-624010d6ee9f
 - datetime: 2026-04-01T20:00:27.897Z
   text: Bergie on watch
   author: bergie
@@ -738,6 +792,8 @@
     seaState: 4
     cloudCoverage: 2
     visibility: 7
+  origin: manual
+  id: 2e3dfc97-8115-46f8-b2fd-f48c386c8f53
 - datetime: 2026-04-01T21:00:29.900Z
   text: ""
   author: ""
@@ -764,6 +820,8 @@
     - ihmis-suski
     - bergie
   category: navigation
+  origin: auto
+  id: f00a6fbd-b10a-4943-a298-b8cc9d7e4784
 - datetime: 2026-04-01T22:00:32.998Z
   text: ""
   author: ""
@@ -790,6 +848,8 @@
     - ihmis-suski
     - bergie
   category: navigation
+  origin: auto
+  id: ad414f37-b339-4f7a-a4cb-c56a5d6d58c9
 - datetime: 2026-04-01T23:00:36.000Z
   text: ""
   author: ""
@@ -816,6 +876,8 @@
     - ihmis-suski
     - bergie
   category: navigation
+  origin: auto
+  id: 307a3eca-be55-46bd-bec8-9a6be44fc903
 - datetime: 2026-04-01T23:31:48.998Z
   text: "Sails set: Main (1st reef), Staysail"
   author: ""
@@ -842,3 +904,5 @@
     - ihmis-suski
     - bergie
   category: navigation
+  origin: auto
+  id: 71dcee3d-85dc-4ecb-b924-a57a81edb013

@@ -25,6 +25,8 @@
     - ihmis-suski
     - bergie
   category: navigation
+  origin: manual
+  id: 8d76244d-2402-45a0-b7d4-429f0c567661
 - datetime: 2024-12-27T00:12:46.600Z
   text: "Sails set: Main (1st reef), Genoa 1 (60% furled)"
   author: ""
@@ -52,6 +54,8 @@
     - ihmis-suski
     - bergie
   category: navigation
+  origin: auto
+  id: 00ee5236-8a59-4298-9e2e-ba0636440f08
 - datetime: 2024-12-27T01:00:11.600Z
   text: ""
   author: ""
@@ -79,6 +83,8 @@
     - ihmis-suski
     - bergie
   category: navigation
+  origin: auto
+  id: ce30531e-267a-4453-aa3a-79c2be906e5a
 - datetime: 2024-12-27T01:04:11.600Z
   text: Weird battery voltage reading (9V) from both Orion XS and the
     Hydrogenerator SmartShunt. Every other meter and VictronConnect show
@@ -108,6 +114,8 @@
     - ihmis-suski
     - bergie
   category: maintenance
+  origin: manual
+  id: 1c2d8cac-a222-4de2-bf73-90ecbfcc15c1
 - datetime: 2024-12-27T01:37:04.600Z
   text: "Sails set: Main (1st reef), Genoa 1 (50% furled)"
   author: ""
@@ -135,6 +143,8 @@
     - ihmis-suski
     - bergie
   category: navigation
+  origin: auto
+  id: 779a11a0-a12b-436d-8029-1114513fb0d0
 - datetime: 2024-12-27T01:54:10.600Z
   text: Some cross waves from reflections off the islands
   author: bergie
@@ -166,6 +176,8 @@
     seaState: 3
     cloudCoverage: 1
     visibility: 7
+  origin: manual
+  id: adf61f6f-e981-484c-bf00-afb5dec23931
 - datetime: 2024-12-27T02:00:10.600Z
   text: ""
   author: bergie
@@ -193,6 +205,8 @@
     - ihmis-suski
     - bergie
   category: navigation
+  origin: manual
+  id: 501ad200-b5f5-45d9-b6b3-294704e6ad1e
 - datetime: 2024-12-27T03:00:08.600Z
   text: In Cape Verde territorial waters
   author: bergie
@@ -220,6 +234,8 @@
     - ihmis-suski
     - bergie
   category: navigation
+  origin: manual
+  id: a2fd3eea-6f53-47f2-b8c5-98db815b27d2
 - datetime: 2024-12-27T04:00:09.000Z
   text: ""
   author: ""
@@ -247,6 +263,8 @@
     - ihmis-suski
     - bergie
   category: navigation
+  origin: auto
+  id: 9aeb06c6-ce47-4345-9ef2-ce35af209023
 - datetime: 2024-12-27T05:00:07.000Z
   text: ""
   author: ""
@@ -274,6 +292,8 @@
     - ihmis-suski
     - bergie
   category: navigation
+  origin: auto
+  id: 736cc524-b81a-4c86-a3d2-52b7b39ec9aa
 - datetime: 2024-12-27T05:45:03.000Z
   text: Autopilot activated
   author: ""
@@ -301,6 +321,8 @@
     - ihmis-suski
     - bergie
   category: navigation
+  origin: auto
+  id: d8d3564b-f335-4a35-8d35-63c4adf3dbbd
 - datetime: 2024-12-27T05:46:06.000Z
   text: "Suski on watch "
   author: ihmis-suski
@@ -328,6 +350,8 @@
     - ihmis-suski
     - bergie
   category: navigation
+  origin: manual
+  id: 23980628-22d2-40e0-98dd-f4c04419cffe
 - datetime: 2024-12-27T06:00:06.000Z
   text: ""
   author: ""
@@ -355,6 +379,8 @@
     - ihmis-suski
     - bergie
   category: navigation
+  origin: auto
+  id: 930def81-34d2-4b3b-bb9a-b295a550795c
 - datetime: 2024-12-27T06:06:34.000Z
   text: "Sails set: Main (1st reef), Genoa 1 (70% furled)"
   author: ""
@@ -382,6 +408,8 @@
     - ihmis-suski
     - bergie
   category: navigation
+  origin: auto
+  id: 04e4d7b7-3a45-4143-96a9-2f653ccf2050
 - datetime: 2024-12-27T07:00:04.099Z
   text: ""
   author: ""
@@ -409,6 +437,8 @@
     - ihmis-suski
     - bergie
   category: navigation
+  origin: auto
+  id: afb9b869-ca2d-4577-8e8f-61b6cd94f44b
 - datetime: 2024-12-27T07:50:40.099Z
   text: "Sails set: Main (1st reef), Genoa 1 (10% furled).  We have light. Let's go!"
   author: ihmis-suski
@@ -436,6 +466,8 @@
     - ihmis-suski
     - bergie
   category: navigation
+  origin: manual
+  id: 13f0e7e5-c27c-48e4-a969-db2279eb31e7
 - datetime: 2024-12-27T07:59:03.100Z
   text: Depth!
   author: ihmis-suski
@@ -467,6 +499,8 @@
     seaState: 3
     cloudCoverage: 6
     visibility: 7
+  origin: manual
+  id: e3dce1e1-9590-48b0-807a-7604273b560d
 - datetime: 2024-12-27T08:00:02.099Z
   text: ""
   author: ""
@@ -494,6 +528,8 @@
     - ihmis-suski
     - bergie
   category: navigation
+  origin: auto
+  id: d02c9b7d-b563-4e92-9e97-46cb52374160
 - datetime: 2024-12-27T09:00:01.100Z
   text: ""
   author: ""
@@ -521,6 +557,8 @@
     - ihmis-suski
     - bergie
   category: navigation
+  origin: auto
+  id: 4c59910b-0104-4fad-96a0-adecaccca66c
 - datetime: 2024-12-27T09:01:57.100Z
   text: Sails down, motoring
   author: ""
@@ -548,6 +586,8 @@
     - ihmis-suski
     - bergie
   category: navigation
+  origin: auto
+  id: decc67fa-0143-4ecf-8dba-a4ffacfb35e5
 - datetime: 2024-12-27T09:05:33.100Z
   text: Autopilot deactivated
   author: ""
@@ -575,6 +615,8 @@
     - ihmis-suski
     - bergie
   category: navigation
+  origin: auto
+  id: 9a8da40b-cdca-4547-90b0-dfbe166e12f0
 - datetime: 2024-12-27T09:40:36.099Z
   text: Stopped
   author: ""
@@ -603,3 +645,5 @@
     - bergie
   end: true
   category: navigation
+  origin: auto
+  id: 104bd701-5bb7-4da9-85a2-8c56f5a83384

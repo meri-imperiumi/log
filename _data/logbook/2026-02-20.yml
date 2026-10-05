@@ -20,6 +20,8 @@
     - ihmis-suski
     - bergie
   category: maintenance
+  origin: manual
+  id: aa0106c0-5c9f-416b-9a5d-331fcdc2b619
 - datetime: 2026-02-20T17:22:48.601Z
   text: Started watermaker
   author: bergie
@@ -42,6 +44,8 @@
     - ihmis-suski
     - bergie
   category: maintenance
+  origin: manual
+  id: 5af202dd-8765-4979-bce7-c611b8bd4128
 - datetime: 2026-02-20T17:25:48.601Z
   text: Stopped watermaker, weird gurgling sound from the gearbox area. On
     disassembly, turns out the motor bottom 6201Z-8 bearing has failed. Some
@@ -66,3 +70,5 @@
     - ihmis-suski
     - bergie
   category: maintenance
+  origin: manual
+  id: 5fd0f7f5-b379-4bfe-8010-d723982f8ad4

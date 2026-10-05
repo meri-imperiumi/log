@@ -21,6 +21,8 @@
     - ihmis-suski
     - bergie
   category: maintenance
+  origin: manual
+  id: c2a62139-826d-4242-ae1d-714cba96dfa1
 - datetime: 2024-11-23T11:37:37.401Z
   text: "Pickled watermaker "
   author: bergie
@@ -44,6 +46,8 @@
     - ihmis-suski
     - bergie
   category: maintenance
+  origin: manual
+  id: adadd20c-2fe1-48bb-a99e-d70b5f38b03a
 - datetime: 2024-11-23T12:01:30.400Z
   text: Entered custom shapes for freshwater and diesel tanks in Cerbo, so now the
     % should be actuals of the volume. Calcs show that we have a 110l diesel
@@ -69,3 +73,5 @@
     - ihmis-suski
     - bergie
   category: maintenance
+  origin: manual
+  id: cfe372ac-bb01-465c-834f-3fd1fe90878d

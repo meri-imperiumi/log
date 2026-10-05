@@ -23,6 +23,8 @@
     - ihmis-suski
     - bergie
   category: navigation
+  origin: auto
+  id: 6b0765ff-0693-4f5a-a9f9-45591c359612
 - datetime: 2025-11-12T14:35:32.198Z
   text: Left the mooring, motoring
   author: bergie
@@ -48,6 +50,8 @@
     - ihmis-suski
     - bergie
   category: navigation
+  origin: manual
+  id: 3c7de694-2d6e-42c7-b207-25caf22c6bc3
 - datetime: 2025-11-12T14:55:50.201Z
   text: Autopilot activated
   author: bergie
@@ -74,6 +78,8 @@
     - ihmis-suski
     - bergie
   category: navigation
+  origin: manual
+  id: 55006d29-dc0c-4c59-be16-213179542913
 - datetime: 2025-11-12T15:15:04.601Z
   text: "Signal K can't see the autopilot "
   author: bergie
@@ -100,6 +106,8 @@
     - ihmis-suski
     - bergie
   category: maintenance
+  origin: manual
+  id: ca1f96ca-46f8-4ece-bad3-9728c9f82067
 - datetime: 2025-11-12T16:00:03.699Z
   text: ""
   author: ""
@@ -126,6 +134,8 @@
     - ihmis-suski
     - bergie
   category: navigation
+  origin: auto
+  id: 1dc95a45-58f5-48cd-9ad4-3c4895ca2baa
 - datetime: 2025-11-12T16:12:03.699Z
   text: Autopilot deactivated, entering the narrow part on Boca Chica
   author: bergie
@@ -152,6 +162,8 @@
     - ihmis-suski
     - bergie
   category: navigation
+  origin: manual
+  id: ab31b528-5059-4fed-b0f7-c91f8e5b592d
 - datetime: 2025-11-12T16:31:09.702Z
   text: Autopilot activated, out of Boca Chica channel
   author: bergie
@@ -178,6 +190,8 @@
     - ihmis-suski
     - bergie
   category: navigation
+  origin: manual
+  id: 2fe5fd05-017f-44f0-a8a9-d231530b7add
 - datetime: 2025-11-12T16:41:21.702Z
   text: Motor stopped, sailing with Main, Genoa 1
   author: ""
@@ -204,6 +218,8 @@
     - ihmis-suski
     - bergie
   category: navigation
+  origin: auto
+  id: b900c28d-0281-40ee-bd7f-d983d7a453da
 - datetime: 2025-11-12T17:10:10.700Z
   text: "Autopilot deactivated. Windvane steering "
   author: ihmis-suski
@@ -234,6 +250,8 @@
     seaState: 2
     cloudCoverage: 3
     visibility: 7
+  origin: manual
+  id: 1ae88b47-e856-45b7-81aa-80d79577c079
 - datetime: 2025-11-12T18:00:09.702Z
   text: Tacked on course to Panama
   author: bergie
@@ -260,6 +278,8 @@
     - ihmis-suski
     - bergie
   category: navigation
+  origin: manual
+  id: 0db1b21a-3b48-4cb7-b6be-d82a2b0584e5
 - datetime: 2025-11-12T19:00:06.796Z
   text: ""
   author: ""
@@ -286,6 +306,8 @@
     - ihmis-suski
     - bergie
   category: navigation
+  origin: auto
+  id: 999cc11d-fa6e-4327-b2f0-d69273c39da5
 - datetime: 2025-11-12T20:00:06.796Z
   text: ""
   author: ""
@@ -312,32 +334,8 @@
     - ihmis-suski
     - bergie
   category: navigation
-- datetime: 2025-11-12T21:00:06.899Z
-  text: ""
-  author: ""
-  position:
-    longitude: -75.7712661
-    latitude: 10.3289141
-    source: GPS
-  heading: 233
-  course: 252
-  speed:
-    sog: 0.7
-  log: 12421.9
-  waypoint:
-    longitude: -75.781643
-    latitude: 10.322318
-  barometer: 1007.63
-  wind:
-    speed: 8.9
-    direction: 293
-  engine:
-    hours: 1012.4
-  vhf: "16"
-  crewNames:
-    - ihmis-suski
-    - bergie
-  category: navigation
+  origin: auto
+  id: 0b4e26aa-76e7-4c8c-9349-da8aafd93f46
 - datetime: 2025-11-12T21:00:06.899Z
   text: "Started watermaker "
   author: bergie
@@ -364,6 +362,36 @@
     - ihmis-suski
     - bergie
   category: maintenance
+  origin: manual
+  id: cf9437d1-6cc6-4e59-9b37-295481d243d8
+- datetime: 2025-11-12T21:00:06.899Z
+  text: ""
+  author: ""
+  position:
+    longitude: -75.7712661
+    latitude: 10.3289141
+    source: GPS
+  heading: 233
+  course: 252
+  speed:
+    sog: 0.7
+  log: 12421.9
+  waypoint:
+    longitude: -75.781643
+    latitude: 10.322318
+  barometer: 1007.63
+  wind:
+    speed: 8.9
+    direction: 293
+  engine:
+    hours: 1012.4
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: navigation
+  origin: auto
+  id: e7aa5927-7059-4488-9246-3875fda5db4c
 - datetime: 2025-11-12T21:32:06.899Z
   text: Watermaker 242ppm
   author: bergie
@@ -390,6 +418,8 @@
     - ihmis-suski
     - bergie
   category: maintenance
+  origin: manual
+  id: 6045bd0f-1ded-41c2-a754-ab806475c5a6
 - datetime: 2025-11-12T22:00:06.899Z
   text: ""
   author: ""
@@ -416,6 +446,8 @@
     - ihmis-suski
     - bergie
   category: navigation
+  origin: auto
+  id: ea777be0-2a74-4b11-a2cb-ed8a40888245
 - datetime: 2025-11-12T22:27:24.902Z
   text: "Sails set: Main, Genoa 1 (30% furled)"
   author: ""
@@ -442,6 +474,8 @@
     - ihmis-suski
     - bergie
   category: navigation
+  origin: auto
+  id: c84612ea-da83-4432-be2a-d10288f060b5
 - datetime: 2025-11-12T22:45:17.900Z
   text: "Sails set: Main (1st reef), Genoa 1 (30% furled)"
   author: ""
@@ -468,6 +502,8 @@
     - ihmis-suski
     - bergie
   category: navigation
+  origin: auto
+  id: 7c55cd51-6de2-4a2b-9180-c6047985fa1b
 - datetime: 2025-11-12T22:53:05.900Z
   text: Going into the night with reefed sails just on the safe side.
   author: ihmis-suski
@@ -498,6 +534,8 @@
     seaState: 3
     cloudCoverage: 5
     visibility: 7
+  origin: manual
+  id: bb8f71bd-0512-4a0e-bdf0-f9a9c874463f
 - datetime: 2025-11-12T23:00:05.900Z
   text: ""
   author: ""
@@ -524,6 +562,8 @@
     - ihmis-suski
     - bergie
   category: navigation
+  origin: auto
+  id: 0ab573bb-969c-414f-927b-f615f071782a
 - datetime: 2025-11-12T23:19:06.899Z
   text: Watermaker 336ppm
   author: bergie
@@ -550,3 +590,5 @@
     - ihmis-suski
     - bergie
   category: maintenance
+  origin: manual
+  id: 8cc50838-acd0-49fe-ba8e-9b9e776f5c87

@@ -21,6 +21,8 @@
     - ihmis-suski
     - bergie
   category: navigation
+  origin: auto
+  id: 8bb0f440-f9fb-4788-b58f-240a19ae800c
 - datetime: 2024-05-08T04:26:59.500Z
   text: Anchor up, motoring
   author: ""
@@ -44,6 +46,8 @@
     - ihmis-suski
     - bergie
   category: navigation
+  origin: auto
+  id: afb3103f-be9d-48df-b586-2074ed3235c8
 - datetime: 2024-05-08T04:41:27.500Z
   text: STW paddlewheel appears to be stuck
   author: bergie
@@ -68,6 +72,8 @@
     - ihmis-suski
     - bergie
   category: maintenance
+  origin: manual
+  id: 8adf9e07-7c96-4e48-8860-667813ffecf7
 - datetime: 2024-05-08T05:00:27.500Z
   text: ""
   author: ""
@@ -92,6 +98,8 @@
     - ihmis-suski
     - bergie
   category: navigation
+  origin: auto
+  id: c61b5ce2-7779-4cc2-9bea-5caef43e003d
 - datetime: 2024-05-08T05:09:14.499Z
   text: Motor stopped, sailing with Main (1st reef), Staysail
   author: bergie
@@ -120,6 +128,8 @@
     cloudCoverage: 3
     seaState: 2
     visibility: 8
+  origin: manual
+  id: 89b56963-0e95-465e-87dc-a1b9c42b8299
 - datetime: 2024-05-08T05:11:25.500Z
   text: Paddle wheel working again, just needed some wave action to dislodge it
   author: bergie
@@ -144,6 +154,8 @@
     - ihmis-suski
     - bergie
   category: maintenance
+  origin: manual
+  id: 2d4ae6e9-89c8-463e-96e0-22b7bf8f4d9c
 - datetime: 2024-05-08T05:29:30.499Z
   text: Out of the Sumburgh Roost. Poled out
   author: bergie
@@ -168,6 +180,8 @@
     - ihmis-suski
     - bergie
   category: navigation
+  origin: manual
+  id: e82631d8-523f-4831-aed8-2e1475f2a27e
 - datetime: 2024-05-08T05:34:29.500Z
   text: "Windvane steering, hydrogenerator deployed "
   author: bergie
@@ -192,6 +206,8 @@
     - ihmis-suski
     - bergie
   category: navigation
+  origin: manual
+  id: 9ea8d3d8-cb80-4ba5-93e6-371c79e90032
 - datetime: 2024-05-08T05:57:30.499Z
   text: Over 2.5kt tidal current against us
   author: bergie
@@ -216,6 +232,8 @@
     - ihmis-suski
     - bergie
   category: navigation
+  origin: manual
+  id: ba091417-1d00-4d50-9471-e1c556e2efaf
 - datetime: 2024-05-08T06:00:30.499Z
   text: ""
   author: ""
@@ -240,6 +258,8 @@
     - ihmis-suski
     - bergie
   category: navigation
+  origin: auto
+  id: d5d88368-f366-4543-88a9-6325e8da3fe1
 - datetime: 2024-05-08T06:30:31.500Z
   text: "Past the headlands it seems the tidal stream reduces a bit. SOG starting
     to improve. Gentle swell from the Atlantic "
@@ -269,6 +289,8 @@
     seaState: 2
     cloudCoverage: 7
     visibility: 8
+  origin: manual
+  id: 1fce225d-51cd-41e4-971b-7677d2a372b7
 - datetime: 2024-05-08T07:00:31.500Z
   text: ""
   author: ""
@@ -293,6 +315,8 @@
     - ihmis-suski
     - bergie
   category: navigation
+  origin: auto
+  id: e9bc7a8e-986b-4d47-b28e-6ca6d91c1d86
 - datetime: 2024-05-08T07:47:32.499Z
   text: Bergie went for a nap.
   author: ihmis-suski
@@ -321,6 +345,8 @@
     seaState: 3
     cloudCoverage: 8
     visibility: 8
+  origin: manual
+  id: 58bc7370-891e-4488-9eba-e0bd31cc46a2
 - datetime: 2024-05-08T08:00:31.500Z
   text: ""
   author: ""
@@ -345,6 +371,8 @@
     - ihmis-suski
     - bergie
   category: navigation
+  origin: auto
+  id: 787872d7-ea38-4a9f-ac8f-6dbf802ce8b3
 - datetime: 2024-05-08T09:00:32.499Z
   text: ""
   author: ""
@@ -369,6 +397,8 @@
     - ihmis-suski
     - bergie
   category: navigation
+  origin: auto
+  id: 2b9c0151-afb7-4e95-a462-a0f295cacb13
 - datetime: 2024-05-08T09:26:33.500Z
   text: Suski went for a nap
   author: bergie
@@ -397,6 +427,8 @@
     cloudCoverage: 8
     seaState: 3
     visibility: 7
+  origin: manual
+  id: 1a075033-9bd1-4741-b771-1c277e5ec756
 - datetime: 2024-05-08T09:42:34.499Z
   text: "Wind is piping up a but, up to 25kt. Some slight surfing "
   author: bergie
@@ -421,6 +453,8 @@
     - ihmis-suski
     - bergie
   category: navigation
+  origin: manual
+  id: 6914cee4-ed15-46cb-8efe-df0155936df7
 - datetime: 2024-05-08T10:00:33.500Z
   text: ""
   author: ""
@@ -445,6 +479,8 @@
     - ihmis-suski
     - bergie
   category: navigation
+  origin: auto
+  id: 7414e1f9-40f8-4098-9d7c-7f6600265340
 - datetime: 2024-05-08T11:00:34.499Z
   text: Gybed towards the Papa Stour channel
   author: bergie
@@ -473,6 +509,8 @@
     seaState: 4
     cloudCoverage: 8
     visibility: 7
+  origin: manual
+  id: 6620be1d-519c-4953-bd8f-a68045e09a23
 - datetime: 2024-05-08T12:00:36.499Z
   text: ""
   author: ""
@@ -497,6 +535,8 @@
     - ihmis-suski
     - bergie
   category: navigation
+  origin: auto
+  id: 41f12691-3ca2-4abb-8b4c-648c11c98ed2
 - datetime: 2024-05-08T12:08:36.499Z
   text: "Hand steering "
   author: bergie
@@ -521,6 +561,8 @@
     - ihmis-suski
     - bergie
   category: navigation
+  origin: manual
+  id: 846c941c-a687-4d8a-83b4-8630339e4640
 - datetime: 2024-05-08T12:47:36.499Z
   text: "Stowed hydrogenerator "
   author: bergie
@@ -549,6 +591,8 @@
     seaState: 2
     cloudCoverage: 8
     visibility: 6
+  origin: manual
+  id: 4ae68d45-8387-4464-ae27-b16bf44202b1
 - datetime: 2024-05-08T12:52:09.500Z
   text: Sails down, motoring
   author: ""
@@ -573,6 +617,8 @@
     - ihmis-suski
     - bergie
   category: navigation
+  origin: auto
+  id: 92285ab3-7a0d-4400-a1d0-e5c799eb2487
 - datetime: 2024-05-08T13:00:36.400Z
   text: ""
   author: ""
@@ -597,6 +643,8 @@
     - ihmis-suski
     - bergie
   category: navigation
+  origin: auto
+  id: 66acd6f5-f7ca-40e2-a1ff-3ce5c7ecee34
 - datetime: 2024-05-08T13:06:38.400Z
   text: Anchored
   author: ""
@@ -622,6 +670,8 @@
     - bergie
   end: true
   category: navigation
+  origin: auto
+  id: 8debb393-be77-4274-98ab-535ce8b6cd04
 - datetime: 2024-05-08T13:12:34.499Z
   text: Stopped main engine
   author: ""
@@ -646,3 +696,5 @@
     - ihmis-suski
     - bergie
   category: navigation
+  origin: auto
+  id: 14b56afb-2200-43b4-8684-1b8c4600001d

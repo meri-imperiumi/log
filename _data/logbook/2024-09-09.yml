@@ -22,6 +22,8 @@
     - ihmis-suski
     - bergie
   category: navigation
+  origin: auto
+  id: 485ce443-d0a4-464b-adbc-b410fa3e7cb7
 - datetime: 2024-09-09T10:11:31.900Z
   text: Anchor up, motoring
   author: ""
@@ -46,6 +48,8 @@
     - ihmis-suski
     - bergie
   category: navigation
+  origin: auto
+  id: 749288a0-9c7a-484c-88cd-79f71ea2fb17
 - datetime: 2024-09-09T10:56:53.900Z
   text: Anchored
   author: ""
@@ -71,6 +75,8 @@
     - bergie
   end: true
   category: navigation
+  origin: auto
+  id: 6750b0f2-2f03-471e-b0da-0ca08568da30
 - datetime: 2024-09-09T11:00:50.899Z
   text: Stopped main engine
   author: ""
@@ -95,6 +101,8 @@
     - ihmis-suski
     - bergie
   category: navigation
+  origin: auto
+  id: afd35a75-8981-4450-a519-00d9e7bf8e73
 - datetime: 2024-09-09T13:34:35.299Z
   text: Re-sealed the leaky port-side saloon window with Sika 295 UV
   author: bergie
@@ -118,3 +126,5 @@
     - ihmis-suski
     - bergie
   category: maintenance
+  origin: manual
+  id: b5009dfe-6376-4734-8d20-38d6219b792f

@@ -23,6 +23,8 @@
     - ihmis-suski
     - bergie
   category: navigation
+  origin: auto
+  id: 64514630-ad18-471d-bd07-be2e824b6b27
 - datetime: 2025-11-19T14:35:21.100Z
   text: Anchor up, motoring
   author: ""
@@ -49,6 +51,8 @@
     - ihmis-suski
     - bergie
   category: navigation
+  origin: auto
+  id: 45d55d10-a6da-4acd-8b67-23f038d6182a
 - datetime: 2025-11-19T15:00:34.099Z
   text: ""
   author: ""
@@ -75,6 +79,8 @@
     - ihmis-suski
     - bergie
   category: navigation
+  origin: auto
+  id: 6b5dad53-affa-4ffe-a784-b4f1e58aadcb
 - datetime: 2025-11-19T16:00:34.099Z
   text: Distress from Plan B over VHF. Their engine died. We try to tow them
   author: bergie
@@ -100,6 +106,8 @@
   category: navigation
   observations:
     seaState: 4
+  origin: manual
+  id: e6aeef37-fbb8-42a9-ba64-9f4a38aafd5a
 - datetime: 2025-11-19T17:00:32.102Z
   text: ""
   author: ""
@@ -123,6 +131,8 @@
     - ihmis-suski
     - bergie
   category: navigation
+  origin: auto
+  id: 5810e71e-7171-4659-b747-906e3571dc94
 - datetime: 2025-11-19T17:25:45.203Z
   text: Anchored. Got Plan B towed into the anchorage. Port stern cleat almost
     ripped off
@@ -148,6 +158,8 @@
     - bergie
   end: true
   category: navigation
+  origin: manual
+  id: 0afa3ccf-d7a2-4a39-89c8-419ac7147dcf
 - datetime: 2025-11-19T17:30:37.196Z
   text: Stopped main engine
   author: ""
@@ -171,3 +183,5 @@
     - ihmis-suski
     - bergie
   category: navigation
+  origin: auto
+  id: 88b5dd6e-ff55-4a3f-8957-4ce94e3d9b13

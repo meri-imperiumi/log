@@ -20,6 +20,8 @@
     - ihmis-suski
     - bergie
   category: maintenance
+  origin: manual
+  id: 4a4bb417-7d33-458a-a8a2-60a533422861
 - datetime: 2025-10-15T15:52:16.499Z
   text: Started main engine
   author: ""
@@ -42,6 +44,8 @@
     - ihmis-suski
     - bergie
   category: navigation
+  origin: auto
+  id: 9d8edf9f-4a8d-4236-93a2-3423ce79f525
 - datetime: 2025-10-15T16:01:46.502Z
   text: Stopped main engine
   author: ""
@@ -64,6 +68,8 @@
     - ihmis-suski
     - bergie
   category: navigation
+  origin: auto
+  id: aa774430-b4ef-4445-9b00-a7b126239b70
 - datetime: 2025-10-15T16:23:12.499Z
   text: Rewired aft navigation light. The heat-shrink butt-to-butt connection had
     failed
@@ -87,6 +93,8 @@
     - ihmis-suski
     - bergie
   category: maintenance
+  origin: manual
+  id: 8b8dffc3-01c9-4727-86a3-88a0fac02370
 - datetime: 2025-10-15T18:05:10.598Z
   text: Watermaker on
   author: ihmis-suski
@@ -109,6 +117,8 @@
     - ihmis-suski
     - bergie
   category: maintenance
+  origin: manual
+  id: a103a905-b03d-481d-a0fd-8d734cfcffdb
 - datetime: 2025-10-15T18:25:10.598Z
   text: Watermaker 364ppm. Into jug
   author: ihmis-suski
@@ -131,6 +141,8 @@
     - ihmis-suski
     - bergie
   category: maintenance
+  origin: manual
+  id: ff8cf08b-34e3-4105-ab0a-ee43cdb420e9
 - datetime: 2025-10-15T20:06:09.702Z
   text: Watermaker 310ppm
   author: bergie
@@ -153,6 +165,8 @@
     - ihmis-suski
     - bergie
   category: maintenance
+  origin: manual
+  id: 688c5c52-63c5-4b00-9c78-49acccfb944b
 - datetime: 2025-10-15T20:31:08.102Z
   text: Stopped watermaker, 206ppm
   author: bergie
@@ -175,3 +189,5 @@
     - ihmis-suski
     - bergie
   category: maintenance
+  origin: manual
+  id: 30650986-afd7-4767-a8e3-3f37c689991c

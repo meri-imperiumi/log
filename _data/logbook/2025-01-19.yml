@@ -25,6 +25,8 @@
     - ihmis-suski
     - bergie
   category: navigation
+  origin: auto
+  id: 223efd12-f90a-46d6-a4c0-95aaea25abb6
 - datetime: 2025-01-19T01:00:33.800Z
   text: ""
   author: ""
@@ -52,6 +54,8 @@
     - ihmis-suski
     - bergie
   category: navigation
+  origin: auto
+  id: 57168360-4fba-4385-ab53-ce50611349fe
 - datetime: 2025-01-19T01:33:31.800Z
   text: Gusting up to 35kt, luckily not for long
   author: bergie
@@ -79,6 +83,8 @@
     - ihmis-suski
     - bergie
   category: navigation
+  origin: manual
+  id: 89ac4462-9a52-475f-b7ff-87ae722ef3be
 - datetime: 2025-01-19T01:57:32.800Z
   text: Two flying fish landed in the cockpit. Tossed them out
   author: bergie
@@ -106,6 +112,8 @@
     - ihmis-suski
     - bergie
   category: navigation
+  origin: manual
+  id: ae34e31f-79ec-434d-b9e3-4cb9db6d4ece
 - datetime: 2025-01-19T02:00:32.800Z
   text: ""
   author: ""
@@ -133,6 +141,8 @@
     - ihmis-suski
     - bergie
   category: navigation
+  origin: auto
+  id: b385b6d9-ff63-4f7c-b9c3-d71f1ce78939
 - datetime: 2025-01-19T03:00:30.800Z
   text: Suski on watch
   author: ihmis-suski
@@ -160,6 +170,8 @@
     - ihmis-suski
     - bergie
   category: navigation
+  origin: manual
+  id: 5e500c06-7106-4daa-b152-0e3deb3198e6
 - datetime: 2025-01-19T04:00:29.800Z
   text: ""
   author: ""
@@ -187,6 +199,8 @@
     - ihmis-suski
     - bergie
   category: navigation
+  origin: auto
+  id: 829875ec-c8e7-4cf6-8af1-521d60d6129c
 - datetime: 2025-01-19T04:19:27.900Z
   text: It is absolutely raining flying fish.
   author: ihmis-suski
@@ -214,6 +228,8 @@
     - ihmis-suski
     - bergie
   category: navigation
+  origin: manual
+  id: 8130343c-2fa4-475f-85ab-be851152b9bc
 - datetime: 2025-01-19T05:00:27.900Z
   text: ""
   author: ""
@@ -241,6 +257,8 @@
     - ihmis-suski
     - bergie
   category: navigation
+  origin: auto
+  id: ce56677a-3aff-4f2f-a52a-6bad5e36ffa0
 - datetime: 2025-01-19T06:00:26.899Z
   text: Got smacked in the chest by a flying fish.
   author: ihmis-suski
@@ -268,6 +286,8 @@
     - ihmis-suski
     - bergie
   category: navigation
+  origin: manual
+  id: 21b6ff5f-4b42-4ee9-9ced-5d7492f72daa
 - datetime: 2025-01-19T07:00:25.900Z
   text: ""
   author: ""
@@ -295,6 +315,8 @@
     - ihmis-suski
     - bergie
   category: navigation
+  origin: auto
+  id: 580f12e2-eb8a-449d-b2ac-4d8192b8c68f
 - datetime: 2025-01-19T08:00:24.899Z
   text: ""
   author: ""
@@ -322,6 +344,8 @@
     - ihmis-suski
     - bergie
   category: navigation
+  origin: auto
+  id: fb9ff5bd-79ba-48fa-ba33-73dc2e2741ef
 - datetime: 2025-01-19T09:00:23.001Z
   text: "Bergie on watch "
   author: bergie
@@ -349,6 +373,8 @@
     - ihmis-suski
     - bergie
   category: navigation
+  origin: manual
+  id: 4ddf8134-8681-48a8-95cd-513397916e38
 - datetime: 2025-01-19T10:00:23.001Z
   text: ""
   author: ""
@@ -376,6 +402,8 @@
     - ihmis-suski
     - bergie
   category: navigation
+  origin: auto
+  id: b507a6f4-32a7-4eaa-9b40-49d95b21e3e1
 - datetime: 2025-01-19T10:09:22.000Z
   text: Drizzle
   author: bergie
@@ -403,6 +431,8 @@
     - ihmis-suski
     - bergie
   category: navigation
+  origin: manual
+  id: 20e7ff0a-9033-4d26-93ec-f3d049cd6113
 - datetime: 2025-01-19T10:52:22.000Z
   text: Port side deck scupper was full of flying fish. Cleared it
   author: bergie
@@ -434,6 +464,8 @@
     seaState: 5
     cloudCoverage: 5
     visibility: 7
+  origin: manual
+  id: 94d7b9bf-eff5-4e5c-aa08-4c1482c827e1
 - datetime: 2025-01-19T11:00:20.998Z
   text: ""
   author: ""
@@ -461,6 +493,8 @@
     - ihmis-suski
     - bergie
   category: navigation
+  origin: auto
+  id: f3ff12d5-03a4-44de-a36e-09d100726255
 - datetime: 2025-01-19T12:00:20.000Z
   text: ""
   author: ""
@@ -488,6 +522,8 @@
     - ihmis-suski
     - bergie
   category: navigation
+  origin: auto
+  id: 5c6b76ec-f30c-4c9c-9700-b975ead26bdd
 - datetime: 2025-01-19T12:16:19.100Z
   text: One positive is that the boat looks a lot cleaner after these squalls.
     Lots of Sahara sand being washed off
@@ -519,6 +555,8 @@
   observations:
     seaState: 5
     cloudCoverage: 4
+  origin: manual
+  id: da8dac47-c294-4f14-a214-c03ecd3e7889
 - datetime: 2025-01-19T12:51:19.100Z
   text: TCU squall after TCU squall after another
   author: bergie
@@ -548,6 +586,8 @@
   category: navigation
   observations:
     cloudCoverage: 6
+  origin: manual
+  id: fdd94b05-e426-4d49-8dcc-58967fc05c5a
 - datetime: 2025-01-19T13:00:19.100Z
   text: ""
   author: ""
@@ -575,6 +615,8 @@
     - ihmis-suski
     - bergie
   category: navigation
+  origin: auto
+  id: e9f8ec93-8618-4bc3-bd7c-fd6f26faed3a
 - datetime: 2025-01-19T13:59:18.099Z
   text: Barbados territorial waters starting to peek into our plotter view.
     Closest distance to land 112NM
@@ -603,6 +645,8 @@
     - ihmis-suski
     - bergie
   category: navigation
+  origin: manual
+  id: 804f9ec8-103b-45e3-97ac-4780c5223620
 - datetime: 2025-01-19T14:00:18.099Z
   text: ""
   author: ""
@@ -630,6 +674,8 @@
     - ihmis-suski
     - bergie
   category: navigation
+  origin: auto
+  id: 320408fc-6c21-4776-8513-ad6a96368633
 - datetime: 2025-01-19T15:00:17.100Z
   text: Suski on watch
   author: ihmis-suski
@@ -657,6 +703,8 @@
     - ihmis-suski
     - bergie
   category: navigation
+  origin: manual
+  id: 891df12e-d56a-4519-bdfd-1f006982ef34
 - datetime: 2025-01-19T16:00:16.198Z
   text: ""
   author: ""
@@ -684,6 +732,8 @@
     - ihmis-suski
     - bergie
   category: navigation
+  origin: auto
+  id: 25b27a7f-3758-4b60-8fae-ce7584525f8b
 - datetime: 2025-01-19T17:00:13.196Z
   text: ""
   author: ""
@@ -711,6 +761,8 @@
     - ihmis-suski
     - bergie
   category: navigation
+  origin: auto
+  id: f3a81725-ede4-4704-9f91-3878d2263613
 - datetime: 2025-01-19T17:23:13.203Z
   text: Sea state continues to be a hot mess. Wind from 15 to 30kn. What ever you
     do needs to be re-adjusted shortly, but at least it's not boring
@@ -743,6 +795,8 @@
     seaState: 5
     cloudCoverage: 5
     visibility: 7
+  origin: manual
+  id: a538bea4-4b19-49e4-9058-9ac38067eaef
 - datetime: 2025-01-19T18:00:12.198Z
   text: ""
   author: ""
@@ -770,6 +824,8 @@
     - ihmis-suski
     - bergie
   category: navigation
+  origin: auto
+  id: e1d0b302-0831-4f53-9f6b-14e663d43aa0
 - datetime: 2025-01-19T18:20:12.198Z
   text: Started watermaker
   author: ihmis-suski
@@ -797,6 +853,8 @@
     - ihmis-suski
     - bergie
   category: maintenance
+  origin: manual
+  id: 484f8ca5-556a-4547-9ece-1d660240a7d3
 - datetime: 2025-01-19T18:31:11.200Z
   text: Watermaker 266ppm.
   author: ihmis-suski
@@ -824,6 +882,8 @@
     - ihmis-suski
     - bergie
   category: maintenance
+  origin: manual
+  id: baf0cf32-5839-44dc-b44f-8ac303fee646
 - datetime: 2025-01-19T19:00:10.297Z
   text: ""
   author: ""
@@ -851,6 +911,8 @@
     - ihmis-suski
     - bergie
   category: navigation
+  origin: auto
+  id: ae2f23c1-6dc4-4dc9-bde7-f0c251ea4565
 - datetime: 2025-01-19T19:20:10.297Z
   text: Stopped watermaker, 253ppm
   author: bergie
@@ -878,6 +940,8 @@
     - ihmis-suski
     - bergie
   category: maintenance
+  origin: manual
+  id: f6f8fd0a-e26d-4ed8-bd0b-c170626146fd
 - datetime: 2025-01-19T20:00:09.299Z
   text: ""
   author: ""
@@ -905,6 +969,8 @@
     - ihmis-suski
     - bergie
   category: navigation
+  origin: auto
+  id: 049f59e9-2bd4-4e53-9166-214939bc5881
 - datetime: 2025-01-19T21:00:08.300Z
   text: Bergie on watch. And totally wet
   author: bergie
@@ -936,6 +1002,8 @@
     seaState: 5
     cloudCoverage: 8
     visibility: 4
+  origin: manual
+  id: f6b17956-b577-4846-8d23-c0c44b47cce2
 - datetime: 2025-01-19T21:52:06.297Z
   text: Two frigatebirds circling us. And a squall incoming
   author: bergie
@@ -963,6 +1031,8 @@
     - ihmis-suski
     - bergie
   category: navigation
+  origin: manual
+  id: 6b5438bf-edc5-4df4-a078-fa7c34914597
 - datetime: 2025-01-19T22:00:06.297Z
   text: ""
   author: ""
@@ -990,6 +1060,8 @@
     - ihmis-suski
     - bergie
   category: navigation
+  origin: auto
+  id: 5e7e57ec-95b8-4b8c-906f-5f205b95965b
 - datetime: 2025-01-19T23:00:05.401Z
   text: ""
   author: bergie
@@ -1019,3 +1091,5 @@
   category: navigation
   observations:
     cloudCoverage: 4
+  origin: manual
+  id: 474b8247-494f-45ed-a318-8058c810a25d

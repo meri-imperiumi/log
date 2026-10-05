@@ -20,6 +20,8 @@
     - ihmis-suski
     - bergie
   category: maintenance
+  origin: manual
+  id: 367eee99-c94c-48e4-ad8c-e46bfc675ef3
 - datetime: 2025-11-28T12:34:08.400Z
   text: Watermaker 289ppm
   author: bergie
@@ -42,6 +44,8 @@
     - ihmis-suski
     - bergie
   category: maintenance
+  origin: manual
+  id: c4b16876-4664-434c-8a5b-7a86399980dd
 - datetime: 2025-11-28T13:33:07.398Z
   text: Watermaker 256ppm
   author: bergie
@@ -64,6 +68,8 @@
     - ihmis-suski
     - bergie
   category: maintenance
+  origin: manual
+  id: c0e6fadb-ac18-4ee8-96a4-fa2079d77d0c
 - datetime: 2025-11-28T15:05:08.499Z
   text: Diesel tank sensor started showing values after some wiggling. Seems poor
     contact on Cerbo GX end. Similarly Cerbo started seeing Ruuvi Tags again
@@ -88,6 +94,8 @@
     - ihmis-suski
     - bergie
   category: maintenance
+  origin: manual
+  id: 6691371d-a16b-4f73-9f18-4221b4abdce8
 - datetime: 2025-11-28T15:17:08.499Z
   text: Watermaker 252ppm
   author: bergie
@@ -110,6 +118,8 @@
     - ihmis-suski
     - bergie
   category: maintenance
+  origin: manual
+  id: 67a3bb4a-cd9b-4a8f-ad1c-b89359f014e6
 - datetime: 2025-11-28T17:05:08.499Z
   text: Watermaker 257ppm
   author: bergie
@@ -132,6 +142,8 @@
     - ihmis-suski
     - bergie
   category: maintenance
+  origin: manual
+  id: 25778113-e6b6-4f10-b851-a24bca7356ac
 - datetime: 2025-11-28T18:42:09.600Z
   text: Watermaker 240ppm
   author: bergie
@@ -154,6 +166,8 @@
     - ihmis-suski
     - bergie
   category: maintenance
+  origin: manual
+  id: 5f7c402b-ae9f-4bd4-bd3e-b3fb95fb078c
 - datetime: 2025-11-28T20:21:08.601Z
   text: Stopped watermaker, 239ppm
   author: bergie
@@ -176,6 +190,8 @@
     - ihmis-suski
     - bergie
   category: maintenance
+  origin: manual
+  id: b72b2416-7a53-473e-97e2-02b269e9a433
 - datetime: 2025-11-28T22:03:11.001Z
   text: Started main engine
   author: ""
@@ -198,6 +214,8 @@
     - ihmis-suski
     - bergie
   category: navigation
+  origin: auto
+  id: 9e16d1a7-57cb-46ad-88bc-4d5325d56256
 - datetime: 2025-11-28T23:32:20.102Z
   text: Stopped main engine
   author: ""
@@ -220,3 +238,5 @@
     - ihmis-suski
     - bergie
   category: navigation
+  origin: auto
+  id: d2b84d04-086d-4f96-8da1-284896f7e00d

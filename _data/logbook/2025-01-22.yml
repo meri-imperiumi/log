@@ -21,6 +21,8 @@
     - ihmis-suski
     - bergie
   category: maintenance
+  origin: manual
+  id: fa65c7a4-2d5f-45d7-b74b-9865c0a7b318
 - datetime: 2025-01-22T12:23:01.500Z
   text: Started main engine
   author: ""
@@ -45,6 +47,8 @@
     - ihmis-suski
     - bergie
   category: navigation
+  origin: auto
+  id: 120d4c91-6b8c-414d-8b87-d2a98e74a029
 - datetime: 2025-01-22T12:32:29.500Z
   text: Anchor up, motoring
   author: bergie
@@ -69,6 +73,8 @@
     - ihmis-suski
     - bergie
   category: navigation
+  origin: manual
+  id: e13c8035-e0f2-4413-a139-417a613c3937
 - datetime: 2025-01-22T12:48:11.500Z
   text: Anchored
   author: ""
@@ -94,6 +100,8 @@
     - bergie
   end: true
   category: navigation
+  origin: auto
+  id: e8daa365-46b7-4cc9-8bf6-d0234126e132
 - datetime: 2025-01-22T12:52:18.499Z
   text: Anchor up, motoring
   author: ""
@@ -118,6 +126,8 @@
     - ihmis-suski
     - bergie
   category: navigation
+  origin: auto
+  id: 35fea433-530c-4414-82fb-4c5f0df1947c
 - datetime: 2025-01-22T12:59:18.499Z
   text: Anchored
   author: ""
@@ -143,6 +153,8 @@
     - bergie
   end: true
   category: navigation
+  origin: auto
+  id: c166ac12-d3e2-4031-bf39-dd06ff8d9e8d
 - datetime: 2025-01-22T13:07:02.499Z
   text: Stopped main engine
   author: ""
@@ -167,6 +179,8 @@
     - ihmis-suski
     - bergie
   category: navigation
+  origin: auto
+  id: 065f6576-55c1-4225-911e-aebcb803e5ee
 - datetime: 2025-01-22T15:13:17.497Z
   text: Second round of barnacle removal
   author: bergie
@@ -190,6 +204,8 @@
     - ihmis-suski
     - bergie
   category: maintenance
+  origin: manual
+  id: 0a2af99a-6c80-404e-85d1-ebed3f24ba8a
 - datetime: 2025-01-22T21:19:02.099Z
   text: Started watermaker
   author: bergie
@@ -213,6 +229,8 @@
     - ihmis-suski
     - bergie
   category: maintenance
+  origin: manual
+  id: 6d368d5d-3993-42a0-a0b4-06c3fb900c83
 - datetime: 2025-01-22T21:31:02.099Z
   text: Watermaker 279ppm
   author: bergie
@@ -236,6 +254,8 @@
     - ihmis-suski
     - bergie
   category: maintenance
+  origin: manual
+  id: ac2bed87-9152-480d-99b3-d61c1fcc7ba9
 - datetime: 2025-01-22T23:12:00.198Z
   text: Stopped watermaker, 252 ppm. Jug full
   author: bergie
@@ -259,3 +279,5 @@
     - ihmis-suski
     - bergie
   category: maintenance
+  origin: manual
+  id: c55f0400-c75b-40a8-8405-6b3767aa5958

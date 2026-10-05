@@ -21,6 +21,8 @@
     - ihmis-suski
     - bergie
   category: navigation
+  origin: auto
+  id: e9696988-d948-4a7f-9bf2-374c70f8291c
 - datetime: 2024-04-19T05:45:23.200Z
   text: Anchor up, motoring
   author: ""
@@ -44,6 +46,8 @@
     - ihmis-suski
     - bergie
   category: navigation
+  origin: auto
+  id: b2c17c99-5ab2-49f6-8e4b-29ee9ae594fe
 - datetime: 2024-04-19T06:00:52.200Z
   text: ""
   author: ""
@@ -67,6 +71,8 @@
     - ihmis-suski
     - bergie
   category: navigation
+  origin: auto
+  id: 44686197-d71b-4081-94f1-1cc8cf919034
 - datetime: 2024-04-19T06:03:27.200Z
   text: Motor stopped, sailing with Main (1st reef), Staysail poled out
   author: bergie
@@ -94,6 +100,8 @@
     seaState: 1
     cloudCoverage: 7
     visibility: 8
+  origin: manual
+  id: 925216bf-c696-46ff-bd2b-9a8a932cdf8f
 - datetime: 2024-04-19T07:00:34.200Z
   text: ""
   author: ""
@@ -118,6 +126,8 @@
     - ihmis-suski
     - bergie
   category: navigation
+  origin: auto
+  id: 1fad5cb1-536d-4c7f-b5cf-3ae3ca062be8
 - datetime: 2024-04-19T07:37:25.200Z
   text: "Deployed hydrogenerator "
   author: bergie
@@ -145,6 +155,8 @@
   observations:
     seaState: 3
     cloudCoverage: 6
+  origin: manual
+  id: 009cd90c-396c-468d-9df5-0bd9fb92a80f
 - datetime: 2024-04-19T08:00:18.201Z
   text: ""
   author: ""
@@ -169,6 +181,8 @@
     - ihmis-suski
     - bergie
   category: navigation
+  origin: auto
+  id: cf62cad8-fa23-471f-be95-6b1cf908c543
 - datetime: 2024-04-19T08:38:08.499Z
   text: "Windvane steering "
   author: bergie
@@ -193,6 +207,8 @@
     - ihmis-suski
     - bergie
   category: navigation
+  origin: manual
+  id: 876b56f6-d642-4508-be29-4c6af25baeb5
 - datetime: 2024-04-19T09:00:01.500Z
   text: ""
   author: ""
@@ -217,6 +233,8 @@
     - ihmis-suski
     - bergie
   category: navigation
+  origin: auto
+  id: c4fa9b1a-bda8-4280-8b03-ebaa7c5ccf15
 - datetime: 2024-04-19T10:00:44.499Z
   text: ""
   author: ""
@@ -241,6 +259,8 @@
     - ihmis-suski
     - bergie
   category: navigation
+  origin: auto
+  id: e38ccac1-128d-4f7f-8256-173c3553de09
 - datetime: 2024-04-19T11:00:26.499Z
   text: ""
   author: ""
@@ -265,6 +285,8 @@
     - ihmis-suski
     - bergie
   category: navigation
+  origin: auto
+  id: 2961d464-810d-4a6f-af34-32131462e5f1
 - datetime: 2024-04-19T12:00:12.499Z
   text: ""
   author: ""
@@ -289,6 +311,8 @@
     - ihmis-suski
     - bergie
   category: navigation
+  origin: auto
+  id: a9436c0f-287d-44bd-9eb6-97af12f7cfc1
 - datetime: 2024-04-19T13:00:57.401Z
   text: ""
   author: ""
@@ -313,30 +337,8 @@
     - ihmis-suski
     - bergie
   category: navigation
-- datetime: 2024-04-19T14:00:37.401Z
-  text: ""
-  author: ""
-  position:
-    longitude: 7.7269865
-    latitude: 57.9982836
-    source: GPS
-  heading: 305
-  course: 288
-  speed:
-    stw: 6.3
-    sog: 5.8
-  log: 3874.9
-  barometer: 1010.01
-  wind:
-    speed: 18.9
-    direction: 77
-  engine:
-    hours: 725.5
-  vhf: "16"
-  crewNames:
-    - ihmis-suski
-    - bergie
-  category: navigation
+  origin: auto
+  id: e4811978-0b88-45dc-9aa6-e73172158680
 - datetime: 2024-04-19T14:00:37.401Z
   text: Hand steering,  getting back into the inner fairway
   author: bergie
@@ -361,6 +363,34 @@
     - ihmis-suski
     - bergie
   category: navigation
+  origin: manual
+  id: 5127b479-c63d-4dbe-bc79-1633f8445c5b
+- datetime: 2024-04-19T14:00:37.401Z
+  text: ""
+  author: ""
+  position:
+    longitude: 7.7269865
+    latitude: 57.9982836
+    source: GPS
+  heading: 305
+  course: 288
+  speed:
+    stw: 6.3
+    sog: 5.8
+  log: 3874.9
+  barometer: 1010.01
+  wind:
+    speed: 18.9
+    direction: 77
+  engine:
+    hours: 725.5
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: navigation
+  origin: auto
+  id: c7c83ee0-e017-4ac1-8ef3-cb4d047f5de8
 - datetime: 2024-04-19T14:28:29.401Z
   text: "Stowed hydrogenerator "
   author: bergie
@@ -385,6 +415,8 @@
     - ihmis-suski
     - bergie
   category: navigation
+  origin: manual
+  id: 4e515eec-4f2c-4508-82f1-09a92d5c3a6a
 - datetime: 2024-04-19T15:00:20.403Z
   text: ""
   author: ""
@@ -409,6 +441,8 @@
     - ihmis-suski
     - bergie
   category: navigation
+  origin: auto
+  id: 043ae182-ccb4-4525-8a10-558092c0d751
 - datetime: 2024-04-19T15:45:45.401Z
   text: Sails down, motoring
   author: ""
@@ -433,6 +467,8 @@
     - ihmis-suski
     - bergie
   category: navigation
+  origin: auto
+  id: fe3dfedf-7edf-4151-8465-8215e3a04eb9
 - datetime: 2024-04-19T16:00:02.400Z
   text: ""
   author: ""
@@ -457,6 +493,8 @@
     - ihmis-suski
     - bergie
   category: navigation
+  origin: auto
+  id: f0ebd925-9e38-4b1a-8622-00dfc509d3a7
 - datetime: 2024-04-19T16:06:23.398Z
   text: Stopped, Mandal guest harbour
   author: bergie
@@ -482,6 +520,8 @@
     - bergie
   end: true
   category: navigation
+  origin: manual
+  id: 73d1a24f-73f6-4453-b191-8c11547c17fd
 - datetime: 2024-04-19T19:13:16.403Z
   text: Pumped the bilge
   author: bergie
@@ -505,3 +545,5 @@
     - ihmis-suski
     - bergie
   category: maintenance
+  origin: manual
+  id: 0117533b-add2-482f-9678-3782574eace9

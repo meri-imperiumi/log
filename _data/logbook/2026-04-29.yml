@@ -23,6 +23,8 @@
     - ihmis-suski
     - bergie
   category: navigation
+  origin: auto
+  id: 2516c0b1-79c5-4392-b5b1-4356985fbac0
 - datetime: 2026-04-29T04:02:45.200Z
   text: Stopped main engine
   author: ""
@@ -48,6 +50,8 @@
     - ihmis-suski
     - bergie
   category: navigation
+  origin: auto
+  id: 91e5b6b5-88b6-4a0f-aa6f-337505e07de3
 - datetime: 2026-04-29T18:03:52.000Z
   text: Greased front chamber of shaft seal
   author: bergie
@@ -73,6 +77,8 @@
     - ihmis-suski
     - bergie
   category: engine
+  origin: manual
+  id: cfeec1ca-d20d-4ddb-858b-7414528d9d81
 - datetime: 2026-04-29T18:08:46.003Z
   text: Started main engine
   author: ""
@@ -98,6 +104,8 @@
     - ihmis-suski
     - bergie
   category: navigation
+  origin: auto
+  id: 6d0ef175-4014-47cf-a6cd-68e59ee37882
 - datetime: 2026-04-29T18:20:44.000Z
   text: Stopped main engine
   author: ""
@@ -123,6 +131,8 @@
     - ihmis-suski
     - bergie
   category: navigation
+  origin: auto
+  id: d4738391-e8f5-4848-ad3e-fe722d21ebec
 - datetime: 2026-04-29T18:47:53.996Z
   text: Filled up 40l diesel via baja filter
   author: bergie
@@ -148,3 +158,5 @@
     - ihmis-suski
     - bergie
   category: engine
+  origin: manual
+  id: 03ab7ff2-12d9-40ee-921a-3ff2efa9c9bb

@@ -21,6 +21,8 @@
     - ihmis-suski
     - bergie
   category: maintenance
+  origin: manual
+  id: 3d9f8bed-0277-42ed-bc6f-2bbc0f2c0821
 - datetime: 2024-05-28T11:32:02.499Z
   text: Started main engine
   author: ""
@@ -44,6 +46,8 @@
     - ihmis-suski
     - bergie
   category: navigation
+  origin: auto
+  id: 4b7d45cc-f37a-4b2e-9044-844f4eaf48b3
 - datetime: 2024-05-28T11:35:29.500Z
   text: Anchor up, motoring
   author: ""
@@ -67,6 +71,8 @@
     - ihmis-suski
     - bergie
   category: navigation
+  origin: auto
+  id: d73b8428-d2fe-42ba-960c-e6c9ff5ac039
 - datetime: 2024-05-28T11:43:09.500Z
   text: Suspiciously low output from alternator. VictronConnect says the last run
     ended with a "software reset"
@@ -91,6 +97,8 @@
     - ihmis-suski
     - bergie
   category: engine
+  origin: manual
+  id: 02fc9cea-4502-4586-9c27-c6ddaa3ed273
 - datetime: 2024-05-28T11:47:42.499Z
   text: Motor stopped, sailing with Main, Genoa 1
   author: ""
@@ -114,6 +122,8 @@
     - ihmis-suski
     - bergie
   category: navigation
+  origin: auto
+  id: 070e0391-979c-47f3-9efe-e73746c4a4e9
 - datetime: 2024-05-28T12:00:09.500Z
   text: ""
   author: ""
@@ -137,6 +147,8 @@
     - ihmis-suski
     - bergie
   category: navigation
+  origin: auto
+  id: 3187c7a9-cff0-426e-956c-a9f907cdd2dc
 - datetime: 2024-05-28T12:56:11.500Z
   text: Seeing a distant mountaintop at 268°M, must be on Lewis
   author: bergie
@@ -165,6 +177,8 @@
     seaState: 2
     cloudCoverage: 7
     visibility: 9
+  origin: manual
+  id: be774993-9163-4356-982e-5c83954fa4a1
 - datetime: 2024-05-28T13:00:11.500Z
   text: ""
   author: ""
@@ -189,6 +203,8 @@
     - ihmis-suski
     - bergie
   category: navigation
+  origin: auto
+  id: 69c1cb9d-3ce9-41f7-b97c-156228ce7010
 - datetime: 2024-05-28T14:00:11.500Z
   text: ""
   author: ""
@@ -213,6 +229,8 @@
     - ihmis-suski
     - bergie
   category: navigation
+  origin: auto
+  id: c0996e15-981a-4fbf-bf8c-bbbb36355081
 - datetime: 2024-05-28T15:00:12.902Z
   text: ""
   author: ""
@@ -237,6 +255,8 @@
     - ihmis-suski
     - bergie
   category: navigation
+  origin: auto
+  id: a2b9f9be-a796-4bbc-93df-c4e2d36a5ed8
 - datetime: 2024-05-28T16:00:12.902Z
   text: ""
   author: ""
@@ -261,6 +281,8 @@
     - ihmis-suski
     - bergie
   category: navigation
+  origin: auto
+  id: a8b098c3-e1cf-4b9b-af83-1832a402800a
 - datetime: 2024-05-28T16:48:42.899Z
   text: Sails down, motoring
   author: ""
@@ -285,6 +307,8 @@
     - ihmis-suski
     - bergie
   category: navigation
+  origin: auto
+  id: 3e65b9ec-b870-45c8-8aac-b4283e9de6d2
 - datetime: 2024-05-28T17:00:13.900Z
   text: ""
   author: ""
@@ -308,6 +332,8 @@
     - ihmis-suski
     - bergie
   category: navigation
+  origin: auto
+  id: d7ba13e3-0a74-40f5-ad68-957686943217
 - datetime: 2024-05-28T17:18:38.899Z
   text: Anchored
   author: ""
@@ -332,3 +358,5 @@
     - bergie
   end: true
   category: navigation
+  origin: auto
+  id: 17efad6d-738c-4b7d-828b-be2a0495fca5

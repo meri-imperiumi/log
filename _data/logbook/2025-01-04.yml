@@ -25,6 +25,8 @@
     - ihmis-suski
     - bergie
   category: navigation
+  origin: auto
+  id: 40d42b5c-3ddd-45e0-b9bb-9fb56aaaf515
 - datetime: 2025-01-04T01:00:05.000Z
   text: Bergie on watch
   author: bergie
@@ -52,6 +54,8 @@
     - ihmis-suski
     - bergie
   category: navigation
+  origin: manual
+  id: 6db20cd5-c5e9-46af-9fa5-ceeac85c6cdd
 - datetime: 2025-01-04T02:00:04.000Z
   text: ""
   author: ""
@@ -79,6 +83,8 @@
     - ihmis-suski
     - bergie
   category: navigation
+  origin: auto
+  id: c8de9f33-d3d7-4fbb-9a07-e857e179439f
 - datetime: 2025-01-04T02:15:04.000Z
   text: Tanker Windsor is crossing ahead at 5NM southbound. Vessel 2.
   author: bergie
@@ -106,6 +112,8 @@
     - ihmis-suski
     - bergie
   category: navigation
+  origin: manual
+  id: a026a968-18e4-40f2-acac-3381924ba001
 - datetime: 2025-01-04T03:00:04.000Z
   text: ""
   author: ""
@@ -133,6 +141,8 @@
     - ihmis-suski
     - bergie
   category: navigation
+  origin: auto
+  id: d7141070-4114-4e4a-b880-3c90193fd4b2
 - datetime: 2025-01-04T04:00:04.000Z
   text: ""
   author: ""
@@ -160,6 +170,8 @@
     - ihmis-suski
     - bergie
   category: navigation
+  origin: auto
+  id: bb0e26e4-2afa-4a18-90bc-f1a07002a8b8
 - datetime: 2025-01-04T05:00:05.100Z
   text: ""
   author: ""
@@ -187,6 +199,8 @@
     - ihmis-suski
     - bergie
   category: navigation
+  origin: auto
+  id: 907998d2-36df-4695-906b-10411ea247e5
 - datetime: 2025-01-04T06:00:05.100Z
   text: ""
   author: ""
@@ -214,6 +228,8 @@
     - ihmis-suski
     - bergie
   category: navigation
+  origin: auto
+  id: a0d15e96-50be-497c-b936-3732a1efd11c
 - datetime: 2025-01-04T07:00:07.100Z
   text: Suski on watch
   author: bergie
@@ -241,6 +257,8 @@
     - ihmis-suski
     - bergie
   category: navigation
+  origin: manual
+  id: 33c274b8-8e18-4d15-a58d-e9a170f89a47
 - datetime: 2025-01-04T08:00:08.099Z
   text: ""
   author: ""
@@ -268,6 +286,8 @@
     - ihmis-suski
     - bergie
   category: navigation
+  origin: auto
+  id: 3ff24468-abcc-46f0-a41a-c8d8cc0c9623
 - datetime: 2025-01-04T08:23:09.100Z
   text: Sun
   author: ihmis-suski
@@ -299,6 +319,8 @@
     seaState: 4
     cloudCoverage: 2
     visibility: 7
+  origin: manual
+  id: c6f36d46-5d40-4d7d-9759-eed044cb120a
 - datetime: 2025-01-04T09:00:11.100Z
   text: ""
   author: ""
@@ -326,6 +348,8 @@
     - ihmis-suski
     - bergie
   category: navigation
+  origin: auto
+  id: 851de713-87f7-4459-ab30-135cf317b370
 - datetime: 2025-01-04T10:00:10.201Z
   text: ""
   author: ""
@@ -353,6 +377,8 @@
     - ihmis-suski
     - bergie
   category: navigation
+  origin: auto
+  id: c8e071ce-6631-4de4-99c4-1d8519982592
 - datetime: 2025-01-04T10:55:11.200Z
   text: "Added a bit of chain to wind vane steering. Need more weather helm
     compensation. "
@@ -385,6 +411,8 @@
     seaState: 4
     cloudCoverage: 1
     visibility: 7
+  origin: manual
+  id: 756fef79-bb55-4bd6-b984-14049807f565
 - datetime: 2025-01-04T11:00:11.200Z
   text: ""
   author: ""
@@ -412,6 +440,8 @@
     - ihmis-suski
     - bergie
   category: navigation
+  origin: auto
+  id: 4b879965-a536-4507-b32d-191b1d728300
 - datetime: 2025-01-04T11:33:47.600Z
   text: |-
     Sails set: Genoa 1 (30% furled), Staysail.
@@ -442,6 +472,8 @@
     - ihmis-suski
     - bergie
   category: navigation
+  origin: manual
+  id: cce130f2-dba7-4c65-935a-2a87595aaaf4
 - datetime: 2025-01-04T11:58:10.598Z
   text: "Sew the top most slider on mainsail to its place. Old one had broken. "
   author: ihmis-suski
@@ -469,6 +501,8 @@
     - ihmis-suski
     - bergie
   category: maintenance
+  origin: manual
+  id: 20f70ccc-a909-4f8d-a533-02df1e60535f
 - datetime: 2025-01-04T12:00:11.600Z
   text: ""
   author: ""
@@ -496,6 +530,8 @@
     - ihmis-suski
     - bergie
   category: navigation
+  origin: auto
+  id: 0b0e68a5-d057-46b3-a63b-47d98c998c2b
 - datetime: 2025-01-04T13:00:10.598Z
   text: Bergie on watch
   author: bergie
@@ -527,6 +563,8 @@
     seaState: 4
     cloudCoverage: 4
     visibility: 7
+  origin: manual
+  id: e8855086-3ad3-40d0-a7d8-d67fb9f93c9c
 - datetime: 2025-01-04T13:02:09.600Z
   text: "Started watermaker "
   author: bergie
@@ -554,6 +592,8 @@
     - ihmis-suski
     - bergie
   category: maintenance
+  origin: manual
+  id: 8c8afb74-4dbd-42a5-a0e1-194900abd01e
 - datetime: 2025-01-04T13:15:09.600Z
   text: Watermaker 229ppm
   author: bergie
@@ -581,6 +621,8 @@
     - ihmis-suski
     - bergie
   category: maintenance
+  origin: manual
+  id: 27947d6e-6e41-4dd1-a357-fee8b2037fd8
 - datetime: 2025-01-04T14:00:08.601Z
   text: ""
   author: ""
@@ -608,6 +650,8 @@
     - ihmis-suski
     - bergie
   category: navigation
+  origin: auto
+  id: de78555d-f65f-44c0-b39d-f0ce53c8414d
 - datetime: 2025-01-04T14:57:07.699Z
   text: Watermaker 217ppm, jug full
   author: bergie
@@ -635,6 +679,8 @@
     - ihmis-suski
     - bergie
   category: maintenance
+  origin: manual
+  id: ecfa5f46-2273-4911-b12a-1789235f7f94
 - datetime: 2025-01-04T15:00:07.699Z
   text: ""
   author: ""
@@ -662,6 +708,8 @@
     - ihmis-suski
     - bergie
   category: navigation
+  origin: auto
+  id: 3e0de242-043f-4872-adf7-b4f121d1f496
 - datetime: 2025-01-04T16:00:04.697Z
   text: ""
   author: bergie
@@ -693,6 +741,8 @@
     cloudCoverage: 7
     seaState: 4
     visibility: 7
+  origin: manual
+  id: 8c7971d5-389a-43ec-bc45-bd4cee17cb0d
 - datetime: 2025-01-04T16:24:04.697Z
   text: Stopped watermaker, 211ppm
   author: bergie
@@ -720,6 +770,8 @@
     - ihmis-suski
     - bergie
   category: maintenance
+  origin: manual
+  id: 0efe331a-f332-4a7e-92d2-51dd7c701a00
 - datetime: 2025-01-04T17:00:03.699Z
   text: ""
   author: ""
@@ -747,6 +799,8 @@
     - ihmis-suski
     - bergie
   category: navigation
+  origin: auto
+  id: d1d0c578-304a-4361-898d-f03eb74cb388
 - datetime: 2025-01-04T18:00:02.700Z
   text: ""
   author: ""
@@ -774,6 +828,8 @@
     - ihmis-suski
     - bergie
   category: navigation
+  origin: auto
+  id: 136be9ea-9815-4579-8fdc-19015315df52
 - datetime: 2025-01-04T19:00:52.800Z
   text: Suski on watch
   author: ihmis-suski
@@ -805,6 +861,8 @@
     seaState: 4
     cloudCoverage: 2
     visibility: 7
+  origin: manual
+  id: f6217a91-fd7a-4b8f-8861-2a1200e6cbb4
 - datetime: 2025-01-04T19:57:45.798Z
   text: Bananas are now eaten. 3 days and 1 kg of om nom nom.
   author: ihmis-suski
@@ -832,6 +890,8 @@
     - ihmis-suski
     - bergie
   category: navigation
+  origin: manual
+  id: 164facbb-83ec-4824-b9d0-5c658e92c10d
 - datetime: 2025-01-04T20:00:45.798Z
   text: ""
   author: ""
@@ -859,6 +919,8 @@
     - ihmis-suski
     - bergie
   category: navigation
+  origin: auto
+  id: 11bd28d1-4bce-4851-8888-1abe88de4be8
 - datetime: 2025-01-04T21:00:44.800Z
   text: ""
   author: ""
@@ -886,6 +948,8 @@
     - ihmis-suski
     - bergie
   category: navigation
+  origin: auto
+  id: acf5bb96-813a-4a14-b07d-19e55ab3b04f
 - datetime: 2025-01-04T22:00:42.803Z
   text: ""
   author: ""
@@ -913,6 +977,8 @@
     - ihmis-suski
     - bergie
   category: navigation
+  origin: auto
+  id: 6be47255-64a1-4a2d-9be7-d0d41de6ea00
 - datetime: 2025-01-04T23:00:41.798Z
   text: ""
   author: ""
@@ -939,3 +1005,6 @@
   crewNames:
     - ihmis-suski
     - bergie
+  category: navigation
+  origin: auto
+  id: cf6d23de-14b7-4239-ba57-e92f3bb58ad7

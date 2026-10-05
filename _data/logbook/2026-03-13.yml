@@ -28,6 +28,8 @@
     seaState: 3
     cloudCoverage: 1
     visibility: 7
+  origin: manual
+  id: f3397097-3e40-475a-81cc-b3ad1111775a
 - datetime: 2026-03-13T01:00:43.800Z
   text: "A juvenile booby on the aft panel. "
   author: ihmis-suski
@@ -54,6 +56,8 @@
     - ihmis-suski
     - bergie
   category: navigation
+  origin: manual
+  id: 2af950db-99d2-4797-93df-fbcdbc2fc4b6
 - datetime: 2026-03-13T02:00:45.800Z
   text: ""
   author: ""
@@ -80,6 +84,8 @@
     - ihmis-suski
     - bergie
   category: navigation
+  origin: auto
+  id: 5fdf2be3-6bc6-458a-b9c9-1cd0b142bccc
 - datetime: 2026-03-13T03:00:47.800Z
   text: ""
   author: ""
@@ -106,6 +112,8 @@
     - ihmis-suski
     - bergie
   category: navigation
+  origin: auto
+  id: 69316463-8fd8-4874-bb67-85b91f33b48b
 - datetime: 2026-03-13T04:00:49.800Z
   text: ""
   author: ""
@@ -132,6 +140,8 @@
     - ihmis-suski
     - bergie
   category: navigation
+  origin: auto
+  id: e2f5ebf3-8ee6-4572-b9b3-39c53e665143
 - datetime: 2026-03-13T04:30:51.200Z
   text: Very faint white light on our port side
   author: ihmis-suski
@@ -158,6 +168,8 @@
     - ihmis-suski
     - bergie
   category: navigation
+  origin: manual
+  id: 981e472d-eeef-4968-88bd-a267bba93f6e
 - datetime: 2026-03-13T04:48:53.200Z
   text: "Definitely a fishing boat. Because boat with random lights with no
     AIS  and from time to time we get static on channel 16 #10"
@@ -185,6 +197,8 @@
     - ihmis-suski
     - bergie
   category: navigation
+  origin: manual
+  id: 54533dd5-74e3-45b2-8118-d7240dd9ecd2
 - datetime: 2026-03-13T05:00:53.200Z
   text: ""
   author: ""
@@ -211,6 +225,8 @@
     - ihmis-suski
     - bergie
   category: navigation
+  origin: auto
+  id: f9cdde89-8764-4708-8c7e-fcdc628f360f
 - datetime: 2026-03-13T06:00:55.299Z
   text: Bergie on watch
   author: bergie
@@ -241,6 +257,8 @@
     seaState: 3
     cloudCoverage: 0
     visibility: 7
+  origin: manual
+  id: 25159f53-8942-4bed-847d-cb4dc45d1e87
 - datetime: 2026-03-13T07:00:58.300Z
   text: ""
   author: ""
@@ -267,6 +285,8 @@
     - ihmis-suski
     - bergie
   category: navigation
+  origin: auto
+  id: fe7b59bc-ab28-4401-8db2-f5489804d109
 - datetime: 2026-03-13T08:00:01.299Z
   text: ""
   author: ""
@@ -293,6 +313,8 @@
     - ihmis-suski
     - bergie
   category: navigation
+  origin: auto
+  id: 6562cd1f-f9df-4693-bc88-24fd922ed5c1
 - datetime: 2026-03-13T08:58:05.299Z
   text: We just snapped to the Marquesas WP, so no longer counting VMG for the
     Galapagos one
@@ -320,6 +342,8 @@
     - ihmis-suski
     - bergie
   category: navigation
+  origin: manual
+  id: 76690310-a57f-4306-a6cc-2dfe458dcd3a
 - datetime: 2026-03-13T09:00:05.299Z
   text: ""
   author: ""
@@ -346,6 +370,8 @@
     - ihmis-suski
     - bergie
   category: navigation
+  origin: auto
+  id: 9a9ca06d-07e0-440c-b3d0-9032361935ef
 - datetime: 2026-03-13T10:00:08.400Z
   text: ""
   author: ""
@@ -372,6 +398,8 @@
     - ihmis-suski
     - bergie
   category: navigation
+  origin: auto
+  id: dbd33d51-02d1-4691-b4fe-30c25ee1e204
 - datetime: 2026-03-13T11:00:10.400Z
   text: ""
   author: ""
@@ -398,6 +426,8 @@
     - ihmis-suski
     - bergie
   category: navigation
+  origin: auto
+  id: 5faf128b-30ac-40f1-b372-fe9beb5cd1e8
 - datetime: 2026-03-13T11:34:11.398Z
   text: Our night guest just left
   author: bergie
@@ -424,6 +454,8 @@
     - ihmis-suski
     - bergie
   category: navigation
+  origin: manual
+  id: d1c71191-baaa-4a9b-a88c-873ba9579cfc
 - datetime: 2026-03-13T12:00:13.401Z
   text: Suski on watch
   author: ihmis-suski
@@ -454,6 +486,8 @@
     seaState: 3
     cloudCoverage: 2
     visibility: 7
+  origin: manual
+  id: b9b46d4f-6970-4678-a38c-cd89a57be519
 - datetime: 2026-03-13T13:00:15.500Z
   text: ""
   author: ""
@@ -480,6 +514,8 @@
     - ihmis-suski
     - bergie
   category: navigation
+  origin: auto
+  id: 02d46869-fb09-4589-b8bc-16e5996d5de7
 - datetime: 2026-03-13T14:00:17.500Z
   text: ""
   author: ""
@@ -506,6 +542,8 @@
     - ihmis-suski
     - bergie
   category: navigation
+  origin: auto
+  id: 0b0f8f41-a0ef-46a7-9922-c0953603728f
 - datetime: 2026-03-13T15:00:19.500Z
   text: ""
   author: ""
@@ -532,6 +570,8 @@
     - ihmis-suski
     - bergie
   category: navigation
+  origin: auto
+  id: d855c97d-a32a-46b7-8844-5fcad6ed27b8
 - datetime: 2026-03-13T15:24:14.899Z
   text: "Sails set: Main, Genoa 1 (30% furled) wind keeps hiking up, so just in
     case it keeps doing it, we are good for it."
@@ -559,6 +599,8 @@
     - ihmis-suski
     - bergie
   category: navigation
+  origin: manual
+  id: 1c3e8d6d-6fd3-4430-bce5-26a72389b7e1
 - datetime: 2026-03-13T16:00:23.897Z
   text: ""
   author: ""
@@ -585,6 +627,8 @@
     - ihmis-suski
     - bergie
   category: navigation
+  origin: auto
+  id: 0d50b3e4-68c4-4b68-85a1-329b70e88229
 - datetime: 2026-03-13T17:00:25.996Z
   text: ""
   author: ""
@@ -611,6 +655,8 @@
     - ihmis-suski
     - bergie
   category: navigation
+  origin: auto
+  id: 7e9aef12-e9d3-4c2b-9d4b-005970cb3a6d
 - datetime: 2026-03-13T17:35:28.000Z
   text: Heading towards Marquesas. ETA says 24 days
   author: bergie
@@ -637,6 +683,8 @@
     - ihmis-suski
     - bergie
   category: navigation
+  origin: manual
+  id: 34b55e45-6615-453d-b4d5-d382f7681d57
 - datetime: 2026-03-13T17:40:27.001Z
   text: Started watermaker
   author: bergie
@@ -663,6 +711,8 @@
     - ihmis-suski
     - bergie
   category: maintenance
+  origin: manual
+  id: 47bd3f8d-4144-4d4a-832b-f4d1ad4be6b4
 - datetime: 2026-03-13T17:52:28.000Z
   text: Watermaker 279ppm
   author: bergie
@@ -689,6 +739,8 @@
     - ihmis-suski
     - bergie
   category: maintenance
+  origin: manual
+  id: a66931d1-f647-4e47-8a17-d2b236d2743f
 - datetime: 2026-03-13T18:00:28.000Z
   text: Bergie on watch
   author: bergie
@@ -719,6 +771,8 @@
     seaState: 3
     cloudCoverage: 3
     visibility: 7
+  origin: manual
+  id: 58393088-48d0-40f2-b61f-521dbeaf3a50
 - datetime: 2026-03-13T19:00:31.001Z
   text: ""
   author: ""
@@ -745,6 +799,8 @@
     - ihmis-suski
     - bergie
   category: navigation
+  origin: auto
+  id: 07695d89-3487-4067-818c-0d5b533f868d
 - datetime: 2026-03-13T19:08:31.001Z
   text: There's a squall ahead. Need to monitor how it moves
   author: bergie
@@ -771,6 +827,8 @@
     - ihmis-suski
     - bergie
   category: navigation
+  origin: manual
+  id: 35d3a568-1baf-4ff6-9e98-73703c91337c
 - datetime: 2026-03-13T19:08:31.001Z
   text: There's a squall ahead. Need to monitor how it moves
   author: bergie
@@ -797,6 +855,8 @@
     - ihmis-suski
     - bergie
   category: navigation
+  origin: manual
+  id: 74f0ea10-8f7b-4267-b0f5-87e49bcefe3c
 - datetime: 2026-03-13T19:25:32.102Z
   text: Bilge alarm and pumped the bilge. 12 pumps
   author: bergie
@@ -823,6 +883,8 @@
     - ihmis-suski
     - bergie
   category: maintenance
+  origin: manual
+  id: 1cbc9e62-673c-4af2-a978-62f66774f184
 - datetime: 2026-03-13T19:27:46.099Z
   text: "Sails set: Main (1st reef), Genoa 1 (30% furled)"
   author: bergie
@@ -851,6 +913,8 @@
   category: navigation
   observations:
     cloudCoverage: 5
+  origin: manual
+  id: 608c31e8-c84f-4363-9b23-2a10ba2c81b8
 - datetime: 2026-03-13T19:35:32.102Z
   text: Stopped watermaker, 254ppm
   author: bergie
@@ -877,6 +941,8 @@
     - ihmis-suski
     - bergie
   category: maintenance
+  origin: manual
+  id: 3ca53349-b3bd-4c7b-ac23-4fcdf3aa922e
 - datetime: 2026-03-13T19:38:11.097Z
   text: "Sails set: Main (1st reef), Genoa 1 (40% furled)"
   author: ""
@@ -903,6 +969,8 @@
     - ihmis-suski
     - bergie
   category: navigation
+  origin: auto
+  id: bfb43d2d-9efd-46bd-a44b-b5edae57f718
 - datetime: 2026-03-13T20:00:35.097Z
   text: ""
   author: ""
@@ -929,6 +997,8 @@
     - ihmis-suski
     - bergie
   category: navigation
+  origin: auto
+  id: a454bf0a-e2bd-4562-b1f5-ccfcfb45ec96
 - datetime: 2026-03-13T21:00:38.099Z
   text: ""
   author: ""
@@ -955,6 +1025,8 @@
     - ihmis-suski
     - bergie
   category: navigation
+  origin: auto
+  id: 7b0b4cfa-1320-4eaa-b1bc-e7c4e7df14de
 - datetime: 2026-03-13T22:00:39.097Z
   text: ""
   author: ""
@@ -981,6 +1053,8 @@
     - ihmis-suski
     - bergie
   category: navigation
+  origin: auto
+  id: b4e6f76f-8fdc-4fb6-8341-ee6b1c4a9c0f
 - datetime: 2026-03-13T22:12:39.200Z
   text: Got a Lost GPS fix alarm from our main unit. It seems the others were
     still getting a fix. Recovered quite quickly
@@ -1008,6 +1082,8 @@
     - ihmis-suski
     - bergie
   category: maintenance
+  origin: manual
+  id: 6d7bc83c-8bce-422b-ae39-53a420308ae4
 - datetime: 2026-03-13T23:00:38.201Z
   text: ""
   author: ""
@@ -1033,3 +1109,6 @@
   crewNames:
     - ihmis-suski
     - bergie
+  category: navigation
+  origin: auto
+  id: 25894125-3df3-44e7-bd19-e381a7fe44c8

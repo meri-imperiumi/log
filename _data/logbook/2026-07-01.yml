@@ -27,6 +27,8 @@
     - ihmis-suski
     - bergie
   category: maintenance
+  origin: manual
+  id: 99559da4-5dd4-4816-a2b3-fc2568683028
 - datetime: 2026-07-01T01:20:10.100Z
   text: Watermaker 338ppm
   author: bergie
@@ -56,6 +58,8 @@
     - ihmis-suski
     - bergie
   category: maintenance
+  origin: manual
+  id: d7ecf732-0c90-4d4e-ba1b-5db40e2548d4
 - datetime: 2026-07-01T03:02:11.100Z
   text: Stopped watermaker, 221ppm
   author: bergie
@@ -85,6 +89,8 @@
     - ihmis-suski
     - bergie
   category: maintenance
+  origin: manual
+  id: c8ef8f47-414d-433d-97b1-4c1c707d8aa3
 - datetime: 2026-07-01T22:16:54.400Z
   text: Started watermaker
   author: bergie
@@ -114,6 +120,8 @@
     - bergie
     - ihmis-suski
   category: maintenance
+  origin: manual
+  id: bc8b92c9-d034-466a-b8a2-05cbc083eee2
 - datetime: 2026-07-01T22:28:54.400Z
   text: Watermaker 341ppm
   author: bergie
@@ -143,3 +151,5 @@
     - bergie
     - ihmis-suski
   category: maintenance
+  origin: manual
+  id: 7610cfc9-19d1-4c15-a7ae-9f1196e87153

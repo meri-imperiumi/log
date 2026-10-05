@@ -24,6 +24,8 @@
     - ihmis-suski
     - bergie
   category: navigation
+  origin: auto
+  id: 64b6f1c0-4c2d-4c3e-8233-4b73a60b017f
 - datetime: 2025-12-17T12:33:45.100Z
   text: Anchor up, motoring
   author: ""
@@ -50,6 +52,8 @@
     - ihmis-suski
     - bergie
   category: navigation
+  origin: auto
+  id: d3e82bdf-b332-4b61-8919-ca7c15d1396a
 - datetime: 2025-12-17T13:00:07.100Z
   text: ""
   author: ""
@@ -76,6 +80,8 @@
     - ihmis-suski
     - bergie
   category: navigation
+  origin: auto
+  id: c99070ef-cf40-4bec-8ef7-ada4eb5b5b44
 - datetime: 2025-12-17T13:17:07.100Z
   text: Stopped at a waiting mooring ball
   author: bergie
@@ -103,6 +109,8 @@
     - bergie
   end: true
   category: navigation
+  origin: manual
+  id: 0296ff2e-13fc-45f7-931a-7b5e42453a1e
 - datetime: 2025-12-17T16:21:42.598Z
   text: Started main engine
   author: ""
@@ -128,6 +136,8 @@
     - ihmis-suski
     - bergie
   category: navigation
+  origin: auto
+  id: 00e6ea17-f2e3-4e36-9e1d-415a94a56324
 - datetime: 2025-12-17T16:25:35.603Z
   text: Stopped main engine
   author: ""
@@ -153,6 +163,8 @@
     - ihmis-suski
     - bergie
   category: navigation
+  origin: auto
+  id: 6d453170-5e14-48ed-bd3a-80250174817b
 - datetime: 2025-12-17T16:33:14.598Z
   text: Stopped at the slip
   author: bergie
@@ -179,6 +191,8 @@
     - bergie
   end: true
   category: navigation
+  origin: manual
+  id: d60062ca-eff1-43ce-ba8a-b5a6d1e61934
 - datetime: 2025-12-17T16:53:15.596Z
   text: On a trailer
   author: bergie
@@ -204,6 +218,8 @@
     - ihmis-suski
     - bergie
   category: navigation
+  origin: manual
+  id: f999afaf-ddb6-4546-a816-0a9ca115900a
 - datetime: 2025-12-17T17:03:15.596Z
   text: Stopped on the work yard
   author: bergie
@@ -230,3 +246,5 @@
     - bergie
   end: true
   category: navigation
+  origin: manual
+  id: 89610f0d-ede5-462e-9aed-7462cc866d35

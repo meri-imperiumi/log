@@ -21,6 +21,8 @@
     - ihmis-suski
     - bergie
   category: navigation
+  origin: auto
+  id: e8071b3c-2518-4f03-a045-00d6e4e32af7
 - datetime: 2024-04-27T10:06:09.500Z
   text: Motoring
   author: ""
@@ -44,6 +46,8 @@
     - ihmis-suski
     - bergie
   category: navigation
+  origin: auto
+  id: 12ed2c6f-4f39-46da-8180-dd02508b9521
 - datetime: 2024-04-27T10:19:06.499Z
   text: Motor stopped, sailing with Parasailor
   author: bergie
@@ -71,6 +75,8 @@
     seaState: 1
     cloudCoverage: 3
     visibility: 8
+  origin: manual
+  id: f0420cb3-b5a8-4a80-87c1-e5d565ac353c
 - datetime: 2024-04-27T11:00:08.499Z
   text: ""
   author: ""
@@ -95,6 +101,8 @@
     - ihmis-suski
     - bergie
   category: navigation
+  origin: auto
+  id: f45c1246-5de4-4772-976d-d50017882e8c
 - datetime: 2024-04-27T11:32:16.499Z
   text: Sails down, motoring
   author: ""
@@ -119,6 +127,8 @@
     - ihmis-suski
     - bergie
   category: navigation
+  origin: auto
+  id: 96f6e9be-2b04-4b7a-9b6b-47bc96261ffb
 - datetime: 2024-04-27T12:00:09.500Z
   text: ""
   author: ""
@@ -143,6 +153,8 @@
     - ihmis-suski
     - bergie
   category: navigation
+  origin: auto
+  id: b74fcd66-f185-4ec4-82bc-55171f045e78
 - datetime: 2024-04-27T12:00:10.499Z
   text: Stopped
   author: ""
@@ -168,3 +180,5 @@
     - bergie
   end: true
   category: navigation
+  origin: auto
+  id: c1978dfc-6688-4712-8c9c-30eb4974a2bb

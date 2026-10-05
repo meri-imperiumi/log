@@ -24,6 +24,8 @@
     - ihmis-suski
     - bergie
   category: navigation
+  origin: auto
+  id: 21c53b02-a35b-42b6-b580-f4e517cfceb5
 - datetime: 2026-04-30T16:09:30.400Z
   text: Anchor up, motoring
   author: ""
@@ -50,6 +52,8 @@
     - ihmis-suski
     - bergie
   category: navigation
+  origin: auto
+  id: 431d6e77-2540-432f-a220-ee72c06a1cca
 - datetime: 2026-04-30T16:25:46.400Z
   text: Autopilot activated
   author: ""
@@ -76,6 +80,8 @@
     - ihmis-suski
     - bergie
   category: navigation
+  origin: auto
+  id: 02f26c24-d408-4d8b-a97f-bcbeee33acd3
 - datetime: 2026-04-30T17:00:57.497Z
   text: ""
   author: ""
@@ -102,6 +108,8 @@
     - ihmis-suski
     - bergie
   category: navigation
+  origin: auto
+  id: 1b365273-7982-4390-b7d7-99154cd1f3a0
 - datetime: 2026-04-30T17:40:19.500Z
   text: Motor stopped, sailing with Main (1st reef), Genoa 1
   author: bergie
@@ -128,6 +136,8 @@
     - ihmis-suski
     - bergie
   category: navigation
+  origin: manual
+  id: 7168b4bd-48ba-456e-9728-4a85bcd07a21
 - datetime: 2026-04-30T17:46:57.497Z
   text: Started watermaker
   author: bergie
@@ -154,6 +164,8 @@
     - ihmis-suski
     - bergie
   category: maintenance
+  origin: manual
+  id: f1faff99-2ea0-43eb-9dfe-10397aa30ab3
 - datetime: 2026-04-30T17:58:56.499Z
   text: Watermaker 309ppm
   author: bergie
@@ -180,6 +192,8 @@
     - ihmis-suski
     - bergie
   category: maintenance
+  origin: manual
+  id: 852bffd9-b75c-4563-9f50-8a44cb679912
 - datetime: 2026-04-30T18:00:56.499Z
   text: ""
   author: ""
@@ -206,6 +220,8 @@
     - ihmis-suski
     - bergie
   category: navigation
+  origin: auto
+  id: 80c7e2a4-4ae0-4121-bf19-ddbc499a815d
 - datetime: 2026-04-30T19:00:58.502Z
   text: ""
   author: ""
@@ -232,6 +248,8 @@
     - ihmis-suski
     - bergie
   category: navigation
+  origin: auto
+  id: 7b40cf63-65d7-4e8f-830d-dcf03526f6bc
 - datetime: 2026-04-30T19:00:58.502Z
   text: Port side gate latch is gone. Noticed the line in the water, the end is gone.
   author: ihmis-suski
@@ -258,6 +276,8 @@
     - ihmis-suski
     - bergie
   category: maintenance
+  origin: manual
+  id: b39c2633-81f3-453b-8c99-2393ceb8dc5a
 - datetime: 2026-04-30T19:45:02.598Z
   text: Watermaker 234ppm
   author: bergie
@@ -284,6 +304,8 @@
     - ihmis-suski
     - bergie
   category: maintenance
+  origin: manual
+  id: e67a2377-0f4b-4f75-89c8-3368c294ef4a
 - datetime: 2026-04-30T20:00:03.596Z
   text: ""
   author: ""
@@ -310,6 +332,8 @@
     - ihmis-suski
     - bergie
   category: navigation
+  origin: auto
+  id: 196453b0-4479-4cfc-b9ba-bce454cc918a
 - datetime: 2026-04-30T20:52:05.600Z
   text: Wing on wing
   author: bergie
@@ -340,6 +364,8 @@
     seaState: 4
     cloudCoverage: 4
     visibility: 7
+  origin: manual
+  id: 4d0ef1ba-b882-4604-9dca-a94a2dac7df0
 - datetime: 2026-04-30T21:00:05.600Z
   text: ""
   author: ""
@@ -366,6 +392,8 @@
     - ihmis-suski
     - bergie
   category: navigation
+  origin: auto
+  id: 14e4d169-07ac-4a90-ab66-b5c3e6612fd6
 - datetime: 2026-04-30T21:33:06.598Z
   text: Watermaker 210ppm
   author: bergie
@@ -392,6 +420,8 @@
     - ihmis-suski
     - bergie
   category: maintenance
+  origin: manual
+  id: bff977bf-1fff-4d12-bd27-399b46a83f24
 - datetime: 2026-04-30T22:00:03.596Z
   text: ""
   author: ""
@@ -418,6 +448,8 @@
     - ihmis-suski
     - bergie
   category: navigation
+  origin: auto
+  id: 5522d1d3-b452-434f-b285-e9dd531674c8
 - datetime: 2026-04-30T23:00:04.697Z
   text: ""
   author: ""
@@ -444,6 +476,8 @@
     - ihmis-suski
     - bergie
   category: navigation
+  origin: auto
+  id: a8a5d6a5-5205-4c0d-9728-298109043c82
 - datetime: 2026-04-30T23:24:04.697Z
   text: Watermaker 198ppm
   author: bergie
@@ -470,6 +504,8 @@
     - ihmis-suski
     - bergie
   category: maintenance
+  origin: manual
+  id: 16664f04-6e9e-4bcb-b0c4-220ed3c89ce6
 - datetime: 2026-04-30T23:46:21.702Z
   text: "Sails set: Main (1st reef), Genoa 1 (10% furled). Starboard tack"
   author: bergie
@@ -496,3 +532,5 @@
     - ihmis-suski
     - bergie
   category: navigation
+  origin: manual
+  id: 2a5a052d-1a55-4ca3-8e1a-e4077736eaa4

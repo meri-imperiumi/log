@@ -21,6 +21,8 @@
     - ihmis-suski
     - bergie
   category: navigation
+  origin: auto
+  id: 1d187696-afae-4351-968b-22d5ba72179f
 - datetime: 2024-04-30T06:02:19.900Z
   text: Anchor up, motoring
   author: ""
@@ -44,6 +46,8 @@
     - ihmis-suski
     - bergie
   category: navigation
+  origin: auto
+  id: 0df6c303-b0f4-4633-9ecc-52a6ed56ceba
 - datetime: 2024-04-30T06:26:56.899Z
   text: Motor stopped, sailing with Main (2nd reef)
   author: ""
@@ -67,6 +71,8 @@
     - ihmis-suski
     - bergie
   category: navigation
+  origin: auto
+  id: 948329b6-6f6e-4b37-a7c1-21c635cec41e
 - datetime: 2024-04-30T07:00:21.900Z
   text: ""
   author: ""
@@ -91,6 +97,8 @@
     - ihmis-suski
     - bergie
   category: navigation
+  origin: auto
+  id: 226c9456-424d-465a-b5b4-d2ef39ddc1b7
 - datetime: 2024-04-30T07:04:35.900Z
   text: "Sails set: Main (2nd reef), Staysail"
   author: ihmis-suski
@@ -119,6 +127,8 @@
     seaState: 1
     cloudCoverage: 3
     visibility: 7
+  origin: manual
+  id: 901020b9-6eee-49ba-b45f-cc8bb88f7ab4
 - datetime: 2024-04-30T07:56:19.900Z
   text: Back in Høgsfjord and downwind course
   author: bergie
@@ -143,6 +153,8 @@
     - ihmis-suski
     - bergie
   category: navigation
+  origin: manual
+  id: e684a513-2f81-488d-958c-787ab3f2c316
 - datetime: 2024-04-30T08:00:19.900Z
   text: ""
   author: ""
@@ -167,6 +179,8 @@
     - ihmis-suski
     - bergie
   category: navigation
+  origin: auto
+  id: 419dc3cf-60c9-4319-9cff-9e5a311fcf03
 - datetime: 2024-04-30T08:56:50.899Z
   text: "Sails set: Main, Staysail"
   author: ihmis-suski
@@ -195,6 +209,8 @@
     seaState: 2
     cloudCoverage: 7
     visibility: 8
+  origin: manual
+  id: c8730910-0c07-4958-837d-75d5d082a981
 - datetime: 2024-04-30T09:00:18.899Z
   text: ""
   author: ""
@@ -219,6 +235,8 @@
     - ihmis-suski
     - bergie
   category: navigation
+  origin: auto
+  id: e8c61576-1c8b-4f0f-824f-d30fef76e894
 - datetime: 2024-04-30T10:00:19.900Z
   text: ""
   author: ""
@@ -243,6 +261,8 @@
     - ihmis-suski
     - bergie
   category: navigation
+  origin: auto
+  id: 40722c56-1d54-4372-9114-656c50357173
 - datetime: 2024-04-30T11:00:17.900Z
   text: ""
   author: ""
@@ -267,6 +287,8 @@
     - ihmis-suski
     - bergie
   category: navigation
+  origin: auto
+  id: 85c0c1e6-4bee-4721-a7cc-ac257eb570a0
 - datetime: 2024-04-30T11:34:17.900Z
   text: Fishing with the Swedish set.
   author: ihmis-suski
@@ -295,6 +317,8 @@
     seaState: 1
     cloudCoverage: 2
     visibility: 8
+  origin: manual
+  id: 40105cb1-89c1-4500-979b-cbb9512cc993
 - datetime: 2024-04-30T12:00:16.899Z
   text: ""
   author: ""
@@ -319,6 +343,8 @@
     - ihmis-suski
     - bergie
   category: navigation
+  origin: auto
+  id: 9567e602-e021-443a-8414-58e2be5bf625
 - datetime: 2024-04-30T12:28:16.899Z
   text: "Stowed hydrogenerator "
   author: bergie
@@ -343,6 +369,8 @@
     - ihmis-suski
     - bergie
   category: navigation
+  origin: manual
+  id: f7c9d15b-6aee-493c-8563-68054c67679e
 - datetime: 2024-04-30T12:39:32.899Z
   text: Sails down, motoring
   author: ""
@@ -367,6 +395,8 @@
     - ihmis-suski
     - bergie
   category: navigation
+  origin: auto
+  id: a8184b8e-65fe-4cfd-a950-677d21971795
 - datetime: 2024-04-30T13:00:14.899Z
   text: ""
   author: ""
@@ -390,6 +420,8 @@
     - ihmis-suski
     - bergie
   category: navigation
+  origin: auto
+  id: 6c6809d6-b26e-4858-905b-fe6b666b4747
 - datetime: 2024-04-30T13:11:19.900Z
   text: Stopped
   author: ""
@@ -414,6 +446,8 @@
     - bergie
   end: true
   category: navigation
+  origin: auto
+  id: 7905cf21-08bd-489e-aadf-96d36f4d39ec
 - datetime: 2024-04-30T13:36:14.899Z
   text: Started watermaker, 124 ppm
   author: bergie
@@ -437,6 +471,8 @@
     - ihmis-suski
     - bergie
   category: maintenance
+  origin: manual
+  id: a79b4f71-5eb1-47b9-b39f-0d9b17cc8030
 - datetime: 2024-04-30T14:28:09.900Z
   text: Stopped watermaker, 104ppm
   author: bergie
@@ -460,3 +496,5 @@
     - ihmis-suski
     - bergie
   category: navigation
+  origin: manual
+  id: a957e696-b2cd-4102-bf66-8352378a06d7

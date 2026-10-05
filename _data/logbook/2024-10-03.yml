@@ -22,6 +22,8 @@
     - ihmis-suski
     - bergie
   category: navigation
+  origin: manual
+  id: 4ffc3225-1573-4e38-a44b-de93c9e4160c
 - datetime: 2024-10-03T01:00:02.400Z
   text: ""
   author: ""
@@ -46,6 +48,8 @@
     - ihmis-suski
     - bergie
   category: navigation
+  origin: auto
+  id: c85ac658-71e6-40ad-83c4-80f006d79917
 - datetime: 2024-10-03T02:00:02.800Z
   text: ""
   author: ""
@@ -70,6 +74,8 @@
     - ihmis-suski
     - bergie
   category: navigation
+  origin: auto
+  id: 15aa08c1-f4a8-436c-a9eb-d7eb7f59bf7e
 - datetime: 2024-10-03T03:00:03.800Z
   text: ""
   author: ""
@@ -94,6 +100,8 @@
     - ihmis-suski
     - bergie
   category: navigation
+  origin: auto
+  id: 95dd3f38-b8c1-4079-8094-a34eaf2ef7ce
 - datetime: 2024-10-03T03:09:03.800Z
   text: |
     It would be possible in theory to see the Porto Santo light now, but nope.
@@ -119,6 +127,8 @@
     - ihmis-suski
     - bergie
   category: navigation
+  origin: manual
+  id: 835386f6-5128-4b7c-ab35-5b3e90a32cce
 - datetime: 2024-10-03T04:00:03.800Z
   text: ""
   author: ""
@@ -143,6 +153,8 @@
     - ihmis-suski
     - bergie
   category: navigation
+  origin: auto
+  id: 01843603-2089-4d07-a1e5-7dce229d38b0
 - datetime: 2024-10-03T05:00:03.800Z
   text: ""
   author: ""
@@ -167,6 +179,8 @@
     - ihmis-suski
     - bergie
   category: navigation
+  origin: auto
+  id: 86f8aca0-2390-4310-af38-73306140eda7
 - datetime: 2024-10-03T06:00:04.800Z
   text: Watch change
   author: bergie
@@ -191,6 +205,8 @@
     - ihmis-suski
     - bergie
   category: navigation
+  origin: manual
+  id: a043564d-3d16-414b-957e-1d246afc8994
 - datetime: 2024-10-03T06:09:04.800Z
   text: Positive id of Ilheu de Cima light ahead (3 flashes)
   author: bergie
@@ -215,6 +231,8 @@
     - ihmis-suski
     - bergie
   category: navigation
+  origin: manual
+  id: 6e6c29b8-517f-4cf5-8716-c0bbf5be784b
 - datetime: 2024-10-03T06:37:04.800Z
   text: Started seeing some mountain shapes in the mist ahead
   author: bergie
@@ -239,6 +257,8 @@
     - ihmis-suski
     - bergie
   category: navigation
+  origin: manual
+  id: 4033690c-d941-4a0b-96ae-7e3728a77820
 - datetime: 2024-10-03T07:00:05.800Z
   text: Portuguese cellular network, and some non-AIS fishing boats
   author: bergie
@@ -267,6 +287,8 @@
     seaState: 4
     cloudCoverage: 7
     visibility: 7
+  origin: manual
+  id: f0692de6-d7a1-475b-98a8-79a6936e7d80
 - datetime: 2024-10-03T07:18:05.900Z
   text: Back in Portuguese territorial waters
   author: bergie
@@ -291,6 +313,8 @@
     - ihmis-suski
     - bergie
   category: navigation
+  origin: manual
+  id: 1cd15e2a-3b0a-4576-a861-fc88219b9b37
 - datetime: 2024-10-03T08:00:05.900Z
   text: ""
   author: ""
@@ -315,6 +339,8 @@
     - ihmis-suski
     - bergie
   category: navigation
+  origin: auto
+  id: 763e55e6-59b1-4b04-8ec4-3c1aefe58b93
 - datetime: 2024-10-03T08:49:46.899Z
   text: Sails down, motoring
   author: ""
@@ -339,6 +365,8 @@
     - ihmis-suski
     - bergie
   category: navigation
+  origin: auto
+  id: b9805ff4-8e92-4ed6-a6a4-a1ab10785163
 - datetime: 2024-10-03T09:00:05.900Z
   text: ""
   author: ""
@@ -363,6 +391,8 @@
     - ihmis-suski
     - bergie
   category: navigation
+  origin: auto
+  id: 9acd38d4-5666-4a90-819a-056587eae8cb
 - datetime: 2024-10-03T10:00:06.899Z
   text: ""
   author: ""
@@ -387,6 +417,8 @@
     - ihmis-suski
     - bergie
   category: navigation
+  origin: auto
+  id: 3e724df2-43ed-4c88-b98a-bf264b48eecf
 - datetime: 2024-10-03T10:56:29.900Z
   text: Anchored
   author: ""
@@ -412,6 +444,8 @@
     - bergie
   end: true
   category: navigation
+  origin: auto
+  id: ac1e4bbb-1ae6-4f97-bd61-2e32395f22b3
 - datetime: 2024-10-03T11:18:30.000Z
   text: Stopped main engine
   author: ""
@@ -436,6 +470,8 @@
     - ihmis-suski
     - bergie
   category: navigation
+  origin: auto
+  id: 169997f5-f1c6-448c-bd46-7bff195326dd
 - datetime: 2024-10-03T11:59:07.100Z
   text: Filling depth sounder with 10W40 motor oil, was totally dry. Now it works
     again.
@@ -460,6 +496,8 @@
     - ihmis-suski
     - bergie
   category: maintenance
+  origin: manual
+  id: 7d356086-2ee6-406d-8a1b-814d45f249c6
 - datetime: 2024-10-03T23:13:11.200Z
   text: Started main engine. Weird anchor alarm, so doing a pull test
   author: bergie
@@ -483,6 +521,8 @@
     - ihmis-suski
     - bergie
   category: navigation
+  origin: manual
+  id: 483dc3a9-36bb-40b6-910a-fef1fbac0041
 - datetime: 2024-10-03T23:16:49.203Z
   text: Stopped main engine. Anchor seems to hold fine.
   author: bergie
@@ -506,3 +546,5 @@
     - ihmis-suski
     - bergie
   category: navigation
+  origin: manual
+  id: 63b64eba-8084-456c-8e5e-724f9d29b380

@@ -25,6 +25,8 @@
     - ihmis-suski
     - bergie
   category: navigation
+  origin: auto
+  id: c842563d-c77b-4ee2-9b9f-8b32a820cfea
 - datetime: 2025-05-10T13:43:21.500Z
   text: Anchor up, motoring
   author: ""
@@ -52,6 +54,8 @@
     - ihmis-suski
     - bergie
   category: navigation
+  origin: auto
+  id: 94408c2a-92b9-4882-b785-42c15664c35b
 - datetime: 2025-05-10T13:59:05.500Z
   text: Motor stopped, sailing with Main, Genoa 1
   author: ""
@@ -79,6 +83,8 @@
     - ihmis-suski
     - bergie
   category: navigation
+  origin: auto
+  id: 4e46d862-8041-4794-8e07-15d893a27140
 - datetime: 2025-05-10T14:00:42.499Z
   text: ""
   author: ""
@@ -106,6 +112,8 @@
     - ihmis-suski
     - bergie
   category: navigation
+  origin: auto
+  id: fc57b9c5-f81c-455f-aeef-c647ca8a0a81
 - datetime: 2025-05-10T14:24:59.500Z
   text: Autopilot activated
   author: ""
@@ -133,6 +141,8 @@
     - ihmis-suski
     - bergie
   category: navigation
+  origin: auto
+  id: a308433d-7da3-4dac-8f06-903dbc82bd15
 - datetime: 2025-05-10T15:00:49.600Z
   text: ""
   author: ""
@@ -160,6 +170,8 @@
     - ihmis-suski
     - bergie
   category: navigation
+  origin: auto
+  id: 608d0633-7886-4959-a8db-a59835181e5f
 - datetime: 2025-05-10T16:00:55.603Z
   text: Bergie on watch
   author: bergie
@@ -191,6 +203,8 @@
     seaState: 3
     cloudCoverage: 4
     visibility: 8
+  origin: manual
+  id: e9ab669e-9bf8-47a3-a217-8d63f700cf41
 - datetime: 2025-05-10T16:05:00.601Z
   text: Autopilot deactivated, windvane steering
   author: bergie
@@ -218,6 +232,8 @@
     - ihmis-suski
     - bergie
   category: navigation
+  origin: manual
+  id: ac283ecf-e9ec-4f58-951d-7b5b3bc9bd63
 - datetime: 2025-05-10T16:34:57.600Z
   text: We're now off Reindeer Shoal and finally in deep water
   author: bergie
@@ -245,6 +261,8 @@
     - ihmis-suski
     - bergie
   category: navigation
+  origin: manual
+  id: 2dbb9a07-a5f8-4e97-8f74-dcef891552fc
 - datetime: 2025-05-10T16:59:59.603Z
   text: ""
   author: ""
@@ -272,6 +290,8 @@
     - ihmis-suski
     - bergie
   category: navigation
+  origin: auto
+  id: 427f8f73-69d0-4862-b8a5-98202d74fb59
 - datetime: 2025-05-10T17:42:03.596Z
   text: Out of Grenada territorial waters
   author: bergie
@@ -299,6 +319,8 @@
     - ihmis-suski
     - bergie
   category: navigation
+  origin: manual
+  id: b08e1a18-921c-4c84-b90f-3aa7ea2e7d27
 - datetime: 2025-05-10T18:00:06.003Z
   text: ""
   author: ""
@@ -326,6 +348,8 @@
     - ihmis-suski
     - bergie
   category: navigation
+  origin: auto
+  id: 09e2fc18-2089-463e-ae20-05d7dd2a57ee
 - datetime: 2025-05-10T19:00:16.102Z
   text: ""
   author: ""
@@ -353,6 +377,8 @@
     - ihmis-suski
     - bergie
   category: navigation
+  origin: auto
+  id: 7da490c6-a550-47e0-ab4b-339c039aebbf
 - datetime: 2025-05-10T20:00:22.099Z
   text: ""
   author: ""
@@ -380,6 +406,8 @@
     - ihmis-suski
     - bergie
   category: navigation
+  origin: auto
+  id: 77c76a57-7f4e-4dcf-9b14-139a0ea1b860
 - datetime: 2025-05-10T21:00:26.099Z
   text: ""
   author: ""
@@ -407,6 +435,8 @@
     - ihmis-suski
     - bergie
   category: navigation
+  origin: auto
+  id: 726453ef-e644-4167-87ed-4f8445d6d934
 - datetime: 2025-05-10T21:44:43.200Z
   text: Autopilot activated
   author: ""
@@ -434,6 +464,8 @@
     - ihmis-suski
     - bergie
   category: navigation
+  origin: auto
+  id: 31375f28-7b71-4cac-92c8-889e4bdbb763
 - datetime: 2025-05-10T21:59:02.201Z
   text: Autopilot set to wind mode
   author: ""
@@ -461,6 +493,8 @@
     - ihmis-suski
     - bergie
   category: navigation
+  origin: auto
+  id: da9a1e05-5512-4ce1-a435-d7f116c12bed
 - datetime: 2025-05-10T22:00:29.196Z
   text: Suski on watch
   author: ihmis-suski
@@ -488,6 +522,8 @@
     - ihmis-suski
     - bergie
   category: navigation
+  origin: manual
+  id: fae26962-43de-4569-9d07-20e8cdfd15ff
 - datetime: 2025-05-10T22:04:18.201Z
   text: Autopilot deactivated
   author: ""
@@ -515,6 +551,8 @@
     - ihmis-suski
     - bergie
   category: navigation
+  origin: auto
+  id: 665f8080-856e-4bce-9008-7cd0ff5cd2cb
 - datetime: 2025-05-10T22:04:21.196Z
   text: Autopilot activated
   author: ""
@@ -542,6 +580,8 @@
     - ihmis-suski
     - bergie
   category: navigation
+  origin: auto
+  id: fc1262b3-2513-4a50-aba5-4223682ba1df
 - datetime: 2025-05-10T22:25:32.198Z
   text: Green flash! Not a wide one, but the last sliver of sun was green!
   author: ihmis-suski
@@ -569,6 +609,8 @@
     - ihmis-suski
     - bergie
   category: navigation
+  origin: manual
+  id: 25c34fb1-9763-42a9-8c12-25e5a7581a3e
 - datetime: 2025-05-10T22:36:33.203Z
   text: "Gybed to get more distance yo Venezuela "
   author: ihmis-suski
@@ -600,6 +642,8 @@
     seaState: 3
     cloudCoverage: 4
     visibility: 7
+  origin: manual
+  id: 96863628-1eb5-473a-904e-c422ac1eb271
 - datetime: 2025-05-10T23:00:35.200Z
   text: ""
   author: ""
@@ -627,6 +671,8 @@
     - ihmis-suski
     - bergie
   category: navigation
+  origin: auto
+  id: de6d5ff5-0955-44ee-ae22-2786a9950902
 - datetime: 2025-05-10T23:35:37.203Z
   text: "Gybed again "
   author: ihmis-suski
@@ -654,3 +700,5 @@
     - ihmis-suski
     - bergie
   category: navigation
+  origin: manual
+  id: 782ea901-7276-4c10-b617-0bdf3883099d

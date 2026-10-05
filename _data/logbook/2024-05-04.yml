@@ -22,6 +22,8 @@
     - ihmis-suski
     - bergie
   category: navigation
+  origin: manual
+  id: 12ec5b72-3465-4836-8acd-b9a9373cdb55
 - datetime: 2024-05-04T00:33:51.100Z
   text: Stowed hydrogenerator, not enough wind for output
   author: bergie
@@ -46,6 +48,8 @@
     - ihmis-suski
     - bergie
   category: navigation
+  origin: manual
+  id: 17c1c68d-7d6b-4074-a8ae-5ab21c09d88f
 - datetime: 2024-05-04T01:00:51.100Z
   text: ""
   author: ""
@@ -70,6 +74,8 @@
     - ihmis-suski
     - bergie
   category: navigation
+  origin: auto
+  id: ce1b4442-dc58-423c-90d5-76a5f19c6d2a
 - datetime: 2024-05-04T01:22:52.100Z
   text: Wind is slightly up, so back to schmetti at 160°
   author: bergie
@@ -94,6 +100,8 @@
     - ihmis-suski
     - bergie
   category: navigation
+  origin: manual
+  id: 8e075bab-cc59-4b28-8f33-121ef4bb9e7e
 - datetime: 2024-05-04T02:00:52.100Z
   text: ""
   author: ""
@@ -118,6 +126,8 @@
     - ihmis-suski
     - bergie
   category: navigation
+  origin: auto
+  id: 322505ea-727a-4edd-8cd1-0877efb761ac
 - datetime: 2024-05-04T03:00:53.100Z
   text: ""
   author: ""
@@ -142,6 +152,8 @@
     - ihmis-suski
     - bergie
   category: navigation
+  origin: auto
+  id: 06be0d18-bdea-4f34-aa51-b64ea960117d
 - datetime: 2024-05-04T03:33:54.100Z
   text: Sun coming up. Still some peaks of Norway in the horizon
   author: bergie
@@ -170,6 +182,8 @@
     seaState: 2
     cloudCoverage: 2
     visibility: 8
+  origin: manual
+  id: 02a000b7-ce2d-429a-8af5-675814711814
 - datetime: 2024-05-04T04:00:54.099Z
   text: ""
   author: ""
@@ -194,6 +208,8 @@
     - ihmis-suski
     - bergie
   category: navigation
+  origin: auto
+  id: 39ef3d68-9189-49c4-9f08-9719d73a97ee
 - datetime: 2024-05-04T04:42:55.100Z
   text: We got a fish! A nice mackerel
   author: bergie
@@ -218,6 +234,8 @@
     - ihmis-suski
     - bergie
   category: navigation
+  origin: manual
+  id: 00f25ab9-d1d4-4698-95df-0371a711f0cd
 - datetime: 2024-05-04T05:00:55.100Z
   text: "Mackerel was gutted, filleted, and fried in garlic and olive oil for
     breakfast "
@@ -247,6 +265,8 @@
     seaState: 2
     cloudCoverage: 5
     visibility: 8
+  origin: manual
+  id: f5a6fa18-5188-4748-bd68-00d8c97ba75d
 - datetime: 2024-05-04T06:00:55.400Z
   text: ""
   author: ""
@@ -271,6 +291,8 @@
     - ihmis-suski
     - bergie
   category: navigation
+  origin: auto
+  id: 01e14a66-b785-4e80-9b61-09f67f2b1ab9
 - datetime: 2024-05-04T06:05:56.400Z
   text: Bergie to off watch. We turned the wing on wing around.
   author: ihmis-suski
@@ -299,6 +321,8 @@
     seaState: 2
     cloudCoverage: 7
     visibility: 8
+  origin: manual
+  id: 3e3505f3-a642-4164-9c83-f95ee2b3b54d
 - datetime: 2024-05-04T06:35:55.400Z
   text: Wind turned more.Took wing on wing down and now sailing smoothly along a
     nice beam reach.
@@ -328,6 +352,8 @@
     seaState: 2
     cloudCoverage: 6
     visibility: 8
+  origin: manual
+  id: 2a52de39-f94c-4e1a-aaa4-d55f1e70f4d4
 - datetime: 2024-05-04T07:00:56.400Z
   text: ""
   author: ""
@@ -352,6 +378,8 @@
     - ihmis-suski
     - bergie
   category: navigation
+  origin: auto
+  id: 2550e5d8-81c4-451d-b875-885d611a84d5
 - datetime: 2024-05-04T08:00:58.400Z
   text: ""
   author: ""
@@ -376,6 +404,8 @@
     - ihmis-suski
     - bergie
   category: navigation
+  origin: auto
+  id: 1935c5f5-0af9-4e8f-a26e-de6b741096b0
 - datetime: 2024-05-04T09:00:58.400Z
   text: ""
   author: ""
@@ -400,6 +430,8 @@
     - ihmis-suski
     - bergie
   category: navigation
+  origin: auto
+  id: 28892d30-75c6-4245-a1b2-1eccf7a82265
 - datetime: 2024-05-04T09:21:59.398Z
   text: Sea fog ahead.
   author: ihmis-suski
@@ -428,6 +460,8 @@
     seaState: 3
     cloudCoverage: 4
     visibility: 5
+  origin: manual
+  id: 87f65721-a260-4a74-b970-9d95eb16be8f
 - datetime: 2024-05-04T09:32:59.398Z
   text: Fog horn and positional lights on.
   author: ihmis-suski
@@ -455,6 +489,8 @@
   observations:
     seaState: 3
     visibility: 5
+  origin: manual
+  id: eec94703-3c3b-4cb5-a120-415339442011
 - datetime: 2024-05-04T09:54:59.398Z
   text: Fog lifted a lot. Position lights on, fog horn off.
   author: ihmis-suski
@@ -483,6 +519,8 @@
     seaState: 3
     cloudCoverage: 7
     visibility: 6
+  origin: manual
+  id: b8467ec4-0b52-459a-ae8d-c70da910eb45
 - datetime: 2024-05-04T09:59:59.398Z
   text: ""
   author: ""
@@ -507,6 +545,8 @@
     - ihmis-suski
     - bergie
   category: navigation
+  origin: auto
+  id: 91ce8e53-7695-4ff4-8782-fbb5fc29b03b
 - datetime: 2024-05-04T10:19:00.400Z
   text: >
     Got hailed in the radio to move to 06, but they didn't come with me. Said
@@ -534,6 +574,8 @@
     - ihmis-suski
     - bergie
   category: radio
+  origin: manual
+  id: 1f14ee6b-896e-4b6a-b0fc-4c08ab44c65f
 - datetime: 2024-05-04T10:46:00.400Z
   text: |
     Lol. Their buoy sender is in board their vessel. Not on the byou.
@@ -559,6 +601,8 @@
     - ihmis-suski
     - bergie
   category: navigation
+  origin: manual
+  id: adf13b3b-ed53-476c-ad4d-5c3d9ca63000
 - datetime: 2024-05-04T11:00:00.400Z
   text: ""
   author: ""
@@ -583,6 +627,8 @@
     - ihmis-suski
     - bergie
   category: navigation
+  origin: auto
+  id: 851ce2c0-bc06-47a1-91ec-08e8a340789c
 - datetime: 2024-05-04T11:14:00.400Z
   text: Fog lifted.
   author: ihmis-suski
@@ -611,6 +657,8 @@
     seaState: 3
     cloudCoverage: 4
     visibility: 7
+  origin: manual
+  id: b38d7be4-6e7d-4a3d-b53a-f21bc7f4e2b1
 - datetime: 2024-05-04T12:00:01.401Z
   text: Lunch. Bergie on watch, Suski to bed.
   author: bergie
@@ -639,6 +687,8 @@
     seaState: 3
     cloudCoverage: 2
     visibility: 7
+  origin: manual
+  id: ab4ff2f1-7615-4a74-853f-ddacbbc140b6
 - datetime: 2024-05-04T13:01:02.400Z
   text: Across the halfway mark to Lerwick, 105NM left
   author: bergie
@@ -663,6 +713,8 @@
     - ihmis-suski
     - bergie
   category: navigation
+  origin: manual
+  id: e5b832a7-ec11-49b9-b559-843d53c96fb8
 - datetime: 2024-05-04T13:55:04.099Z
   text: Rebooted N2K, the upper B&G Triton2 was stuck again
   author: bergie
@@ -687,6 +739,8 @@
     - ihmis-suski
     - bergie
   category: maintenance
+  origin: manual
+  id: d8179886-c11e-4c25-ac58-23db1967e6ea
 - datetime: 2024-05-04T14:00:04.099Z
   text: ""
   author: ""
@@ -711,6 +765,8 @@
     - ihmis-suski
     - bergie
   category: navigation
+  origin: auto
+  id: e6da97ee-e277-46e8-91fb-ee5abd19f592
 - datetime: 2024-05-04T14:25:04.099Z
   text: Low clouds, let's see if we end up in fog again
   author: bergie
@@ -739,6 +795,8 @@
     seaState: 3
     cloudCoverage: 8
     visibility: 6
+  origin: manual
+  id: 3b9ebff7-3e79-465c-a372-685be3f5fcbf
 - datetime: 2024-05-04T14:43:05.100Z
   text: "Deployed hydrogenerator "
   author: bergie
@@ -763,6 +821,8 @@
     - ihmis-suski
     - bergie
   category: navigation
+  origin: manual
+  id: 564e245a-58fb-43bf-9995-dbce06ed69e9
 - datetime: 2024-05-04T15:00:04.102Z
   text: ""
   author: ""
@@ -787,6 +847,8 @@
     - ihmis-suski
     - bergie
   category: navigation
+  origin: auto
+  id: 0a36533c-5b2e-4482-829d-bc2d3bf18659
 - datetime: 2024-05-04T15:27:05.100Z
   text: Back in fog
   author: bergie
@@ -815,6 +877,8 @@
     seaState: 3
     cloudCoverage: 8
     visibility: 3
+  origin: manual
+  id: 9425d50c-3ab0-47b5-9152-93af27055d21
 - datetime: 2024-05-04T16:00:06.099Z
   text: ""
   author: ""
@@ -839,6 +903,8 @@
     - ihmis-suski
     - bergie
   category: navigation
+  origin: auto
+  id: 70aeceb5-e592-4c6b-92ac-58f187d5b64e
 - datetime: 2024-05-04T17:00:04.102Z
   text: ""
   author: ""
@@ -863,6 +929,8 @@
     - ihmis-suski
     - bergie
   category: navigation
+  origin: auto
+  id: 9edb3069-bbae-4b55-b44a-875dece4ed64
 - datetime: 2024-05-04T17:32:04.102Z
   text: "Sails set: Main, Genoa 1 (20% furled). Gusts over 20kt"
   author: bergie
@@ -887,6 +955,8 @@
     - ihmis-suski
     - bergie
   category: navigation
+  origin: manual
+  id: 3f11dcef-aae3-442d-85d4-3a8380ab4160
 - datetime: 2024-05-04T18:00:57.996Z
   text: ""
   author: ""
@@ -911,6 +981,8 @@
     - ihmis-suski
     - bergie
   category: navigation
+  origin: auto
+  id: 8a489708-c3d0-42f7-b9d7-964ac1076446
 - datetime: 2024-05-04T18:05:59.001Z
   text: Bergie to off watch, Suski on watch. Still in fog.
   author: ihmis-suski
@@ -939,6 +1011,8 @@
     seaState: 3
     cloudCoverage: 8
     visibility: 4
+  origin: manual
+  id: c91010fa-5570-43dd-b42c-8a6cd35e44a2
 - datetime: 2024-05-04T19:00:00.000Z
   text: ""
   author: ""
@@ -963,6 +1037,8 @@
     - ihmis-suski
     - bergie
   category: navigation
+  origin: auto
+  id: 9f1f3879-a11f-4b5a-9f79-4060b5c7c19b
 - datetime: 2024-05-04T19:33:00.000Z
   text: "Spi fall is rolled in with genoa. The only way to get it out is to roll
     out, go to bow and move it on the wind ward side and then roll. Woke up
@@ -993,6 +1069,8 @@
     seaState: 3
     cloudCoverage: 8
     visibility: 4
+  origin: manual
+  id: 7f4aad21-e120-4c95-851f-5a189b8ed555
 - datetime: 2024-05-04T19:49:32.000Z
   text: "Sails set: Main, Genoa 1 (50% furled)"
   author: ""
@@ -1017,6 +1095,8 @@
     - ihmis-suski
     - bergie
   category: navigation
+  origin: auto
+  id: 81540a0e-dc80-4ca5-baba-4aacb09aa076
 - datetime: 2024-05-04T20:00:00.998Z
   text: ""
   author: ""
@@ -1041,6 +1121,8 @@
     - ihmis-suski
     - bergie
   category: navigation
+  origin: auto
+  id: 1d71fda2-6e15-4ca7-9589-863b8cf4aad6
 - datetime: 2024-05-04T21:00:01.996Z
   text: ""
   author: ""
@@ -1065,6 +1147,8 @@
     - ihmis-suski
     - bergie
   category: navigation
+  origin: auto
+  id: 23f804a2-1244-474c-9b10-a2ff4cf21c10
 - datetime: 2024-05-04T22:00:01.996Z
   text: ""
   author: ""
@@ -1089,6 +1173,8 @@
     - ihmis-suski
     - bergie
   category: navigation
+  origin: auto
+  id: 0a3c2603-b5a5-44f4-8aa1-e3d28079f7cb
 - datetime: 2024-05-04T23:00:03.001Z
   text: ""
   author: ""
@@ -1112,3 +1198,6 @@
   crewNames:
     - ihmis-suski
     - bergie
+  category: navigation
+  origin: auto
+  id: 1e1cf7e5-2830-459a-af4a-ab6553a2484a

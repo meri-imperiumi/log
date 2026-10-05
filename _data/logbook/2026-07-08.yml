@@ -28,6 +28,8 @@
     - bergie
     - ihmis-suski
   category: navigation
+  origin: auto
+  id: 0eb82978-e475-456c-b74f-9bc29b5fd326
 - datetime: 2026-07-08T01:59:35.600Z
   text: ""
   author: ""
@@ -58,6 +60,8 @@
     - bergie
     - ihmis-suski
   category: navigation
+  origin: auto
+  id: 11707809-d221-4bc8-b3a6-c896aa23c561
 - datetime: 2026-07-08T02:08:35.000Z
   text: "Hand steering "
   author: bergie
@@ -88,6 +92,8 @@
     - bergie
     - ihmis-suski
   category: navigation
+  origin: manual
+  id: b76fcf0d-8d87-4d1e-9728-c1a00339da7a
 - datetime: 2026-07-08T02:27:17.000Z
   text: Sails down, motoring
   author: ""
@@ -118,6 +124,8 @@
     - bergie
     - ihmis-suski
   category: navigation
+  origin: auto
+  id: 543f47b3-1b10-4e2f-8d0d-887561620883
 - datetime: 2026-07-08T02:59:35.000Z
   text: ""
   author: ""
@@ -145,6 +153,8 @@
     - bergie
     - ihmis-suski
   category: navigation
+  origin: auto
+  id: fc4c954b-a420-4052-be45-2d6d892069e9
 - datetime: 2026-07-08T03:10:25.000Z
   text: Anchored. Watch schedule stopped
   author: bergie
@@ -172,6 +182,8 @@
     - bergie
     - ihmis-suski
   category: navigation
+  origin: manual
+  id: 35e809a4-3b80-4ce2-b1a4-8a58d2b7eec8
 - datetime: 2026-07-08T03:17:53.000Z
   text: Stopped main engine
   author: ""
@@ -199,6 +211,8 @@
     - bergie
     - ihmis-suski
   category: navigation
+  origin: auto
+  id: d5d7a808-e4a0-42c8-8ee7-bf6ecbf946ba
 - datetime: 2026-07-08T19:05:51.699Z
   text: "Started watermaker "
   author: bergie
@@ -225,6 +239,8 @@
     - bergie
     - ihmis-suski
   category: maintenance
+  origin: manual
+  id: 0a20b44c-86e7-4581-92c3-89569e89ffd5
 - datetime: 2026-07-08T19:14:51.699Z
   text: Watermaker 343ppm
   author: bergie
@@ -251,6 +267,8 @@
     - bergie
     - ihmis-suski
   category: maintenance
+  origin: manual
+  id: 7556df65-9b03-4331-bab2-8ae1198860c1
 - datetime: 2026-07-08T20:55:53.798Z
   text: Watermaker 214ppm
   author: bergie
@@ -277,6 +295,8 @@
     - bergie
     - ihmis-suski
   category: maintenance
+  origin: manual
+  id: f162148c-e760-47ba-a58b-68e933b227ef
 - datetime: 2026-07-08T22:36:57.900Z
   text: Stopped watermaker, 203ppm
   author: bergie
@@ -303,3 +323,5 @@
     - bergie
     - ihmis-suski
   category: maintenance
+  origin: manual
+  id: ef32ad0b-8598-4ae1-8c02-81485a6db86e

@@ -22,6 +22,8 @@
     - ihmis-suski
     - bergie
   category: navigation
+  origin: auto
+  id: 83a9a493-ee9d-4042-94c1-3654505900ae
 - datetime: 2024-08-07T00:28:13.800Z
   text: "The night is even darker tonight. New moon and clouds. Passing ships are
     the only visible item outside Lille Ø "
@@ -47,6 +49,8 @@
     - ihmis-suski
     - bergie
   category: navigation
+  origin: manual
+  id: 2d49b364-2083-4c6b-a552-e3736310fae7
 - datetime: 2024-08-07T01:00:14.800Z
   text: ""
   author: ""
@@ -71,6 +75,8 @@
     - ihmis-suski
     - bergie
   category: navigation
+  origin: auto
+  id: 523f8dae-2495-4f08-9d01-282d9f184c94
 - datetime: 2024-08-07T01:27:14.800Z
   text: "Sky partially cleared. "
   author: ihmis-suski
@@ -99,6 +105,8 @@
     seaState: 3
     cloudCoverage: 3
     visibility: 7
+  origin: manual
+  id: 60630717-74ff-4498-a314-193b504fd61a
 - datetime: 2024-08-07T01:37:15.800Z
   text: Back to no stars.
   author: ihmis-suski
@@ -125,6 +133,8 @@
   category: navigation
   observations:
     cloudCoverage: 8
+  origin: manual
+  id: cd78bdd1-8e57-4485-bdd5-9cc62e5f83ea
 - datetime: 2024-08-07T01:49:30.800Z
   text: "Sails set: Main, Staysail. Let's see when I need to roll out the genoa.
     Prepping for this change found first dead fish on the deck. Long an narrow,
@@ -151,6 +161,8 @@
     - ihmis-suski
     - bergie
   category: navigation
+  origin: manual
+  id: 543d1d8a-7f1d-45ea-9908-7ee50c27ae00
 - datetime: 2024-08-07T02:00:15.800Z
   text: ""
   author: ""
@@ -175,6 +187,8 @@
     - ihmis-suski
     - bergie
   category: navigation
+  origin: auto
+  id: 8928b141-87b6-441f-b79e-2a732713a08b
 - datetime: 2024-08-07T02:03:43.800Z
   text: "Sails set: Main, Genoa 1"
   author: ""
@@ -199,6 +213,8 @@
     - ihmis-suski
     - bergie
   category: navigation
+  origin: auto
+  id: 39b39ba7-0e2c-4078-ae57-a942123cc736
 - datetime: 2024-08-07T02:43:32.800Z
   text: "Sails set: Main, Genoa 1 (20% furled). Gust over 15 kn and a slight
     drizzle in my face. "
@@ -224,6 +240,8 @@
     - ihmis-suski
     - bergie
   category: navigation
+  origin: manual
+  id: 980802b1-50d8-4319-932a-a13eae672dd3
 - datetime: 2024-08-07T03:00:16.800Z
   text: ""
   author: ""
@@ -248,6 +266,8 @@
     - ihmis-suski
     - bergie
   category: navigation
+  origin: auto
+  id: 87c336a3-a4a7-47b7-b49a-c3bb7fe50c85
 - datetime: 2024-08-07T03:03:18.800Z
   text: "Sails set: Main, Genoa 1"
   author: ""
@@ -272,6 +292,8 @@
     - ihmis-suski
     - bergie
   category: navigation
+  origin: auto
+  id: 4ffe5b61-c7be-4341-92c6-810eaacc1ba8
 - datetime: 2024-08-07T03:04:16.800Z
   text: Securite  (weather) in french. Pretty much garbled mess so far out.
   author: ihmis-suski
@@ -296,6 +318,8 @@
     - ihmis-suski
     - bergie
   category: radio
+  origin: manual
+  id: 0b736e0e-8bf0-4887-bfb9-73d840974075
 - datetime: 2024-08-07T03:17:33.800Z
   text: "Sails set: Main, Genoa 1 (30% furled)"
   author: ""
@@ -320,6 +344,8 @@
     - ihmis-suski
     - bergie
   category: navigation
+  origin: auto
+  id: fec5ac05-4840-4cbe-98e6-e2c13180da1f
 - datetime: 2024-08-07T03:38:16.800Z
   text: Arrived to the edge of the continental shelf. Lumpy sea state is back.
     Also a lot of fishing boats to our starboard.
@@ -345,6 +371,8 @@
     - ihmis-suski
     - bergie
   category: navigation
+  origin: manual
+  id: 0c4e2fc0-db9e-4acf-af7d-12738ce8f05b
 - datetime: 2024-08-07T04:00:17.900Z
   text: ""
   author: ""
@@ -369,6 +397,8 @@
     - ihmis-suski
     - bergie
   category: navigation
+  origin: auto
+  id: d6dd76ee-3fa5-4617-b5d4-db0686238c17
 - datetime: 2024-08-07T04:58:04.899Z
   text: "Sails set: Main, Genoa 1"
   author: ""
@@ -393,6 +423,8 @@
     - ihmis-suski
     - bergie
   category: navigation
+  origin: auto
+  id: 4fe5c97d-3dc7-4dfe-a223-2a483bbdf136
 - datetime: 2024-08-07T05:00:17.900Z
   text: ""
   author: ""
@@ -417,6 +449,8 @@
     - ihmis-suski
     - bergie
   category: navigation
+  origin: auto
+  id: 8327bcc3-d531-457f-a192-bede70a3b60c
 - datetime: 2024-08-07T05:47:35.900Z
   text: Autopilot activated
   author: ""
@@ -441,6 +475,8 @@
     - ihmis-suski
     - bergie
   category: navigation
+  origin: auto
+  id: 3f7a7565-dcc1-40e6-b2c0-6c2145859018
 - datetime: 2024-08-07T06:00:18.899Z
   text: Bergie on watch. The huge Spanish fishing fleet to our starboard even
     brought their own SAR
@@ -470,6 +506,8 @@
     seaState: 4
     cloudCoverage: 4
     visibility: 8
+  origin: manual
+  id: ad5fc66c-8cea-47b9-b6af-e349402849c9
 - datetime: 2024-08-07T06:45:18.899Z
   text: Small pod of dolphins went by
   author: bergie
@@ -494,6 +532,8 @@
     - ihmis-suski
     - bergie
   category: navigation
+  origin: manual
+  id: e32745ba-4990-4743-aaa2-fab6f087be3d
 - datetime: 2024-08-07T06:57:07.900Z
   text: Autopilot deactivated, windvane steering
   author: bergie
@@ -518,6 +558,8 @@
     - ihmis-suski
     - bergie
   category: navigation
+  origin: manual
+  id: 65e7a0f9-dc8e-4691-9721-77cf0071428c
 - datetime: 2024-08-07T07:00:19.900Z
   text: ""
   author: ""
@@ -542,6 +584,8 @@
     - ihmis-suski
     - bergie
   category: navigation
+  origin: auto
+  id: a7509980-b1fe-4959-8bf2-0122eb20b89f
 - datetime: 2024-08-07T07:21:19.900Z
   text: For the first time ever there is over 1000m of water under the keel
   author: bergie
@@ -566,6 +610,8 @@
     - ihmis-suski
     - bergie
   category: navigation
+  origin: manual
+  id: 3e4935bb-9779-470f-b9e8-9c6fafd0e2a6
 - datetime: 2024-08-07T08:00:20.899Z
   text: We're now past the fishing fleet at the shelf
   author: bergie
@@ -590,6 +636,8 @@
     - ihmis-suski
     - bergie
   category: navigation
+  origin: manual
+  id: 2cd21adb-1e45-46bd-8186-e597b26bdf2f
 - datetime: 2024-08-07T09:00:22.899Z
   text: ""
   author: ""
@@ -614,6 +662,8 @@
     - ihmis-suski
     - bergie
   category: navigation
+  origin: auto
+  id: d4b66266-6744-4696-8bc1-7753c747cc77
 - datetime: 2024-08-07T09:39:22.899Z
   text: "This is a slight taste of ocean sailing: windvane steers, there is
     nothing near us, water is deep, the swell big but a gentle up-a-hill,
@@ -644,6 +694,8 @@
     cloudCoverage: 5
     seaState: 4
     visibility: 8
+  origin: manual
+  id: db75dde2-546d-4716-aac3-7aefcb03a60b
 - datetime: 2024-08-07T10:00:22.899Z
   text: ""
   author: ""
@@ -668,6 +720,8 @@
     - ihmis-suski
     - bergie
   category: navigation
+  origin: auto
+  id: 3bd7750d-1968-4409-af42-316e0b3be704
 - datetime: 2024-08-07T11:00:23.900Z
   text: ""
   author: ""
@@ -692,6 +746,8 @@
     - ihmis-suski
     - bergie
   category: navigation
+  origin: auto
+  id: 22f73be2-7359-41bb-b2a6-024099f5e6eb
 - datetime: 2024-08-07T12:00:24.300Z
   text: ""
   author: ""
@@ -716,6 +772,8 @@
     - ihmis-suski
     - bergie
   category: navigation
+  origin: auto
+  id: bff4efe4-3e94-4f6b-bcf6-5b0ae50924e1
 - datetime: 2024-08-07T12:01:24.300Z
   text: Watch change. Suski on duty.
   author: ihmis-suski
@@ -744,6 +802,8 @@
     seaState: 4
     cloudCoverage: 2
     visibility: 8
+  origin: manual
+  id: 0ba147f9-475f-48cb-bcbd-43583b3d2031
 - datetime: 2024-08-07T13:00:26.300Z
   text: ""
   author: ""
@@ -768,6 +828,8 @@
     - ihmis-suski
     - bergie
   category: navigation
+  origin: auto
+  id: c479f9e7-a7ab-44da-9916-c469b61916df
 - datetime: 2024-08-07T14:00:26.300Z
   text: ""
   author: ""
@@ -792,6 +854,8 @@
     - ihmis-suski
     - bergie
   category: navigation
+  origin: auto
+  id: af2a7f49-baca-41bb-9a21-f1959ce78701
 - datetime: 2024-08-07T15:00:27.302Z
   text: ""
   author: ""
@@ -816,6 +880,8 @@
     - ihmis-suski
     - bergie
   category: navigation
+  origin: auto
+  id: bc046dc5-2a97-4337-9470-2d43440f8615
 - datetime: 2024-08-07T16:00:27.398Z
   text: ""
   author: ""
@@ -840,6 +906,8 @@
     - ihmis-suski
     - bergie
   category: navigation
+  origin: auto
+  id: efcc9a82-59fc-4115-a0a0-d07b69d645d3
 - datetime: 2024-08-07T17:00:28.403Z
   text: ""
   author: ""
@@ -864,6 +932,8 @@
     - ihmis-suski
     - bergie
   category: navigation
+  origin: auto
+  id: 6f7645df-5676-4cad-8e07-e4e9e597f20a
 - datetime: 2024-08-07T18:00:19.398Z
   text: Bergie on watch
   author: bergie
@@ -892,6 +962,8 @@
     seaState: 4
     cloudCoverage: 2
     visibility: 8
+  origin: manual
+  id: 7c62c54d-a246-450c-aa26-01c5b9cdfa9f
 - datetime: 2024-08-07T18:41:20.396Z
   text: |-
     Pumped the bilge. Electric can't quite reach the bottom.
@@ -918,6 +990,8 @@
     - ihmis-suski
     - bergie
   category: maintenance
+  origin: manual
+  id: c67e2671-aa20-4a0c-8373-7f33d1dcc3d6
 - datetime: 2024-08-07T19:00:20.403Z
   text: ""
   author: ""
@@ -942,6 +1016,8 @@
     - ihmis-suski
     - bergie
   category: navigation
+  origin: auto
+  id: 6914c9be-d202-4952-88ef-8754ccc44813
 - datetime: 2024-08-07T19:15:20.396Z
   text: We're now properly in the shipping lane. Tankers and freighters passing us
     from both sides
@@ -967,6 +1043,8 @@
     - ihmis-suski
     - bergie
   category: navigation
+  origin: manual
+  id: 84683357-74f2-469c-8b4f-bd64a7527bce
 - datetime: 2024-08-07T20:00:20.403Z
   text: ""
   author: ""
@@ -991,6 +1069,8 @@
     - ihmis-suski
     - bergie
   category: navigation
+  origin: auto
+  id: 1c69bbaf-2075-4b9f-adc3-a57ef9019c96
 - datetime: 2024-08-07T20:26:21.401Z
   text: 200NM to go. Getting dark enough that I can distinguish the lights of
     passing shipping
@@ -1020,6 +1100,8 @@
     seaState: 4
     cloudCoverage: 1
     visibility: 8
+  origin: manual
+  id: 3e3b0292-176c-4e8c-ac45-75745dfc44fb
 - datetime: 2024-08-07T21:00:21.401Z
   text: ""
   author: ""
@@ -1044,6 +1126,8 @@
     - ihmis-suski
     - bergie
   category: navigation
+  origin: auto
+  id: b473be49-99f5-4eba-8088-97dd8f67a022
 - datetime: 2024-08-07T21:27:21.401Z
   text: "Polaris between the aft stays, milky way overhead. And shooting stars "
   author: bergie
@@ -1068,6 +1152,8 @@
     - ihmis-suski
     - bergie
   category: navigation
+  origin: manual
+  id: fba49001-2af9-4902-9e5c-138b273399e5
 - datetime: 2024-08-07T22:00:21.401Z
   text: ""
   author: ""
@@ -1092,6 +1178,8 @@
     - ihmis-suski
     - bergie
   category: navigation
+  origin: auto
+  id: 6ea289ed-787f-4a77-8f47-eabdd0bcbd29
 - datetime: 2024-08-07T22:20:21.798Z
   text: We start to be through the southbound traffic. Northbound next
   author: bergie
@@ -1116,6 +1204,8 @@
     - ihmis-suski
     - bergie
   category: navigation
+  origin: manual
+  id: f39079cd-7849-4851-8bfd-790bf3b206dc
 - datetime: 2024-08-07T23:00:22.796Z
   text: ""
   author: ""
@@ -1140,6 +1230,8 @@
     - ihmis-suski
     - bergie
   category: navigation
+  origin: auto
+  id: 6a6be4a6-6022-4388-ae0c-6765d730ee09
 - datetime: 2024-08-07T23:35:22.803Z
   text: Some clouds rolling in, but thankfully also wind
   author: bergie
@@ -1168,3 +1260,5 @@
     seaState: 4
     cloudCoverage: 4
     visibility: 8
+  origin: manual
+  id: 975bb7aa-e8a0-4ca0-bef0-22639438611c

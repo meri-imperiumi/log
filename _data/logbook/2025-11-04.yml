@@ -21,6 +21,8 @@
     - ihmis-suski
     - bergie
   category: navigation
+  origin: manual
+  id: b87e7762-558f-4e0b-92c1-1d743d954c6c
 - datetime: 2025-11-04T12:10:54.700Z
   text: Started main engine
   author: ""
@@ -43,6 +45,8 @@
     - ihmis-suski
     - bergie
   category: navigation
+  origin: auto
+  id: 6cac94c1-948a-4fb3-8f2e-104b852cdd09
 - datetime: 2025-11-04T12:13:08.700Z
   text: Stopped main engine
   author: ""
@@ -65,6 +69,8 @@
     - ihmis-suski
     - bergie
   category: navigation
+  origin: auto
+  id: 590bf48e-6d8d-4c51-a97b-7afd51bd7029
 - datetime: 2025-11-04T12:50:01.500Z
   text: Depth sounder (P79) started working again after a NMEA2000 reboot
   author: bergie
@@ -87,3 +93,5 @@
     - ihmis-suski
     - bergie
   category: maintenance
+  origin: manual
+  id: ef04bd8b-37f5-4db4-833b-670d5a8e7f47

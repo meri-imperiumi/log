@@ -24,6 +24,8 @@
     - ihmis-suski
     - bergie
   category: navigation
+  origin: auto
+  id: ea33ba93-42ad-46c3-8dda-08643e33aca2
 - datetime: 2025-10-17T14:13:40.601Z
   text: Anchor up, motoring
   author: ""
@@ -50,6 +52,8 @@
     - ihmis-suski
     - bergie
   category: navigation
+  origin: auto
+  id: d39bbf26-f6f3-4e23-9ab3-b0d6cf96675f
 - datetime: 2025-10-17T14:55:46.598Z
   text: Motor stopped, sailing with Main, Genoa 1
   author: ""
@@ -76,6 +80,8 @@
     - ihmis-suski
     - bergie
   category: navigation
+  origin: auto
+  id: 13f229f0-79f1-4147-968e-3a06c5a786bd
 - datetime: 2025-10-17T14:57:21.600Z
   text: Autopilot activated
   author: ""
@@ -102,6 +108,8 @@
     - ihmis-suski
     - bergie
   category: navigation
+  origin: auto
+  id: e9732b68-f6a2-4652-9c66-22e026ebdbcf
 - datetime: 2025-10-17T15:00:04.601Z
   text: ""
   author: ""
@@ -128,6 +136,8 @@
     - ihmis-suski
     - bergie
   category: navigation
+  origin: auto
+  id: c01e46ce-7443-4039-a4b8-4d62c0256d65
 - datetime: 2025-10-17T15:22:04.998Z
   text: "Cleaned filter and started watermaker "
   author: bergie
@@ -154,6 +164,8 @@
     - ihmis-suski
     - bergie
   category: maintenance
+  origin: manual
+  id: 39343952-b4dc-46e1-bddd-650100f6840d
 - datetime: 2025-10-17T15:40:04.998Z
   text: Changed to wing on wing
   author: ihmis-suski
@@ -184,6 +196,8 @@
     seaState: 2
     cloudCoverage: 4
     visibility: 8
+  origin: manual
+  id: 16561a4b-bd58-4854-8a6d-d510ff28eb4d
 - datetime: 2025-10-17T15:54:06.003Z
   text: Stopped watermaker, 402ppm
   author: bergie
@@ -210,6 +224,8 @@
     - ihmis-suski
     - bergie
   category: maintenance
+  origin: manual
+  id: 2a1da46f-458e-4ac5-9df1-1227a17c4d24
 - datetime: 2025-10-17T16:00:06.003Z
   text: ""
   author: ""
@@ -236,6 +252,8 @@
     - ihmis-suski
     - bergie
   category: navigation
+  origin: auto
+  id: 82624a45-3345-4551-b6ec-38e91179528e
 - datetime: 2025-10-17T16:04:51.001Z
   text: Sails down, motoring
   author: ""
@@ -262,6 +280,8 @@
     - ihmis-suski
     - bergie
   category: navigation
+  origin: auto
+  id: d82d2fde-f1bf-46a0-82eb-5a9231652198
 - datetime: 2025-10-17T16:08:06.003Z
   text: Bergie on watch
   author: bergie
@@ -292,6 +312,8 @@
     seaState: 2
     cloudCoverage: 3
     visibility: 8
+  origin: manual
+  id: 31eb1f31-159c-4789-bb8b-3a40842ace2a
 - datetime: 2025-10-17T16:23:07.001Z
   text: Pumped the bilge
   author: bergie
@@ -318,6 +340,8 @@
     - ihmis-suski
     - bergie
   category: maintenance
+  origin: manual
+  id: b294c099-6911-4d0f-9b3e-5a5b03dcb1d4
 - datetime: 2025-10-17T16:48:08.102Z
   text: Dolphins! Many small ones
   author: bergie
@@ -344,6 +368,8 @@
     - ihmis-suski
     - bergie
   category: navigation
+  origin: manual
+  id: eaf2099b-778d-4b7f-be3b-74cfd79a397c
 - datetime: 2025-10-17T17:00:09.100Z
   text: ""
   author: ""
@@ -370,6 +396,8 @@
     - ihmis-suski
     - bergie
   category: navigation
+  origin: auto
+  id: 403f87eb-866a-4b3a-9dce-ddc559f9cbe3
 - datetime: 2025-10-17T17:57:13.100Z
   text: Passing the Rainbow Warrior
   author: bergie
@@ -396,6 +424,8 @@
     - ihmis-suski
     - bergie
   category: navigation
+  origin: manual
+  id: e50bbd7a-bc47-4021-b380-f1ffe862b969
 - datetime: 2025-10-17T18:00:12.102Z
   text: ""
   author: ""
@@ -422,6 +452,8 @@
     - ihmis-suski
     - bergie
   category: navigation
+  origin: auto
+  id: 23102f6b-fae9-4528-93de-cf70861bd564
 - datetime: 2025-10-17T19:00:16.198Z
   text: ""
   author: ""
@@ -448,6 +480,8 @@
     - ihmis-suski
     - bergie
   category: navigation
+  origin: auto
+  id: 5c26280f-da5b-475f-9639-9dc1af70702c
 - datetime: 2025-10-17T19:24:04.198Z
   text: Motor stopped, sailing with Main, Genoa 1
   author: ""
@@ -474,6 +508,8 @@
     - ihmis-suski
     - bergie
   category: navigation
+  origin: auto
+  id: ae3b9852-ab3e-47ad-843d-05fd07bd845f
 - datetime: 2025-10-17T19:24:17.203Z
   text: "Started watermaker "
   author: bergie
@@ -500,6 +536,8 @@
     - ihmis-suski
     - bergie
   category: maintenance
+  origin: manual
+  id: c887f84d-d667-46fd-b1d9-697ad3339b4d
 - datetime: 2025-10-17T19:35:17.196Z
   text: Watermaker 347ppm
   author: bergie
@@ -526,6 +564,8 @@
     - ihmis-suski
     - bergie
   category: maintenance
+  origin: manual
+  id: a8544932-5aae-4dfb-a920-a30625b4abd3
 - datetime: 2025-10-17T20:00:18.201Z
   text: ""
   author: ""
@@ -552,6 +592,8 @@
     - ihmis-suski
     - bergie
   category: navigation
+  origin: auto
+  id: cad5e0e7-18db-42c0-a43e-fab209b150ff
 - datetime: 2025-10-17T20:13:28.198Z
   text: Autopilot deactivated, windvane steering
   author: bergie
@@ -582,6 +624,8 @@
     seaState: 3
     cloudCoverage: 6
     visibility: 8
+  origin: manual
+  id: 49167228-6829-4ada-b5b9-0ebc18a44004
 - datetime: 2025-10-17T20:19:50.201Z
   text: "Sails set: Main, Genoa 1 (20% furled)"
   author: ""
@@ -608,6 +652,8 @@
     - ihmis-suski
     - bergie
   category: navigation
+  origin: auto
+  id: 32c9d9cb-a029-4790-9159-3e882e2afda0
 - datetime: 2025-10-17T20:25:20.198Z
   text: Out of Curaçao territorial waters. Seas are lumpy but small
   author: bergie
@@ -634,6 +680,8 @@
     - ihmis-suski
     - bergie
   category: navigation
+  origin: manual
+  id: 53727881-41f0-49a3-9fb4-d4e8a55a341f
 - datetime: 2025-10-17T20:45:29.203Z
   text: "Sails set: Main (1st reef), Genoa 1 (20% furled). We hear some rumbling
     from the south "
@@ -661,6 +709,8 @@
     - ihmis-suski
     - bergie
   category: navigation
+  origin: manual
+  id: 28227a72-f720-41ac-b771-4aaa969717ba
 - datetime: 2025-10-17T21:00:23.200Z
   text: ""
   author: ""
@@ -687,6 +737,8 @@
     - ihmis-suski
     - bergie
   category: navigation
+  origin: auto
+  id: 4ebf794b-470c-4857-9758-fe7063e66e05
 - datetime: 2025-10-17T21:32:24.300Z
   text: Watermaker 269ppm
   author: bergie
@@ -713,6 +765,8 @@
     - ihmis-suski
     - bergie
   category: maintenance
+  origin: manual
+  id: f4e2cda9-2674-4123-8e68-47ea2c99c653
 - datetime: 2025-10-17T22:00:23.302Z
   text: Suski on watch
   author: ihmis-suski
@@ -739,6 +793,8 @@
     - ihmis-suski
     - bergie
   category: navigation
+  origin: manual
+  id: c7732762-f7ca-4904-9d3f-ab8d7994d259
 - datetime: 2025-10-17T22:16:22.297Z
   text: Got contacted by Robin from Sya via Meshtastic. They were flying over
     Lille Ø in an airplane
@@ -766,6 +822,8 @@
     - ihmis-suski
     - bergie
   category: radio
+  origin: manual
+  id: 8c9ee0c3-353d-4519-abfb-7d53c564dc4b
 - datetime: 2025-10-17T22:29:49.299Z
   text: "Sails set: Main (1st reef), Genoa 1"
   author: ""
@@ -792,6 +850,8 @@
     - ihmis-suski
     - bergie
   category: navigation
+  origin: auto
+  id: 81cb85cd-af6e-41c0-9074-80a137cb0746
 - datetime: 2025-10-17T23:00:24.300Z
   text: ""
   author: ""
@@ -818,6 +878,8 @@
     - ihmis-suski
     - bergie
   category: navigation
+  origin: auto
+  id: 960f751d-c774-40c5-bee1-68c054184aee
 - datetime: 2025-10-17T23:13:25.299Z
   text: Watermaker 258ppm. Stopped for tonight
   author: ihmis-suski
@@ -844,6 +906,8 @@
     - ihmis-suski
     - bergie
   category: maintenance
+  origin: manual
+  id: d39c54e8-0680-4230-9b12-7e104eaa6902
 - datetime: 2025-10-17T23:14:25.299Z
   text: A big ship in our starboard without AIS
   author: ihmis-suski
@@ -870,6 +934,8 @@
     - ihmis-suski
     - bergie
   category: navigation
+  origin: manual
+  id: 52230afd-0548-4d0a-9ebf-419e496beb86
 - datetime: 2025-10-17T23:36:26.297Z
   text: The ship turned and is going away from us now
   author: ihmis-suski
@@ -896,3 +962,5 @@
     - ihmis-suski
     - bergie
   category: navigation
+  origin: manual
+  id: 01913028-2443-4ff6-8e71-39fc6169a119

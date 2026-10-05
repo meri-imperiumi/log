@@ -22,6 +22,8 @@
     - ihmis-suski
     - bergie
   category: navigation
+  origin: auto
+  id: d1144fb5-88ea-486e-a087-1177df5c157c
 - datetime: 2024-05-30T07:57:31.900Z
   text: Anchor up, motoring
   author: ""
@@ -46,6 +48,8 @@
     - ihmis-suski
     - bergie
   category: navigation
+  origin: auto
+  id: 0e0a9215-e1e9-4570-af78-49a7e5b562c1
 - datetime: 2024-05-30T07:58:17.900Z
   text: Stopped
   author: ""
@@ -71,6 +75,8 @@
     - bergie
   end: true
   category: navigation
+  origin: auto
+  id: d6148d86-c39f-4041-98f6-a85366a58f88
 - datetime: 2024-05-30T08:01:16.899Z
   text: Motoring
   author: ""
@@ -95,6 +101,8 @@
     - ihmis-suski
     - bergie
   category: navigation
+  origin: auto
+  id: 61845551-85a6-43cd-92ff-5e3053faedb2
 - datetime: 2024-05-30T08:12:42.899Z
   text: Motor stopped, sailing with Main, Genoa 1
   author: ""
@@ -119,6 +127,8 @@
     - ihmis-suski
     - bergie
   category: navigation
+  origin: auto
+  id: 39f51673-500d-4180-a627-0821e43834ba
 - datetime: 2024-05-30T08:34:16.899Z
   text: Deployed hydrogenerator,  windvane steering
   author: bergie
@@ -147,6 +157,8 @@
     seaState: 3
     cloudCoverage: 8
     visibility: 7
+  origin: manual
+  id: e65d9d01-b06f-4001-826b-c64f4f631c4b
 - datetime: 2024-05-30T09:00:16.899Z
   text: ""
   author: ""
@@ -171,6 +183,8 @@
     - ihmis-suski
     - bergie
   category: navigation
+  origin: auto
+  id: 0e0a0c8e-e42a-4018-bfb0-beba8b2bdb85
 - datetime: 2024-05-30T09:54:47.299Z
   text: Autopilot activated
   author: bergie
@@ -199,6 +213,8 @@
     cloudCoverage: 7
     seaState: 3
     visibility: 7
+  origin: manual
+  id: e467dace-3fab-47ab-9399-34e338124883
 - datetime: 2024-05-30T09:57:18.300Z
   text: Started watermaker, 181ppm
   author: bergie
@@ -223,6 +239,8 @@
     - ihmis-suski
     - bergie
   category: maintenance
+  origin: manual
+  id: 640e2ce7-65b8-419c-9e0b-f54c53b53c56
 - datetime: 2024-05-30T10:00:18.300Z
   text: ""
   author: ""
@@ -247,6 +265,8 @@
     - ihmis-suski
     - bergie
   category: navigation
+  origin: auto
+  id: f221fa64-ac4f-4630-ae8c-89dd36ff6b03
 - datetime: 2024-05-30T10:25:52.300Z
   text: Autopilot deactivated, windvane steering
   author: bergie
@@ -275,6 +295,8 @@
     cloudCoverage: 5
     seaState: 3
     visibility: 7
+  origin: manual
+  id: 4e9203b8-2e4a-46da-9549-30e28d737483
 - datetime: 2024-05-30T11:00:23.299Z
   text: ""
   author: ""
@@ -299,6 +321,8 @@
     - ihmis-suski
     - bergie
   category: navigation
+  origin: auto
+  id: cc06916d-9d69-404a-813f-138d553b9a34
 - datetime: 2024-05-30T12:00:24.300Z
   text: ""
   author: ""
@@ -323,6 +347,8 @@
     - ihmis-suski
     - bergie
   category: navigation
+  origin: auto
+  id: 1b9c84d6-58b7-4e92-859b-9897a58b1e5b
 - datetime: 2024-05-30T12:16:23.299Z
   text: Some wind again. Adverse current
   author: bergie
@@ -351,6 +377,8 @@
     seaState: 3
     cloudCoverage: 8
     visibility: 7
+  origin: manual
+  id: f8d572a9-2bc6-4e01-b2ed-02d8a8e60026
 - datetime: 2024-05-30T12:33:43.299Z
   text: "Sails set: Main, Genoa 1 (20% furled). Gusts up to 23kt"
   author: bergie
@@ -375,6 +403,8 @@
     - ihmis-suski
     - bergie
   category: navigation
+  origin: manual
+  id: c1c836c3-451e-49a4-b8d7-a41e41fd55db
 - datetime: 2024-05-30T13:00:24.300Z
   text: ""
   author: ""
@@ -399,6 +429,8 @@
     - ihmis-suski
     - bergie
   category: navigation
+  origin: auto
+  id: 4232d208-e6c9-424d-b4bd-5d8264b9bf87
 - datetime: 2024-05-30T13:11:34.300Z
   text: "Sails set: Main (1st reef), Genoa 1 (20% furled). Biggest gust so far 27kt"
   author: bergie
@@ -423,6 +455,8 @@
     - ihmis-suski
     - bergie
   category: navigation
+  origin: manual
+  id: 21810009-7efd-4f04-8245-ec706979ed7f
 - datetime: 2024-05-30T13:31:25.299Z
   text: Stopped watermaker, 145ppm. Two full jugs
   author: bergie
@@ -447,6 +481,8 @@
     - ihmis-suski
     - bergie
   category: maintenance
+  origin: manual
+  id: 7a14dbaa-b6ac-4f3c-9139-5d06ecd58fb8
 - datetime: 2024-05-30T14:00:25.299Z
   text: ""
   author: ""
@@ -471,6 +507,8 @@
     - ihmis-suski
     - bergie
   category: navigation
+  origin: auto
+  id: 78db3946-0599-4519-b4e4-4a6b96cb1743
 - datetime: 2024-05-30T14:50:13.299Z
   text: "Sails set: Main (1st reef), Genoa 1"
   author: ihmis-suski
@@ -499,6 +537,8 @@
     seaState: 3
     cloudCoverage: 8
     visibility: 8
+  origin: manual
+  id: 308bdf0e-d622-474f-bfba-2a4ab46aee13
 - datetime: 2024-05-30T14:56:53.299Z
   text: "Sails set: Main, Genoa 1"
   author: ""
@@ -523,6 +563,8 @@
     - ihmis-suski
     - bergie
   category: navigation
+  origin: auto
+  id: 043e9455-4ff3-4918-8b38-9cb3cc4cb5af
 - datetime: 2024-05-30T15:00:26.201Z
   text: ""
   author: ""
@@ -547,6 +589,8 @@
     - ihmis-suski
     - bergie
   category: navigation
+  origin: auto
+  id: d9bbd3cf-fd0c-4009-bda5-a158601b5e84
 - datetime: 2024-05-30T16:00:26.201Z
   text: ""
   author: ""
@@ -571,6 +615,8 @@
     - ihmis-suski
     - bergie
   category: navigation
+  origin: auto
+  id: 9b1c42a1-ff7a-4902-a856-822b20da9d3e
 - datetime: 2024-05-30T17:00:27.200Z
   text: ""
   author: ""
@@ -595,6 +641,8 @@
     - ihmis-suski
     - bergie
   category: navigation
+  origin: auto
+  id: c2b59ac1-178d-47e7-ad33-d5cb379823ee
 - datetime: 2024-05-30T18:00:27.200Z
   text: "Sound of Shiant. 2kt favourable current "
   author: bergie
@@ -619,6 +667,8 @@
     - ihmis-suski
     - bergie
   category: navigation
+  origin: manual
+  id: 9cce5e86-3dd4-4b2d-9bb5-e2de45910c6a
 - datetime: 2024-05-30T18:07:27.200Z
   text: Hand steering
   author: bergie
@@ -643,6 +693,8 @@
     - ihmis-suski
     - bergie
   category: navigation
+  origin: manual
+  id: 832378fb-334e-42f9-812e-0d7b37366745
 - datetime: 2024-05-30T18:11:27.200Z
   text: "Stowed hydrogenerator "
   author: bergie
@@ -667,6 +719,8 @@
     - ihmis-suski
     - bergie
   category: navigation
+  origin: manual
+  id: f54e1902-2948-443e-86cd-e7ae23192407
 - datetime: 2024-05-30T18:31:15.200Z
   text: Sails down, motoring
   author: ""
@@ -691,6 +745,8 @@
     - ihmis-suski
     - bergie
   category: navigation
+  origin: auto
+  id: 249cd171-2c33-4618-9fd2-04bd826b6167
 - datetime: 2024-05-30T19:00:28.198Z
   text: ""
   author: ""
@@ -715,6 +771,8 @@
     - ihmis-suski
     - bergie
   category: navigation
+  origin: auto
+  id: 65ff2c99-ac4f-4685-a3d9-1f274a8d491b
 - datetime: 2024-05-30T19:07:26.201Z
   text: Anchored
   author: ""
@@ -740,6 +798,8 @@
     - bergie
   end: true
   category: navigation
+  origin: auto
+  id: a98398cd-d4c7-48a2-bb10-d10deea96144
 - datetime: 2024-05-30T19:14:46.201Z
   text: Stopped main engine
   author: ""
@@ -764,3 +824,5 @@
     - ihmis-suski
     - bergie
   category: navigation
+  origin: auto
+  id: 3f1f14f7-faaf-4d03-9069-eef711c85b96

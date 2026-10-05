@@ -21,6 +21,8 @@
     - ihmis-suski
     - bergie
   category: navigation
+  origin: auto
+  id: 4d1be024-37eb-47d6-9925-c47437d92693
 - datetime: 2024-08-19T10:52:18.300Z
   text: Anchor up
   author: bergie
@@ -44,6 +46,8 @@
     - ihmis-suski
     - bergie
   category: navigation
+  origin: manual
+  id: e66594df-75b1-4889-a99f-2924424e6b86
 - datetime: 2024-08-19T10:52:50.300Z
   text: Reanchored, visit by Spanish customs
   author: bergie
@@ -68,6 +72,8 @@
     - bergie
   end: true
   category: navigation
+  origin: manual
+  id: 1ef91f98-c10b-47b8-91df-f7ad226d31b5
 - datetime: 2024-08-19T11:08:51.299Z
   text: Anchor up, motoring
   author: bergie
@@ -91,6 +97,8 @@
     - ihmis-suski
     - bergie
   category: navigation
+  origin: manual
+  id: 1b87c375-3da3-403f-aedc-b9fe2ec3929f
 - datetime: 2024-08-19T11:16:02.300Z
   text: Motor stopped, sailing with Main, Genoa 1
   author: ""
@@ -114,6 +122,8 @@
     - ihmis-suski
     - bergie
   category: navigation
+  origin: auto
+  id: 4ea8e074-1950-431e-93b6-3d719aed235f
 - datetime: 2024-08-19T11:20:49.299Z
   text: Started watermaker, 266ppm after 30min
   author: bergie
@@ -138,6 +148,8 @@
     - ihmis-suski
     - bergie
   category: maintenance
+  origin: manual
+  id: 76868324-854e-46b3-936e-ca3ea86aad69
 - datetime: 2024-08-19T12:00:50.300Z
   text: ""
   author: ""
@@ -162,6 +174,8 @@
     - ihmis-suski
     - bergie
   category: navigation
+  origin: auto
+  id: f9b40662-0afb-4758-9450-519c674f9c0f
 - datetime: 2024-08-19T12:26:23.299Z
   text: Sailing with Main
   author: ""
@@ -186,6 +200,8 @@
     - ihmis-suski
     - bergie
   category: navigation
+  origin: auto
+  id: 81046a5b-bbcb-461d-8faa-4d783afe3e48
 - datetime: 2024-08-19T13:00:51.299Z
   text: ""
   author: ""
@@ -210,6 +226,8 @@
     - ihmis-suski
     - bergie
   category: navigation
+  origin: auto
+  id: 135a9c60-733d-472c-9486-40790cff70b4
 - datetime: 2024-08-19T14:00:52.400Z
   text: ""
   author: ""
@@ -234,6 +252,8 @@
     - ihmis-suski
     - bergie
   category: navigation
+  origin: auto
+  id: 7ab82c94-2752-481f-b076-cfe05a594dae
 - datetime: 2024-08-19T14:13:52.400Z
   text: Lots of dolphins leaping between us and Muros
   author: bergie
@@ -258,6 +278,8 @@
     - ihmis-suski
     - bergie
   category: navigation
+  origin: manual
+  id: 13cebdcd-3a18-4244-a3be-73b68bf86a04
 - datetime: 2024-08-19T14:18:53.401Z
   text: Stopped watermaker, 212ppm
   author: bergie
@@ -282,6 +304,8 @@
     - ihmis-suski
     - bergie
   category: maintenance
+  origin: manual
+  id: 430d46ca-503f-4e63-9407-cc5a60558ec6
 - datetime: 2024-08-19T14:31:48.400Z
   text: Sails down, motoring
   author: ""
@@ -306,6 +330,8 @@
     - ihmis-suski
     - bergie
   category: navigation
+  origin: auto
+  id: 35af2a8c-6b91-4198-9e83-49b4e21ca30f
 - datetime: 2024-08-19T15:00:21.401Z
   text: Anchored
   author: ""
@@ -331,6 +357,8 @@
     - bergie
   end: true
   category: navigation
+  origin: auto
+  id: a2d4e29f-c778-41d7-aa25-7d4f164c21f2
 - datetime: 2024-08-19T15:08:03.398Z
   text: Stopped main engine
   author: ""
@@ -355,3 +383,5 @@
     - ihmis-suski
     - bergie
   category: navigation
+  origin: auto
+  id: 2172839c-933d-4255-848b-5fb4909b99d4

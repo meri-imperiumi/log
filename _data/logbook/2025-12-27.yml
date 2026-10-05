@@ -21,6 +21,8 @@
     - bergie
   end: true
   category: navigation
+  origin: manual
+  id: e9045391-7a61-4e58-a832-8e66d30e6f73
 - datetime: 2025-12-27T14:34:26.598Z
   text: Started main engine
   author: ""
@@ -43,6 +45,8 @@
     - ihmis-suski
     - bergie
   category: navigation
+  origin: auto
+  id: 1e3dc22f-232d-46f2-bf54-b1f59f7fe139
 - datetime: 2025-12-27T14:37:29.600Z
   text: Motoring
   author: ""
@@ -65,6 +69,8 @@
     - ihmis-suski
     - bergie
   category: navigation
+  origin: auto
+  id: 56366406-940d-425d-a0bd-bf99f0586292
 - datetime: 2025-12-27T14:40:11.600Z
   text: On a mooring ball
   author: bergie
@@ -88,6 +94,8 @@
     - bergie
   end: true
   category: navigation
+  origin: manual
+  id: ceb90b90-e276-4789-ad99-ba0883b72306
 - datetime: 2025-12-27T14:40:21.600Z
   text: Stopped main engine
   author: ""
@@ -110,3 +118,5 @@
     - ihmis-suski
     - bergie
   category: navigation
+  origin: auto
+  id: 365c216d-bcec-45f9-aa2c-253e929f6ee1

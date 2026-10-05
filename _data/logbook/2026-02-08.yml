@@ -20,6 +20,8 @@
     - ihmis-suski
     - bergie
   category: maintenance
+  origin: manual
+  id: 82f58f16-1e63-4191-885b-be51c37e48e8
 - datetime: 2026-02-08T18:26:20.102Z
   text: Switched exhaust elbow to high rise
   author: bergie
@@ -42,6 +44,8 @@
     - ihmis-suski
     - bergie
   category: engine
+  origin: manual
+  id: ccc8c9db-f8d5-4ec5-b843-f4508552c31b
 - datetime: 2026-02-08T18:27:15.097Z
   text: Started main engine
   author: ""
@@ -64,6 +68,8 @@
     - ihmis-suski
     - bergie
   category: navigation
+  origin: auto
+  id: 90a0a3bb-2912-4350-8d1e-e3a3091870a0
 - datetime: 2026-02-08T18:28:42.099Z
   text: Stopped main engine
   author: ""
@@ -86,3 +92,5 @@
     - ihmis-suski
     - bergie
   category: navigation
+  origin: auto
+  id: bd8898a6-2844-48ab-83f0-66169c3eb9f1

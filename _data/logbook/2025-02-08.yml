@@ -23,6 +23,8 @@
     - karin
     - daniel
   category: maintenance
+  origin: manual
+  id: a532c372-33c5-4dce-927c-5e5d0395ec4a
 - datetime: 2025-02-08T14:06:14.099Z
   text: karin, daniel left the crew
   author: ""
@@ -48,6 +50,8 @@
     - karin
     - daniel
   category: navigation
+  origin: auto
+  id: f8a3f806-b4b6-4256-b379-747578745ccf
 - datetime: 2025-02-08T15:46:03.200Z
   text: Watermaker 237ppm
   author: bergie
@@ -71,6 +75,8 @@
     - ihmis-suski
     - bergie
   category: maintenance
+  origin: manual
+  id: bee84a9d-e9d0-444c-a0e7-81485e841909
 - datetime: 2025-02-08T17:30:08.198Z
   text: 236ppm watermaker. Jug full.
   author: ihmis-suski
@@ -94,6 +100,8 @@
     - ihmis-suski
     - bergie
   category: maintenance
+  origin: manual
+  id: 903a6261-2d17-4229-a50f-825e8ebb7648
 - datetime: 2025-02-08T19:10:11.302Z
   text: Watermaker 237ppm jug full.
   author: ihmis-suski
@@ -117,6 +125,8 @@
     - ihmis-suski
     - bergie
   category: maintenance
+  origin: manual
+  id: ce3bbe29-afa0-46a8-8650-09505d7022a5
 - datetime: 2025-02-08T20:24:15.302Z
   text: 236ppm watermaker. Stopped.
   author: ihmis-suski
@@ -140,3 +150,5 @@
     - ihmis-suski
     - bergie
   category: maintenance
+  origin: manual
+  id: f7e1f9e0-c7ba-4967-a913-86a9a2a2b6b8

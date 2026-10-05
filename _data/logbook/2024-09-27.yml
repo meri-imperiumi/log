@@ -21,6 +21,8 @@
     - ihmis-suski
     - bergie
   category: navigation
+  origin: auto
+  id: a59d821b-1da5-4ea6-8137-4045de4bcd8c
 - datetime: 2024-09-27T10:44:50.899Z
   text: Motoring
   author: ""
@@ -45,6 +47,8 @@
     - ihmis-suski
     - bergie
   category: navigation
+  origin: auto
+  id: 6a229d4b-b5a7-4c05-8d1e-f9114c8dac58
 - datetime: 2024-09-27T11:00:49.900Z
   text: ""
   author: ""
@@ -69,6 +73,8 @@
     - ihmis-suski
     - bergie
   category: navigation
+  origin: auto
+  id: a81e1ac8-25c1-41d2-a744-268f33698094
 - datetime: 2024-09-27T11:12:49.900Z
   text: Main up, motorsailing with the cone
   author: bergie
@@ -93,6 +99,8 @@
     - ihmis-suski
     - bergie
   category: navigation
+  origin: manual
+  id: a7ba118e-fa46-4dd8-b506-b1f79d486062
 - datetime: 2024-09-27T11:14:49.900Z
   text: We're not getting data from depth sounder or paddlewheel. Fouling or
     sensor fault?
@@ -118,6 +126,8 @@
     - ihmis-suski
     - bergie
   category: maintenance
+  origin: manual
+  id: 077dc273-0386-42a0-a790-9b0012711fb0
 - datetime: 2024-09-27T11:29:49.900Z
   text: Checked in with Aveiro Port Control, bar is open and "you may leave"
   author: bergie
@@ -142,6 +152,8 @@
     - ihmis-suski
     - bergie
   category: radio
+  origin: manual
+  id: 89f030fb-0aff-4db3-9f1c-974ba200692c
 - datetime: 2024-09-27T12:00:49.900Z
   text: ""
   author: ""
@@ -166,6 +178,8 @@
     - ihmis-suski
     - bergie
   category: navigation
+  origin: auto
+  id: 0c13473b-4cbe-483c-9839-3dda504d45f4
 - datetime: 2024-09-27T12:21:26.899Z
   text: Motor stopped, sailing with Main, Genoa 1
   author: bergie
@@ -194,6 +208,8 @@
     seaState: 5
     cloudCoverage: 1
     visibility: 7
+  origin: manual
+  id: 73b56507-e61a-4eb1-bed0-90b0cf225aeb
 - datetime: 2024-09-27T12:48:50.899Z
   text: "Started watermaker "
   author: bergie
@@ -218,6 +234,8 @@
     - ihmis-suski
     - bergie
   category: maintenance
+  origin: manual
+  id: 2f4f7db8-8ff8-478e-bd06-0cfbba0ee5ed
 - datetime: 2024-09-27T13:00:49.900Z
   text: ""
   author: ""
@@ -242,6 +260,8 @@
     - ihmis-suski
     - bergie
   category: navigation
+  origin: auto
+  id: 1dd2be47-fae0-493f-a8f5-98929b0a3686
 - datetime: 2024-09-27T14:00:51.001Z
   text: ""
   author: ""
@@ -266,6 +286,8 @@
     - ihmis-suski
     - bergie
   category: navigation
+  origin: auto
+  id: 023ffce7-6a3b-4d3b-8969-41670eaabce3
 - datetime: 2024-09-27T14:08:08.998Z
   text: "Sails set: Main, Staysail"
   author: ""
@@ -290,6 +312,8 @@
     - ihmis-suski
     - bergie
   category: navigation
+  origin: auto
+  id: 36f8b580-9881-4eeb-8ece-431a43a3e904
 - datetime: 2024-09-27T15:00:52.000Z
   text: ""
   author: ""
@@ -314,6 +338,8 @@
     - ihmis-suski
     - bergie
   category: navigation
+  origin: auto
+  id: c681f052-e7ff-4a1a-8af4-53e5711e1e5f
 - datetime: 2024-09-27T15:33:58.003Z
   text: "Sails set: Main, Genoa 1"
   author: ""
@@ -338,6 +364,8 @@
     - ihmis-suski
     - bergie
   category: navigation
+  origin: auto
+  id: 45bee58a-9f9c-4d9c-9d96-92571288a896
 - datetime: 2024-09-27T15:49:59.001Z
   text: "Sails set: Main, Genoa 1 (20% furled). Autopilot activated "
   author: bergie
@@ -362,6 +390,8 @@
     - ihmis-suski
     - bergie
   category: navigation
+  origin: manual
+  id: 75cbb951-3192-49f8-98da-bacd6fff0d7f
 - datetime: 2024-09-27T16:00:52.000Z
   text: ""
   author: ""
@@ -386,6 +416,8 @@
     - ihmis-suski
     - bergie
   category: navigation
+  origin: auto
+  id: ad18e29b-2c35-44e3-be2d-037c7bbc655f
 - datetime: 2024-09-27T17:00:52.998Z
   text: ""
   author: ""
@@ -410,6 +442,8 @@
     - ihmis-suski
     - bergie
   category: navigation
+  origin: auto
+  id: 8a5164c1-1358-4523-a73f-5e0a0f23bc8a
 - datetime: 2024-09-27T17:34:56.998Z
   text: "Sails set: Main (1st reef), Genoa 1 (20% furled)"
   author: ""
@@ -434,6 +468,8 @@
     - ihmis-suski
     - bergie
   category: navigation
+  origin: auto
+  id: d3b8177b-c7e1-4882-91ac-c20226a760eb
 - datetime: 2024-09-27T18:00:52.998Z
   text: ""
   author: ""
@@ -458,6 +494,8 @@
     - ihmis-suski
     - bergie
   category: navigation
+  origin: auto
+  id: b0a3c1f1-468c-4c60-97ea-2a650d1a3cc6
 - datetime: 2024-09-27T19:00:52.998Z
   text: ""
   author: ""
@@ -482,6 +520,8 @@
     - ihmis-suski
     - bergie
   category: navigation
+  origin: auto
+  id: 3906ed6b-29c9-4d4f-9776-aad1a1be5f97
 - datetime: 2024-09-27T20:00:54.003Z
   text: ""
   author: ""
@@ -506,6 +546,8 @@
     - ihmis-suski
     - bergie
   category: navigation
+  origin: auto
+  id: 9990ac5f-493f-4215-b79f-dd0007b051e6
 - datetime: 2024-09-27T21:00:55.001Z
   text: ""
   author: ""
@@ -530,6 +572,8 @@
     - ihmis-suski
     - bergie
   category: navigation
+  origin: auto
+  id: 08b32d5b-f14e-434e-b19c-96c4a72e9a5f
 - datetime: 2024-09-27T21:46:55.001Z
   text: "Bioluminescence "
   author: bergie
@@ -554,6 +598,8 @@
     - ihmis-suski
     - bergie
   category: navigation
+  origin: manual
+  id: 1ec8ac6d-fd28-4926-8333-7b8e405e566c
 - datetime: 2024-09-27T22:00:55.001Z
   text: ""
   author: ""
@@ -578,6 +624,8 @@
     - ihmis-suski
     - bergie
   category: navigation
+  origin: auto
+  id: 72e1bafd-2448-4e4f-a2e9-bbc5d0fa77f2
 - datetime: 2024-09-27T23:00:56.000Z
   text: ""
   author: ""
@@ -602,6 +650,8 @@
     - ihmis-suski
     - bergie
   category: navigation
+  origin: auto
+  id: 98702386-18ce-4c5f-9ac7-29daf398788e
 - datetime: 2024-09-27T23:56:56.000Z
   text: "Watch change. "
   author: ihmis-suski
@@ -626,3 +676,5 @@
     - ihmis-suski
     - bergie
   category: navigation
+  origin: manual
+  id: eeeaa5eb-7d5c-44a4-968b-836113af24aa

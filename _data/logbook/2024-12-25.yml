@@ -29,6 +29,8 @@
     seaState: 3
     cloudCoverage: 1
     visibility: 7
+  origin: manual
+  id: c13d2769-eb53-4d52-9cd5-7c87beb62e95
 - datetime: 2024-12-25T00:20:17.300Z
   text: Sails down, motoring
   author: ""
@@ -56,6 +58,8 @@
     - ihmis-suski
     - bergie
   category: navigation
+  origin: auto
+  id: 2ab593cc-364c-4a52-a33a-7b9dc48c056d
 - datetime: 2024-12-25T01:00:33.300Z
   text: ""
   author: ""
@@ -83,6 +87,8 @@
     - ihmis-suski
     - bergie
   category: navigation
+  origin: auto
+  id: 41cb0cce-eaf1-49a4-b0e1-7eba636e70d5
 - datetime: 2024-12-25T01:16:34.300Z
   text: It is raining softly
   author: bergie
@@ -110,6 +116,8 @@
     - ihmis-suski
     - bergie
   category: navigation
+  origin: manual
+  id: d0d6c3d5-8943-4a61-8a65-4c17130b1db7
 - datetime: 2024-12-25T02:00:35.300Z
   text: ""
   author: ""
@@ -137,6 +145,8 @@
     - ihmis-suski
     - bergie
   category: navigation
+  origin: auto
+  id: 1eaa3ca0-0329-4328-abf0-47a65c10a705
 - datetime: 2024-12-25T02:30:53.300Z
   text: Motor stopped, sailing with Main, Genoa 1
   author: ""
@@ -164,6 +174,8 @@
     - ihmis-suski
     - bergie
   category: navigation
+  origin: auto
+  id: 156c93e4-663b-42be-8389-c965e25d6a4a
 - datetime: 2024-12-25T03:00:36.300Z
   text: ""
   author: ""
@@ -191,6 +203,8 @@
     - ihmis-suski
     - bergie
   category: navigation
+  origin: auto
+  id: 48c0312e-7d6c-43ff-bb26-8fe4beecbfdd
 - datetime: 2024-12-25T03:13:36.300Z
   text: "Moon is rising, a red upturned crescent "
   author: bergie
@@ -218,6 +232,8 @@
     - ihmis-suski
     - bergie
   category: navigation
+  origin: manual
+  id: 9f3c3b9f-bc70-4f19-827e-8154a91755a8
 - datetime: 2024-12-25T04:00:37.299Z
   text: ""
   author: ""
@@ -245,6 +261,8 @@
     - ihmis-suski
     - bergie
   category: navigation
+  origin: auto
+  id: f0526658-4776-4de9-8b1a-f08045d8b256
 - datetime: 2024-12-25T04:42:38.300Z
   text: Dolphins in the dark, disturbing the bioluminescence. Flying fish
     scurrying away in panic
@@ -273,6 +291,8 @@
     - ihmis-suski
     - bergie
   category: navigation
+  origin: manual
+  id: 38ce8d34-50fa-446f-8210-2985bea3a602
 - datetime: 2024-12-25T05:00:39.299Z
   text: ""
   author: ""
@@ -300,6 +320,8 @@
     - ihmis-suski
     - bergie
   category: navigation
+  origin: auto
+  id: f773b5e9-eb80-41aa-b404-5cfa844ecdd1
 - datetime: 2024-12-25T06:00:40.300Z
   text: Suski on watch.
   author: ihmis-suski
@@ -327,6 +349,8 @@
     - ihmis-suski
     - bergie
   category: navigation
+  origin: manual
+  id: 3b75777c-ffaf-4f49-bb2e-e58e88042137
 - datetime: 2024-12-25T07:00:40.700Z
   text: ""
   author: ""
@@ -354,6 +378,8 @@
     - ihmis-suski
     - bergie
   category: navigation
+  origin: auto
+  id: 7ce7208c-7e78-4e97-94e5-cba237b71704
 - datetime: 2024-12-25T08:00:41.699Z
   text: ""
   author: ""
@@ -381,6 +407,8 @@
     - ihmis-suski
     - bergie
   category: navigation
+  origin: auto
+  id: 6ce5205d-b803-44b5-a90a-5b4ff0b66137
 - datetime: 2024-12-25T08:05:41.699Z
   text: Sun!
   author: ihmis-suski
@@ -412,6 +440,8 @@
     seaState: 3
     cloudCoverage: 1
     visibility: 7
+  origin: manual
+  id: 692d7f30-15ab-4ab2-9b83-8715be732a65
 - datetime: 2024-12-25T09:00:43.699Z
   text: ""
   author: ""
@@ -439,6 +469,8 @@
     - ihmis-suski
     - bergie
   category: navigation
+  origin: auto
+  id: 0915b74e-3e18-4967-83d2-9f4348672c28
 - datetime: 2024-12-25T09:46:08.800Z
   text: Autopilot set to wind mode
   author: ""
@@ -466,6 +498,8 @@
     - ihmis-suski
     - bergie
   category: navigation
+  origin: auto
+  id: d75b87ad-7944-4007-aaef-15dbe1b31659
 - datetime: 2024-12-25T10:00:43.801Z
   text: ""
   author: ""
@@ -493,6 +527,8 @@
     - ihmis-suski
     - bergie
   category: navigation
+  origin: auto
+  id: 54b8ccce-d95c-434e-a73e-b3f49da903f4
 - datetime: 2024-12-25T11:00:42.800Z
   text: ""
   author: ""
@@ -520,6 +556,8 @@
     - ihmis-suski
     - bergie
   category: navigation
+  origin: auto
+  id: 97f84650-f06a-4021-8a92-13849f32558b
 - datetime: 2024-12-25T12:00:41.798Z
   text: Bergie on watch
   author: bergie
@@ -551,6 +589,8 @@
     seaState: 3
     cloudCoverage: 2
     visibility: 7
+  origin: manual
+  id: 7aa41dc0-0fa3-40dc-9997-1feeb0783755
 - datetime: 2024-12-25T12:03:51.801Z
   text: "Sails set: Parasailor"
   author: ""
@@ -578,6 +618,8 @@
     - ihmis-suski
     - bergie
   category: navigation
+  origin: auto
+  id: 6f6a6ff0-0785-4028-974b-cf7b75ef9fd2
 - datetime: 2024-12-25T13:00:39.801Z
   text: ""
   author: ""
@@ -605,6 +647,8 @@
     - ihmis-suski
     - bergie
   category: navigation
+  origin: auto
+  id: 987fab40-6f98-4ca9-aa3d-576deeb94922
 - datetime: 2024-12-25T14:00:38.899Z
   text: ""
   author: ""
@@ -632,6 +676,8 @@
     - ihmis-suski
     - bergie
   category: navigation
+  origin: auto
+  id: 538b5f85-355b-4711-8d0f-2de1b25a5b60
 - datetime: 2024-12-25T15:00:37.900Z
   text: ""
   author: ""
@@ -659,6 +705,8 @@
     - ihmis-suski
     - bergie
   category: navigation
+  origin: auto
+  id: f703f318-cd48-458c-9f5b-c7076965c038
 - datetime: 2024-12-25T16:00:35.897Z
   text: ""
   author: ""
@@ -686,6 +734,8 @@
     - ihmis-suski
     - bergie
   category: navigation
+  origin: auto
+  id: e8aeb5bf-d408-490b-9254-0047d3c41f7d
 - datetime: 2024-12-25T17:00:34.297Z
   text: ""
   author: ""
@@ -713,6 +763,8 @@
     - ihmis-suski
     - bergie
   category: navigation
+  origin: auto
+  id: ded8bd6f-8c8f-4adf-bfe7-830c81bdc65e
 - datetime: 2024-12-25T18:00:14.297Z
   text: Suski on watch
   author: ihmis-suski
@@ -744,6 +796,8 @@
     seaState: 3
     cloudCoverage: 3
     visibility: 7
+  origin: manual
+  id: 4c59b37b-b458-4881-a26a-66270a9ce82b
 - datetime: 2024-12-25T19:00:10.297Z
   text: ""
   author: ""
@@ -771,6 +825,8 @@
     - ihmis-suski
     - bergie
   category: navigation
+  origin: auto
+  id: 699798e9-39f1-420c-a6c4-b8b0177406c0
 - datetime: 2024-12-25T19:02:11.302Z
   text: Sun has set
   author: ihmis-suski
@@ -798,6 +854,8 @@
     - ihmis-suski
     - bergie
   category: navigation
+  origin: manual
+  id: f64982c2-4a03-4448-9456-e9cea57c2b1a
 - datetime: 2024-12-25T19:59:09.299Z
   text: It's now dark again. Still holding on port side tack.
   author: ihmis-suski
@@ -825,6 +883,8 @@
     - ihmis-suski
     - bergie
   category: navigation
+  origin: manual
+  id: 9913270b-b573-4f04-b745-499f906188c2
 - datetime: 2024-12-25T20:00:09.401Z
   text: ""
   author: ""
@@ -852,6 +912,8 @@
     - ihmis-suski
     - bergie
   category: navigation
+  origin: auto
+  id: e4dafb6a-a81a-4c69-be3a-f2150f2096a3
 - datetime: 2024-12-25T21:00:09.401Z
   text: ""
   author: ""
@@ -879,6 +941,8 @@
     - ihmis-suski
     - bergie
   category: navigation
+  origin: auto
+  id: 4f62c646-968d-40ae-b2b5-981a3efed039
 - datetime: 2024-12-25T22:00:09.401Z
   text: ""
   author: ""
@@ -906,6 +970,8 @@
     - ihmis-suski
     - bergie
   category: navigation
+  origin: auto
+  id: 98531744-3468-4b71-a716-125139545a19
 - datetime: 2024-12-25T22:10:09.401Z
   text: Woke Bergie up for gybing the Parasailor. Now on Starboard side.
   author: ihmis-suski
@@ -933,6 +999,8 @@
     - ihmis-suski
     - bergie
   category: navigation
+  origin: manual
+  id: ca7e4498-54b4-4c11-ac91-94ab99b5e4bd
 - datetime: 2024-12-25T23:00:09.401Z
   text: ""
   author: ""
@@ -960,6 +1028,8 @@
     - ihmis-suski
     - bergie
   category: navigation
+  origin: auto
+  id: d3702dc4-f99b-4ce6-812f-461767213d81
 - datetime: 2024-12-25T23:55:09.401Z
   text: Gybed the Parasailor due to wind shift, back to port tack
   author: bergie
@@ -987,3 +1057,5 @@
     - ihmis-suski
     - bergie
   category: navigation
+  origin: manual
+  id: 7167516a-6ea2-4832-9836-aa960f6377dc

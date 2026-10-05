@@ -21,6 +21,8 @@
     - ihmis-suski
     - bergie
   category: navigation
+  origin: auto
+  id: a47cd0a6-8d53-4f72-90f8-9255b3b0ecbf
 - datetime: 2024-07-14T11:02:31.001Z
   text: Anchor up, motoring
   author: bergie
@@ -44,6 +46,8 @@
     - ihmis-suski
     - bergie
   category: navigation
+  origin: manual
+  id: e57721fb-c694-41be-b2dd-50e91b387b76
 - datetime: 2024-07-14T11:19:16.998Z
   text: Stopped, Ardbeg visitor mooring
   author: bergie
@@ -68,3 +72,5 @@
     - bergie
   end: true
   category: navigation
+  origin: manual
+  id: 79c5551e-5d9f-4ceb-9dac-6b1f1af9bf4f

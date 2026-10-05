@@ -21,6 +21,8 @@
     - ihmis-suski
     - bergie
   category: maintenance
+  origin: manual
+  id: ce110d23-4ae1-44b3-896d-564dd15a2842
 - datetime: 2025-11-07T20:20:05.497Z
   text: Started main engine
   author: ""
@@ -44,6 +46,8 @@
     - ihmis-suski
     - bergie
   category: navigation
+  origin: auto
+  id: 8afb307c-d01f-4f9b-a5df-94372ed72b97
 - datetime: 2025-11-07T20:20:36.499Z
   text: Anchor up, motoring
   author: ""
@@ -67,6 +71,8 @@
     - ihmis-suski
     - bergie
   category: navigation
+  origin: auto
+  id: b9622bf3-0cc8-4063-b15d-ec216bc7505e
 - datetime: 2025-11-07T20:45:43.500Z
   text: Stopped
   author: ""
@@ -91,6 +97,8 @@
     - bergie
   end: true
   category: navigation
+  origin: auto
+  id: c84aa6df-4a4d-4772-abda-2ea7370c38ab
 - datetime: 2025-11-07T20:48:43.500Z
   text: Filled up 91l diesel + 25l into canisters. 0.6EUR/l
   author: bergie
@@ -114,6 +122,8 @@
     - ihmis-suski
     - bergie
   category: engine
+  origin: manual
+  id: f3b99723-1cfd-48bd-b678-a5d69473d7ef
 - datetime: 2025-11-07T20:49:11.500Z
   text: Started main engine
   author: ""
@@ -137,6 +147,8 @@
     - ihmis-suski
     - bergie
   category: navigation
+  origin: auto
+  id: 789f64f9-3664-4988-b07f-b469a926cb0b
 - datetime: 2025-11-07T20:53:43.500Z
   text: Motoring
   author: ""
@@ -160,6 +172,8 @@
     - ihmis-suski
     - bergie
   category: navigation
+  origin: auto
+  id: f23791ab-5017-4391-aa5c-0b4ff63ab037
 - datetime: 2025-11-07T21:00:38.502Z
   text: ""
   author: ""
@@ -183,6 +197,8 @@
     - ihmis-suski
     - bergie
   category: navigation
+  origin: auto
+  id: 738a3dd0-e674-445a-84e0-e8f1825173d3
 - datetime: 2025-11-07T21:02:11.500Z
   text: Picked up a mooring
   author: bergie
@@ -207,6 +223,8 @@
     - bergie
   end: true
   category: navigation
+  origin: manual
+  id: aceec815-7ef4-43bf-80a7-79a3b81cbeb8
 - datetime: 2025-11-07T21:03:43.500Z
   text: Stopped main engine
   author: ""
@@ -230,6 +248,8 @@
     - ihmis-suski
     - bergie
   category: navigation
+  origin: auto
+  id: ab40ab26-d744-48e3-9948-6d0567f37548
 - datetime: 2025-11-07T22:05:39.500Z
   text: Installed ADS-B receiver for the boat. Runs on the InfoDisplay Pi with
     RTL-SDR
@@ -253,3 +273,5 @@
     - ihmis-suski
     - bergie
   category: maintenance
+  origin: manual
+  id: 534b1b87-e5d4-4ce7-9368-d24ff440ac9c

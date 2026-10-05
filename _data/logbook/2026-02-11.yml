@@ -20,6 +20,8 @@
     - ihmis-suski
     - bergie
   category: maintenance
+  origin: manual
+  id: c68c2604-8b83-4c39-9329-f1968aac24c4
 - datetime: 2026-02-11T12:31:13.200Z
   text: Watermaker 209ppm
   author: bergie
@@ -42,6 +44,8 @@
     - ihmis-suski
     - bergie
   category: maintenance
+  origin: manual
+  id: 44562b47-39e8-4910-bad0-ace83b75ab37
 - datetime: 2026-02-11T14:11:17.200Z
   text: Watermaker 180ppm
   author: bergie
@@ -64,6 +68,8 @@
     - ihmis-suski
     - bergie
   category: maintenance
+  origin: manual
+  id: 34648a59-efde-4264-8f08-8941476dadfa
 - datetime: 2026-02-11T15:56:26.598Z
   text: Stopped watermaker, 190ppm
   author: bergie
@@ -86,6 +92,8 @@
     - ihmis-suski
     - bergie
   category: maintenance
+  origin: manual
+  id: e89f5fd2-242d-4b34-a76a-9dddae8584b6
 - datetime: 2026-02-11T15:59:26.598Z
   text: Installed new Vetus NLP 50 waterlock muffler
   author: bergie
@@ -108,6 +116,8 @@
     - ihmis-suski
     - bergie
   category: engine
+  origin: manual
+  id: 354606a9-71c8-4dc1-a701-c3b2a6bc96ec
 - datetime: 2026-02-11T16:01:53.702Z
   text: Started main engine
   author: ""
@@ -130,6 +140,8 @@
     - ihmis-suski
     - bergie
   category: navigation
+  origin: auto
+  id: 9382c77e-7cbe-473d-8159-cd7c24c3dff0
 - datetime: 2026-02-11T16:02:21.702Z
   text: Stopped main engine
   author: ""
@@ -152,6 +164,8 @@
     - ihmis-suski
     - bergie
   category: navigation
+  origin: auto
+  id: 503d59c6-9a0e-464c-9ada-06a821be6f8f
 - datetime: 2026-02-11T16:09:01.702Z
   text: Started main engine
   author: ""
@@ -174,6 +188,8 @@
     - ihmis-suski
     - bergie
   category: navigation
+  origin: auto
+  id: 8aefdbd4-59f0-4b09-af4a-0b62782313bd
 - datetime: 2026-02-11T16:09:54.700Z
   text: Stopped main engine
   author: ""
@@ -196,6 +212,8 @@
     - ihmis-suski
     - bergie
   category: navigation
+  origin: auto
+  id: 9ffaf344-b5c9-4671-8201-8c581d799067
 - datetime: 2026-02-11T20:05:59.801Z
   text: Started main engine
   author: ""
@@ -218,6 +236,8 @@
     - ihmis-suski
     - bergie
   category: navigation
+  origin: auto
+  id: 338a45b5-03d6-4172-8912-620a938492b6
 - datetime: 2026-02-11T20:10:21.798Z
   text: Stopped main engine
   author: ""
@@ -240,3 +260,5 @@
     - ihmis-suski
     - bergie
   category: navigation
+  origin: auto
+  id: 30d9e6f3-259c-4e8b-b632-ddd7234557a4

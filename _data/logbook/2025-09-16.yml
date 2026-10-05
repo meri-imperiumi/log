@@ -20,6 +20,8 @@
     - ihmis-suski
     - bergie
   category: navigation
+  origin: auto
+  id: 6fa2a7ac-0353-4c4b-b0b7-6af7fa169590
 - datetime: 2025-09-16T13:45:28.198Z
   text: Stopped main engine
   author: bergie
@@ -42,6 +44,8 @@
     - ihmis-suski
     - bergie
   category: navigation
+  origin: manual
+  id: fdb96b95-b5a1-489d-a0dc-c6c62f437a61
 - datetime: 2025-09-16T19:39:33.401Z
   text: Installed cockpit console 12V, 9V, and 5V circuits. Seems hydrogenerator
     controller is dead, no voltage on the on/off switch
@@ -65,3 +69,5 @@
     - ihmis-suski
     - bergie
   category: maintenance
+  origin: manual
+  id: c2ffe84a-c717-49b9-9c69-000fad894de7

@@ -22,6 +22,8 @@
     - ihmis-suski
     - bergie
   category: navigation
+  origin: auto
+  id: f8ae57bd-7e4a-4bba-af3d-b46eb3524cdf
 - datetime: 2024-05-31T08:35:22.899Z
   text: Anchor up, motoring
   author: ""
@@ -46,6 +48,8 @@
     - ihmis-suski
     - bergie
   category: navigation
+  origin: auto
+  id: 46446763-80ee-42b3-8cee-a17c573f477d
 - datetime: 2024-05-31T08:46:27.900Z
   text: Sailing with Main, Genoa 1
   author: ""
@@ -70,6 +74,8 @@
     - ihmis-suski
     - bergie
   category: navigation
+  origin: auto
+  id: 0314755b-6e4a-4b67-a673-5ec2afed75fb
 - datetime: 2024-05-31T09:00:21.900Z
   text: ""
   author: ""
@@ -94,6 +100,8 @@
     - ihmis-suski
     - bergie
   category: navigation
+  origin: auto
+  id: 465f99be-dda7-419d-8e7f-69701a2315dc
 - datetime: 2024-05-31T09:32:23.900Z
   text: Sails down, motoring
   author: ""
@@ -118,6 +126,8 @@
     - ihmis-suski
     - bergie
   category: navigation
+  origin: auto
+  id: 6be433a5-5e0f-46c1-975b-9f183d764a59
 - datetime: 2024-05-31T10:00:30.899Z
   text: ""
   author: ""
@@ -141,6 +151,8 @@
     - ihmis-suski
     - bergie
   category: navigation
+  origin: auto
+  id: f306ff64-f521-4221-bd55-fef138b563c2
 - datetime: 2024-05-31T10:57:46.899Z
   text: Stopped
   author: ""
@@ -165,6 +177,8 @@
     - bergie
   end: true
   category: navigation
+  origin: auto
+  id: bc6db700-1256-4f37-8ce7-92c791ac1268
 - datetime: 2024-05-31T13:53:44.899Z
   text: Orion XS is alternating between connected and disconnected to Cerbo.
     Wiring issue? Causes NULL values in SK
@@ -189,3 +203,5 @@
     - ihmis-suski
     - bergie
   category: maintenance
+  origin: manual
+  id: 7333a136-114a-4408-80f1-25a038889554

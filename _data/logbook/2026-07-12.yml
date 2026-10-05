@@ -27,6 +27,8 @@
     - bergie
     - ihmis-suski
   category: maintenance
+  origin: manual
+  id: 739b64c7-e938-48bb-9f53-701ea98d4316
 - datetime: 2026-07-12T02:55:10.100Z
   text: Stopped watermaker, 189ppm
   author: bergie
@@ -56,6 +58,8 @@
     - bergie
     - ihmis-suski
   category: maintenance
+  origin: manual
+  id: 9954fc2c-4481-41a9-849b-6401837c57ed
 - datetime: 2026-07-12T16:03:13.798Z
   text: Started main engine
   author: ""
@@ -86,6 +90,8 @@
     - bergie
     - ihmis-suski
   category: navigation
+  origin: auto
+  id: 0a6f2803-b61c-4088-bedc-a7038b035797
 - datetime: 2026-07-12T16:22:18.803Z
   text: Anchor up, motoring. We were stuck under some bommies
   author: bergie
@@ -116,6 +122,8 @@
     - bergie
     - ihmis-suski
   category: navigation
+  origin: manual
+  id: 07ba917c-1e70-4a96-bd7e-86775c87897f
 - datetime: 2026-07-12T16:51:36.800Z
   text: Autopilot activated
   author: ""
@@ -146,6 +154,8 @@
     - bergie
     - ihmis-suski
   category: navigation
+  origin: auto
+  id: cee8d299-e846-426c-bd4c-307b3474cf49
 - datetime: 2026-07-12T16:52:26.803Z
   text: Autopilot deactivated, was getting a "no data" error. Moving some peach
     cans away from.bar cabinet fixed it
@@ -177,6 +187,8 @@
     - bergie
     - ihmis-suski
   category: navigation
+  origin: manual
+  id: bc8fcec4-a201-4b1e-a730-2f51029bcc25
 - datetime: 2026-07-12T16:52:42.803Z
   text: Autopilot activated
   author: ""
@@ -207,6 +219,8 @@
     - bergie
     - ihmis-suski
   category: navigation
+  origin: auto
+  id: a7eb3d6a-ce28-484b-8f9d-27158bc59421
 - datetime: 2026-07-12T16:56:40.800Z
   text: ihmis-suski on watch
   author: ""
@@ -237,6 +251,8 @@
     - bergie
     - ihmis-suski
   category: navigation
+  origin: auto
+  id: 048bfde3-c2f2-48d8-b073-78f21f43926c
 - datetime: 2026-07-12T16:59:38.803Z
   text: ""
   author: ""
@@ -267,6 +283,8 @@
     - bergie
     - ihmis-suski
   category: navigation
+  origin: auto
+  id: d6f636fe-fb34-4e95-bcde-64f7689b616b
 - datetime: 2026-07-12T17:27:09.900Z
   text: Autopilot deactivated
   author: ""
@@ -297,6 +315,8 @@
     - bergie
     - ihmis-suski
   category: navigation
+  origin: auto
+  id: fa149406-da13-4567-8067-8a2ebfd377b4
 - datetime: 2026-07-12T17:38:07.897Z
   text: Autopilot activated
   author: ""
@@ -327,6 +347,8 @@
     - bergie
     - ihmis-suski
   category: navigation
+  origin: auto
+  id: 910d98be-ad30-4933-8c3e-c52a7475026d
 - datetime: 2026-07-12T17:59:33.900Z
   text: ""
   author: ""
@@ -357,6 +379,8 @@
     - bergie
     - ihmis-suski
   category: navigation
+  origin: auto
+  id: d449844d-809f-4c4e-8558-b45a8d43f2b1
 - datetime: 2026-07-12T18:59:30.899Z
   text: ""
   author: ""
@@ -387,6 +411,8 @@
     - bergie
     - ihmis-suski
   category: navigation
+  origin: auto
+  id: c96b328f-a56a-44e6-ad77-4beccc19826f
 - datetime: 2026-07-12T19:04:30.899Z
   text: Started watermaker
   author: bergie
@@ -417,6 +443,8 @@
     - bergie
     - ihmis-suski
   category: maintenance
+  origin: manual
+  id: c1df007d-84e4-4c05-9e34-eaee055b46d9
 - datetime: 2026-07-12T19:16:27.897Z
   text: Watermaker 375ppm
   author: bergie
@@ -447,6 +475,8 @@
     - bergie
     - ihmis-suski
   category: maintenance
+  origin: manual
+  id: b19cc993-5e5e-4135-8e12-85e81ee825ba
 - datetime: 2026-07-12T19:59:21.900Z
   text: ""
   author: ""
@@ -477,6 +507,8 @@
     - bergie
     - ihmis-suski
   category: navigation
+  origin: auto
+  id: 38c81fc8-d9b9-4de7-a61f-21df2e3d635d
 - datetime: 2026-07-12T20:58:16.000Z
   text: Watermaker 226ppm
   author: bergie
@@ -507,6 +539,8 @@
     - bergie
     - ihmis-suski
   category: maintenance
+  origin: manual
+  id: f340b3b7-4a9e-4509-879c-c54862a48c50
 - datetime: 2026-07-12T20:59:16.000Z
   text: Drizzle drizzle drizzle
   author: bergie
@@ -541,6 +575,8 @@
     seaState: 2
     cloudCoverage: 8
     visibility: 4
+  origin: manual
+  id: e6f5d6ff-0ffc-4d61-8d5e-06d3fb812ac7
 - datetime: 2026-07-12T22:00:16.998Z
   text: bergie on watch
   author: ""
@@ -571,6 +607,8 @@
     - bergie
     - ihmis-suski
   category: navigation
+  origin: auto
+  id: 9e413522-0a94-42a2-95ff-97dd559f36ae
 - datetime: 2026-07-12T22:41:13.996Z
   text: Watermaker 212ppm
   author: bergie
@@ -601,6 +639,8 @@
     - bergie
     - ihmis-suski
   category: maintenance
+  origin: manual
+  id: 7b0f41f1-06d0-4a89-8dc6-d5cf4c06aa0a
 - datetime: 2026-07-12T22:59:15.001Z
   text: ""
   author: ""
@@ -631,6 +671,8 @@
     - bergie
     - ihmis-suski
   category: navigation
+  origin: auto
+  id: 71872e70-7d52-4356-9e14-03877891bcf3
 - datetime: 2026-07-12T23:51:14.400Z
   text: Autopilot deactivated
   author: ""
@@ -661,6 +703,8 @@
     - bergie
     - ihmis-suski
   category: navigation
+  origin: auto
+  id: 8cd262aa-6e52-4a15-b417-fdabd5391881
 - datetime: 2026-07-12T23:59:10.400Z
   text: ""
   author: ""
@@ -690,3 +734,6 @@
   crewNames:
     - bergie
     - ihmis-suski
+  category: navigation
+  origin: auto
+  id: 77a41a6b-878a-4203-905f-b50495ce885b

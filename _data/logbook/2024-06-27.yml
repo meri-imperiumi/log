@@ -22,6 +22,8 @@
     - bergie
     - karin
   category: navigation
+  origin: manual
+  id: eac48047-2f1f-4820-a5e3-c733f86c94f8
 - datetime: 2024-06-27T14:31:38.099Z
   text: Started main engine
   author: ""
@@ -46,6 +48,8 @@
     - bergie
     - karin
   category: navigation
+  origin: auto
+  id: 270bad7c-2545-4d5c-aa98-b27a8ead4353
 - datetime: 2024-06-27T14:41:42.099Z
   text: Anchor up, motoring
   author: ""
@@ -70,6 +74,8 @@
     - bergie
     - karin
   category: navigation
+  origin: auto
+  id: 32588148-127b-4b6c-a4d7-762de90e9574
 - datetime: 2024-06-27T14:43:32.099Z
   text: Anchored
   author: ""
@@ -95,6 +101,8 @@
     - karin
   end: true
   category: navigation
+  origin: auto
+  id: 5b76f291-c637-4652-9d82-dc8e00e4051b
 - datetime: 2024-06-27T14:54:13.100Z
   text: Stopped main engine
   author: ""
@@ -119,3 +127,5 @@
     - bergie
     - karin
   category: navigation
+  origin: auto
+  id: 1fc1d1c7-5430-428b-affa-5ba05122c083

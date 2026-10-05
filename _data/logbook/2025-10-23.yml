@@ -20,6 +20,8 @@
     - ihmis-suski
     - bergie
   category: navigation
+  origin: auto
+  id: 5b11459b-0358-4e53-921c-dd7279a56014
 - datetime: 2025-10-23T15:13:23.699Z
   text: Anchor up, motoring
   author: ""
@@ -42,6 +44,8 @@
     - ihmis-suski
     - bergie
   category: navigation
+  origin: auto
+  id: de960c23-1b84-44ac-a946-1f73c5aee61f
 - datetime: 2025-10-23T15:25:39.699Z
   text: Anchored
   author: ""
@@ -65,6 +69,8 @@
     - bergie
   end: true
   category: navigation
+  origin: auto
+  id: d06e7b0c-3040-425e-b634-74c0d0c1537a
 - datetime: 2025-10-23T15:49:16.697Z
   text: Stopped main engine
   author: ""
@@ -87,6 +93,8 @@
     - ihmis-suski
     - bergie
   category: navigation
+  origin: auto
+  id: d05098a6-2de9-4b7e-8164-252a78bb96c6
 - datetime: 2025-10-23T15:54:37.702Z
   text: Suski was able to unclog the deck drains, including the one that has been
     clogged since 2022
@@ -110,3 +118,5 @@
     - ihmis-suski
     - bergie
   category: maintenance
+  origin: manual
+  id: 10673915-f20c-433a-b630-a9e71d9d1a36

@@ -21,6 +21,8 @@
     - ihmis-suski
     - bergie
   category: navigation
+  origin: auto
+  id: 9f535f78-2340-4201-b740-790df3880388
 - datetime: 2024-09-14T08:45:51.001Z
   text: Anchor up, motoring
   author: bergie
@@ -44,6 +46,8 @@
     - ihmis-suski
     - bergie
   category: navigation
+  origin: manual
+  id: 7588a65d-9658-4ba4-a299-7789b1407179
 - datetime: 2024-09-14T08:52:39.001Z
   text: Motor stopped, sailing with Main, Genoa 1
   author: ""
@@ -67,6 +71,8 @@
     - ihmis-suski
     - bergie
   category: navigation
+  origin: auto
+  id: b9c06ee7-6b92-4d6e-a2d8-983ea5193a5b
 - datetime: 2024-09-14T09:00:50.000Z
   text: ""
   author: ""
@@ -91,6 +97,8 @@
     - ihmis-suski
     - bergie
   category: navigation
+  origin: auto
+  id: 488a425d-b925-4de0-993f-3832c44bd6d0
 - datetime: 2024-09-14T09:24:12.000Z
   text: Sails down, motoring
   author: ""
@@ -115,6 +123,8 @@
     - ihmis-suski
     - bergie
   category: navigation
+  origin: auto
+  id: 1a2559af-a985-4b71-a2ba-cc9b026a61d6
 - datetime: 2024-09-14T09:31:28.998Z
   text: Motor stopped, sailing with Main, Genoa 1
   author: ""
@@ -139,6 +149,8 @@
     - ihmis-suski
     - bergie
   category: navigation
+  origin: auto
+  id: ede65313-da9e-41dd-983c-21aeaa576e45
 - datetime: 2024-09-14T09:45:03.398Z
   text: Sails down, motoring
   author: ""
@@ -163,6 +175,8 @@
     - ihmis-suski
     - bergie
   category: navigation
+  origin: auto
+  id: ac6927ab-5d1b-480c-b28c-08c43099e3b6
 - datetime: 2024-09-14T10:00:50.400Z
   text: ""
   author: ""
@@ -187,6 +201,8 @@
     - ihmis-suski
     - bergie
   category: navigation
+  origin: auto
+  id: 662b728a-dd7c-4ec4-862b-307c68753d9a
 - datetime: 2024-09-14T10:19:17.401Z
   text: Anchored
   author: ""
@@ -212,6 +228,8 @@
     - bergie
   end: true
   category: navigation
+  origin: auto
+  id: c728158c-dc0e-48ec-81f0-4bd6e3b25584
 - datetime: 2024-09-14T10:24:39.398Z
   text: Stopped main engine
   author: ""
@@ -236,6 +254,8 @@
     - ihmis-suski
     - bergie
   category: navigation
+  origin: auto
+  id: 77d5f2a7-a8c9-410d-8f08-fa3dcb4593aa
 - datetime: 2024-09-14T11:20:50.400Z
   text: Swapped the navigation tablet holder to new one
   author: bergie
@@ -259,3 +279,5 @@
     - ihmis-suski
     - bergie
   category: maintenance
+  origin: manual
+  id: 139ad713-2a28-40f4-b2c7-0bc7f3d3cf35

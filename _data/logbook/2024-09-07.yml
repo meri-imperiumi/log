@@ -21,6 +21,8 @@
     - ihmis-suski
     - bergie
   category: navigation
+  origin: auto
+  id: f7cbd5be-c0bb-4b29-9356-fffcc7d1410d
 - datetime: 2024-09-07T10:35:45.100Z
   text: Motoring
   author: ""
@@ -44,6 +46,8 @@
     - ihmis-suski
     - bergie
   category: navigation
+  origin: auto
+  id: ca07e4ca-6a62-4d40-8ed8-8a0fa9ad3e61
 - datetime: 2024-09-07T10:53:38.099Z
   text: Motor stopped, sailing with Main, Genoa 1
   author: ""
@@ -68,6 +72,8 @@
     - ihmis-suski
     - bergie
   category: navigation
+  origin: auto
+  id: 58383bb9-72ae-4ca2-9231-cff94ceee787
 - datetime: 2024-09-07T11:00:37.100Z
   text: ""
   author: ""
@@ -92,6 +98,8 @@
     - ihmis-suski
     - bergie
   category: navigation
+  origin: auto
+  id: b096272d-b547-44cd-ba4f-4c62115efe52
 - datetime: 2024-09-07T11:14:11.100Z
   text: Sails down, motoring
   author: ""
@@ -116,6 +124,8 @@
     - ihmis-suski
     - bergie
   category: navigation
+  origin: auto
+  id: a481a7af-277a-4671-8997-05100677a6be
 - datetime: 2024-09-07T11:36:17.100Z
   text: Anchored
   author: ""
@@ -141,6 +151,8 @@
     - bergie
   end: true
   category: navigation
+  origin: auto
+  id: 7115c7d4-06b0-4753-89cd-ac8922210a0c
 - datetime: 2024-09-07T11:42:05.100Z
   text: Stopped main engine
   author: ""
@@ -165,6 +177,8 @@
     - ihmis-suski
     - bergie
   category: navigation
+  origin: auto
+  id: b9f9b979-b03b-4c16-a52c-cb7e1da162e5
 - datetime: 2024-09-07T11:48:36.099Z
   text: "Started watermaker "
   author: bergie
@@ -189,6 +203,8 @@
     - ihmis-suski
     - bergie
   category: maintenance
+  origin: manual
+  id: e55fbfca-693a-47e2-b8a9-aa8a21bd42d3
 - datetime: 2024-09-07T13:24:25.200Z
   text: Stopped watermaker, too many two-stroke outboards around. Output was
     around 300-400ppm
@@ -213,6 +229,8 @@
     - ihmis-suski
     - bergie
   category: maintenance
+  origin: manual
+  id: 36e8cfa6-0426-45ef-a2cd-857e4216db6b
 - datetime: 2024-09-07T13:42:25.200Z
   text: Started watermaker
   author: bergie
@@ -236,6 +254,8 @@
     - ihmis-suski
     - bergie
   category: maintenance
+  origin: manual
+  id: 73a4dcde-62d4-41e4-923f-ae6a0c857f80
 - datetime: 2024-09-07T14:12:26.201Z
   text: Stopped watermaker, consistently above 400ppm
   author: bergie
@@ -259,6 +279,8 @@
     - ihmis-suski
     - bergie
   category: maintenance
+  origin: manual
+  id: 2a0c9009-03d5-4e32-a728-64be278457cc
 - datetime: 2024-09-07T14:19:26.201Z
   text: "Started watermaker "
   author: bergie
@@ -282,6 +304,8 @@
     - ihmis-suski
     - bergie
   category: maintenance
+  origin: manual
+  id: 12645ede-dd0a-400d-9d2f-9563940b3be3
 - datetime: 2024-09-07T14:29:26.201Z
   text: Stopped watermaker, 600ppm. Time to clean the filter
   author: bergie
@@ -305,6 +329,8 @@
     - ihmis-suski
     - bergie
   category: maintenance
+  origin: manual
+  id: 8fbae118-1d3b-4e9b-91a6-33c65d004d89
 - datetime: 2024-09-07T14:55:26.201Z
   text: Started watermaker with new filter. 480ppm after half hour, but tastes and
     smells ok
@@ -329,6 +355,8 @@
     - ihmis-suski
     - bergie
   category: maintenance
+  origin: manual
+  id: 91b8ac2d-7fab-40e1-a278-d2a3ec57c2f4
 - datetime: 2024-09-07T16:59:26.201Z
   text: Stopped watermaker, 480ppm
   author: bergie
@@ -352,3 +380,5 @@
     - ihmis-suski
     - bergie
   category: maintenance
+  origin: manual
+  id: d68c23ec-fb0c-471f-8934-b9c77c3c000c

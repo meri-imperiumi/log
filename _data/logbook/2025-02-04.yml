@@ -26,6 +26,8 @@
     - karin
     - daniel
   category: navigation
+  origin: auto
+  id: 3130184e-78b9-4ce0-81a3-5471d2cf6c26
 - datetime: 2025-02-04T12:28:31.900Z
   text: Anchor up, motoring
   author: bergie
@@ -54,6 +56,8 @@
     - karin
     - daniel
   category: navigation
+  origin: manual
+  id: 1176ceb9-74b6-4f47-bab2-4f2b8c7ae024
 - datetime: 2025-02-04T12:40:32.899Z
   text: Motor stopped, sailing with Main (1st reef), Staysail
   author: ""
@@ -82,6 +86,8 @@
     - karin
     - daniel
   category: navigation
+  origin: auto
+  id: c0b873a5-ca0a-40a0-bcc3-004d69fe1c1e
 - datetime: 2025-02-04T13:00:30.899Z
   text: ""
   author: bergie
@@ -115,6 +121,8 @@
     cloudCoverage: 2
     seaState: 3
     visibility: 7
+  origin: manual
+  id: d1705e3c-ccaf-4e8d-bd13-a300c12c1705
 - datetime: 2025-02-04T13:42:32.000Z
   text: "Paddlewheel stopped working again "
   author: bergie
@@ -144,6 +152,8 @@
     - karin
     - daniel
   category: maintenance
+  origin: manual
+  id: 0ac38383-2244-4351-856e-1515718fd0dd
 - datetime: 2025-02-04T14:00:32.000Z
   text: ""
   author: ""
@@ -173,6 +183,8 @@
     - karin
     - daniel
   category: navigation
+  origin: auto
+  id: 25a5a205-97f9-4f03-b089-737c9b1b8ae5
 - datetime: 2025-02-04T14:03:32.000Z
   text: Paddlewheel came back after some waves shook us
   author: bergie
@@ -202,6 +214,8 @@
     - karin
     - daniel
   category: maintenance
+  origin: manual
+  id: 94f40d53-f6a7-4d86-bff7-3d6b215744f5
 - datetime: 2025-02-04T15:00:33.996Z
   text: ""
   author: ""
@@ -231,6 +245,8 @@
     - karin
     - daniel
   category: navigation
+  origin: auto
+  id: 6b6b9e64-2a8c-4bb5-b862-55013548c7d2
 - datetime: 2025-02-04T16:00:35.001Z
   text: ""
   author: ""
@@ -260,6 +276,8 @@
     - karin
     - daniel
   category: navigation
+  origin: auto
+  id: 7b96d44e-15ac-4301-b585-47a365001b76
 - datetime: 2025-02-04T16:47:05.996Z
   text: "Sails set: Main, Staysail"
   author: ""
@@ -289,6 +307,8 @@
     - karin
     - daniel
   category: navigation
+  origin: auto
+  id: e4e57d86-776c-47bc-847a-a3b9780cf8a6
 - datetime: 2025-02-04T17:00:37.100Z
   text: ""
   author: ""
@@ -318,6 +338,8 @@
     - karin
     - daniel
   category: navigation
+  origin: auto
+  id: 36f32f76-2c01-4963-a736-5c91f42b7b56
 - datetime: 2025-02-04T18:00:38.099Z
   text: ""
   author: ""
@@ -347,6 +369,8 @@
     - karin
     - daniel
   category: navigation
+  origin: auto
+  id: 9d40e140-bade-4b1d-bcf4-53af6d672e99
 - datetime: 2025-02-04T18:07:46.099Z
   text: Sails down, motoring
   author: ""
@@ -376,6 +400,8 @@
     - karin
     - daniel
   category: navigation
+  origin: auto
+  id: 289cc190-9a52-45e3-9c56-4935e3fa8390
 - datetime: 2025-02-04T19:00:39.097Z
   text: ""
   author: ""
@@ -405,6 +431,8 @@
     - karin
     - daniel
   category: navigation
+  origin: auto
+  id: a20e625a-6df1-49f3-ac8f-a5bee1de3415
 - datetime: 2025-02-04T20:00:39.200Z
   text: ""
   author: ""
@@ -434,6 +462,8 @@
     - karin
     - daniel
   category: navigation
+  origin: auto
+  id: ecc6c01e-4eca-4abe-8032-b432cbf283da
 - datetime: 2025-02-04T20:26:01.203Z
   text: Picked up a mooring ball
   author: bergie
@@ -464,6 +494,8 @@
     - daniel
   end: true
   category: navigation
+  origin: manual
+  id: b1ab866b-ed30-4c7f-9321-386a39615f33
 - datetime: 2025-02-04T20:26:05.196Z
   text: Stopped main engine
   author: ""
@@ -493,3 +525,5 @@
     - karin
     - daniel
   category: navigation
+  origin: auto
+  id: 679f348b-ee14-40e9-9534-c3fea8b3623d

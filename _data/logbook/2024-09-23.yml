@@ -21,6 +21,8 @@
     - ihmis-suski
     - bergie
   category: navigation
+  origin: auto
+  id: d0483a3f-43c9-4b85-8ebb-0058eeb30c58
 - datetime: 2024-09-23T08:42:14.300Z
   text: Motoring
   author: ""
@@ -44,6 +46,8 @@
     - ihmis-suski
     - bergie
   category: navigation
+  origin: auto
+  id: cefbffdb-05fa-4284-920e-dd9a4e968f53
 - datetime: 2024-09-23T09:00:12.300Z
   text: ""
   author: ""
@@ -68,6 +72,8 @@
     - ihmis-suski
     - bergie
   category: navigation
+  origin: auto
+  id: b0905c0a-ca30-4dc1-9639-32f7164e5f84
 - datetime: 2024-09-23T09:16:32.300Z
   text: Motor stopped, sailing with Main, Genoa 1
   author: ""
@@ -92,6 +98,8 @@
     - ihmis-suski
     - bergie
   category: navigation
+  origin: auto
+  id: cac17ef0-e8f9-490a-a681-aa042826bb9d
 - datetime: 2024-09-23T09:36:57.299Z
   text: Sails down, motoring
   author: ""
@@ -116,6 +124,8 @@
     - ihmis-suski
     - bergie
   category: navigation
+  origin: auto
+  id: 5ba95a22-0500-4a41-92fa-33ff04c0c288
 - datetime: 2024-09-23T10:00:12.300Z
   text: ""
   author: ""
@@ -140,6 +150,8 @@
     - ihmis-suski
     - bergie
   category: navigation
+  origin: auto
+  id: 5a848b4a-ae73-4cd3-a63c-b2d9336ecb0b
 - datetime: 2024-09-23T11:00:04.300Z
   text: ""
   author: bergie
@@ -168,6 +180,8 @@
     seaState: 2
     cloudCoverage: 1
     visibility: 5
+  origin: manual
+  id: f993fd63-1fb2-4b2a-ac3d-cfe299670273
 - datetime: 2024-09-23T11:09:02.300Z
   text: Can't see the sailboat 0.5NM ahead of us any longer, started fog horn
   author: bergie
@@ -194,6 +208,8 @@
   category: navigation
   observations:
     visibility: 3
+  origin: manual
+  id: b79001c8-08ea-4673-82e5-6e54cdcfce89
 - datetime: 2024-09-23T11:56:49.699Z
   text: Better visibility now. Still wet and cold
   author: bergie
@@ -220,6 +236,8 @@
   category: navigation
   observations:
     visibility: 5
+  origin: manual
+  id: 54e1de8f-8722-48e9-8caa-135a6d3386b5
 - datetime: 2024-09-23T12:00:49.699Z
   text: ""
   author: ""
@@ -244,6 +262,8 @@
     - ihmis-suski
     - bergie
   category: navigation
+  origin: auto
+  id: 563cb59e-0a44-4f53-9715-2a9da6457635
 - datetime: 2024-09-23T12:43:32.700Z
   text: Motor stopped, sailing with Main, Genoa 1
   author: ""
@@ -268,6 +288,8 @@
     - ihmis-suski
     - bergie
   category: navigation
+  origin: auto
+  id: a9a1599c-80d6-46ec-9c84-89e3ce001508
 - datetime: 2024-09-23T13:00:39.699Z
   text: ""
   author: ""
@@ -292,6 +314,8 @@
     - ihmis-suski
     - bergie
   category: navigation
+  origin: auto
+  id: 8e4e7134-a1d0-47f7-9e1a-2a7a666f7cda
 - datetime: 2024-09-23T14:00:40.700Z
   text: ""
   author: ""
@@ -316,6 +340,8 @@
     - ihmis-suski
     - bergie
   category: navigation
+  origin: auto
+  id: 3bd3a332-391a-4c36-be97-a3e5ad741451
 - datetime: 2024-09-23T14:46:40.700Z
   text: "Was able to reach Aveiro club harbour master over phone, and apparently
     we can fit in tonight "
@@ -341,6 +367,8 @@
     - ihmis-suski
     - bergie
   category: radio
+  origin: manual
+  id: 05e0269a-a259-4649-8bd9-01c4758652e0
 - datetime: 2024-09-23T14:49:46.700Z
   text: Sails down, motoring
   author: ""
@@ -365,6 +393,8 @@
     - ihmis-suski
     - bergie
   category: navigation
+  origin: auto
+  id: 92105ab2-53f0-4f0f-8312-18384b6c8238
 - datetime: 2024-09-23T15:00:40.697Z
   text: ""
   author: ""
@@ -389,6 +419,8 @@
     - ihmis-suski
     - bergie
   category: navigation
+  origin: auto
+  id: 225d07ca-1c1e-4702-941b-8e87d1a3a99a
 - datetime: 2024-09-23T16:00:40.697Z
   text: ""
   author: ""
@@ -413,6 +445,8 @@
     - ihmis-suski
     - bergie
   category: navigation
+  origin: auto
+  id: 3b101c66-d313-4f19-bb69-3f596eb62108
 - datetime: 2024-09-23T16:39:39.699Z
   text: Stopped
   author: ""
@@ -438,3 +472,5 @@
     - bergie
   end: true
   category: navigation
+  origin: auto
+  id: 125315c8-8b21-4068-bf82-cefbe63ace6b

@@ -22,6 +22,8 @@
     - ihmis-suski
     - bergie
   category: navigation
+  origin: auto
+  id: f2044059-0469-40d7-84fa-942f5f403703
 - datetime: 2024-10-22T08:27:48.300Z
   text: Anchor up, motoring
   author: bergie
@@ -46,6 +48,8 @@
     - ihmis-suski
     - bergie
   category: navigation
+  origin: manual
+  id: 7929014c-66cf-4ea3-8fe4-5e8f3cb217d7
 - datetime: 2024-10-22T08:44:21.299Z
   text: Autopilot activated
   author: ""
@@ -70,6 +74,8 @@
     - ihmis-suski
     - bergie
   category: navigation
+  origin: auto
+  id: f3ed7db6-5b7a-42c8-b92c-05b367a778ee
 - datetime: 2024-10-22T09:00:47.299Z
   text: ""
   author: ""
@@ -94,6 +100,8 @@
     - ihmis-suski
     - bergie
   category: navigation
+  origin: auto
+  id: 1a275b65-5f26-413c-839c-5371477b4633
 - datetime: 2024-10-22T09:52:14.400Z
   text: Motor stopped, sailing with Main
   author: ""
@@ -118,6 +126,8 @@
     - ihmis-suski
     - bergie
   category: navigation
+  origin: auto
+  id: 31000c30-c4f8-4ee5-9a2e-a39e0db06f2b
 - datetime: 2024-10-22T09:52:41.401Z
   text: "Sails set: Main, Genoa 1 (20% furled)"
   author: ""
@@ -142,6 +152,8 @@
     - ihmis-suski
     - bergie
   category: navigation
+  origin: auto
+  id: 6a0a9557-515d-4971-86bb-49e2c6968293
 - datetime: 2024-10-22T10:00:47.398Z
   text: ""
   author: ""
@@ -166,6 +178,8 @@
     - ihmis-suski
     - bergie
   category: navigation
+  origin: auto
+  id: 4a98b6cb-9775-434b-bbec-9861c234610e
 - datetime: 2024-10-22T10:33:48.400Z
   text: Changed to wing on wing.
   author: ihmis-suski
@@ -194,6 +208,8 @@
     seaState: 4
     cloudCoverage: 6
     visibility: 7
+  origin: manual
+  id: 7ebe4625-7b4d-47fd-8b72-d69f0e91b4ba
 - datetime: 2024-10-22T10:37:48.400Z
   text: Watermaker on
   author: ihmis-suski
@@ -218,6 +234,8 @@
     - ihmis-suski
     - bergie
   category: maintenance
+  origin: manual
+  id: b2ca9d68-7374-46bf-9fbd-296da2165337
 - datetime: 2024-10-22T10:52:49.401Z
   text: "Stopped watermaker, the system is taking in air somewhere "
   author: bergie
@@ -242,6 +260,8 @@
     - ihmis-suski
     - bergie
   category: maintenance
+  origin: manual
+  id: 48738f19-b943-46fe-9799-cbd9d59c7a5a
 - datetime: 2024-10-22T11:00:49.699Z
   text: Pumped the bilge and cleaned sea water strainer
   author: bergie
@@ -266,6 +286,8 @@
     - ihmis-suski
     - bergie
   category: maintenance
+  origin: manual
+  id: 397c7b95-1f98-4477-b032-da7c9c4e473c
 - datetime: 2024-10-22T11:02:49.699Z
   text: Watermaker on
   author: bergie
@@ -290,6 +312,8 @@
     - ihmis-suski
     - bergie
   category: maintenance
+  origin: manual
+  id: 2ce6a2c3-8223-4c71-b280-c3eb6520d1aa
 - datetime: 2024-10-22T11:12:49.798Z
   text: Air lock removed from watermaker intake
   author: bergie
@@ -314,6 +338,8 @@
     - ihmis-suski
     - bergie
   category: maintenance
+  origin: manual
+  id: 60dbc52e-a507-452f-81b2-cc0189baf9ae
 - datetime: 2024-10-22T11:23:15.801Z
   text: "Sails set: Main, Genoa 1 (10% furled)"
   author: ""
@@ -338,6 +364,8 @@
     - ihmis-suski
     - bergie
   category: navigation
+  origin: auto
+  id: 46434f7c-31c2-46de-a16c-6f699d3278ae
 - datetime: 2024-10-22T11:35:49.798Z
   text: 723 ppm.
   author: ihmis-suski
@@ -362,6 +390,8 @@
     - ihmis-suski
     - bergie
   category: maintenance
+  origin: manual
+  id: 981a937a-7efc-4389-8ea4-667ad5ddae46
 - datetime: 2024-10-22T11:59:49.798Z
   text: 703 ppm
   author: ihmis-suski
@@ -386,6 +416,8 @@
     - ihmis-suski
     - bergie
   category: maintenance
+  origin: manual
+  id: 294d51c5-7cf0-458a-9618-e2ba494e4a30
 - datetime: 2024-10-22T12:00:49.798Z
   text: ""
   author: ""
@@ -409,6 +441,9 @@
   crewNames:
     - ihmis-suski
     - bergie
+  category: navigation
+  origin: auto
+  id: 67936e10-e84a-45fa-acac-5132e2c79ff8
 - datetime: 2024-10-22T13:39:36.800Z
   text: "Sails set: Main"
   author: ""
@@ -433,6 +468,8 @@
     - ihmis-suski
     - bergie
   category: navigation
+  origin: auto
+  id: 9e17dc06-9a0d-488d-8684-e2f0f0d09896
 - datetime: 2024-10-22T13:53:37.798Z
   text: Autopilot deactivated
   author: ""
@@ -457,6 +494,8 @@
     - ihmis-suski
     - bergie
   category: navigation
+  origin: auto
+  id: fe36cae5-eac5-41f1-8a7a-176d9291106d
 - datetime: 2024-10-22T14:00:50.800Z
   text: ""
   author: ""
@@ -481,6 +520,8 @@
     - ihmis-suski
     - bergie
   category: navigation
+  origin: auto
+  id: 5d91d812-8c98-48f0-a8d5-4b8b1b670f00
 - datetime: 2024-10-22T14:28:03.801Z
   text: Stopped
   author: ""
@@ -506,6 +547,8 @@
     - bergie
   end: true
   category: navigation
+  origin: auto
+  id: ee599dcf-d839-4e09-887b-a4a13bb5d39b
 - datetime: 2024-10-22T17:05:19.897Z
   text: Watermaker freshwater flush followed with an alkaline cleaning (step 1)
   author: bergie
@@ -529,3 +572,5 @@
     - ihmis-suski
     - bergie
   category: maintenance
+  origin: manual
+  id: 51d1f2b2-99e4-43d0-b4d8-e7b613da3794

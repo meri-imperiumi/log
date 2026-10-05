@@ -21,6 +21,8 @@
     - ihmis-suski
     - bergie
   category: navigation
+  origin: auto
+  id: c8ef6bb1-1b00-4405-9c44-a222fe11f458
 - datetime: 2024-07-12T08:46:40.000Z
   text: Anchor up, motoring
   author: bergie
@@ -44,6 +46,8 @@
     - ihmis-suski
     - bergie
   category: navigation
+  origin: manual
+  id: 5c1942da-dc0e-42f6-876c-d0c2221a36e3
 - datetime: 2024-07-12T09:00:40.000Z
   text: ""
   author: ""
@@ -67,6 +71,8 @@
     - ihmis-suski
     - bergie
   category: navigation
+  origin: auto
+  id: 57dc3747-b2c7-4e7e-bb4a-7c51b117ae0c
 - datetime: 2024-07-12T09:19:14.000Z
   text: Motor stopped, sailing with Main, Genoa 1
   author: ""
@@ -91,6 +97,8 @@
     - ihmis-suski
     - bergie
   category: navigation
+  origin: auto
+  id: 21ffb10e-83cb-45fe-9cb6-b4d744178e2f
 - datetime: 2024-07-12T09:24:40.000Z
   text: Started watermaker, 177ppm
   author: bergie
@@ -115,6 +123,8 @@
     - ihmis-suski
     - bergie
   category: maintenance
+  origin: manual
+  id: 724e0bfb-2ac9-4706-8247-0b6b22aef604
 - datetime: 2024-07-12T09:51:40.000Z
   text: Split ring was gone from inner forestay lower toggle. Replaced. Time for a
     rigging check
@@ -140,6 +150,8 @@
     - ihmis-suski
     - bergie
   category: maintenance
+  origin: manual
+  id: b3e0a501-b12d-49e1-a58c-dd5722843a8b
 - datetime: 2024-07-12T10:00:40.000Z
   text: ""
   author: ""
@@ -164,6 +176,8 @@
     - ihmis-suski
     - bergie
   category: navigation
+  origin: auto
+  id: e39a7843-229b-4c65-815b-1a247beb743c
 - datetime: 2024-07-12T10:32:14.000Z
   text: Motorsailing with cone up
   author: bergie
@@ -188,6 +202,8 @@
     - ihmis-suski
     - bergie
   category: navigation
+  origin: manual
+  id: 98d34106-7957-4800-a9b5-79c180bfea91
 - datetime: 2024-07-12T10:32:40.998Z
   text: Stopped watermaker, 155ppm
   author: bergie
@@ -212,6 +228,8 @@
     - ihmis-suski
     - bergie
   category: maintenance
+  origin: manual
+  id: 534a776a-d88c-4db1-bd3d-7a86ad5cfed7
 - datetime: 2024-07-12T11:00:18.000Z
   text: Motor stopped, sailing with Main, Genoa 1
   author: ""
@@ -236,6 +254,8 @@
     - ihmis-suski
     - bergie
   category: navigation
+  origin: auto
+  id: aa334c7b-83e9-419f-b56e-a2b3f92c10f5
 - datetime: 2024-07-12T11:00:40.998Z
   text: ""
   author: ""
@@ -260,6 +280,8 @@
     - ihmis-suski
     - bergie
   category: navigation
+  origin: auto
+  id: 9f895c05-7e07-468e-935a-7ed335a00295
 - datetime: 2024-07-12T12:00:42.000Z
   text: ""
   author: ""
@@ -284,6 +306,8 @@
     - ihmis-suski
     - bergie
   category: navigation
+  origin: auto
+  id: cb59b268-1bb4-460b-a5dd-3acec65243bb
 - datetime: 2024-07-12T13:00:44.000Z
   text: ""
   author: ""
@@ -308,6 +332,8 @@
     - ihmis-suski
     - bergie
   category: navigation
+  origin: auto
+  id: a4897d41-d8bf-49be-9e8a-ef26191f8212
 - datetime: 2024-07-12T14:00:44.400Z
   text: ""
   author: ""
@@ -332,6 +358,8 @@
     - ihmis-suski
     - bergie
   category: navigation
+  origin: auto
+  id: fd532ba5-8e6b-4c7e-8188-033255a18e37
 - datetime: 2024-07-12T14:47:31.398Z
   text: Sails down, motoring
   author: ""
@@ -356,6 +384,8 @@
     - ihmis-suski
     - bergie
   category: navigation
+  origin: auto
+  id: a46ee50d-ce0d-418e-bf22-29703e314494
 - datetime: 2024-07-12T15:00:46.400Z
   text: ""
   author: ""
@@ -380,6 +410,8 @@
     - ihmis-suski
     - bergie
   category: navigation
+  origin: auto
+  id: 33c90ac1-a333-499e-95a8-db5ff8281817
 - datetime: 2024-07-12T15:14:30.400Z
   text: Anchored
   author: ""
@@ -404,6 +436,8 @@
     - bergie
   end: true
   category: navigation
+  origin: auto
+  id: 1e3c18d5-b069-4932-a990-bb4994071f40
 - datetime: 2024-07-12T15:22:57.401Z
   text: Stopped main engine
   author: ""
@@ -427,3 +461,5 @@
     - ihmis-suski
     - bergie
   category: navigation
+  origin: auto
+  id: 88f38a14-a6ee-40da-afd1-88d60573006c

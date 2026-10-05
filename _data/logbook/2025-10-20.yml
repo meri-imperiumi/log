@@ -24,6 +24,8 @@
     - ihmis-suski
     - bergie
   category: navigation
+  origin: manual
+  id: ddf8f48f-5dae-4444-90dc-d9fe4c3440a2
 - datetime: 2025-10-20T01:00:46.500Z
   text: ""
   author: ""
@@ -50,6 +52,8 @@
     - ihmis-suski
     - bergie
   category: navigation
+  origin: auto
+  id: a3dff93a-4edf-4a0d-bdaa-8f35261d5341
 - datetime: 2025-10-20T02:00:49.900Z
   text: ""
   author: ""
@@ -76,6 +80,8 @@
     - ihmis-suski
     - bergie
   category: navigation
+  origin: auto
+  id: f294e2ad-e6ac-47e5-94c9-8a0041fba8e2
 - datetime: 2025-10-20T03:00:51.900Z
   text: ""
   author: ""
@@ -102,6 +108,8 @@
     - ihmis-suski
     - bergie
   category: navigation
+  origin: auto
+  id: 76f08937-b891-45c7-9a13-695df87c281b
 - datetime: 2025-10-20T03:23:21.900Z
   text: >-
     Autopilot activated
@@ -133,6 +141,8 @@
     - ihmis-suski
     - bergie
   category: navigation
+  origin: manual
+  id: 6bae9547-92b9-404c-9611-e1daa966af75
 - datetime: 2025-10-20T03:45:37.900Z
   text: Sails down, motoring
   author: ""
@@ -159,6 +169,8 @@
     - ihmis-suski
     - bergie
   category: navigation
+  origin: auto
+  id: 2c54fcce-3e5c-4e8c-83e1-4a00eccd49c6
 - datetime: 2025-10-20T04:00:55.900Z
   text: Bergie on watch. Changing ship's time by one hour to Colombia
   author: bergie
@@ -189,6 +201,8 @@
     cloudCoverage: 5
     seaState: 3
     visibility: 7
+  origin: manual
+  id: 6a1768f1-5ef2-4219-a34f-637909959389
 - datetime: 2025-10-20T05:00:56.899Z
   text: ""
   author: ""
@@ -215,6 +229,8 @@
     - ihmis-suski
     - bergie
   category: navigation
+  origin: auto
+  id: d2049854-0300-4b5a-8c79-6f1fe0f9bad6
 - datetime: 2025-10-20T05:21:03.000Z
   text: Motor stopped, sailing with Staysail
   author: bergie
@@ -241,6 +257,8 @@
     - ihmis-suski
     - bergie
   category: navigation
+  origin: manual
+  id: 68cc43f6-a0fb-457e-a6ca-d142d91ab642
 - datetime: 2025-10-20T06:00:58.000Z
   text: ""
   author: ""
@@ -264,6 +282,8 @@
     - ihmis-suski
     - bergie
   category: navigation
+  origin: auto
+  id: b4f8b503-aaf7-489c-84cd-806593b1fb86
 - datetime: 2025-10-20T07:00:02.000Z
   text: ""
   author: ""
@@ -287,6 +307,8 @@
     - ihmis-suski
     - bergie
   category: navigation
+  origin: auto
+  id: 9b66a5e2-0ee4-4dd4-bead-ff105f3b8f27
 - datetime: 2025-10-20T07:31:03.001Z
   text: "Inside Colombian waters. Some flashing in the horizon "
   author: bergie
@@ -314,6 +336,8 @@
     seaState: 3
     cloudCoverage: 3
     visibility: 7
+  origin: manual
+  id: d28d2bd7-5c22-4231-b668-08a80aa1f493
 - datetime: 2025-10-20T08:00:04.000Z
   text: Pretty happy to have only the staysail up. Gusts up to 35kt so we're
     trucking along
@@ -338,6 +362,8 @@
     - ihmis-suski
     - bergie
   category: navigation
+  origin: manual
+  id: d04e8547-a323-45ff-925c-7c3d5c85ec0b
 - datetime: 2025-10-20T08:26:06.000Z
   text: And now we have gusts up to 40kt. Still sailing nicely, though got pooped
     once. Not a lot of water got in
@@ -364,6 +390,8 @@
   category: navigation
   observations:
     seaState: 4
+  origin: manual
+  id: 54d87b22-2eef-4a27-bd5b-1525977eeaa2
 - datetime: 2025-10-20T09:00:07.100Z
   text: ""
   author: ""
@@ -387,6 +415,8 @@
     - ihmis-suski
     - bergie
   category: navigation
+  origin: auto
+  id: 46118f8c-07b0-4d32-8e06-840b46eb52d3
 - datetime: 2025-10-20T09:14:08.099Z
   text: Tightened the Noa screws on the aft solar panel as it had started working
     loose
@@ -411,6 +441,8 @@
     - ihmis-suski
     - bergie
   category: maintenance
+  origin: manual
+  id: ea832cde-3783-4e31-8f1a-34c27f68ef52
 - datetime: 2025-10-20T09:50:09.100Z
   text: Lots of lightning up ahead. Let's hope it sticks to the land
   author: bergie
@@ -438,6 +470,8 @@
     seaState: 4
     cloudCoverage: 3
     visibility: 7
+  origin: manual
+  id: 2537e0e2-4022-4060-b41e-2990d9aea070
 - datetime: 2025-10-20T10:00:10.099Z
   text: ""
   author: ""
@@ -461,6 +495,8 @@
     - ihmis-suski
     - bergie
   category: navigation
+  origin: auto
+  id: 325f3d8b-75d3-4102-a889-2d0ab9334506
 - datetime: 2025-10-20T11:00:13.299Z
   text: ""
   author: ""
@@ -486,6 +522,8 @@
     - ihmis-suski
     - bergie
   category: navigation
+  origin: auto
+  id: ae3048ce-50d5-4db8-89eb-2a0725029af7
 - datetime: 2025-10-20T11:04:15.299Z
   text: That was weird. Wind instrument was again stuck, so rebooted N2K. Then
     Signal K Pi got stuck, so had to reboot Computer circuit.
@@ -513,6 +551,8 @@
     - ihmis-suski
     - bergie
   category: maintenance
+  origin: manual
+  id: 2484624a-0fce-4cf3-8ddf-faafcfbf83d4
 - datetime: 2025-10-20T11:15:08.300Z
   text: "Sails set: Main (2nd reef), Staysail"
   author: ""
@@ -539,6 +579,8 @@
     - ihmis-suski
     - bergie
   category: navigation
+  origin: auto
+  id: 70daeb7f-d750-4a53-8291-06ccc636f9e8
 - datetime: 2025-10-20T12:00:19.398Z
   text: ""
   author: ""
@@ -565,6 +607,8 @@
     - ihmis-suski
     - bergie
   category: navigation
+  origin: auto
+  id: 953aaa2d-6520-4d9e-a7f8-a7300a530f57
 - datetime: 2025-10-20T13:00:23.398Z
   text: ""
   author: ""
@@ -591,6 +635,8 @@
     - ihmis-suski
     - bergie
   category: navigation
+  origin: auto
+  id: ee392873-7c77-426f-91c2-3c2e16e3cb3e
 - datetime: 2025-10-20T13:09:23.398Z
   text: Barranquilla rivers muddy waters. It is like a drawn line between clean
     and muddy
@@ -618,6 +664,8 @@
     - ihmis-suski
     - bergie
   category: navigation
+  origin: manual
+  id: 6323fc70-4547-49fe-b962-044f7b572ec0
 - datetime: 2025-10-20T14:00:25.401Z
   text: ""
   author: ""
@@ -644,6 +692,8 @@
     - ihmis-suski
     - bergie
   category: navigation
+  origin: auto
+  id: 4a0e3d07-1024-4ce6-bf53-50ee95db66cb
 - datetime: 2025-10-20T14:05:55.398Z
   text: "Sails set: Main, Genoa 1"
   author: ""
@@ -670,6 +720,8 @@
     - ihmis-suski
     - bergie
   category: navigation
+  origin: auto
+  id: dac2497e-b5f3-4632-94b7-a51f6ba6c47d
 - datetime: 2025-10-20T14:54:26.499Z
   text: Sails down, motoring
   author: ""
@@ -696,6 +748,8 @@
     - ihmis-suski
     - bergie
   category: navigation
+  origin: auto
+  id: 678d7baa-8c3a-4046-9de2-9432bdbb8208
 - datetime: 2025-10-20T15:00:30.502Z
   text: ""
   author: ""
@@ -722,6 +776,8 @@
     - ihmis-suski
     - bergie
   category: navigation
+  origin: auto
+  id: 7ba2bb35-d071-4664-9a1b-f282fb5617e3
 - datetime: 2025-10-20T15:12:55.500Z
   text: Motor stopped, sailing with Main, Genoa 1
   author: ""
@@ -748,6 +804,8 @@
     - ihmis-suski
     - bergie
   category: navigation
+  origin: auto
+  id: b5b31a47-44eb-4b82-ac8a-0cb416122697
 - datetime: 2025-10-20T15:14:43.500Z
   text: Autopilot deactivated
   author: ""
@@ -774,6 +832,8 @@
     - ihmis-suski
     - bergie
   category: navigation
+  origin: auto
+  id: f893ff3d-2f01-41c3-b5c9-21eb41e80295
 - datetime: 2025-10-20T15:14:46.502Z
   text: Autopilot activated
   author: ""
@@ -800,6 +860,8 @@
     - ihmis-suski
     - bergie
   category: navigation
+  origin: auto
+  id: cec3cd3f-05a6-42d2-9570-ca6e64ec0064
 - datetime: 2025-10-20T15:16:00.499Z
   text: |-
     Sails down, motoring.
@@ -829,6 +891,8 @@
     - ihmis-suski
     - bergie
   category: navigation
+  origin: manual
+  id: a015063e-df80-4c02-b36c-f07bd35f9835
 - datetime: 2025-10-20T16:00:38.502Z
   text: ""
   author: ""
@@ -855,6 +919,8 @@
     - ihmis-suski
     - bergie
   category: navigation
+  origin: auto
+  id: 9046fa32-1251-4944-ac65-49f2a76fa2d5
 - datetime: 2025-10-20T16:37:07.596Z
   text: Motor stopped, sailing with Main, Genoa 1
   author: ""
@@ -881,6 +947,8 @@
     - ihmis-suski
     - bergie
   category: navigation
+  origin: auto
+  id: a0144041-ed21-447d-bfdc-b0a1c60e7c34
 - datetime: 2025-10-20T17:00:45.600Z
   text: "Bergie on watch "
   author: bergie
@@ -911,6 +979,8 @@
     seaState: 3
     cloudCoverage: 6
     visibility: 6
+  origin: manual
+  id: fad0442b-94d6-4429-babb-6801f20c7e0b
 - datetime: 2025-10-20T17:15:17.600Z
   text: "Sails set: Genoa 1. Main was slatting"
   author: bergie
@@ -937,6 +1007,8 @@
     - ihmis-suski
     - bergie
   category: navigation
+  origin: manual
+  id: b6ba3334-b90b-4654-a89c-c5ad2f7516e6
 - datetime: 2025-10-20T18:00:51.596Z
   text: There's some thunder ahead, but it seems to be drifting off to the west
   author: bergie
@@ -963,6 +1035,8 @@
     - ihmis-suski
     - bergie
   category: navigation
+  origin: manual
+  id: 967cb52a-c139-479c-bb9b-18113b9b4ce7
 - datetime: 2025-10-20T19:00:53.702Z
   text: ""
   author: ""
@@ -989,6 +1063,8 @@
     - ihmis-suski
     - bergie
   category: navigation
+  origin: auto
+  id: 936284e5-2bd2-4572-bd73-2dad97261677
 - datetime: 2025-10-20T19:26:15.699Z
   text: Sails down, motoring
   author: ""
@@ -1015,6 +1091,8 @@
     - ihmis-suski
     - bergie
   category: navigation
+  origin: auto
+  id: 22b97fea-4212-49f6-a89e-b746972cca44
 - datetime: 2025-10-20T20:00:01.702Z
   text: ""
   author: ""
@@ -1041,6 +1119,8 @@
     - ihmis-suski
     - bergie
   category: navigation
+  origin: auto
+  id: 999f431f-487e-48ba-b7b0-ef3bee911b1c
 - datetime: 2025-10-20T20:29:03.699Z
   text: Lots of floating logs. These are small, but i saw a whole tree branch
     further out
@@ -1068,6 +1148,8 @@
     - ihmis-suski
     - bergie
   category: navigation
+  origin: manual
+  id: 89986176-3fc4-4dec-a7a9-9fa5178a4d65
 - datetime: 2025-10-20T20:41:14.700Z
   text: Motor stopped, sailing with Genoa 1
   author: ""
@@ -1094,6 +1176,8 @@
     - ihmis-suski
     - bergie
   category: navigation
+  origin: auto
+  id: daeda8a0-6fe3-421c-b296-0aab010d8a8b
 - datetime: 2025-10-20T20:54:19.699Z
   text: "Sails set: Main, Genoa 1"
   author: ""
@@ -1120,6 +1204,8 @@
     - ihmis-suski
     - bergie
   category: navigation
+  origin: auto
+  id: e096c546-3209-4e64-a7ba-85645ac0d955
 - datetime: 2025-10-20T21:00:04.697Z
   text: ""
   author: ""
@@ -1146,6 +1232,8 @@
     - ihmis-suski
     - bergie
   category: navigation
+  origin: auto
+  id: 5f123ac0-5022-4702-94b7-7ff4e8b16ce2
 - datetime: 2025-10-20T21:42:10.803Z
   text: Sails down, motoring
   author: ""
@@ -1172,6 +1260,8 @@
     - ihmis-suski
     - bergie
   category: navigation
+  origin: auto
+  id: 0a6ef058-9c95-4f30-9304-4b4f9e269055
 - datetime: 2025-10-20T21:53:03.801Z
   text: Motor stopped, sailing with Main, Genoa 1
   author: ""
@@ -1198,6 +1288,8 @@
     - ihmis-suski
     - bergie
   category: navigation
+  origin: auto
+  id: f3ab4cac-220d-4451-92ac-af4cafb28c1d
 - datetime: 2025-10-20T22:00:07.801Z
   text: ""
   author: ""
@@ -1224,6 +1316,8 @@
     - ihmis-suski
     - bergie
   category: navigation
+  origin: auto
+  id: 50ffb6d0-b919-4ec3-97cf-71f909ad5c93
 - datetime: 2025-10-20T23:00:14.796Z
   text: Suski on watch
   author: ihmis-suski
@@ -1254,3 +1348,5 @@
     seaState: 3
     cloudCoverage: 4
     visibility: 7
+  origin: manual
+  id: f453f3a0-c2a1-42fc-b555-661c220b9a66

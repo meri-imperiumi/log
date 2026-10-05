@@ -26,6 +26,8 @@
     seaState: 3
     cloudCoverage: 7
     visibility: 7
+  origin: manual
+  id: bb97319a-45a4-42a4-a11d-11bbc710b877
 - datetime: 2024-10-17T01:00:38.600Z
   text: ""
   author: bergie
@@ -50,6 +52,8 @@
     - ihmis-suski
     - bergie
   category: navigation
+  origin: manual
+  id: 02aa3cab-f21e-43d5-882f-e2ceef99e341
 - datetime: 2024-10-17T01:09:38.600Z
   text: 99NM to go
   author: bergie
@@ -74,6 +78,8 @@
     - ihmis-suski
     - bergie
   category: navigation
+  origin: manual
+  id: 1cc2f175-cda4-43ab-b9f2-a8be4772932c
 - datetime: 2024-10-17T01:22:07.600Z
   text: "Sails set: Main (1st reef), Staysail"
   author: ""
@@ -98,6 +104,8 @@
     - ihmis-suski
     - bergie
   category: navigation
+  origin: auto
+  id: 2d0db233-ea4c-42c9-8660-f63b92463561
 - datetime: 2024-10-17T01:31:37.600Z
   text: Watermaker 294ppm. Filled 6th canister, 50%
   author: bergie
@@ -122,6 +130,8 @@
     - ihmis-suski
     - bergie
   category: maintenance
+  origin: manual
+  id: 3b0a6e6a-738e-455f-b76e-531c29f02366
 - datetime: 2024-10-17T02:00:37.700Z
   text: ""
   author: bergie
@@ -150,6 +160,8 @@
     seaState: 3
     cloudCoverage: 3
     visibility: 7
+  origin: manual
+  id: af643120-6e72-4d0c-ba00-cb6621b2673e
 - datetime: 2024-10-17T02:41:35.700Z
   text: We're entering a major shipping lane now. Vessels from South Africa,
     Uruguay, etc
@@ -175,6 +187,8 @@
     - ihmis-suski
     - bergie
   category: navigation
+  origin: manual
+  id: 0e586320-c52c-4fe4-b4ef-3cb43b54a401
 - datetime: 2024-10-17T03:00:36.700Z
   text: ""
   author: ""
@@ -199,6 +213,8 @@
     - ihmis-suski
     - bergie
   category: navigation
+  origin: auto
+  id: bb40bd1c-a16e-4478-80a3-47131b28c176
 - datetime: 2024-10-17T03:14:35.700Z
   text: Watermaker 324ppm. Filled 7th canister, 57%
   author: bergie
@@ -223,6 +239,8 @@
     - ihmis-suski
     - bergie
   category: maintenance
+  origin: manual
+  id: 7800858d-2cee-4051-9cef-2bceb2ec0a04
 - datetime: 2024-10-17T04:00:35.000Z
   text: ""
   author: ""
@@ -247,6 +265,8 @@
     - ihmis-suski
     - bergie
   category: navigation
+  origin: auto
+  id: 81f15a67-0e0a-4453-845b-cb0615d244e9
 - datetime: 2024-10-17T04:53:33.000Z
   text: Stopped watermaker, 278ppm
   author: bergie
@@ -271,6 +291,8 @@
     - ihmis-suski
     - bergie
   category: maintenance
+  origin: manual
+  id: 165074a8-24e9-451e-ae76-573e89e204a0
 - datetime: 2024-10-17T05:00:33.100Z
   text: "The wind is starting to build some beam seas "
   author: bergie
@@ -299,6 +321,8 @@
     seaState: 4
     cloudCoverage: 1
     visibility: 7
+  origin: manual
+  id: d77a94d9-0dcd-47a3-bb9b-9f97123e87d1
 - datetime: 2024-10-17T05:09:33.100Z
   text: Again some music on channel 16
   author: bergie
@@ -323,6 +347,8 @@
     - ihmis-suski
     - bergie
   category: radio
+  origin: manual
+  id: fb1ad9dc-d3e2-4479-812b-0194934c04e5
 - datetime: 2024-10-17T06:00:30.099Z
   text: The moon has set and the sun is about to rise. Finally some good old fast
     sailing!
@@ -352,6 +378,8 @@
     seaState: 4
     cloudCoverage: 2
     visibility: 7
+  origin: manual
+  id: e0f4644c-0ae4-46d9-82ad-8a67f354d77d
 - datetime: 2024-10-17T07:00:30.099Z
   text: ""
   author: ""
@@ -376,6 +404,8 @@
     - ihmis-suski
     - bergie
   category: navigation
+  origin: auto
+  id: 9137a561-43eb-473f-b324-94ec04cf4e53
 - datetime: 2024-10-17T08:00:29.100Z
   text: ""
   author: ""
@@ -400,6 +430,8 @@
     - ihmis-suski
     - bergie
   category: navigation
+  origin: auto
+  id: fa346631-4875-4096-abfa-cebea9d8b0bb
 - datetime: 2024-10-17T09:00:27.100Z
   text: ""
   author: ""
@@ -424,6 +456,8 @@
     - ihmis-suski
     - bergie
   category: navigation
+  origin: auto
+  id: 8d3ed4df-84ef-47e8-a081-1eae6613a129
 - datetime: 2024-10-17T10:00:25.100Z
   text: ""
   author: ""
@@ -448,6 +482,8 @@
     - ihmis-suski
     - bergie
   category: navigation
+  origin: auto
+  id: 4c4192e8-0d14-47d6-ab7e-b809fd5b4d11
 - datetime: 2024-10-17T11:00:24.099Z
   text: ""
   author: ""
@@ -472,6 +508,8 @@
     - ihmis-suski
     - bergie
   category: navigation
+  origin: auto
+  id: a7546307-0350-4943-8513-284f2458c80c
 - datetime: 2024-10-17T12:00:22.201Z
   text: Watch change, 35NM to go
   author: bergie
@@ -500,6 +538,8 @@
     cloudCoverage: 3
     seaState: 4
     visibility: 7
+  origin: manual
+  id: 228347f2-6972-4044-8408-7530a5b03412
 - datetime: 2024-10-17T12:27:21.200Z
   text: Land ahoy! There's a mountain in the horizon, dead ahead
   author: bergie
@@ -524,6 +564,8 @@
     - ihmis-suski
     - bergie
   category: navigation
+  origin: manual
+  id: 00c7e0a9-9501-4555-a1ff-04dbc8fd156f
 - datetime: 2024-10-17T12:50:21.200Z
   text: |-
     On radio "MCC Diana, following message received..." <scrambled>
@@ -550,6 +592,8 @@
     - ihmis-suski
     - bergie
   category: radio
+  origin: manual
+  id: 7da5aabe-9017-401b-b1b0-f22942f7a3ff
 - datetime: 2024-10-17T13:00:20.198Z
   text: ""
   author: ""
@@ -574,6 +618,8 @@
     - ihmis-suski
     - bergie
   category: navigation
+  origin: auto
+  id: 4ea4fe36-5236-4271-9be8-a86ab430ff8c
 - datetime: 2024-10-17T13:42:19.200Z
   text: "First weather forecast from Canaries GC: F5-6 NE, seas increasing to 3m
     offshore"
@@ -599,6 +645,8 @@
     - ihmis-suski
     - bergie
   category: radio
+  origin: manual
+  id: 84534422-7252-4eb4-8c5a-de76813fd691
 - datetime: 2024-10-17T14:00:19.200Z
   text: ""
   author: ""
@@ -623,6 +671,8 @@
     - ihmis-suski
     - bergie
   category: navigation
+  origin: auto
+  id: edd051a0-4a4d-4b2c-93d4-43c520ccb868
 - datetime: 2024-10-17T15:00:17.203Z
   text: ""
   author: ""
@@ -647,6 +697,8 @@
     - ihmis-suski
     - bergie
   category: navigation
+  origin: auto
+  id: bf5f391a-f168-444e-a292-e7cff5fe4969
 - datetime: 2024-10-17T16:00:15.200Z
   text: ""
   author: ""
@@ -671,6 +723,8 @@
     - ihmis-suski
     - bergie
   category: navigation
+  origin: auto
+  id: aac7e395-741f-4eeb-93b7-5ae5034827f5
 - datetime: 2024-10-17T17:00:14.297Z
   text: ""
   author: ""
@@ -695,6 +749,8 @@
     - ihmis-suski
     - bergie
   category: navigation
+  origin: auto
+  id: 2443cb2b-08be-4a75-9e5d-01baef7c0ec9
 - datetime: 2024-10-17T17:12:07.302Z
   text: Autopilot activated
   author: ""
@@ -719,6 +775,8 @@
     - ihmis-suski
     - bergie
   category: navigation
+  origin: auto
+  id: fdd44e90-837f-4cb9-9821-c0bfae4ead78
 - datetime: 2024-10-17T18:00:12.697Z
   text: ""
   author: ""
@@ -743,6 +801,8 @@
     - ihmis-suski
     - bergie
   category: navigation
+  origin: auto
+  id: bd95fd9f-96c3-41bd-9a3b-6171b7b89328
 - datetime: 2024-10-17T18:04:42.700Z
   text: Autopilot deactivated
   author: ""
@@ -767,6 +827,8 @@
     - ihmis-suski
     - bergie
   category: navigation
+  origin: auto
+  id: ca33c86c-a236-4460-9f54-00fb94b4a72a
 - datetime: 2024-10-17T18:12:45.702Z
   text: Sails down, motoring
   author: ""
@@ -791,6 +853,8 @@
     - ihmis-suski
     - bergie
   category: navigation
+  origin: auto
+  id: 61a4aaac-47f9-4aba-a373-395bfcc97a84
 - datetime: 2024-10-17T18:37:57.702Z
   text: Anchored
   author: ""
@@ -816,6 +880,8 @@
     - bergie
   end: true
   category: navigation
+  origin: auto
+  id: 5e56fb8a-3cbd-486c-844b-09f1daf7ee51
 - datetime: 2024-10-17T18:42:41.702Z
   text: Stopped main engine
   author: ""
@@ -840,3 +906,5 @@
     - ihmis-suski
     - bergie
   category: navigation
+  origin: auto
+  id: 5f9dcc29-170f-429c-abb8-749032cfc09d

@@ -26,6 +26,8 @@
     - bergie
     - bernhard
   category: navigation
+  origin: auto
+  id: 241e7438-cd39-4d6f-a274-9c1f0846b77c
 - datetime: 2025-03-16T14:40:32.198Z
   text: Anchor up, motoring
   author: bergie
@@ -54,6 +56,8 @@
     - bergie
     - bernhard
   category: navigation
+  origin: manual
+  id: b375c1f5-36f1-4ff6-88e6-8b8409db1047
 - datetime: 2025-03-16T14:53:01.200Z
   text: Motor stopped, sailing with Main, Genoa 1
   author: ""
@@ -82,6 +86,8 @@
     - bergie
     - bernhard
   category: navigation
+  origin: auto
+  id: a7b14827-2b76-4e08-b7c1-c772be898a2a
 - datetime: 2025-03-16T14:53:59.200Z
   text: Autopilot activated
   author: ""
@@ -110,6 +116,8 @@
     - bergie
     - bernhard
   category: navigation
+  origin: auto
+  id: 2c7cdebd-928a-4b1c-8a8f-f95d14a24c40
 - datetime: 2025-03-16T14:54:31.200Z
   text: "Started watermaker "
   author: bergie
@@ -138,6 +146,8 @@
     - bergie
     - bernhard
   category: maintenance
+  origin: manual
+  id: 6dd4e517-027e-433e-90c4-da1045336fe5
 - datetime: 2025-03-16T15:00:31.200Z
   text: "Bernhard on watch "
   author: bergie
@@ -166,6 +176,8 @@
     - bergie
     - bernhard
   category: navigation
+  origin: manual
+  id: d1803e2f-dbee-4777-949c-b4750117a261
 - datetime: 2025-03-16T15:09:31.200Z
   text: Watermaker 322ppm
   author: bergie
@@ -194,6 +206,8 @@
     - bergie
     - bernhard
   category: maintenance
+  origin: manual
+  id: 40c51a52-9384-43c2-89eb-18f2da66e451
 - datetime: 2025-03-16T16:00:33.203Z
   text: ""
   author: ""
@@ -222,6 +236,8 @@
     - bergie
     - bernhard
   category: navigation
+  origin: auto
+  id: 909cb6c7-5b4d-40c8-88db-a98527d55659
 - datetime: 2025-03-16T16:52:33.299Z
   text: Watermaker 292ppm, jug full
   author: bergie
@@ -250,6 +266,8 @@
     - bergie
     - bernhard
   category: maintenance
+  origin: manual
+  id: dda37e37-8915-440a-be75-293cf47f66f5
 - datetime: 2025-03-16T17:00:33.299Z
   text: ""
   author: bergie
@@ -282,6 +300,8 @@
     seaState: 0
     cloudCoverage: 2
     visibility: 8
+  origin: manual
+  id: 22392740-6861-44e9-803f-d5bc8ac393d7
 - datetime: 2025-03-16T18:00:34.297Z
   text: "Bergie on watch "
   author: bergie
@@ -314,6 +334,8 @@
     seaState: 2
     cloudCoverage: 3
     visibility: 8
+  origin: manual
+  id: 3d566bc4-8467-4438-83d4-e9f0f55e9514
 - datetime: 2025-03-16T18:28:00.396Z
   text: Autopilot deactivated
   author: ""
@@ -342,6 +364,8 @@
     - bergie
     - bernhard
   category: navigation
+  origin: auto
+  id: 02b58f83-a271-4ef7-bc18-beebecc07776
 - datetime: 2025-03-16T18:37:35.398Z
   text: Stopped watermaker, 272ppm
   author: bergie
@@ -370,6 +394,8 @@
     - bergie
     - bernhard
   category: maintenance
+  origin: manual
+  id: 29fddf31-3091-42e0-bc7f-d0a47bb7d342
 - datetime: 2025-03-16T18:38:27.398Z
   text: Sails down, motoring
   author: bergie
@@ -398,6 +424,8 @@
     - bergie
     - bernhard
   category: navigation
+  origin: manual
+  id: 8e316f53-4c17-4429-8c98-3df7e9915522
 - datetime: 2025-03-16T18:39:34.400Z
   text: Autopilot activated
   author: bergie
@@ -426,6 +454,8 @@
     - bergie
     - bernhard
   category: navigation
+  origin: manual
+  id: 7adb9dbf-d76c-4a5d-84de-34bfa90863d0
 - datetime: 2025-03-16T18:50:34.400Z
   text: Mayday relay North Martinique St. Marie Tombolo, swimmer with orange
     float, cannot reach the shore. 33NM SE of us
@@ -455,6 +485,8 @@
     - bergie
     - bernhard
   category: radio
+  origin: manual
+  id: ed167c39-269c-4067-bd57-2a8253ef6c3d
 - datetime: 2025-03-16T18:52:30.400Z
   text: Motor stopped, sailing with Main, Genoa 1
   author: ""
@@ -483,6 +515,8 @@
     - bergie
     - bernhard
   category: navigation
+  origin: auto
+  id: 9664e8e7-3b9d-4c41-8ebe-bd180aa403c3
 - datetime: 2025-03-16T19:00:35.398Z
   text: ""
   author: ""
@@ -511,6 +545,8 @@
     - bergie
     - bernhard
   category: navigation
+  origin: auto
+  id: c5928c81-0abb-4bbf-bb79-46ab4ad5ba5c
 - datetime: 2025-03-16T19:24:35.398Z
   text: Mayday relay cancelled, person has been found
   author: bergie
@@ -539,6 +575,8 @@
     - bergie
     - bernhard
   category: radio
+  origin: manual
+  id: d04e449c-1a7e-4125-989f-dce995592b9e
 - datetime: 2025-03-16T20:00:29.798Z
   text: ""
   author: ""
@@ -567,6 +605,8 @@
     - bergie
     - bernhard
   category: navigation
+  origin: auto
+  id: 74b3a713-d151-4ba2-8e86-a41077736723
 - datetime: 2025-03-16T21:00:24.800Z
   text: Suski on watch
   author: bergie
@@ -595,6 +635,8 @@
     - bergie
     - bernhard
   category: navigation
+  origin: manual
+  id: 050b8dfe-9839-413d-b117-bf073b55e688
 - datetime: 2025-03-16T21:19:25.798Z
   text: Martinique territorial waters!
   author: ihmis-suski
@@ -627,6 +669,8 @@
     seaState: 3
     cloudCoverage: 7
     visibility: 8
+  origin: manual
+  id: 46c60b2d-9f8f-42a4-ae7c-7088b1f58414
 - datetime: 2025-03-16T22:00:25.900Z
   text: ""
   author: ""
@@ -655,6 +699,8 @@
     - bergie
     - bernhard
   category: navigation
+  origin: auto
+  id: 5314ff15-0e30-4b94-9e95-0ff933defb04
 - datetime: 2025-03-16T22:19:18.899Z
   text: |-
     Sails set: Main, Genoa 1 (30% furled).
@@ -686,6 +732,8 @@
     - bergie
     - bernhard
   category: navigation
+  origin: manual
+  id: 7435ed38-dd78-4679-8f8f-011774255030
 - datetime: 2025-03-16T22:35:15.897Z
   text: "Sails set: Main, Genoa 1 (20% furled)"
   author: ""
@@ -714,6 +762,8 @@
     - bergie
     - bernhard
   category: navigation
+  origin: auto
+  id: dc513de0-720e-433d-b5b3-4630ea277e75
 - datetime: 2025-03-16T23:00:26.899Z
   text: ""
   author: ""
@@ -742,6 +792,8 @@
     - bergie
     - bernhard
   category: navigation
+  origin: auto
+  id: 40e64461-91a4-4fab-a17e-b2309a7e9dbc
 - datetime: 2025-03-16T23:38:22.899Z
   text: "Sails set: Main, Genoa 1"
   author: ""
@@ -770,3 +822,5 @@
     - bergie
     - bernhard
   category: navigation
+  origin: auto
+  id: c580559d-cd95-4ce8-a055-75f2c4aa756c

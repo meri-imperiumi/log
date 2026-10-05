@@ -21,6 +21,8 @@
     - ihmis-suski
     - bergie
   category: navigation
+  origin: auto
+  id: d7b7956d-6b36-4b21-a86b-f5f55b675ee6
 - datetime: 2024-06-30T07:37:32.899Z
   text: Motoring
   author: ""
@@ -44,6 +46,8 @@
     - ihmis-suski
     - bergie
   category: navigation
+  origin: auto
+  id: b3c0c132-9e23-45a6-9137-f8678e9c5778
 - datetime: 2024-06-30T07:53:32.899Z
   text: "Stopped, Kyle of Lochalsh pontoon "
   author: bergie
@@ -68,6 +72,8 @@
     - bergie
   end: true
   category: navigation
+  origin: manual
+  id: ac37eb02-97cc-4822-89da-959529166ca0
 - datetime: 2024-06-30T08:32:32.899Z
   text: Motoring
   author: ""
@@ -91,6 +97,8 @@
     - ihmis-suski
     - bergie
   category: navigation
+  origin: auto
+  id: 7627cf36-a0bb-4175-b806-128994c43043
 - datetime: 2024-06-30T09:00:32.198Z
   text: ""
   author: ""
@@ -114,6 +122,8 @@
     - ihmis-suski
     - bergie
   category: navigation
+  origin: auto
+  id: 496084ba-4cd1-4475-a847-94ca2bf6c2ee
 - datetime: 2024-06-30T09:11:47.200Z
   text: Autopilot activated
   author: ""
@@ -137,6 +147,8 @@
     - ihmis-suski
     - bergie
   category: navigation
+  origin: auto
+  id: b2195511-4c4e-418d-b9a3-d1361ba595da
 - datetime: 2024-06-30T10:00:33.200Z
   text: ""
   author: bergie
@@ -165,6 +177,8 @@
     seaState: 2
     cloudCoverage: 8
     visibility: 7
+  origin: manual
+  id: 7a3dd518-1b95-4161-bd29-eb777140490e
 - datetime: 2024-06-30T10:25:34.201Z
   text: Autopilot remote works again. Magic incantation to YDNR filters is "APB
     S82 S85 S86 S9E SA1 SA2 MWV S10 S11 VTG S53 S52 S99"
@@ -190,6 +204,8 @@
     - ihmis-suski
     - bergie
   category: maintenance
+  origin: manual
+  id: f07930fa-18c1-400a-8a78-b77ac6799b37
 - datetime: 2024-06-30T11:00:34.201Z
   text: ""
   author: ""
@@ -214,6 +230,8 @@
     - ihmis-suski
     - bergie
   category: navigation
+  origin: auto
+  id: f616dd07-2d79-4209-badd-2775ee4e322f
 - datetime: 2024-06-30T12:00:35.200Z
   text: ""
   author: ""
@@ -238,6 +256,8 @@
     - ihmis-suski
     - bergie
   category: navigation
+  origin: auto
+  id: 13b0632c-4d6d-4cc8-9e42-bd5d464caee7
 - datetime: 2024-06-30T13:00:35.200Z
   text: ""
   author: ""
@@ -262,6 +282,8 @@
     - ihmis-suski
     - bergie
   category: navigation
+  origin: auto
+  id: 2d7597e0-c6cb-4633-93fb-650e6cc31a90
 - datetime: 2024-06-30T14:00:36.198Z
   text: ""
   author: bergie
@@ -290,6 +312,8 @@
     seaState: 2
     cloudCoverage: 4
     visibility: 9
+  origin: manual
+  id: 88f3807a-360e-434c-9375-bc782089563d
 - datetime: 2024-06-30T14:14:20.300Z
   text: Autopilot deactivated
   author: ""
@@ -314,6 +338,8 @@
     - ihmis-suski
     - bergie
   category: navigation
+  origin: auto
+  id: e1efc6f6-61a5-42a0-b266-b5f66104a709
 - datetime: 2024-06-30T14:56:49.299Z
   text: Stopped
   author: ""
@@ -339,3 +365,5 @@
     - bergie
   end: true
   category: navigation
+  origin: auto
+  id: be8eaf64-b234-48fe-acd0-6c2abe2a0313

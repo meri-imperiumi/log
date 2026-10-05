@@ -21,6 +21,8 @@
     - ihmis-suski
     - bergie
   category: maintenance
+  origin: manual
+  id: 14370189-d389-44cd-8e3b-acbbb69a3bc9
 - datetime: 2024-11-21T18:29:15.200Z
   text: Started main engine
   author: ""
@@ -44,6 +46,8 @@
     - ihmis-suski
     - bergie
   category: navigation
+  origin: auto
+  id: d362d6e3-0eff-42d4-be19-064fe2917ddf
 - datetime: 2024-11-21T18:40:49.203Z
   text: Anchor up, motoring
   author: bergie
@@ -68,6 +72,8 @@
     - ihmis-suski
     - bergie
   category: navigation
+  origin: manual
+  id: e8921bd2-4b85-4902-a7b8-7e932964dcc1
 - datetime: 2024-11-21T19:00:48.198Z
   text: ""
   author: ""
@@ -92,6 +98,8 @@
     - ihmis-suski
     - bergie
   category: navigation
+  origin: auto
+  id: 39bc39a3-15b4-444f-a81f-aca20b98bce4
 - datetime: 2024-11-21T19:03:52.198Z
   text: Stopped
   author: ""
@@ -117,3 +125,5 @@
     - bergie
   end: true
   category: navigation
+  origin: auto
+  id: f54a447e-77ec-499c-a9fa-fd7f0a13e5ff

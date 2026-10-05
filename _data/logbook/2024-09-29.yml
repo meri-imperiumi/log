@@ -22,6 +22,8 @@
     - ihmis-suski
     - bergie
   category: navigation
+  origin: manual
+  id: 08a0b490-2918-483e-99d9-8768a14b9c4a
 - datetime: 2024-09-29T00:24:03.600Z
   text: Motor stopped, sailing with Main (1st reef), Genoa 1
   author: ""
@@ -46,6 +48,8 @@
     - ihmis-suski
     - bergie
   category: navigation
+  origin: auto
+  id: a28bca66-5d0e-4afc-a7ad-d10edfbbf161
 - datetime: 2024-09-29T00:26:03.600Z
   text: "Sails set: Main, Genoa 1"
   author: ""
@@ -70,6 +74,8 @@
     - ihmis-suski
     - bergie
   category: navigation
+  origin: auto
+  id: e6a3b1a9-ef8b-4093-8c82-086d2bd22109
 - datetime: 2024-09-29T00:33:56.600Z
   text: >
     Motor control lever seemed stiff. Check that no debris in mechanism on
@@ -96,6 +102,8 @@
     - ihmis-suski
     - bergie
   category: maintenance
+  origin: manual
+  id: edbc8ceb-50e3-4ae2-a342-063c4ade8322
 - datetime: 2024-09-29T01:00:56.600Z
   text: ""
   author: ""
@@ -120,6 +128,8 @@
     - ihmis-suski
     - bergie
   category: navigation
+  origin: auto
+  id: a078986a-4a2c-410d-a8ee-f5f95491b073
 - datetime: 2024-09-29T02:00:56.900Z
   text: ""
   author: ""
@@ -144,6 +154,8 @@
     - ihmis-suski
     - bergie
   category: navigation
+  origin: auto
+  id: 474f87f4-eccd-4b05-a434-417a1b65f610
 - datetime: 2024-09-29T02:15:58.900Z
   text: Sails down, motoring
   author: ""
@@ -168,6 +180,8 @@
     - ihmis-suski
     - bergie
   category: navigation
+  origin: auto
+  id: b3beb9d6-a1c9-4d09-95b2-6457820f9214
 - datetime: 2024-09-29T02:30:57.900Z
   text: Not enough wind. Genoa down haul line got tangled in the drum. Time to
     roll it completely out and in.
@@ -193,6 +207,8 @@
     - ihmis-suski
     - bergie
   category: navigation
+  origin: manual
+  id: 6796cb8d-211f-4939-a948-96863f566a44
 - datetime: 2024-09-29T03:00:57.900Z
   text: ""
   author: ""
@@ -217,6 +233,8 @@
     - ihmis-suski
     - bergie
   category: navigation
+  origin: auto
+  id: 94c0f061-a0bb-4428-9dea-3d2d3d570d7b
 - datetime: 2024-09-29T04:00:57.900Z
   text: ""
   author: ""
@@ -241,6 +259,8 @@
     - ihmis-suski
     - bergie
   category: navigation
+  origin: auto
+  id: 6715bc40-25ca-4e51-a08e-acc5c637fb2f
 - datetime: 2024-09-29T05:00:58.000Z
   text: ""
   author: ""
@@ -265,6 +285,8 @@
     - ihmis-suski
     - bergie
   category: navigation
+  origin: auto
+  id: a3de8bb9-39b1-4f61-9555-1ecf4d974518
 - datetime: 2024-09-29T06:00:58.000Z
   text: Watch change. Some tanker traffic around
   author: bergie
@@ -289,6 +311,8 @@
     - ihmis-suski
     - bergie
   category: navigation
+  origin: manual
+  id: 41703176-4edb-4b51-9147-50e5637554e5
 - datetime: 2024-09-29T06:39:57.000Z
   text: According to latest GRIB, the further south we go, the more we should be
     out of this high pressure ridge, and hence better winds
@@ -318,6 +342,8 @@
     seaState: 3
     cloudCoverage: 0
     visibility: 7
+  origin: manual
+  id: 5aee5e00-44d5-445e-a513-153e21b03260
 - datetime: 2024-09-29T07:00:56.000Z
   text: ""
   author: ""
@@ -342,6 +368,8 @@
     - ihmis-suski
     - bergie
   category: navigation
+  origin: auto
+  id: 44ca30eb-c8aa-492b-b444-419c29e00492
 - datetime: 2024-09-29T08:00:15.001Z
   text: Motor stopped, sailing with Parasailor
   author: ""
@@ -366,6 +394,8 @@
     - ihmis-suski
     - bergie
   category: navigation
+  origin: auto
+  id: 2bd99b4c-d617-43c1-8ef7-45be997223e6
 - datetime: 2024-09-29T08:34:58.000Z
   text: "Gybed the Parasailor, autopilot in wind mode "
   author: bergie
@@ -390,6 +420,8 @@
     - ihmis-suski
     - bergie
   category: navigation
+  origin: manual
+  id: e0468b01-5e21-4a23-bf65-9644dfa4e98c
 - datetime: 2024-09-29T09:00:58.000Z
   text: We're now 3rd of the way there. 225NM done, 443NM to go
   author: bergie
@@ -418,6 +450,8 @@
     seaState: 3
     cloudCoverage: 0
     visibility: 7
+  origin: manual
+  id: dcf42fbe-6c93-49a3-911e-06caa6388c6f
 - datetime: 2024-09-29T10:00:56.998Z
   text: ""
   author: ""
@@ -442,6 +476,8 @@
     - ihmis-suski
     - bergie
   category: navigation
+  origin: auto
+  id: 34e317a0-2ade-4491-b62b-e7074e31d6ed
 - datetime: 2024-09-29T10:14:58.000Z
   text: We just passed a floating barrel, yellow-red with what looked like the
     Shell logo
@@ -467,6 +503,8 @@
     - ihmis-suski
     - bergie
   category: navigation
+  origin: manual
+  id: 2e308bda-5f7e-452f-ad9d-d449b1c5d82c
 - datetime: 2024-09-29T10:36:58.000Z
   text: "Started watermaker "
   author: bergie
@@ -491,6 +529,8 @@
     - ihmis-suski
     - bergie
   category: maintenance
+  origin: manual
+  id: f8f3a1da-ce3d-4e6f-a4e7-422873b243d9
 - datetime: 2024-09-29T10:50:58.000Z
   text: Watermaker 316ppm
   author: bergie
@@ -515,6 +555,8 @@
     - ihmis-suski
     - bergie
   category: maintenance
+  origin: manual
+  id: 96316877-215f-441f-985b-a3b18da8b3b9
 - datetime: 2024-09-29T10:59:58.000Z
   text: Wooden Europalette just floated past
   author: bergie
@@ -539,6 +581,8 @@
     - ihmis-suski
     - bergie
   category: navigation
+  origin: manual
+  id: 070ed11e-0035-422c-a9aa-6eff28941e37
 - datetime: 2024-09-29T11:00:58.000Z
   text: ""
   author: ""
@@ -563,6 +607,8 @@
     - ihmis-suski
     - bergie
   category: navigation
+  origin: auto
+  id: fdeab52f-e724-47e8-859d-b81f5741903a
 - datetime: 2024-09-29T11:08:58.000Z
   text: Watermaker 304ppm
   author: bergie
@@ -587,6 +633,8 @@
     - ihmis-suski
     - bergie
   category: maintenance
+  origin: manual
+  id: cac0aeb4-903f-4a62-9351-4560b8fa5ea2
 - datetime: 2024-09-29T11:49:58.099Z
   text: Watermaker off while the crew showers, 302ppm
   author: bergie
@@ -611,6 +659,8 @@
     - ihmis-suski
     - bergie
   category: maintenance
+  origin: manual
+  id: 4971dd23-1990-4299-9c58-c7f69320074f
 - datetime: 2024-09-29T12:00:59.100Z
   text: ""
   author: ""
@@ -635,6 +685,8 @@
     - ihmis-suski
     - bergie
   category: navigation
+  origin: auto
+  id: 91ebac91-c9ca-4e82-9cb9-a23c9f1a4a02
 - datetime: 2024-09-29T12:05:58.099Z
   text: "Started watermaker "
   author: bergie
@@ -659,6 +711,8 @@
     - ihmis-suski
     - bergie
   category: maintenance
+  origin: manual
+  id: 240f6f43-e31a-496f-9a57-a1884f0cde78
 - datetime: 2024-09-29T12:22:58.400Z
   text: Watermaker 307ppm
   author: bergie
@@ -683,6 +737,8 @@
     - ihmis-suski
     - bergie
   category: maintenance
+  origin: manual
+  id: c0e0165d-2610-4c89-9ae6-195a1dee71dc
 - datetime: 2024-09-29T12:31:59.398Z
   text: Watch change and shower complete
   author: ihmis-suski
@@ -711,6 +767,8 @@
     seaState: 3
     cloudCoverage: 0
     visibility: 8
+  origin: manual
+  id: 95ec48ef-2a6c-4bf4-b804-0026af92bd09
 - datetime: 2024-09-29T13:00:00.400Z
   text: ""
   author: ""
@@ -735,6 +793,8 @@
     - ihmis-suski
     - bergie
   category: navigation
+  origin: auto
+  id: 10eaf1e8-3524-417b-8991-a9d2b6a8fa6f
 - datetime: 2024-09-29T13:43:00.400Z
   text: Watermaker 273 ppm. 1 canister full.
   author: ihmis-suski
@@ -759,6 +819,8 @@
     - ihmis-suski
     - bergie
   category: maintenance
+  origin: manual
+  id: 19b1875b-cb87-4347-adaf-e20ef2eaa2d7
 - datetime: 2024-09-29T13:44:00.400Z
   text: Canary Islands coastal radio! But lets first go to Madeira
   author: ihmis-suski
@@ -783,6 +845,8 @@
     - ihmis-suski
     - bergie
   category: radio
+  origin: manual
+  id: 927e9bb0-2127-475d-b58c-f43df7d11b90
 - datetime: 2024-09-29T13:59:59.398Z
   text: ""
   author: ""
@@ -807,6 +871,8 @@
     - ihmis-suski
     - bergie
   category: navigation
+  origin: auto
+  id: bdb4564a-51d7-4325-8fd8-7cfc74518d99
 - datetime: 2024-09-29T15:00:00.499Z
   text: ""
   author: ""
@@ -831,6 +897,8 @@
     - ihmis-suski
     - bergie
   category: navigation
+  origin: auto
+  id: ff5cdaa1-9998-4933-b4dd-0f4a3f67424a
 - datetime: 2024-09-29T15:26:00.499Z
   text: Watermaker 258ppm
   author: bergie
@@ -855,6 +923,8 @@
     - ihmis-suski
     - bergie
   category: maintenance
+  origin: manual
+  id: 9c7361f9-9436-4908-9a2d-087140e84e28
 - datetime: 2024-09-29T16:00:00.499Z
   text: ""
   author: ""
@@ -879,6 +949,8 @@
     - ihmis-suski
     - bergie
   category: navigation
+  origin: auto
+  id: 7c2b29b7-feec-4740-855c-8146f17edbbe
 - datetime: 2024-09-29T17:00:53.497Z
   text: Watermaker off, 240ppm
   author: bergie
@@ -903,6 +975,8 @@
     - ihmis-suski
     - bergie
   category: maintenance
+  origin: manual
+  id: 4eca14fb-9caf-4019-9b99-33d8dbdec50b
 - datetime: 2024-09-29T18:00:37.497Z
   text: Watch change
   author: bergie
@@ -927,6 +1001,8 @@
     - ihmis-suski
     - bergie
   category: navigation
+  origin: manual
+  id: 55e51d6f-0a8c-4e13-91b9-546a651891d9
 - datetime: 2024-09-29T19:00:38.502Z
   text: ""
   author: ""
@@ -951,6 +1027,8 @@
     - ihmis-suski
     - bergie
   category: navigation
+  origin: auto
+  id: 1b300519-c8a4-4f35-a209-35aa3129e301
 - datetime: 2024-09-29T19:02:38.502Z
   text: Gybed the Parasailor, finally on the Orca route
   author: bergie
@@ -975,6 +1053,8 @@
     - ihmis-suski
     - bergie
   category: navigation
+  origin: manual
+  id: e09983d2-3902-457c-b1e1-9c92edba5422
 - datetime: 2024-09-29T19:37:38.502Z
   text: Radio weather stays crazy, just heard somebody hailing Figueira da Foz
     pilot. That's 200NM away!
@@ -1000,6 +1080,8 @@
     - ihmis-suski
     - bergie
   category: radio
+  origin: manual
+  id: 93190c7a-a5a5-47b3-83fd-c33a34944ec0
 - datetime: 2024-09-29T20:00:39.500Z
   text: ""
   author: ""
@@ -1024,6 +1106,8 @@
     - ihmis-suski
     - bergie
   category: navigation
+  origin: auto
+  id: 39865529-64ce-4006-8091-c3866ceac9e4
 - datetime: 2024-09-29T21:00:39.500Z
   text: ""
   author: ""
@@ -1048,6 +1132,8 @@
     - ihmis-suski
     - bergie
   category: navigation
+  origin: auto
+  id: 14a80017-34d5-4cd1-8708-59d88b580dcf
 - datetime: 2024-09-29T22:00:39.603Z
   text: ""
   author: ""
@@ -1072,6 +1158,8 @@
     - ihmis-suski
     - bergie
   category: navigation
+  origin: auto
+  id: 4fa9e4b9-057b-4183-9210-412a58b15f16
 - datetime: 2024-09-29T22:33:39.596Z
   text: Enabled AIS "dangerous vessel alarm" on the Tritons. Let's see how well it
     works offshore
@@ -1097,6 +1185,8 @@
     - ihmis-suski
     - bergie
   category: maintenance
+  origin: manual
+  id: e274240d-fd88-4243-98b3-1895007eeebc
 - datetime: 2024-09-29T23:00:39.897Z
   text: ""
   author: ""
@@ -1120,3 +1210,6 @@
   crewNames:
     - ihmis-suski
     - bergie
+  category: navigation
+  origin: auto
+  id: 886f2c73-e267-4450-a6e1-9caa55519f1e

@@ -21,6 +21,8 @@
     - ihmis-suski
     - bergie
   category: maintenance
+  origin: manual
+  id: 091bb830-0cc0-4450-aee7-9a721a5a2c9c
 - datetime: 2025-02-15T13:47:27.600Z
   text: Watermaker 255ppm
   author: bergie
@@ -44,6 +46,8 @@
     - ihmis-suski
     - bergie
   category: maintenance
+  origin: manual
+  id: 91ac475b-b99d-4e3c-893f-8d19bf9936bd
 - datetime: 2025-02-15T14:49:29.600Z
   text: Stopped watermaker, 240ppm
   author: bergie
@@ -67,6 +71,8 @@
     - ihmis-suski
     - bergie
   category: maintenance
+  origin: manual
+  id: ca9cc7be-8abc-46bb-9dfb-120552da3009
 - datetime: 2025-02-15T14:54:26.598Z
   text: Started main engine
   author: ""
@@ -90,6 +96,8 @@
     - ihmis-suski
     - bergie
   category: navigation
+  origin: auto
+  id: 22761140-e756-45db-b1a0-98de53995964
 - datetime: 2025-02-15T15:02:31.603Z
   text: Anchor up, motoring
   author: bergie
@@ -113,6 +121,8 @@
     - ihmis-suski
     - bergie
   category: navigation
+  origin: manual
+  id: dc0ad81a-6bdc-4b4a-aaba-5e0510eaefef
 - datetime: 2025-02-15T15:27:31.596Z
   text: Depth sounder is potentially out again. Came back a minute later at depth
     ~40m
@@ -141,6 +151,8 @@
     - ihmis-suski
     - bergie
   category: maintenance
+  origin: manual
+  id: bb2689e6-25d2-4385-82e5-6d1231d47618
 - datetime: 2025-02-15T15:54:52.000Z
   text: Anchored
   author: ""
@@ -166,6 +178,8 @@
     - bergie
   end: true
   category: navigation
+  origin: auto
+  id: 808e9d4c-b7e3-4332-aa27-18d92b8761ad
 - datetime: 2025-02-15T16:00:44.000Z
   text: Stopped main engine
   author: ""
@@ -190,3 +204,5 @@
     - ihmis-suski
     - bergie
   category: navigation
+  origin: auto
+  id: d61880e8-c14e-4bfa-b243-248df35680c4

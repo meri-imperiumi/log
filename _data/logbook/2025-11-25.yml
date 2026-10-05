@@ -20,6 +20,8 @@
     - ihmis-suski
     - bergie
   category: navigation
+  origin: auto
+  id: 4603aea2-f03a-4477-8e2e-dc912fcb44bb
 - datetime: 2025-11-25T13:37:50.499Z
   text: Anchor up, motoring
   author: ""
@@ -43,6 +45,8 @@
     - ihmis-suski
     - bergie
   category: navigation
+  origin: auto
+  id: 4ee98aff-a69b-42cd-abf1-4f478e838f7c
 - datetime: 2025-11-25T14:00:19.500Z
   text: ""
   author: ""
@@ -66,6 +70,8 @@
     - ihmis-suski
     - bergie
   category: navigation
+  origin: auto
+  id: 001d0e96-8c9d-4fd8-a8c7-7fabeb06d3e8
 - datetime: 2025-11-25T14:35:21.500Z
   text: Added a zip tie to in attempt to keep wind sensor mast wire tensioned and
     in its track
@@ -90,6 +96,8 @@
     - ihmis-suski
     - bergie
   category: maintenance
+  origin: manual
+  id: 1f42b0d9-3e31-4d40-a168-56dab5d66975
 - datetime: 2025-11-25T15:00:22.502Z
   text: ""
   author: ""
@@ -113,6 +121,8 @@
     - ihmis-suski
     - bergie
   category: navigation
+  origin: auto
+  id: 9341ce16-5a68-47d3-aa89-268a2633f4db
 - datetime: 2025-11-25T16:00:24.499Z
   text: ""
   author: ""
@@ -136,6 +146,8 @@
     - ihmis-suski
     - bergie
   category: navigation
+  origin: auto
+  id: 01ad7cbf-0de5-4df0-bf18-22a0ba876c80
 - datetime: 2025-11-25T17:00:26.598Z
   text: ""
   author: ""
@@ -159,6 +171,8 @@
     - ihmis-suski
     - bergie
   category: navigation
+  origin: auto
+  id: b843323c-2821-40fb-adff-44b348ded042
 - datetime: 2025-11-25T17:52:11.596Z
   text: Anchored
   author: ""
@@ -183,6 +197,8 @@
     - bergie
   end: true
   category: navigation
+  origin: auto
+  id: c72a713c-cd69-4478-8ae8-69ac7553a246
 - datetime: 2025-11-25T18:00:07.603Z
   text: Stopped main engine
   author: ""
@@ -206,6 +222,8 @@
     - ihmis-suski
     - bergie
   category: navigation
+  origin: auto
+  id: c74494d2-223c-4131-ac92-51ad2ef1e8f8
 - datetime: 2025-11-25T19:57:35.001Z
   text: "Started watermaker "
   author: bergie
@@ -228,6 +246,8 @@
     - ihmis-suski
     - bergie
   category: maintenance
+  origin: manual
+  id: 0f353abc-2e5c-4f2f-9770-d633938cfb85
 - datetime: 2025-11-25T20:10:35.001Z
   text: Watermaker 288ppm
   author: bergie
@@ -250,6 +270,8 @@
     - ihmis-suski
     - bergie
   category: maintenance
+  origin: manual
+  id: db153e34-fc06-4db2-8253-9e2855891173
 - datetime: 2025-11-25T20:48:36.102Z
   text: Stopped watermaker, 259ppm
   author: bergie
@@ -272,3 +294,5 @@
     - ihmis-suski
     - bergie
   category: maintenance
+  origin: manual
+  id: 72a64f41-43b8-4348-9952-82aca5e781b2

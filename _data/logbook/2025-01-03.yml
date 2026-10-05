@@ -25,6 +25,37 @@
     - ihmis-suski
     - bergie
   category: navigation
+  origin: auto
+  id: 3c5a90a1-5a5d-474e-9b1d-9ccb8502f398
+- datetime: 2025-01-03T00:27:45.100Z
+  text: "Sails set: Main (1st reef), Staysail"
+  author: ""
+  position:
+    latitude: 16.848616
+    longitude: -25.6717039
+    source: GPS
+  heading: 205
+  course: 193
+  speed:
+    stw: 1.8
+    sog: 1.4
+  log: 8594.3
+  waypoint:
+    longitude: -59.39787
+    latitude: 13.02865
+  barometer: 1016.83
+  wind:
+    speed: 12
+    direction: 81
+  engine:
+    hours: 931.8
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: navigation
+  origin: auto
+  id: 5c571996-4523-479a-9fba-0c35ca363521
 - datetime: 2025-01-03T00:27:45.100Z
   text: |-
     Sails set: Main (1st reef), Staysail.
@@ -54,33 +85,8 @@
     - ihmis-suski
     - bergie
   category: navigation
-- datetime: 2025-01-03T00:27:45.100Z
-  text: "Sails set: Main (1st reef), Staysail"
-  author: ""
-  position:
-    latitude: 16.848616
-    longitude: -25.6717039
-    source: GPS
-  heading: 205
-  course: 193
-  speed:
-    stw: 1.8
-    sog: 1.4
-  log: 8594.3
-  waypoint:
-    longitude: -59.39787
-    latitude: 13.02865
-  barometer: 1016.83
-  wind:
-    speed: 12
-    direction: 81
-  engine:
-    hours: 931.8
-  vhf: "16"
-  crewNames:
-    - ihmis-suski
-    - bergie
-  category: navigation
+  origin: manual
+  id: 711e830e-71e5-4399-b889-6777e4a9675d
 - datetime: 2025-01-03T01:00:51.100Z
   text: Bergie on watch
   author: bergie
@@ -108,6 +114,8 @@
     - ihmis-suski
     - bergie
   category: navigation
+  origin: manual
+  id: f7c12ce2-ae19-489c-bf20-7dfe9d0a845a
 - datetime: 2025-01-03T02:00:49.200Z
   text: ""
   author: ""
@@ -135,6 +143,8 @@
     - ihmis-suski
     - bergie
   category: navigation
+  origin: auto
+  id: 66f622dc-4dad-4100-9dd9-4827afdc8c76
 - datetime: 2025-01-03T03:00:47.200Z
   text: ""
   author: ""
@@ -162,6 +172,8 @@
     - ihmis-suski
     - bergie
   category: navigation
+  origin: auto
+  id: 5174925a-2978-4036-9a77-f8908fb2de9b
 - datetime: 2025-01-03T03:11:47.200Z
   text: Tanker Chip southbound passing 3NM behind us, lights visible. Vessel 1.
   author: bergie
@@ -189,6 +201,8 @@
     - ihmis-suski
     - bergie
   category: navigation
+  origin: manual
+  id: 7eedabd2-c08e-4869-b6a9-7e7871b992c8
 - datetime: 2025-01-03T04:00:47.200Z
   text: "Quite a few shooting stars tonight "
   author: bergie
@@ -216,6 +230,8 @@
     - ihmis-suski
     - bergie
   category: navigation
+  origin: manual
+  id: 40a8a570-3754-4f59-a6ac-70982479bf50
 - datetime: 2025-01-03T04:51:45.200Z
   text: Warship trying to hail a motor vessel. Sounds like Indian accent
   author: bergie
@@ -243,6 +259,8 @@
     - ihmis-suski
     - bergie
   category: radio
+  origin: manual
+  id: 5299f417-668b-40ee-8c7a-584700af2266
 - datetime: 2025-01-03T05:00:45.200Z
   text: ""
   author: ""
@@ -270,6 +288,8 @@
     - ihmis-suski
     - bergie
   category: navigation
+  origin: auto
+  id: e7d7b075-c121-4467-b07c-fede2bce8757
 - datetime: 2025-01-03T05:36:45.200Z
   text: There's something very much resembling the Southern Cross on the sky. Can
     we see it this far north?
@@ -298,6 +318,8 @@
     - ihmis-suski
     - bergie
   category: navigation
+  origin: manual
+  id: 1129572f-293b-473d-b4ac-f030e0823aa5
 - datetime: 2025-01-03T06:00:45.200Z
   text: ""
   author: ""
@@ -325,6 +347,8 @@
     - ihmis-suski
     - bergie
   category: navigation
+  origin: auto
+  id: 3ac580da-2536-4fce-9371-7cb10315b060
 - datetime: 2025-01-03T06:40:45.200Z
   text: Gybed back to wing on wing
   author: bergie
@@ -352,6 +376,8 @@
     - ihmis-suski
     - bergie
   category: navigation
+  origin: manual
+  id: 487d5e17-7c81-4c7f-b6d2-61b1c27b463f
 - datetime: 2025-01-03T06:56:44.200Z
   text: Suski on watch
   author: ihmis-suski
@@ -379,6 +405,8 @@
     - ihmis-suski
     - bergie
   category: navigation
+  origin: manual
+  id: 2c9acd49-e3c6-402c-b265-c60fb75e93a4
 - datetime: 2025-01-03T07:00:44.200Z
   text: ""
   author: ""
@@ -406,6 +434,8 @@
     - ihmis-suski
     - bergie
   category: navigation
+  origin: auto
+  id: 1e58ed8d-cfad-4107-8c1a-aa40b812c1c6
 - datetime: 2025-01-03T08:00:42.300Z
   text: ""
   author: ""
@@ -433,6 +463,8 @@
     - ihmis-suski
     - bergie
   category: navigation
+  origin: auto
+  id: be07bca8-7e18-435a-82d1-05121c8cceb4
 - datetime: 2025-01-03T08:15:42.300Z
   text: "Sun. "
   author: ihmis-suski
@@ -464,6 +496,8 @@
     seaState: 4
     cloudCoverage: 3
     visibility: 6
+  origin: manual
+  id: 5fe24797-e819-492b-929e-875c42c01b66
 - datetime: 2025-01-03T09:00:41.299Z
   text: ""
   author: ""
@@ -491,6 +525,8 @@
     - ihmis-suski
     - bergie
   category: navigation
+  origin: auto
+  id: 70beedfc-95fa-463e-84b4-b2e9af8e49d1
 - datetime: 2025-01-03T10:00:40.300Z
   text: ""
   author: ""
@@ -518,6 +554,8 @@
     - ihmis-suski
     - bergie
   category: navigation
+  origin: auto
+  id: d939e611-db9f-4562-8f3e-c738552161c6
 - datetime: 2025-01-03T10:07:39.299Z
   text: Gybed. Wind shifted again.
   author: ihmis-suski
@@ -545,6 +583,8 @@
     - ihmis-suski
     - bergie
   category: navigation
+  origin: manual
+  id: 78b7ebfb-1750-4ff9-961d-d5266490b46b
 - datetime: 2025-01-03T11:00:38.300Z
   text: ""
   author: ""
@@ -572,6 +612,8 @@
     - ihmis-suski
     - bergie
   category: navigation
+  origin: auto
+  id: 66b3922e-16c2-491a-8eb7-ce6e9859fead
 - datetime: 2025-01-03T11:32:37.299Z
   text: Gybed to wing on wing.
   author: ihmis-suski
@@ -599,6 +641,8 @@
     - ihmis-suski
     - bergie
   category: navigation
+  origin: manual
+  id: 943c7be8-dda3-4688-b61b-0cbf45dee940
 - datetime: 2025-01-03T12:00:37.299Z
   text: ""
   author: ""
@@ -626,6 +670,8 @@
     - ihmis-suski
     - bergie
   category: navigation
+  origin: auto
+  id: 46407340-5ba7-4cf4-81b0-34305590c405
 - datetime: 2025-01-03T12:10:37.299Z
   text: Wind is back.
   author: ihmis-suski
@@ -653,6 +699,8 @@
     - ihmis-suski
     - bergie
   category: navigation
+  origin: manual
+  id: 9882ca94-671c-42f2-aea0-61d8a2e03dfd
 - datetime: 2025-01-03T12:32:37.401Z
   text: "Started watermaker "
   author: bergie
@@ -680,6 +728,8 @@
     - ihmis-suski
     - bergie
   category: maintenance
+  origin: manual
+  id: a3f49623-6226-4478-90e7-53a7ccaa38b4
 - datetime: 2025-01-03T12:44:37.401Z
   text: Watermaker 214ppm
   author: bergie
@@ -707,6 +757,8 @@
     - ihmis-suski
     - bergie
   category: maintenance
+  origin: manual
+  id: 5be8f984-8171-4dfc-8eda-c5ca53c689bf
 - datetime: 2025-01-03T13:00:36.400Z
   text: Bergie on watch
   author: bergie
@@ -738,6 +790,8 @@
     seaState: 4
     cloudCoverage: 4
     visibility: 7
+  origin: manual
+  id: 2e7052fc-56cf-43f5-9e17-02a6956fd22a
 - datetime: 2025-01-03T13:06:12.400Z
   text: "Sails set: Main, Genoa 1 (30% furled), Staysail"
   author: ""
@@ -765,6 +819,8 @@
     - ihmis-suski
     - bergie
   category: navigation
+  origin: auto
+  id: 106b3385-7616-47ae-af09-c4ae9036d1cc
 - datetime: 2025-01-03T13:57:35.398Z
   text: Lots of flying fish leaping into the air at our bow
   author: bergie
@@ -792,6 +848,8 @@
     - ihmis-suski
     - bergie
   category: navigation
+  origin: manual
+  id: 08e3fc82-3174-45ef-9374-ca776fa108c5
 - datetime: 2025-01-03T14:00:35.398Z
   text: ""
   author: ""
@@ -819,6 +877,8 @@
     - ihmis-suski
     - bergie
   category: navigation
+  origin: auto
+  id: 111f6938-7713-4fc8-9217-bdccfb8b2227
 - datetime: 2025-01-03T14:23:34.400Z
   text: Stopped watermaker, 209ppm
   author: bergie
@@ -846,6 +906,8 @@
     - ihmis-suski
     - bergie
   category: maintenance
+  origin: manual
+  id: a4d051cb-568e-4b49-a675-ab1b1c9be4ec
 - datetime: 2025-01-03T15:00:33.401Z
   text: ""
   author: ""
@@ -873,6 +935,8 @@
     - ihmis-suski
     - bergie
   category: navigation
+  origin: auto
+  id: 113a42ed-1c23-4477-b65a-f2ecc270cdfc
 - datetime: 2025-01-03T16:00:29.497Z
   text: ""
   author: ""
@@ -900,6 +964,8 @@
     - ihmis-suski
     - bergie
   category: navigation
+  origin: auto
+  id: 85cee0d0-bcdc-4283-8962-35f7226a120a
 - datetime: 2025-01-03T16:01:05.497Z
   text: "Sails set: Genoa 1 (30% furled), Staysail"
   author: ""
@@ -927,6 +993,8 @@
     - ihmis-suski
     - bergie
   category: navigation
+  origin: auto
+  id: 9b872ad9-36c2-4fc9-b88f-9b94b612fefb
 - datetime: 2025-01-03T16:27:30.502Z
   text: "Sails set: Parasailor "
   author: bergie
@@ -954,6 +1022,8 @@
     - ihmis-suski
     - bergie
   category: navigation
+  origin: manual
+  id: e1c509ed-5d12-4fa4-9f7f-f3300ddeb179
 - datetime: 2025-01-03T16:59:13.497Z
   text: The track car in the headboard of the mainsail is broken. We have spares,
     but this one is sown on, so it'll be trickier to swap
@@ -982,6 +1052,8 @@
     - ihmis-suski
     - bergie
   category: maintenance
+  origin: manual
+  id: ef069bfa-b92c-4683-9db7-dbba47dc8397
 - datetime: 2025-01-03T17:00:14.502Z
   text: ""
   author: ""
@@ -1009,6 +1081,8 @@
     - ihmis-suski
     - bergie
   category: navigation
+  origin: auto
+  id: 7aae16fc-da61-4472-938a-33f02fcb0390
 - datetime: 2025-01-03T17:05:13.497Z
   text: Another wind hole, hopefully not for long
   author: bergie
@@ -1040,6 +1114,8 @@
     seaState: 4
     cloudCoverage: 6
     visibility: 7
+  origin: manual
+  id: 9d94b8bb-7801-4eb7-84d8-e0e291386e2b
 - datetime: 2025-01-03T18:00:12.499Z
   text: ""
   author: ""
@@ -1067,6 +1143,8 @@
     - ihmis-suski
     - bergie
   category: navigation
+  origin: auto
+  id: 5f0e5946-4cb1-4cf7-918e-3607480265c7
 - datetime: 2025-01-03T19:00:10.502Z
   text: Suski on watch.
   author: ihmis-suski
@@ -1098,6 +1176,8 @@
     seaState: 4
     cloudCoverage: 3
     visibility: 7
+  origin: manual
+  id: 4d0eb2c6-eb8e-46c3-aa64-b49b3c68dbf4
 - datetime: 2025-01-03T20:00:10.598Z
   text: ""
   author: ""
@@ -1125,6 +1205,8 @@
     - ihmis-suski
     - bergie
   category: navigation
+  origin: auto
+  id: 39678db2-5b19-4e46-8c68-cd89f3173518
 - datetime: 2025-01-03T20:22:09.600Z
   text: '"One of you is missing navigational lights, pls check" very distant vhf
     message'
@@ -1153,6 +1235,8 @@
     - ihmis-suski
     - bergie
   category: radio
+  origin: manual
+  id: e7f43052-d41a-4e5f-8386-f184ce2e18e0
 - datetime: 2025-01-03T21:00:08.601Z
   text: ""
   author: ""
@@ -1180,6 +1264,8 @@
     - ihmis-suski
     - bergie
   category: navigation
+  origin: auto
+  id: 017e5475-4654-49be-86f6-5d8182ebfbed
 - datetime: 2025-01-03T22:00:08.601Z
   text: ""
   author: ""
@@ -1207,6 +1293,8 @@
     - ihmis-suski
     - bergie
   category: navigation
+  origin: auto
+  id: df6266fc-9f2a-4a2c-b2ba-ad6a49b375e9
 - datetime: 2025-01-03T23:00:07.603Z
   text: ""
   author: ""
@@ -1233,3 +1321,6 @@
   crewNames:
     - ihmis-suski
     - bergie
+  category: navigation
+  origin: auto
+  id: 2535fb3f-79cd-4994-8218-b6251b782bee

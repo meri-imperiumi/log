@@ -22,6 +22,8 @@
     - ihmis-suski
     - bergie
   category: navigation
+  origin: manual
+  id: 5a9d2c0e-2b9e-434b-b9af-a0a98fc992a0
 - datetime: 2024-10-16T01:00:33.800Z
   text: ""
   author: ""
@@ -46,6 +48,8 @@
     - ihmis-suski
     - bergie
   category: navigation
+  origin: auto
+  id: 20fed76f-f53f-4607-8881-b2950a9b8437
 - datetime: 2024-10-16T02:00:35.800Z
   text: ""
   author: ""
@@ -70,6 +74,8 @@
     - ihmis-suski
     - bergie
   category: navigation
+  origin: auto
+  id: c7ef123c-29eb-475d-a2aa-19924a0ce8a6
 - datetime: 2024-10-16T03:00:36.800Z
   text: ""
   author: ""
@@ -94,6 +100,8 @@
     - ihmis-suski
     - bergie
   category: navigation
+  origin: auto
+  id: 7f6b7886-60e9-402f-bce9-e65eab7bbbcb
 - datetime: 2024-10-16T04:00:38.800Z
   text: Battery is back to full
   author: bergie
@@ -122,6 +130,8 @@
     seaState: 4
     cloudCoverage: 2
     visibility: 7
+  origin: manual
+  id: 19ae6bef-c3ca-406b-90df-ac31efa3a79b
 - datetime: 2024-10-16T05:00:40.800Z
   text: ""
   author: ""
@@ -146,6 +156,8 @@
     - ihmis-suski
     - bergie
   category: navigation
+  origin: auto
+  id: 6a47379a-32af-46b7-b5b2-f2560255d0f0
 - datetime: 2024-10-16T05:21:41.800Z
   text: Moon is starting to set
   author: bergie
@@ -170,6 +182,8 @@
     - ihmis-suski
     - bergie
   category: navigation
+  origin: manual
+  id: 6d20cd33-82a4-48fd-b97b-4f4b1375676d
 - datetime: 2024-10-16T05:44:41.900Z
   text: "Notable: with latest Cerbo update, DC Power is no longer negative when
     alternator is running, so it knows how to calculate that"
@@ -195,6 +209,8 @@
     - ihmis-suski
     - bergie
   category: maintenance
+  origin: manual
+  id: d37cbef9-5aec-482f-aa9d-7777339bf453
 - datetime: 2024-10-16T06:00:41.900Z
   text: ""
   author: ""
@@ -219,6 +235,8 @@
     - ihmis-suski
     - bergie
   category: navigation
+  origin: auto
+  id: 4052f3ba-6189-4269-bdca-da6f6cb07749
 - datetime: 2024-10-16T06:04:41.900Z
   text: Watch change. Bergie to bed.
   author: ihmis-suski
@@ -243,6 +261,8 @@
     - ihmis-suski
     - bergie
   category: navigation
+  origin: manual
+  id: 1d4c0a8d-aea5-4242-a4e0-0f156e930e3c
 - datetime: 2024-10-16T06:50:42.899Z
   text: Still no wind.
   author: ihmis-suski
@@ -271,6 +291,8 @@
     seaState: 4
     cloudCoverage: 2
     visibility: 7
+  origin: manual
+  id: 742dbc92-65c2-4fe4-b8f1-7a6290b2c3ba
 - datetime: 2024-10-16T07:00:43.900Z
   text: ""
   author: ""
@@ -295,6 +317,8 @@
     - ihmis-suski
     - bergie
   category: navigation
+  origin: auto
+  id: a370e916-1907-4b86-b893-7a5a2e93e059
 - datetime: 2024-10-16T08:00:44.899Z
   text: ""
   author: ""
@@ -319,6 +343,8 @@
     - ihmis-suski
     - bergie
   category: navigation
+  origin: auto
+  id: c4418b48-4d27-4bf0-86b6-3fdba68fde21
 - datetime: 2024-10-16T09:00:41.900Z
   text: ""
   author: ""
@@ -343,6 +369,8 @@
     - ihmis-suski
     - bergie
   category: navigation
+  origin: auto
+  id: 4f6f34b3-c9da-4292-88aa-e8c1b0f70ec6
 - datetime: 2024-10-16T10:00:41.900Z
   text: ""
   author: ""
@@ -367,6 +395,8 @@
     - ihmis-suski
     - bergie
   category: navigation
+  origin: auto
+  id: 94342480-e5a1-4caa-9b2a-27063906a73c
 - datetime: 2024-10-16T11:00:43.001Z
   text: ""
   author: ""
@@ -391,6 +421,8 @@
     - ihmis-suski
     - bergie
   category: navigation
+  origin: auto
+  id: f36324f1-2f3e-4428-ab68-0a94870fda25
 - datetime: 2024-10-16T12:00:44.998Z
   text: Watch change
   author: bergie
@@ -415,6 +447,8 @@
     - ihmis-suski
     - bergie
   category: navigation
+  origin: manual
+  id: 88c591e2-d87e-4d49-b495-2c3e12c66d97
 - datetime: 2024-10-16T12:26:44.998Z
   text: Starlink took 1h to come online. Weather routing suggests catching wind a
     little bit quicker if we head further east
@@ -444,6 +478,8 @@
     seaState: 4
     cloudCoverage: 4
     visibility: 7
+  origin: manual
+  id: 347847ac-a75e-46e5-909a-991cd17e095f
 - datetime: 2024-10-16T13:00:46.000Z
   text: ""
   author: ""
@@ -468,6 +504,8 @@
     - ihmis-suski
     - bergie
   category: navigation
+  origin: auto
+  id: 335cf9cf-3098-47ea-87ff-b7cd4dad2ef2
 - datetime: 2024-10-16T14:00:47.001Z
   text: ""
   author: ""
@@ -492,6 +530,8 @@
     - ihmis-suski
     - bergie
   category: navigation
+  origin: auto
+  id: 84780418-a7b2-4515-a61b-fce803c7684a
 - datetime: 2024-10-16T15:00:47.097Z
   text: ""
   author: ""
@@ -516,6 +556,8 @@
     - ihmis-suski
     - bergie
   category: navigation
+  origin: auto
+  id: ac8b4a9a-43c2-4a50-8ce7-9c7334b7442f
 - datetime: 2024-10-16T16:00:49.100Z
   text: ""
   author: ""
@@ -540,6 +582,8 @@
     - ihmis-suski
     - bergie
   category: navigation
+  origin: auto
+  id: 81e89ca5-1725-464b-b239-e19250f55e7d
 - datetime: 2024-10-16T16:38:49.100Z
   text: Half way mark!
   author: ihmis-suski
@@ -564,6 +608,8 @@
     - ihmis-suski
     - bergie
   category: navigation
+  origin: manual
+  id: 6694b910-1e28-4f1d-9b5e-6681996bf44b
 - datetime: 2024-10-16T17:00:50.502Z
   text: ""
   author: ""
@@ -588,6 +634,8 @@
     - ihmis-suski
     - bergie
   category: navigation
+  origin: auto
+  id: e0ea2c92-6769-4901-b1e7-229ad58d55c1
 - datetime: 2024-10-16T17:05:37.497Z
   text: Motor stopped, sailing with Main, Staysail
   author: ""
@@ -612,6 +660,8 @@
     - ihmis-suski
     - bergie
   category: navigation
+  origin: auto
+  id: c4700e66-120f-40a3-8720-a99287dd8f07
 - datetime: 2024-10-16T17:28:50.502Z
   text: Watermaker on
   author: ihmis-suski
@@ -636,6 +686,8 @@
     - ihmis-suski
     - bergie
   category: maintenance
+  origin: manual
+  id: d38b51ba-5a88-416e-aed3-7cd8fa6ef06a
 - datetime: 2024-10-16T18:00:49.497Z
   text: 632ppm. Watch change
   author: ihmis-suski
@@ -660,6 +712,8 @@
     - ihmis-suski
     - bergie
   category: maintenance
+  origin: manual
+  id: 2c8eaa4d-e5f4-4894-8c7e-67f84fe5cd2c
 - datetime: 2024-10-16T18:09:48.499Z
   text: |-
     Started at 24 %
@@ -689,6 +743,8 @@
     - ihmis-suski
     - bergie
   category: maintenance
+  origin: manual
+  id: e98cb268-2283-44a2-85bd-ca3041699e9d
 - datetime: 2024-10-16T19:00:45.497Z
   text: Autopilot deactivated, windvane steering
   author: bergie
@@ -713,6 +769,8 @@
     - ihmis-suski
     - bergie
   category: navigation
+  origin: manual
+  id: 609333f9-4291-4aa4-acb0-53c719cb09a0
 - datetime: 2024-10-16T19:00:46.502Z
   text: ""
   author: ""
@@ -737,30 +795,8 @@
     - ihmis-suski
     - bergie
   category: navigation
-- datetime: 2024-10-16T19:10:47.500Z
-  text: 459ppm
-  author: ihmis-suski
-  position:
-    longitude: -14.8370833
-    latitude: 30.9552746
-    source: GPS
-  heading: 140
-  course: 147
-  speed:
-    stw: 3.4
-    sog: 4.8
-  log: 7320.1
-  barometer: 1021.44
-  wind:
-    speed: 10.9
-    direction: 5
-  engine:
-    hours: 903.2
-  vhf: "16"
-  crewNames:
-    - ihmis-suski
-    - bergie
-  category: maintenance
+  origin: auto
+  id: f88c0db8-bbae-4586-b180-718c7ab5e545
 - datetime: 2024-10-16T19:10:47.500Z
   text: Clouds, so no comet.
   author: ihmis-suski
@@ -789,6 +825,34 @@
     seaState: 3
     cloudCoverage: 7
     visibility: 7
+  origin: manual
+  id: adac9f1d-6048-41ca-95ed-e2d5d3065f30
+- datetime: 2024-10-16T19:10:47.500Z
+  text: 459ppm
+  author: ihmis-suski
+  position:
+    longitude: -14.8370833
+    latitude: 30.9552746
+    source: GPS
+  heading: 140
+  course: 147
+  speed:
+    stw: 3.4
+    sog: 4.8
+  log: 7320.1
+  barometer: 1021.44
+  wind:
+    speed: 10.9
+    direction: 5
+  engine:
+    hours: 903.2
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
+  category: maintenance
+  origin: manual
+  id: d7ff120e-73ef-4814-b37b-9dc42765fbc5
 - datetime: 2024-10-16T20:00:45.600Z
   text: ""
   author: ""
@@ -813,6 +877,8 @@
     - ihmis-suski
     - bergie
   category: navigation
+  origin: auto
+  id: 25ae5cbd-41d9-471e-b3b0-c91f05b880eb
 - datetime: 2024-10-16T20:15:45.600Z
   text: 359ppm starting production water
   author: ihmis-suski
@@ -837,6 +903,8 @@
     - ihmis-suski
     - bergie
   category: maintenance
+  origin: manual
+  id: c45f5203-6756-4ce7-b969-15ec09119123
 - datetime: 2024-10-16T21:00:44.601Z
   text: ""
   author: ""
@@ -861,6 +929,8 @@
     - ihmis-suski
     - bergie
   category: navigation
+  origin: auto
+  id: 29fe6b92-1e61-4ff7-94d4-9da96d3dd9e2
 - datetime: 2024-10-16T21:59:43.603Z
   text: |-
     312pp.
@@ -888,6 +958,8 @@
     - ihmis-suski
     - bergie
   category: maintenance
+  origin: manual
+  id: fb93e484-42bc-4866-8362-cef185d0c66b
 - datetime: 2024-10-16T22:00:43.596Z
   text: ""
   author: ""
@@ -912,6 +984,8 @@
     - ihmis-suski
     - bergie
   category: navigation
+  origin: auto
+  id: 6f45261c-0d96-417f-a78c-609e9737aebe
 - datetime: 2024-10-16T22:08:42.598Z
   text: Hydro on.
   author: ihmis-suski
@@ -936,6 +1010,8 @@
     - ihmis-suski
     - bergie
   category: maintenance
+  origin: manual
+  id: 76eb9810-4c0f-4b67-8320-5fb33319552b
 - datetime: 2024-10-16T23:00:41.600Z
   text: ""
   author: ""
@@ -960,6 +1036,8 @@
     - ihmis-suski
     - bergie
   category: navigation
+  origin: auto
+  id: aa9fa892-587b-4913-8152-1daba9480b12
 - datetime: 2024-10-16T23:41:40.601Z
   text: Watermaker 317ppm, 5th canister = 47%
   author: bergie
@@ -984,3 +1062,5 @@
     - ihmis-suski
     - bergie
   category: maintenance
+  origin: manual
+  id: 7caba1ea-1761-4a49-987d-bfb3562ef544

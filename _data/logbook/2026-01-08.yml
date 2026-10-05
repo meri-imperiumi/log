@@ -22,6 +22,9 @@
   crewNames:
     - ihmis-suski
     - bergie
+  category: navigation
+  origin: auto
+  id: 8b363eea-8894-4eff-a88d-63fc13d63f40
 - datetime: 2026-01-08T19:05:11.801Z
   text: Started main engine
   author: ""
@@ -45,6 +48,8 @@
     - ihmis-suski
     - bergie
   category: navigation
+  origin: auto
+  id: 4d4af5b3-ca40-45c7-a3fd-5599fa2235a6
 - datetime: 2026-01-08T19:09:44.800Z
   text: Motoring
   author: ""
@@ -71,6 +76,8 @@
     - ihmis-suski
     - bergie
   category: navigation
+  origin: auto
+  id: 815d1581-66b7-4adc-83c8-6bdd0ce7f8de
 - datetime: 2026-01-08T19:21:40.800Z
   text: Anchored
   author: ""
@@ -98,6 +105,8 @@
     - bergie
   end: true
   category: navigation
+  origin: auto
+  id: 01a8203a-32a5-44e9-bd1d-f1cb346895a0
 - datetime: 2026-01-08T19:26:03.801Z
   text: Stopped main engine
   author: ""
@@ -121,6 +130,8 @@
     - ihmis-suski
     - bergie
   category: navigation
+  origin: auto
+  id: 92fdb253-efad-4a2f-a7d7-5b2a5370b112
 - datetime: 2026-01-08T22:28:54.003Z
   text: Canal advisor on board, we are callsign 34E
   author: bergie
@@ -143,6 +154,8 @@
     - ihmis-suski
     - bergie
   category: navigation
+  origin: manual
+  id: ca744c31-59f9-4268-964c-5d904fd5dbc0
 - datetime: 2026-01-08T22:33:23.001Z
   text: Started main engine
   author: ""
@@ -165,6 +178,8 @@
     - ihmis-suski
     - bergie
   category: navigation
+  origin: auto
+  id: af1351f5-fa7b-4d69-a764-0b3c363f7875
 - datetime: 2026-01-08T22:36:20.000Z
   text: Anchor up, motoring
   author: ""
@@ -187,6 +202,8 @@
     - ihmis-suski
     - bergie
   category: navigation
+  origin: auto
+  id: fe558e37-3e32-45e6-b42c-cf996b599413
 - datetime: 2026-01-08T23:00:57.996Z
   text: ""
   author: ""
@@ -212,3 +229,5 @@
     - ihmis-suski
     - bergie
   category: navigation
+  origin: auto
+  id: 337c0081-2fc2-4ad5-a2b1-bc5ce4c5a1f7

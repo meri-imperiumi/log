@@ -28,6 +28,7 @@
     - bergie
     - ihmis-suski
   category: navigation
+  id: f2fcd732-6111-4555-b6be-2fdefe4ae040
 - datetime: 2026-07-15T16:38:20.403Z
   text: Started main engine
   author: ""
@@ -58,6 +59,7 @@
     - bergie
     - ihmis-suski
   category: navigation
+  id: 542d63b6-2fd1-4e5f-805d-9ceff2f24a66
 - datetime: 2026-07-15T16:46:52.403Z
   text: Dropped mooring, motoring
   author: bergie
@@ -89,6 +91,7 @@
     - bergie
     - ihmis-suski
   category: navigation
+  id: b52fe286-dc85-40bb-98ff-f0189617a55a
 - datetime: 2026-07-15T16:56:27.398Z
   text: Motor stopped, sailing with Main, Staysail
   author: bergie
@@ -120,6 +123,7 @@
     - bergie
     - ihmis-suski
   category: navigation
+  id: 5e098313-1049-4d8d-8b57-c1deeae50148
 - datetime: 2026-07-15T16:59:37.401Z
   text: ""
   author: ""
@@ -151,6 +155,7 @@
     - bergie
     - ihmis-suski
   category: navigation
+  id: 5606e959-986e-4b8c-a9fc-baaa2c818576
 - datetime: 2026-07-15T17:04:38.400Z
   text: Windvane steering
   author: bergie
@@ -186,6 +191,7 @@
     seaState: 4
     cloudCoverage: 7
     visibility: 7
+  id: 470351e1-8ecd-43b6-94dd-3c8ebd2c25a4
 - datetime: 2026-07-15T17:55:38.502Z
   text: Out of the lee of Toau
   author: ihmis-suski
@@ -221,6 +227,7 @@
     seaState: 4
     cloudCoverage: 7
     visibility: 7
+  id: bed5fdd3-cca7-4279-a6b2-271e92a9b091
 - datetime: 2026-07-15T17:59:39.500Z
   text: ""
   author: ""
@@ -252,6 +259,7 @@
     - bergie
     - ihmis-suski
   category: navigation
+  id: c8094c9b-1e7a-4eb9-9e18-9014eba8caf4
 - datetime: 2026-07-15T18:59:41.497Z
   text: ""
   author: ""
@@ -283,6 +291,7 @@
     - bergie
     - ihmis-suski
   category: navigation
+  id: c29774bd-e26d-424d-94ad-e0b67f3d7a55
 - datetime: 2026-07-15T19:59:45.497Z
   text: ""
   author: ""
@@ -314,6 +323,7 @@
     - bergie
     - ihmis-suski
   category: navigation
+  id: 624a7d38-e245-4f25-98c6-aa6326d22b08
 - datetime: 2026-07-15T20:24:46.502Z
   text: Started watermaker
   author: bergie
@@ -345,6 +355,7 @@
     - bergie
     - ihmis-suski
   category: maintenance
+  id: f51f0cf5-5b75-40fa-98ad-1ba5bc6fe522
 - datetime: 2026-07-15T20:37:46.502Z
   text: Watermaker 443ppm
   author: bergie
@@ -376,6 +387,7 @@
     - bergie
     - ihmis-suski
   category: maintenance
+  id: 3e39c3a3-70c0-42d7-9c83-fdfa693edeb4
 - datetime: 2026-07-15T20:59:47.596Z
   text: ""
   author: ""
@@ -407,6 +419,7 @@
     - bergie
     - ihmis-suski
   category: navigation
+  id: 619e1339-3a15-48da-803c-58027a29c691
 - datetime: 2026-07-15T22:00:21.600Z
   text: bergie on watch
   author: bergie
@@ -442,6 +455,7 @@
     seaState: 4
     cloudCoverage: 6
     visibility: 7
+  id: 286cc229-9542-4a21-b456-8aab9041a8ff
 - datetime: 2026-07-15T22:01:22.598Z
   text: "Alarm: Water in the bilge (electrical.venus-input.1.stateNumber)"
   author: ""
@@ -473,6 +487,7 @@
     - bergie
     - ihmis-suski
   category: engine
+  id: b5dff9f4-a451-41cb-bfbd-ee845a0b6952
 - datetime: 2026-07-15T22:01:37.009Z
   text: "Pumped the bilge. Cleared after 14 s: Water in the bilge, 4 transitions"
   author: bergie
@@ -504,6 +519,7 @@
     - bergie
     - ihmis-suski
   category: engine
+  id: a0f2c0bf-23e4-4045-a1e9-3db7b6220e85
 - datetime: 2026-07-15T22:23:51.603Z
   text: Watermaker 315ppm
   author: bergie
@@ -535,6 +551,7 @@
     - bergie
     - ihmis-suski
   category: maintenance
+  id: 35216ff6-0c77-4483-83d1-7f74bd2bc6ed
 - datetime: 2026-07-15T22:59:53.600Z
   text: ""
   author: ""
@@ -566,6 +583,7 @@
     - bergie
     - ihmis-suski
   category: navigation
+  id: e3cca1b7-4a68-41be-9e48-a46f39cb74aa
 - datetime: 2026-07-15T23:53:57.600Z
   text: Out of Tuamotus waters. Point Venus 185NM 243°
   author: bergie
@@ -597,6 +615,7 @@
     - bergie
     - ihmis-suski
   category: navigation
+  id: 0bb80112-5e0c-406d-a465-6c30351bf757
 - datetime: 2026-07-15T23:59:57.600Z
   text: ""
   author: ""
@@ -627,3 +646,5 @@
   crewNames:
     - bergie
     - ihmis-suski
+  category: navigation
+  id: 51052d51-3d88-453f-93af-5ca7b4cd2579

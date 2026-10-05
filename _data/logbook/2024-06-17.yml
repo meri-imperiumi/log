@@ -22,6 +22,8 @@
     - bergie
     - martin
   category: navigation
+  origin: auto
+  id: 5e758d08-f64e-4fdd-b0f4-f8b1bb76d2ea
 - datetime: 2024-06-17T08:24:43.600Z
   text: Anchor up, motoring
   author: bergie
@@ -46,6 +48,8 @@
     - bergie
     - martin
   category: navigation
+  origin: manual
+  id: 3bcfa1f7-323d-4450-af0b-a1b7c8ee763e
 - datetime: 2024-06-17T09:00:42.598Z
   text: ""
   author: ""
@@ -71,6 +75,8 @@
     - bergie
     - martin
   category: navigation
+  origin: auto
+  id: 9a36ae78-ef86-4551-9f62-cc6305e16587
 - datetime: 2024-06-17T09:06:14.598Z
   text: Motor stopped, sailing with Main (1st reef), Staysail
   author: ""
@@ -96,6 +102,8 @@
     - bergie
     - martin
   category: navigation
+  origin: auto
+  id: c27162b8-8e15-44de-80f8-5b70e74c5061
 - datetime: 2024-06-17T09:14:43.600Z
   text: Watermaker turned on. 150ppm
   author: ihmis-suski
@@ -121,6 +129,8 @@
     - bergie
     - martin
   category: maintenance
+  origin: manual
+  id: be9debe8-5b27-40f2-8c60-1d095fe36800
 - datetime: 2024-06-17T10:00:43.600Z
   text: ""
   author: ""
@@ -146,6 +156,8 @@
     - bergie
     - martin
   category: navigation
+  origin: auto
+  id: 0d1f7c33-58f7-4a25-b397-04757cc3c2d8
 - datetime: 2024-06-17T11:00:44.601Z
   text: ""
   author: ""
@@ -171,6 +183,8 @@
     - bergie
     - martin
   category: navigation
+  origin: auto
+  id: a7f340f0-6d0e-4e1f-912f-e5375890d4a3
 - datetime: 2024-06-17T11:10:44.601Z
   text: Stopped watermaker, 145ppm
   author: bergie
@@ -196,6 +210,8 @@
     - bergie
     - martin
   category: maintenance
+  origin: manual
+  id: e1d3928b-895a-4c71-b5c3-a794ec436b72
 - datetime: 2024-06-17T11:47:57.600Z
   text: "Sails set: Main, Genoa 1. Turned to follow Lady of Avenel"
   author: bergie
@@ -221,6 +237,8 @@
     - bergie
     - martin
   category: navigation
+  origin: manual
+  id: b06f9b7c-3c1e-4c1a-a969-33443838fed7
 - datetime: 2024-06-17T12:00:45.600Z
   text: ""
   author: ""
@@ -246,6 +264,8 @@
     - bergie
     - martin
   category: navigation
+  origin: auto
+  id: e992e642-f2e3-4ada-a664-5ab6b6dcf9f2
 - datetime: 2024-06-17T13:00:45.600Z
   text: ""
   author: ""
@@ -271,6 +291,8 @@
     - bergie
     - martin
   category: navigation
+  origin: auto
+  id: 241d5485-bae3-4423-b2b3-43f2466055b0
 - datetime: 2024-06-17T13:32:46.598Z
   text: "Sails set: Main, Staysail"
   author: ""
@@ -296,6 +318,8 @@
     - bergie
     - martin
   category: navigation
+  origin: auto
+  id: 9aef48f3-1be2-438f-a1fa-4adc8e900bc8
 - datetime: 2024-06-17T14:00:46.598Z
   text: ""
   author: ""
@@ -321,6 +345,8 @@
     - bergie
     - martin
   category: navigation
+  origin: auto
+  id: efa900f5-be4e-4d0d-8760-564c9c05a322
 - datetime: 2024-06-17T14:45:04.601Z
   text: Sails down, motoring
   author: ""
@@ -346,6 +372,8 @@
     - bergie
     - martin
   category: navigation
+  origin: auto
+  id: 71bb6f21-4e6a-4d92-83f8-6967c5e3413a
 - datetime: 2024-06-17T15:00:46.598Z
   text: ""
   author: ""
@@ -371,6 +399,8 @@
     - bergie
     - martin
   category: navigation
+  origin: auto
+  id: 15791bbd-ec25-4b05-9411-818e9036e2cf
 - datetime: 2024-06-17T15:36:37.600Z
   text: Stopped
   author: ""
@@ -397,3 +427,5 @@
     - martin
   end: true
   category: navigation
+  origin: auto
+  id: ec3fdd4b-80cb-4471-98d7-5d8ad52b8451

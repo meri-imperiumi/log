@@ -24,6 +24,8 @@
     - ihmis-suski
     - bergie
   category: navigation
+  origin: auto
+  id: 243920ce-4e72-42a9-a430-4d3f8f2bde29
 - datetime: 2025-02-18T13:42:24.800Z
   text: Anchor up, motoring
   author: bergie
@@ -50,6 +52,8 @@
     - ihmis-suski
     - bergie
   category: navigation
+  origin: manual
+  id: b95b917b-abeb-4576-915b-6350129fa404
 - datetime: 2025-02-18T13:53:56.800Z
   text: Motor stopped, sailing with Main (1st reef)
   author: bergie
@@ -77,6 +81,8 @@
     - ihmis-suski
     - bergie
   category: navigation
+  origin: manual
+  id: ef50e575-1019-4706-b309-879c70086441
 - datetime: 2025-02-18T13:58:24.800Z
   text: Started watermaker, 251ppm
   author: ihmis-suski
@@ -104,6 +110,8 @@
     - ihmis-suski
     - bergie
   category: maintenance
+  origin: manual
+  id: 0baf6646-5fe1-4277-9b20-6f69ae409817
 - datetime: 2025-02-18T14:00:23.801Z
   text: ""
   author: ""
@@ -131,6 +139,8 @@
     - ihmis-suski
     - bergie
   category: navigation
+  origin: auto
+  id: 36fff9b5-e0db-4c02-8ee2-f1a2e4e007d9
 - datetime: 2025-02-18T14:04:24.800Z
   text: There was a dead chicken in the water
   author: bergie
@@ -162,6 +172,8 @@
     seaState: 2
     cloudCoverage: 8
     visibility: 4
+  origin: manual
+  id: 918cf1e0-dd80-431e-9ec7-12e94f5a3e3f
 - datetime: 2025-02-18T14:15:24.800Z
   text: "Sails set: Main (1st reef), Genoa 1 (30% furled)"
   author: ""
@@ -189,6 +201,8 @@
     - ihmis-suski
     - bergie
   category: navigation
+  origin: auto
+  id: d9f906db-510e-4812-a0d4-cd5316073f78
 - datetime: 2025-02-18T15:00:26.803Z
   text: ""
   author: ""
@@ -216,6 +230,8 @@
     - ihmis-suski
     - bergie
   category: navigation
+  origin: auto
+  id: 5b05be3e-b552-4b98-89b3-b22d9f17fe85
 - datetime: 2025-02-18T15:40:10.899Z
   text: "Sails set: Main (1st reef). Wind is rotating"
   author: bergie
@@ -243,6 +259,8 @@
     - ihmis-suski
     - bergie
   category: navigation
+  origin: manual
+  id: 50981a0c-9f43-464c-a432-e116ea602975
 - datetime: 2025-02-18T15:49:27.897Z
   text: Stopped watermaker, 240ppm. Jug full
   author: ihmis-suski
@@ -270,6 +288,8 @@
     - ihmis-suski
     - bergie
   category: maintenance
+  origin: manual
+  id: e9f4aa4b-878d-41a0-89d8-9126142637f1
 - datetime: 2025-02-18T16:00:28.902Z
   text: ""
   author: ""
@@ -297,6 +317,8 @@
     - ihmis-suski
     - bergie
   category: navigation
+  origin: auto
+  id: cdc1f91e-cd75-41e4-88dd-b560459e485e
 - datetime: 2025-02-18T16:13:17.900Z
   text: Sails down, motoring
   author: ""
@@ -324,6 +346,8 @@
     - ihmis-suski
     - bergie
   category: navigation
+  origin: auto
+  id: 3372a263-4c7d-4e94-9313-7221d5b85379
 - datetime: 2025-02-18T17:00:30.899Z
   text: ""
   author: ""
@@ -351,6 +375,8 @@
     - ihmis-suski
     - bergie
   category: navigation
+  origin: auto
+  id: 102b529f-4881-4692-a291-ccf053d0091c
 - datetime: 2025-02-18T17:11:01.900Z
   text: Anchored
   author: ""
@@ -379,6 +405,8 @@
     - bergie
   end: true
   category: navigation
+  origin: auto
+  id: 4ea7d8ae-88e8-4730-9fb7-c313423ac23d
 - datetime: 2025-02-18T17:16:33.900Z
   text: Stopped main engine
   author: ""
@@ -406,3 +434,5 @@
     - ihmis-suski
     - bergie
   category: navigation
+  origin: auto
+  id: 1f246816-49f0-48f5-8a02-fb580bac0950

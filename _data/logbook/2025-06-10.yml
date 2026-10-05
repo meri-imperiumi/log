@@ -22,6 +22,8 @@
     - ihmis-suski
     - bergie
   category: maintenance
+  origin: manual
+  id: da71a489-ff20-4114-b9a0-b78cdd5f8dc0
 - datetime: 2025-06-10T10:12:46.800Z
   text: Refrigerator is no longer cooling. There is a hissing sound from the
     evaporator regardless of whether fridge is running or not, so seems like a
@@ -47,6 +49,8 @@
     - ihmis-suski
     - bergie
   category: maintenance
+  origin: manual
+  id: a7dc8c13-c3e5-46e8-adde-e510adc08804
 - datetime: 2025-06-10T12:43:58.800Z
   text: Started main engine
   author: ""
@@ -70,6 +74,8 @@
     - ihmis-suski
     - bergie
   category: navigation
+  origin: auto
+  id: e025ac64-65c5-4371-bcc1-53cfacf06a1d
 - datetime: 2025-06-10T13:38:05.900Z
   text: Stopped main engine
   author: ""
@@ -93,3 +99,5 @@
     - ihmis-suski
     - bergie
   category: navigation
+  origin: auto
+  id: d349a2b8-7eef-4c9c-9d3d-3e262024bbbd

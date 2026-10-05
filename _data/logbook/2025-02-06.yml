@@ -24,6 +24,8 @@
     - karin
     - daniel
   category: navigation
+  origin: auto
+  id: a8c13518-19e0-4967-a27d-63347306a214
 - datetime: 2025-02-06T14:49:55.801Z
   text: Stopped main engine, sailing with Main (1st reef), Staysail
   author: bergie
@@ -53,6 +55,8 @@
     - karin
     - daniel
   category: navigation
+  origin: manual
+  id: 6386a4a3-2d73-4a5e-917d-2a54b00931bd
 - datetime: 2025-02-06T15:00:10.803Z
   text: ""
   author: ""
@@ -82,6 +86,8 @@
     - karin
     - daniel
   category: navigation
+  origin: auto
+  id: 7744f6a3-9393-47da-a58c-60cfc341a7c0
 - datetime: 2025-02-06T15:11:09.798Z
   text: Windvane steering
   author: bergie
@@ -111,6 +117,8 @@
     - karin
     - daniel
   category: navigation
+  origin: manual
+  id: 631b6979-dacf-4307-b6a4-85bb4b00c753
 - datetime: 2025-02-06T16:00:11.897Z
   text: ""
   author: ""
@@ -140,6 +148,8 @@
     - karin
     - daniel
   category: navigation
+  origin: auto
+  id: 1b6811c7-9c30-4116-b42d-34a393df1e14
 - datetime: 2025-02-06T16:52:11.897Z
   text: In the wind shadow of St. Vincent
   author: bergie
@@ -173,6 +183,8 @@
     seaState: 3
     cloudCoverage: 3
     visibility: 7
+  origin: manual
+  id: 18c42f5d-2c30-45db-a5ea-3b1c6c64b201
 - datetime: 2025-02-06T17:00:12.902Z
   text: ""
   author: ""
@@ -202,6 +214,8 @@
     - karin
     - daniel
   category: navigation
+  origin: auto
+  id: 5e45bd6d-f606-47cc-a335-7940d1f781aa
 - datetime: 2025-02-06T17:02:26.899Z
   text: "Sails set: Main (1st reef), Genoa 1, Staysail"
   author: ""
@@ -231,6 +245,8 @@
     - karin
     - daniel
   category: navigation
+  origin: auto
+  id: 95576015-f1cd-4179-9a42-89f3eb65ea32
 - datetime: 2025-02-06T17:13:29.900Z
   text: "Sails set: Main (1st reef), Staysail"
   author: ""
@@ -260,6 +276,8 @@
     - karin
     - daniel
   category: navigation
+  origin: auto
+  id: a00aa06f-b683-46d7-8f43-5485b0980a92
 - datetime: 2025-02-06T17:34:14.899Z
   text: Pitons are visible very faintly in the horizon, 36NM away
   author: bergie
@@ -291,6 +309,8 @@
   category: navigation
   observations:
     visibility: 8
+  origin: manual
+  id: 52a62bb3-d2dd-4f48-86de-be4218e11ca0
 - datetime: 2025-02-06T17:41:13.900Z
   text: Starting to catch the big waves wrapping around St. Vincent on the nose
   author: bergie
@@ -320,6 +340,8 @@
     - karin
     - daniel
   category: navigation
+  origin: manual
+  id: 866c4192-3e4f-4d0f-bd74-14c1bc0f7a6c
 - datetime: 2025-02-06T18:00:14.899Z
   text: ""
   author: ""
@@ -349,6 +371,8 @@
     - karin
     - daniel
   category: navigation
+  origin: auto
+  id: 74c541ac-2835-470f-8879-e99b1e3b9638
 - datetime: 2025-02-06T19:00:16.000Z
   text: ""
   author: ""
@@ -378,6 +402,8 @@
     - karin
     - daniel
   category: navigation
+  origin: auto
+  id: 0acba69f-f89e-42eb-bba4-94dec14c27ab
 - datetime: 2025-02-06T20:00:16.998Z
   text: ""
   author: ""
@@ -407,6 +433,8 @@
     - karin
     - daniel
   category: navigation
+  origin: auto
+  id: b43f158b-1d39-443f-8c28-d64c7f966615
 - datetime: 2025-02-06T21:00:20.000Z
   text: ""
   author: ""
@@ -436,6 +464,8 @@
     - karin
     - daniel
   category: navigation
+  origin: auto
+  id: 3b018366-4a69-45dc-b563-6bcb8168cfa9
 - datetime: 2025-02-06T21:08:20.000Z
   text: Pumped the bilge
   author: bergie
@@ -465,6 +495,8 @@
     - karin
     - daniel
   category: maintenance
+  origin: manual
+  id: 1a82791d-7059-4ac6-a5cb-59c2aa37dc89
 - datetime: 2025-02-06T21:35:20.000Z
   text: "Out of St. Vincent waters "
   author: bergie
@@ -494,6 +526,8 @@
     - karin
     - daniel
   category: navigation
+  origin: manual
+  id: cc3be629-c002-4029-804c-26bc5647b2e2
 - datetime: 2025-02-06T22:00:20.102Z
   text: Suski and Daniel on watch
   author: ihmis-suski
@@ -527,6 +561,8 @@
     seaState: 4
     cloudCoverage: 2
     visibility: 8
+  origin: manual
+  id: 61362051-b7fb-483a-a87b-4956d7c1bcd2
 - datetime: 2025-02-06T23:00:23.097Z
   text: ""
   author: ""
@@ -555,3 +591,6 @@
     - bergie
     - karin
     - daniel
+  category: navigation
+  origin: auto
+  id: 1d78652d-03cc-4b85-9929-5c5f8e781394

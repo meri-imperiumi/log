@@ -20,6 +20,8 @@
     - ihmis-suski
     - bergie
   category: maintenance
+  origin: manual
+  id: b0256c70-8232-4170-831f-06fb4a750795
 - datetime: 2024-08-05T18:54:21.600Z
   text: Started main engine
   author: ""
@@ -42,6 +44,8 @@
     - ihmis-suski
     - bergie
   category: navigation
+  origin: auto
+  id: 8634960b-48da-43a4-aa80-e91b8d1f9407
 - datetime: 2024-08-05T18:57:24.601Z
   text: Anchor up, motoring
   author: ""
@@ -64,6 +68,8 @@
     - ihmis-suski
     - bergie
   category: navigation
+  origin: auto
+  id: 3106e9e8-e843-4bcf-928f-c9deed4efa4d
 - datetime: 2024-08-05T19:00:20.601Z
   text: ""
   author: ""
@@ -86,6 +92,8 @@
     - ihmis-suski
     - bergie
   category: navigation
+  origin: auto
+  id: 46c90b9e-d453-4790-aa77-88defd8d388a
 - datetime: 2024-08-05T20:00:18.598Z
   text: ""
   author: ""
@@ -110,6 +118,8 @@
     - ihmis-suski
     - bergie
   category: navigation
+  origin: auto
+  id: c1254a90-aa0b-4a90-be79-9979a1e12936
 - datetime: 2024-08-05T20:28:18.598Z
   text: Rounding the Scilly Isles.
   author: ihmis-suski
@@ -138,6 +148,8 @@
     seaState: 4
     cloudCoverage: 8
     visibility: 5
+  origin: manual
+  id: b9d74ecd-6964-415f-8c9f-43e9532855e7
 - datetime: 2024-08-05T20:36:51.596Z
   text: Autopilot activated
   author: ""
@@ -162,6 +174,8 @@
     - ihmis-suski
     - bergie
   category: navigation
+  origin: auto
+  id: f5536fac-f3b2-4187-a142-e9728ee6129f
 - datetime: 2024-08-05T20:43:38.598Z
   text: Motor stopped, sailing with Main (1st reef), Staysail
   author: ""
@@ -186,6 +200,8 @@
     - ihmis-suski
     - bergie
   category: navigation
+  origin: auto
+  id: 5f4eb019-55fc-4b91-b46e-7a3c228d83ab
 - datetime: 2024-08-05T21:00:17.600Z
   text: ""
   author: ""
@@ -210,6 +226,8 @@
     - ihmis-suski
     - bergie
   category: navigation
+  origin: auto
+  id: 088bafa0-c720-48d8-80fa-9c5d16f89088
 - datetime: 2024-08-05T21:24:26.598Z
   text: "Sails set: Main, Genoa 1"
   author: ""
@@ -234,6 +252,8 @@
     - ihmis-suski
     - bergie
   category: navigation
+  origin: auto
+  id: 674a5bd1-a7fe-4d58-b968-0c82c56c628d
 - datetime: 2024-08-05T21:28:16.601Z
   text: PAN PAN Falmouth,  Mr Dya cancel PAN PAN, engine failure 7stones light,
     now towed by lifeboat
@@ -259,6 +279,8 @@
     - ihmis-suski
     - bergie
   category: radio
+  origin: manual
+  id: 35209cea-bbe6-4be6-a064-d33dc8c2485b
 - datetime: 2024-08-05T21:52:15.699Z
   text: 2kt current helping us along.  Sadly also making the Atlantic swell quite
     steep, as we slam into it
@@ -284,6 +306,8 @@
     - ihmis-suski
     - bergie
   category: navigation
+  origin: manual
+  id: 88ef7b86-b3c5-482a-a84d-62527684fd5a
 - datetime: 2024-08-05T22:00:15.603Z
   text: 400NM to go says Orca. Getting to the NW corner of the south Scilly TSS
   author: bergie
@@ -312,6 +336,8 @@
     cloudCoverage: 4
     seaState: 4
     visibility: 7
+  origin: manual
+  id: 162c4a53-5534-4a15-bc6e-c73179eeeaaa
 - datetime: 2024-08-05T23:00:14.700Z
   text: ""
   author: ""
@@ -336,6 +362,8 @@
     - ihmis-suski
     - bergie
   category: navigation
+  origin: auto
+  id: 1faf83d0-aedd-4090-8d5b-bb0f7680a7c5
 - datetime: 2024-08-05T23:33:13.702Z
   text: Going feels a lot smoother with the swell on the beam instead of on the
     nose. Nice starry sky now
@@ -365,6 +393,8 @@
     seaState: 4
     cloudCoverage: 1
     visibility: 7
+  origin: manual
+  id: 68045bdd-df78-40fe-85d8-8d554e7f055f
 - datetime: 2024-08-05T23:54:13.702Z
   text: Out of UK territorial waters
   author: bergie
@@ -389,3 +419,5 @@
     - ihmis-suski
     - bergie
   category: navigation
+  origin: manual
+  id: 66b8dcdb-dfa2-4c67-b306-3469f7006f82

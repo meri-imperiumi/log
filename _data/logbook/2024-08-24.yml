@@ -22,6 +22,8 @@
     - ihmis-suski
     - bergie
   category: navigation
+  origin: auto
+  id: 462ea4ed-5045-44a2-b7ac-a036907c0f4e
 - datetime: 2024-08-24T11:04:04.998Z
   text: Anchor up, motoring
   author: bergie
@@ -46,6 +48,8 @@
     - ihmis-suski
     - bergie
   category: navigation
+  origin: manual
+  id: 979658d7-d379-4522-99a2-b3f2d2a76cfe
 - datetime: 2024-08-24T11:17:04.000Z
   text: Dolphins!
   author: bergie
@@ -70,6 +74,8 @@
     - ihmis-suski
     - bergie
   category: navigation
+  origin: manual
+  id: 7dc00e27-7423-4765-9d4e-64cba5a65ae6
 - datetime: 2024-08-24T11:28:08.998Z
   text: Motor stopped, sailing with Main, Genoa 1
   author: bergie
@@ -94,6 +100,8 @@
     - ihmis-suski
     - bergie
   category: navigation
+  origin: manual
+  id: bfcd6cc4-da2e-4728-8b9a-6c8238cc0878
 - datetime: 2024-08-24T11:34:04.998Z
   text: "Started watermaker "
   author: bergie
@@ -118,6 +126,8 @@
     - ihmis-suski
     - bergie
   category: maintenance
+  origin: manual
+  id: 3d5143cd-b835-4f7b-9b18-bea16773bd7c
 - datetime: 2024-08-24T11:59:00.000Z
   text: "Sails set: Main, Genoa 1 (30% furled)"
   author: ""
@@ -142,6 +152,8 @@
     - ihmis-suski
     - bergie
   category: navigation
+  origin: auto
+  id: a56deff4-654e-40c9-9e02-aeb36e8666ef
 - datetime: 2024-08-24T12:00:04.000Z
   text: ""
   author: ""
@@ -166,6 +178,8 @@
     - ihmis-suski
     - bergie
   category: navigation
+  origin: auto
+  id: 6d56dbd2-9f5c-4f6c-871f-e5fbd3be2a50
 - datetime: 2024-08-24T12:20:15.001Z
   text: "Sails set: Main, Genoa 1"
   author: ""
@@ -190,6 +204,8 @@
     - ihmis-suski
     - bergie
   category: navigation
+  origin: auto
+  id: 45936cbf-9c00-4077-8bd7-f2b095619b95
 - datetime: 2024-08-24T12:32:04.998Z
   text: 273 ppm on watermaker.
   author: ihmis-suski
@@ -214,6 +230,8 @@
     - ihmis-suski
     - bergie
   category: maintenance
+  origin: manual
+  id: 6dbf3709-6496-4c90-a336-3320944c021b
 - datetime: 2024-08-24T12:34:04.998Z
   text: Watching gannets fish.
   author: ihmis-suski
@@ -242,6 +260,8 @@
     seaState: 3
     cloudCoverage: 2
     visibility: 7
+  origin: manual
+  id: 0f9caf79-e0a5-483b-8adc-3f70d6c34913
 - datetime: 2024-08-24T13:00:04.998Z
   text: ""
   author: ""
@@ -266,6 +286,8 @@
     - ihmis-suski
     - bergie
   category: navigation
+  origin: auto
+  id: fc59ab9e-885e-4946-9a18-5714e8def605
 - datetime: 2024-08-24T13:01:36.998Z
   text: "Sails set: Main, Genoa 1 (20% furled)"
   author: ""
@@ -290,6 +312,8 @@
     - ihmis-suski
     - bergie
   category: navigation
+  origin: auto
+  id: fb01fe22-fc48-47a9-88be-e68d7be7d91f
 - datetime: 2024-08-24T14:00:06.000Z
   text: ""
   author: ""
@@ -314,6 +338,8 @@
     - ihmis-suski
     - bergie
   category: navigation
+  origin: auto
+  id: f4bc4790-2169-4341-bd6f-4655386494f5
 - datetime: 2024-08-24T14:02:20.000Z
   text: "Sails set: Main"
   author: ""
@@ -338,6 +364,8 @@
     - ihmis-suski
     - bergie
   category: navigation
+  origin: auto
+  id: 9307a3da-1740-445a-9772-e20100f1f7a8
 - datetime: 2024-08-24T14:27:46.000Z
   text: "Sails set: Main, Genoa 1 (50% furled)"
   author: ""
@@ -362,6 +390,8 @@
     - ihmis-suski
     - bergie
   category: navigation
+  origin: auto
+  id: 4d568315-2791-416d-8371-ba1429ac562d
 - datetime: 2024-08-24T15:00:06.400Z
   text: ""
   author: ""
@@ -386,6 +416,8 @@
     - ihmis-suski
     - bergie
   category: navigation
+  origin: auto
+  id: 3dd06cee-9640-4f6f-a731-e8c208b806ff
 - datetime: 2024-08-24T15:57:11.398Z
   text: Sails down, motoring
   author: ""
@@ -410,6 +442,8 @@
     - ihmis-suski
     - bergie
   category: navigation
+  origin: auto
+  id: 076e85fa-194e-4b1c-a96c-0f16f074872c
 - datetime: 2024-08-24T16:00:06.400Z
   text: ""
   author: ""
@@ -434,6 +468,8 @@
     - ihmis-suski
     - bergie
   category: navigation
+  origin: auto
+  id: cd43e8b2-5d3c-43f8-9f15-fe3451186372
 - datetime: 2024-08-24T16:53:01.401Z
   text: Anchored
   author: ""
@@ -459,6 +495,8 @@
     - bergie
   end: true
   category: navigation
+  origin: auto
+  id: 32f3637a-c9b4-497d-b354-db983c9f36db
 - datetime: 2024-08-24T16:57:45.401Z
   text: Stopped main engine
   author: ""
@@ -483,3 +521,5 @@
     - ihmis-suski
     - bergie
   category: navigation
+  origin: auto
+  id: cf116b1d-c2a7-4c7f-90f7-52279cb4b3b9

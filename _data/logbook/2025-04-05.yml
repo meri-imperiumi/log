@@ -21,6 +21,8 @@
     - ihmis-suski
     - bergie
   category: maintenance
+  origin: manual
+  id: 430d9549-4b04-4a3c-a276-a24f35ef1f81
 - datetime: 2025-04-05T13:52:18.899Z
   text: Started main engine
   author: ""
@@ -44,6 +46,8 @@
     - ihmis-suski
     - bergie
   category: navigation
+  origin: auto
+  id: 2d4f4683-20ee-4a5f-8c2d-0aa167b7e153
 - datetime: 2025-04-05T13:52:58.899Z
   text: Anchor up, motoring
   author: ""
@@ -67,6 +71,8 @@
     - ihmis-suski
     - bergie
   category: navigation
+  origin: auto
+  id: 6861a54d-bad1-46b8-9905-1b559c6dec62
 - datetime: 2025-04-05T14:00:48.899Z
   text: ""
   author: ""
@@ -90,6 +96,8 @@
     - ihmis-suski
     - bergie
   category: navigation
+  origin: auto
+  id: 1983e4a8-93cb-4c62-ab4e-4440d1daa225
 - datetime: 2025-04-05T14:10:07.900Z
   text: Anchored
   author: ""
@@ -114,6 +122,8 @@
     - bergie
   end: true
   category: navigation
+  origin: auto
+  id: 70110672-ea5f-4f6b-b173-64c84f026bc6
 - datetime: 2025-04-05T14:36:08.899Z
   text: Anchor up, motoring
   author: ""
@@ -137,6 +147,8 @@
     - ihmis-suski
     - bergie
   category: navigation
+  origin: auto
+  id: b74dfb89-5475-409f-a409-5592dd1eadac
 - datetime: 2025-04-05T14:42:30.899Z
   text: Anchored
   author: ""
@@ -161,6 +173,8 @@
     - bergie
   end: true
   category: navigation
+  origin: auto
+  id: df1de89e-d6b7-431e-a930-9e11395f83b6
 - datetime: 2025-04-05T14:49:00.899Z
   text: Stopped main engine
   author: ""
@@ -184,6 +198,8 @@
     - ihmis-suski
     - bergie
   category: navigation
+  origin: auto
+  id: 08728551-6000-4650-80f2-30ea2ff51c97
 - datetime: 2025-04-05T20:26:50.502Z
   text: "Started watermaker "
   author: bergie
@@ -207,6 +223,8 @@
     - ihmis-suski
     - bergie
   category: maintenance
+  origin: manual
+  id: 0134794e-75b5-425b-b34a-cfd656e23e0c
 - datetime: 2025-04-05T20:40:50.502Z
   text: Watermaker 293ppm
   author: bergie
@@ -230,6 +248,8 @@
     - ihmis-suski
     - bergie
   category: maintenance
+  origin: manual
+  id: 39dcb6b6-26f0-4e4c-bba1-bc2b07d20e22
 - datetime: 2025-04-05T22:21:02.502Z
   text: Stopped watermaker, 250ppm
   author: bergie
@@ -253,6 +273,8 @@
     - ihmis-suski
     - bergie
   category: maintenance
+  origin: manual
+  id: 000db0f7-e966-487f-98b3-0adc90f85597
 - datetime: 2025-04-05T22:39:22.598Z
   text: NAS is now wired into the computer circuit with its own power switch next
     to the vacuum
@@ -277,3 +299,5 @@
     - ihmis-suski
     - bergie
   category: maintenance
+  origin: manual
+  id: 13f8c6a4-9e95-4db2-841f-717e9f6a5518

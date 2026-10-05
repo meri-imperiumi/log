@@ -28,6 +28,8 @@
     - ihmis-suski
     - bergie
   category: navigation
+  origin: auto
+  id: 839fc0d4-b8e0-4276-bb53-30d50c168c37
 - datetime: 2026-06-18T00:25:16.400Z
   text: Motor stopped, sailing with Main (1st reef), Staysail
   author: ""
@@ -58,6 +60,8 @@
     - ihmis-suski
     - bergie
   category: navigation
+  origin: auto
+  id: 8761093a-cdbd-461a-b20a-7255ae854800
 - datetime: 2026-06-18T00:27:06.400Z
   text: Autopilot activated
   author: ""
@@ -88,6 +92,8 @@
     - ihmis-suski
     - bergie
   category: navigation
+  origin: auto
+  id: d1fefe40-d026-476d-ae3b-2b9c9c1df9dc
 - datetime: 2026-06-18T00:34:32.400Z
   text: Autopilot deactivated, windvane steering
   author: bergie
@@ -118,6 +124,8 @@
     - ihmis-suski
     - bergie
   category: navigation
+  origin: manual
+  id: 173b9ecc-d26e-42ca-9b37-c0e6de5f5469
 - datetime: 2026-06-18T01:00:03.400Z
   text: ""
   author: bergie
@@ -152,6 +160,8 @@
     seaState: 3
     cloudCoverage: 7
     visibility: 7
+  origin: manual
+  id: bf506d42-e11f-4a02-a277-e46ad1db7c3f
 - datetime: 2026-06-18T02:00:03.400Z
   text: ""
   author: ""
@@ -182,6 +192,8 @@
     - ihmis-suski
     - bergie
   category: navigation
+  origin: auto
+  id: 77551459-f316-46de-8d00-fa3fd5505fa0
 - datetime: 2026-06-18T03:00:03.400Z
   text: ""
   author: ""
@@ -212,6 +224,8 @@
     - ihmis-suski
     - bergie
   category: navigation
+  origin: auto
+  id: 750e825b-661e-4cc6-b939-0e7157ac00d8
 - datetime: 2026-06-18T04:00:08.499Z
   text: ""
   author: ""
@@ -242,6 +256,8 @@
     - ihmis-suski
     - bergie
   category: navigation
+  origin: auto
+  id: 60f6d9eb-8f2f-4c8c-a5ee-3ce5ec132d1c
 - datetime: 2026-06-18T05:00:11.500Z
   text: ""
   author: ""
@@ -272,6 +288,8 @@
     - ihmis-suski
     - bergie
   category: navigation
+  origin: auto
+  id: 2ee49bd6-10ae-4bc6-8ee3-f8bcab540224
 - datetime: 2026-06-18T06:00:15.900Z
   text: ""
   author: ""
@@ -302,6 +320,8 @@
     - ihmis-suski
     - bergie
   category: navigation
+  origin: auto
+  id: e2b75f0a-b351-44a3-8689-1d21b5a18985
 - datetime: 2026-06-18T07:00:17.900Z
   text: ""
   author: ""
@@ -332,6 +352,8 @@
     - ihmis-suski
     - bergie
   category: navigation
+  origin: auto
+  id: 719e53c3-b38e-49cd-ac4e-6a477ee4513a
 - datetime: 2026-06-18T08:00:20.899Z
   text: ""
   author: ""
@@ -362,6 +384,8 @@
     - ihmis-suski
     - bergie
   category: navigation
+  origin: auto
+  id: 851490d1-3f0e-435a-a12f-4b81db7b2565
 - datetime: 2026-06-18T09:00:24.998Z
   text: ""
   author: ""
@@ -392,6 +416,8 @@
     - ihmis-suski
     - bergie
   category: navigation
+  origin: auto
+  id: 1325c042-680b-42a4-95a5-cca853051586
 - datetime: 2026-06-18T09:22:20.000Z
   text: "Alarm: Water in the bilge (electrical.venus-input.1.stateNumber)"
   author: ""
@@ -422,6 +448,8 @@
     - ihmis-suski
     - bergie
   category: engine
+  origin: auto
+  id: 3fbf146a-0c5f-45b2-922a-94bc1d5b7af2
 - datetime: 2026-06-18T09:25:22.058Z
   text: "Cleared after 3 min: Water in the bilge, 8 transitions"
   author: ""
@@ -452,6 +480,8 @@
     - ihmis-suski
     - bergie
   category: engine
+  origin: auto
+  id: 8e6dc38f-1aa3-4ec2-9f30-6e9fdc94d9ef
 - datetime: 2026-06-18T09:56:43.001Z
   text: "Sails set: Main (2nd reef), Staysail. We need slow down a bit for arrival
     timing"
@@ -483,6 +513,8 @@
     - ihmis-suski
     - bergie
   category: navigation
+  origin: manual
+  id: 57180b77-862c-4fef-a8d2-c8bcac8b375a
 - datetime: 2026-06-18T10:00:28.000Z
   text: ""
   author: bergie
@@ -517,6 +549,8 @@
     seaState: 4
     cloudCoverage: 1
     visibility: 7
+  origin: manual
+  id: cdc6b1ca-ffb3-40a4-a5a3-1edcd7f78097
 - datetime: 2026-06-18T11:00:31.001Z
   text: ""
   author: ""
@@ -547,6 +581,8 @@
     - ihmis-suski
     - bergie
   category: navigation
+  origin: auto
+  id: 82f0b866-2260-4cc6-935d-49f6d909a85d
 - datetime: 2026-06-18T11:29:31.001Z
   text: Lots of shooting stars
   author: bergie
@@ -577,6 +613,8 @@
     - ihmis-suski
     - bergie
   category: navigation
+  origin: manual
+  id: c4f29517-ca0b-44a3-8b98-d0f0bef1283c
 - datetime: 2026-06-18T12:00:34.099Z
   text: ""
   author: ""
@@ -607,6 +645,8 @@
     - ihmis-suski
     - bergie
   category: navigation
+  origin: auto
+  id: 7030ea15-8784-4ff1-bfdf-32d079e9a6e4
 - datetime: 2026-06-18T13:00:39.100Z
   text: Hand steering
   author: bergie
@@ -637,6 +677,8 @@
     - ihmis-suski
     - bergie
   category: navigation
+  origin: manual
+  id: 955cd8ce-494d-4f2a-b2d4-6ef039d60226
 - datetime: 2026-06-18T13:00:40.099Z
   text: "Sails set: Main (2nd reef). Heaved to on port tack"
   author: bergie
@@ -667,6 +709,8 @@
     - ihmis-suski
     - bergie
   category: navigation
+  origin: manual
+  id: 037b58ce-f99a-4db9-af50-7993d51bceb5
 - datetime: 2026-06-18T14:00:41.100Z
   text: ""
   author: ""
@@ -697,6 +741,8 @@
     - ihmis-suski
     - bergie
   category: navigation
+  origin: auto
+  id: c03e86c3-cf05-4a72-baa6-d84ee1826d2d
 - datetime: 2026-06-18T14:39:43.100Z
   text: Had a brief conversation with SV Senyera that is soon passing us behind.
     They also aim for the Tahanea pass around 6am local
@@ -728,6 +774,8 @@
     - ihmis-suski
     - bergie
   category: radio
+  origin: manual
+  id: 807ccf3d-1eb6-4b46-9085-609e1430a21f
 - datetime: 2026-06-18T15:00:44.102Z
   text: ""
   author: ""
@@ -758,6 +806,8 @@
     - ihmis-suski
     - bergie
   category: navigation
+  origin: auto
+  id: c9d0a3c9-0f1b-49f6-9bd9-51d960244261
 - datetime: 2026-06-18T15:33:46.099Z
   text: Back to sailing
   author: bergie
@@ -788,6 +838,8 @@
     - ihmis-suski
     - bergie
   category: navigation
+  origin: manual
+  id: ddfa1ac6-5c99-4c74-9eaf-963475d13402
 - datetime: 2026-06-18T15:47:36.102Z
   text: Sails down, motoring
   author: ""
@@ -818,6 +870,8 @@
     - ihmis-suski
     - bergie
   category: navigation
+  origin: auto
+  id: f4cd87c6-5561-43f6-8ace-a3651de47352
 - datetime: 2026-06-18T16:00:47.097Z
   text: ""
   author: ""
@@ -848,6 +902,8 @@
     - ihmis-suski
     - bergie
   category: navigation
+  origin: auto
+  id: 18e53f3e-57da-4e50-af9f-e5939d9ee00d
 - datetime: 2026-06-18T16:46:43.200Z
   text: Anchored
   author: ""
@@ -879,6 +935,8 @@
     - bergie
   end: true
   category: navigation
+  origin: auto
+  id: 161f8ee8-9ee2-41ef-a783-83a356c2e0ff
 - datetime: 2026-06-18T16:54:04.198Z
   text: Stopped main engine
   author: ""
@@ -909,6 +967,8 @@
     - ihmis-suski
     - bergie
   category: navigation
+  origin: auto
+  id: b1880929-17ac-46dc-81c6-007774eca69e
 - datetime: 2026-06-18T21:06:05.299Z
   text: "Started watermaker "
   author: bergie
@@ -939,6 +999,8 @@
     - ihmis-suski
     - bergie
   category: maintenance
+  origin: manual
+  id: 9dbf97e2-f792-4706-aad2-83332f6e86b0
 - datetime: 2026-06-18T21:21:05.299Z
   text: Watermaker 323ppm
   author: bergie
@@ -969,6 +1031,8 @@
     - ihmis-suski
     - bergie
   category: maintenance
+  origin: manual
+  id: 62145c0f-9b38-41d8-a287-cd0e1e9fbbdb
 - datetime: 2026-06-18T21:55:05.299Z
   text: Started main engine
   author: ""
@@ -999,6 +1063,8 @@
     - ihmis-suski
     - bergie
   category: navigation
+  origin: auto
+  id: 0fb603c0-97e1-447b-9be6-5213b13bd9ee
 - datetime: 2026-06-18T22:02:00.300Z
   text: Anchor up, motoring
   author: ""
@@ -1029,6 +1095,8 @@
     - ihmis-suski
     - bergie
   category: navigation
+  origin: auto
+  id: d1679e85-b9fa-4656-bf6c-c11601c75a5f
 - datetime: 2026-06-18T22:57:15.699Z
   text: Autopilot activated
   author: ""
@@ -1059,6 +1127,8 @@
     - ihmis-suski
     - bergie
   category: navigation
+  origin: auto
+  id: f5bb1739-0267-445c-b005-f96cc9e2d85f
 - datetime: 2026-06-18T23:00:11.699Z
   text: ""
   author: ""
@@ -1089,6 +1159,8 @@
     - ihmis-suski
     - bergie
   category: navigation
+  origin: auto
+  id: f8ed4163-e04b-4671-81b6-ae361838e1c9
 - datetime: 2026-06-18T23:03:11.699Z
   text: Stopped watermaker, 228ppm
   author: bergie
@@ -1119,6 +1191,8 @@
     - ihmis-suski
     - bergie
   category: maintenance
+  origin: manual
+  id: 57886812-c53c-4893-8b0d-32d67027ba4d
 - datetime: 2026-06-18T23:22:55.801Z
   text: Autopilot deactivated. The tiller arm was getting stuck and did not steer
     properly.
@@ -1150,3 +1224,5 @@
     - ihmis-suski
     - bergie
   category: navigation
+  origin: manual
+  id: cca371db-3e6b-41f0-9288-1a7a0ffa54bc

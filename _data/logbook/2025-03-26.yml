@@ -22,6 +22,8 @@
     - ihmis-suski
     - bergie
   category: navigation
+  origin: auto
+  id: 50b57dc6-a41b-4d0f-9962-772b177bc6a5
 - datetime: 2025-03-26T15:17:42.201Z
   text: Anchor up, motoring
   author: bergie
@@ -46,6 +48,8 @@
     - ihmis-suski
     - bergie
   category: navigation
+  origin: manual
+  id: 198f0698-6171-433d-b733-60bf6faaa9e4
 - datetime: 2025-03-26T15:35:55.200Z
   text: Stopped
   author: ""
@@ -71,6 +75,8 @@
     - bergie
   end: true
   category: navigation
+  origin: auto
+  id: 8ae0dbda-add3-4318-b713-6267e4cbc6c8
 - datetime: 2025-03-26T15:48:43.200Z
   text: Filled up 57l diesel + two corks biocide
   author: bergie
@@ -95,6 +101,8 @@
     - ihmis-suski
     - bergie
   category: engine
+  origin: manual
+  id: 2fced77b-9b90-407b-9f3a-93ba8aba0727
 - datetime: 2025-03-26T15:49:50.201Z
   text: Started main engine
   author: ""
@@ -119,6 +127,8 @@
     - ihmis-suski
     - bergie
   category: navigation
+  origin: auto
+  id: aee595d8-31e2-4f84-b57c-36fb22835e62
 - datetime: 2025-03-26T15:51:45.203Z
   text: Motoring
   author: ""
@@ -143,6 +153,8 @@
     - ihmis-suski
     - bergie
   category: navigation
+  origin: auto
+  id: 14b141f9-c14d-4ddb-a800-6493f6fbfe98
 - datetime: 2025-03-26T16:00:44.198Z
   text: ""
   author: ""
@@ -167,6 +179,8 @@
     - ihmis-suski
     - bergie
   category: navigation
+  origin: auto
+  id: 32ce8d83-4222-48ae-badc-c0dc060f54c5
 - datetime: 2025-03-26T16:04:37.196Z
   text: Motor stopped, sailing with Main (1st reef)
   author: bergie
@@ -191,6 +205,8 @@
     - ihmis-suski
     - bergie
   category: navigation
+  origin: manual
+  id: 3f650e28-f958-4271-b82d-b64664d57360
 - datetime: 2025-03-26T16:15:46.201Z
   text: "Started watermaker "
   author: bergie
@@ -218,6 +234,8 @@
     - ihmis-suski
     - bergie
   category: maintenance
+  origin: manual
+  id: bb8ac613-a901-4810-acc5-5c1f85416350
 - datetime: 2025-03-26T16:24:57.203Z
   text: "Sails set: Main (1st reef), Genoa 1 (40% furled)"
   author: ""
@@ -245,6 +263,8 @@
     - ihmis-suski
     - bergie
   category: navigation
+  origin: auto
+  id: 722236e8-5a94-4e7d-82d9-c68b4f9b5996
 - datetime: 2025-03-26T16:29:47.200Z
   text: Watermaker 338ppm
   author: bergie
@@ -272,6 +292,8 @@
     - ihmis-suski
     - bergie
   category: maintenance
+  origin: manual
+  id: 76320090-9227-44b7-9e02-78c49cdae28c
 - datetime: 2025-03-26T17:00:49.600Z
   text: ""
   author: ""
@@ -299,6 +321,8 @@
     - ihmis-suski
     - bergie
   category: navigation
+  origin: auto
+  id: 2b66a2af-91ca-4b26-a920-71e594e3ea71
 - datetime: 2025-03-26T17:37:54.598Z
   text: "Sails set: Main (1st reef), Genoa 1"
   author: ""
@@ -326,6 +350,8 @@
     - ihmis-suski
     - bergie
   category: navigation
+  origin: auto
+  id: b2b5ee56-b1fb-44e5-bc3a-ba5e2fd058b6
 - datetime: 2025-03-26T17:38:48.601Z
   text: Stopped watermaker, 267ppm
   author: bergie
@@ -353,6 +379,8 @@
     - ihmis-suski
     - bergie
   category: maintenance
+  origin: manual
+  id: eee8d7fc-c448-4dcd-ad56-74cc73667db8
 - datetime: 2025-03-26T17:43:54.598Z
   text: Sails down, motoring
   author: ""
@@ -380,6 +408,8 @@
     - ihmis-suski
     - bergie
   category: navigation
+  origin: auto
+  id: 643ad0c7-2b7e-4e06-b8a5-70b2722cf47d
 - datetime: 2025-03-26T18:00:52.601Z
   text: ""
   author: ""
@@ -407,6 +437,8 @@
     - ihmis-suski
     - bergie
   category: navigation
+  origin: auto
+  id: a7908456-0d3b-4b7e-978d-d934586089b8
 - datetime: 2025-03-26T18:02:34.598Z
   text: Picked a mooring
   author: bergie
@@ -435,3 +467,5 @@
     - bergie
   end: true
   category: navigation
+  origin: manual
+  id: 8836cffb-a22d-4fc5-adf9-85a95148a5c9

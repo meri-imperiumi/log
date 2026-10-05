@@ -21,6 +21,8 @@
     - ihmis-suski
     - bergie
   category: navigation
+  origin: manual
+  id: 5b651e27-f927-4ca6-bf33-caf2613a4173
 - datetime: 2024-08-27T08:05:15.398Z
   text: Started main engine
   author: ""
@@ -44,6 +46,8 @@
     - ihmis-suski
     - bergie
   category: navigation
+  origin: auto
+  id: 974c4f42-a6be-4379-b09a-61cdf2a5de26
 - datetime: 2024-08-27T08:14:32.400Z
   text: Anchor up, motoring
   author: bergie
@@ -67,6 +71,8 @@
     - ihmis-suski
     - bergie
   category: navigation
+  origin: manual
+  id: d91fb3bf-07c0-40b7-9fbf-98b4e42a7b99
 - datetime: 2024-08-27T08:22:31.398Z
   text: Missing STW was again YDNR having wrong baud setting, should be 4800
   author: bergie
@@ -91,6 +97,8 @@
     - ihmis-suski
     - bergie
   category: maintenance
+  origin: manual
+  id: 39e1ed04-0735-4bcf-9dc5-54697101081e
 - datetime: 2024-08-27T08:26:31.398Z
   text: Lights on, fog is thickening a bit
   author: bergie
@@ -119,6 +127,8 @@
     visibility: 4
     seaState: 0
     cloudCoverage: 8
+  origin: manual
+  id: cd3274a7-ea4b-4676-b1c3-01ff84a6749e
 - datetime: 2024-08-27T09:00:31.398Z
   text: ""
   author: ""
@@ -143,6 +153,8 @@
     - ihmis-suski
     - bergie
   category: navigation
+  origin: auto
+  id: c59558a7-db3c-47ff-937b-2bcd4faa049e
 - datetime: 2024-08-27T09:03:44.400Z
   text: Stopped
   author: ""
@@ -168,6 +180,8 @@
     - bergie
   end: true
   category: navigation
+  origin: auto
+  id: f73c74e7-988a-4f14-9932-cf29d2ad858c
 - datetime: 2024-08-27T12:21:54.499Z
   text: Watermaker pickled.
   author: ihmis-suski
@@ -191,3 +205,5 @@
     - ihmis-suski
     - bergie
   category: maintenance
+  origin: manual
+  id: bb0d534d-a812-42b5-85ef-4998ff30a60a

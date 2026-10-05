@@ -21,6 +21,8 @@
     - ihmis-suski
     - bergie
   category: navigation
+  origin: auto
+  id: 625dcacc-32b0-44db-a1f7-78aa1d08ee3d
 - datetime: 2024-04-25T04:16:09.800Z
   text: Motoring
   author: ""
@@ -44,6 +46,8 @@
     - ihmis-suski
     - bergie
   category: navigation
+  origin: auto
+  id: 54ff68e4-0557-41e6-9440-9e99e7cff8ba
 - datetime: 2024-04-25T04:31:36.800Z
   text: Motor stopped, sailing with Main
   author: ""
@@ -67,6 +71,8 @@
     - ihmis-suski
     - bergie
   category: navigation
+  origin: auto
+  id: 692bc6bb-4a51-4fba-a4e8-7e568e633fbc
 - datetime: 2024-04-25T04:52:42.800Z
   text: "Sails set: Main, Genoa 1"
   author: ""
@@ -90,6 +96,8 @@
     - ihmis-suski
     - bergie
   category: navigation
+  origin: auto
+  id: 48af1a11-7b3f-4bfb-8e6f-708ddc4c9506
 - datetime: 2024-04-25T04:56:18.800Z
   text: Autopilot activated
   author: ""
@@ -114,6 +122,8 @@
     - ihmis-suski
     - bergie
   category: navigation
+  origin: auto
+  id: 7aefb7ad-ac30-42e7-9138-8b6310a52b8b
 - datetime: 2024-04-25T04:59:08.800Z
   text: "Deployed hydrogenerator "
   author: bergie
@@ -142,6 +152,8 @@
     seaState: 2
     cloudCoverage: 3
     visibility: 7
+  origin: manual
+  id: 17716c22-03c6-44e0-b97a-c8673363dc4c
 - datetime: 2024-04-25T05:00:08.800Z
   text: ""
   author: ""
@@ -166,6 +178,8 @@
     - ihmis-suski
     - bergie
   category: navigation
+  origin: auto
+  id: 1cd8ee6e-fabc-473e-a311-10bdc930556b
 - datetime: 2024-04-25T05:08:08.800Z
   text: Fishing with the Swedish gear and dry bait
   author: bergie
@@ -190,6 +204,8 @@
     - ihmis-suski
     - bergie
   category: navigation
+  origin: manual
+  id: 30f4bcec-155f-4604-b6c4-a7c2c61d37b3
 - datetime: 2024-04-25T05:36:09.800Z
   text: Two red lights at Åna-Sira. That would be 4kt current in the inlet. Happy
     we didn't pick that one
@@ -215,6 +231,8 @@
     - ihmis-suski
     - bergie
   category: navigation
+  origin: manual
+  id: 221a089b-e11e-4c4c-b139-c841995d3428
 - datetime: 2024-04-25T06:00:09.800Z
   text: ""
   author: ""
@@ -239,6 +257,8 @@
     - ihmis-suski
     - bergie
   category: navigation
+  origin: auto
+  id: 58787983-aaac-4bd0-a2c8-94fbe4de87e1
 - datetime: 2024-04-25T06:44:10.800Z
   text: "Smallish cumulonimbus at the south horizon "
   author: bergie
@@ -263,6 +283,8 @@
     - ihmis-suski
     - bergie
   category: navigation
+  origin: manual
+  id: 46f153d3-4717-4811-a460-9045fb5c10cf
 - datetime: 2024-04-25T07:00:10.700Z
   text: ""
   author: ""
@@ -287,6 +309,8 @@
     - ihmis-suski
     - bergie
   category: navigation
+  origin: auto
+  id: b54d75bb-11b0-4b15-af26-ef0ea3de4133
 - datetime: 2024-04-25T08:00:12.099Z
   text: ""
   author: ""
@@ -311,6 +335,8 @@
     - ihmis-suski
     - bergie
   category: navigation
+  origin: auto
+  id: e62c7fe9-c226-46c2-9484-19ff963d60e7
 - datetime: 2024-04-25T09:00:13.100Z
   text: ""
   author: ""
@@ -335,6 +361,8 @@
     - ihmis-suski
     - bergie
   category: navigation
+  origin: auto
+  id: 7d8fc1e6-ad32-4e76-8ef4-5a7211a9787f
 - datetime: 2024-04-25T10:00:14.099Z
   text: ""
   author: ""
@@ -359,6 +387,8 @@
     - ihmis-suski
     - bergie
   category: navigation
+  origin: auto
+  id: 443a2455-9388-4139-9ffe-44f5d7b06bba
 - datetime: 2024-04-25T10:00:14.099Z
   text: Hydro out.
   author: ihmis-suski
@@ -386,6 +416,8 @@
   observations:
     cloudCoverage: 6
     visibility: 7
+  origin: manual
+  id: c8926f91-a752-4107-be06-4496700bf3f8
 - datetime: 2024-04-25T10:20:41.100Z
   text: Sails down, motoring
   author: ""
@@ -410,6 +442,8 @@
     - ihmis-suski
     - bergie
   category: navigation
+  origin: auto
+  id: 8da8768a-9d10-407d-939e-c43c1a671e51
 - datetime: 2024-04-25T10:40:07.100Z
   text: Autopilot deactivated
   author: ""
@@ -434,6 +468,8 @@
     - ihmis-suski
     - bergie
   category: navigation
+  origin: auto
+  id: 5212c9cd-143a-4e71-98f6-5e5f6033264d
 - datetime: 2024-04-25T11:00:15.100Z
   text: ""
   author: ""
@@ -458,6 +494,8 @@
     - ihmis-suski
     - bergie
   category: navigation
+  origin: auto
+  id: 844dde5f-14b9-40f1-897b-802d2d02ba83
 - datetime: 2024-04-25T11:13:09.100Z
   text: Stopped
   author: ""
@@ -483,3 +521,5 @@
     - bergie
   end: true
   category: navigation
+  origin: auto
+  id: d130bd7c-bac8-4077-9461-f0228277a674

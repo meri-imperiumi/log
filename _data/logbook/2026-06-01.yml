@@ -21,6 +21,8 @@
     - ihmis-suski
     - bergie
   category: maintenance
+  origin: manual
+  id: 38122af9-17f5-4579-80d7-756a2b3a6ad5
 - datetime: 2026-06-01T19:08:00.198Z
   text: Watermaker 295ppm
   author: bergie
@@ -44,6 +46,8 @@
     - ihmis-suski
     - bergie
   category: maintenance
+  origin: manual
+  id: 842d9e24-c2af-4d1f-9ce5-bf5676c1e1bb
 - datetime: 2026-06-01T21:22:59.302Z
   text: Stopped watermaker, 200ppm
   author: bergie
@@ -71,6 +75,8 @@
     - ihmis-suski
     - bergie
   category: maintenance
+  origin: manual
+  id: b893e5ba-82fc-4056-b412-f35b6e7a7e9f
 - datetime: 2026-06-01T21:36:36.601Z
   text: Started main engine
   author: ""
@@ -98,6 +104,8 @@
     - ihmis-suski
     - bergie
   category: navigation
+  origin: auto
+  id: 321cd076-e67a-431b-9563-6012f6e58380
 - datetime: 2026-06-01T21:42:51.596Z
   text: Anchor up, motoring
   author: ""
@@ -125,6 +133,8 @@
     - ihmis-suski
     - bergie
   category: navigation
+  origin: auto
+  id: 9ee0e4b3-2116-4704-8d40-92dbcff42112
 - datetime: 2026-06-01T22:00:00.601Z
   text: ""
   author: ""
@@ -152,6 +162,8 @@
     - ihmis-suski
     - bergie
   category: navigation
+  origin: auto
+  id: 84568ba7-ed98-4f2c-8e36-b6a44e6ca9b0
 - datetime: 2026-06-01T23:00:05.702Z
   text: ""
   author: ""
@@ -179,6 +191,8 @@
     - ihmis-suski
     - bergie
   category: navigation
+  origin: auto
+  id: 4b218e5e-4f39-4d52-a94d-e7c9b8840f5d
 - datetime: 2026-06-01T23:19:10.700Z
   text: Anchored
   author: ""
@@ -204,6 +218,8 @@
     - bergie
   end: true
   category: navigation
+  origin: auto
+  id: 10668b9f-7374-4091-8cc0-396ba1912fcd
 - datetime: 2026-06-01T23:27:49.702Z
   text: Stopped main engine
   author: ""
@@ -228,3 +244,5 @@
     - ihmis-suski
     - bergie
   category: navigation
+  origin: auto
+  id: c5bc82db-c3fb-43fd-9f22-6f51b7b590b2

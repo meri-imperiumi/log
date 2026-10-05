@@ -25,6 +25,8 @@
     - bergie
     - ihmis-suski
   category: navigation
+  origin: auto
+  id: 4c6ac786-a1f8-484e-a28b-66793d567bd3
 - datetime: 2026-07-06T01:02:35.700Z
   text: Anchored
   author: ""
@@ -53,6 +55,8 @@
     - ihmis-suski
   end: true
   category: navigation
+  origin: auto
+  id: e5f1cd51-f696-4a1a-934b-647086f31528
 - datetime: 2026-07-06T01:20:47.700Z
   text: Stopped main engine
   author: ""
@@ -80,6 +84,8 @@
     - bergie
     - ihmis-suski
   category: navigation
+  origin: auto
+  id: c2042735-a053-4fe3-89f9-1ac13c93e7a8
 - datetime: 2026-07-06T20:09:50.003Z
   text: "Started watermaker "
   author: bergie
@@ -109,6 +115,8 @@
     - bergie
     - ihmis-suski
   category: maintenance
+  origin: manual
+  id: d1eabf01-3725-4475-819a-87095e60e047
 - datetime: 2026-07-06T20:21:51.001Z
   text: Watermaker 345ppm
   author: bergie
@@ -138,6 +146,8 @@
     - bergie
     - ihmis-suski
   category: maintenance
+  origin: manual
+  id: 0e5120d4-bb23-451a-a41e-3f36a96c093a
 - datetime: 2026-07-06T21:27:32.998Z
   text: "Emergency: Anchor Alarm - Emergency (navigation.anchor)"
   author: ""
@@ -167,6 +177,8 @@
     - bergie
     - ihmis-suski
   category: navigation
+  origin: auto
+  id: 1f96c09c-23d4-4e6d-850d-45d3b5dc28f3
 - datetime: 2026-07-06T21:27:46.020Z
   text: "Cleared after 12 s: Anchor Alarm - Emergency. We were dragging, added 10m
     more chain"
@@ -197,6 +209,8 @@
     - bergie
     - ihmis-suski
   category: navigation
+  origin: manual
+  id: fecadb8b-01e5-460b-b901-2a9bd5cf070f
 - datetime: 2026-07-06T22:06:56.102Z
   text: Watermaker 226ppm
   author: bergie
@@ -226,6 +240,8 @@
     - bergie
     - ihmis-suski
   category: maintenance
+  origin: manual
+  id: fef7c122-e2b2-477a-8fdc-bdc6d0f077e4
 - datetime: 2026-07-06T23:44:01.100Z
   text: Stopped watermaker, 204ppm
   author: bergie
@@ -255,3 +271,5 @@
     - bergie
     - ihmis-suski
   category: maintenance
+  origin: manual
+  id: 6e412c1a-fc8f-477d-91fc-d4bd250f3d54

@@ -20,6 +20,8 @@
     - ihmis-suski
     - bergie
   category: maintenance
+  origin: manual
+  id: 19b05168-1c25-41b9-8a10-856e032aa77f
 - datetime: 2025-09-30T16:29:45.100Z
   text: Installed Sailor Hat and waterproof enclosure for the Info Display RPi.
     Powering the HDMI screen from the 5V output
@@ -43,6 +45,8 @@
     - ihmis-suski
     - bergie
   category: maintenance
+  origin: manual
+  id: c861aeef-8892-4953-8285-b5b57509f953
 - datetime: 2025-09-30T17:52:46.502Z
   text: Reconfigured the Console Light Shelly. It seems to have somehow lost its
     state. Also updated firmware
@@ -66,3 +70,5 @@
     - ihmis-suski
     - bergie
   category: maintenance
+  origin: manual
+  id: 276d1abd-4967-47c0-a854-09074f994497

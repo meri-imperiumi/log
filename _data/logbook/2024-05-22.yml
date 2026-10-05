@@ -21,6 +21,8 @@
     - ihmis-suski
     - bergie
   category: navigation
+  origin: auto
+  id: c04db6dc-6af5-44fe-8776-5503834adda9
 - datetime: 2024-05-22T09:57:24.198Z
   text: Motoring
   author: bergie
@@ -48,6 +50,8 @@
     cloudCoverage: 8
     seaState: 2
     visibility: 3
+  origin: manual
+  id: 6dc5fef6-fefb-4fa1-a414-92a8e731110c
 - datetime: 2024-05-22T10:50:49.200Z
   text: Stopped
   author: ""
@@ -73,3 +77,5 @@
     - bergie
   end: true
   category: navigation
+  origin: auto
+  id: dbdfb937-288e-4367-8fc9-c9eaa4709be6

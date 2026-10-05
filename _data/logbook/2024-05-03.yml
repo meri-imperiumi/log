@@ -21,6 +21,8 @@
     - ihmis-suski
     - bergie
   category: engine
+  origin: manual
+  id: d0a34334-98b6-462c-ba3d-fdb60dceac3e
 - datetime: 2024-05-03T10:45:08.800Z
   text: Started main engine
   author: ""
@@ -44,6 +46,8 @@
     - ihmis-suski
     - bergie
   category: navigation
+  origin: auto
+  id: cd3e98fc-43a8-4094-ad58-af45d01a8377
 - datetime: 2024-05-03T10:50:59.699Z
   text: Motoring
   author: ""
@@ -67,6 +71,8 @@
     - ihmis-suski
     - bergie
   category: navigation
+  origin: auto
+  id: ce9fdc88-5276-4b94-8909-bc8e049120c0
 - datetime: 2024-05-03T11:00:58.800Z
   text: ""
   author: ""
@@ -90,6 +96,8 @@
     - ihmis-suski
     - bergie
   category: navigation
+  origin: auto
+  id: c5e7bd0e-48a1-4413-8769-66efebf5aff9
 - datetime: 2024-05-03T11:09:11.801Z
   text: Motor stopped, sailing with Main, Genoa 1
   author: ""
@@ -113,6 +121,8 @@
     - ihmis-suski
     - bergie
   category: navigation
+  origin: auto
+  id: 99868c94-da6f-4bb6-b38a-0cea843fe365
 - datetime: 2024-05-03T11:38:47.801Z
   text: Autopilot activated
   author: ""
@@ -137,6 +147,8 @@
     - ihmis-suski
     - bergie
   category: navigation
+  origin: auto
+  id: b26bb5a2-4eb9-4e88-bd41-b5cb3e622055
 - datetime: 2024-05-03T11:59:59.801Z
   text: Bergie on watch, lunch
   author: bergie
@@ -165,6 +177,8 @@
     seaState: 2
     cloudCoverage: 2
     visibility: 8
+  origin: manual
+  id: 376a4a83-107b-4377-85d3-f101cfb89a0e
 - datetime: 2024-05-03T13:00:00.800Z
   text: ""
   author: ""
@@ -189,6 +203,8 @@
     - ihmis-suski
     - bergie
   category: navigation
+  origin: auto
+  id: 6485d6aa-a597-451a-9308-6f86f6390b05
 - datetime: 2024-05-03T13:22:00.800Z
   text: Past the Røvær lighthouse. 1kt current against us
   author: bergie
@@ -213,6 +229,8 @@
     - ihmis-suski
     - bergie
   category: navigation
+  origin: manual
+  id: 413ec52c-592c-4092-9c55-f078d56b1011
 - datetime: 2024-05-03T14:00:01.798Z
   text: ""
   author: ""
@@ -237,6 +255,8 @@
     - ihmis-suski
     - bergie
   category: navigation
+  origin: auto
+  id: 79115410-7167-4979-b473-a5f52bde20ad
 - datetime: 2024-05-03T14:34:59.801Z
   text: Autopilot deactivated
   author: ""
@@ -261,6 +281,8 @@
     - ihmis-suski
     - bergie
   category: navigation
+  origin: auto
+  id: 4e4e7755-c875-432d-be94-58b62766cf2f
 - datetime: 2024-05-03T14:38:26.800Z
   text: "Sails set: Main. Wind died completely "
   author: bergie
@@ -285,6 +307,8 @@
     - ihmis-suski
     - bergie
   category: navigation
+  origin: manual
+  id: 7b8b69a6-3468-4e10-8e07-01e96123b1f6
 - datetime: 2024-05-03T14:39:08.800Z
   text: Motorsailing with Main up
   author: bergie
@@ -309,6 +333,8 @@
     - ihmis-suski
     - bergie
   category: navigation
+  origin: manual
+  id: 4ac25492-ab6b-4032-b87b-15cd09532bfd
 - datetime: 2024-05-03T14:40:49.798Z
   text: Autopilot activated
   author: ""
@@ -333,6 +359,8 @@
     - ihmis-suski
     - bergie
   category: navigation
+  origin: auto
+  id: eccf23ac-fcba-43c7-8da7-8b6389726b1e
 - datetime: 2024-05-03T14:45:34.800Z
   text: Motor stopped, sailing with Main, Genoa 1
   author: bergie
@@ -357,6 +385,8 @@
     - ihmis-suski
     - bergie
   category: navigation
+  origin: manual
+  id: 7f27036e-fd70-4a3a-8a64-5a8bfce65c35
 - datetime: 2024-05-03T15:00:02.803Z
   text: ""
   author: ""
@@ -381,6 +411,8 @@
     - ihmis-suski
     - bergie
   category: navigation
+  origin: auto
+  id: 3b9da14c-c06c-4820-b9a3-70b71ca82a9c
 - datetime: 2024-05-03T15:34:58.803Z
   text: Autopilot deactivated, windvane steering
   author: bergie
@@ -405,6 +437,8 @@
     - ihmis-suski
     - bergie
   category: navigation
+  origin: manual
+  id: 6d3404db-2cef-4235-818e-9bc7ac25b24c
 - datetime: 2024-05-03T16:00:02.803Z
   text: ""
   author: ""
@@ -429,6 +463,8 @@
     - ihmis-suski
     - bergie
   category: navigation
+  origin: auto
+  id: f8f21e4d-f5af-411a-af2e-d06766d5e277
 - datetime: 2024-05-03T16:05:02.796Z
   text: Wind died again
   author: bergie
@@ -453,6 +489,8 @@
     - ihmis-suski
     - bergie
   category: navigation
+  origin: manual
+  id: bb358610-2466-4cd2-9f7c-929d27e2d250
 - datetime: 2024-05-03T16:27:03.801Z
   text: Fishing with the Swedish gear
   author: bergie
@@ -481,6 +519,8 @@
     cloudCoverage: 4
     seaState: 2
     visibility: 8
+  origin: manual
+  id: a307e686-0ed3-4838-b090-6f2cd1d8ffc6
 - datetime: 2024-05-03T16:54:04.800Z
   text: "Deployed hydrogenerator "
   author: bergie
@@ -505,6 +545,8 @@
     - ihmis-suski
     - bergie
   category: navigation
+  origin: manual
+  id: 3064733e-4918-4c38-8329-3b01196227b1
 - datetime: 2024-05-03T17:00:03.801Z
   text: ""
   author: ""
@@ -529,6 +571,8 @@
     - ihmis-suski
     - bergie
   category: navigation
+  origin: auto
+  id: c1f4a6c0-007d-424d-a3b3-f512fbfb3362
 - datetime: 2024-05-03T17:14:52.800Z
   text: Autopilot activated
   author: ""
@@ -553,6 +597,8 @@
     - ihmis-suski
     - bergie
   category: navigation
+  origin: auto
+  id: c4923064-a3b5-4db5-84c6-e2d7d0dd9215
 - datetime: 2024-05-03T18:00:47.801Z
   text: ""
   author: ""
@@ -577,6 +623,8 @@
     - ihmis-suski
     - bergie
   category: navigation
+  origin: auto
+  id: e477bf47-01ac-4b00-9b9c-3849e2faf48a
 - datetime: 2024-05-03T18:07:44.800Z
   text: "Bergie to off watch. Suski on watch with her lunch box full of sandwiches "
   author: ihmis-suski
@@ -605,6 +653,8 @@
     seaState: 2
     cloudCoverage: 3
     visibility: 8
+  origin: manual
+  id: d4f95734-3b17-4856-ae0f-1b8c11427aca
 - datetime: 2024-05-03T19:00:44.800Z
   text: ""
   author: ""
@@ -629,6 +679,8 @@
     - ihmis-suski
     - bergie
   category: navigation
+  origin: auto
+  id: 955bb62e-a96d-4f52-a066-a1c3d0c77090
 - datetime: 2024-05-03T19:15:45.798Z
   text: >
     We have a pensastasku (saxicola rubetra) hopping around. For a while it sat
@@ -659,6 +711,8 @@
     seaState: 2
     cloudCoverage: 4
     visibility: 8
+  origin: manual
+  id: 5adf4218-cce9-43b7-bf8f-8d8775879e8b
 - datetime: 2024-05-03T20:00:46.201Z
   text: ""
   author: ""
@@ -683,6 +737,8 @@
     - ihmis-suski
     - bergie
   category: navigation
+  origin: auto
+  id: 103eea7c-f876-4cb9-a11b-2579423a6dcb
 - datetime: 2024-05-03T21:00:47.097Z
   text: ""
   author: ""
@@ -706,6 +762,8 @@
     - ihmis-suski
     - bergie
   category: navigation
+  origin: auto
+  id: 5c75978c-f851-492a-81b9-0e23965563f3
 - datetime: 2024-05-03T22:00:48.102Z
   text: ""
   author: ""
@@ -729,6 +787,8 @@
     - ihmis-suski
     - bergie
   category: navigation
+  origin: auto
+  id: 5f0e44a0-78e9-4e78-bf0b-e6bab2a197c6
 - datetime: 2024-05-03T23:00:50.099Z
   text: ""
   author: ""
@@ -752,6 +812,8 @@
     - ihmis-suski
     - bergie
   category: navigation
+  origin: auto
+  id: 7e979e18-6850-493d-9fb2-f4160e706385
 - datetime: 2024-05-03T23:03:50.099Z
   text: The Pensastasku died. Maybe it was just too tired and we didn't have any
     food for it.
@@ -780,3 +842,5 @@
     seaState: 2
     cloudCoverage: 1
     visibility: 8
+  origin: manual
+  id: a5857ce1-011d-4f56-b66f-1bd18393bc61

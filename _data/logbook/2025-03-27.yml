@@ -25,6 +25,8 @@
     - ihmis-suski
     - bergie
   category: navigation
+  origin: auto
+  id: 9f13a9fa-50ca-4a46-85d1-2f52ad66a6f5
 - datetime: 2025-03-27T14:58:43.897Z
   text: Motoring
   author: bergie
@@ -52,6 +54,8 @@
     - ihmis-suski
     - bergie
   category: navigation
+  origin: manual
+  id: d6deab87-10d5-4797-9d8a-7f07575e004d
 - datetime: 2025-03-27T15:00:42.899Z
   text: ""
   author: ""
@@ -79,6 +83,8 @@
     - ihmis-suski
     - bergie
   category: navigation
+  origin: auto
+  id: 924e9b1d-eb2d-474e-97e8-311dcfb04d1f
 - datetime: 2025-03-27T15:04:53.900Z
   text: Motor stopped, sailing with Main (1st reef)
   author: bergie
@@ -106,6 +112,8 @@
     - ihmis-suski
     - bergie
   category: navigation
+  origin: manual
+  id: fc0d4cef-ce7e-48bd-89c4-e393cb3dade1
 - datetime: 2025-03-27T15:07:28.902Z
   text: "Sails set: Main (1st reef), Genoa 1 (40% furled)"
   author: ""
@@ -133,6 +141,8 @@
     - ihmis-suski
     - bergie
   category: navigation
+  origin: auto
+  id: 5d1b51f8-4fc0-4c68-a531-b3f0d034768f
 - datetime: 2025-03-27T15:55:10.899Z
   text: "Sails set: Main (1st reef), Genoa 1 (60% furled)"
   author: ""
@@ -160,6 +170,8 @@
     - ihmis-suski
     - bergie
   category: navigation
+  origin: auto
+  id: b624a65b-7301-4fbc-a07e-5341de5d86ae
 - datetime: 2025-03-27T16:00:46.003Z
   text: ""
   author: ""
@@ -187,6 +199,8 @@
     - ihmis-suski
     - bergie
   category: navigation
+  origin: auto
+  id: 2d60fdd9-256f-4b7c-b2a3-7487740cafc5
 - datetime: 2025-03-27T16:45:00.000Z
   text: Sails down, motoring
   author: ""
@@ -214,6 +228,8 @@
     - ihmis-suski
     - bergie
   category: navigation
+  origin: auto
+  id: a0c5e165-7238-43df-94e3-0c483c3c8c5a
 - datetime: 2025-03-27T17:00:48.998Z
   text: ""
   author: ""
@@ -241,6 +257,8 @@
     - ihmis-suski
     - bergie
   category: navigation
+  origin: auto
+  id: e1fa980e-d2b4-4a98-a51c-b4ac1e84064b
 - datetime: 2025-03-27T17:32:14.003Z
   text: Picked a mooring
   author: bergie
@@ -269,6 +287,8 @@
     - bergie
   end: true
   category: navigation
+  origin: manual
+  id: ddab40f1-d5a0-4fc2-8758-8ee825555b92
 - datetime: 2025-03-27T17:33:36.000Z
   text: Stopped main engine
   author: ""
@@ -296,3 +316,5 @@
     - ihmis-suski
     - bergie
   category: navigation
+  origin: auto
+  id: 7cc12c7d-bc3c-425c-94cc-ac2365856d7c

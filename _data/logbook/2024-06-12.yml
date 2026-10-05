@@ -21,6 +21,8 @@
     - ihmis-suski
     - bergie
   category: navigation
+  origin: auto
+  id: 069699f3-f811-4d82-90c7-e607180a0804
 - datetime: 2024-06-12T09:59:07.001Z
   text: Anchor up, motoring
   author: ""
@@ -44,6 +46,8 @@
     - ihmis-suski
     - bergie
   category: navigation
+  origin: auto
+  id: 02769163-b704-45ca-9aec-dac534395a98
 - datetime: 2024-06-12T10:00:11.001Z
   text: ""
   author: ""
@@ -67,6 +71,8 @@
     - ihmis-suski
     - bergie
   category: navigation
+  origin: auto
+  id: 9ad64174-3757-43a7-8b10-2e8f9d2192b6
 - datetime: 2024-06-12T10:32:24.000Z
   text: Autopilot activated
   author: ""
@@ -91,6 +97,8 @@
     - ihmis-suski
     - bergie
   category: navigation
+  origin: auto
+  id: 59d4a792-e54a-4240-9d13-b9e99d6ef7c5
 - datetime: 2024-06-12T10:37:44.998Z
   text: Motor stopped, sailing with Main
   author: ""
@@ -115,6 +123,8 @@
     - ihmis-suski
     - bergie
   category: navigation
+  origin: auto
+  id: 830fa739-dc2c-4bfc-a1ad-58e743a80dc6
 - datetime: 2024-06-12T10:41:04.998Z
   text: "Sails set: Main, Genoa 1"
   author: ""
@@ -139,6 +149,8 @@
     - ihmis-suski
     - bergie
   category: navigation
+  origin: auto
+  id: 9e2950c0-e9dc-4fee-af06-3e4916048e5e
 - datetime: 2024-06-12T10:47:59.001Z
   text: Started watermaker, 160ppm
   author: bergie
@@ -163,6 +175,8 @@
     - ihmis-suski
     - bergie
   category: maintenance
+  origin: manual
+  id: 1c195c40-5da5-405a-a7d5-86a6d2b1b47a
 - datetime: 2024-06-12T11:00:55.001Z
   text: ""
   author: ""
@@ -187,6 +201,8 @@
     - ihmis-suski
     - bergie
   category: navigation
+  origin: auto
+  id: 847efdd3-6a5e-4066-8cec-ce2d8c8fba5f
 - datetime: 2024-06-12T11:31:55.001Z
   text: Autopilot deactivated
   author: ""
@@ -211,6 +227,8 @@
     - ihmis-suski
     - bergie
   category: navigation
+  origin: auto
+  id: 90a7841d-c262-4009-a1fa-4d431c44d773
 - datetime: 2024-06-12T11:37:12.998Z
   text: Autopilot activated
   author: ""
@@ -235,6 +253,8 @@
     - ihmis-suski
     - bergie
   category: navigation
+  origin: auto
+  id: 98c450e1-c07f-47aa-9260-12393434891e
 - datetime: 2024-06-12T12:00:39.001Z
   text: ""
   author: ""
@@ -259,6 +279,8 @@
     - ihmis-suski
     - bergie
   category: navigation
+  origin: auto
+  id: b7b4a87d-1dd8-4a72-a3b8-c38bf1ae7481
 - datetime: 2024-06-12T12:04:16.998Z
   text: Autopilot deactivated
   author: ""
@@ -283,6 +305,8 @@
     - ihmis-suski
     - bergie
   category: navigation
+  origin: auto
+  id: ff04f1d3-7b0e-4b36-a883-1a88576a1d30
 - datetime: 2024-06-12T12:07:31.001Z
   text: Motorsailing with the cone. Too many eddies to keep course under sail
   author: bergie
@@ -307,6 +331,8 @@
     - ihmis-suski
     - bergie
   category: navigation
+  origin: manual
+  id: c6fe45cd-724f-47e1-87a8-6d03686f4bb3
 - datetime: 2024-06-12T12:07:36.998Z
   text: Stopped watermaker, 141ppm
   author: bergie
@@ -331,6 +357,8 @@
     - ihmis-suski
     - bergie
   category: maintenance
+  origin: manual
+  id: d37573f3-ac05-489f-a98d-c4e0768b8680
 - datetime: 2024-06-12T12:07:44.000Z
   text: Autopilot activated
   author: bergie
@@ -359,6 +387,8 @@
     cloudCoverage: 6
     seaState: 1
     visibility: 8
+  origin: manual
+  id: 41ce7aff-5e69-4e66-b931-6652a0f0675d
 - datetime: 2024-06-12T12:50:12.000Z
   text: Motor stopped, sailing with Main, Genoa 1. We're now past the tidal eddies
   author: bergie
@@ -383,6 +413,8 @@
     - ihmis-suski
     - bergie
   category: navigation
+  origin: manual
+  id: 45b2f832-addf-43b8-b4ea-66eb5522017f
 - datetime: 2024-06-12T13:00:20.998Z
   text: ""
   author: ""
@@ -407,6 +439,8 @@
     - ihmis-suski
     - bergie
   category: navigation
+  origin: auto
+  id: 0330786f-ad75-426d-8094-ae10b2cc5751
 - datetime: 2024-06-12T13:33:34.000Z
   text: Sails down, motoring
   author: ""
@@ -431,6 +465,8 @@
     - ihmis-suski
     - bergie
   category: navigation
+  origin: auto
+  id: 243dc6d3-6248-406e-a3f9-8c8cfb92a54d
 - datetime: 2024-06-12T13:34:51.001Z
   text: Autopilot deactivated
   author: ""
@@ -455,6 +491,8 @@
     - ihmis-suski
     - bergie
   category: navigation
+  origin: auto
+  id: 7af9f504-835b-40a7-bc6f-2bdb17e5e728
 - datetime: 2024-06-12T13:56:02.000Z
   text: Stopped
   author: ""
@@ -480,3 +518,5 @@
     - bergie
   end: true
   category: navigation
+  origin: auto
+  id: b2e45774-fc50-419e-a616-b628a961e217

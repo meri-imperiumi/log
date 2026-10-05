@@ -26,6 +26,8 @@
     - bergie
     - bernhard
   category: navigation
+  origin: auto
+  id: 13c9410e-e40f-4957-833c-68a930599d10
 - datetime: 2025-03-07T13:22:12.899Z
   text: Anchor up, motoring
   author: bergie
@@ -54,6 +56,8 @@
     - bergie
     - bernhard
   category: navigation
+  origin: manual
+  id: 64b5d0e5-4f91-4724-ab25-693fdca01978
 - datetime: 2025-03-07T13:35:36.899Z
   text: Motor stopped, sailing with Main, Genoa 1
   author: ""
@@ -82,6 +86,8 @@
     - bergie
     - bernhard
   category: navigation
+  origin: auto
+  id: f916892f-97c5-4741-8db7-1631d1a01e48
 - datetime: 2025-03-07T14:00:11.900Z
   text: ""
   author: ""
@@ -110,6 +116,8 @@
     - bergie
     - bernhard
   category: navigation
+  origin: auto
+  id: 5be0f7ee-4704-4663-976c-8e0c884640ff
 - datetime: 2025-03-07T15:00:12.998Z
   text: ""
   author: ""
@@ -138,6 +146,8 @@
     - bergie
     - bernhard
   category: navigation
+  origin: auto
+  id: d8df7278-e43b-4749-bcae-53e297b6217c
 - datetime: 2025-03-07T16:00:14.003Z
   text: ""
   author: ""
@@ -166,6 +176,8 @@
     - bergie
     - bernhard
   category: navigation
+  origin: auto
+  id: 3b308a54-d271-44db-a5a5-1d378536b641
 - datetime: 2025-03-07T17:00:14.099Z
   text: ""
   author: ""
@@ -194,6 +206,8 @@
     - bergie
     - bernhard
   category: navigation
+  origin: auto
+  id: 635cde09-5a93-4947-afaf-cce4cf92d930
 - datetime: 2025-03-07T17:13:08.102Z
   text: Sails down, motoring
   author: ""
@@ -222,6 +236,8 @@
     - bergie
     - bernhard
   category: navigation
+  origin: auto
+  id: 7846e44e-6dbe-461c-83df-10e1f05121d6
 - datetime: 2025-03-07T17:25:04.102Z
   text: Anchored
   author: ""
@@ -251,6 +267,8 @@
     - bernhard
   end: true
   category: navigation
+  origin: auto
+  id: 3537657a-1321-4b8d-b3cf-488c95504e98
 - datetime: 2025-03-07T17:28:53.100Z
   text: Stopped main engine
   author: ""
@@ -279,6 +297,8 @@
     - bergie
     - bernhard
   category: navigation
+  origin: auto
+  id: e5bec6ee-0750-4fba-a320-886390dab852
 - datetime: 2025-03-07T18:36:08.102Z
   text: "Started watermaker "
   author: bergie
@@ -306,6 +326,8 @@
     - bergie
     - bernhard
   category: maintenance
+  origin: manual
+  id: 2349d428-ed0f-47d7-9e9b-08d00fd5432a
 - datetime: 2025-03-07T18:50:04.102Z
   text: Watermaker 288ppm
   author: bergie
@@ -333,6 +355,8 @@
     - bergie
     - bernhard
   category: maintenance
+  origin: manual
+  id: 8045c70f-49cf-4982-b590-c29f87407668
 - datetime: 2025-03-07T20:31:41.196Z
   text: Watermaker 271ppm
   author: bergie
@@ -360,6 +384,8 @@
     - bergie
     - bernhard
   category: maintenance
+  origin: manual
+  id: 2b61dd12-e907-4d38-87c7-fef28a2c63b4
 - datetime: 2025-03-07T22:09:40.198Z
   text: Stopped watermaker, 266ppm
   author: bergie
@@ -387,3 +413,5 @@
     - bergie
     - bernhard
   category: maintenance
+  origin: manual
+  id: f0a4d8fc-34f3-44a0-a7aa-df797e418fb2

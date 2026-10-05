@@ -25,6 +25,8 @@
     - ihmis-suski
     - bergie
   category: navigation
+  origin: auto
+  id: 75f4b9c4-c1b9-4c5a-9149-51c0fc0a51c0
 - datetime: 2024-12-19T08:32:37.600Z
   text: Motoring
   author: ""
@@ -52,6 +54,8 @@
     - ihmis-suski
     - bergie
   category: navigation
+  origin: auto
+  id: d55434d9-dd0f-4f4c-b24d-6103f3fd687c
 - datetime: 2024-12-19T09:00:29.600Z
   text: ""
   author: ""
@@ -79,6 +83,8 @@
     - ihmis-suski
     - bergie
   category: navigation
+  origin: auto
+  id: 6d179a13-7dbc-4dc9-9d11-092741638d7f
 - datetime: 2024-12-19T09:05:27.600Z
   text: Motor stopped, sailing with Main (1st reef), Staysail
   author: ""
@@ -106,6 +112,8 @@
     - ihmis-suski
     - bergie
   category: navigation
+  origin: auto
+  id: 5c6899e4-1ddc-4073-944b-41e37324f8cc
 - datetime: 2024-12-19T10:00:23.600Z
   text: ""
   author: ""
@@ -133,6 +141,8 @@
     - ihmis-suski
     - bergie
   category: navigation
+  origin: auto
+  id: 00cadedc-9bd0-46b6-aeb5-fca7cf37cd37
 - datetime: 2024-12-19T10:02:23.600Z
   text: "Gybed to north end of Gran Canaria "
   author: bergie
@@ -164,6 +174,8 @@
     seaState: 4
     cloudCoverage: 1
     visibility: 7
+  origin: manual
+  id: 1cc58c52-86a1-4f45-b341-761bb4725c27
 - datetime: 2024-12-19T10:13:28.601Z
   text: Autopilot activated
   author: ""
@@ -191,6 +203,8 @@
     - ihmis-suski
     - bergie
   category: navigation
+  origin: auto
+  id: a955dbe4-7fa9-4029-a1bb-0d61bdf66547
 - datetime: 2024-12-19T10:34:23.600Z
   text: Somebody calling Las Palmas Rescue with engine trouble. Really poor
     connection. Callsign W2... name Pixie Dust. Under sail but needing
@@ -220,6 +234,8 @@
     - ihmis-suski
     - bergie
   category: radio
+  origin: manual
+  id: 3ea53cb1-e372-41cd-ab96-e50d1b415115
 - datetime: 2024-12-19T11:00:24.601Z
   text: ""
   author: ""
@@ -247,6 +263,8 @@
     - ihmis-suski
     - bergie
   category: navigation
+  origin: auto
+  id: d75e8c05-c4c8-4cd6-9e97-a3973cbce11d
 - datetime: 2024-12-19T12:00:24.601Z
   text: Bergie on watch. Quite a lot of Sahara sand in the air
   author: bergie
@@ -278,6 +296,8 @@
     seaState: 3
     cloudCoverage: 0
     visibility: 6
+  origin: manual
+  id: 9beef638-762b-4b67-af0d-805880a4a7a4
 - datetime: 2024-12-19T12:42:24.601Z
   text: Quite a wind shift
   author: bergie
@@ -305,6 +325,8 @@
     - ihmis-suski
     - bergie
   category: navigation
+  origin: manual
+  id: 6f4b5b5c-4bd3-4690-9766-4233514fd317
 - datetime: 2024-12-19T12:52:24.601Z
   text: "Started watermaker "
   author: bergie
@@ -332,6 +354,8 @@
     - ihmis-suski
     - bergie
   category: maintenance
+  origin: manual
+  id: 1aaacf82-7253-4e22-8c36-7abc1dc03d8b
 - datetime: 2024-12-19T13:00:24.601Z
   text: ""
   author: ""
@@ -359,6 +383,8 @@
     - ihmis-suski
     - bergie
   category: navigation
+  origin: auto
+  id: 27e64d0b-8749-480d-8f3a-fe5c1868645c
 - datetime: 2024-12-19T13:02:24.601Z
   text: "Securite Las Palmas: semi-submerged migrant boat spotted 28°06'18\"N"
   author: bergie
@@ -386,6 +412,8 @@
     - ihmis-suski
     - bergie
   category: radio
+  origin: manual
+  id: 637cd414-9dc5-4d6e-b876-3ad28fa2ce7c
 - datetime: 2024-12-19T13:35:25.699Z
   text: Stopped watermaker, 1590ppm. It was using around 80W, so almost double it
     should.
@@ -414,6 +442,8 @@
     - ihmis-suski
     - bergie
   category: maintenance
+  origin: manual
+  id: 9e1984ac-b457-4e12-9975-c7d1e2cacc62
 - datetime: 2024-12-19T13:36:52.700Z
   text: Sails down, motoring
   author: ""
@@ -441,6 +471,8 @@
     - ihmis-suski
     - bergie
   category: navigation
+  origin: auto
+  id: e8e90b0a-0e29-47f3-ae8a-acc1f9fe3455
 - datetime: 2024-12-19T14:00:26.000Z
   text: I can see a hazy outline of Tenerife in the horizon, but there's a lot of
     sand in the air
@@ -469,6 +501,8 @@
     - ihmis-suski
     - bergie
   category: navigation
+  origin: manual
+  id: c43fac52-b631-41a0-85d4-52fe1898915c
 - datetime: 2024-12-19T14:42:26.099Z
   text: "Pickled watermaker "
   author: bergie
@@ -496,6 +530,8 @@
     - ihmis-suski
     - bergie
   category: maintenance
+  origin: manual
+  id: 52524acd-5ee9-4f07-a885-2dc0a4aaed0d
 - datetime: 2024-12-19T15:00:27.097Z
   text: ""
   author: ""
@@ -523,6 +559,8 @@
     - ihmis-suski
     - bergie
   category: navigation
+  origin: auto
+  id: 7745ef9f-c891-4d81-8bb9-64d3d1639cc9
 - datetime: 2024-12-19T15:27:40.102Z
   text: Motor stopped, sailing with Main (1st reef)
   author: bergie
@@ -550,6 +588,8 @@
     - ihmis-suski
     - bergie
   category: navigation
+  origin: manual
+  id: 6f5ce8ca-718e-4b1c-bad9-ac72452aec85
 - datetime: 2024-12-19T15:29:57.100Z
   text: "Sails set: Main (1st reef), Genoa 1"
   author: ""
@@ -577,6 +617,8 @@
     - ihmis-suski
     - bergie
   category: navigation
+  origin: auto
+  id: 9eabab0d-ca94-44ed-bbb0-6ed35f805462
 - datetime: 2024-12-19T15:31:38.099Z
   text: Autopilot deactivated
   author: ""
@@ -604,6 +646,8 @@
     - ihmis-suski
     - bergie
   category: navigation
+  origin: auto
+  id: c1f82324-b7da-4f4c-81a4-7a1a5f44b2af
 - datetime: 2024-12-19T15:41:57.100Z
   text: "Sails set: Main (1st reef). Just floating around for a bit"
   author: bergie
@@ -631,6 +675,8 @@
     - ihmis-suski
     - bergie
   category: navigation
+  origin: manual
+  id: 1630e22a-9eb4-41f5-ae64-810dfc7772da
 - datetime: 2024-12-19T16:00:27.097Z
   text: ""
   author: ""
@@ -658,6 +704,8 @@
     - ihmis-suski
     - bergie
   category: navigation
+  origin: auto
+  id: 46c67047-e97d-426d-9a79-42e0e825871d
 - datetime: 2024-12-19T17:26:15.097Z
   text: "Sails set: Main (1st reef), Staysail"
   author: ""
@@ -685,6 +733,8 @@
     - ihmis-suski
     - bergie
   category: navigation
+  origin: auto
+  id: 4e984a01-c10c-4c0e-a6ab-e96bcb33b9a3
 - datetime: 2024-12-19T17:31:27.097Z
   text: Autopilot activated
   author: bergie
@@ -712,6 +762,8 @@
     - ihmis-suski
     - bergie
   category: navigation
+  origin: manual
+  id: cb73aba8-ddb3-465e-a5d9-4465dd2f940a
 - datetime: 2024-12-19T18:00:27.097Z
   text: "Watch change. Suski getting the first patch of darkness. "
   author: ihmis-suski
@@ -739,6 +791,8 @@
     - ihmis-suski
     - bergie
   category: navigation
+  origin: manual
+  id: 91bedd93-cb48-4ebb-85a8-48de7b1c69c5
 - datetime: 2024-12-19T19:00:19.097Z
   text: ""
   author: ""
@@ -766,6 +820,8 @@
     - ihmis-suski
     - bergie
   category: navigation
+  origin: auto
+  id: 169f5d1d-1af9-4180-b770-0ed15908a910
 - datetime: 2024-12-19T20:00:21.100Z
   text: ""
   author: ""
@@ -793,6 +849,8 @@
     - ihmis-suski
     - bergie
   category: navigation
+  origin: auto
+  id: 9a8e298e-101c-4feb-bf73-47cdff0ba31a
 - datetime: 2024-12-19T21:00:22.201Z
   text: ""
   author: ""
@@ -820,6 +878,8 @@
     - ihmis-suski
     - bergie
   category: navigation
+  origin: auto
+  id: 79ea8413-fa38-437c-9650-8eb66cee3895
 - datetime: 2024-12-19T21:41:45.203Z
   text: Sails down, motoring. Found the lee again. Motoring back out to find wind.
   author: ihmis-suski
@@ -847,6 +907,8 @@
     - ihmis-suski
     - bergie
   category: navigation
+  origin: manual
+  id: 90984c06-34f5-4b2e-8b27-e178b6d759fa
 - datetime: 2024-12-19T22:00:24.198Z
   text: ""
   author: ""
@@ -874,6 +936,8 @@
     - ihmis-suski
     - bergie
   category: navigation
+  origin: auto
+  id: b1379d08-6740-4f3a-b5a2-85578c378af5
 - datetime: 2024-12-19T22:52:25.203Z
   text: Moon rising behind Gran Canaria
   author: ihmis-suski
@@ -901,6 +965,8 @@
     - ihmis-suski
     - bergie
   category: navigation
+  origin: manual
+  id: 5bd5871c-c9cd-4249-af7b-2fae0ea798f7
 - datetime: 2024-12-19T23:00:25.203Z
   text: ""
   author: ""
@@ -927,3 +993,6 @@
   crewNames:
     - ihmis-suski
     - bergie
+  category: navigation
+  origin: auto
+  id: 80adb772-5eab-4db6-b607-ac3a49a9756f

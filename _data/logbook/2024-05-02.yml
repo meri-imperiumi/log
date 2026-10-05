@@ -21,6 +21,8 @@
     - ihmis-suski
     - bergie
   category: navigation
+  origin: auto
+  id: f4162d8d-029f-43a8-baaa-b85f1917c2b1
 - datetime: 2024-05-02T09:04:21.500Z
   text: Motoring
   author: ""
@@ -44,6 +46,8 @@
     - ihmis-suski
     - bergie
   category: navigation
+  origin: auto
+  id: 9867296c-cce7-4bce-b5e6-3003ed9f5080
 - datetime: 2024-05-02T09:18:01.500Z
   text: Motor stopped, sailing with Main (1st reef)
   author: ""
@@ -67,6 +71,8 @@
     - ihmis-suski
     - bergie
   category: navigation
+  origin: auto
+  id: be55d662-88cb-4c04-94d7-5fe7f5cde9ad
 - datetime: 2024-05-02T10:00:20.499Z
   text: ""
   author: ""
@@ -91,6 +97,8 @@
     - ihmis-suski
     - bergie
   category: navigation
+  origin: auto
+  id: 416e614d-bf18-4a50-91b4-d15062175a34
 - datetime: 2024-05-02T10:11:36.499Z
   text: "Sails set: Main (1st reef), Genoa 1"
   author: ""
@@ -115,6 +123,8 @@
     - ihmis-suski
     - bergie
   category: navigation
+  origin: auto
+  id: a4fa7e37-9299-444b-beb4-6c90fff4877e
 - datetime: 2024-05-02T11:00:21.900Z
   text: ""
   author: ""
@@ -139,6 +149,8 @@
     - ihmis-suski
     - bergie
   category: navigation
+  origin: auto
+  id: 44022f98-70ca-4afd-beb4-01c43694b346
 - datetime: 2024-05-02T11:03:48.899Z
   text: "Sails set: Main (1st reef), Genoa 1 (40% furled)"
   author: ihmis-suski
@@ -167,6 +179,8 @@
     seaState: 3
     cloudCoverage: 1
     visibility: 8
+  origin: manual
+  id: 60b4080a-cdfd-4373-b590-b90ca558fb87
 - datetime: 2024-05-02T12:00:22.899Z
   text: ""
   author: ""
@@ -191,6 +205,8 @@
     - ihmis-suski
     - bergie
   category: navigation
+  origin: auto
+  id: e0328a3d-0bc7-46ff-a824-8d4346504957
 - datetime: 2024-05-02T12:29:47.900Z
   text: "Sails set: Main (1st reef), Genoa 1"
   author: ihmis-suski
@@ -219,6 +235,8 @@
     seaState: 1
     cloudCoverage: 1
     visibility: 8
+  origin: manual
+  id: 6f13ed7d-9d33-40af-8861-d1af60b74ae2
 - datetime: 2024-05-02T13:00:22.899Z
   text: ""
   author: ""
@@ -243,6 +261,8 @@
     - ihmis-suski
     - bergie
   category: navigation
+  origin: auto
+  id: 69f8e18e-4b1d-487a-8eb3-d2e1df93ee13
 - datetime: 2024-05-02T13:21:58.899Z
   text: Sails down, motoring
   author: ""
@@ -267,6 +287,8 @@
     - ihmis-suski
     - bergie
   category: navigation
+  origin: auto
+  id: 24d81382-1293-44ab-bd73-b0a294b61f75
 - datetime: 2024-05-02T13:33:16.899Z
   text: Stopped
   author: ""
@@ -292,3 +314,5 @@
     - bergie
   end: true
   category: navigation
+  origin: auto
+  id: 33e61555-18aa-410e-b54b-bcca84378d29

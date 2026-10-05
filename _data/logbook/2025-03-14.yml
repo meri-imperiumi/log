@@ -22,6 +22,8 @@
     - bergie
     - bernhard
   category: navigation
+  origin: manual
+  id: 764e72d2-d76b-41ef-8017-b4ab7b4deed9
 - datetime: 2025-03-14T12:34:38.000Z
   text: "No solar output from the bow panels today and yesterday "
   author: bergie
@@ -46,6 +48,8 @@
     - bergie
     - bernhard
   category: maintenance
+  origin: manual
+  id: c5444a9c-6a03-4878-82e9-600657ee85cf
 - datetime: 2025-03-14T13:56:24.000Z
   text: Started main engine
   author: ""
@@ -70,6 +74,8 @@
     - bergie
     - bernhard
   category: navigation
+  origin: auto
+  id: 53a1968b-487a-4ad0-a2ef-03f81a8cf3e5
 - datetime: 2025-03-14T13:58:40.000Z
   text: Anchor up, motoring
   author: ""
@@ -95,6 +101,8 @@
     - bergie
     - bernhard
   category: navigation
+  origin: auto
+  id: 33ec5a44-e03a-449e-a701-98f3bc96e168
 - datetime: 2025-03-14T13:59:36.998Z
   text: The anchor chain is stuck on something, can't get over 20m up
   author: bergie
@@ -121,6 +129,8 @@
     - bernhard
   end: true
   category: navigation
+  origin: manual
+  id: ea79fd3e-187a-45d4-9a2b-218fde9ceb00
 - datetime: 2025-03-14T14:37:38.400Z
   text: Motoring, Suski was able to wiggle the chain loose by snorkling
   author: bergie
@@ -146,6 +156,8 @@
     - bergie
     - bernhard
   category: navigation
+  origin: manual
+  id: a42b7f52-809d-4019-a894-557c11fb1bbf
 - datetime: 2025-03-14T14:59:38.400Z
   text: Motor stopped, sailing with Main, Genoa 1 (20% furled)
   author: ""
@@ -174,6 +186,8 @@
     - bergie
     - bernhard
   category: navigation
+  origin: auto
+  id: 89dfe196-342f-4461-acf3-cfbfeca7ebda
 - datetime: 2025-03-14T15:00:38.400Z
   text: ""
   author: ""
@@ -202,6 +216,8 @@
     - bergie
     - bernhard
   category: navigation
+  origin: auto
+  id: 22f76125-c38c-4eec-8ff8-b87221431248
 - datetime: 2025-03-14T15:00:38.400Z
   text: "Started watermaker "
   author: bergie
@@ -230,6 +246,8 @@
     - bergie
     - bernhard
   category: maintenance
+  origin: manual
+  id: 5d4f5c2a-2cb0-4665-80c2-833a478528b7
 - datetime: 2025-03-14T15:15:38.400Z
   text: Watermaker  302ppm.
   author: ihmis-suski
@@ -258,6 +276,8 @@
     - bergie
     - bernhard
   category: maintenance
+  origin: manual
+  id: 6c0180eb-5ad1-4772-a90c-a3c1b38cc4a3
 - datetime: 2025-03-14T15:18:38.400Z
   text: Bow panels do output power when connected to the FLINsail cables, so
     likely corrosion or physical damage in the other MC4 cable
@@ -287,6 +307,8 @@
     - bergie
     - bernhard
   category: maintenance
+  origin: manual
+  id: 7b5a8b5f-9dff-4205-bb60-187a9ec84f28
 - datetime: 2025-03-14T16:07:29.401Z
   text: "Sails set: Main, Genoa 1"
   author: ""
@@ -315,6 +337,8 @@
     - bergie
     - bernhard
   category: navigation
+  origin: auto
+  id: e50bb8cb-2a60-4187-86e8-f4f2cf9b6cc7
 - datetime: 2025-03-14T16:59:39.500Z
   text: Watermaker 274ppm
   author: bergie
@@ -343,6 +367,8 @@
     - bergie
     - bernhard
   category: maintenance
+  origin: manual
+  id: 4ff84487-9b8a-4b63-b3e2-19afb7f6af05
 - datetime: 2025-03-14T17:00:40.499Z
   text: ""
   author: ""
@@ -371,6 +397,8 @@
     - bergie
     - bernhard
   category: navigation
+  origin: auto
+  id: ee831738-35eb-4b56-b87f-e13293fef662
 - datetime: 2025-03-14T18:00:40.499Z
   text: ""
   author: ""
@@ -399,6 +427,8 @@
     - bergie
     - bernhard
   category: navigation
+  origin: auto
+  id: 3c7ad770-693f-4a52-aa47-905eb9029b76
 - datetime: 2025-03-14T19:00:42.598Z
   text: ""
   author: ""
@@ -427,6 +457,8 @@
     - bergie
     - bernhard
   category: navigation
+  origin: auto
+  id: 57052602-25b1-4be0-befb-eb26279f44eb
 - datetime: 2025-03-14T19:26:42.598Z
   text: Watermaker 259ppm
   author: bergie
@@ -455,6 +487,8 @@
     - bergie
     - bernhard
   category: maintenance
+  origin: manual
+  id: e84193da-0f89-46dd-93cb-ddeb9a23bd9e
 - datetime: 2025-03-14T20:00:44.601Z
   text: ""
   author: ""
@@ -483,6 +517,8 @@
     - bergie
     - bernhard
   category: navigation
+  origin: auto
+  id: ad9516bf-19d5-45cd-8b48-69adbb213b6f
 - datetime: 2025-03-14T20:46:41.600Z
   text: Stopped watermaker, 260ppm
   author: bergie
@@ -511,6 +547,8 @@
     - bergie
     - bernhard
   category: maintenance
+  origin: manual
+  id: e0576b11-19ba-42c9-bbd9-d06efacb2fac
 - datetime: 2025-03-14T20:55:44.601Z
   text: Sails down, motoring
   author: ""
@@ -539,6 +577,8 @@
     - bergie
     - bernhard
   category: navigation
+  origin: auto
+  id: 8a66ccd3-fde3-4d63-b237-c06a7f32e0ff
 - datetime: 2025-03-14T21:00:39.603Z
   text: ""
   author: ""
@@ -567,6 +607,8 @@
     - bergie
     - bernhard
   category: navigation
+  origin: auto
+  id: 6a730dbf-22f3-4406-9083-40f8a0439a69
 - datetime: 2025-03-14T21:15:55.699Z
   text: Anchored
   author: ""
@@ -596,6 +638,8 @@
     - bernhard
   end: true
   category: navigation
+  origin: auto
+  id: d9eb0006-9e1d-41cf-bf03-d419810df274
 - datetime: 2025-03-14T21:20:21.702Z
   text: Stopped main engine
   author: ""
@@ -624,3 +668,5 @@
     - bergie
     - bernhard
   category: navigation
+  origin: auto
+  id: 11a5c9db-cd96-4d96-89e8-6d524e6ff001

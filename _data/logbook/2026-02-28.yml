@@ -24,6 +24,8 @@
     - ihmis-suski
     - bergie
   category: navigation
+  origin: auto
+  id: 65776b2f-aab7-403c-8034-e267278b677c
 - datetime: 2026-02-28T20:07:41.401Z
   text: Anchor up, motoring
   author: ""
@@ -50,6 +52,8 @@
     - ihmis-suski
     - bergie
   category: navigation
+  origin: auto
+  id: 5eb1c146-f871-49fb-91b2-3b0bbba9bf0b
 - datetime: 2026-02-28T20:30:15.500Z
   text: Autopilot activated
   author: ""
@@ -76,6 +80,8 @@
     - ihmis-suski
     - bergie
   category: navigation
+  origin: auto
+  id: 5988ed3c-d335-4052-b5ca-55209b76475a
 - datetime: 2026-02-28T20:36:32.499Z
   text: Autopilot deactivated
   author: ""
@@ -102,6 +108,8 @@
     - ihmis-suski
     - bergie
   category: navigation
+  origin: auto
+  id: 5538352c-4d42-45ae-9a10-de866f172ce9
 - datetime: 2026-02-28T20:41:28.499Z
   text: Autopilot activated
   author: ""
@@ -128,6 +136,8 @@
     - ihmis-suski
     - bergie
   category: navigation
+  origin: auto
+  id: 715bdbda-0e25-4f60-aed8-16f7d66c9f6e
 - datetime: 2026-02-28T20:43:42.502Z
   text: Motor stopped, sailing with Main (1st reef), Staysail
   author: ""
@@ -154,6 +164,8 @@
     - ihmis-suski
     - bergie
   category: navigation
+  origin: auto
+  id: 18f4f05e-de35-499c-bdee-df821d223409
 - datetime: 2026-02-28T21:00:13.497Z
   text: ""
   author: ""
@@ -180,6 +192,8 @@
     - ihmis-suski
     - bergie
   category: navigation
+  origin: auto
+  id: 3a783d6e-7bc4-411d-9158-dacfccec4933
 - datetime: 2026-02-28T21:21:14.502Z
   text: Dolphins.
   author: ihmis-suski
@@ -206,6 +220,8 @@
     - ihmis-suski
     - bergie
   category: navigation
+  origin: manual
+  id: 61914bf1-9747-4e4d-8791-9cee0a28db4f
 - datetime: 2026-02-28T21:30:50.502Z
   text: Autopilot deactivated, windvane steering
   author: bergie
@@ -232,6 +248,8 @@
     - ihmis-suski
     - bergie
   category: navigation
+  origin: manual
+  id: 86c896f7-eacb-436b-8fad-7f9a76a18d45
 - datetime: 2026-02-28T22:00:18.502Z
   text: ""
   author: ""
@@ -258,6 +276,8 @@
     - ihmis-suski
     - bergie
   category: navigation
+  origin: auto
+  id: fd5bf1e0-2f94-450b-a845-b15a9082efc7
 - datetime: 2026-02-28T23:00:20.902Z
   text: >-
     Watch change. Suski on, Bergie off. 
@@ -293,3 +313,5 @@
     seaState: 3
     cloudCoverage: 7
     visibility: 7
+  origin: manual
+  id: 782669be-d8a4-43af-9a30-810b2f6cab0d

@@ -20,6 +20,8 @@
     - ihmis-suski
     - bergie
   category: maintenance
+  origin: manual
+  id: 9896734c-05b6-4ebd-b65e-28e3c224a001
 - datetime: 2026-05-16T19:10:33.299Z
   text: Installed paddle wheel log, got maybe 1dl water in
   author: bergie
@@ -46,6 +48,8 @@
     - ihmis-suski
     - bergie
   category: maintenance
+  origin: manual
+  id: 161a13c8-8780-4dad-b059-52dc7f2039b0
 - datetime: 2026-05-16T19:11:33.299Z
   text: Pumped the bilge
   author: bergie
@@ -72,6 +76,8 @@
     - ihmis-suski
     - bergie
   category: maintenance
+  origin: manual
+  id: e9ee0e40-69f7-4d85-a324-48176ae54c7f
 - datetime: 2026-05-16T20:59:37.401Z
   text: Removed topmost mainsail batten as it had broken. 6mm 95cm
   author: bergie
@@ -98,6 +104,8 @@
     - ihmis-suski
     - bergie
   category: maintenance
+  origin: manual
+  id: 367d5f80-f9a4-427a-8157-1dd14e0baaa7
 - datetime: 2026-05-16T21:51:05.497Z
   text: Started main engine
   author: ""
@@ -125,6 +133,8 @@
     - ihmis-suski
     - bergie
   category: navigation
+  origin: auto
+  id: 87b5cfbe-df8f-4d56-8d94-cf87195c3ccb
 - datetime: 2026-05-16T21:59:44.499Z
   text: Anchor up, motoring
   author: ""
@@ -152,6 +162,8 @@
     - ihmis-suski
     - bergie
   category: navigation
+  origin: auto
+  id: cade64f1-14ba-4341-8e8a-8c84dcd4c268
 - datetime: 2026-05-16T22:00:41.497Z
   text: ""
   author: ""
@@ -179,6 +191,8 @@
     - ihmis-suski
     - bergie
   category: navigation
+  origin: auto
+  id: b2cde83e-1b21-42f2-91ee-54d4dc90dcab
 - datetime: 2026-05-16T22:19:18.502Z
   text: Autopilot activated
   author: ""
@@ -206,6 +220,8 @@
     - ihmis-suski
     - bergie
   category: navigation
+  origin: auto
+  id: 0cc5e9b7-b895-4f94-90b7-690a3455a3c4
 - datetime: 2026-05-16T22:24:29.497Z
   text: Motor stopped, sailing with Main
   author: ""
@@ -233,6 +249,8 @@
     - ihmis-suski
     - bergie
   category: navigation
+  origin: auto
+  id: b7df3e8b-e72a-4d9e-ad43-7bd7d52ea003
 - datetime: 2026-05-16T22:27:53.497Z
   text: "Sails set: Main, Genoa 1 (10% furled)"
   author: ""
@@ -260,6 +278,8 @@
     - ihmis-suski
     - bergie
   category: navigation
+  origin: auto
+  id: 5193b72d-26a3-4b6b-a3d5-a1718521214f
 - datetime: 2026-05-16T22:35:05.497Z
   text: Sails down, motoring
   author: ""
@@ -287,6 +307,8 @@
     - ihmis-suski
     - bergie
   category: navigation
+  origin: auto
+  id: 761afbd6-dda9-4e6e-86a2-38536c5e97ed
 - datetime: 2026-05-16T23:00:44.499Z
   text: ""
   author: ""
@@ -314,6 +336,8 @@
     - ihmis-suski
     - bergie
   category: navigation
+  origin: auto
+  id: b863fa3b-b4e3-43e3-b970-d9c579206c5e
 - datetime: 2026-05-16T23:14:06.502Z
   text: Motor stopped, sailing with Main (1st reef)
   author: ""
@@ -341,6 +365,8 @@
     - ihmis-suski
     - bergie
   category: navigation
+  origin: auto
+  id: 64a1fac7-bf58-499b-ae97-f33a0ac2a733
 - datetime: 2026-05-16T23:17:59.500Z
   text: "Sails set: Main (1st reef), Genoa 1 (10% furled). Poled out"
   author: bergie
@@ -372,6 +398,8 @@
     seaState: 3
     cloudCoverage: 6
     visibility: 6
+  origin: manual
+  id: 054ecf5c-410b-4533-9b1c-3505bd401ab6
 - datetime: 2026-05-16T23:32:39.500Z
   text: Changed ship's time to UTC-10
   author: bergie
@@ -400,3 +428,5 @@
     - bergie
   category: navigation
   observations: {}
+  origin: manual
+  id: 28b0feb9-8cb3-4c08-95b4-b53451dcdd4a

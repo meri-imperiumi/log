@@ -21,6 +21,8 @@
     - ihmis-suski
     - bergie
   category: navigation
+  origin: auto
+  id: 5c7bc852-f85c-4fb8-8ece-36cb5191e780
 - datetime: 2024-07-02T09:07:22.499Z
   text: Stopped main engine
   author: ""
@@ -44,6 +46,8 @@
     - ihmis-suski
     - bergie
   category: navigation
+  origin: auto
+  id: a96a6486-0208-469f-a8a1-8b215d9b028f
 - datetime: 2024-07-02T10:10:32.601Z
   text: Added another 10m of chain now that we're staying here longer. Now 1:10
     scope at low water
@@ -68,6 +72,8 @@
     - ihmis-suski
     - bergie
   category: navigation
+  origin: manual
+  id: 143befd2-581f-4994-a021-7f6c19e2ed97
 - datetime: 2024-07-02T19:36:40.902Z
   text: Pumped the bilge
   author: bergie
@@ -91,3 +97,5 @@
     - ihmis-suski
     - bergie
   category: maintenance
+  origin: manual
+  id: afb0221a-c39f-44d1-9e39-e2d4a4503795

@@ -22,6 +22,8 @@
     - ihmis-suski
     - bergie
   category: navigation
+  origin: auto
+  id: 5d683670-462a-4b5e-8a6a-649fd2efe4bd
 - datetime: 2024-04-15T07:19:42.300Z
   text: Anchor up, motoring
   author: ""
@@ -46,6 +48,8 @@
     - ihmis-suski
     - bergie
   category: navigation
+  origin: auto
+  id: d0c0224c-172e-46f1-a79f-bf22db1a7944
 - datetime: 2024-04-15T08:00:34.201Z
   text: ""
   author: ""
@@ -70,6 +74,8 @@
     - ihmis-suski
     - bergie
   category: navigation
+  origin: auto
+  id: ffc7c441-bbda-495f-a7b3-60a36300ccee
 - datetime: 2024-04-15T08:37:24.300Z
   text: 2kt current against us here in the narrows. Probably rising tide.
   author: bergie
@@ -98,6 +104,8 @@
     seaState: 1
     cloudCoverage: 2
     visibility: 8
+  origin: manual
+  id: 55114927-27ff-46c7-9d9b-4df02ab71cf0
 - datetime: 2024-04-15T08:54:19.200Z
   text: Past the cable ferry. On land there was a display telling next departure
     (11:00)
@@ -123,6 +131,8 @@
     - ihmis-suski
     - bergie
   category: navigation
+  origin: manual
+  id: d2b7ecc1-a2d6-4bb1-b99e-cd5824eb37a9
 - datetime: 2024-04-15T09:00:17.200Z
   text: ""
   author: ""
@@ -147,6 +157,8 @@
     - ihmis-suski
     - bergie
   category: navigation
+  origin: auto
+  id: 4ac958ca-c087-4501-ac88-aa04234ae5e9
 - datetime: 2024-04-15T09:25:43.200Z
   text: Stopped at Ellös. Slimeline mooring.
   author: bergie
@@ -172,3 +184,5 @@
     - bergie
   end: true
   category: navigation
+  origin: manual
+  id: ec770086-9f49-4306-8e53-b383364c9aac

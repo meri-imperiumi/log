@@ -24,6 +24,8 @@
     - ihmis-suski
     - bergie
   category: navigation
+  origin: auto
+  id: d3afdaf8-43ee-4a6a-b8d9-d2c5d560549b
 - datetime: 2026-04-07T01:00:10.600Z
   text: ""
   author: ""
@@ -50,6 +52,8 @@
     - ihmis-suski
     - bergie
   category: navigation
+  origin: auto
+  id: f1b53634-9152-454f-94b4-1e6250be3793
 - datetime: 2026-04-07T02:00:11.600Z
   text: ""
   author: ""
@@ -76,6 +80,8 @@
     - ihmis-suski
     - bergie
   category: navigation
+  origin: auto
+  id: 8970633d-2c33-4143-8d4e-e17a47d2146f
 - datetime: 2026-04-07T03:00:08.000Z
   text: Suski on watch
   author: ihmis-suski
@@ -106,6 +112,8 @@
     seaState: 3
     cloudCoverage: 3
     visibility: 7
+  origin: manual
+  id: e308f170-a8c7-4b36-a8c2-4d13fbc2cbd9
 - datetime: 2026-04-07T04:00:11.000Z
   text: ""
   author: ""
@@ -132,6 +140,8 @@
     - ihmis-suski
     - bergie
   category: navigation
+  origin: auto
+  id: 2b9866f5-6598-4efa-b001-7a4423bb993e
 - datetime: 2026-04-07T05:00:14.099Z
   text: We have gotten a ping from a class B AIS target 15 minutes ago. Mmsi
     227015810. 10 miles behind us. (Vessel name La Bulle)
@@ -159,6 +169,8 @@
     - ihmis-suski
     - bergie
   category: navigation
+  origin: manual
+  id: 57f1b148-bc08-49a9-93e5-91eff58d4802
 - datetime: 2026-04-07T06:00:18.099Z
   text: ""
   author: ""
@@ -185,6 +197,8 @@
     - ihmis-suski
     - bergie
   category: navigation
+  origin: auto
+  id: ff8cd4ce-f9a6-49bd-9b0f-bb2e358f260f
 - datetime: 2026-04-07T06:08:19.100Z
   text: Finally got the detail data for La Bulle. 18x4 meters, but NFL has La
     Bulle at 12 meters. Still 9 miles out.
@@ -212,6 +226,8 @@
     - ihmis-suski
     - bergie
   category: navigation
+  origin: manual
+  id: f8219d1d-5dee-4eb0-867b-2af898692a3f
 - datetime: 2026-04-07T06:24:19.100Z
   text: The wheel of cheese is rising. A sizeable chunk missing. Not unlike us, we
     are on the last sliver of cheese on board.
@@ -239,6 +255,8 @@
     - ihmis-suski
     - bergie
   category: navigation
+  origin: manual
+  id: 4c6c12bd-8bd7-48a9-b95e-6795a8188fd5
 - datetime: 2026-04-07T07:00:21.100Z
   text: ""
   author: ""
@@ -265,6 +283,8 @@
     - ihmis-suski
     - bergie
   category: navigation
+  origin: auto
+  id: cdc0b0d3-a8c4-47e8-a304-46daf52acc1c
 - datetime: 2026-04-07T07:52:22.099Z
   text: "Every now and then the red navigational light is visible! 6.3nm. Vessel
     #16 and second sailboat"
@@ -292,6 +312,8 @@
     - ihmis-suski
     - bergie
   category: navigation
+  origin: manual
+  id: e86ce7bf-5b35-4080-9b39-8e7189768aa0
 - datetime: 2026-04-07T08:00:23.200Z
   text: ""
   author: ""
@@ -318,6 +340,8 @@
     - ihmis-suski
     - bergie
   category: navigation
+  origin: auto
+  id: 5d0fe231-f2a7-4d59-93ce-8d315f4673e6
 - datetime: 2026-04-07T08:57:25.200Z
   text: Had conversation with La Bulle. They can see us. Also heading for Hiva Oa
   author: bergie
@@ -344,6 +368,8 @@
     - ihmis-suski
     - bergie
   category: radio
+  origin: manual
+  id: d4400400-e6cc-40f9-b602-ce376f465370
 - datetime: 2026-04-07T09:00:25.200Z
   text: Bergie on watch
   author: bergie
@@ -374,6 +400,8 @@
     seaState: 3
     cloudCoverage: 1
     visibility: 7
+  origin: manual
+  id: 4f664ac3-c903-4187-b197-17a1456c3967
 - datetime: 2026-04-07T09:11:33.200Z
   text: Autopilot activated
   author: ""
@@ -400,6 +428,8 @@
     - ihmis-suski
     - bergie
   category: navigation
+  origin: auto
+  id: 2f3fd4e5-1bb5-4c1d-abf7-f11495ee5051
 - datetime: 2026-04-07T10:00:27.200Z
   text: ""
   author: ""
@@ -426,6 +456,8 @@
     - ihmis-suski
     - bergie
   category: navigation
+  origin: auto
+  id: 6dfad7a3-f930-474c-a6c3-638637b23d38
 - datetime: 2026-04-07T11:00:32.198Z
   text: ""
   author: ""
@@ -452,6 +484,8 @@
     - ihmis-suski
     - bergie
   category: navigation
+  origin: auto
+  id: 1454c4c1-a8df-4368-8662-b104f7a89fe0
 - datetime: 2026-04-07T12:00:35.299Z
   text: ""
   author: ""
@@ -478,6 +512,8 @@
     - ihmis-suski
     - bergie
   category: navigation
+  origin: auto
+  id: e2b82638-cd93-4d1e-a256-8cf07824e277
 - datetime: 2026-04-07T12:49:36.300Z
   text: La Bulle is now passing us, 0.4NM to starboard
   author: bergie
@@ -504,6 +540,8 @@
     - ihmis-suski
     - bergie
   category: navigation
+  origin: manual
+  id: 99c6f1ca-c119-4d98-8774-7fb16c582cd0
 - datetime: 2026-04-07T13:00:37.299Z
   text: ""
   author: ""
@@ -530,6 +568,8 @@
     - ihmis-suski
     - bergie
   category: navigation
+  origin: auto
+  id: 45c54f4e-0d75-48a0-861c-52a95e133cd3
 - datetime: 2026-04-07T14:00:40.700Z
   text: ""
   author: ""
@@ -556,6 +596,8 @@
     - ihmis-suski
     - bergie
   category: navigation
+  origin: auto
+  id: eeefcffb-d9fa-4ed1-91bb-2c22e1536d13
 - datetime: 2026-04-07T15:00:43.699Z
   text: |
     Suski on watch
@@ -587,6 +629,8 @@
     seaState: 3
     cloudCoverage: 3
     visibility: 7
+  origin: manual
+  id: b134cc9e-7527-4dcb-8a29-8c3e8efa2067
 - datetime: 2026-04-07T15:33:37.702Z
   text: "Sails set: Main (1st reef), Staysail, Genoa 1 (30% furled) prepating for
     a squall"
@@ -614,6 +658,8 @@
     - ihmis-suski
     - bergie
   category: navigation
+  origin: manual
+  id: c3ac7155-fd65-4b26-9204-486c4890b19b
 - datetime: 2026-04-07T15:38:19.699Z
   text: "Sails set: Main (1st reef), Staysail, Genoa 1 (50% furled)"
   author: ""
@@ -640,6 +686,8 @@
     - ihmis-suski
     - bergie
   category: navigation
+  origin: auto
+  id: 2ee8b361-d9b9-49f4-9953-eddbda35ac57
 - datetime: 2026-04-07T15:41:45.702Z
   text: Rain
   author: ihmis-suski
@@ -666,6 +714,8 @@
     - ihmis-suski
     - bergie
   category: navigation
+  origin: manual
+  id: 3210d845-df20-4b44-827c-8ff0a0f8109f
 - datetime: 2026-04-07T15:51:59.699Z
   text: "Sails set: Main (1st reef), Staysail, Genoa 1 (10% furled)"
   author: ""
@@ -692,6 +742,8 @@
     - ihmis-suski
     - bergie
   category: navigation
+  origin: auto
+  id: e315521c-1763-4903-aae0-1e79485615e5
 - datetime: 2026-04-07T15:55:46.700Z
   text: "The sun protection strip of the genoa needs some re-stitching. "
   author: ihmis-suski
@@ -718,6 +770,8 @@
     - ihmis-suski
     - bergie
   category: maintenance
+  origin: manual
+  id: 38a11fb8-41b5-4fa0-9843-95a91ca6ddaa
 - datetime: 2026-04-07T16:00:46.700Z
   text: ""
   author: ""
@@ -744,6 +798,8 @@
     - ihmis-suski
     - bergie
   category: navigation
+  origin: auto
+  id: b4bec3e9-b217-4d96-a207-f22cb73a1498
 - datetime: 2026-04-07T17:00:51.801Z
   text: ""
   author: ""
@@ -770,6 +826,8 @@
     - ihmis-suski
     - bergie
   category: navigation
+  origin: auto
+  id: 278480f7-fe61-4fc3-93cf-22d97f977ea4
 - datetime: 2026-04-07T18:00:53.798Z
   text: ""
   author: ""
@@ -796,6 +854,8 @@
     - ihmis-suski
     - bergie
   category: navigation
+  origin: auto
+  id: 2c5b158b-ed17-4205-929b-05b11f275b82
 - datetime: 2026-04-07T19:00:56.800Z
   text: ""
   author: ""
@@ -822,6 +882,8 @@
     - ihmis-suski
     - bergie
   category: navigation
+  origin: auto
+  id: e6b2477d-ea2c-4774-af1b-2d8994d3b09b
 - datetime: 2026-04-07T20:00:00.902Z
   text: ""
   author: ""
@@ -848,6 +910,8 @@
     - ihmis-suski
     - bergie
   category: navigation
+  origin: auto
+  id: 430bdb7c-ffe4-4933-be6a-c19679e59be1
 - datetime: 2026-04-07T20:02:59.897Z
   text: Started watermaker
   author: bergie
@@ -874,6 +938,8 @@
     - ihmis-suski
     - bergie
   category: maintenance
+  origin: manual
+  id: 22e90dc5-7bd0-4dc2-b331-4185b027c1f7
 - datetime: 2026-04-07T20:17:01.900Z
   text: Watermaker 301ppm
   author: bergie
@@ -900,6 +966,8 @@
     - ihmis-suski
     - bergie
   category: maintenance
+  origin: manual
+  id: e8d0dda4-a247-4829-81df-5c4303395723
 - datetime: 2026-04-07T20:29:13.900Z
   text: Autopilot deactivated, windvane steering
   author: bergie
@@ -926,6 +994,8 @@
     - ihmis-suski
     - bergie
   category: navigation
+  origin: manual
+  id: 3d9bc33d-630a-4643-a964-8150e7e44428
 - datetime: 2026-04-07T21:00:02.899Z
   text: ""
   author: ""
@@ -952,6 +1022,8 @@
     - ihmis-suski
     - bergie
   category: navigation
+  origin: auto
+  id: 2de9d698-f56c-462b-aa53-4a8043c46c27
 - datetime: 2026-04-07T21:30:04.902Z
   text: Lots of VHF static again
   author: bergie
@@ -978,6 +1050,8 @@
     - ihmis-suski
     - bergie
   category: radio
+  origin: manual
+  id: cc7938d4-f62b-4eae-99e6-bce9358708a8
 - datetime: 2026-04-07T22:00:06.003Z
   text: ""
   author: ""
@@ -1004,6 +1078,8 @@
     - ihmis-suski
     - bergie
   category: navigation
+  origin: auto
+  id: cd854fb7-ad5d-4aef-9718-61792a2db774
 - datetime: 2026-04-07T22:02:06.003Z
   text: Watermaker 239ppm
   author: bergie
@@ -1030,6 +1106,8 @@
     - ihmis-suski
     - bergie
   category: maintenance
+  origin: manual
+  id: 745263a5-04c2-4212-960a-9a2a4b8289b2
 - datetime: 2026-04-07T23:00:12.000Z
   text: ""
   author: ""
@@ -1056,6 +1134,8 @@
     - ihmis-suski
     - bergie
   category: navigation
+  origin: auto
+  id: b59a1825-d6d0-4968-b708-5356b45d26a2
 - datetime: 2026-04-07T23:34:12.998Z
   text: Stopped watermaker, 238ppm
   author: bergie
@@ -1082,3 +1162,5 @@
     - ihmis-suski
     - bergie
   category: maintenance
+  origin: manual
+  id: 371fd8f8-165a-4fb9-96e5-796194343a86

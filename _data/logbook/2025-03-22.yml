@@ -25,6 +25,8 @@
     - ihmis-suski
     - bergie
   category: navigation
+  origin: auto
+  id: 28fab859-a08a-4def-a5da-6cdab9b1e4f8
 - datetime: 2025-03-22T13:17:52.099Z
   text: Anchor up, motoring
   author: bergie
@@ -52,6 +54,8 @@
     - ihmis-suski
     - bergie
   category: navigation
+  origin: manual
+  id: 9fcc229b-3692-4df3-9fc4-c7b6698f143d
 - datetime: 2025-03-22T13:27:58.099Z
   text: Motor stopped, sailing with Main (1st reef), Staysail
   author: ""
@@ -79,6 +83,8 @@
     - ihmis-suski
     - bergie
   category: navigation
+  origin: auto
+  id: f656586b-aa5e-4a08-aecc-8073cdfe49e4
 - datetime: 2025-03-22T13:47:44.198Z
   text: Autopilot activated
   author: ""
@@ -106,6 +112,8 @@
     - ihmis-suski
     - bergie
   category: navigation
+  origin: auto
+  id: 89d28295-3353-4169-82fc-7980ebeb18b8
 - datetime: 2025-03-22T14:00:49.200Z
   text: ""
   author: ""
@@ -133,6 +141,8 @@
     - ihmis-suski
     - bergie
   category: navigation
+  origin: auto
+  id: b084957f-6529-4982-805c-517328e11176
 - datetime: 2025-03-22T14:25:49.500Z
   text: "Started watermaker "
   author: bergie
@@ -160,6 +170,8 @@
     - ihmis-suski
     - bergie
   category: maintenance
+  origin: manual
+  id: ac84d84c-94d9-4c89-b13a-3306f7d24c17
 - datetime: 2025-03-22T14:39:51.600Z
   text: Watermaker 347ppm
   author: bergie
@@ -187,6 +199,8 @@
     - ihmis-suski
     - bergie
   category: maintenance
+  origin: manual
+  id: e97593c4-dbdb-46c2-8b5c-77b4ee607eae
 - datetime: 2025-03-22T15:00:49.600Z
   text: ""
   author: bergie
@@ -218,6 +232,8 @@
     cloudCoverage: 7
     seaState: 3
     visibility: 7
+  origin: manual
+  id: 12939fa5-5dd0-46ff-bb95-48df3267f448
 - datetime: 2025-03-22T16:00:51.596Z
   text: ""
   author: ""
@@ -245,6 +261,8 @@
     - ihmis-suski
     - bergie
   category: navigation
+  origin: auto
+  id: d3780c52-92c6-48c8-96b7-6af50105d958
 - datetime: 2025-03-22T16:19:51.603Z
   text: Stopped watermaker, 293ppm. Jug full.
   author: ihmis-suski
@@ -272,6 +290,8 @@
     - ihmis-suski
     - bergie
   category: maintenance
+  origin: manual
+  id: 689391a9-cf21-415c-85a4-b51cbc17e509
 - datetime: 2025-03-22T17:00:52.601Z
   text: ""
   author: ""
@@ -299,6 +319,8 @@
     - ihmis-suski
     - bergie
   category: navigation
+  origin: auto
+  id: d0385d56-7e06-4e46-b184-473cec3c4229
 - datetime: 2025-03-22T17:30:54.598Z
   text: Autopilot deactivated
   author: ""
@@ -326,6 +348,8 @@
     - ihmis-suski
     - bergie
   category: navigation
+  origin: auto
+  id: d0d76e49-d63a-43b6-9832-eb014b24a75b
 - datetime: 2025-03-22T17:43:17.600Z
   text: Sails down, motoring
   author: ""
@@ -353,6 +377,8 @@
     - ihmis-suski
     - bergie
   category: navigation
+  origin: auto
+  id: b609e92b-eae2-4b21-99b1-6551317357df
 - datetime: 2025-03-22T18:00:53.702Z
   text: ""
   author: ""
@@ -380,6 +406,8 @@
     - ihmis-suski
     - bergie
   category: navigation
+  origin: auto
+  id: c9ba279b-af17-4558-9f4f-e9af277b269e
 - datetime: 2025-03-22T18:04:22.700Z
   text: Anchored
   author: ""
@@ -408,6 +436,8 @@
     - bergie
   end: true
   category: navigation
+  origin: auto
+  id: ec5a1fe5-16ba-453e-93a0-7484ca6228a2
 - datetime: 2025-03-22T18:12:14.700Z
   text: Stopped main engine
   author: ""
@@ -435,3 +465,5 @@
     - ihmis-suski
     - bergie
   category: navigation
+  origin: auto
+  id: 351816dc-e3c5-457a-accb-ff80b74f7bfc

@@ -29,6 +29,8 @@
     seaState: 4
     cloudCoverage: 0
     visibility: 7
+  origin: manual
+  id: d950e055-2518-47e5-94c7-59a2286e3a25
 - datetime: 2024-12-24T01:00:53.100Z
   text: ""
   author: ""
@@ -56,6 +58,8 @@
     - ihmis-suski
     - bergie
   category: navigation
+  origin: auto
+  id: c2e63251-71b0-4809-bd5a-fb7af39de95d
 - datetime: 2024-12-24T01:03:53.100Z
   text: Took up the hydrogenerator. Winds are low now, so it was just producing drag
   author: bergie
@@ -83,6 +87,8 @@
     - ihmis-suski
     - bergie
   category: navigation
+  origin: manual
+  id: 87f9b545-5bfb-4344-b00b-39cc53faccc6
 - datetime: 2024-12-24T02:00:54.100Z
   text: ""
   author: ""
@@ -110,6 +116,8 @@
     - ihmis-suski
     - bergie
   category: navigation
+  origin: auto
+  id: 94ac52cc-6f4a-4325-ae9d-983e9f033941
 - datetime: 2024-12-24T02:22:54.100Z
   text: Moon is coming up behind some clouds
   author: bergie
@@ -140,6 +148,8 @@
   observations:
     seaState: 4
     cloudCoverage: 2
+  origin: manual
+  id: f6d1139b-1a71-44f2-b9c7-03454d495a10
 - datetime: 2024-12-24T03:00:56.100Z
   text: ""
   author: ""
@@ -167,6 +177,8 @@
     - ihmis-suski
     - bergie
   category: navigation
+  origin: auto
+  id: 78319587-d117-4e66-85c4-61972996fb69
 - datetime: 2024-12-24T04:00:57.200Z
   text: ""
   author: ""
@@ -194,6 +206,8 @@
     - ihmis-suski
     - bergie
   category: navigation
+  origin: auto
+  id: fb13ae3f-ae2a-4a17-86eb-3f31bbcee62c
 - datetime: 2024-12-24T05:00:58.200Z
   text: ""
   author: ""
@@ -221,6 +235,8 @@
     - ihmis-suski
     - bergie
   category: navigation
+  origin: auto
+  id: a4882ad8-c3e2-4031-961b-92b3a62986cf
 - datetime: 2024-12-24T05:13:58.200Z
   text: Wind is starting to drop too low for sails. Let's see how that develops.
     Some 10h earlier than forecast
@@ -249,6 +265,8 @@
     - ihmis-suski
     - bergie
   category: navigation
+  origin: manual
+  id: a3d31648-ab32-4600-a943-4ed5bb1679f9
 - datetime: 2024-12-24T06:00:59.500Z
   text: ""
   author: ""
@@ -276,6 +294,8 @@
     - ihmis-suski
     - bergie
   category: navigation
+  origin: auto
+  id: 63c06182-dca1-442f-a902-b66279c84b8d
 - datetime: 2024-12-24T07:00:00.600Z
   text: ""
   author: ""
@@ -303,6 +323,8 @@
     - ihmis-suski
     - bergie
   category: navigation
+  origin: auto
+  id: 61f4f8de-d0cd-480e-b060-6c4e5eec50ee
 - datetime: 2024-12-24T07:25:59.600Z
   text: "Sails set: Genoa 1 (20% furled)"
   author: ""
@@ -330,6 +352,8 @@
     - ihmis-suski
     - bergie
   category: navigation
+  origin: auto
+  id: 59a1baa4-07d2-49e2-9c9c-d58cbe4af3ca
 - datetime: 2024-12-24T07:55:44.601Z
   text: "Sails set: Genoa 1"
   author: ""
@@ -357,6 +381,8 @@
     - ihmis-suski
     - bergie
   category: navigation
+  origin: auto
+  id: 57663fbb-1cb6-4955-8836-1159d8d80ea2
 - datetime: 2024-12-24T07:58:01.600Z
   text: Parasailor became too unruly to have up. Now I'm testing how long can I
     run with the genoa and autopilot in wind angle mode. Hopefully the sea state
@@ -390,6 +416,8 @@
     seaState: 3
     cloudCoverage: 2
     visibility: 7
+  origin: manual
+  id: 02fbc40b-5eb7-4471-b32d-d9be663f674d
 - datetime: 2024-12-24T07:59:00.601Z
   text: Also, hello sun!
   author: ihmis-suski
@@ -417,6 +445,8 @@
     - ihmis-suski
     - bergie
   category: navigation
+  origin: manual
+  id: 63d60da9-be01-443f-a3fd-0fd57518b77c
 - datetime: 2024-12-24T08:00:01.600Z
   text: ""
   author: ""
@@ -444,6 +474,8 @@
     - ihmis-suski
     - bergie
   category: navigation
+  origin: auto
+  id: 0ff179df-5566-48b1-9232-30d7432e57ea
 - datetime: 2024-12-24T09:00:02.598Z
   text: ""
   author: ""
@@ -471,6 +503,8 @@
     - ihmis-suski
     - bergie
   category: navigation
+  origin: auto
+  id: 5c1d9622-9c7e-4c09-a62a-5009dc294e1e
 - datetime: 2024-12-24T10:00:03.600Z
   text: ""
   author: ""
@@ -498,6 +532,8 @@
     - ihmis-suski
     - bergie
   category: navigation
+  origin: auto
+  id: e9bd4ec0-b5d0-4905-a8ff-7f459fb3f4b7
 - datetime: 2024-12-24T10:08:10.598Z
   text: Sails down, motoring
   author: ""
@@ -525,6 +561,8 @@
     - ihmis-suski
     - bergie
   category: navigation
+  origin: auto
+  id: 7b3736fd-c160-4f92-858d-ea2290a81b3a
 - datetime: 2024-12-24T10:08:59.600Z
   text: Autopilot deactivated
   author: ""
@@ -552,6 +590,8 @@
     - ihmis-suski
     - bergie
   category: navigation
+  origin: auto
+  id: 22040493-ba54-4453-9a0b-21c6451afad3
 - datetime: 2024-12-24T10:09:00.601Z
   text: Autopilot activated
   author: ""
@@ -579,6 +619,8 @@
     - ihmis-suski
     - bergie
   category: navigation
+  origin: auto
+  id: 70e3fb3a-9a9c-4912-b35a-7fe96aee162a
 - datetime: 2024-12-24T11:00:49.600Z
   text: ""
   author: ""
@@ -606,6 +648,8 @@
     - ihmis-suski
     - bergie
   category: navigation
+  origin: auto
+  id: 32b9d7c6-4801-44c1-81ea-9e8e6158ef58
 - datetime: 2024-12-24T12:00:42.598Z
   text: Bergie on watch
   author: bergie
@@ -637,6 +681,8 @@
     cloudCoverage: 1
     seaState: 4
     visibility: 7
+  origin: manual
+  id: e2f07508-e459-4e38-8aed-962a8b307c16
 - datetime: 2024-12-24T13:00:42.700Z
   text: ""
   author: ""
@@ -664,6 +710,8 @@
     - ihmis-suski
     - bergie
   category: navigation
+  origin: auto
+  id: 77546b71-70dd-4cd9-85ac-b5131d51b482
 - datetime: 2024-12-24T13:36:43.699Z
   text: Today is hot hot hot. 27°C in shade
   author: bergie
@@ -695,6 +743,8 @@
     seaState: 4
     cloudCoverage: 4
     visibility: 7
+  origin: manual
+  id: 047ba9aa-1f4f-45c4-938d-2032935f2fd0
 - datetime: 2024-12-24T14:00:44.700Z
   text: Some fish leaping high into the air near the boat
   author: bergie
@@ -722,6 +772,8 @@
     - ihmis-suski
     - bergie
   category: navigation
+  origin: manual
+  id: 86b96519-28c9-4518-9a6c-5c99ff07c87b
 - datetime: 2024-12-24T14:29:44.700Z
   text: "Couple of dolphins, big ones, but they didn't linger long "
   author: bergie
@@ -749,6 +801,8 @@
     - ihmis-suski
     - bergie
   category: navigation
+  origin: manual
+  id: 53464471-38dd-455c-8c35-3dc297febe96
 - datetime: 2024-12-24T15:00:45.702Z
   text: ""
   author: ""
@@ -776,6 +830,8 @@
     - ihmis-suski
     - bergie
   category: navigation
+  origin: auto
+  id: 3d86ec95-a826-4154-93e7-9ca019944ec9
 - datetime: 2024-12-24T15:16:44.800Z
   text: Replaced the broken mast car. The new one is a very tight fit, maybe
     increasing friction hoisting/lowering the sail
@@ -804,6 +860,8 @@
     - ihmis-suski
     - bergie
   category: maintenance
+  origin: manual
+  id: 3cf011be-1c52-40af-b22e-21aa9399629d
 - datetime: 2024-12-24T16:00:45.798Z
   text: ""
   author: ""
@@ -831,6 +889,8 @@
     - ihmis-suski
     - bergie
   category: navigation
+  origin: auto
+  id: 3e04f6cf-af91-43b9-bcbb-2c76cf308ee7
 - datetime: 2024-12-24T16:23:52.800Z
   text: Motor stopped, sailing with Main, Genoa 1
   author: ""
@@ -858,6 +918,8 @@
     - ihmis-suski
     - bergie
   category: navigation
+  origin: auto
+  id: 516b6570-5920-4d1f-8885-ad0c0de7f79b
 - datetime: 2024-12-24T17:00:44.800Z
   text: ""
   author: ""
@@ -885,6 +947,8 @@
     - ihmis-suski
     - bergie
   category: navigation
+  origin: auto
+  id: f780cd6b-60f2-4fbd-90d3-bb4c08cc09e6
 - datetime: 2024-12-24T18:00:30.796Z
   text: "Suski on watch "
   author: ihmis-suski
@@ -916,6 +980,8 @@
     seaState: 3
     cloudCoverage: 4
     visibility: 7
+  origin: manual
+  id: ca3cad9b-99d7-4339-8407-723929493d1c
 - datetime: 2024-12-24T18:27:41.798Z
   text: Sails down, motoring
   author: ""
@@ -943,6 +1009,8 @@
     - ihmis-suski
     - bergie
   category: navigation
+  origin: auto
+  id: 05c1842f-61a1-496c-af83-369e2900d82a
 - datetime: 2024-12-24T18:54:26.803Z
   text: Sun has set.
   author: ihmis-suski
@@ -970,6 +1038,8 @@
     - ihmis-suski
     - bergie
   category: navigation
+  origin: manual
+  id: 026e380d-590e-4556-97cf-f898b2943e19
 - datetime: 2024-12-24T19:00:26.803Z
   text: ""
   author: ""
@@ -997,6 +1067,8 @@
     - ihmis-suski
     - bergie
   category: navigation
+  origin: auto
+  id: 2213fe3a-8fc2-42f0-9cfc-73232de8c7f2
 - datetime: 2024-12-24T19:53:41.196Z
   text: Motor stopped, sailing with Main, Genoa 1
   author: ""
@@ -1024,6 +1096,8 @@
     - ihmis-suski
     - bergie
   category: navigation
+  origin: auto
+  id: a829f322-be9e-4baf-9974-50d94861a1b6
 - datetime: 2024-12-24T20:00:27.200Z
   text: ""
   author: ""
@@ -1051,6 +1125,8 @@
     - ihmis-suski
     - bergie
   category: navigation
+  origin: auto
+  id: 276b3ab9-bf40-4006-a7c6-2aeca0e19f37
 - datetime: 2024-12-24T20:01:54.201Z
   text: Sails down, motoring
   author: ""
@@ -1078,6 +1154,8 @@
     - ihmis-suski
     - bergie
   category: navigation
+  origin: auto
+  id: 14e60fdb-2bf7-4f8f-9c4b-9eaa1be6dd80
 - datetime: 2024-12-24T20:33:19.200Z
   text: Motor stopped, sailing with Main, Genoa 1
   author: ""
@@ -1105,6 +1183,8 @@
     - ihmis-suski
     - bergie
   category: navigation
+  origin: auto
+  id: 8e069957-a057-431a-9a1e-5cb17a7e1b6c
 - datetime: 2024-12-24T21:00:30.201Z
   text: ""
   author: ""
@@ -1132,6 +1212,8 @@
     - ihmis-suski
     - bergie
   category: navigation
+  origin: auto
+  id: 3c0e710d-876d-4c2d-89d9-20837b675dcc
 - datetime: 2024-12-24T22:00:30.201Z
   text: ""
   author: ""
@@ -1159,6 +1241,8 @@
     - ihmis-suski
     - bergie
   category: navigation
+  origin: auto
+  id: de8fcb26-5cb8-4869-97fb-77ce153cbf14
 - datetime: 2024-12-24T23:00:32.198Z
   text: ""
   author: ""
@@ -1185,3 +1269,6 @@
   crewNames:
     - ihmis-suski
     - bergie
+  category: navigation
+  origin: auto
+  id: 468f58fc-ab24-400d-8b6a-41805dbb87ec

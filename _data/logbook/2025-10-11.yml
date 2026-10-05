@@ -20,6 +20,8 @@
     - ihmis-suski
     - bergie
   category: maintenance
+  origin: manual
+  id: e4f3bf41-4286-4aed-a396-b43890ee2f30
 - datetime: 2025-10-11T19:01:32.800Z
   text: Watermaker 399ppm
   author: bergie
@@ -42,6 +44,8 @@
     - ihmis-suski
     - bergie
   category: maintenance
+  origin: manual
+  id: c43e57e0-d628-4f34-b12a-04ce18546a3d
 - datetime: 2025-10-11T19:16:32.902Z
   text: Switched infodisplay monitor to its own DC-DC converter as it was causing
     bootloops due to brownouts(?)
@@ -65,6 +69,8 @@
     - ihmis-suski
     - bergie
   category: maintenance
+  origin: manual
+  id: 7c5e3ac1-56b6-4e96-8a01-51cfff2fc72e
 - datetime: 2025-10-11T20:42:35.302Z
   text: Stopped watermaker, 366ppm
   author: bergie
@@ -87,3 +93,5 @@
     - ihmis-suski
     - bergie
   category: maintenance
+  origin: manual
+  id: 57645cd3-0157-4ae5-9174-762499ee168f

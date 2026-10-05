@@ -21,6 +21,8 @@
     - ihmis-suski
     - bergie
   category: engine
+  origin: manual
+  id: f3f7208a-0761-432f-8f91-81fb5ed7e283
 - datetime: 2026-01-06T14:50:42.899Z
   text: Started main engine
   author: ""
@@ -43,6 +45,8 @@
     - ihmis-suski
     - bergie
   category: navigation
+  origin: auto
+  id: ddb9750d-3427-4637-af9d-8d1975081277
 - datetime: 2026-01-06T14:52:43.900Z
   text: Stopped main engine
   author: ""
@@ -65,6 +69,8 @@
     - ihmis-suski
     - bergie
   category: navigation
+  origin: auto
+  id: 11a9c05f-9db2-41e0-941e-dc8c4b76ae86
 - datetime: 2026-01-06T16:00:04.000Z
   text: "Oil change: Yanmar genuine 15W40 engine oil"
   author: bergie
@@ -87,6 +93,8 @@
     - ihmis-suski
     - bergie
   category: engine
+  origin: manual
+  id: d1c18c80-adf9-47dc-bcb7-a129a1678c78
 - datetime: 2026-01-06T16:04:46.003Z
   text: Started main engine
   author: ""
@@ -109,6 +117,8 @@
     - ihmis-suski
     - bergie
   category: navigation
+  origin: auto
+  id: db555889-f741-4dd1-b041-400f77ebc0a1
 - datetime: 2026-01-06T16:08:23.001Z
   text: Stopped main engine
   author: ""
@@ -131,6 +141,8 @@
     - ihmis-suski
     - bergie
   category: navigation
+  origin: auto
+  id: 8038a3b3-dc42-4f4a-b4f4-9d6a6c0bd811
 - datetime: 2026-01-06T19:42:14.099Z
   text: Installed the repaired starboard aft cleat
   author: bergie
@@ -153,3 +165,5 @@
     - ihmis-suski
     - bergie
   category: maintenance
+  origin: manual
+  id: 08bc951f-90a4-4e70-84d7-6397db60c53c

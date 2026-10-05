@@ -24,6 +24,8 @@
     - ihmis-suski
     - bergie
   category: navigation
+  origin: auto
+  id: 20a585c5-a691-421d-94ad-a0af03d31085
 - datetime: 2026-04-10T00:12:21.600Z
   text: Wave splashed the cockpit
   author: bergie
@@ -50,6 +52,8 @@
     - ihmis-suski
     - bergie
   category: navigation
+  origin: manual
+  id: 698eeb63-f832-4efe-8102-49182a07d5c5
 - datetime: 2026-04-10T00:27:20.600Z
   text: Rain
   author: bergie
@@ -76,6 +80,8 @@
     - ihmis-suski
     - bergie
   category: navigation
+  origin: manual
+  id: f72e500e-b50c-4e3d-8fcd-11913f97ef00
 - datetime: 2026-04-10T01:00:22.600Z
   text: ""
   author: ""
@@ -102,6 +108,8 @@
     - ihmis-suski
     - bergie
   category: navigation
+  origin: auto
+  id: c44487e8-bcf1-4b8d-a8c2-c4985888be3b
 - datetime: 2026-04-10T01:27:20.700Z
   text: Stopped watermaker, 210ppm
   author: bergie
@@ -128,6 +136,8 @@
     - ihmis-suski
     - bergie
   category: maintenance
+  origin: manual
+  id: d41310b4-917b-4bf3-b023-7c236c024c8a
 - datetime: 2026-04-10T02:00:21.700Z
   text: ""
   author: ""
@@ -154,6 +164,8 @@
     - ihmis-suski
     - bergie
   category: navigation
+  origin: auto
+  id: f5c0aedf-0a95-45ab-bfdb-eff1d1f4a841
 - datetime: 2026-04-10T02:06:21.700Z
   text: Submitted and paid French Polynesia biosecurity declaration
   author: bergie
@@ -180,6 +192,8 @@
     - ihmis-suski
     - bergie
   category: navigation
+  origin: manual
+  id: ed619462-21d1-45a8-9cd7-7f9f93b6c02d
 - datetime: 2026-04-10T03:00:18.700Z
   text: Suski on watch
   author: ihmis-suski
@@ -210,6 +224,8 @@
     cloudCoverage: 2
     visibility: 7
     seaState: 4
+  origin: manual
+  id: 08cde983-05aa-4109-9a20-fe04d330d323
 - datetime: 2026-04-10T04:00:19.699Z
   text: ""
   author: ""
@@ -236,6 +252,8 @@
     - ihmis-suski
     - bergie
   category: navigation
+  origin: auto
+  id: 8c27739e-2dee-4ed0-9e94-9ebd6a31f0a8
 - datetime: 2026-04-10T05:00:24.800Z
   text: ""
   author: ""
@@ -262,6 +280,8 @@
     - ihmis-suski
     - bergie
   category: navigation
+  origin: auto
+  id: 33b987e1-b7da-4f3f-aa6e-ee75893a18b7
 - datetime: 2026-04-10T05:21:24.800Z
   text: 4000NM sailed!
   author: ihmis-suski
@@ -288,6 +308,8 @@
     - ihmis-suski
     - bergie
   category: navigation
+  origin: manual
+  id: b60cfd49-2a1e-4482-a088-4f96dfa6feb7
 - datetime: 2026-04-10T06:00:26.800Z
   text: ""
   author: ""
@@ -314,6 +336,8 @@
     - ihmis-suski
     - bergie
   category: navigation
+  origin: auto
+  id: e6a24e36-a2bb-49eb-9f5a-8bdd9bd6ab5c
 - datetime: 2026-04-10T07:00:27.800Z
   text: ""
   author: ""
@@ -340,6 +364,8 @@
     - ihmis-suski
     - bergie
   category: navigation
+  origin: auto
+  id: 58fe1ea5-cafd-4935-b9c3-b8b1391896dc
 - datetime: 2026-04-10T08:00:29.798Z
   text: ""
   author: ""
@@ -366,6 +392,8 @@
     - ihmis-suski
     - bergie
   category: navigation
+  origin: auto
+  id: 83400e38-2cd8-4e1f-83d5-5908fa5b9b9b
 - datetime: 2026-04-10T08:18:30.800Z
   text: "Alpenglow 5nm behind. Nav lights visible. Going at 8kn. Vessel #17,
     sailboat 3"
@@ -393,6 +421,8 @@
     - ihmis-suski
     - bergie
   category: navigation
+  origin: manual
+  id: 78d44840-0ade-4079-a427-0bd5556f6c76
 - datetime: 2026-04-10T08:55:33.900Z
   text: QSO with Alpenglow. They're day 25 out. 5 people, heading for Hiva Oa.
     Oyster rally boat
@@ -420,6 +450,8 @@
     - ihmis-suski
     - bergie
   category: radio
+  origin: manual
+  id: 1bccf836-3701-411b-afad-2a2300c695eb
 - datetime: 2026-04-10T09:00:33.900Z
   text: Bergie on watch
   author: bergie
@@ -450,6 +482,8 @@
     seaState: 4
     cloudCoverage: 1
     visibility: 7
+  origin: manual
+  id: 27ac3e03-8776-47d5-99e9-af44339f3427
 - datetime: 2026-04-10T10:00:36.899Z
   text: ""
   author: ""
@@ -476,6 +510,8 @@
     - ihmis-suski
     - bergie
   category: navigation
+  origin: auto
+  id: 97b9df32-82d2-4d91-860c-45ba77e6155f
 - datetime: 2026-04-10T10:16:37.900Z
   text: Light rain
   author: bergie
@@ -502,6 +538,8 @@
     - ihmis-suski
     - bergie
   category: navigation
+  origin: manual
+  id: 331ff9af-1245-42bb-a1b3-8f90dd19ade7
 - datetime: 2026-04-10T11:00:38.899Z
   text: ""
   author: ""
@@ -528,6 +566,8 @@
     - ihmis-suski
     - bergie
   category: navigation
+  origin: auto
+  id: b5ef7a44-8ce9-4c01-b1ff-de6685d56c24
 - datetime: 2026-04-10T12:00:40.998Z
   text: ""
   author: ""
@@ -554,6 +594,8 @@
     - ihmis-suski
     - bergie
   category: navigation
+  origin: auto
+  id: c8ce17b2-fd46-4e02-b700-7a8ded91b000
 - datetime: 2026-04-10T13:00:44.998Z
   text: ""
   author: ""
@@ -580,6 +622,8 @@
     - ihmis-suski
     - bergie
   category: navigation
+  origin: auto
+  id: be89f68d-4c38-4428-acd8-c1b731038e8a
 - datetime: 2026-04-10T14:00:48.000Z
   text: ""
   author: ""
@@ -606,6 +650,8 @@
     - ihmis-suski
     - bergie
   category: navigation
+  origin: auto
+  id: 5c5c6f16-eb2f-493f-a57b-6c84e6ad9ec4
 - datetime: 2026-04-10T15:00:48.998Z
   text: Suski on watch
   author: ihmis-suski
@@ -636,6 +682,8 @@
     cloudCoverage: 8
     seaState: 4
     visibility: 6
+  origin: manual
+  id: 7e44940d-0d45-4433-a5eb-fc95051140ca
 - datetime: 2026-04-10T15:47:50.099Z
   text: Rain
   author: ihmis-suski
@@ -662,6 +710,8 @@
     - ihmis-suski
     - bergie
   category: navigation
+  origin: manual
+  id: 830d46ab-8dcf-4197-94e9-48504930b541
 - datetime: 2026-04-10T16:00:52.102Z
   text: ""
   author: ""
@@ -688,6 +738,8 @@
     - ihmis-suski
     - bergie
   category: navigation
+  origin: auto
+  id: eb293f87-ce05-4da2-8cb8-8d35a08d7c53
 - datetime: 2026-04-10T17:00:56.102Z
   text: ""
   author: ""
@@ -714,6 +766,8 @@
     - ihmis-suski
     - bergie
   category: navigation
+  origin: auto
+  id: 274c5961-5a08-4755-8416-8af221bbd673
 - datetime: 2026-04-10T17:18:06.099Z
   text: |-
     Sails set: Main (2nd reef), Staysail
@@ -742,6 +796,8 @@
     - ihmis-suski
     - bergie
   category: navigation
+  origin: manual
+  id: c0732dc2-bcdd-4fb9-b6d6-0a721d574058
 - datetime: 2026-04-10T18:00:58.099Z
   text: ""
   author: ""
@@ -768,6 +824,8 @@
     - ihmis-suski
     - bergie
   category: navigation
+  origin: auto
+  id: 6cca5378-0585-487d-ad19-e15a21d666f1
 - datetime: 2026-04-10T19:00:00.102Z
   text: ""
   author: ""
@@ -794,6 +852,8 @@
     - ihmis-suski
     - bergie
   category: navigation
+  origin: auto
+  id: f9712ed3-3fc7-439d-8aa4-d6491c499b7d
 - datetime: 2026-04-10T20:00:03.200Z
   text: ""
   author: ""
@@ -820,6 +880,8 @@
     - ihmis-suski
     - bergie
   category: navigation
+  origin: auto
+  id: d81bf090-343e-41a1-a44a-734e4380448d
 - datetime: 2026-04-10T20:33:06.201Z
   text: "Sails set: Main (1st reef), Staysail"
   author: ""
@@ -846,6 +908,8 @@
     - ihmis-suski
     - bergie
   category: navigation
+  origin: auto
+  id: c2a9bff5-cc6e-456b-9179-b5bcf1499374
 - datetime: 2026-04-10T20:48:06.201Z
   text: Rain
   author: bergie
@@ -872,6 +936,8 @@
     - ihmis-suski
     - bergie
   category: navigation
+  origin: manual
+  id: 96a75c3c-8d8a-488b-88da-af75ed4defd1
 - datetime: 2026-04-10T21:00:07.200Z
   text: Bergie on watch
   author: bergie
@@ -902,6 +968,8 @@
     seaState: 4
     cloudCoverage: 6
     visibility: 7
+  origin: manual
+  id: dfa339e6-5ee7-498c-bd1d-9e8ee56f12b0
 - datetime: 2026-04-10T22:00:09.203Z
   text: ""
   author: ""
@@ -928,6 +996,8 @@
     - ihmis-suski
     - bergie
   category: navigation
+  origin: auto
+  id: 9d7733cb-0aca-48b2-8c71-0df10070ac2f
 - datetime: 2026-04-10T22:08:10.201Z
   text: Drizzle and still no wind
   author: bergie
@@ -954,6 +1024,8 @@
     - ihmis-suski
     - bergie
   category: navigation
+  origin: manual
+  id: a38e4fac-230f-4a2b-81f1-1e9e5967992f
 - datetime: 2026-04-10T22:31:10.598Z
   text: That "squall" brought at least some
   author: bergie
@@ -980,6 +1052,8 @@
     - ihmis-suski
     - bergie
   category: navigation
+  origin: manual
+  id: 5a551b33-ef36-41b8-9215-159ea306aa0b
 - datetime: 2026-04-10T23:00:03.596Z
   text: Lots of rain now
   author: bergie
@@ -1009,6 +1083,8 @@
   observations:
     cloudCoverage: 8
     visibility: 3
+  origin: manual
+  id: 9c01506c-8b5a-4630-95b8-0adfdb501774
 - datetime: 2026-04-10T23:49:05.702Z
   text: Double digits! 99NM to go
   author: bergie
@@ -1038,3 +1114,5 @@
   observations:
     cloudCoverage: 7
     visibility: 7
+  origin: manual
+  id: 9c2f4fed-00ff-458d-8df9-1ceaeeb8a383

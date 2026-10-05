@@ -26,6 +26,8 @@
     - karin
     - daniel
   category: navigation
+  origin: auto
+  id: 4104b378-9ee9-49bf-b52f-05aa1cebc3ed
 - datetime: 2025-02-02T14:22:52.800Z
   text: Anchor up, motoring
   author: bergie
@@ -54,6 +56,8 @@
     - karin
     - daniel
   category: navigation
+  origin: manual
+  id: 3f5d72be-6b2e-48fe-a090-7130c6177553
 - datetime: 2025-02-02T14:30:41.798Z
   text: Motor stopped, sailing with Main (1st reef)
   author: bergie
@@ -82,6 +86,8 @@
     - karin
     - daniel
   category: navigation
+  origin: manual
+  id: ba1f3273-2ba9-47d6-a94a-6ed482d26065
 - datetime: 2025-02-02T15:00:52.902Z
   text: ""
   author: ""
@@ -110,6 +116,8 @@
     - karin
     - daniel
   category: navigation
+  origin: auto
+  id: e17e63b6-3338-41ac-8628-38048cb62200
 - datetime: 2025-02-02T15:17:53.203Z
   text: Started watermaker, new filter
   author: bergie
@@ -138,6 +146,8 @@
     - karin
     - daniel
   category: maintenance
+  origin: manual
+  id: 627b7124-b408-45a7-9dfd-1e1eae093ddc
 - datetime: 2025-02-02T15:33:31.200Z
   text: Autopilot activated
   author: ""
@@ -167,6 +177,8 @@
     - karin
     - daniel
   category: navigation
+  origin: auto
+  id: 377253d3-812f-4b8f-bc1f-1c7e803e0b31
 - datetime: 2025-02-02T15:35:34.201Z
   text: "Sails set: Main (1st reef), Staysail"
   author: ""
@@ -196,6 +208,8 @@
     - karin
     - daniel
   category: navigation
+  origin: auto
+  id: 8181def6-6126-457f-b4ee-47bc39b857c5
 - datetime: 2025-02-02T15:35:53.203Z
   text: Watermaker 277ppm
   author: bergie
@@ -225,6 +239,8 @@
     - karin
     - daniel
   category: maintenance
+  origin: manual
+  id: 1bb4e6a5-1a23-43e1-8810-ec3cbfa3e36f
 - datetime: 2025-02-02T16:00:55.302Z
   text: ""
   author: ""
@@ -254,6 +270,8 @@
     - karin
     - daniel
   category: navigation
+  origin: auto
+  id: f67a3694-1cfa-4228-a795-72678a0b1ac1
 - datetime: 2025-02-02T16:49:55.302Z
   text: "Orcas or whales to our starboard "
   author: bergie
@@ -283,6 +301,8 @@
     - karin
     - daniel
   category: navigation
+  origin: manual
+  id: 457b5ce5-d7e4-44dc-9766-6a1d163a19fc
 - datetime: 2025-02-02T17:00:55.302Z
   text: ""
   author: ""
@@ -312,6 +332,8 @@
     - karin
     - daniel
   category: navigation
+  origin: auto
+  id: fa1093bf-1490-4d12-b9b3-e225c7f09806
 - datetime: 2025-02-02T17:06:16.300Z
   text: "Sails set: Main (2nd reef), Staysail. Seems like we'll find a squall soon"
   author: bergie
@@ -341,6 +363,8 @@
     - karin
     - daniel
   category: navigation
+  origin: manual
+  id: bc5bec64-cd93-4d29-8406-70650d50fca5
 - datetime: 2025-02-02T17:12:55.302Z
   text: Watermaker 240ppm, jug full
   author: bergie
@@ -370,6 +394,8 @@
     - karin
     - daniel
   category: maintenance
+  origin: manual
+  id: 7fdbeb7f-4207-4b17-8512-7f6393145506
 - datetime: 2025-02-02T17:19:57.299Z
   text: Autopilot deactivated
   author: ""
@@ -399,6 +425,8 @@
     - karin
     - daniel
   category: navigation
+  origin: auto
+  id: 31ff18ad-178e-44c6-b98c-e6d3f85d4624
 - datetime: 2025-02-02T17:33:00.300Z
   text: "Sails set: Main (1st reef), Staysail"
   author: ""
@@ -428,6 +456,8 @@
     - karin
     - daniel
   category: navigation
+  origin: auto
+  id: 36b9736c-4dea-4c25-a78a-de30bc2bd771
 - datetime: 2025-02-02T18:00:56.300Z
   text: ""
   author: ""
@@ -457,6 +487,8 @@
     - karin
     - daniel
   category: navigation
+  origin: auto
+  id: a5596433-20a9-4712-9e94-ebf5bc72a976
 - datetime: 2025-02-02T18:24:34.297Z
   text: "Sails set: Main (1st reef), Genoa 1, Staysail"
   author: ""
@@ -486,6 +518,8 @@
     - karin
     - daniel
   category: navigation
+  origin: auto
+  id: e70d2f29-5636-464b-9a1c-f743d32fe58c
 - datetime: 2025-02-02T18:43:57.299Z
   text: Watermaker 244ppm, jug full
   author: bergie
@@ -515,6 +549,8 @@
     - karin
     - daniel
   category: maintenance
+  origin: manual
+  id: e09c5606-96a3-4b4b-bc61-2f9e74399ad6
 - datetime: 2025-02-02T19:00:56.300Z
   text: ""
   author: ""
@@ -544,6 +580,8 @@
     - karin
     - daniel
   category: navigation
+  origin: auto
+  id: df533b7f-f586-4980-87a6-4a63704c9ac3
 - datetime: 2025-02-02T19:32:57.401Z
   text: Stopped watermaker, 240ppm
   author: ihmis-suski
@@ -573,6 +611,8 @@
     - karin
     - daniel
   category: navigation
+  origin: manual
+  id: da685bed-5f5c-42a6-bfcd-624ba03f49a8
 - datetime: 2025-02-02T19:44:25.401Z
   text: Sails down, motoring
   author: ""
@@ -602,6 +642,8 @@
     - karin
     - daniel
   category: navigation
+  origin: auto
+  id: 4a8d95a8-9646-4a73-811b-6204ca81078c
 - datetime: 2025-02-02T20:00:58.400Z
   text: ""
   author: ""
@@ -631,6 +673,8 @@
     - karin
     - daniel
   category: navigation
+  origin: auto
+  id: bd789a36-4520-4c30-b64b-db076a7454ce
 - datetime: 2025-02-02T20:07:20.396Z
   text: Anchored
   author: ""
@@ -661,6 +705,8 @@
     - daniel
   end: true
   category: navigation
+  origin: auto
+  id: 982a177f-0f9d-43da-824f-31a668e52443
 - datetime: 2025-02-02T20:13:13.401Z
   text: Stopped main engine
   author: ""
@@ -690,3 +736,5 @@
     - karin
     - daniel
   category: navigation
+  origin: auto
+  id: ac84a2eb-cb2c-462c-bfb0-5f7b84af47fb

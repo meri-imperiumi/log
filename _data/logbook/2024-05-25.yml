@@ -21,6 +21,8 @@
     - ihmis-suski
     - bergie
   category: maintenance
+  origin: manual
+  id: 0a24f949-b4cd-4234-b86f-0d48028368fb
 - datetime: 2024-05-25T11:21:08.099Z
   text: Started main engine
   author: ""
@@ -44,6 +46,8 @@
     - ihmis-suski
     - bergie
   category: navigation
+  origin: auto
+  id: ad37cf2d-c5b9-47ed-88d8-85badddfd158
 - datetime: 2024-05-25T11:30:36.400Z
   text: Motoring
   author: ""
@@ -67,6 +71,8 @@
     - ihmis-suski
     - bergie
   category: navigation
+  origin: auto
+  id: 88138acc-74d2-493e-a2ad-3f408584804c
 - datetime: 2024-05-25T11:36:49.401Z
   text: Motor stopped, sailing with Main (1st reef), Staysail
   author: ""
@@ -90,6 +96,8 @@
     - ihmis-suski
     - bergie
   category: navigation
+  origin: auto
+  id: 594abab1-08a9-4d40-b20d-0fa36a06f920
 - datetime: 2024-05-25T12:00:34.400Z
   text: ""
   author: ""
@@ -114,6 +122,8 @@
     - ihmis-suski
     - bergie
   category: navigation
+  origin: auto
+  id: 5fcd2e31-a20e-4ce3-aa36-c4a8f41191e3
 - datetime: 2024-05-25T12:01:37.401Z
   text: Autopilot activated
   author: bergie
@@ -142,6 +152,8 @@
     seaState: 2
     cloudCoverage: 8
     visibility: 7
+  origin: manual
+  id: fc4820d1-a72b-4e0d-8f0d-51502fa639fb
 - datetime: 2024-05-25T12:49:35.398Z
   text: Gybed to course, set preventer. Sunglasses on, for the moment
   author: bergie
@@ -166,6 +178,8 @@
     - ihmis-suski
     - bergie
   category: navigation
+  origin: manual
+  id: fec531f3-6529-404f-9ee7-0ce281643567
 - datetime: 2024-05-25T13:00:35.398Z
   text: "We're being pushed along by a >1kt current "
   author: bergie
@@ -190,6 +204,8 @@
     - ihmis-suski
     - bergie
   category: navigation
+  origin: manual
+  id: a0b50b96-5e85-4492-92c1-6052b31a862d
 - datetime: 2024-05-25T13:25:36.400Z
   text: 2.5kt current now. Wind died for a bit. Poled out. Puffins, cormorants,
     fish traps
@@ -215,6 +231,8 @@
     - ihmis-suski
     - bergie
   category: navigation
+  origin: manual
+  id: da1f70f4-5b63-4e48-87e3-111798eaf8a8
 - datetime: 2024-05-25T13:46:28.400Z
   text: Autopilot deactivated, entering tidal race with standing waves
   author: bergie
@@ -239,6 +257,8 @@
     - ihmis-suski
     - bergie
   category: navigation
+  origin: manual
+  id: f02f3d15-e1a1-43ce-88e9-7602cf0bf729
 - datetime: 2024-05-25T13:50:37.401Z
   text: Autopilot activated, we're through. Current was >6kt at worst. Big waves
     an poor steering through low apparent wind
@@ -264,6 +284,8 @@
     - ihmis-suski
     - bergie
   category: navigation
+  origin: manual
+  id: 47f0f77e-5dad-4006-8383-03288b5e3bdc
 - datetime: 2024-05-25T14:00:35.398Z
   text: ""
   author: ""
@@ -288,6 +310,8 @@
     - ihmis-suski
     - bergie
   category: navigation
+  origin: auto
+  id: 2a01abd0-757c-4d34-b5f1-458fae942ac2
 - datetime: 2024-05-25T14:11:48.400Z
   text: Autopilot deactivated, windvane steering
   author: bergie
@@ -312,6 +336,8 @@
     - ihmis-suski
     - bergie
   category: navigation
+  origin: manual
+  id: 79918a81-ebbe-40de-8538-b9a39d0bd92c
 - datetime: 2024-05-25T14:20:36.400Z
   text: Stowed the whiskerpole, it should be broad reach from here on. This side
     of Orkney is pretty cool
@@ -337,6 +363,8 @@
     - ihmis-suski
     - bergie
   category: navigation
+  origin: manual
+  id: abc26312-9c4b-4908-b248-ffac26c58c3d
 - datetime: 2024-05-25T14:55:36.396Z
   text: Past Brough Head light. Somewhat confused lumpy sea
   author: bergie
@@ -365,6 +393,8 @@
     seaState: 3
     cloudCoverage: 8
     visibility: 7
+  origin: manual
+  id: 155b756e-fe25-4720-8e7e-e88111ea4d3e
 - datetime: 2024-05-25T15:00:37.401Z
   text: ""
   author: ""
@@ -389,6 +419,8 @@
     - ihmis-suski
     - bergie
   category: navigation
+  origin: auto
+  id: b016dae0-11ab-4309-bce7-bbcc26e96715
 - datetime: 2024-05-25T15:03:36.396Z
   text: The new windvane adjustment line is too thin, can get stuck inside the roller
   author: bergie
@@ -413,6 +445,8 @@
     - ihmis-suski
     - bergie
   category: maintenance
+  origin: manual
+  id: b0899163-672d-4270-9c59-9df87c0d962f
 - datetime: 2024-05-25T15:28:37.401Z
   text: Slightly more comfortable going as we're further from the shore
   author: bergie
@@ -441,6 +475,8 @@
     cloudCoverage: 7
     seaState: 3
     visibility: 6
+  origin: manual
+  id: ac86d003-aeb6-4d6d-80d2-423c95aad5f6
 - datetime: 2024-05-25T16:00:37.401Z
   text: ""
   author: ""
@@ -465,6 +501,8 @@
     - ihmis-suski
     - bergie
   category: navigation
+  origin: auto
+  id: bdb9b042-6be4-4b03-a5bd-c18b53416e08
 - datetime: 2024-05-25T17:00:37.401Z
   text: ""
   author: ""
@@ -489,6 +527,8 @@
     - ihmis-suski
     - bergie
   category: navigation
+  origin: auto
+  id: f36e5a96-eea5-4d63-829c-9fdbd9985a09
 - datetime: 2024-05-25T17:04:37.401Z
   text: Bergie to off watch and Suski to sea watch slightly sea sick.
   author: ihmis-suski
@@ -517,6 +557,8 @@
     seaState: 3
     cloudCoverage: 7
     visibility: 7
+  origin: manual
+  id: 46d6e816-638b-4042-885d-b1f70dc298c3
 - datetime: 2024-05-25T17:54:38.400Z
   text: Going into thr fog bank way more wind. Went from 15 to 30 kn.
   author: ihmis-suski
@@ -545,6 +587,8 @@
     seaState: 4
     cloudCoverage: 8
     visibility: 6
+  origin: manual
+  id: edb833d4-450f-4de4-88fb-51be8cced4ec
 - datetime: 2024-05-25T18:00:38.400Z
   text: ""
   author: ""
@@ -569,6 +613,8 @@
     - ihmis-suski
     - bergie
   category: navigation
+  origin: auto
+  id: d572772f-f05e-4cfc-8c5e-090ca17f6aac
 - datetime: 2024-05-25T19:00:39.398Z
   text: ""
   author: ""
@@ -593,6 +639,8 @@
     - ihmis-suski
     - bergie
   category: navigation
+  origin: auto
+  id: 400c20d8-92fe-4c03-95ce-39fb0cce3a3d
 - datetime: 2024-05-25T20:00:39.398Z
   text: ""
   author: ""
@@ -617,6 +665,8 @@
     - ihmis-suski
     - bergie
   category: navigation
+  origin: auto
+  id: 6ddc2209-6e89-485a-bb77-d6459396e36a
 - datetime: 2024-05-25T21:00:40.300Z
   text: ""
   author: ""
@@ -641,6 +691,8 @@
     - ihmis-suski
     - bergie
   category: navigation
+  origin: auto
+  id: 93bb0763-1924-4b53-8164-df2d7cfdcd0f
 - datetime: 2024-05-25T22:00:40.300Z
   text: ""
   author: ""
@@ -665,6 +717,8 @@
     - ihmis-suski
     - bergie
   category: navigation
+  origin: auto
+  id: 38f7eb1c-057f-420e-a496-716c50c79565
 - datetime: 2024-05-25T22:55:41.702Z
   text: Bergie on watch, Suski to bed
   author: bergie
@@ -693,6 +747,8 @@
     seaState: 3
     cloudCoverage: 1
     visibility: 7
+  origin: manual
+  id: 7f783d4a-8b0e-469d-acc9-c01264759d27
 - datetime: 2024-05-25T23:00:40.697Z
   text: ""
   author: ""
@@ -717,6 +773,8 @@
     - ihmis-suski
     - bergie
   category: navigation
+  origin: auto
+  id: d907a3a2-e537-4b49-9bcc-6679c10e5bc3
 - datetime: 2024-05-25T23:16:41.702Z
   text: Countercurrent varies between 1-2kt
   author: bergie
@@ -741,3 +799,5 @@
     - ihmis-suski
     - bergie
   category: navigation
+  origin: manual
+  id: ef3d2c8e-a596-4008-9f95-aff8b65f3ffa

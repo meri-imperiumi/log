@@ -21,6 +21,8 @@
     - ihmis-suski
     - bergie
   category: navigation
+  origin: auto
+  id: 294eed44-6fe2-48cb-b3cc-b983d129fbda
 - datetime: 2024-06-06T07:41:44.899Z
   text: Anchor up, motoring
   author: bergie
@@ -44,6 +46,8 @@
     - ihmis-suski
     - bergie
   category: navigation
+  origin: manual
+  id: 3f193055-2cce-4b6f-8656-a32ea586b67f
 - datetime: 2024-06-06T07:53:15.900Z
   text: Motor stopped, sailing with Main, Staysail
   author: ""
@@ -67,6 +71,8 @@
     - ihmis-suski
     - bergie
   category: navigation
+  origin: auto
+  id: 448bdd68-9ec9-4dfd-a891-c24c32806e4c
 - datetime: 2024-06-06T08:00:44.899Z
   text: ""
   author: ""
@@ -91,6 +97,8 @@
     - ihmis-suski
     - bergie
   category: navigation
+  origin: auto
+  id: db385b13-da33-487e-92f9-eb4e1fe85b49
 - datetime: 2024-06-06T08:13:44.899Z
   text: "Mayday relay from Stornoway CG: Beacon alert 0749Z 15Nm from 56°40.5N
     008°08.2W. 82NM SW from us. There is a vessel (freighter Ross Eagle) under
@@ -117,6 +125,8 @@
     - ihmis-suski
     - bergie
   category: radio
+  origin: manual
+  id: d1a93611-96e4-4a2f-98a2-e36b45ff9b0d
 - datetime: 2024-06-06T08:30:44.899Z
   text: Beacon alert  56°40.5N 008°08.2W confirmed false alert, no distress.
     Silence fini
@@ -142,6 +152,8 @@
     - ihmis-suski
     - bergie
   category: radio
+  origin: manual
+  id: 7d50aded-f447-47b3-a9b4-3cf7578ce63e
 - datetime: 2024-06-06T08:31:31.900Z
   text: "Sails set: Main, Genoa 1"
   author: ""
@@ -166,6 +178,8 @@
     - ihmis-suski
     - bergie
   category: navigation
+  origin: auto
+  id: 524f5514-3980-4c92-9dcb-ebf8daf50e9c
 - datetime: 2024-06-06T08:35:44.899Z
   text: "Deployed hydrogenerator "
   author: bergie
@@ -190,6 +204,8 @@
     - ihmis-suski
     - bergie
   category: navigation
+  origin: manual
+  id: 2f9b363f-a8ae-4dbb-887b-4b6528509943
 - datetime: 2024-06-06T08:48:07.900Z
   text: "Sails set: Main, Staysail.  Gusts up to 18kt"
   author: bergie
@@ -218,6 +234,8 @@
     cloudCoverage: 6
     seaState: 3
     visibility: 8
+  origin: manual
+  id: 565192c9-02c4-456d-8e42-a958c3a6ce26
 - datetime: 2024-06-06T09:00:44.899Z
   text: ""
   author: ""
@@ -242,6 +260,8 @@
     - ihmis-suski
     - bergie
   category: navigation
+  origin: auto
+  id: 0f5f1567-784c-4999-be81-54372765020c
 - datetime: 2024-06-06T09:18:04.198Z
   text: Autopilot activated
   author: ""
@@ -266,6 +286,8 @@
     - ihmis-suski
     - bergie
   category: navigation
+  origin: auto
+  id: 2d72090b-f98b-4694-919f-cf2f4e6e4f9b
 - datetime: 2024-06-06T10:00:46.201Z
   text: ""
   author: ""
@@ -290,6 +312,8 @@
     - ihmis-suski
     - bergie
   category: navigation
+  origin: auto
+  id: 4f48dd37-9fe1-4429-9af3-34332f29b96f
 - datetime: 2024-06-06T11:00:47.200Z
   text: ""
   author: ""
@@ -314,6 +338,8 @@
     - ihmis-suski
     - bergie
   category: navigation
+  origin: auto
+  id: efa64388-7442-432e-bc3f-bf371f8e1d99
 - datetime: 2024-06-06T12:00:48.198Z
   text: ""
   author: ""
@@ -338,6 +364,8 @@
     - ihmis-suski
     - bergie
   category: navigation
+  origin: auto
+  id: 8e39d3eb-a802-4d3d-90d2-f0743c6d6633
 - datetime: 2024-06-06T13:00:49.200Z
   text: ""
   author: ""
@@ -362,6 +390,8 @@
     - ihmis-suski
     - bergie
   category: navigation
+  origin: auto
+  id: e23ea861-0096-4c6d-a749-f3c900a4d1dc
 - datetime: 2024-06-06T13:17:49.200Z
   text: Both Eigg and Muck have produced quite confused seas downwind of them
   author: bergie
@@ -390,6 +420,8 @@
     cloudCoverage: 3
     seaState: 3
     visibility: 8
+  origin: manual
+  id: ec7af636-abf0-46c7-9363-897bd3682356
 - datetime: 2024-06-06T14:00:50.201Z
   text: ""
   author: ""
@@ -414,6 +446,8 @@
     - ihmis-suski
     - bergie
   category: navigation
+  origin: auto
+  id: fa708c73-d046-429d-87f3-6182450db8ec
 - datetime: 2024-06-06T14:29:51.200Z
   text: Passing Ardnamurchan light
   author: bergie
@@ -438,6 +472,8 @@
     - ihmis-suski
     - bergie
   category: navigation
+  origin: manual
+  id: db68bc16-06b3-419a-a723-5c37fc241cd0
 - datetime: 2024-06-06T15:00:51.200Z
   text: ""
   author: ""
@@ -462,6 +498,8 @@
     - ihmis-suski
     - bergie
   category: navigation
+  origin: auto
+  id: 2580f6c0-fbe2-4593-9bce-de03ad82cbbd
 - datetime: 2024-06-06T16:00:52.198Z
   text: ""
   author: ""
@@ -486,6 +524,8 @@
     - ihmis-suski
     - bergie
   category: navigation
+  origin: auto
+  id: 04f025ee-611b-4684-b0b1-1ebb86f17e60
 - datetime: 2024-06-06T16:05:52.198Z
   text: "Stowed hydrogenerator "
   author: bergie
@@ -510,6 +550,8 @@
     - ihmis-suski
     - bergie
   category: navigation
+  origin: manual
+  id: b368c17c-d768-44af-b226-8fccd45ddf16
 - datetime: 2024-06-06T16:23:57.196Z
   text: Autopilot deactivated
   author: ""
@@ -534,6 +576,8 @@
     - ihmis-suski
     - bergie
   category: navigation
+  origin: auto
+  id: 92f9e5e1-d1c0-4734-a4f4-d6beba29980c
 - datetime: 2024-06-06T16:35:32.198Z
   text: Sails down, motoring
   author: ""
@@ -558,6 +602,8 @@
     - ihmis-suski
     - bergie
   category: navigation
+  origin: auto
+  id: 860878a6-23d1-43a0-8f67-771b6d33d448
 - datetime: 2024-06-06T16:58:52.198Z
   text: Stopped
   author: ""
@@ -582,3 +628,5 @@
     - bergie
   end: true
   category: navigation
+  origin: auto
+  id: 9c8387e1-3401-4f85-84d4-7bd7d9964234

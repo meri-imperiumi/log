@@ -29,6 +29,8 @@
     seaState: 3
     cloudCoverage: 1
     visibility: 7
+  origin: manual
+  id: f2abbe0c-f6f4-4d65-939b-c521ac9ffeb7
 - datetime: 2024-12-20T00:09:44.200Z
   text: Motor stopped, sailing with Main (1st reef), Staysail
   author: ""
@@ -56,6 +58,8 @@
     - ihmis-suski
     - bergie
   category: navigation
+  origin: auto
+  id: f7f3ffb1-438d-450f-8016-20fdfe4b0f7a
 - datetime: 2024-12-20T01:00:27.600Z
   text: ""
   author: ""
@@ -83,6 +87,8 @@
     - ihmis-suski
     - bergie
   category: navigation
+  origin: auto
+  id: 67ca37b9-5c35-4aff-b7f5-5af7dd8138b0
 - datetime: 2024-12-20T02:00:28.600Z
   text: ""
   author: ""
@@ -110,6 +116,8 @@
     - ihmis-suski
     - bergie
   category: navigation
+  origin: auto
+  id: 86a96dc3-ecc7-4e70-80cb-55eb1f05dafc
 - datetime: 2024-12-20T02:12:10.600Z
   text: "Autopilot deactivated, windvane steering "
   author: bergie
@@ -137,6 +145,8 @@
     - ihmis-suski
     - bergie
   category: navigation
+  origin: manual
+  id: 4e4e015d-b86e-4452-ad36-b5be92c429c7
 - datetime: 2024-12-20T03:00:30.600Z
   text: ""
   author: ""
@@ -164,6 +174,8 @@
     - ihmis-suski
     - bergie
   category: navigation
+  origin: auto
+  id: 5e1d369b-da2e-4308-a719-27c61295c551
 - datetime: 2024-12-20T04:00:31.600Z
   text: ""
   author: ""
@@ -191,6 +203,8 @@
     - ihmis-suski
     - bergie
   category: navigation
+  origin: auto
+  id: 47989174-b273-4ae4-8c3b-a25a2ff23ab2
 - datetime: 2024-12-20T04:54:32.600Z
   text: Gybed to head south
   author: bergie
@@ -218,6 +232,8 @@
     - ihmis-suski
     - bergie
   category: navigation
+  origin: manual
+  id: 2f994f51-11db-4f1d-b30e-4409d4474da7
 - datetime: 2024-12-20T05:00:33.600Z
   text: Watch change. Suski on duty waiting for sunrise
   author: ihmis-suski
@@ -245,6 +261,8 @@
     - ihmis-suski
     - bergie
   category: navigation
+  origin: manual
+  id: 936bcb64-0ff5-4cd1-b3fc-b478f58fd887
 - datetime: 2024-12-20T06:00:34.600Z
   text: ""
   author: ""
@@ -272,6 +290,8 @@
     - ihmis-suski
     - bergie
   category: navigation
+  origin: auto
+  id: 3fd69951-5b9f-49ed-bf23-ddd399f7db6c
 - datetime: 2024-12-20T07:00:36.600Z
   text: ""
   author: ""
@@ -299,6 +319,8 @@
     - ihmis-suski
     - bergie
   category: navigation
+  origin: auto
+  id: ad670f37-6fad-4b78-bd37-a48501f8ff07
 - datetime: 2024-12-20T07:06:36.600Z
   text: Pan pan from Coastal Radio. Couldn't understand what or where. We start to
     be outside of VHF range
@@ -327,6 +349,8 @@
     - ihmis-suski
     - bergie
   category: radio
+  origin: manual
+  id: 1493c994-1c49-42af-bcce-77597dca2f81
 - datetime: 2024-12-20T07:48:37.600Z
   text: Sun nearly up.
   author: ihmis-suski
@@ -358,6 +382,8 @@
     seaState: 3
     cloudCoverage: 1
     visibility: 6
+  origin: manual
+  id: a0862f4c-102b-4afa-92f8-22468b0de446
 - datetime: 2024-12-20T08:00:37.600Z
   text: ""
   author: ""
@@ -385,6 +411,8 @@
     - ihmis-suski
     - bergie
   category: navigation
+  origin: auto
+  id: ef2d72f6-39e0-4180-9b35-9bfe034a0502
 - datetime: 2024-12-20T09:00:39.600Z
   text: ""
   author: ""
@@ -412,6 +440,8 @@
     - ihmis-suski
     - bergie
   category: navigation
+  origin: auto
+  id: 8796ca22-a797-4e12-b5f0-98f77ee4fe55
 - datetime: 2024-12-20T10:00:40.601Z
   text: ""
   author: ""
@@ -439,6 +469,8 @@
     - ihmis-suski
     - bergie
   category: navigation
+  origin: auto
+  id: a13d8738-0a5f-48b7-8612-d8a6754da690
 - datetime: 2024-12-20T11:00:42.598Z
   text: ""
   author: ""
@@ -466,6 +498,8 @@
     - ihmis-suski
     - bergie
   category: navigation
+  origin: auto
+  id: 91d9064c-899c-482d-9aae-cf2d0dc4702d
 - datetime: 2024-12-20T11:24:42.598Z
   text: We are ahead of weather routing .
   author: ihmis-suski
@@ -497,6 +531,8 @@
     seaState: 4
     cloudCoverage: 4
     visibility: 6
+  origin: manual
+  id: 91f4e512-416f-48ed-b8b0-e2f2ef930bf8
 - datetime: 2024-12-20T12:00:43.699Z
   text: Bergie on watch
   author: bergie
@@ -528,6 +564,8 @@
     seaState: 4
     cloudCoverage: 6
     visibility: 6
+  origin: manual
+  id: df7816b6-3e21-4cf1-855a-6cdede7776df
 - datetime: 2024-12-20T12:16:43.699Z
   text: "Could still hear the MSI securite advertisement from Tenerife, but not
     the actual contents "
@@ -556,6 +594,8 @@
     - ihmis-suski
     - bergie
   category: radio
+  origin: manual
+  id: 36cc3ff6-1812-45cb-9e8f-8b0434a33490
 - datetime: 2024-12-20T13:00:45.699Z
   text: "Caught and collected a plastic bag with the fishing lure "
   author: bergie
@@ -583,6 +623,8 @@
     - ihmis-suski
     - bergie
   category: navigation
+  origin: manual
+  id: cee9f126-71f1-4d3b-8b5c-eced10f30ba1
 - datetime: 2024-12-20T13:29:45.699Z
   text: Somebody snapped our fishing line. We need a metal leader from now on. On
     the rebound, the line wrapped around both the hydrogenerator and the servo
@@ -612,6 +654,8 @@
     - ihmis-suski
     - bergie
   category: navigation
+  origin: manual
+  id: c5d1bdef-c58c-4196-872f-85e212871d2a
 - datetime: 2024-12-20T14:00:47.699Z
   text: ""
   author: ""
@@ -639,6 +683,8 @@
     - ihmis-suski
     - bergie
   category: navigation
+  origin: auto
+  id: 52f0ae3e-3a77-4991-9ccc-bb4aca734816
 - datetime: 2024-12-20T15:00:48.697Z
   text: ""
   author: ""
@@ -666,6 +712,8 @@
     - ihmis-suski
     - bergie
   category: navigation
+  origin: auto
+  id: 5b789201-2561-4636-b10d-fb4f749f2f89
 - datetime: 2024-12-20T15:28:49.702Z
   text: Enabled AIS "dangerous vessel alarm" on the Tritons now that we're well
     offshore
@@ -694,6 +742,8 @@
     - ihmis-suski
     - bergie
   category: maintenance
+  origin: manual
+  id: e7f6ebbf-55da-4e12-916a-c7d5ab7598a7
 - datetime: 2024-12-20T16:00:50.700Z
   text: ""
   author: ""
@@ -721,6 +771,8 @@
     - ihmis-suski
     - bergie
   category: navigation
+  origin: auto
+  id: 646f8105-8d24-46d5-be70-bd77de4fa9b3
 - datetime: 2024-12-20T17:00:53.100Z
   text: ""
   author: ""
@@ -748,6 +800,8 @@
     - ihmis-suski
     - bergie
   category: navigation
+  origin: auto
+  id: 32b58025-deb6-4f92-8e3c-b69205c58df3
 - datetime: 2024-12-20T18:00:50.099Z
   text: Watch change.  Suski on duty. Pole prepared for wing and wing later.
   author: ihmis-suski
@@ -779,6 +833,8 @@
     seaState: 4
     cloudCoverage: 4
     visibility: 6
+  origin: manual
+  id: a64bf691-c4b4-48bc-b82f-994ec8bd88fc
 - datetime: 2024-12-20T18:51:50.099Z
   text: Wing on wing.
   author: ihmis-suski
@@ -806,6 +862,8 @@
     - ihmis-suski
     - bergie
   category: navigation
+  origin: manual
+  id: 9da0d6da-0c4d-4163-9c40-b7079717b245
 - datetime: 2024-12-20T19:00:50.099Z
   text: ""
   author: ""
@@ -833,6 +891,8 @@
     - ihmis-suski
     - bergie
   category: navigation
+  origin: auto
+  id: 1b466163-155d-4a47-bc73-543b8bf0438b
 - datetime: 2024-12-20T20:00:51.097Z
   text: ""
   author: ""
@@ -860,6 +920,8 @@
     - ihmis-suski
     - bergie
   category: navigation
+  origin: auto
+  id: 69c01cf9-21b0-4e2f-b537-00a934078307
 - datetime: 2024-12-20T20:42:52.102Z
   text: Its 20 degrees outside and I just got myself a jacket. On top of the
     woolen shirt and hood.
@@ -888,6 +950,8 @@
     - ihmis-suski
     - bergie
   category: navigation
+  origin: manual
+  id: d03350cb-a25a-4c29-bd70-1678cb607d88
 - datetime: 2024-12-20T21:00:52.102Z
   text: ""
   author: ""
@@ -915,6 +979,8 @@
     - ihmis-suski
     - bergie
   category: navigation
+  origin: auto
+  id: 39c5ff14-69f7-451d-8180-72976c12c7bf
 - datetime: 2024-12-20T22:00:52.102Z
   text: ""
   author: ""
@@ -942,6 +1008,8 @@
     - ihmis-suski
     - bergie
   category: navigation
+  origin: auto
+  id: 1e135b86-9423-4695-b6f8-83a5893a6456
 - datetime: 2024-12-20T23:00:54.201Z
   text: ""
   author: ""
@@ -969,6 +1037,8 @@
     - ihmis-suski
     - bergie
   category: navigation
+  origin: auto
+  id: 57c4c51b-5fb9-4344-b826-13dd4fceb13b
 - datetime: 2024-12-20T23:43:20.198Z
   text: "Sails set: Main (2nd reef), Staysail"
   author: ""
@@ -996,3 +1066,5 @@
     - ihmis-suski
     - bergie
   category: navigation
+  origin: auto
+  id: 9e829cb2-6e2b-44b1-b49d-8cf4b8ef421a

@@ -21,6 +21,8 @@
     - ihmis-suski
     - bergie
   category: navigation
+  origin: auto
+  id: 75dcff5b-2966-4ef1-9ef1-a51be7bf2441
 - datetime: 2024-07-28T12:20:33.798Z
   text: Motoring
   author: ""
@@ -44,6 +46,8 @@
     - ihmis-suski
     - bergie
   category: navigation
+  origin: auto
+  id: ac8e6369-cf77-408a-ad38-e2f691abd941
 - datetime: 2024-07-28T12:42:29.798Z
   text: Anchored
   author: ""
@@ -68,6 +72,8 @@
     - bergie
   end: true
   category: navigation
+  origin: auto
+  id: 67a2c15c-727a-4bf8-bf0e-ada313818359
 - datetime: 2024-07-28T12:47:51.801Z
   text: Anchor up, motoring
   author: ""
@@ -91,6 +97,8 @@
     - ihmis-suski
     - bergie
   category: navigation
+  origin: auto
+  id: 3854c1b4-e6b2-4eff-b3c0-17e1e96e4bfc
 - datetime: 2024-07-28T12:50:03.801Z
   text: Anchored
   author: ""
@@ -115,6 +123,8 @@
     - bergie
   end: true
   category: navigation
+  origin: auto
+  id: 42dd4b33-fab8-42ba-a69d-1188300f83c3
 - datetime: 2024-07-28T12:58:02.800Z
   text: Stopped main engine
   author: ""
@@ -138,6 +148,8 @@
     - ihmis-suski
     - bergie
   category: navigation
+  origin: auto
+  id: b7a6ac59-821b-4b0a-9c6c-122be638bd38
 - datetime: 2024-07-28T18:46:49.203Z
   text: MC4 connectors for the FLINsail had corroded. Cleaned them up with some
     Kontakt, seemed to help for now
@@ -162,3 +174,5 @@
     - ihmis-suski
     - bergie
   category: maintenance
+  origin: manual
+  id: ec1c4f89-41d7-445f-8aaf-c7ce78f4d056

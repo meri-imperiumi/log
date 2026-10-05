@@ -21,6 +21,8 @@
     - ihmis-suski
     - bergie
   category: engine
+  origin: manual
+  id: 88093103-4806-4462-85fa-f89d80b343ea
 - datetime: 2024-07-22T21:10:23.200Z
   text: Started main engine
   author: ""
@@ -45,6 +47,8 @@
     - ihmis-suski
     - bergie
   category: navigation
+  origin: auto
+  id: 1f585758-ba44-476d-9aba-2d2ab96530e4
 - datetime: 2024-07-22T21:18:40.198Z
   text: Motoring
   author: ""
@@ -69,6 +73,8 @@
     - ihmis-suski
     - bergie
   category: navigation
+  origin: auto
+  id: df2e825d-b5a3-4488-8cd4-3b229317b11c
 - datetime: 2024-07-22T21:22:45.196Z
   text: Stopped
   author: ""
@@ -94,6 +100,8 @@
     - bergie
   end: true
   category: navigation
+  origin: auto
+  id: 6e316598-c4e0-4206-9671-d10d3178f0b2
 - datetime: 2024-07-22T21:55:02.201Z
   text: Started main engine
   author: ""
@@ -118,6 +126,8 @@
     - ihmis-suski
     - bergie
   category: navigation
+  origin: auto
+  id: 87c57141-ca14-481c-a492-24a1f500e81a
 - datetime: 2024-07-22T22:00:32.198Z
   text: Motoring
   author: ""
@@ -142,6 +152,8 @@
     - ihmis-suski
     - bergie
   category: navigation
+  origin: auto
+  id: 5964bbee-6075-40fa-942c-64d90bf13267
 - datetime: 2024-07-22T22:07:49.196Z
   text: Autopilot activated
   author: ""
@@ -166,6 +178,8 @@
     - ihmis-suski
     - bergie
   category: navigation
+  origin: auto
+  id: 2902c1f3-53c0-4525-abe3-c8341aa82f93
 - datetime: 2024-07-22T22:28:31.200Z
   text: Hoisted Main in 1st reef in anticipation of the eventual wind shift. So,
     motorsailing into the night
@@ -195,6 +209,8 @@
     seaState: 2
     cloudCoverage: 6
     visibility: 7
+  origin: manual
+  id: 0e9c8e8e-2ec7-4509-80c8-1852bdb520a5
 - datetime: 2024-07-22T23:00:31.200Z
   text: ""
   author: ""
@@ -218,3 +234,6 @@
   crewNames:
     - ihmis-suski
     - bergie
+  category: navigation
+  origin: auto
+  id: e08d6a2f-a74d-44cf-a42a-82c68f3bdb29

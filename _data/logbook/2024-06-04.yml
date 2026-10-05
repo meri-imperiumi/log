@@ -22,6 +22,8 @@
     - ihmis-suski
     - bergie
   category: maintenance
+  origin: manual
+  id: 5797a3d2-6a5c-48aa-973c-19ab000dccae
 - datetime: 2024-06-04T15:20:21.497Z
   text: Removed 12V-to-1.2V DC-DC from heads as the new fan is 12V. Re-tightened
     festoon connectors of the light there to stop blinking
@@ -46,6 +48,8 @@
     - ihmis-suski
     - bergie
   category: maintenance
+  origin: manual
+  id: 22fede05-70c3-43e2-81d8-5a8eb0443ae5
 - datetime: 2024-06-04T16:09:47.500Z
   text: Changed hydrogenerator uphaul line to new one, old one was almost chafed
     through
@@ -70,3 +74,5 @@
     - ihmis-suski
     - bergie
   category: maintenance
+  origin: manual
+  id: 9e0b4e51-ead7-4152-800e-16f995f18d9f

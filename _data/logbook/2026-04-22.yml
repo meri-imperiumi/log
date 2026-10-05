@@ -20,6 +20,8 @@
     - ihmis-suski
     - bergie
   category: maintenance
+  origin: manual
+  id: 5263a7ad-e058-4a59-8154-4fcfda836fb6
 - datetime: 2026-04-22T01:52:20.900Z
   text: Watermaker 196ppm
   author: bergie
@@ -42,6 +44,8 @@
     - ihmis-suski
     - bergie
   category: maintenance
+  origin: manual
+  id: ee885ecb-912e-4e63-854a-6fe48d918bca
 - datetime: 2026-04-22T02:53:24.900Z
   text: Stopped watermaker, 194ppm
   author: bergie
@@ -64,6 +68,8 @@
     - ihmis-suski
     - bergie
   category: maintenance
+  origin: manual
+  id: 1e2f3163-7d4f-4427-a6c1-5878b9813ff5
 - datetime: 2026-04-22T14:28:10.598Z
   text: Started main engine
   author: ""
@@ -90,6 +96,8 @@
     - ihmis-suski
     - bergie
   category: navigation
+  origin: auto
+  id: 4d32db5c-dc99-4cd7-a6ad-1f1cb329d2c7
 - datetime: 2026-04-22T14:33:55.600Z
   text: Anchor up, motoring
   author: ""
@@ -116,6 +124,8 @@
     - ihmis-suski
     - bergie
   category: navigation
+  origin: auto
+  id: ae9f3cd5-c862-4769-a06e-18691a6a7eb6
 - datetime: 2026-04-22T14:47:39.600Z
   text: Autopilot activated
   author: ""
@@ -142,6 +152,8 @@
     - ihmis-suski
     - bergie
   category: navigation
+  origin: auto
+  id: cf45f34e-e6b2-4d87-a902-2b7d491f1638
 - datetime: 2026-04-22T15:00:54.700Z
   text: ""
   author: ""
@@ -168,6 +180,8 @@
     - ihmis-suski
     - bergie
   category: navigation
+  origin: auto
+  id: 8b940bee-ab19-4958-99b6-3d184de5df81
 - datetime: 2026-04-22T15:13:57.702Z
   text: In the Haava strait
   author: bergie
@@ -198,6 +212,8 @@
     cloudCoverage: 5
     seaState: 3
     visibility: 7
+  origin: manual
+  id: 134b435f-b9c1-475f-84f7-211387f5e720
 - datetime: 2026-04-22T15:20:56.697Z
   text: Tack towards Fatu Hiva
   author: bergie
@@ -226,6 +242,8 @@
   category: navigation
   observations:
     cloudCoverage: 4
+  origin: manual
+  id: 4453ebdc-87a0-49f6-b009-fa2e11b60a6f
 - datetime: 2026-04-22T15:52:40.697Z
   text: Motor stopped, sailing with Main, Genoa 1
   author: ""
@@ -252,6 +270,8 @@
     - ihmis-suski
     - bergie
   category: navigation
+  origin: auto
+  id: 0af48e58-88d6-4961-afa0-a235655bd3cf
 - datetime: 2026-04-22T15:54:53.702Z
   text: Pumped the bilge. 14 pumps
   author: bergie
@@ -279,6 +299,8 @@
     - bergie
   category: navigation
   observations: {}
+  origin: manual
+  id: ade08188-7bcd-4ec9-a2b0-1a21ed0d9c0e
 - datetime: 2026-04-22T16:00:54.700Z
   text: ""
   author: ""
@@ -305,6 +327,8 @@
     - ihmis-suski
     - bergie
   category: navigation
+  origin: auto
+  id: 1b87d8b3-9edf-4c4f-b148-db65d0308d16
 - datetime: 2026-04-22T16:11:59.699Z
   text: Sails down, motoring
   author: ""
@@ -331,6 +355,8 @@
     - ihmis-suski
     - bergie
   category: navigation
+  origin: auto
+  id: 5a603e86-06df-4aa4-bbc5-66eee7d436ef
 - datetime: 2026-04-22T16:40:47.699Z
   text: Motor stopped, sailing with Main, Genoa 1
   author: ""
@@ -357,6 +383,8 @@
     - ihmis-suski
     - bergie
   category: navigation
+  origin: auto
+  id: 69f3605f-f544-409f-b8d0-d77780c63ecd
 - datetime: 2026-04-22T17:00:55.699Z
   text: ""
   author: ""
@@ -383,6 +411,8 @@
     - ihmis-suski
     - bergie
   category: navigation
+  origin: auto
+  id: 4549377e-ae7d-4e3e-8acb-b7ed999b2404
 - datetime: 2026-04-22T18:00:54.700Z
   text: ""
   author: ""
@@ -409,6 +439,8 @@
     - ihmis-suski
     - bergie
   category: navigation
+  origin: auto
+  id: 799cc1e6-dae1-4c4c-b6b2-0e00e9609d13
 - datetime: 2026-04-22T18:01:52.697Z
   text: Can see Fatu Hiva in the horizon
   author: bergie
@@ -436,6 +468,8 @@
     - bergie
   category: navigation
   observations: {}
+  origin: manual
+  id: d95d88c8-054b-4696-b5a3-dbaa9898356a
 - datetime: 2026-04-22T18:26:56.800Z
   text: Sails down, motoring. Wind hole from Moho Tani
   author: bergie
@@ -462,6 +496,8 @@
     - ihmis-suski
     - bergie
   category: navigation
+  origin: manual
+  id: e1655ddc-2b5e-4e0d-88e0-9e2a4f021709
 - datetime: 2026-04-22T18:49:20.800Z
   text: Motor stopped, sailing with Main, Genoa 1
   author: ""
@@ -488,6 +524,8 @@
     - ihmis-suski
     - bergie
   category: navigation
+  origin: auto
+  id: be93a7ac-8ab1-43c3-80b6-648bc39f9d01
 - datetime: 2026-04-22T19:00:44.800Z
   text: ""
   author: ""
@@ -514,6 +552,8 @@
     - ihmis-suski
     - bergie
   category: navigation
+  origin: auto
+  id: f7ef9747-01d4-4b98-aa02-456299c267d2
 - datetime: 2026-04-22T20:00:42.803Z
   text: ""
   author: ""
@@ -540,6 +580,8 @@
     - ihmis-suski
     - bergie
   category: navigation
+  origin: auto
+  id: cce69a1f-3ef5-4ff5-a4d6-a7e914664286
 - datetime: 2026-04-22T21:00:44.902Z
   text: ""
   author: ""
@@ -566,6 +608,8 @@
     - ihmis-suski
     - bergie
   category: navigation
+  origin: auto
+  id: 10c13c37-5123-4eef-8778-0befd1f71afc
 - datetime: 2026-04-22T22:00:39.897Z
   text: ""
   author: ""
@@ -592,6 +636,8 @@
     - ihmis-suski
     - bergie
   category: navigation
+  origin: auto
+  id: 5cfee83c-365d-4f89-a0e4-823591ca1ea8
 - datetime: 2026-04-22T23:00:31.302Z
   text: ""
   author: ""
@@ -617,3 +663,6 @@
   crewNames:
     - ihmis-suski
     - bergie
+  category: navigation
+  origin: auto
+  id: 0e234e0d-440d-4f42-bf85-15c3eac4b759

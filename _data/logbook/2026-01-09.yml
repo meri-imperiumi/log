@@ -24,6 +24,8 @@
     - bergie
   end: true
   category: navigation
+  origin: manual
+  id: b2c09570-b96e-4d55-9712-aaa6136c734f
 - datetime: 2026-01-09T01:06:04.000Z
   text: Motoring
   author: ""
@@ -49,6 +51,8 @@
     - ihmis-suski
     - bergie
   category: navigation
+  origin: auto
+  id: 924f64ef-16c1-4228-af2f-2ec12c608072
 - datetime: 2026-01-09T01:18:05.000Z
   text: Stopped, second Gatun lock
   author: bergie
@@ -75,6 +79,8 @@
     - bergie
   end: true
   category: navigation
+  origin: manual
+  id: 9dccc645-301a-4734-897c-43563fdf649c
 - datetime: 2026-01-09T01:42:06.100Z
   text: Motoring
   author: ""
@@ -100,6 +106,8 @@
     - ihmis-suski
     - bergie
   category: navigation
+  origin: auto
+  id: e181bd65-32ee-4715-a83a-5b28f27d756b
 - datetime: 2026-01-09T01:55:07.100Z
   text: Stopped, third Gatun lock
   author: bergie
@@ -126,6 +134,8 @@
     - bergie
   end: true
   category: navigation
+  origin: manual
+  id: ea22ec21-1405-4e34-af7f-9b41a3f2151d
 - datetime: 2026-01-09T02:18:09.100Z
   text: Motoring
   author: ""
@@ -151,6 +161,8 @@
     - ihmis-suski
     - bergie
   category: navigation
+  origin: auto
+  id: 275e0600-1b56-4dde-a6f7-75fa8b374da6
 - datetime: 2026-01-09T02:53:50.100Z
   text: On a mooring
   author: bergie
@@ -177,6 +189,8 @@
     - bergie
   end: true
   category: navigation
+  origin: manual
+  id: d1f346b0-6353-4c3f-aff2-e8ed0df0d84b
 - datetime: 2026-01-09T02:53:58.100Z
   text: Stopped main engine
   author: ""
@@ -202,6 +216,8 @@
     - ihmis-suski
     - bergie
   category: navigation
+  origin: auto
+  id: 1d44fe5a-df9f-44a4-870e-a2fdbef06b8f
 - datetime: 2026-01-09T12:20:18.700Z
   text: Started main engine
   author: ""
@@ -227,6 +243,8 @@
     - ihmis-suski
     - bergie
   category: navigation
+  origin: auto
+  id: 5d00c24f-521b-4acd-bf2a-34dd6d04c617
 - datetime: 2026-01-09T12:20:45.699Z
   text: Detached mooring, motoring
   author: bergie
@@ -252,6 +270,8 @@
     - ihmis-suski
     - bergie
   category: navigation
+  origin: manual
+  id: fdf1acc0-1f19-4370-b54e-872aed8b4d30
 - datetime: 2026-01-09T13:00:45.699Z
   text: ""
   author: ""
@@ -277,6 +297,8 @@
     - ihmis-suski
     - bergie
   category: navigation
+  origin: auto
+  id: 218a9127-5091-443b-85e7-ebb0ebce1d21
 - datetime: 2026-01-09T14:00:49.798Z
   text: ""
   author: ""
@@ -302,6 +324,8 @@
     - ihmis-suski
     - bergie
   category: navigation
+  origin: auto
+  id: 78e5af6d-a189-41d1-8ec8-fa2a86a38b1e
 - datetime: 2026-01-09T15:00:52.800Z
   text: ""
   author: ""
@@ -327,6 +351,8 @@
     - ihmis-suski
     - bergie
   category: navigation
+  origin: auto
+  id: 823e24d6-b0fc-4bf5-9096-0010f2ee65ab
 - datetime: 2026-01-09T16:00:56.198Z
   text: ""
   author: ""
@@ -352,6 +378,8 @@
     - ihmis-suski
     - bergie
   category: navigation
+  origin: auto
+  id: 419404d6-48c5-4105-93ce-9a91ae95ed39
 - datetime: 2026-01-09T17:00:01.299Z
   text: ""
   author: ""
@@ -377,6 +405,8 @@
     - ihmis-suski
     - bergie
   category: navigation
+  origin: auto
+  id: a623c2e4-fe9b-4010-a4ec-118ef614deab
 - datetime: 2026-01-09T17:43:04.300Z
   text: Stopped, Pedro Miguel locks
   author: bergie
@@ -403,6 +433,8 @@
     - bergie
   end: true
   category: navigation
+  origin: manual
+  id: 61e0433c-6aa3-45c3-96a7-706bf87465d6
 - datetime: 2026-01-09T19:08:08.396Z
   text: Motoring
   author: ""
@@ -428,6 +460,8 @@
     - ihmis-suski
     - bergie
   category: navigation
+  origin: auto
+  id: 12bf027e-ccb8-452e-8758-36b3652c8cae
 - datetime: 2026-01-09T19:41:09.401Z
   text: Stopped, first Miraflores locks
   author: bergie
@@ -454,6 +488,8 @@
     - bergie
   end: true
   category: navigation
+  origin: manual
+  id: 38455c9f-8b26-4637-9186-f08c230ed8d7
 - datetime: 2026-01-09T20:15:50.400Z
   text: Motoring
   author: ""
@@ -479,6 +515,8 @@
     - ihmis-suski
     - bergie
   category: navigation
+  origin: auto
+  id: 25fa4b42-70b0-4b2f-8a2d-30e01f51439b
 - datetime: 2026-01-09T20:27:51.398Z
   text: Stopped, second Miraflores locks
   author: bergie
@@ -505,6 +543,8 @@
     - bergie
   end: true
   category: navigation
+  origin: manual
+  id: 36184d55-adaf-4a18-805b-e931c9650ae5
 - datetime: 2026-01-09T20:34:53.401Z
   text: Motoring
   author: ""
@@ -530,6 +570,8 @@
     - ihmis-suski
     - bergie
   category: navigation
+  origin: auto
+  id: 56c95402-9b28-43d3-8459-f70c572f9018
 - datetime: 2026-01-09T21:00:53.401Z
   text: ""
   author: ""
@@ -555,6 +597,8 @@
     - ihmis-suski
     - bergie
   category: navigation
+  origin: auto
+  id: d2fc45ff-d528-4660-b09d-673b4c7869ac
 - datetime: 2026-01-09T22:00:56.499Z
   text: ""
   author: ""
@@ -581,6 +625,8 @@
     - ihmis-suski
     - bergie
   category: navigation
+  origin: auto
+  id: 08e7eacd-c9ea-485f-b4d7-42cb2a10a8a6
 - datetime: 2026-01-09T22:22:53.497Z
   text: Anchored
   author: ""
@@ -608,6 +654,8 @@
     - bergie
   end: true
   category: navigation
+  origin: auto
+  id: 20efad23-b751-4dbd-aa38-e61a517cd296
 - datetime: 2026-01-09T22:27:44.499Z
   text: Stopped main engine
   author: ""
@@ -633,3 +681,5 @@
     - ihmis-suski
     - bergie
   category: navigation
+  origin: auto
+  id: 27cee7aa-fc57-4015-8980-1c42707de724

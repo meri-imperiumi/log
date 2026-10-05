@@ -25,6 +25,8 @@
     - ihmis-suski
     - bergie
   category: navigation
+  origin: auto
+  id: 28443319-6489-44d0-9243-e668bdec272c
 - datetime: 2025-03-04T14:01:46.300Z
   text: Anchor up, motoring
   author: bergie
@@ -52,6 +54,8 @@
     - ihmis-suski
     - bergie
   category: navigation
+  origin: manual
+  id: a1e6306e-f6e7-4297-86bb-826bc1e74f7e
 - datetime: 2025-03-04T14:07:23.299Z
   text: Motor stopped, sailing with Main (1st reef), Staysail
   author: bergie
@@ -79,6 +83,8 @@
     - ihmis-suski
     - bergie
   category: navigation
+  origin: manual
+  id: 5eef50c5-d4c7-409d-989b-6269c26f99ef
 - datetime: 2025-03-04T15:00:46.400Z
   text: ""
   author: ""
@@ -106,6 +112,8 @@
     - ihmis-suski
     - bergie
   category: navigation
+  origin: auto
+  id: 21f1490b-e8f3-4af7-83b3-3ef44df31aa9
 - datetime: 2025-03-04T15:16:28.697Z
   text: Sails down, motoring
   author: ""
@@ -133,6 +141,8 @@
     - ihmis-suski
     - bergie
   category: navigation
+  origin: auto
+  id: 4bc22deb-775a-4ab4-aca5-b0f1c22a5544
 - datetime: 2025-03-04T15:55:59.801Z
   text: Stopped
   author: ""
@@ -158,3 +168,5 @@
     - bergie
   end: true
   category: navigation
+  origin: auto
+  id: 318e3b56-774e-48ac-9b5f-f7af0fd1c187

@@ -25,6 +25,8 @@
     - ihmis-suski
     - bergie
   category: navigation
+  origin: auto
+  id: a043b35c-66c7-492b-997d-a8762cb50b14
 - datetime: 2025-01-13T01:00:24.900Z
   text: ""
   author: ""
@@ -52,6 +54,8 @@
     - ihmis-suski
     - bergie
   category: navigation
+  origin: auto
+  id: 7ce28bbd-7299-42af-8c65-cd1a8ba012c9
 - datetime: 2025-01-13T01:45:57.900Z
   text: "Sails set: Main (1st reef), Staysail"
   author: ""
@@ -79,6 +83,8 @@
     - ihmis-suski
     - bergie
   category: navigation
+  origin: auto
+  id: 9de67996-42f6-4e71-a509-dc7c09d13b00
 - datetime: 2025-01-13T02:00:23.900Z
   text: Suski on watch
   author: ihmis-suski
@@ -110,6 +116,8 @@
     seaState: 4
     cloudCoverage: 3
     visibility: 7
+  origin: manual
+  id: 94590b87-01b6-42a1-a6f1-5e96fd35ac93
 - datetime: 2025-01-13T03:00:23.000Z
   text: ""
   author: ""
@@ -137,6 +145,8 @@
     - ihmis-suski
     - bergie
   category: navigation
+  origin: auto
+  id: a065fa79-01c5-48c5-a933-09ee40b28c04
 - datetime: 2025-01-13T03:26:22.000Z
   text: Need to adjust Starbuck from time to time for optimal course
   author: ihmis-suski
@@ -164,6 +174,8 @@
     - ihmis-suski
     - bergie
   category: navigation
+  origin: manual
+  id: 51c576d9-08e0-4574-b777-76797be9e41d
 - datetime: 2025-01-13T03:54:22.000Z
   text: Slight drizzle.
   author: ihmis-suski
@@ -195,6 +207,8 @@
     seaState: 4
     cloudCoverage: 5
     visibility: 7
+  origin: manual
+  id: 4a8cb660-d33f-4cbd-ac71-22765d629c29
 - datetime: 2025-01-13T04:00:22.000Z
   text: ""
   author: ""
@@ -222,6 +236,8 @@
     - ihmis-suski
     - bergie
   category: navigation
+  origin: auto
+  id: 60726d3c-c014-426f-b13f-6d755ddd45e1
 - datetime: 2025-01-13T05:00:21.000Z
   text: ""
   author: ""
@@ -249,6 +265,8 @@
     - ihmis-suski
     - bergie
   category: navigation
+  origin: auto
+  id: 243bec14-de82-494d-a446-79cfb89d2702
 - datetime: 2025-01-13T06:00:19.100Z
   text: ""
   author: ""
@@ -276,6 +294,8 @@
     - ihmis-suski
     - bergie
   category: navigation
+  origin: auto
+  id: 47a6c92c-bc1f-4bc9-ab72-8ca499624da0
 - datetime: 2025-01-13T07:00:18.099Z
   text: ""
   author: ""
@@ -303,6 +323,8 @@
     - ihmis-suski
     - bergie
   category: navigation
+  origin: auto
+  id: a9587439-ec77-472c-9a14-7a7d9e247332
 - datetime: 2025-01-13T08:00:17.100Z
   text: Bergie on watch
   author: bergie
@@ -334,6 +356,8 @@
     seaState: 4
     cloudCoverage: 3
     visibility: 7
+  origin: manual
+  id: dfda72e4-7093-4ec1-8e47-aa3a158d9728
 - datetime: 2025-01-13T08:27:08.099Z
   text: "Sails set: Main (1st reef), Genoa 1 (30% furled), Staysail"
   author: ""
@@ -361,6 +385,8 @@
     - ihmis-suski
     - bergie
   category: navigation
+  origin: auto
+  id: 07f46e31-06c7-4eaf-a576-21ac2c9e9286
 - datetime: 2025-01-13T09:00:16.099Z
   text: ""
   author: ""
@@ -388,6 +414,8 @@
     - ihmis-suski
     - bergie
   category: navigation
+  origin: auto
+  id: 586c3ac1-c99c-4dba-8f51-59b7249c9c2f
 - datetime: 2025-01-13T09:32:15.100Z
   text: Sun is up
   author: bergie
@@ -419,6 +447,8 @@
     seaState: 4
     cloudCoverage: 2
     visibility: 7
+  origin: manual
+  id: 528cf0bd-a244-4e13-8c8f-d9951cb49466
 - datetime: 2025-01-13T10:00:15.100Z
   text: ""
   author: ""
@@ -446,6 +476,8 @@
     - ihmis-suski
     - bergie
   category: navigation
+  origin: auto
+  id: 5d0dfa9a-d862-4af4-a286-970fdbcb2471
 - datetime: 2025-01-13T11:00:14.201Z
   text: ""
   author: ""
@@ -473,6 +505,8 @@
     - ihmis-suski
     - bergie
   category: navigation
+  origin: auto
+  id: a2de4a52-7a21-4b6f-809f-39306a96ec4d
 - datetime: 2025-01-13T11:09:13.200Z
   text: "Started watermaker "
   author: bergie
@@ -500,6 +534,8 @@
     - ihmis-suski
     - bergie
   category: maintenance
+  origin: manual
+  id: 8579fbe5-8f9a-496b-b2d4-b906f328256e
 - datetime: 2025-01-13T11:22:14.201Z
   text: Watermaker 260ppm
   author: bergie
@@ -527,6 +563,8 @@
     - ihmis-suski
     - bergie
   category: maintenance
+  origin: manual
+  id: 62016f7d-d5d0-4354-b97d-523231bd1950
 - datetime: 2025-01-13T12:00:12.198Z
   text: ""
   author: ""
@@ -554,6 +592,8 @@
     - ihmis-suski
     - bergie
   category: navigation
+  origin: auto
+  id: 192c08d9-42ca-46cc-9933-afbf7f83f401
 - datetime: 2025-01-13T12:58:12.198Z
   text: Watermaker 246ppm, jug full
   author: bergie
@@ -581,6 +621,8 @@
     - ihmis-suski
     - bergie
   category: maintenance
+  origin: manual
+  id: 21a5144d-1def-473e-b519-23084e4dca1e
 - datetime: 2025-01-13T13:00:11.200Z
   text: ""
   author: ""
@@ -608,6 +650,8 @@
     - ihmis-suski
     - bergie
   category: navigation
+  origin: auto
+  id: 6db36610-6569-4ccd-8f7e-30a2744835ed
 - datetime: 2025-01-13T13:33:11.200Z
   text: There is occasional massive swell rolling from the north, I'd say at least
     4m. But gentle, long period. You're just either on a hilltop or a valley
@@ -637,6 +681,8 @@
     - ihmis-suski
     - bergie
   category: navigation
+  origin: manual
+  id: 0992525d-477d-40fd-932a-e89134746fbf
 - datetime: 2025-01-13T14:00:10.300Z
   text: Suski on watch.
   author: ihmis-suski
@@ -664,6 +710,8 @@
     - ihmis-suski
     - bergie
   category: navigation
+  origin: manual
+  id: a3e6d25e-fcde-48ba-bf05-eb7984d6aeb6
 - datetime: 2025-01-13T14:17:09.600Z
   text: "A very large fish swimming next to the boat. Maybe a meter long. No fin
     poking out. "
@@ -696,6 +744,8 @@
     seaState: 4
     cloudCoverage: 2
     visibility: 7
+  origin: manual
+  id: 0a13b894-d2b2-406b-ad10-757361dc416f
 - datetime: 2025-01-13T14:46:09.699Z
   text: Watermaker 242ppm. Jug full.
   author: ihmis-suski
@@ -723,6 +773,8 @@
     - ihmis-suski
     - bergie
   category: maintenance
+  origin: manual
+  id: dd30f65a-6e93-4dc3-a067-e0509a7d8196
 - datetime: 2025-01-13T15:00:08.697Z
   text: ""
   author: ""
@@ -750,6 +802,8 @@
     - ihmis-suski
     - bergie
   category: navigation
+  origin: auto
+  id: 9f2a03da-1406-4b14-8193-3deb7342ac12
 - datetime: 2025-01-13T16:00:08.697Z
   text: ""
   author: ""
@@ -777,6 +831,8 @@
     - ihmis-suski
     - bergie
   category: navigation
+  origin: auto
+  id: 7c4cd300-4c7c-41f4-9858-2e69cf9c0d65
 - datetime: 2025-01-13T16:41:07.699Z
   text: Watermaker 242ppm. Jug full.
   author: ihmis-suski
@@ -804,6 +860,8 @@
     - ihmis-suski
     - bergie
   category: maintenance
+  origin: manual
+  id: c3234a00-855f-41a2-b835-71e316b419e0
 - datetime: 2025-01-13T17:00:06.700Z
   text: ""
   author: ""
@@ -831,6 +889,8 @@
     - ihmis-suski
     - bergie
   category: navigation
+  origin: auto
+  id: 76cc2203-18d6-46ea-827e-4adb3480723a
 - datetime: 2025-01-13T17:36:04.800Z
   text: "Sails set: Main (1st reef), Genoa 1, Staysail"
   author: ""
@@ -858,6 +918,8 @@
     - ihmis-suski
     - bergie
   category: navigation
+  origin: auto
+  id: 1bb7474c-3674-4986-8c01-6624a6f7ef52
 - datetime: 2025-01-13T17:59:09.798Z
   text: Autopilot set to wind mode
   author: ""
@@ -885,6 +947,8 @@
     - ihmis-suski
     - bergie
   category: navigation
+  origin: auto
+  id: 9899db8d-3e3b-4a9d-b925-abbb8dfb947a
 - datetime: 2025-01-13T18:00:06.796Z
   text: ""
   author: ""
@@ -912,6 +976,8 @@
     - ihmis-suski
     - bergie
   category: navigation
+  origin: auto
+  id: d6c52c99-2583-405e-b525-ad48c91e0784
 - datetime: 2025-01-13T18:43:05.798Z
   text: Watermaker 239ppm. Jug full. Stopping for today.
   author: ihmis-suski
@@ -939,6 +1005,8 @@
     - ihmis-suski
     - bergie
   category: maintenance
+  origin: manual
+  id: af572708-fa63-45f9-9a5d-5bb5a9f06d66
 - datetime: 2025-01-13T19:00:04.800Z
   text: ""
   author: ""
@@ -966,6 +1034,8 @@
     - ihmis-suski
     - bergie
   category: navigation
+  origin: auto
+  id: 3fe868df-594f-4072-992a-745eaf72d38b
 - datetime: 2025-01-13T20:00:04.800Z
   text: Bergie on watch
   author: bergie
@@ -993,6 +1063,8 @@
     - ihmis-suski
     - bergie
   category: navigation
+  origin: manual
+  id: 96b66972-121c-4564-9c06-1c4c6b0adb68
 - datetime: 2025-01-13T20:30:32.800Z
   text: "Sails set: Parasailor"
   author: ""
@@ -1020,6 +1092,8 @@
     - ihmis-suski
     - bergie
   category: navigation
+  origin: auto
+  id: b391f397-d65e-47ea-b672-4482e68fa0f9
 - datetime: 2025-01-13T21:00:00.902Z
   text: ""
   author: ""
@@ -1047,6 +1121,8 @@
     - ihmis-suski
     - bergie
   category: navigation
+  origin: auto
+  id: 1df64430-4f67-4dd5-8285-1e16d1d3c8cf
 - datetime: 2025-01-13T21:59:59.897Z
   text: ""
   author: ""
@@ -1074,6 +1150,8 @@
     - ihmis-suski
     - bergie
   category: navigation
+  origin: auto
+  id: 66ee9eeb-8c4c-47fe-b3f6-5b7f72f909f3
 - datetime: 2025-01-13T22:53:58.899Z
   text: That 22kt gust wasn't fun, too much weather helm for Nissinen
   author: bergie
@@ -1101,6 +1179,8 @@
     - ihmis-suski
     - bergie
   category: navigation
+  origin: manual
+  id: 73ba3134-5bdf-4fbb-a316-a06bfe79b94f
 - datetime: 2025-01-13T23:00:58.899Z
   text: ""
   author: ""
@@ -1127,3 +1207,6 @@
   crewNames:
     - ihmis-suski
     - bergie
+  category: navigation
+  origin: auto
+  id: 1149c72a-0727-4488-bf20-0753a0e15ad6

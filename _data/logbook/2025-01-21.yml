@@ -25,6 +25,8 @@
     - ihmis-suski
     - bergie
   category: navigation
+  origin: auto
+  id: 7649c1a8-54b5-4bb0-a99c-5287ef9771e3
 - datetime: 2025-01-21T00:23:06.400Z
   text: Sails down, motoring
   author: ""
@@ -52,6 +54,8 @@
     - ihmis-suski
     - bergie
   category: navigation
+  origin: auto
+  id: 85bc3b78-68d5-4429-9923-c4ae74822b70
 - datetime: 2025-01-21T00:49:49.400Z
   text: Anchored
   author: ""
@@ -80,6 +84,8 @@
     - bergie
   end: true
   category: navigation
+  origin: auto
+  id: 09f883e0-e78b-4567-aaee-4411b32a46ac
 - datetime: 2025-01-21T01:03:58.400Z
   text: Stopped main engine
   author: ""
@@ -106,6 +112,8 @@
     - ihmis-suski
     - bergie
   category: navigation
+  origin: auto
+  id: 48baff17-6406-46cb-932a-a113abd0b6f1
 - datetime: 2025-01-21T19:02:48.300Z
   text: We have gooseneck barnacles in the stern. Suski did a round of clearing them
   author: bergie
@@ -129,6 +137,8 @@
     - ihmis-suski
     - bergie
   category: maintenance
+  origin: manual
+  id: c8e186d6-53d7-43b2-8557-28c7b871be54
 - datetime: 2025-01-21T19:16:48.300Z
   text: "Started watermaker "
   author: bergie
@@ -152,6 +162,8 @@
     - ihmis-suski
     - bergie
   category: maintenance
+  origin: manual
+  id: f27d3d9c-00b0-4c54-9fbf-819a47f2c62a
 - datetime: 2025-01-21T19:27:47.302Z
   text: Watermaker 263ppm
   author: bergie
@@ -175,6 +187,8 @@
     - ihmis-suski
     - bergie
   category: maintenance
+  origin: manual
+  id: 54621e1f-4d7d-4f56-93a1-a0383700e08f
 - datetime: 2025-01-21T21:11:45.702Z
   text: Watermaker 243ppm, jug full
   author: bergie
@@ -198,6 +212,8 @@
     - ihmis-suski
     - bergie
   category: maintenance
+  origin: manual
+  id: b0fc3f5b-adc6-4b32-8fe4-c7d09db1075b
 - datetime: 2025-01-21T22:35:43.699Z
   text: Stopped watermaker, 265ppm. Jug full
   author: bergie
@@ -221,3 +237,5 @@
     - ihmis-suski
     - bergie
   category: maintenance
+  origin: manual
+  id: cbf2a296-e323-4183-ad12-32bf9163071a

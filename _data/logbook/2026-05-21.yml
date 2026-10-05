@@ -25,6 +25,8 @@
     - ihmis-suski
     - bergie
   category: navigation
+  origin: auto
+  id: 9f064203-0565-48c6-9c90-2991a903e138
 - datetime: 2026-05-21T00:02:43.700Z
   text: Autopilot deactivated
   author: ""
@@ -52,6 +54,8 @@
     - ihmis-suski
     - bergie
   category: navigation
+  origin: auto
+  id: 47aba0f8-b83b-42d2-9a40-d97ea7356a1b
 - datetime: 2026-05-21T01:00:16.700Z
   text: ""
   author: ""
@@ -79,6 +83,8 @@
     - ihmis-suski
     - bergie
   category: navigation
+  origin: auto
+  id: 9ff66e36-19ba-45c9-abc3-df7dcaa38975
 - datetime: 2026-05-21T02:00:16.700Z
   text: ""
   author: ""
@@ -106,6 +112,8 @@
     - ihmis-suski
     - bergie
   category: navigation
+  origin: auto
+  id: fd76492a-6cc3-4e55-845d-cdc9bf85871a
 - datetime: 2026-05-21T02:40:12.700Z
   text: Anchored
   author: ""
@@ -134,6 +142,8 @@
     - bergie
   end: true
   category: navigation
+  origin: auto
+  id: 5682de1b-fad6-4dd4-b9ae-8b006b50876f
 - datetime: 2026-05-21T02:47:38.700Z
   text: Stopped main engine
   author: ""
@@ -161,6 +171,8 @@
     - ihmis-suski
     - bergie
   category: navigation
+  origin: auto
+  id: 64b971c0-9cce-46e6-9c07-cc5cc4e4f923
 - datetime: 2026-05-21T19:56:56.000Z
   text: Started main engine
   author: ""
@@ -187,6 +199,8 @@
     - ihmis-suski
     - bergie
   category: navigation
+  origin: auto
+  id: cfbf1ff6-4e95-4716-a2e2-13bbf498d752
 - datetime: 2026-05-21T20:00:56.000Z
   text: Stopped main engine
   author: ""
@@ -213,6 +227,8 @@
     - ihmis-suski
     - bergie
   category: navigation
+  origin: auto
+  id: f13d7b18-4839-4293-a0ce-dfc45c4e4da0
 - datetime: 2026-05-21T23:28:16.198Z
   text: Started watermaker
   author: bergie
@@ -239,6 +255,8 @@
     - ihmis-suski
     - bergie
   category: maintenance
+  origin: manual
+  id: 934114a0-0ac8-4f1a-b8d5-2a82286f6a4f
 - datetime: 2026-05-21T23:40:15.200Z
   text: Wstermaker 265ppm
   author: bergie
@@ -265,3 +283,5 @@
     - ihmis-suski
     - bergie
   category: maintenance
+  origin: manual
+  id: b1307379-3c21-4e83-93c4-831d081af8ba

@@ -27,6 +27,8 @@
     - ihmis-suski
     - bergie
   category: maintenance
+  origin: manual
+  id: 4fe52400-fb3b-4f6d-8e70-1dc674a2cfac
 - datetime: 2026-06-24T02:19:16.300Z
   text: "Emergency: Crew Overboard Beacon detected 642.0 meters to northeast
     (mob.972226142)"
@@ -57,6 +59,8 @@
     - ihmis-suski
     - bergie
   category: navigation
+  origin: auto
+  id: 286628f7-d2c5-489e-a52f-f110a7991d0c
 - datetime: 2026-06-24T02:46:47.300Z
   text: Stopped watermaker, 198ppm
   author: bergie
@@ -86,6 +90,8 @@
     - ihmis-suski
     - bergie
   category: maintenance
+  origin: manual
+  id: 9af6b1be-bda4-4a67-b874-513dc44307dd
 - datetime: 2026-06-24T03:19:52.374Z
   text: "Cleared after 1 h 1 min: Crew Overboard Beacon detected 642.0 meters to
     northeast, 2 transitions"
@@ -116,3 +122,5 @@
     - ihmis-suski
     - bergie
   category: navigation
+  origin: auto
+  id: eb5d296d-de7d-482d-9106-9078608c4636

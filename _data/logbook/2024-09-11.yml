@@ -22,6 +22,8 @@
     - ihmis-suski
     - bergie
   category: navigation
+  origin: manual
+  id: 717d3c8c-da77-44b5-ad26-95e17b1b5c30
 - datetime: 2024-09-11T06:00:24.800Z
   text: ""
   author: ""
@@ -46,6 +48,8 @@
     - ihmis-suski
     - bergie
   category: navigation
+  origin: auto
+  id: 54b70bb9-7bc1-4a9a-a89b-507944141f3f
 - datetime: 2024-09-11T06:01:25.800Z
   text: DSC all ships call on channel 64, but no audio in two minutes
   author: bergie
@@ -70,6 +74,8 @@
     - ihmis-suski
     - bergie
   category: radio
+  origin: manual
+  id: 228b5e1f-058e-4351-b5cc-b622ef1039ee
 - datetime: 2024-09-11T06:29:50.800Z
   text: Anchored
   author: ""
@@ -95,6 +101,8 @@
     - bergie
   end: true
   category: navigation
+  origin: auto
+  id: 4d67c397-f942-44d1-8411-ba0278dc9fa3
 - datetime: 2024-09-11T06:34:24.800Z
   text: Two rays swam under us
   author: bergie
@@ -119,6 +127,8 @@
     - ihmis-suski
     - bergie
   category: navigation
+  origin: manual
+  id: 929dc025-40e9-4674-91da-4a570a107626
 - datetime: 2024-09-11T06:34:26.800Z
   text: Stopped main engine
   author: ""
@@ -143,6 +153,8 @@
     - ihmis-suski
     - bergie
   category: navigation
+  origin: auto
+  id: 78ca05b0-a2a1-426d-bd4c-59327f40377a
 - datetime: 2024-09-11T09:36:48.198Z
   text: Started main engine
   author: ""
@@ -167,6 +179,8 @@
     - ihmis-suski
     - bergie
   category: navigation
+  origin: auto
+  id: 60684868-280a-4c33-bb8a-9ac8fea7745d
 - datetime: 2024-09-11T09:43:27.200Z
   text: Anchor up, motoring
   author: bergie
@@ -191,6 +205,8 @@
     - ihmis-suski
     - bergie
   category: navigation
+  origin: manual
+  id: cba16f1f-4141-4823-88c8-d28980857ef6
 - datetime: 2024-09-11T10:00:27.200Z
   text: ""
   author: ""
@@ -215,6 +231,8 @@
     - ihmis-suski
     - bergie
   category: navigation
+  origin: auto
+  id: 0c088e4f-beaf-4a3d-80df-b8f4e56c1a2e
 - datetime: 2024-09-11T10:05:26.201Z
   text: PAN PAN Vigo Radio, overdue sailboat Clipper 2(?), 1 person on board.
     White with blue stripe, 10m long
@@ -240,6 +258,8 @@
     - ihmis-suski
     - bergie
   category: radio
+  origin: manual
+  id: 36b542ff-ba5a-43e8-a462-3afda3cd78a6
 - datetime: 2024-09-11T10:23:10.201Z
   text: Motor stopped, sailing with Main, Genoa 1
   author: ""
@@ -264,6 +284,8 @@
     - ihmis-suski
     - bergie
   category: navigation
+  origin: auto
+  id: ffb464c5-d062-49f2-8695-7ddca6a35ba3
 - datetime: 2024-09-11T10:23:27.200Z
   text: "Started watermaker "
   author: bergie
@@ -288,6 +310,8 @@
     - ihmis-suski
     - bergie
   category: maintenance
+  origin: manual
+  id: 72fc2e9d-1b77-42df-911a-508101fc1953
 - datetime: 2024-09-11T10:57:27.200Z
   text: Stopped watermaker, 444ppm
   author: bergie
@@ -312,6 +336,8 @@
     - ihmis-suski
     - bergie
   category: maintenance
+  origin: manual
+  id: 9a599069-78c4-440f-bd65-7b3bbdea62dd
 - datetime: 2024-09-11T10:59:15.200Z
   text: Sails down, motoring
   author: ""
@@ -336,6 +362,8 @@
     - ihmis-suski
     - bergie
   category: navigation
+  origin: auto
+  id: b7b35385-58dd-412d-a86b-3ec49ca08ca0
 - datetime: 2024-09-11T11:00:27.200Z
   text: ""
   author: ""
@@ -360,6 +388,8 @@
     - ihmis-suski
     - bergie
   category: navigation
+  origin: auto
+  id: 039c9b4d-0c34-4e03-9aa9-6317125ff0b7
 - datetime: 2024-09-11T11:24:34.201Z
   text: Motor stopped, sailing with Main, Genoa 1
   author: ""
@@ -384,6 +414,8 @@
     - ihmis-suski
     - bergie
   category: navigation
+  origin: auto
+  id: 6b898e74-04f0-4174-b388-3b2855b7b9b9
 - datetime: 2024-09-11T11:25:26.201Z
   text: "Started watermaker "
   author: bergie
@@ -408,6 +440,8 @@
     - ihmis-suski
     - bergie
   category: maintenance
+  origin: manual
+  id: 8ddf5375-29c1-4f44-9eee-b471da400d00
 - datetime: 2024-09-11T11:52:27.200Z
   text: "Securité from Vigo Radio: navigational warning Vigo Bay, St. CHRISTINA
     port, red light unlit"
@@ -433,6 +467,8 @@
     - ihmis-suski
     - bergie
   category: radio
+  origin: manual
+  id: ecd0a9a4-be73-442f-a3c0-e534e3f42574
 - datetime: 2024-09-11T11:55:27.200Z
   text: Watermaker still bad, 511ppm
   author: bergie
@@ -457,6 +493,8 @@
     - ihmis-suski
     - bergie
   category: maintenance
+  origin: manual
+  id: 5214d36a-92b8-42b2-b751-59d16eeb2d92
 - datetime: 2024-09-11T12:00:27.200Z
   text: ""
   author: ""
@@ -481,6 +519,8 @@
     - ihmis-suski
     - bergie
   category: navigation
+  origin: auto
+  id: f6b85c6d-cedf-4b7d-82d3-f3ac9d0987f7
 - datetime: 2024-09-11T12:05:27.200Z
   text: Watermaker off. It appears to draw 80W, which is about double. So that
     suggests time for membrane cleaning cycle
@@ -506,6 +546,8 @@
     - ihmis-suski
     - bergie
   category: navigation
+  origin: manual
+  id: ac4b3ad7-3770-48dc-817b-826c98ae0180
 - datetime: 2024-09-11T12:49:27.299Z
   text: Windex appears to be moving a bit. Will need to be tightened
   author: bergie
@@ -530,6 +572,8 @@
     - ihmis-suski
     - bergie
   category: maintenance
+  origin: manual
+  id: f4c3c6f0-21c1-489c-abec-d43443e58475
 - datetime: 2024-09-11T13:00:27.299Z
   text: ""
   author: ""
@@ -554,6 +598,8 @@
     - ihmis-suski
     - bergie
   category: navigation
+  origin: auto
+  id: 438b103c-a927-4183-ae1b-2beaa0bc9ab9
 - datetime: 2024-09-11T13:21:21.299Z
   text: Sails down, motoring
   author: ""
@@ -578,6 +624,8 @@
     - ihmis-suski
     - bergie
   category: navigation
+  origin: auto
+  id: 390e240f-3668-4ba0-8962-769031729106
 - datetime: 2024-09-11T13:38:06.300Z
   text: Anchored
   author: ""
@@ -603,6 +651,8 @@
     - bergie
   end: true
   category: navigation
+  origin: auto
+  id: 9661b062-a7c4-4893-8e72-4c74c987662f
 - datetime: 2024-09-11T13:42:31.299Z
   text: Stopped main engine
   author: ""
@@ -627,6 +677,8 @@
     - ihmis-suski
     - bergie
   category: navigation
+  origin: auto
+  id: fc8c775b-fc71-4ffd-922a-6b267dca18fe
 - datetime: 2024-09-11T14:20:28.300Z
   text: Started watermaker.
   author: ihmis-suski
@@ -650,6 +702,8 @@
     - ihmis-suski
     - bergie
   category: maintenance
+  origin: manual
+  id: 0371576b-1912-449c-8714-25278d8b200a
 - datetime: 2024-09-11T14:31:29.299Z
   text: Watermaker 496 ppm
   author: ihmis-suski
@@ -673,6 +727,8 @@
     - ihmis-suski
     - bergie
   category: maintenance
+  origin: manual
+  id: ac6f1fdb-0b00-4e75-a4b2-1674c75efdbc
 - datetime: 2024-09-11T14:54:29.299Z
   text: Watermaker 549ppm
   author: bergie
@@ -696,6 +752,8 @@
     - ihmis-suski
     - bergie
   category: maintenance
+  origin: manual
+  id: 270d3168-b875-474f-9693-66ba80715b49
 - datetime: 2024-09-11T15:26:29.299Z
   text: Watermaker 228ppm
   author: bergie
@@ -719,6 +777,8 @@
     - ihmis-suski
     - bergie
   category: maintenance
+  origin: manual
+  id: 72b21e55-2a8d-496e-b046-af9fc6d39136
 - datetime: 2024-09-11T17:08:30.297Z
   text: 198 ppm watermaker
   author: ihmis-suski
@@ -742,6 +802,8 @@
     - ihmis-suski
     - bergie
   category: maintenance
+  origin: manual
+  id: dcb820f0-6af1-4948-922f-efcd34241403
 - datetime: 2024-09-11T18:53:29.702Z
   text: "200 ppm watermaker "
   author: ihmis-suski
@@ -765,6 +827,8 @@
     - ihmis-suski
     - bergie
   category: maintenance
+  origin: manual
+  id: 49cadeca-2fe5-42ca-ac86-09898b0ea5ae
 - datetime: 2024-09-11T20:43:30.700Z
   text: Stopped watermaker, 178ppm
   author: bergie
@@ -788,3 +852,5 @@
     - ihmis-suski
     - bergie
   category: maintenance
+  origin: manual
+  id: 26ddbe8c-ae10-4ce3-894c-de6fda761c7c

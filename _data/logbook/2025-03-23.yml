@@ -23,6 +23,8 @@
     - ihmis-suski
     - bergie
   category: maintenance
+  origin: manual
+  id: 430bbbdd-dbe5-4020-804d-9c5ad473d50d
 - datetime: 2025-03-23T15:05:24.000Z
   text: |
     Installed Caframo ventilator in saloon.
@@ -47,6 +49,8 @@
     - ihmis-suski
     - bergie
   category: maintenance
+  origin: manual
+  id: 06c57395-f5c1-4cbb-a7ae-fe3a5a9bd694
 - datetime: 2025-03-23T17:00:31.001Z
   text: "Started watermaker "
   author: bergie
@@ -70,6 +74,8 @@
     - ihmis-suski
     - bergie
   category: maintenance
+  origin: manual
+  id: f0752d85-b1b6-43fc-90dc-b7468a92b749
 - datetime: 2025-03-23T17:12:31.001Z
   text: Watermaker 338ppm
   author: bergie
@@ -93,6 +99,8 @@
     - ihmis-suski
     - bergie
   category: maintenance
+  origin: manual
+  id: 23b3ff07-bb92-4dcb-adc6-853e20a43dbe
 - datetime: 2025-03-23T18:56:36.102Z
   text: Watermaker 267ppm, jug full
   author: bergie
@@ -116,6 +124,8 @@
     - ihmis-suski
     - bergie
   category: maintenance
+  origin: manual
+  id: 89d70e79-6d2f-416a-aeb9-9853ae4804d3
 - datetime: 2025-03-23T20:44:43.097Z
   text: Stopped watermaker, 275ppm. Jug full
   author: bergie
@@ -139,3 +149,5 @@
     - ihmis-suski
     - bergie
   category: maintenance
+  origin: manual
+  id: 1d67564c-addf-4f94-9cf2-8a7d08f4df00

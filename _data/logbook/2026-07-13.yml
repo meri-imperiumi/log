@@ -1,4 +1,36 @@
 - datetime: 2026-07-13T00:03:30.400Z
+  text: Watch schedule stopped
+  author: ""
+  position:
+    latitude: -15.8034109
+    longitude: -146.1523956
+    source: GPS
+  heading: 260
+  course: 78
+  speed:
+    stw: 0
+    sog: 0
+  log: 422.5
+  waypoint:
+    latitude: -15.803061
+    longitude: -146.152413
+  barometer: 1009.68
+  wind:
+    speed: 4.2
+    direction: 203
+  engine:
+    engines:
+      main:
+        hours: 1160.6
+    hours: 1160.6
+  vhf: "16"
+  crewNames:
+    - bergie
+    - ihmis-suski
+  category: navigation
+  origin: auto
+  id: 0c1c53a4-ecee-4a61-b34d-737bd655400b
+- datetime: 2026-07-13T00:03:30.400Z
   text: Picked up mooring
   author: bergie
   position:
@@ -29,36 +61,8 @@
     - ihmis-suski
   end: true
   category: navigation
-- datetime: 2026-07-13T00:03:30.400Z
-  text: Watch schedule stopped
-  author: ""
-  position:
-    latitude: -15.8034109
-    longitude: -146.1523956
-    source: GPS
-  heading: 260
-  course: 78
-  speed:
-    stw: 0
-    sog: 0
-  log: 422.5
-  waypoint:
-    latitude: -15.803061
-    longitude: -146.152413
-  barometer: 1009.68
-  wind:
-    speed: 4.2
-    direction: 203
-  engine:
-    engines:
-      main:
-        hours: 1160.6
-    hours: 1160.6
-  vhf: "16"
-  crewNames:
-    - bergie
-    - ihmis-suski
-  category: navigation
+  origin: manual
+  id: f975ca7f-4dfe-4e85-b502-eee88e1067fb
 - datetime: 2026-07-13T00:04:00.400Z
   text: Stopped main engine
   author: ""
@@ -89,6 +93,8 @@
     - bergie
     - ihmis-suski
   category: navigation
+  origin: auto
+  id: 86888f98-87a8-493c-a8d8-8d2c1cbd7017
 - datetime: 2026-07-13T00:20:10.400Z
   text: Stopped Watermaker, 201ppm
   author: ihmis-suski
@@ -118,6 +124,8 @@
     - bergie
     - ihmis-suski
   category: maintenance
+  origin: manual
+  id: da7b58e5-482d-4d03-b2f1-df94bb72367a
 - datetime: 2026-07-13T23:19:00.800Z
   text: "Started watermaker "
   author: bergie
@@ -147,6 +155,8 @@
     - bergie
     - ihmis-suski
   category: maintenance
+  origin: manual
+  id: 37ae8fc4-da6f-4627-80af-24c27449b859
 - datetime: 2026-07-13T23:32:00.800Z
   text: Watermaker 374ppm
   author: bergie
@@ -176,3 +186,5 @@
     - bergie
     - ihmis-suski
   category: maintenance
+  origin: manual
+  id: d3c52178-35da-4619-8281-d42b610cb4f0

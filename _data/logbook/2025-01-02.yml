@@ -21,6 +21,8 @@
     - ihmis-suski
     - bergie
   category: maintenance
+  origin: manual
+  id: e50d9166-4e20-409b-ad94-27c2e2587590
 - datetime: 2025-01-02T16:19:18.003Z
   text: Pumped the bilge
   author: bergie
@@ -44,6 +46,8 @@
     - ihmis-suski
     - bergie
   category: maintenance
+  origin: manual
+  id: b675a5a0-dc77-41c6-9a49-eb11b2ea43e5
 - datetime: 2025-01-02T16:41:53.996Z
   text: Started main engine
   author: ""
@@ -68,6 +72,8 @@
     - ihmis-suski
     - bergie
   category: navigation
+  origin: auto
+  id: 75307283-3f73-4645-b4cf-b6c27c340225
 - datetime: 2025-01-02T16:49:11.001Z
   text: Anchor up, motoring
   author: bergie
@@ -92,6 +98,8 @@
     - ihmis-suski
     - bergie
   category: navigation
+  origin: manual
+  id: 0c5fc205-7869-4b90-96e0-6c7047a1b0d9
 - datetime: 2025-01-02T17:00:04.998Z
   text: ""
   author: ""
@@ -119,6 +127,8 @@
     - ihmis-suski
     - bergie
   category: navigation
+  origin: auto
+  id: c337ca47-5dd8-49c8-b67b-fe9ae66586bc
 - datetime: 2025-01-02T17:02:33.996Z
   text: Motor stopped, sailing with Main (1st reef), Staysail
   author: ""
@@ -146,6 +156,8 @@
     - ihmis-suski
     - bergie
   category: navigation
+  origin: auto
+  id: c5754033-1e63-496b-a8e5-b7c41e3b46f1
 - datetime: 2025-01-02T17:11:08.000Z
   text: Autopilot activated
   author: ""
@@ -173,6 +185,8 @@
     - ihmis-suski
     - bergie
   category: navigation
+  origin: auto
+  id: 53d618c6-1048-4bb3-8a60-4a9734842861
 - datetime: 2025-01-02T17:34:00.000Z
   text: Poled out on starboard tack
   author: bergie
@@ -204,6 +218,8 @@
     seaState: 4
     cloudCoverage: 0
     visibility: 6
+  origin: manual
+  id: 10996159-b4c7-49f5-a407-26221e99bf58
 - datetime: 2025-01-02T18:00:00.000Z
   text: ""
   author: ""
@@ -231,6 +247,8 @@
     - ihmis-suski
     - bergie
   category: navigation
+  origin: auto
+  id: b8636e70-3929-4388-bcb1-ea0ff45ee6f1
 - datetime: 2025-01-02T19:00:59.001Z
   text: "Suski on watch "
   author: bergie
@@ -258,6 +276,8 @@
     - ihmis-suski
     - bergie
   category: navigation
+  origin: manual
+  id: 510b4c1f-7716-4d93-854b-c89b7ac32323
 - datetime: 2025-01-02T19:17:40.000Z
   text: Autopilot deactivated, windvane steering
   author: bergie
@@ -285,6 +305,8 @@
     - ihmis-suski
     - bergie
   category: navigation
+  origin: manual
+  id: 852f7ea3-59a3-45ae-b7c9-8b246a9f1104
 - datetime: 2025-01-02T19:53:07.097Z
   text: "Sails set: Main (2nd reef), Staysail"
   author: ""
@@ -312,6 +334,8 @@
     - ihmis-suski
     - bergie
   category: navigation
+  origin: auto
+  id: 84ebc369-3c36-4bc2-8d51-140fcce7821a
 - datetime: 2025-01-02T20:00:58.099Z
   text: ""
   author: ""
@@ -339,6 +363,8 @@
     - ihmis-suski
     - bergie
   category: navigation
+  origin: auto
+  id: 99576ce0-013b-492e-b4dc-5a6c795cf6d7
 - datetime: 2025-01-02T20:01:57.100Z
   text: Changed the chafed out reef line for 1st.
   author: ihmis-suski
@@ -366,6 +392,8 @@
     - ihmis-suski
     - bergie
   category: maintenance
+  origin: manual
+  id: fac171b6-51fd-4f86-9dd2-b3661cf38380
 - datetime: 2025-01-02T21:00:56.102Z
   text: ""
   author: ""
@@ -393,6 +421,8 @@
     - ihmis-suski
     - bergie
   category: navigation
+  origin: auto
+  id: 02893ad7-600e-441a-ac4c-2124b2618071
 - datetime: 2025-01-02T21:54:54.099Z
   text: "The wind is turning to more easterly. As soon as we are pushed to the lee
     of the island, I'm going to gybe. "
@@ -421,6 +451,8 @@
     - ihmis-suski
     - bergie
   category: navigation
+  origin: manual
+  id: 2896feb8-4594-47b8-83a6-ef7bad1caed5
 - datetime: 2025-01-02T22:00:54.099Z
   text: ""
   author: ""
@@ -448,6 +480,8 @@
     - ihmis-suski
     - bergie
   category: navigation
+  origin: auto
+  id: 577408cd-0294-4056-88b8-d5fdfcc544a7
 - datetime: 2025-01-02T22:07:54.099Z
   text: Left territorial waters of Cape Verde
   author: ihmis-suski
@@ -475,6 +509,8 @@
     - ihmis-suski
     - bergie
   category: navigation
+  origin: manual
+  id: fe6c6e25-9091-4a66-9ff7-edde82adf273
 - datetime: 2025-01-02T23:00:53.100Z
   text: ""
   author: ""
@@ -502,6 +538,8 @@
     - ihmis-suski
     - bergie
   category: navigation
+  origin: auto
+  id: 9ec9feca-9733-442c-99da-ebf898ae7579
 - datetime: 2025-01-02T23:42:52.102Z
   text: Seems wind is getting back its northerly component and gybe not needed.
     Clearly wind now affected by Santo Antão
@@ -530,3 +568,5 @@
     - ihmis-suski
     - bergie
   category: navigation
+  origin: manual
+  id: 398aa4e4-c32c-4317-87c7-82bebe3da06a

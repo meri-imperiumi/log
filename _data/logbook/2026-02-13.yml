@@ -20,6 +20,8 @@
     - ihmis-suski
     - bergie
   category: maintenance
+  origin: manual
+  id: 6181e75b-15b8-443a-b9bd-6a8c857fd49f
 - datetime: 2026-02-13T12:20:58.499Z
   text: Watermaker 205ppm
   author: bergie
@@ -42,6 +44,8 @@
     - ihmis-suski
     - bergie
   category: maintenance
+  origin: manual
+  id: 66f2058a-7d05-40c3-b4e0-74ba3b0bea7b
 - datetime: 2026-02-13T15:45:26.598Z
   text: Watermaker 212ppm.
   author: ihmis-suski
@@ -64,6 +68,8 @@
     - ihmis-suski
     - bergie
   category: maintenance
+  origin: manual
+  id: fc9d7513-feba-49e6-8217-830863d8a61e
 - datetime: 2026-02-13T18:16:38.598Z
   text: Stopped watermaker, 188ppm
   author: bergie
@@ -86,6 +92,8 @@
     - ihmis-suski
     - bergie
   category: maintenance
+  origin: manual
+  id: f28a58d7-b95f-450e-a6e2-c3efd28f1631
 - datetime: 2026-02-13T18:29:39.699Z
   text: Installed Shelly RGBW2 for the new cockpit light, with NoFlo graph for
     automatic red light mode etc
@@ -109,3 +117,5 @@
     - ihmis-suski
     - bergie
   category: maintenance
+  origin: manual
+  id: b1cf537d-173f-40ec-93a5-421dad26c04e

@@ -21,6 +21,8 @@
     - ihmis-suski
     - bergie
   category: navigation
+  origin: auto
+  id: 6d81a9b6-e494-4a40-9e20-c6eef8d0a579
 - datetime: 2024-06-03T11:17:12.700Z
   text: Motoring
   author: ""
@@ -44,6 +46,8 @@
     - ihmis-suski
     - bergie
   category: navigation
+  origin: auto
+  id: e04c5060-2e62-4182-8209-e65ee0b60312
 - datetime: 2024-06-03T11:33:59.699Z
   text: Motor stopped, sailing with Main (1st reef), Staysail
   author: ""
@@ -67,6 +71,8 @@
     - ihmis-suski
     - bergie
   category: navigation
+  origin: auto
+  id: d039e1a0-abe8-45fb-8d8f-02f21836edfb
 - datetime: 2024-06-03T12:00:11.699Z
   text: ""
   author: ""
@@ -91,6 +97,8 @@
     - ihmis-suski
     - bergie
   category: navigation
+  origin: auto
+  id: 13c7cc10-b207-4a49-9d07-3ee67df89e1c
 - datetime: 2024-06-03T13:00:12.800Z
   text: ""
   author: ""
@@ -115,6 +123,8 @@
     - ihmis-suski
     - bergie
   category: navigation
+  origin: auto
+  id: faa6050f-a50e-4842-89c2-3087c1b4c71e
 - datetime: 2024-06-03T13:08:11.801Z
   text: |-
     Hydro off. 
@@ -142,6 +152,8 @@
     - ihmis-suski
     - bergie
   category: maintenance
+  origin: manual
+  id: 5e98c0dd-d33a-4de8-b2ed-077e471c6c1a
 - datetime: 2024-06-03T14:00:12.800Z
   text: ""
   author: ""
@@ -166,6 +178,8 @@
     - ihmis-suski
     - bergie
   category: navigation
+  origin: auto
+  id: 7224e502-c731-4c67-af3d-330dbba7c7c4
 - datetime: 2024-06-03T14:07:13.798Z
   text: Stopped watermaker, 145ppm
   author: bergie
@@ -190,6 +204,8 @@
     - ihmis-suski
     - bergie
   category: maintenance
+  origin: manual
+  id: c750e96a-73d3-4585-96e8-27a8dc8d042d
 - datetime: 2024-06-03T14:42:37.798Z
   text: Sails down, motoring
   author: ""
@@ -214,6 +230,8 @@
     - ihmis-suski
     - bergie
   category: navigation
+  origin: auto
+  id: 8f3109e0-7c3b-4051-b769-67d1d2383819
 - datetime: 2024-06-03T15:00:14.796Z
   text: Stopped, Plockton visitor mooring
   author: bergie
@@ -238,3 +256,5 @@
     - bergie
   end: true
   category: navigation
+  origin: manual
+  id: 9389bcf7-d808-4f47-87f8-a8480840fa1f

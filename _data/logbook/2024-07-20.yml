@@ -22,6 +22,8 @@
     - ihmis-suski
     - bergie
   category: navigation
+  origin: auto
+  id: 0e518317-2416-450b-8055-b4412293843a
 - datetime: 2024-07-20T14:55:30.297Z
   text: Anchor up, motoring
   author: bergie
@@ -46,6 +48,8 @@
     - ihmis-suski
     - bergie
   category: navigation
+  origin: manual
+  id: d5eded8a-1d44-4d22-9163-3e1ea08bac48
 - datetime: 2024-07-20T15:00:30.297Z
   text: ""
   author: ""
@@ -70,6 +74,8 @@
     - ihmis-suski
     - bergie
   category: navigation
+  origin: auto
+  id: b61a322d-1304-4ca7-a5b4-ebc20160d2d8
 - datetime: 2024-07-20T15:02:46.297Z
   text: Autopilot activated
   author: ""
@@ -94,6 +100,8 @@
     - ihmis-suski
     - bergie
   category: navigation
+  origin: auto
+  id: f006c76d-b50e-4966-a086-caf477fe4bb3
 - datetime: 2024-07-20T15:59:30.297Z
   text: Motor stopped, sailing with Main, Genoa 1
   author: ""
@@ -118,6 +126,8 @@
     - ihmis-suski
     - bergie
   category: navigation
+  origin: auto
+  id: 14034e6e-cedd-4a58-9bf8-7b28328a55a4
 - datetime: 2024-07-20T16:00:31.302Z
   text: ""
   author: ""
@@ -142,6 +152,8 @@
     - ihmis-suski
     - bergie
   category: navigation
+  origin: auto
+  id: 1aeeb694-a0ff-4883-80a8-5ca48d29ce2d
 - datetime: 2024-07-20T16:07:56.601Z
   text: "Sails set: Main, Staysail"
   author: ""
@@ -166,6 +178,8 @@
     - ihmis-suski
     - bergie
   category: navigation
+  origin: auto
+  id: dad4f50b-c2b3-41d7-9343-028798e3fc0f
 - datetime: 2024-07-20T16:16:31.603Z
   text: Started watermaker, 170ppm
   author: bergie
@@ -190,6 +204,8 @@
     - ihmis-suski
     - bergie
   category: maintenance
+  origin: manual
+  id: d63147bf-8de0-4c52-b035-5230d771d345
 - datetime: 2024-07-20T16:39:31.596Z
   text: So far 1.5kt current with us
   author: bergie
@@ -218,6 +234,8 @@
     seaState: 3
     cloudCoverage: 8
     visibility: 8
+  origin: manual
+  id: 11d95500-0e60-4491-af60-abb316c68c31
 - datetime: 2024-07-20T17:00:31.603Z
   text: ""
   author: ""
@@ -242,6 +260,8 @@
     - ihmis-suski
     - bergie
   category: navigation
+  origin: auto
+  id: 3d004ce5-4f17-4dc4-8081-ff40484d41b7
 - datetime: 2024-07-20T17:56:36.601Z
   text: Autopilot deactivated
   author: ""
@@ -266,6 +286,8 @@
     - ihmis-suski
     - bergie
   category: navigation
+  origin: auto
+  id: 651d65b2-ba18-4025-914a-905e2e2f9240
 - datetime: 2024-07-20T18:00:32.601Z
   text: ""
   author: ""
@@ -290,6 +312,8 @@
     - ihmis-suski
     - bergie
   category: navigation
+  origin: auto
+  id: 9b3e8473-ef80-46f7-8564-fe990a7483a4
 - datetime: 2024-07-20T18:10:31.603Z
   text: Starbuck windvane on steering duty. Nipa couldn't cope.
   author: ihmis-suski
@@ -318,6 +342,8 @@
     seaState: 4
     cloudCoverage: 8
     visibility: 8
+  origin: manual
+  id: 26970c68-0f7e-42c7-8756-de81fe0a5572
 - datetime: 2024-07-20T18:25:13.600Z
   text: "Sails set: Main (1st reef), Staysail"
   author: ""
@@ -342,6 +368,8 @@
     - ihmis-suski
     - bergie
   category: navigation
+  origin: auto
+  id: 71f7ba4b-46d4-4517-99c7-e5c90e25485d
 - datetime: 2024-07-20T18:28:32.601Z
   text: Stopped watermaker, 168ppm
   author: bergie
@@ -366,6 +394,8 @@
     - ihmis-suski
     - bergie
   category: maintenance
+  origin: manual
+  id: b08de1b9-e082-42d4-b85c-f55f82080c3c
 - datetime: 2024-07-20T19:00:33.600Z
   text: ""
   author: bergie
@@ -394,6 +424,8 @@
     seaState: 4
     cloudCoverage: 7
     visibility: 8
+  origin: manual
+  id: 923c17ae-762a-43f0-bffc-2b5db0af4ccc
 - datetime: 2024-07-20T19:33:32.601Z
   text: Tightened the Starbuck steering line by two links, seems to steer a lot
     better
@@ -419,6 +451,8 @@
     - ihmis-suski
     - bergie
   category: maintenance
+  origin: manual
+  id: dc4af3cd-8e18-4005-84f3-04bb0c1fbabd
 - datetime: 2024-07-20T20:00:24.601Z
   text: ""
   author: ""
@@ -443,6 +477,8 @@
     - ihmis-suski
     - bergie
   category: navigation
+  origin: auto
+  id: 7d644160-f56f-4d9f-9f22-2dfcfb5ea3ce
 - datetime: 2024-07-20T20:24:18.598Z
   text: "Current and wind reducing somewhat, but se state is still quite
     something. Peel in horizon "
@@ -472,6 +508,8 @@
     seaState: 4
     cloudCoverage: 2
     visibility: 8
+  origin: manual
+  id: 7ae8107b-af22-46c7-99a0-a2ee60815ef9
 - datetime: 2024-07-20T21:00:08.601Z
   text: ""
   author: ""
@@ -496,6 +534,8 @@
     - ihmis-suski
     - bergie
   category: navigation
+  origin: auto
+  id: e1a0409e-baec-44f2-8686-30df82ca2f49
 - datetime: 2024-07-20T21:24:01.600Z
   text: Called Peel Harbour on VHF. Need to call again near breakwater to get a
     berth and bridge opening
@@ -521,6 +561,8 @@
     - ihmis-suski
     - bergie
   category: radio
+  origin: manual
+  id: 9e1f2416-3441-4c4f-9da3-3df1e696dfbc
 - datetime: 2024-07-20T21:58:28.601Z
   text: Autopilot activated
   author: ""
@@ -545,6 +587,8 @@
     - ihmis-suski
     - bergie
   category: navigation
+  origin: auto
+  id: 985bda3e-72fe-4cae-8f0a-bec48d84f4bc
 - datetime: 2024-07-20T22:00:52.601Z
   text: ""
   author: ""
@@ -569,6 +613,8 @@
     - ihmis-suski
     - bergie
   category: navigation
+  origin: auto
+  id: f3040d4d-d0d4-4220-bae9-b4552f0ea671
 - datetime: 2024-07-20T22:37:18.598Z
   text: Sails down, motoring
   author: ""
@@ -593,6 +639,8 @@
     - ihmis-suski
     - bergie
   category: navigation
+  origin: auto
+  id: 84fa19fc-c3a9-4f41-9cb7-fac48dbec76d
 - datetime: 2024-07-20T22:43:01.600Z
   text: Autopilot deactivated
   author: ""
@@ -617,6 +665,8 @@
     - ihmis-suski
     - bergie
   category: navigation
+  origin: auto
+  id: ab6ffb0f-ebc3-41eb-aaaa-3caf5754c91a
 - datetime: 2024-07-20T23:00:35.596Z
   text: ""
   author: ""
@@ -641,6 +691,8 @@
     - ihmis-suski
     - bergie
   category: navigation
+  origin: auto
+  id: 781a9db1-91fa-4cc4-8178-97df937ea519
 - datetime: 2024-07-20T23:10:26.598Z
   text: Stopped
   author: ""
@@ -666,3 +718,5 @@
     - bergie
   end: true
   category: navigation
+  origin: auto
+  id: 23e60869-a40b-4476-b319-95b309b7ffa7

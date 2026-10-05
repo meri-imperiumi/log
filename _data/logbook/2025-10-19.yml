@@ -28,6 +28,8 @@
     seaState: 4
     cloudCoverage: 2
     visibility: 7
+  origin: manual
+  id: 52ad03db-c3cc-4961-9000-7f155d4d1be2
 - datetime: 2025-10-19T01:00:40.300Z
   text: ""
   author: ""
@@ -54,6 +56,8 @@
     - ihmis-suski
     - bergie
   category: navigation
+  origin: auto
+  id: 5773ff46-0eaf-4b83-9b5a-537dc1133089
 - datetime: 2025-10-19T01:47:42.300Z
   text: Single lightnings on various sides. Sky still starry, so very far away
   author: ihmis-suski
@@ -80,6 +84,8 @@
     - ihmis-suski
     - bergie
   category: navigation
+  origin: manual
+  id: 8ba34cfd-f7dc-4f5e-a642-d2cdf588559f
 - datetime: 2025-10-19T02:00:43.300Z
   text: ""
   author: ""
@@ -106,6 +112,8 @@
     - ihmis-suski
     - bergie
   category: navigation
+  origin: auto
+  id: 2101facb-c0a7-4b4c-89d1-396f0c5538a1
 - datetime: 2025-10-19T03:00:45.400Z
   text: ""
   author: ""
@@ -132,6 +140,8 @@
     - ihmis-suski
     - bergie
   category: navigation
+  origin: auto
+  id: f05828c5-a777-4219-b9a9-d894916c7e4b
 - datetime: 2025-10-19T03:52:47.400Z
   text: After some interpretation of Windy radar pictures, we determined the
     thunderstorm NW to us is going west
@@ -159,6 +169,8 @@
     - ihmis-suski
     - bergie
   category: navigation
+  origin: manual
+  id: a4948ce6-613a-4d1e-af41-44957f1fcf8c
 - datetime: 2025-10-19T04:00:48.400Z
   text: Bergie on watch
   author: bergie
@@ -189,6 +201,8 @@
     seaState: 3
     cloudCoverage: 1
     visibility: 7
+  origin: manual
+  id: 2d4ec281-528a-443a-b49f-ff89225f215c
 - datetime: 2025-10-19T04:34:51.400Z
   text: Some shooting stars
   author: bergie
@@ -215,6 +229,8 @@
     - ihmis-suski
     - bergie
   category: navigation
+  origin: manual
+  id: d60dc6ed-582a-41f3-b938-f12467b6b535
 - datetime: 2025-10-19T05:00:52.400Z
   text: ""
   author: ""
@@ -241,6 +257,8 @@
     - ihmis-suski
     - bergie
   category: navigation
+  origin: auto
+  id: e7e2e4c7-f86f-4738-a1c6-c487f3ada56c
 - datetime: 2025-10-19T05:31:53.500Z
   text: Getting closer to Cabo de la Vela, so wind picking up a bit. Peaks 27kt so
     far
@@ -268,6 +286,8 @@
     - ihmis-suski
     - bergie
   category: navigation
+  origin: manual
+  id: e9b5a62c-0bc3-48f8-bf26-9ab5160ced97
 - datetime: 2025-10-19T06:00:55.500Z
   text: ""
   author: ""
@@ -294,6 +314,8 @@
     - ihmis-suski
     - bergie
   category: navigation
+  origin: auto
+  id: 8e991e46-1fa3-42b7-a883-1a8de36d8b45
 - datetime: 2025-10-19T06:56:57.500Z
   text: Three flying fishes evicted from the cockpit
   author: bergie
@@ -320,6 +342,8 @@
     - ihmis-suski
     - bergie
   category: navigation
+  origin: manual
+  id: 87992c70-0f5c-4468-b359-3f070b311590
 - datetime: 2025-10-19T07:00:56.499Z
   text: ""
   author: ""
@@ -346,6 +370,8 @@
     - ihmis-suski
     - bergie
   category: navigation
+  origin: auto
+  id: 861f1011-f2c5-41a0-8580-dd34572d1c4c
 - datetime: 2025-10-19T07:13:57.500Z
   text: We had a flying fish get into the saloon through the companionway, despite
     the bug net
@@ -373,6 +399,8 @@
     - ihmis-suski
     - bergie
   category: navigation
+  origin: manual
+  id: 31f07327-c3ed-4b49-ae15-3e71357b1681
 - datetime: 2025-10-19T07:59:59.500Z
   text: ""
   author: ""
@@ -399,6 +427,8 @@
     - ihmis-suski
     - bergie
   category: navigation
+  origin: auto
+  id: bbde4518-74ae-4b0f-90dd-de6da268dc17
 - datetime: 2025-10-19T09:00:03.600Z
   text: ""
   author: ""
@@ -425,6 +455,8 @@
     - ihmis-suski
     - bergie
   category: navigation
+  origin: auto
+  id: 122e53b4-3acf-4452-a0b9-30dae9189e9a
 - datetime: 2025-10-19T10:00:06.598Z
   text: Suski on watch
   author: ihmis-suski
@@ -455,6 +487,8 @@
     seaState: 4
     cloudCoverage: 1
     visibility: 7
+  origin: manual
+  id: 48449776-c55d-4a53-bb97-9384ebd42c08
 - datetime: 2025-10-19T10:36:08.601Z
   text: Delfiinejä!
   author: ihmis-suski
@@ -481,6 +515,8 @@
     - ihmis-suski
     - bergie
   category: navigation
+  origin: manual
+  id: f2c180e1-eade-4735-a6e6-0572bdefa609
 - datetime: 2025-10-19T11:00:11.001Z
   text: Sailing on beam reach.
   author: ihmis-suski
@@ -507,6 +543,8 @@
     - ihmis-suski
     - bergie
   category: navigation
+  origin: manual
+  id: 85f70514-154e-4959-bb12-ea1e511039ea
 - datetime: 2025-10-19T12:00:12.998Z
   text: ""
   author: ""
@@ -533,6 +571,8 @@
     - ihmis-suski
     - bergie
   category: navigation
+  origin: auto
+  id: 2f27f744-8763-4c76-9663-13a9d56711c6
 - datetime: 2025-10-19T13:00:16.099Z
   text: ""
   author: ""
@@ -559,6 +599,8 @@
     - ihmis-suski
     - bergie
   category: navigation
+  origin: auto
+  id: 6db4e36a-c19e-4c73-aab6-382d75349b42
 - datetime: 2025-10-19T14:00:19.100Z
   text: ""
   author: ""
@@ -585,6 +627,8 @@
     - ihmis-suski
     - bergie
   category: navigation
+  origin: auto
+  id: 978c41e5-9d9e-4ca2-beb8-56f5069b8fb8
 - datetime: 2025-10-19T15:00:22.099Z
   text: ""
   author: ""
@@ -611,6 +655,8 @@
     - ihmis-suski
     - bergie
   category: navigation
+  origin: auto
+  id: 2b13b8a7-c5ab-4e04-88bb-26c08a7b299d
 - datetime: 2025-10-19T15:08:22.099Z
   text: Back to wing on wing
   author: ihmis-suski
@@ -641,6 +687,8 @@
     seaState: 4
     cloudCoverage: 1
     visibility: 7
+  origin: manual
+  id: 4556c3cc-74a6-4784-9c57-a15d6afe8adb
 - datetime: 2025-10-19T16:00:25.203Z
   text: "Bergie on watch. 200NM to destination "
   author: bergie
@@ -671,6 +719,8 @@
     cloudCoverage: 1
     visibility: 7
     seaState: 4
+  origin: manual
+  id: 746c9533-3ce2-453f-92c4-5abcb16d6bbb
 - datetime: 2025-10-19T16:24:24.198Z
   text: "Started watermaker "
   author: bergie
@@ -697,6 +747,8 @@
     - ihmis-suski
     - bergie
   category: maintenance
+  origin: manual
+  id: 6b316d9a-4a86-4dc1-b42b-17bffec7dcce
 - datetime: 2025-10-19T16:45:26.201Z
   text: Watermaker 377ppm
   author: bergie
@@ -723,6 +775,8 @@
     - ihmis-suski
     - bergie
   category: maintenance
+  origin: manual
+  id: 86358e55-e84a-4aa8-a35e-2c5b02e939aa
 - datetime: 2025-10-19T17:00:26.201Z
   text: ""
   author: ""
@@ -749,6 +803,8 @@
     - ihmis-suski
     - bergie
   category: navigation
+  origin: auto
+  id: 3a7d11c2-8bcd-4a01-858e-d8197c951085
 - datetime: 2025-10-19T18:00:28.198Z
   text: Something very eagle-like, brown and white flew behind us
   author: bergie
@@ -775,6 +831,8 @@
     - ihmis-suski
     - bergie
   category: navigation
+  origin: manual
+  id: be324ff7-4c70-485a-b3ff-79ec874da300
 - datetime: 2025-10-19T18:32:30.297Z
   text: Watermaker 328ppm
   author: bergie
@@ -801,6 +859,8 @@
     - ihmis-suski
     - bergie
   category: maintenance
+  origin: manual
+  id: 4c1d359c-98c1-4d70-bc4a-a48b1b1e969a
 - datetime: 2025-10-19T19:00:31.302Z
   text: Gusting to 33kt, but so far windvane holding course quite well
   author: bergie
@@ -827,6 +887,8 @@
     - ihmis-suski
     - bergie
   category: navigation
+  origin: manual
+  id: 5814b083-ba46-44a3-9340-6e6edc6cb4af
 - datetime: 2025-10-19T20:00:35.302Z
   text: Stopped watermaker, 318ppm
   author: bergie
@@ -853,6 +915,8 @@
     - ihmis-suski
     - bergie
   category: maintenance
+  origin: manual
+  id: 5bbd2db8-54ea-494f-b3df-66a9708a9c57
 - datetime: 2025-10-19T21:00:37.299Z
   text: ""
   author: ""
@@ -879,6 +943,8 @@
     - ihmis-suski
     - bergie
   category: navigation
+  origin: auto
+  id: 071691d2-d0a2-473b-9335-710638c409c9
 - datetime: 2025-10-19T22:00:37.401Z
   text: Suski on watch
   author: ihmis-suski
@@ -905,6 +971,8 @@
     - ihmis-suski
     - bergie
   category: navigation
+  origin: manual
+  id: 636d9166-c7bc-43f0-91d9-90ecfb320686
 - datetime: 2025-10-19T23:00:41.401Z
   text: ""
   author: ""
@@ -931,3 +999,5 @@
     - ihmis-suski
     - bergie
   category: navigation
+  origin: auto
+  id: 780a8815-017a-48cf-b4c9-d7a49021d19a

@@ -20,6 +20,8 @@
     - ihmis-suski
     - bergie
   category: maintenance
+  origin: manual
+  id: 8dcaf6f9-db17-43cf-a799-04746c968aff
 - datetime: 2025-09-20T12:39:05.100Z
   text: "Started watermaker "
   author: bergie
@@ -42,6 +44,8 @@
     - ihmis-suski
     - bergie
   category: maintenance
+  origin: manual
+  id: 82ff9190-0c4b-4b7f-8083-ddab22a750de
 - datetime: 2025-09-20T13:01:05.100Z
   text: Watermaker 396ppm
   author: bergie
@@ -64,6 +68,8 @@
     - ihmis-suski
     - bergie
   category: maintenance
+  origin: manual
+  id: 13db2bab-17e1-4b0f-8490-88d0ba059e09
 - datetime: 2025-09-20T14:55:03.200Z
   text: Watermaker 337ppm
   author: bergie
@@ -86,6 +92,8 @@
     - ihmis-suski
     - bergie
   category: maintenance
+  origin: manual
+  id: 8268b271-a98f-4a7d-b105-2fa6c260c36a
 - datetime: 2025-09-20T16:08:43.302Z
   text: Moved info display to Shelly on computer circuit, added permanent 12V
     chargers for Dyson and hand VHF
@@ -109,6 +117,8 @@
     - ihmis-suski
     - bergie
   category: maintenance
+  origin: manual
+  id: 20c677f5-34c1-4782-9186-cf5a259498d1
 - datetime: 2025-09-20T16:26:41.299Z
   text: Watermaker 353ppm
   author: bergie
@@ -131,6 +141,8 @@
     - ihmis-suski
     - bergie
   category: maintenance
+  origin: manual
+  id: 7f015937-8ea7-48fb-8d3e-b8f6cb53e766
 - datetime: 2025-09-20T18:03:30.400Z
   text: Watermaker 310ppm
   author: bergie
@@ -153,6 +165,8 @@
     - ihmis-suski
     - bergie
   category: maintenance
+  origin: manual
+  id: 5b66235f-8c02-4911-8333-3da0def2d07c
 - datetime: 2025-09-20T20:06:20.403Z
   text: Watermaker 314ppm
   author: bergie
@@ -175,6 +189,8 @@
     - ihmis-suski
     - bergie
   category: maintenance
+  origin: manual
+  id: 9a3757ac-84de-45b7-abd1-0951c0ba7cb7
 - datetime: 2025-09-20T20:58:24.499Z
   text: Set up a wall mount for the new logbook printer, plugged to info display
     Pi. Powered infodisplay monitor from its own DC-DC as it couldn't do both
@@ -198,6 +214,8 @@
     - ihmis-suski
     - bergie
   category: maintenance
+  origin: manual
+  id: 5fa3f780-7acf-4b72-99af-78e698bd396a
 - datetime: 2025-09-20T21:24:21.497Z
   text: Watermaker 291ppm
   author: bergie
@@ -220,6 +238,8 @@
     - ihmis-suski
     - bergie
   category: maintenance
+  origin: manual
+  id: 26d4905e-3500-40c6-8a0d-ecc68e322980
 - datetime: 2025-09-20T23:09:12.902Z
   text: Stopped watermaker, 304ppm
   author: bergie
@@ -242,3 +262,5 @@
     - ihmis-suski
     - bergie
   category: maintenance
+  origin: manual
+  id: 6e9f894e-cd2f-483b-8906-ec0339f0ad67

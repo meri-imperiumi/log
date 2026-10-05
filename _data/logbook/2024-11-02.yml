@@ -22,6 +22,8 @@
     - ihmis-suski
     - bergie
   category: navigation
+  origin: manual
+  id: ecda3e75-0b14-4d20-bbac-e50e9b57a79b
 - datetime: 2024-11-02T11:14:03.398Z
   text: Started main engine
   author: ""
@@ -46,6 +48,8 @@
     - ihmis-suski
     - bergie
   category: navigation
+  origin: auto
+  id: f38055db-3168-4499-a177-cde3966fb4cd
 - datetime: 2024-11-02T11:22:13.401Z
   text: Anchor up, motoring
   author: bergie
@@ -70,6 +74,8 @@
     - ihmis-suski
     - bergie
   category: navigation
+  origin: manual
+  id: 2ea73765-e5a2-4a9a-9e18-475910e196ac
 - datetime: 2024-11-02T11:25:59.398Z
   text: Motor stopped, sailing with Main, Genoa 1
   author: ""
@@ -94,6 +100,8 @@
     - ihmis-suski
     - bergie
   category: navigation
+  origin: auto
+  id: 114f636d-34b2-4e9d-a919-e1555f055167
 - datetime: 2024-11-02T11:50:14.400Z
   text: Port side middle stanchion came off. Attached with a new machine screw.
     Need to tighten all
@@ -119,6 +127,8 @@
     - ihmis-suski
     - bergie
   category: maintenance
+  origin: manual
+  id: b51964ed-8fcc-4c44-83e8-0d11846b0c46
 - datetime: 2024-11-02T12:00:15.398Z
   text: ""
   author: ""
@@ -143,6 +153,8 @@
     - ihmis-suski
     - bergie
   category: navigation
+  origin: auto
+  id: 65c5963c-f190-4fe1-a54a-e3971b0c9042
 - datetime: 2024-11-02T12:26:16.400Z
   text: "Started watermaker "
   author: bergie
@@ -167,6 +179,8 @@
     - ihmis-suski
     - bergie
   category: maintenance
+  origin: manual
+  id: f4d72e24-efca-41c7-bdb1-c7abfbd4b44b
 - datetime: 2024-11-02T12:42:27.398Z
   text: Autopilot activated
   author: ""
@@ -191,6 +205,8 @@
     - ihmis-suski
     - bergie
   category: navigation
+  origin: auto
+  id: 4d48b7d0-5e31-40f3-abb3-1897c84c8da8
 - datetime: 2024-11-02T13:00:15.500Z
   text: ""
   author: ""
@@ -215,6 +231,8 @@
     - ihmis-suski
     - bergie
   category: navigation
+  origin: auto
+  id: 521cb3bf-8c40-4baf-8d4a-bca67aa06956
 - datetime: 2024-11-02T13:01:16.499Z
   text: Watermaker 980ppm
   author: bergie
@@ -239,6 +257,8 @@
     - ihmis-suski
     - bergie
   category: maintenance
+  origin: manual
+  id: ac58d65f-2f4f-4600-be62-3264a7321cb7
 - datetime: 2024-11-02T13:32:00.499Z
   text: Autopilot deactivated
   author: ""
@@ -263,6 +283,8 @@
     - ihmis-suski
     - bergie
   category: navigation
+  origin: auto
+  id: 6090f78d-e0d8-4e6c-8c96-9ab3ee19838f
 - datetime: 2024-11-02T13:41:17.500Z
   text: Watermaker 1040ppm
   author: bergie
@@ -287,6 +309,8 @@
     - ihmis-suski
     - bergie
   category: maintenance
+  origin: manual
+  id: 0c22ecf0-3225-4a72-8d30-c35cec51f90e
 - datetime: 2024-11-02T13:50:17.500Z
   text: Tightened all intake side hose clamps and removed air from watermaker
     intake hose
@@ -312,6 +336,8 @@
     - ihmis-suski
     - bergie
   category: maintenance
+  origin: manual
+  id: c01bf487-ab0d-4c5a-a463-ae43d921cea3
 - datetime: 2024-11-02T13:53:38.499Z
   text: Autopilot activated
   author: ""
@@ -336,6 +362,8 @@
     - ihmis-suski
     - bergie
   category: navigation
+  origin: auto
+  id: 1e91fc00-ffc2-4527-999f-f8d9abc71589
 - datetime: 2024-11-02T14:00:17.500Z
   text: ""
   author: ""
@@ -360,6 +388,8 @@
     - ihmis-suski
     - bergie
   category: navigation
+  origin: auto
+  id: 091b84b6-19b6-4b1d-a621-c5491a7b2052
 - datetime: 2024-11-02T14:17:18.499Z
   text: Watermaker 936ppm
   author: bergie
@@ -384,6 +414,8 @@
     - ihmis-suski
     - bergie
   category: maintenance
+  origin: manual
+  id: fbebd4c3-87c4-494b-b838-83b97086ab2c
 - datetime: 2024-11-02T14:36:18.499Z
   text: Watermaker 949ppm
   author: bergie
@@ -408,6 +440,8 @@
     - ihmis-suski
     - bergie
   category: maintenance
+  origin: manual
+  id: 1575bbe6-8349-4b82-a413-5f2af488a3ea
 - datetime: 2024-11-02T14:37:17.500Z
   text: "Stopped watermaker "
   author: bergie
@@ -432,6 +466,8 @@
     - ihmis-suski
     - bergie
   category: maintenance
+  origin: manual
+  id: 6ecc20cd-b6eb-4e17-bf35-1d86cc80c9fc
 - datetime: 2024-11-02T15:00:18.502Z
   text: ""
   author: ""
@@ -456,6 +492,8 @@
     - ihmis-suski
     - bergie
   category: navigation
+  origin: auto
+  id: fbc8c904-015a-4864-9c8e-5e8de3fc3e2c
 - datetime: 2024-11-02T15:03:23.500Z
   text: Sails down, motoring
   author: ""
@@ -480,6 +518,8 @@
     - ihmis-suski
     - bergie
   category: navigation
+  origin: auto
+  id: 87e7a8ae-766c-48e8-b177-5b0a14456e94
 - datetime: 2024-11-02T15:24:01.497Z
   text: Autopilot deactivated
   author: ""
@@ -504,6 +544,8 @@
     - ihmis-suski
     - bergie
   category: navigation
+  origin: auto
+  id: c62d0773-4666-45f1-bb06-f4517b245d55
 - datetime: 2024-11-02T15:53:44.499Z
   text: Stopped
   author: ""
@@ -529,3 +571,5 @@
     - bergie
   end: true
   category: navigation
+  origin: auto
+  id: e8960e90-bb55-4e22-8afd-885230569afe

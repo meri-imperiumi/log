@@ -24,6 +24,8 @@
     - ihmis-suski
     - bergie
   category: navigation
+  origin: auto
+  id: 4e8d4733-5ea8-42f0-9db3-d624805ec110
 - datetime: 2026-04-23T00:12:14.400Z
   text: "Sails set: Main, Genoa 1 (30% furled)"
   author: ""
@@ -50,6 +52,8 @@
     - ihmis-suski
     - bergie
   category: navigation
+  origin: auto
+  id: c8db1860-54f7-4d00-9f75-b29d58096336
 - datetime: 2026-04-23T00:29:24.400Z
   text: Sails down, motoring
   author: ""
@@ -76,6 +80,8 @@
     - ihmis-suski
     - bergie
   category: navigation
+  origin: auto
+  id: f71628ce-aa2d-4470-931b-33c63abba22b
 - datetime: 2026-04-23T00:30:14.400Z
   text: Autopilot deactivated
   author: ""
@@ -102,6 +108,8 @@
     - ihmis-suski
     - bergie
   category: navigation
+  origin: auto
+  id: eb02bf1f-55ce-497f-93ff-0d482d448f8d
 - datetime: 2026-04-23T00:59:14.400Z
   text: Anchored
   author: ""
@@ -129,6 +137,8 @@
     - bergie
   end: true
   category: navigation
+  origin: auto
+  id: beb3395e-9d42-493b-9ace-ef7b1b6eee33
 - datetime: 2026-04-23T01:10:23.400Z
   text: Anchor up, motoring
   author: ""
@@ -155,6 +165,8 @@
     - ihmis-suski
     - bergie
   category: navigation
+  origin: auto
+  id: 1489b4f2-52ab-410e-8409-a91534b55b87
 - datetime: 2026-04-23T01:19:56.400Z
   text: Anchored
   author: ""
@@ -182,6 +194,8 @@
     - bergie
   end: true
   category: navigation
+  origin: auto
+  id: 641d68e9-302d-4ccb-842d-127a54a70340
 - datetime: 2026-04-23T01:30:00.400Z
   text: Anchor up, motoring
   author: ""
@@ -208,6 +222,8 @@
     - ihmis-suski
     - bergie
   category: navigation
+  origin: auto
+  id: 9727ef93-13b0-47cb-b71d-ca0a1bad6e35
 - datetime: 2026-04-23T01:35:58.400Z
   text: Anchored
   author: ""
@@ -235,6 +251,8 @@
     - bergie
   end: true
   category: navigation
+  origin: auto
+  id: b3cdc552-a8a7-45ab-a9bd-4d341499a727
 - datetime: 2026-04-23T01:45:30.400Z
   text: Stopped main engine
   author: ""
@@ -261,6 +279,8 @@
     - ihmis-suski
     - bergie
   category: navigation
+  origin: auto
+  id: ab3c576f-eff3-4ba8-b6ae-c612b0c6223b
 - datetime: 2026-04-23T15:36:11.200Z
   text: Started main engine
   author: ""
@@ -283,6 +303,8 @@
     - ihmis-suski
     - bergie
   category: navigation
+  origin: auto
+  id: 127a212f-54c8-4495-8f66-3644b33ede97
 - datetime: 2026-04-23T15:44:01.203Z
   text: Anchor up, motoring
   author: ""
@@ -305,6 +327,8 @@
     - ihmis-suski
     - bergie
   category: navigation
+  origin: auto
+  id: 74e37dd0-cd17-43ed-a148-787ece2e3487
 - datetime: 2026-04-23T15:53:19.200Z
   text: Anchored
   author: ""
@@ -328,6 +352,8 @@
     - bergie
   end: true
   category: navigation
+  origin: auto
+  id: 96d9ba7b-21bf-4961-a82c-d32885c4a7c6
 - datetime: 2026-04-23T16:04:26.201Z
   text: Stopped main engine
   author: ""
@@ -350,6 +376,8 @@
     - ihmis-suski
     - bergie
   category: navigation
+  origin: auto
+  id: 7e864987-d885-467f-9334-960974ed9d63
 - datetime: 2026-04-23T23:47:44.800Z
   text: Cockpit light button is again wired up, let's see if it is stable enough now
   author: bergie
@@ -372,3 +400,5 @@
     - ihmis-suski
     - bergie
   category: maintenance
+  origin: manual
+  id: 46ca2112-8caf-43c6-ad5c-3384e9c9b064

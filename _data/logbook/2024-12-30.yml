@@ -22,6 +22,8 @@
     - ihmis-suski
     - bergie
   category: navigation
+  origin: auto
+  id: ec4dc6a2-25dc-40cc-ba6b-8b0a35d09eab
 - datetime: 2024-12-30T14:16:30.201Z
   text: Motoring
   author: ""
@@ -46,6 +48,8 @@
     - ihmis-suski
     - bergie
   category: navigation
+  origin: auto
+  id: 8beb2c81-9551-4734-9196-5bae01bad399
 - datetime: 2024-12-30T14:22:06.201Z
   text: Anchored
   author: ""
@@ -71,6 +75,8 @@
     - bergie
   end: true
   category: navigation
+  origin: auto
+  id: fd7c4144-4a82-4ba1-af14-9870a0c537bf
 - datetime: 2024-12-30T14:26:14.201Z
   text: Stopped main engine
   author: ""
@@ -95,6 +101,8 @@
     - ihmis-suski
     - bergie
   category: navigation
+  origin: auto
+  id: 0428540f-8a07-4b4c-8a26-54459304d16a
 - datetime: 2024-12-30T14:48:24.198Z
   text: "Started watermaker "
   author: bergie
@@ -118,6 +126,8 @@
     - ihmis-suski
     - bergie
   category: maintenance
+  origin: manual
+  id: f8046443-1ad5-4541-a3d0-51f5b4c9eb9a
 - datetime: 2024-12-30T14:57:23.200Z
   text: Watermaker 942ppm
   author: bergie
@@ -141,6 +151,8 @@
     - ihmis-suski
     - bergie
   category: maintenance
+  origin: manual
+  id: ab311f68-4722-45a6-9c05-f70c71365a12
 - datetime: 2024-12-30T15:02:23.302Z
   text: Watermaker 1100ppm
   author: bergie
@@ -164,6 +176,8 @@
     - ihmis-suski
     - bergie
   category: maintenance
+  origin: manual
+  id: c3e5a613-3eb6-4420-a03d-2a137741a5db
 - datetime: 2024-12-30T15:10:20.300Z
   text: Watermaker 1120ppm
   author: bergie
@@ -187,6 +201,8 @@
     - ihmis-suski
     - bergie
   category: maintenance
+  origin: manual
+  id: 1f42c4e4-3f3d-488e-83f3-cc0bfe957a09
 - datetime: 2024-12-30T15:17:18.297Z
   text: Watermaker 996ppm
   author: bergie
@@ -210,6 +226,8 @@
     - ihmis-suski
     - bergie
   category: maintenance
+  origin: manual
+  id: a22cf365-68bb-483b-ac64-4a39e02f9741
 - datetime: 2024-12-30T15:28:15.302Z
   text: Watermaker 989ppm
   author: bergie
@@ -233,6 +251,8 @@
     - ihmis-suski
     - bergie
   category: maintenance
+  origin: manual
+  id: 27a92e29-093e-4705-a0e4-63102e3e7e6e
 - datetime: 2024-12-30T15:31:14.297Z
   text: "Stopped watermaker "
   author: bergie
@@ -256,6 +276,8 @@
     - ihmis-suski
     - bergie
   category: maintenance
+  origin: manual
+  id: 7288bf3c-1b88-4b79-91da-b5803b4e1933
 - datetime: 2024-12-30T16:25:55.302Z
   text: Watermaker membrane change
   author: bergie
@@ -279,6 +301,8 @@
     - ihmis-suski
     - bergie
   category: maintenance
+  origin: manual
+  id: 1f80351f-24b4-4a6d-b1ff-fdd83ba5f1d4
 - datetime: 2024-12-30T16:29:54.297Z
   text: "Started watermaker "
   author: bergie
@@ -302,6 +326,8 @@
     - ihmis-suski
     - bergie
   category: maintenance
+  origin: manual
+  id: 61d9319c-f348-4ef2-ad1b-5e445b5984be
 - datetime: 2024-12-30T16:42:51.302Z
   text: 182ppm watermaker
   author: ihmis-suski
@@ -325,6 +351,8 @@
     - ihmis-suski
     - bergie
   category: maintenance
+  origin: manual
+  id: acf0d67a-e8d3-411a-bacf-c91343dd67fd
 - datetime: 2024-12-30T17:01:47.302Z
   text: Watermaker 168ppm
   author: bergie
@@ -348,6 +376,8 @@
     - ihmis-suski
     - bergie
   category: maintenance
+  origin: manual
+  id: b2c9b392-3ce6-4e40-8eeb-2d7f2ed6b3e7
 - datetime: 2024-12-30T19:01:44.697Z
   text: Watermaker 175ppm, jug full
   author: bergie
@@ -371,6 +401,8 @@
     - ihmis-suski
     - bergie
   category: maintenance
+  origin: manual
+  id: 499f83d9-7e3d-4dd5-ad18-e67bf3b743bd
 - datetime: 2024-12-30T20:44:42.803Z
   text: Stopped watermaker, 175ppm
   author: bergie
@@ -394,3 +426,5 @@
     - ihmis-suski
     - bergie
   category: maintenance
+  origin: manual
+  id: 6c56bd27-1c2b-4cee-b275-ded6c75e7d95

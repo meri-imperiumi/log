@@ -22,6 +22,8 @@
     - ihmis-suski
     - bergie
   category: maintenance
+  origin: manual
+  id: dd4bfd30-d65a-43b6-ade1-2fd46e63a192
 - datetime: 2025-08-09T14:09:39.801Z
   text: "Started watermaker "
   author: bergie
@@ -45,6 +47,8 @@
     - ihmis-suski
     - bergie
   category: maintenance
+  origin: manual
+  id: 8f7e0c1e-da39-460c-9367-5ab2b6bd0fb5
 - datetime: 2025-08-09T14:20:39.801Z
   text: Watermaker 338ppm
   author: bergie
@@ -68,6 +72,8 @@
     - ihmis-suski
     - bergie
   category: maintenance
+  origin: manual
+  id: 7e1bbcbd-1865-44e4-845b-10e2d1db05ba
 - datetime: 2025-08-09T17:46:36.300Z
   text: Watermaker 267ppm
   author: bergie
@@ -91,6 +97,8 @@
     - ihmis-suski
     - bergie
   category: maintenance
+  origin: manual
+  id: 93e3fe7b-5f77-40f5-b541-5b5641327476
 - datetime: 2025-08-09T18:21:38.297Z
   text: "Pumped the bilge. Second day in row with bilge alarm. Likely culprit was
     the watermaker cleaning valve. Got it closed properly "
@@ -115,6 +123,8 @@
     - ihmis-suski
     - bergie
   category: maintenance
+  origin: manual
+  id: d9d173ca-3982-4143-aea5-08c6bd081fdb
 - datetime: 2025-08-09T19:24:38.400Z
   text: Stopped watermaker, 271ppm
   author: bergie
@@ -138,3 +148,5 @@
     - ihmis-suski
     - bergie
   category: maintenance
+  origin: manual
+  id: a5bcf8dd-a55d-4562-9108-da3b3fb5c0db

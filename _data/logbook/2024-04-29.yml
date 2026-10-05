@@ -22,6 +22,8 @@
     - ihmis-suski
     - bergie
   category: maintenance
+  origin: manual
+  id: 84b0c7cd-6e1d-416e-8064-f22d3131ff80
 - datetime: 2024-04-29T12:04:25.299Z
   text: Started main engine
   author: ""
@@ -46,6 +48,8 @@
     - ihmis-suski
     - bergie
   category: navigation
+  origin: auto
+  id: d24d890f-ab66-4774-905e-d55f11c1e51a
 - datetime: 2024-04-29T12:16:56.300Z
   text: Motoring
   author: ""
@@ -70,6 +74,8 @@
     - ihmis-suski
     - bergie
   category: navigation
+  origin: auto
+  id: d8bd54fa-0c05-40dd-878f-7dfa35a5fd35
 - datetime: 2024-04-29T12:26:56.300Z
   text: Motor stopped, sailing with Main (1st reef), Staysail
   author: ""
@@ -94,6 +100,8 @@
     - ihmis-suski
     - bergie
   category: navigation
+  origin: auto
+  id: e588ac59-2ebd-47f0-afdc-3a5ce8924c4d
 - datetime: 2024-04-29T12:51:48.300Z
   text: "Sails set: Main (2nd reef), Staysail. Gusts pack a punch"
   author: bergie
@@ -122,6 +130,8 @@
     cloudCoverage: 7
     seaState: 2
     visibility: 7
+  origin: manual
+  id: 32a95d18-3f30-467f-9947-3cca5dfbb421
 - datetime: 2024-04-29T13:00:56.300Z
   text: ""
   author: ""
@@ -146,6 +156,8 @@
     - ihmis-suski
     - bergie
   category: navigation
+  origin: auto
+  id: 96ae082d-89e1-43d5-9492-54ea280f670b
 - datetime: 2024-04-29T14:00:56.300Z
   text: ""
   author: ""
@@ -170,6 +182,8 @@
     - ihmis-suski
     - bergie
   category: navigation
+  origin: auto
+  id: 3439d8b7-2dee-40c5-906d-400a7c8ed736
 - datetime: 2024-04-29T15:00:56.300Z
   text: ""
   author: ""
@@ -194,6 +208,8 @@
     - ihmis-suski
     - bergie
   category: navigation
+  origin: auto
+  id: 89d40bab-d614-4277-9da8-1f2cf11e47bd
 - datetime: 2024-04-29T16:00:40.300Z
   text: "Sails set: Main (1st reef)"
   author: ""
@@ -218,6 +234,8 @@
     - ihmis-suski
     - bergie
   category: navigation
+  origin: auto
+  id: dc4207e4-b249-4468-9493-cfd0177bea97
 - datetime: 2024-04-29T16:00:57.299Z
   text: ""
   author: ""
@@ -242,6 +260,8 @@
     - ihmis-suski
     - bergie
   category: navigation
+  origin: auto
+  id: dc58df31-54ce-4cbd-a13c-a974a08d9849
 - datetime: 2024-04-29T16:20:36.300Z
   text: Sails down, motoring
   author: ""
@@ -266,6 +286,8 @@
     - ihmis-suski
     - bergie
   category: navigation
+  origin: auto
+  id: 65ef5485-3ee7-4681-bc26-6d5f5914aa37
 - datetime: 2024-04-29T16:33:32.300Z
   text: Anchored
   author: ""
@@ -290,6 +312,8 @@
     - bergie
   end: true
   category: navigation
+  origin: auto
+  id: c04fcd77-1cf5-42bc-b388-e70bdf32fc33
 - datetime: 2024-04-29T16:40:49.299Z
   text: Stopped main engine
   author: ""
@@ -313,3 +337,5 @@
     - ihmis-suski
     - bergie
   category: navigation
+  origin: auto
+  id: bc9c32dc-aa0c-4c51-afce-9aff08043e0e

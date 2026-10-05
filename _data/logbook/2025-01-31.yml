@@ -24,6 +24,8 @@
     - karin
     - daniel
   category: navigation
+  origin: manual
+  id: 0628f0c9-252a-4642-adc2-317860066c78
 - datetime: 2025-01-31T20:15:51.603Z
   text: Motor stopped, sailing with Main (1st reef), Staysail
   author: ""
@@ -53,6 +55,8 @@
     - karin
     - daniel
   category: navigation
+  origin: auto
+  id: 2626c64d-e4a7-489e-bbea-f02bb76da3cd
 - datetime: 2025-01-31T20:38:35.596Z
   text: Windvane steering
   author: ihmis-suski
@@ -82,6 +86,8 @@
     - karin
     - daniel
   category: navigation
+  origin: manual
+  id: 661b1d8b-af84-4ba9-a5e7-7226975b5584
 - datetime: 2025-01-31T20:53:36.697Z
   text: In the channel.
   author: ihmis-suski
@@ -115,6 +121,8 @@
     seaState: 3
     cloudCoverage: 5
     visibility: 7
+  origin: manual
+  id: a536b662-3925-41ff-8981-705d978bbd04
 - datetime: 2025-01-31T21:09:36.697Z
   text: Did radio checks with Wenda. Seems their antenna issues are fixed now
   author: bergie
@@ -144,6 +152,8 @@
     - karin
     - daniel
   category: radio
+  origin: manual
+  id: 43a39dff-daff-4104-a812-7369434a910b
 - datetime: 2025-01-31T21:24:36.697Z
   text: "St. Lucia is now visible "
   author: bergie
@@ -173,35 +183,8 @@
     - karin
     - daniel
   category: navigation
-- datetime: 2025-01-31T22:00:36.697Z
-  text: ""
-  author: ""
-  position:
-    latitude: 14.2883078
-    longitude: -60.9552793
-    source: GPS
-  heading: 182
-  course: 195
-  speed:
-    stw: 4.5
-    sog: 6
-  log: 10788.8
-  waypoint:
-    longitude: -61.32407
-    latitude: 13.2746
-  barometer: 1016.07
-  wind:
-    speed: 22.2
-    direction: 68
-  engine:
-    hours: 933.6
-  vhf: "16"
-  crewNames:
-    - ihmis-suski
-    - bergie
-    - karin
-    - daniel
-  category: navigation
+  origin: manual
+  id: c2dadac8-77d5-44d5-99a6-13ae416b824d
 - datetime: 2025-01-31T22:00:36.697Z
   text: Sunset
   author: ihmis-suski
@@ -235,6 +218,39 @@
     seaState: 4
     cloudCoverage: 4
     visibility: 7
+  origin: manual
+  id: 9a2fbd02-0db8-41d0-b8bf-29035c6376d4
+- datetime: 2025-01-31T22:00:36.697Z
+  text: ""
+  author: ""
+  position:
+    latitude: 14.2883078
+    longitude: -60.9552793
+    source: GPS
+  heading: 182
+  course: 195
+  speed:
+    stw: 4.5
+    sog: 6
+  log: 10788.8
+  waypoint:
+    longitude: -61.32407
+    latitude: 13.2746
+  barometer: 1016.07
+  wind:
+    speed: 22.2
+    direction: 68
+  engine:
+    hours: 933.6
+  vhf: "16"
+  crewNames:
+    - ihmis-suski
+    - bergie
+    - karin
+    - daniel
+  category: navigation
+  origin: auto
+  id: feda2f1b-c39c-4e67-8175-dff7fe9e094a
 - datetime: 2025-01-31T22:18:36.697Z
   text: St. Lucia territorial waters
   author: bergie
@@ -264,6 +280,8 @@
     - karin
     - daniel
   category: navigation
+  origin: manual
+  id: d7ab75bb-878f-475c-a884-1216b3d4e8e5
 - datetime: 2025-01-31T23:00:35.699Z
   text: ""
   author: ""
@@ -293,3 +311,5 @@
     - karin
     - daniel
   category: navigation
+  origin: auto
+  id: 0b6e7533-2f32-44c8-8625-b8fbe2271c28

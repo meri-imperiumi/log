@@ -21,6 +21,8 @@
     - ihmis-suski
     - bergie
   category: navigation
+  origin: auto
+  id: 5484de32-1a12-41cb-9382-922adb5634c4
 - datetime: 2024-05-20T08:47:00.099Z
   text: "Motoring, out of the päkchen sandwich "
   author: bergie
@@ -44,6 +46,8 @@
     - ihmis-suski
     - bergie
   category: navigation
+  origin: manual
+  id: 9c658097-6f9c-4ac5-a24a-1485387f3199
 - datetime: 2024-05-20T09:00:00.099Z
   text: ""
   author: ""
@@ -67,6 +71,8 @@
     - ihmis-suski
     - bergie
   category: navigation
+  origin: auto
+  id: 290e4fc7-56ec-4945-bc83-eeedfffa23de
 - datetime: 2024-05-20T09:31:28.099Z
   text: Motor stopped, sailing with Main, Genoa 1
   author: bergie
@@ -94,6 +100,8 @@
     cloudCoverage: 1
     seaState: 2
     visibility: 8
+  origin: manual
+  id: cc816701-9df1-4e64-90ca-6f7bad171a41
 - datetime: 2024-05-20T09:37:23.100Z
   text: Autopilot activated
   author: ""
@@ -118,6 +126,8 @@
     - ihmis-suski
     - bergie
   category: navigation
+  origin: auto
+  id: e5ac6502-41d5-40e7-9d2b-228d6db66362
 - datetime: 2024-05-20T10:00:00.099Z
   text: ""
   author: ""
@@ -142,6 +152,8 @@
     - ihmis-suski
     - bergie
   category: navigation
+  origin: auto
+  id: a9663920-5ed6-4644-a19a-65a701986f68
 - datetime: 2024-05-20T10:01:01.100Z
   text: We can still hear Norwegian Coastal Radio! Barely but still
   author: bergie
@@ -166,6 +178,8 @@
     - ihmis-suski
     - bergie
   category: radio
+  origin: manual
+  id: 2506305f-c8c6-4a5b-b7f9-f3e0ed3fb58c
 - datetime: 2024-05-20T10:02:01.100Z
   text: Started watermaker, 194ppm
   author: bergie
@@ -190,6 +204,8 @@
     - ihmis-suski
     - bergie
   category: maintenance
+  origin: manual
+  id: ebea4940-78bf-48f3-8933-09241f536abd
 - datetime: 2024-05-20T11:00:01.100Z
   text: ""
   author: ""
@@ -214,6 +230,8 @@
     - ihmis-suski
     - bergie
   category: navigation
+  origin: auto
+  id: adda68a2-604e-4f5f-b627-c0f01c9ba123
 - datetime: 2024-05-20T12:00:02.099Z
   text: ""
   author: ""
@@ -238,6 +256,8 @@
     - ihmis-suski
     - bergie
   category: navigation
+  origin: auto
+  id: 4bf68342-c05e-4e1d-812a-f13b70435c33
 - datetime: 2024-05-20T12:57:03.100Z
   text: Changed for Orkney courtesy flag.
   author: ihmis-suski
@@ -266,6 +286,8 @@
     seaState: 3
     cloudCoverage: 0
     visibility: 8
+  origin: manual
+  id: 8de03651-6f97-4f01-92cd-3add14afe695
 - datetime: 2024-05-20T13:00:02.099Z
   text: ""
   author: ""
@@ -290,6 +312,8 @@
     - ihmis-suski
     - bergie
   category: navigation
+  origin: auto
+  id: b79ad134-003e-4d41-97b9-6864973321c2
 - datetime: 2024-05-20T13:26:03.100Z
   text: "Deployed hydrogenerator "
   author: bergie
@@ -314,6 +338,8 @@
     - ihmis-suski
     - bergie
   category: navigation
+  origin: manual
+  id: 606b9639-c74e-41db-a843-72ec891753f5
 - datetime: 2024-05-20T13:43:03.100Z
   text: Stopped watermaker,  154ppm. Two full jugs
   author: bergie
@@ -338,6 +364,8 @@
     - ihmis-suski
     - bergie
   category: maintenance
+  origin: manual
+  id: 7ec6238f-d49d-44b4-8923-e77750b2e579
 - datetime: 2024-05-20T13:58:03.100Z
   text: Some play has developed in boomvang lower bracket, causing noise.
     Immobilised with a rope
@@ -363,6 +391,8 @@
     - ihmis-suski
     - bergie
   category: maintenance
+  origin: manual
+  id: da8a3e7d-9e08-474b-96a3-35325947c75f
 - datetime: 2024-05-20T14:00:03.100Z
   text: ""
   author: ""
@@ -387,6 +417,8 @@
     - ihmis-suski
     - bergie
   category: navigation
+  origin: auto
+  id: e4970690-0e8d-4ee9-a391-c160179b30d7
 - datetime: 2024-05-20T14:35:03.100Z
   text: "Stowed hydrogenerator "
   author: bergie
@@ -411,6 +443,8 @@
     - ihmis-suski
     - bergie
   category: navigation
+  origin: manual
+  id: 7affabea-e635-4a16-861d-f081cbda9878
 - datetime: 2024-05-20T15:00:04.102Z
   text: ""
   author: ""
@@ -435,6 +469,8 @@
     - ihmis-suski
     - bergie
   category: navigation
+  origin: auto
+  id: a348d24b-30f2-46c2-bfe4-b0beb39a9b07
 - datetime: 2024-05-20T15:39:04.102Z
   text: "Passing North Ronaldsay. Now tidal stream 1.6kt against us. Fair Isle
     almost below the horizon "
@@ -460,6 +496,8 @@
     - ihmis-suski
     - bergie
   category: navigation
+  origin: manual
+  id: e937a97e-adc9-47db-a6b0-1a1cbf3f630c
 - datetime: 2024-05-20T16:00:04.102Z
   text: ""
   author: ""
@@ -484,6 +522,8 @@
     - ihmis-suski
     - bergie
   category: navigation
+  origin: auto
+  id: 2cee7e59-9834-44a7-b9ba-a92c57365a2c
 - datetime: 2024-05-20T16:05:04.102Z
   text: Received DSC all ships call from Norwegian Coastal Radio, asking all
     vessels to check their radio equipment (and same in Norwegian)
@@ -509,6 +549,8 @@
     - ihmis-suski
     - bergie
   category: radio
+  origin: manual
+  id: 45e8cb13-d887-46e3-9e53-c9b82a978abc
 - datetime: 2024-05-20T16:24:04.102Z
   text: "Deployed hydrogenerator "
   author: bergie
@@ -533,6 +575,8 @@
     - ihmis-suski
     - bergie
   category: navigation
+  origin: manual
+  id: 75e09a76-37e1-406c-9f35-64be53afc29c
 - datetime: 2024-05-20T17:00:05.100Z
   text: ""
   author: ""
@@ -557,6 +601,8 @@
     - ihmis-suski
     - bergie
   category: navigation
+  origin: auto
+  id: 32e58b25-84e5-4d8b-af40-c9f38e37c387
 - datetime: 2024-05-20T17:55:05.100Z
   text: Favourable tidal current now
   author: bergie
@@ -581,6 +627,8 @@
     - ihmis-suski
     - bergie
   category: navigation
+  origin: manual
+  id: 5f1c46cf-2ea5-4af6-be1a-5c973f40ec9e
 - datetime: 2024-05-20T18:00:05.100Z
   text: ""
   author: ""
@@ -605,6 +653,8 @@
     - ihmis-suski
     - bergie
   category: navigation
+  origin: auto
+  id: 961788fe-4382-4a79-a07d-a7cf0b5abb13
 - datetime: 2024-05-20T18:49:53.497Z
   text: Autopilot deactivated
   author: ""
@@ -629,6 +679,8 @@
     - ihmis-suski
     - bergie
   category: navigation
+  origin: auto
+  id: 0bc27ccc-cad6-4da9-9501-5b15ce71ebd0
 - datetime: 2024-05-20T19:00:06.502Z
   text: ""
   author: ""
@@ -653,6 +705,8 @@
     - ihmis-suski
     - bergie
   category: navigation
+  origin: auto
+  id: 4424a17a-9f97-4c08-a1be-024925fa2919
 - datetime: 2024-05-20T19:01:37.497Z
   text: Sails down, motoring
   author: ""
@@ -677,6 +731,8 @@
     - ihmis-suski
     - bergie
   category: navigation
+  origin: auto
+  id: 448d857f-ef19-46e6-a6dc-075792235ea8
 - datetime: 2024-05-20T19:26:41.497Z
   text: Anchored
   author: ""
@@ -702,6 +758,8 @@
     - bergie
   end: true
   category: navigation
+  origin: auto
+  id: 78fcacbb-6d1b-4fab-94a0-b2596595faf4
 - datetime: 2024-05-20T19:30:45.497Z
   text: Stopped main engine
   author: ""
@@ -726,3 +784,5 @@
     - ihmis-suski
     - bergie
   category: navigation
+  origin: auto
+  id: d638aad8-433a-4146-9452-e3f1a5898128

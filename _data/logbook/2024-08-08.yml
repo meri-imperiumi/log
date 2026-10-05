@@ -22,6 +22,8 @@
     - ihmis-suski
     - bergie
   category: navigation
+  origin: auto
+  id: d73660c3-a1d5-4f93-9290-e7542ec150e9
 - datetime: 2024-08-08T00:11:24.800Z
   text: Watch change. Suski on duty.
   author: ihmis-suski
@@ -49,6 +51,8 @@
   observations:
     cloudCoverage: 3
     visibility: 8
+  origin: manual
+  id: 8b80de9b-9b47-4662-8b89-529ade931763
 - datetime: 2024-08-08T00:16:24.800Z
   text: Shooting stars on the clear patch of sky.
   author: ihmis-suski
@@ -73,6 +77,8 @@
     - ihmis-suski
     - bergie
   category: navigation
+  origin: manual
+  id: d1bcceee-a58c-4fd3-bbe4-26e813a4cf9e
 - datetime: 2024-08-08T01:00:24.800Z
   text: ""
   author: ""
@@ -97,6 +103,8 @@
     - ihmis-suski
     - bergie
   category: navigation
+  origin: auto
+  id: 76050520-d184-40c4-9ded-89deaaaed05b
 - datetime: 2024-08-08T02:00:24.800Z
   text: Confirmed with Folegrandos that we go starboard -starboard
   author: ihmis-suski
@@ -121,6 +129,8 @@
     - ihmis-suski
     - bergie
   category: radio
+  origin: manual
+  id: 53d808b7-c778-428a-9fca-0fbf6ef25ac7
 - datetime: 2024-08-08T02:51:25.800Z
   text: Difficult to get Starbuck to steer to a wind angle..the wind keeps going
     between 7 and 12 knots, so adjustments needed.
@@ -146,6 +156,8 @@
     - ihmis-suski
     - bergie
   category: navigation
+  origin: manual
+  id: bdcca154-bb75-4d0c-904e-1401dc2e7f45
 - datetime: 2024-08-08T03:00:25.800Z
   text: ""
   author: ""
@@ -170,6 +182,8 @@
     - ihmis-suski
     - bergie
   category: navigation
+  origin: auto
+  id: 16d49a0f-0bee-4afc-a943-3d0b50735f0e
 - datetime: 2024-08-08T03:27:26.800Z
   text: Orca lost the route and would only take it in on the nav-tablet. Would not
     reset to route set on the phone.
@@ -195,6 +209,8 @@
     - ihmis-suski
     - bergie
   category: maintenance
+  origin: manual
+  id: b48e71f9-9c7a-45ea-8bf5-0f55018bb8d9
 - datetime: 2024-08-08T03:35:26.800Z
   text: ISS flew over.
   author: ihmis-suski
@@ -219,6 +235,8 @@
     - ihmis-suski
     - bergie
   category: navigation
+  origin: manual
+  id: 99de7b9c-5d1f-4a37-9e25-71e340fce584
 - datetime: 2024-08-08T04:00:26.800Z
   text: ""
   author: ""
@@ -243,6 +261,8 @@
     - ihmis-suski
     - bergie
   category: navigation
+  origin: auto
+  id: e9f2afee-82bd-478c-af77-609c22159535
 - datetime: 2024-08-08T05:00:26.800Z
   text: ""
   author: ""
@@ -267,6 +287,8 @@
     - ihmis-suski
     - bergie
   category: navigation
+  origin: auto
+  id: c309ec59-3927-40fc-bb69-5cc12f502b37
 - datetime: 2024-08-08T06:00:27.800Z
   text: Bergie on watch
   author: bergie
@@ -295,6 +317,8 @@
     seaState: 4
     cloudCoverage: 1
     visibility: 8
+  origin: manual
+  id: c3af6737-5197-40f9-9465-be1fa775b886
 - datetime: 2024-08-08T07:00:28.899Z
   text: ""
   author: ""
@@ -319,6 +343,8 @@
     - ihmis-suski
     - bergie
   category: navigation
+  origin: auto
+  id: afbcc797-f8a0-41a7-b415-af14daf5fcee
 - datetime: 2024-08-08T07:44:28.899Z
   text: "This is a milestone, too: A Coruña is now closer (170NM) than Brest
     (190NM). This means our closest diversion ports are now on the Spanish
@@ -345,6 +371,8 @@
     - ihmis-suski
     - bergie
   category: navigation
+  origin: manual
+  id: 6a71ebc4-b73a-4e54-901b-42ceea4fc8ec
 - datetime: 2024-08-08T08:00:28.899Z
   text: ""
   author: ""
@@ -369,6 +397,8 @@
     - ihmis-suski
     - bergie
   category: navigation
+  origin: auto
+  id: a7ef4fa1-c073-4d81-8564-d47d8a86f098
 - datetime: 2024-08-08T08:40:28.899Z
   text: Sail in the horizon! Starboard of us, heading opposite direction. First
     vessel without AIS we've seen since Scilly
@@ -394,6 +424,8 @@
     - ihmis-suski
     - bergie
   category: navigation
+  origin: manual
+  id: 642d5a36-e9a8-4379-8acb-7bfe3ff51236
 - datetime: 2024-08-08T09:00:29.200Z
   text: ""
   author: ""
@@ -418,6 +450,8 @@
     - ihmis-suski
     - bergie
   category: navigation
+  origin: auto
+  id: ee917d74-7473-4273-93ac-2a28fc18defd
 - datetime: 2024-08-08T10:00:30.300Z
   text: ""
   author: ""
@@ -442,6 +476,8 @@
     - ihmis-suski
     - bergie
   category: navigation
+  origin: auto
+  id: 5c61bff9-2d52-42fb-9ebc-ab67bd6ef005
 - datetime: 2024-08-08T11:00:31.299Z
   text: All hands enjoyed a freshwater shower now that we're heeled less
   author: bergie
@@ -466,6 +502,8 @@
     - ihmis-suski
     - bergie
   category: maintenance
+  origin: manual
+  id: 2d7a80d4-110b-4d2c-9079-0d9adabd10a2
 - datetime: 2024-08-08T11:07:31.299Z
   text: "Very nice that both weather routers (Orca and LuckGrib) agree with the
     course we had already taken: stay close reached on starboard tack until wind
@@ -492,6 +530,8 @@
     - ihmis-suski
     - bergie
   category: navigation
+  origin: manual
+  id: 349d2837-5b40-4603-93da-4a0fd4d3da5a
 - datetime: 2024-08-08T12:00:31.299Z
   text: ""
   author: ""
@@ -516,6 +556,8 @@
     - ihmis-suski
     - bergie
   category: navigation
+  origin: auto
+  id: d13e9d3d-1bbb-459c-8488-eb899aa401cd
 - datetime: 2024-08-08T13:00:32.300Z
   text: ""
   author: ""
@@ -540,6 +582,8 @@
     - ihmis-suski
     - bergie
   category: navigation
+  origin: auto
+  id: ea65f523-ab37-4624-84ea-688b4145f917
 - datetime: 2024-08-08T13:55:32.300Z
   text: Wind is still holding. The waves are small and the swell big and the
     period is long, so this feels more like 'binnen' sailing.
@@ -569,6 +613,8 @@
     seaState: 4
     cloudCoverage: 2
     visibility: 9
+  origin: manual
+  id: 75b9b5d9-ab52-426e-91ad-6c712a6dfa8a
 - datetime: 2024-08-08T14:00:33.299Z
   text: ""
   author: ""
@@ -593,6 +639,8 @@
     - ihmis-suski
     - bergie
   category: navigation
+  origin: auto
+  id: 815f71f2-1189-4172-9cba-fa28aac28d5c
 - datetime: 2024-08-08T14:43:33.401Z
   text: Spanish weather forecast!
   author: ihmis-suski
@@ -617,6 +665,8 @@
     - ihmis-suski
     - bergie
   category: radio
+  origin: manual
+  id: 8536a4f1-de18-4854-88ca-847e7fa2c5b2
 - datetime: 2024-08-08T15:00:33.401Z
   text: ""
   author: ""
@@ -641,6 +691,8 @@
     - ihmis-suski
     - bergie
   category: navigation
+  origin: auto
+  id: 0ec9b849-d654-48f3-9bc6-0a038d80e683
 - datetime: 2024-08-08T16:00:34.400Z
   text: ""
   author: ""
@@ -665,6 +717,8 @@
     - ihmis-suski
     - bergie
   category: navigation
+  origin: auto
+  id: ee8db07e-e54d-41da-b549-89e9ec022d25
 - datetime: 2024-08-08T17:00:35.398Z
   text: ""
   author: ""
@@ -689,6 +743,8 @@
     - ihmis-suski
     - bergie
   category: navigation
+  origin: auto
+  id: adee3313-ebd8-42a0-9af5-632246dd9639
 - datetime: 2024-08-08T17:30:08.396Z
   text: Autopilot activated
   author: ""
@@ -713,6 +769,8 @@
     - ihmis-suski
     - bergie
   category: navigation
+  origin: auto
+  id: 82524068-b96c-4696-a366-640ba114b79a
 - datetime: 2024-08-08T18:00:35.398Z
   text: Bergie on watch
   author: bergie
@@ -741,6 +799,8 @@
     seaState: 4
     cloudCoverage: 1
     visibility: 8
+  origin: manual
+  id: 3efe9569-d1c0-4b29-8232-32f2960a9e38
 - datetime: 2024-08-08T19:00:36.403Z
   text: ""
   author: ""
@@ -765,6 +825,8 @@
     - ihmis-suski
     - bergie
   category: navigation
+  origin: auto
+  id: 7ee51266-04d1-4280-a821-28dc6dc4adcb
 - datetime: 2024-08-08T20:00:36.800Z
   text: ""
   author: ""
@@ -789,6 +851,8 @@
     - ihmis-suski
     - bergie
   category: navigation
+  origin: auto
+  id: a371c1d5-319b-4d98-9a2d-728bcc64e93e
 - datetime: 2024-08-08T20:06:36.800Z
   text: Two whales surfaced maybe 100m to our port side. Big ones!
   author: bergie
@@ -813,6 +877,8 @@
     - ihmis-suski
     - bergie
   category: navigation
+  origin: manual
+  id: a500fa68-2141-476c-9bd2-02e04f72b8f4
 - datetime: 2024-08-08T21:00:37.798Z
   text: ""
   author: ""
@@ -837,6 +903,8 @@
     - ihmis-suski
     - bergie
   category: navigation
+  origin: auto
+  id: 9a9867b7-50aa-41aa-a6f7-35510d5fd3d1
 - datetime: 2024-08-08T21:22:37.798Z
   text: Surprisingly good wind, was supposed to die by now
   author: bergie
@@ -865,6 +933,8 @@
     seaState: 4
     cloudCoverage: 0
     visibility: 8
+  origin: manual
+  id: 093ad5d5-ad9a-44b5-a973-acda7118b7b3
 - datetime: 2024-08-08T22:00:37.798Z
   text: ""
   author: ""
@@ -889,6 +959,8 @@
     - ihmis-suski
     - bergie
   category: navigation
+  origin: auto
+  id: 47832610-85b9-4283-8984-5736220a3520
 - datetime: 2024-08-08T22:33:38.803Z
   text: Very bright shooting star went by what must've been a Starlink train
   author: bergie
@@ -913,6 +985,8 @@
     - ihmis-suski
     - bergie
   category: navigation
+  origin: manual
+  id: c72b7817-bbec-4e0a-bc29-674765b50e13
 - datetime: 2024-08-08T23:00:38.796Z
   text: ""
   author: ""
@@ -937,6 +1011,8 @@
     - ihmis-suski
     - bergie
   category: navigation
+  origin: auto
+  id: 4bb454e8-c344-47e8-a7c0-ad16c72c525f
 - datetime: 2024-08-08T23:58:38.899Z
   text: "Watch change "
   author: ihmis-suski
@@ -964,3 +1040,5 @@
   observations:
     cloudCoverage: 2
     visibility: 8
+  origin: manual
+  id: 56319542-f496-42ba-b7a3-efe9e7a8dec2

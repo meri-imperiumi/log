@@ -21,6 +21,8 @@
     - ihmis-suski
     - bergie
   category: navigation
+  origin: auto
+  id: 9f361a42-7bc5-4842-ba50-86192984ad61
 - datetime: 2024-07-10T09:30:41.500Z
   text: Anchor up, motoring
   author: bergie
@@ -44,6 +46,8 @@
     - ihmis-suski
     - bergie
   category: navigation
+  origin: manual
+  id: 9936b093-0ccd-4573-bacc-f9a45f83f31e
 - datetime: 2024-07-10T09:45:53.500Z
   text: Motor stopped, sailing with Main, Genoa 1
   author: ""
@@ -67,6 +71,8 @@
     - ihmis-suski
     - bergie
   category: navigation
+  origin: auto
+  id: 2e0aaef2-030c-4a7e-8191-36aaae2e7260
 - datetime: 2024-07-10T09:46:03.500Z
   text: Autopilot activated
   author: ""
@@ -90,6 +96,8 @@
     - ihmis-suski
     - bergie
   category: navigation
+  origin: auto
+  id: e4cdeaeb-adc7-401f-acfb-9c150da11ef7
 - datetime: 2024-07-10T09:53:15.500Z
   text: "Sails set: Main, Genoa 1 (20% furled)"
   author: ""
@@ -113,6 +121,8 @@
     - ihmis-suski
     - bergie
   category: navigation
+  origin: auto
+  id: 7c0dd448-584c-425d-9985-6532d92b89d9
 - datetime: 2024-07-10T10:00:41.500Z
   text: ""
   author: ""
@@ -137,6 +147,8 @@
     - ihmis-suski
     - bergie
   category: navigation
+  origin: auto
+  id: 2ec96752-e408-479c-a215-019ac35cc2da
 - datetime: 2024-07-10T10:00:41.500Z
   text: "Speed through water showing zero again "
   author: bergie
@@ -161,6 +173,8 @@
     - ihmis-suski
     - bergie
   category: maintenance
+  origin: manual
+  id: 7d10f841-c13c-4384-bb54-71d7404ad2f3
 - datetime: 2024-07-10T10:21:58.499Z
   text: "Sails set: Main, Genoa 1"
   author: ""
@@ -185,6 +199,8 @@
     - ihmis-suski
     - bergie
   category: navigation
+  origin: auto
+  id: f0e852da-bedd-4b6d-aade-ca5bdff2e21e
 - datetime: 2024-07-10T11:00:42.499Z
   text: ""
   author: ""
@@ -209,6 +225,8 @@
     - ihmis-suski
     - bergie
   category: navigation
+  origin: auto
+  id: f8de8503-4bcb-47ff-b9f3-1cb6bf515542
 - datetime: 2024-07-10T11:14:19.500Z
   text: "Sails set: Main (1st reef)"
   author: bergie
@@ -233,6 +251,8 @@
     - ihmis-suski
     - bergie
   category: navigation
+  origin: manual
+  id: e817005d-d2bd-48fe-adba-54baaedbb92d
 - datetime: 2024-07-10T11:38:30.499Z
   text: Autopilot deactivated
   author: ""
@@ -257,6 +277,8 @@
     - ihmis-suski
     - bergie
   category: navigation
+  origin: auto
+  id: bb75c4dd-b273-429a-ac82-3dc9979d4927
 - datetime: 2024-07-10T12:00:42.499Z
   text: ""
   author: ""
@@ -281,6 +303,8 @@
     - ihmis-suski
     - bergie
   category: navigation
+  origin: auto
+  id: dcec8ed1-8311-41d3-a327-fcfbbcbee8ce
 - datetime: 2024-07-10T12:05:02.499Z
   text: Sails down, motoring
   author: ""
@@ -305,6 +329,8 @@
     - ihmis-suski
     - bergie
   category: navigation
+  origin: auto
+  id: 5707ae45-d2d3-4b72-b3ec-76d06eb2135c
 - datetime: 2024-07-10T12:05:13.500Z
   text: Autopilot activated
   author: ""
@@ -329,6 +355,8 @@
     - ihmis-suski
     - bergie
   category: navigation
+  origin: auto
+  id: 4107fa3b-0cc5-4ff4-be90-9320b5c018f2
 - datetime: 2024-07-10T13:00:41.500Z
   text: ""
   author: bergie
@@ -357,6 +385,8 @@
     seaState: 3
     cloudCoverage: 7
     visibility: 7
+  origin: manual
+  id: dd45a1d3-6933-418a-b91c-407442f6a825
 - datetime: 2024-07-10T14:00:23.500Z
   text: ""
   author: ""
@@ -381,6 +411,8 @@
     - ihmis-suski
     - bergie
   category: navigation
+  origin: auto
+  id: f06a7e79-3750-454a-91d2-1dc6f67b34cb
 - datetime: 2024-07-10T15:00:07.603Z
   text: ""
   author: ""
@@ -405,6 +437,8 @@
     - ihmis-suski
     - bergie
   category: navigation
+  origin: auto
+  id: bfbacaae-7b84-4473-96bf-df526477d489
 - datetime: 2024-07-10T15:22:59.596Z
   text: Autopilot deactivated
   author: ""
@@ -429,6 +463,8 @@
     - ihmis-suski
     - bergie
   category: navigation
+  origin: auto
+  id: bc4ecb4b-b510-403a-9297-72572e72ca28
 - datetime: 2024-07-10T16:00:54.598Z
   text: ""
   author: ""
@@ -453,6 +489,8 @@
     - ihmis-suski
     - bergie
   category: navigation
+  origin: auto
+  id: 9715d628-93d6-4101-95b4-4c3421ab4d00
 - datetime: 2024-07-10T16:22:16.601Z
   text: Anchored
   author: ""
@@ -478,6 +516,8 @@
     - bergie
   end: true
   category: navigation
+  origin: auto
+  id: af1d7101-0e7e-4cf5-91aa-8dc641563adb
 - datetime: 2024-07-10T16:30:47.603Z
   text: Stopped main engine
   author: ""
@@ -502,3 +542,5 @@
     - ihmis-suski
     - bergie
   category: navigation
+  origin: auto
+  id: 01e9e9b7-e2e7-471b-b3a8-3790b7fd9ad8
