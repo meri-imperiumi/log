@@ -22,6 +22,8 @@
     - bergie
     - ihmis-suski
   category: navigation
+  origin: auto
+  id: c0d1ce15-2c89-45f1-a74d-4b8a70924470
 - datetime: 2023-07-07T07:25:02.400Z
   text: Motoring
   author: ""
@@ -46,6 +48,8 @@
     - bergie
     - ihmis-suski
   category: navigation
+  origin: auto
+  id: 04438bb1-68fd-446f-ae53-70df1a846c78
 - datetime: 2023-07-07T07:33:27.398Z
   text: Motor stopped, sailing with Main, Genoa 1
   author: ""
@@ -70,6 +74,8 @@
     - bergie
     - ihmis-suski
   category: navigation
+  origin: auto
+  id: 806af4f5-e44c-43e4-9a50-b6ebbdfb0769
 - datetime: 2023-07-07T07:59:52.400Z
   text: "Deployed hydrogenerator "
   author: bergie
@@ -94,6 +100,8 @@
     - bergie
     - ihmis-suski
   category: navigation
+  origin: manual
+  id: d1ef1bfc-974e-481c-ab5e-500f05f18c81
 - datetime: 2023-07-07T08:00:52.400Z
   text: ""
   author: ""
@@ -118,6 +126,8 @@
     - bergie
     - ihmis-suski
   category: navigation
+  origin: auto
+  id: d0c8455a-72f1-46de-ad3e-d6bfc4e25975
 - datetime: 2023-07-07T08:05:50.400Z
   text: Pumped the bilge
   author: bergie
@@ -142,6 +152,8 @@
     - bergie
     - ihmis-suski
   category: maintenance
+  origin: manual
+  id: 3defc372-9571-48f3-aa60-aa8365d99c0a
 - datetime: 2023-07-07T08:25:52.400Z
   text: Autopilot activated
   author: ""
@@ -166,6 +178,8 @@
     - bergie
     - ihmis-suski
   category: navigation
+  origin: auto
+  id: dc8df40a-9be3-4ad7-958e-a6d6fc16923d
 - datetime: 2023-07-07T09:00:39.398Z
   text: ""
   author: ""
@@ -190,6 +204,8 @@
     - bergie
     - ihmis-suski
   category: navigation
+  origin: auto
+  id: dc362177-367c-47f8-94f9-a4ba4430f4a9
 - datetime: 2023-07-07T10:00:25.401Z
   text: ""
   author: ""
@@ -214,6 +230,8 @@
     - bergie
     - ihmis-suski
   category: navigation
+  origin: auto
+  id: 1b4d0ec4-23ea-46d3-91ba-7e105503cc17
 - datetime: 2023-07-07T10:05:09.401Z
   text: Autopilot deactivated
   author: ""
@@ -238,6 +256,8 @@
     - bergie
     - ihmis-suski
   category: navigation
+  origin: auto
+  id: 92f1e600-e17f-4280-b19b-2c9b36110cf3
 - datetime: 2023-07-07T10:06:51.398Z
   text: Sails down, motoring
   author: ""
@@ -262,6 +282,8 @@
     - bergie
     - ihmis-suski
   category: navigation
+  origin: auto
+  id: 8f120449-4638-41b1-ac1f-39707e0528e4
 - datetime: 2023-07-07T10:20:41.401Z
   text: Stopped
   author: ""
@@ -287,3 +309,5 @@
     - ihmis-suski
   end: true
   category: navigation
+  origin: auto
+  id: 9f9448d1-6934-4583-9b0d-2316eca6503e

@@ -20,6 +20,8 @@
     - ihmis-suski
     - bergie
   category: navigation
+  origin: auto
+  id: 10d1196b-e652-4e02-ba4b-ff61bddcffde
 - datetime: 2023-03-19T15:04:48.998Z
   text: Motoring
   author: ""
@@ -42,6 +44,8 @@
     - ihmis-suski
     - bergie
   category: navigation
+  origin: auto
+  id: 0a8f5f94-27bd-409d-8e50-580e45b3678f
 - datetime: 2023-03-19T15:08:55.001Z
   text: Motor stopped, sailing with Main, Genoa 1
   author: bergie
@@ -64,6 +68,8 @@
     - ihmis-suski
     - bergie
   category: navigation
+  origin: manual
+  id: 612fcd1e-b6f5-4b8e-a463-4d01d9601164
 - datetime: 2023-03-19T16:00:24.300Z
   text: ""
   author: ""
@@ -87,6 +93,8 @@
     - ihmis-suski
     - bergie
   category: navigation
+  origin: auto
+  id: fb08b7e8-e14c-4439-b363-ee91d1d2bb9f
 - datetime: 2023-03-19T16:38:47.302Z
   text: Sails down, motoring
   author: ""
@@ -110,6 +118,8 @@
     - ihmis-suski
     - bergie
   category: navigation
+  origin: auto
+  id: 6caf62bb-f209-4b11-8ccf-78e03123eb56
 - datetime: 2023-03-19T16:58:07.302Z
   text: Anchored
   author: ""
@@ -134,6 +144,8 @@
     - bergie
   end: true
   category: navigation
+  origin: auto
+  id: 5b151752-bada-4b5e-a8f5-8259580ac4e9
 - datetime: 2023-03-19T16:58:38.297Z
   text: Stopped main engine
   author: ""
@@ -157,3 +169,5 @@
     - ihmis-suski
     - bergie
   category: navigation
+  origin: auto
+  id: 5c63c4b6-911d-4283-a203-ebaf2fe67f74

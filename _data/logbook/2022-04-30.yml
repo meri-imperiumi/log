@@ -12,6 +12,8 @@
     longitude: 15.198333
     latitude: 55.73
     source: GPS
+  origin: auto
+  id: 79c56f8e-7e0a-49e9-b406-8bd49be8d17a
 - datetime: 2022-04-30T06:18:00.000Z
   text: Sails down, motor on
   category: navigation
@@ -26,6 +28,8 @@
     longitude: 15.138333
     latitude: 55.876667
     source: GPS
+  origin: auto
+  id: 4d159c0d-60c9-4b2a-9afb-0ca693edc440
 - datetime: 2022-04-30T07:12:00.000Z
   text: Motor our Parasailor up Suski to bed.
   category: navigation
@@ -40,6 +44,8 @@
     longitude: 15.106667
     latitude: 55.94
     source: GPS
+  origin: auto
+  id: 1bbfab13-1e38-4da4-93a4-7c2673e8c8e7
 - datetime: 2022-04-30T10:07:00.000Z
   text: Parasailor down, motor on and towards Tärnö
   category: navigation
@@ -54,8 +60,12 @@
     longitude: 15.063333
     latitude: 56.045
     source: GPS
+  origin: auto
+  id: 2a625940-ea1a-4419-ab7e-7aa14d466317
 - datetime: 2022-04-30T11:23:00.000Z
   text: Arrival to Tärnö, side tied since buoys are not here
   category: navigation
   engine:
     hours: 344.6
+  origin: auto
+  id: 7ae30cbf-ff1a-4447-88d5-391dba7ccf75

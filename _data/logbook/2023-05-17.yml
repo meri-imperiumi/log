@@ -21,6 +21,8 @@
     - bergie
     - ihmis-suski
   category: navigation
+  origin: manual
+  id: bc091701-6496-44d0-8ce8-e00f62179cdb
 - datetime: 2023-05-17T05:31:43.699Z
   text: Motoring
   author: ""
@@ -44,6 +46,8 @@
     - bergie
     - ihmis-suski
   category: navigation
+  origin: auto
+  id: fe174f52-ac31-4926-8aec-654a44421fd7
 - datetime: 2023-05-17T05:34:46.700Z
   text: Anchored in middle of the bay
   author: bergie
@@ -68,6 +72,8 @@
     - ihmis-suski
   end: true
   category: navigation
+  origin: manual
+  id: 9a90ef03-2d7a-4b12-bb97-8fb63dc7b93e
 - datetime: 2023-05-17T05:36:07.699Z
   text: Stopped main engine
   author: ""
@@ -91,6 +97,8 @@
     - bergie
     - ihmis-suski
   category: navigation
+  origin: auto
+  id: 32be9c94-d1a2-4a6a-ab6e-03807f41e258
 - datetime: 2023-05-17T07:09:01.699Z
   text: Started main engine
   author: ""
@@ -117,6 +125,8 @@
     - bergie
     - ihmis-suski
   category: navigation
+  origin: auto
+  id: f8aa6c86-23ff-4143-b6e4-cd7b3bd438bd
 - datetime: 2023-05-17T07:13:40.899Z
   text: Anchor up, motoring
   author: ""
@@ -139,6 +149,8 @@
     - bergie
     - ihmis-suski
   category: navigation
+  origin: auto
+  id: a2c9d126-f408-4e57-bc32-f89ebdfff58c
 - datetime: 2023-05-17T07:28:25.900Z
   text: Autopilot activated
   author: ""
@@ -165,6 +177,8 @@
     - bergie
     - ihmis-suski
   category: navigation
+  origin: auto
+  id: 1b4f6e6b-e445-41a1-b3b0-7c241ef2e579
 - datetime: 2023-05-17T08:00:39.900Z
   text: ""
   author: ""
@@ -191,6 +205,8 @@
     - bergie
     - ihmis-suski
   category: navigation
+  origin: auto
+  id: 9fcd06b0-2e39-4906-bb5a-496644673891
 - datetime: 2023-05-17T08:08:06.899Z
   text: Autopilot deactivated
   author: ""
@@ -217,6 +233,8 @@
     - bergie
     - ihmis-suski
   category: navigation
+  origin: auto
+  id: c6025dac-49b4-4449-b32b-19c42a7b1c98
 - datetime: 2023-05-17T08:24:20.899Z
   text: Moored at SXK Runmarö
   author: bergie
@@ -244,6 +262,8 @@
     - ihmis-suski
   end: true
   category: navigation
+  origin: manual
+  id: 9f3db8cb-5c1f-4a17-89f1-7c9fb8832e6e
 - datetime: 2023-05-17T16:49:54.899Z
   text: Started main engine
   author: ""
@@ -267,6 +287,8 @@
     - bergie
     - ihmis-suski
   category: navigation
+  origin: auto
+  id: d40007a1-1474-4a66-9928-148ebe220879
 - datetime: 2023-05-17T16:53:14.899Z
   text: Motoring. The buoy was making a racket with the motorboat waves
   author: bergie
@@ -290,6 +312,8 @@
     - bergie
     - ihmis-suski
   category: navigation
+  origin: manual
+  id: 32cfabef-93ca-46f6-adc5-7beb699495b9
 - datetime: 2023-05-17T16:54:05.900Z
   text: Stopped, Runmarö sauna pier
   author: bergie
@@ -314,6 +338,8 @@
     - ihmis-suski
   end: true
   category: navigation
+  origin: manual
+  id: 0c6eca50-d4c6-4c95-b207-17dc8685fb35
 - datetime: 2023-05-17T16:56:47.897Z
   text: Stopped main engine
   author: ""
@@ -337,3 +363,5 @@
     - bergie
     - ihmis-suski
   category: navigation
+  origin: auto
+  id: a5b1b8f2-aca1-4098-ba72-25803e10660f

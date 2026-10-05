@@ -25,6 +25,8 @@
     - bergie
     - ihmis-suski
   category: navigation
+  origin: auto
+  id: 3db7aee7-7bbd-4dce-9607-a2fe9c62dac6
 - datetime: 2023-04-25T00:52:25.200Z
   text: Autopilot activated
   author: ""
@@ -52,6 +54,8 @@
     - bergie
     - ihmis-suski
   category: navigation
+  origin: auto
+  id: 0304c39b-d574-4517-a5cf-73e570ff6d34
 - datetime: 2023-04-25T01:00:30.200Z
   text: ""
   author: ""
@@ -79,6 +83,8 @@
     - bergie
     - ihmis-suski
   category: navigation
+  origin: auto
+  id: 68a20e1d-e775-4d4e-b679-034ef2b083e5
 - datetime: 2023-04-25T01:04:06.200Z
   text: Autopilot deactivated
   author: ""
@@ -106,6 +112,8 @@
     - bergie
     - ihmis-suski
   category: navigation
+  origin: auto
+  id: 79616564-f3ef-44aa-8735-2d34637aef78
 - datetime: 2023-04-25T01:05:05.200Z
   text: Autopilot activated
   author: ""
@@ -133,6 +141,8 @@
     - bergie
     - ihmis-suski
   category: navigation
+  origin: auto
+  id: b049d30f-26ff-4c22-a281-0ee91af721eb
 - datetime: 2023-04-25T01:15:20.200Z
   text: "Sails set: Main, Genoa 1 (60% furled)"
   author: ""
@@ -160,6 +170,8 @@
     - bergie
     - ihmis-suski
   category: navigation
+  origin: auto
+  id: 68e651e6-b7ae-4117-9181-fc2c10ccb233
 - datetime: 2023-04-25T01:30:17.200Z
   text: "Sails set: Main"
   author: ""
@@ -187,6 +199,8 @@
     - bergie
     - ihmis-suski
   category: navigation
+  origin: auto
+  id: a07b72e6-21c8-46db-974d-997afd3fea53
 - datetime: 2023-04-25T02:00:30.500Z
   text: ""
   author: ""
@@ -214,6 +228,8 @@
     - bergie
     - ihmis-suski
   category: navigation
+  origin: auto
+  id: fb714fce-8e9f-4c99-8577-f09ab9dc4a28
 - datetime: 2023-04-25T02:01:31.500Z
   text: "Suski on merivahti "
   author: ihmis-suski
@@ -241,6 +257,8 @@
     - bergie
     - ihmis-suski
   category: navigation
+  origin: manual
+  id: c559d7b4-1a17-49b6-8afb-c621b64516d2
 - datetime: 2023-04-25T03:00:31.500Z
   text: ""
   author: ""
@@ -268,6 +286,8 @@
     - bergie
     - ihmis-suski
   category: navigation
+  origin: auto
+  id: db7460c0-7c7d-4123-b5c8-7ba839da5711
 - datetime: 2023-04-25T04:00:21.500Z
   text: ""
   author: ""
@@ -295,6 +315,8 @@
     - bergie
     - ihmis-suski
   category: navigation
+  origin: auto
+  id: 0ff61133-075f-4a2d-a4bf-cd67f363e0bd
 - datetime: 2023-04-25T04:11:19.500Z
   text: Halse to avoid Bornholm traffic separation scheme.
   author: ihmis-suski
@@ -326,6 +348,8 @@
     seaState: 4
     cloudCoverage: 8
     visibility: 7
+  origin: manual
+  id: 0fd0d324-a774-4840-a597-9156dfbd400b
 - datetime: 2023-04-25T05:00:05.400Z
   text: ""
   author: ""
@@ -353,6 +377,8 @@
     - bergie
     - ihmis-suski
   category: navigation
+  origin: auto
+  id: 8f542092-fe21-444b-a3fe-0d11da5cd8bf
 - datetime: 2023-04-25T05:39:43.400Z
   text: "Sails set: Main, Staysail"
   author: ""
@@ -380,6 +406,8 @@
     - bergie
     - ihmis-suski
   category: navigation
+  origin: auto
+  id: f6679b30-c193-410c-9e75-f965877c3e3f
 - datetime: 2023-04-25T06:00:50.400Z
   text: ""
   author: ""
@@ -407,6 +435,8 @@
     - bergie
     - ihmis-suski
   category: navigation
+  origin: auto
+  id: 2099cf24-8b51-45f6-89d3-5964c87731db
 - datetime: 2023-04-25T06:44:41.400Z
   text: "Sails set: Main (1st reef)"
   author: ""
@@ -433,6 +463,8 @@
     - bergie
     - ihmis-suski
   category: navigation
+  origin: auto
+  id: fc7f14ca-24e6-4b90-b583-734afcdc5750
 - datetime: 2023-04-25T06:56:24.400Z
   text: Sails down, motoring
   author: ""
@@ -456,6 +488,8 @@
     - bergie
     - ihmis-suski
   category: navigation
+  origin: auto
+  id: 4358d672-4b0a-4971-bc2c-68dd0f24f95b
 - datetime: 2023-04-25T06:56:59.400Z
   text: Autopilot deactivated
   author: ""
@@ -479,6 +513,8 @@
     - bergie
     - ihmis-suski
   category: navigation
+  origin: auto
+  id: a636defd-d7a6-4653-a373-1509ac44cd30
 - datetime: 2023-04-25T07:00:36.400Z
   text: ""
   author: ""
@@ -502,6 +538,8 @@
     - bergie
     - ihmis-suski
   category: navigation
+  origin: auto
+  id: 9ac2d5bf-2fbe-476d-bf5c-e9f371c282d6
 - datetime: 2023-04-25T07:28:30.400Z
   text: Stopped at Simrishamn Gästhamn
   author: bergie
@@ -526,3 +564,5 @@
     - ihmis-suski
   end: true
   category: navigation
+  origin: manual
+  id: 3a4aefc4-31f0-4c5f-b80e-41f2d69003c4

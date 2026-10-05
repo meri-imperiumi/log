@@ -22,6 +22,8 @@
     - bergie
     - bernhard
   category: navigation
+  origin: auto
+  id: b72c48ae-abae-457a-842f-8eb098286a06
 - datetime: 2023-06-16T06:28:31.900Z
   text: Motoring
   author: ""
@@ -46,6 +48,8 @@
     - bergie
     - bernhard
   category: navigation
+  origin: auto
+  id: 52db5e23-d90c-4432-a9e5-d083fc77ad6a
 - datetime: 2023-06-16T06:32:02.899Z
   text: Autopilot activated
   author: ""
@@ -70,6 +74,8 @@
     - bergie
     - bernhard
   category: navigation
+  origin: auto
+  id: df2d144c-45c1-4f3d-b109-4b850d3ef821
 - datetime: 2023-06-16T06:51:54.899Z
   text: Motor stopped, sailing with Parasailor
   author: ""
@@ -94,6 +100,8 @@
     - bergie
     - bernhard
   category: navigation
+  origin: auto
+  id: e78e36d4-5169-46bb-bd25-48c638c3834b
 - datetime: 2023-06-16T07:00:20.899Z
   text: ""
   author: ""
@@ -118,6 +126,8 @@
     - bergie
     - bernhard
   category: navigation
+  origin: auto
+  id: 9e8689a5-4969-4502-8055-4da62be3e0dd
 - datetime: 2023-06-16T08:00:02.899Z
   text: ""
   author: bergie
@@ -146,6 +156,8 @@
     seaState: 1
     cloudCoverage: 1
     visibility: 8
+  origin: manual
+  id: bd50768c-0478-413b-9226-a457a67cded9
 - datetime: 2023-06-16T08:42:28.000Z
   text: Autopilot set to wind mode. Not enough apparent wind for the vane
   author: bergie
@@ -170,6 +182,8 @@
     - bergie
     - bernhard
   category: navigation
+  origin: manual
+  id: 8fe3acd6-1589-41d4-87a0-1543c39edf53
 - datetime: 2023-06-16T09:00:56.998Z
   text: ""
   author: ""
@@ -194,6 +208,8 @@
     - bergie
     - bernhard
   category: navigation
+  origin: auto
+  id: 98fe6d00-7a6e-4f3f-bd58-cc21039431db
 - datetime: 2023-06-16T10:00:44.000Z
   text: ""
   author: bergie
@@ -222,6 +238,8 @@
     seaState: 2
     cloudCoverage: 0
     visibility: 8
+  origin: manual
+  id: d7254189-de35-4d4b-9470-84d4a0549f29
 - datetime: 2023-06-16T11:00:31.001Z
   text: ""
   author: ""
@@ -246,6 +264,8 @@
     - bergie
     - bernhard
   category: navigation
+  origin: auto
+  id: f76ab2d3-96e1-4360-baf5-2415f3768b57
 - datetime: 2023-06-16T12:00:20.998Z
   text: "Waves slightly picking up "
   author: bergie
@@ -274,6 +294,8 @@
     cloudCoverage: 1
     seaState: 2
     visibility: 8
+  origin: manual
+  id: 8d796f67-b60f-4e8e-8362-fbcecb5d0a26
 - datetime: 2023-06-16T13:00:10.000Z
   text: ""
   author: ""
@@ -298,6 +320,8 @@
     - bergie
     - bernhard
   category: navigation
+  origin: auto
+  id: 5029f919-1a1a-43dc-b0bf-9a2d3598714d
 - datetime: 2023-06-16T14:00:00.000Z
   text: ""
   author: ""
@@ -322,6 +346,8 @@
     - bergie
     - bernhard
   category: navigation
+  origin: auto
+  id: 53b9cd80-2645-44f2-8ada-4fee91c0f8f9
 - datetime: 2023-06-16T15:00:53.401Z
   text: ""
   author: bergie
@@ -350,6 +376,8 @@
     seaState: 3
     cloudCoverage: 0
     visibility: 8
+  origin: manual
+  id: a46c88d9-8422-4f96-b23e-9b0196c49288
 - datetime: 2023-06-16T16:00:50.400Z
   text: ""
   author: ""
@@ -374,6 +402,8 @@
     - bergie
     - bernhard
   category: navigation
+  origin: auto
+  id: 00b9ff26-d9b8-412c-a9cc-a98831a17028
 - datetime: 2023-06-16T17:00:46.400Z
   text: ""
   author: ""
@@ -398,6 +428,8 @@
     - bergie
     - bernhard
   category: navigation
+  origin: auto
+  id: b970c743-090d-4c8c-94fe-92856dae55b6
 - datetime: 2023-06-16T18:00:39.398Z
   text: Bernhard on watch, Bergie to bed
   author: bergie
@@ -422,6 +454,8 @@
     - bergie
     - bernhard
   category: navigation
+  origin: manual
+  id: 84d46692-80df-4800-a923-bfa5bc9a09ed
 - datetime: 2023-06-16T18:45:54.400Z
   text: We just had a short DC system outage. Weird. Turned autopilot off, causing
     some Parasailor trouble
@@ -446,6 +480,8 @@
     - bergie
     - bernhard
   category: navigation
+  origin: manual
+  id: 17d22307-ff25-432e-950a-207d8b840733
 - datetime: 2023-06-16T19:54:58.400Z
   text: Autopilot deactivated
   author: ""
@@ -470,6 +506,8 @@
     - bergie
     - bernhard
   category: navigation
+  origin: auto
+  id: 4edc232d-5774-47e9-b6b0-767fb3250f8b
 - datetime: 2023-06-16T19:59:57.401Z
   text: Autopilot set to wind mode. Had to go to 130deg TWA to keep Parasailor
     filled in the swell
@@ -495,6 +533,8 @@
     - bergie
     - bernhard
   category: navigation
+  origin: manual
+  id: c8ddfbc7-59e3-4ca5-a2ec-d761f8f381f9
 - datetime: 2023-06-16T20:13:43.398Z
   text: Autopilot deactivated
   author: ""
@@ -519,6 +559,8 @@
     - bergie
     - bernhard
   category: navigation
+  origin: auto
+  id: 91e0402e-60ef-4434-80d4-f5ff3887efb6
 - datetime: 2023-06-16T20:20:40.396Z
   text: Autopilot set to wind mode, 110deg TWA
   author: bergie
@@ -543,6 +585,8 @@
     - bergie
     - bernhard
   category: navigation
+  origin: manual
+  id: 0fdbcaa1-e48e-42ff-b115-745e66f1dea1
 - datetime: 2023-06-16T21:00:13.401Z
   text: ""
   author: ""
@@ -567,6 +611,8 @@
     - bergie
     - bernhard
   category: navigation
+  origin: auto
+  id: ab01d4f1-7346-4d84-aed1-b6182c10974a
 - datetime: 2023-06-16T21:44:07.398Z
   text: Bergie on watch, Bernhard to bed
   author: bergie
@@ -595,6 +641,8 @@
     seaState: 3
     cloudCoverage: 1
     visibility: 7
+  origin: manual
+  id: 946f5bd1-077a-41d6-bb6f-d0b0cff37bc4
 - datetime: 2023-06-16T22:00:04.403Z
   text: ""
   author: bergie
@@ -623,6 +671,8 @@
     seaState: 2
     cloudCoverage: 0
     visibility: 7
+  origin: manual
+  id: 46a74797-505c-482a-ba36-a4958a5d9002
 - datetime: 2023-06-16T23:00:58.400Z
   text: ""
   author: ""
@@ -646,3 +696,6 @@
   crewNames:
     - bergie
     - bernhard
+  category: navigation
+  origin: auto
+  id: c99d6efa-a94f-4261-99e3-f1f7a9e25859

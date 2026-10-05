@@ -1,12 +1,18 @@
 - datetime: 2022-09-10T04:55:00.000Z
   text: Motor on
   category: navigation
+  origin: auto
+  id: 487d11d1-9dda-446a-ae65-6cf544650ac2
 - datetime: 2022-09-10T05:05:00.000Z
   text: Leaving Kalmar harbour
   category: navigation
+  origin: auto
+  id: eec4639e-6050-4d22-a6ef-971705703ac5
 - datetime: 2022-09-10T05:09:00.000Z
   text: Main sail up, motorsailing
   category: navigation
+  origin: auto
+  id: 7be1504a-e348-4d45-be13-45fb2854d332
 - datetime: 2022-09-10T05:34:00.000Z
   text: Breakfast pizza slices. Bergie had coffee, Suski to off watch
   category: navigation
@@ -22,6 +28,8 @@
     longitude: 16.3625
     latitude: 56.636667
     source: GPS
+  origin: auto
+  id: d1c87a2d-aef4-44f7-a3f8-a0f958d5b938
 - datetime: 2022-09-10T07:21:00.000Z
   text: Motor off
   category: navigation
@@ -36,6 +44,8 @@
     longitude: 16.263056
     latitude: 56.482778
     source: GPS
+  origin: auto
+  id: b3fc4a32-a9b8-429d-b5eb-f37f9434f398
 - datetime: 2022-09-10T10:15:00.000Z
   text: Big 180° windshift from 350 to 150°
   category: navigation
@@ -43,6 +53,8 @@
     speed: 11
   observations:
     cloudCoverage: 8
+  origin: auto
+  id: 9f6e5ec2-d0a8-4bdd-b54a-2587a9ab0ca2
 - datetime: 2022-09-10T10:58:00.000Z
   text: Suski on duty, on tacking angles
   category: navigation
@@ -57,6 +69,8 @@
     longitude: 16.165
     latitude: 56.382778
     source: GPS
+  origin: auto
+  id: eeb5785c-d64c-42d2-8cf1-3d91ae92e41d
 - datetime: 2022-09-10T14:28:00.000Z
   text: Motor on. Frustration high.
   category: navigation
@@ -71,6 +85,8 @@
     longitude: 16.151667
     latitude: 56.3025
     source: GPS
+  origin: auto
+  id: df4b8f1b-3908-40fb-a46d-0ff38c7ff2bb
 - datetime: 2022-09-10T16:10:00.000Z
   text: Motor off, back to sailing
   category: navigation
@@ -85,6 +101,8 @@
     longitude: 16.061944
     latitude: 56.175556
     source: GPS
+  origin: auto
+  id: a154a346-27c2-423c-949e-3bfe00bcd35c
 - datetime: 2022-09-10T16:50:00.000Z
   text: Suski out, bergie in sail duty.
   category: navigation
@@ -99,6 +117,8 @@
     longitude: 16.034167
     latitude: 56.138333
     source: GPS
+  origin: auto
+  id: ddfa8c7a-9367-4575-a20d-4307efe5a839
 - datetime: 2022-09-10T22:57:00.000Z
   text: Suski on duty
   category: navigation
@@ -113,3 +133,5 @@
     longitude: 15.64
     latitude: 55.656667
     source: GPS
+  origin: auto
+  id: 7fed1805-c0ff-408f-b654-fe1a71d23d01

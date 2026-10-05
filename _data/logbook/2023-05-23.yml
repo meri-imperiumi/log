@@ -24,6 +24,8 @@
     - bergie
     - ihmis-suski
   category: navigation
+  origin: auto
+  id: 80ba8fbe-ab98-4a3d-88d9-9cd435ac689b
 - datetime: 2023-05-23T09:36:42.800Z
   text: "Detached buoy, motoring. Autopilot activated "
   author: bergie
@@ -54,6 +56,8 @@
     cloudCoverage: 1
     seaState: 1
     visibility: 8
+  origin: manual
+  id: d1c05257-e731-47a7-9afd-ce81cee3ed95
 - datetime: 2023-05-23T09:53:52.800Z
   text: Motor stopped, sailing with Parasailor
   author: ""
@@ -80,6 +84,8 @@
     - bergie
     - ihmis-suski
   category: navigation
+  origin: auto
+  id: 9849f87d-7e3b-4802-9721-0dd95d0aeee6
 - datetime: 2023-05-23T10:00:11.801Z
   text: ""
   author: ""
@@ -106,6 +112,8 @@
     - bergie
     - ihmis-suski
   category: navigation
+  origin: auto
+  id: e2efb3a9-6e1e-49e9-8117-c663ed5e25bd
 - datetime: 2023-05-23T11:00:52.800Z
   text: ""
   author: ""
@@ -132,6 +140,8 @@
     - bergie
     - ihmis-suski
   category: navigation
+  origin: auto
+  id: 046f9d30-0461-41a5-9a1b-72ab24251e5c
 - datetime: 2023-05-23T11:26:44.800Z
   text: Autopilot deactivated, not enough wind
   author: bergie
@@ -155,6 +165,8 @@
     - bergie
     - ihmis-suski
   category: navigation
+  origin: manual
+  id: 57381818-25d4-4dbd-b49c-0249f4426dac
 - datetime: 2023-05-23T11:32:43.801Z
   text: "Autopilot activated "
   author: bergie
@@ -178,6 +190,8 @@
     - bergie
     - ihmis-suski
   category: navigation
+  origin: manual
+  id: 824d269c-a279-4bed-9a07-9f3f2c10df49
 - datetime: 2023-05-23T12:00:34.800Z
   text: ""
   author: ""
@@ -201,6 +215,8 @@
     - bergie
     - ihmis-suski
   category: navigation
+  origin: auto
+  id: 90430157-aa66-497f-b656-b14b427764b6
 - datetime: 2023-05-23T12:16:43.801Z
   text: "Sails set: Main (2nd reef), Parasailor"
   author: ""
@@ -224,6 +240,8 @@
     - bergie
     - ihmis-suski
   category: navigation
+  origin: auto
+  id: 55818827-558f-42da-be4c-43fb5ecdd02c
 - datetime: 2023-05-23T13:00:20.899Z
   text: ""
   author: ""
@@ -247,6 +265,8 @@
     - bergie
     - ihmis-suski
   category: navigation
+  origin: auto
+  id: a2b982db-6a6d-45bf-9e47-b5b6c6cf95f9
 - datetime: 2023-05-23T13:02:04.899Z
   text: "Sails set: Parasailor"
   author: ""
@@ -270,6 +290,8 @@
     - bergie
     - ihmis-suski
   category: navigation
+  origin: auto
+  id: aa76f316-685d-4318-a0b8-36953af8c6a9
 - datetime: 2023-05-23T14:00:05.900Z
   text: ""
   author: bergie
@@ -297,6 +319,8 @@
     seaState: 2
     cloudCoverage: 3
     visibility: 7
+  origin: manual
+  id: a3613ab2-5681-4ab0-bdfe-b639b09caf52
 - datetime: 2023-05-23T14:33:58.899Z
   text: This was the first four-line gybe of the Parasailor from the cockpit.
     Worked nicely!
@@ -321,6 +345,8 @@
     - bergie
     - ihmis-suski
   category: navigation
+  origin: manual
+  id: ff1f1901-213b-476d-9605-e01b5488781f
 - datetime: 2023-05-23T15:00:51.897Z
   text: ""
   author: ""
@@ -344,6 +370,8 @@
     - bergie
     - ihmis-suski
   category: navigation
+  origin: auto
+  id: 6e56964d-52fc-4e88-ba5b-b69e6b378f51
 - datetime: 2023-05-23T15:16:47.897Z
   text: Second managed gybe
   author: bergie
@@ -367,6 +395,8 @@
     - bergie
     - ihmis-suski
   category: navigation
+  origin: manual
+  id: 6c0a8b3b-dfe5-4735-b261-e024540fb765
 - datetime: 2023-05-23T15:27:44.902Z
   text: "Third gybe didn't go as well, as untensioned tack line wrapped around a
     position light. Need to move more slowly "
@@ -391,6 +421,8 @@
     - bergie
     - ihmis-suski
   category: navigation
+  origin: manual
+  id: d43160de-3182-4357-9cda-de31e565bc73
 - datetime: 2023-05-23T15:59:42.899Z
   text: "Sails set: Genoa 1. Wind increasing so time to take down Parasailor. For
     some reason the spi sock is wrong way around (red-green)"
@@ -415,6 +447,8 @@
     - bergie
     - ihmis-suski
   category: navigation
+  origin: manual
+  id: 5fedae89-829e-4b41-a621-3a10a2cec1b1
 - datetime: 2023-05-23T16:00:37.900Z
   text: ""
   author: ""
@@ -438,6 +472,8 @@
     - bergie
     - ihmis-suski
   category: navigation
+  origin: auto
+  id: cd3cb02a-2716-43be-9457-b054c3ef75e0
 - datetime: 2023-05-23T16:32:17.900Z
   text: "Sails set: Main, Genoa 1"
   author: ""
@@ -461,6 +497,8 @@
     - bergie
     - ihmis-suski
   category: navigation
+  origin: auto
+  id: 49408576-f80c-4c3c-a682-298c04b9cc49
 - datetime: 2023-05-23T16:51:25.900Z
   text: "Autopilot deactivated "
   author: bergie
@@ -484,6 +522,8 @@
     - bergie
     - ihmis-suski
   category: navigation
+  origin: manual
+  id: beb8638f-0325-4743-b1e0-bdc65ab450f3
 - datetime: 2023-05-23T17:00:23.897Z
   text: ""
   author: ""
@@ -507,6 +547,8 @@
     - bergie
     - ihmis-suski
   category: navigation
+  origin: auto
+  id: 494f6a18-0091-4ca6-bd25-6443305dbd7d
 - datetime: 2023-05-23T17:02:41.900Z
   text: Sails down, motoring
   author: ""
@@ -530,6 +572,8 @@
     - bergie
     - ihmis-suski
   category: navigation
+  origin: auto
+  id: da5a656f-4770-468c-b0f9-3082733ed7ae
 - datetime: 2023-05-23T18:00:12.902Z
   text: ""
   author: ""
@@ -556,6 +600,8 @@
     - bergie
     - ihmis-suski
   category: navigation
+  origin: auto
+  id: d205100b-aac6-4e28-b37a-c332ee5e22d0
 - datetime: 2023-05-23T18:21:44.902Z
   text: Stopped, Ulvöhamn town dock
   author: bergie
@@ -583,3 +629,5 @@
     - ihmis-suski
   end: true
   category: navigation
+  origin: manual
+  id: 71bc437d-3abd-440f-990b-9ff8086793db

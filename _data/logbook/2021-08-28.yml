@@ -1,16 +1,24 @@
 - datetime: 2021-08-28T07:37:00.000Z
   text: Leaving the pier under engine
   category: navigation
+  origin: auto
+  id: 1fe835af-ba3f-497c-8d16-63864e616e04
 - datetime: 2021-08-28T07:51:00.000Z
   text: Sails up, heading towards Karlskrona
   category: navigation
   course: 89
+  origin: auto
+  id: b56adad4-cd1b-47c6-b40b-aeab2348ec82
 - datetime: 2021-08-28T11:28:00.000Z
   text: Motor on, sails down. Karlskrona directly upwind in channel
   category: navigation
   course: 5
+  origin: auto
+  id: e449bc4f-17c0-4a2e-84b9-ee1b0d2d43ab
 - datetime: 2021-08-28T12:53:00.000Z
   text: Tied up in Karlskrona Marina
   category: navigation
   engine:
     hours: 236
+  origin: auto
+  id: de1ca030-c92d-43ff-bafb-27d634fecbeb

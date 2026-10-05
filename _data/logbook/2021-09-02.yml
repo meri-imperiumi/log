@@ -3,6 +3,8 @@
   category: navigation
   wind:
     speed: 15
+  origin: auto
+  id: a40fa17b-457d-439b-bf84-9cc0777c46c8
 - datetime: 2021-09-02T07:30:00.000Z
   text: Sails up, motor off
   category: navigation
@@ -12,6 +14,8 @@
   observations:
     seaState: 3
     cloudCoverage: 0
+  origin: auto
+  id: f1d02660-29d5-49de-9b2c-d9a4ab080338
 - datetime: 2021-09-02T09:00:00.000Z
   text: Gybing towards Bornholm. Suski has to manage main sheet to prevent gybes
   category: navigation
@@ -21,9 +25,13 @@
   observations:
     seaState: 3
     cloudCoverage: 1
+  origin: auto
+  id: d3651c7d-d794-4c24-943f-6d2921b97ad0
 - datetime: 2021-09-02T09:58:00.000Z
   text: Dropped main, continuing on fock only
   category: navigation
+  origin: auto
+  id: d3d068c1-d7f1-4d12-9320-04530f64bdd9
 - datetime: 2021-09-02T10:02:00.000Z
   text: Heading towards Svaneke
   category: navigation
@@ -33,11 +41,17 @@
   observations:
     seaState: 3
     cloudCoverage: 0
+  origin: auto
+  id: 0aa2e085-666a-4661-bd37-1bc2a246296e
 - datetime: 2021-09-02T10:08:00.000Z
   text: Motor on, fock down
   category: navigation
+  origin: auto
+  id: 8a7c8779-475a-4b96-950f-f21ae79f6425
 - datetime: 2021-09-02T10:50:00.000Z
   text: Tied up in a box (only free one) in Svaneke
   category: navigation
   engine:
     hours: 241.9
+  origin: auto
+  id: cfe3d747-1c98-42e4-baaf-84f0989e2955

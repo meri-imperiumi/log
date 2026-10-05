@@ -12,6 +12,8 @@
     longitude: 14.780556
     latitude: 54.445
     source: GPS
+  origin: auto
+  id: cff78a56-6ead-4a13-94d8-1ca435569903
 - datetime: 2022-04-29T06:58:00.000Z
   text: Land ahoy! Suski on watch
   category: navigation
@@ -26,6 +28,8 @@
     longitude: 15.028333
     latitude: 54.693333
     source: GPS
+  origin: auto
+  id: 8c5fb04d-3ed1-40ef-a0eb-8eeaf2ea2bd9
 - datetime: 2022-04-29T10:09:00.000Z
   text: Getting absolutely nowhere. Going to find wind.
   category: navigation
@@ -40,6 +44,8 @@
     longitude: 15.091667
     latitude: 54.797778
     source: GPS
+  origin: auto
+  id: 21de290e-5ac0-474c-ade8-4012a02a6ed4
 - datetime: 2022-04-29T11:00:00.000Z
   text: Bergie in Suski out. Parasailor lines prepped
   category: navigation
@@ -54,6 +60,8 @@
     longitude: 15.185
     latitude: 54.858333
     source: GPS
+  origin: auto
+  id: f846d762-c048-4386-b335-34348bc38336
 - datetime: 2022-04-29T12:39:00.000Z
   text: Motor out
   category: navigation
@@ -61,6 +69,8 @@
     longitude: 15.235
     latitude: 54.988889
     source: GPS
+  origin: auto
+  id: 1e05ea79-b408-4dea-80a1-440919e4474f
 - datetime: 2022-04-29T13:00:00.000Z
   text: Parasailor up, main sail down. 3kt
   category: navigation
@@ -69,6 +79,8 @@
     sog: 3
   wind:
     speed: 6
+  origin: auto
+  id: fc222ff5-6dee-4280-8f9a-3427c6096628
 - datetime: 2022-04-29T14:55:00.000Z
   text: Suski on duty, Parasailoring downwind at 3kt
   category: navigation
@@ -85,6 +97,8 @@
     longitude: 15.301667
     latitude: 55.076389
     source: GPS
+  origin: auto
+  id: 5894ad63-ba8c-424c-b139-39539546f9e9
 - datetime: 2022-04-29T16:13:00.000Z
   text: Heard Mayday relay in Danish, coordinates sound like west of Bornholm IMMER
   category: radio
@@ -95,6 +109,8 @@
     longitude: 15.351667
     latitude: 55.131667
     source: GPS
+  origin: auto
+  id: 1196a8e9-e4f1-44a7-bb14-42cba9325f0f
 - datetime: 2022-04-29T17:05:00.000Z
   text: Suski out Bergie in.
   category: navigation
@@ -109,6 +125,8 @@
     longitude: 15.373333
     latitude: 55.176111
     source: GPS
+  origin: auto
+  id: b19ad439-b9cd-42ea-8971-9b5be3b7dbfb
 - datetime: 2022-04-29T18:58:00.000Z
   text: Suski in, Bergie to bed. Smooth ride on Parasailor, 4.5kt
   category: navigation
@@ -125,6 +143,8 @@
     longitude: 15.37
     latitude: 55.291667
     source: GPS
+  origin: auto
+  id: 97bb7e08-bba0-4883-a25b-9769fb1132ce
 - datetime: 2022-04-29T21:04:00.000Z
   text: Parasailor down, white sails up 2kt
   category: navigation
@@ -137,11 +157,15 @@
     longitude: 15.418333
     latitude: 55.395
     source: GPS
+  origin: auto
+  id: d0b1cca4-9fd2-45b5-91ff-1f86c70d979b
 - datetime: 2022-04-29T22:40:00.000Z
   text: Motor on
   category: navigation
   wind:
     speed: 4
+  origin: auto
+  id: 9445247c-d053-4d49-80ed-a54aed3438ca
 - datetime: 2022-04-29T23:00:00.000Z
   text: Suski to bed Bergie on frogger duty!
   category: navigation
@@ -156,3 +180,5 @@
     longitude: 15.405
     latitude: 55.465
     source: GPS
+  origin: auto
+  id: 0c9ce611-ec4f-401c-8132-a7e48a8d9dc2

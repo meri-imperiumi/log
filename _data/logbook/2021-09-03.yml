@@ -1,6 +1,8 @@
 - datetime: 2021-09-03T10:10:00.000Z
   text: Motor on, out of the harbour
   category: navigation
+  origin: auto
+  id: ebb32b80-dbef-415a-8242-449ed4c6d3b1
 - datetime: 2021-09-03T10:20:00.000Z
   text: Sails up motor off
   category: navigation
@@ -10,6 +12,8 @@
   observations:
     seaState: 2
     cloudCoverage: 8
+  origin: auto
+  id: f97ba4bb-03e3-4ed9-a005-26a9965e1d1b
 - datetime: 2021-09-03T11:43:00.000Z
   text: Passing east marker south of Nexø
   category: navigation
@@ -19,6 +23,8 @@
   observations:
     seaState: 3
     cloudCoverage: 7
+  origin: auto
+  id: 4ba0afb2-2086-47b1-9899-8956c7f3d296
 - datetime: 2021-09-03T12:22:00.000Z
   text: Wind shift to easterly, confused seas. Gybed
   category: navigation
@@ -28,11 +34,15 @@
   observations:
     seaState: 4
     cloudCoverage: 5
+  origin: auto
+  id: 111c9dc3-b93b-4144-a2ef-79642b4db779
 - datetime: 2021-09-03T12:30:00.000Z
   text: Wind died, fock in, reef 1, motor on
   category: navigation
   wind:
     speed: 1
+  origin: auto
+  id: 588f5fbc-e007-42f7-aff5-5b0c4b652d33
 - datetime: 2021-09-03T12:45:00.000Z
   text: Full wind shift, motor off and fock out
   category: navigation
@@ -42,6 +52,8 @@
   observations:
     seaState: 4
     cloudCoverage: 4
+  origin: auto
+  id: f977c0e9-d812-4e26-9420-9c53344c4d3a
 - datetime: 2021-09-03T15:05:00.000Z
   text: Shift change Suski out Bergie in. Risotto. Rain ahead
   category: navigation
@@ -51,6 +63,8 @@
   observations:
     seaState: 4
     cloudCoverage: 3
+  origin: auto
+  id: 70808e9d-6bd1-42fb-ab74-0bb6ea92b1ee
 - datetime: 2021-09-03T19:00:00.000Z
   text: Suski on duty, Nissinen off (too slow). Polish courtesy flag up
   category: navigation
@@ -60,6 +74,8 @@
   observations:
     seaState: 4
     cloudCoverage: 3
+  origin: auto
+  id: 64101302-b4a5-465d-95fb-4b65d4eb4105
 - datetime: 2021-09-03T23:00:00.000Z
   text: Shift change. Wind changed from 270 to 160 from 2000 to 0000
   category: navigation
@@ -69,3 +85,5 @@
   observations:
     seaState: 3
     cloudCoverage: 0
+  origin: auto
+  id: f3cd1515-dd5c-43a9-a4d7-61ca53fdcca6

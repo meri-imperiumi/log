@@ -22,6 +22,8 @@
     - bergie
     - ihmis-suski
   category: navigation
+  origin: auto
+  id: 399b0554-e97a-45f5-8b43-651ef16e583d
 - datetime: 2023-06-28T09:18:46.899Z
   text: Motoring
   author: ""
@@ -46,6 +48,8 @@
     - bergie
     - ihmis-suski
   category: navigation
+  origin: auto
+  id: c05829c9-dea4-4d45-a8e3-d8f92396f375
 - datetime: 2023-06-28T10:00:36.998Z
   text: ""
   author: ""
@@ -70,6 +74,8 @@
     - bergie
     - ihmis-suski
   category: navigation
+  origin: auto
+  id: 851d2b97-4a2c-4cd5-9358-e1802f54b392
 - datetime: 2023-06-28T10:24:38.000Z
   text: Stopped
   author: ""
@@ -95,6 +101,8 @@
     - ihmis-suski
   end: true
   category: navigation
+  origin: auto
+  id: 5919ee89-ffb6-4e4c-be47-bb5d0612ca0c
 - datetime: 2023-06-28T13:53:34.099Z
   text: Intermittent “GPS no fix” alerts from the Triton2. Fixed by N2K bus restart
   author: bergie
@@ -118,3 +126,5 @@
     - bergie
     - ihmis-suski
   category: maintenance
+  origin: manual
+  id: 523764df-196e-4dc2-b317-18bb8de10732

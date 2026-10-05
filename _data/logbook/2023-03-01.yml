@@ -18,6 +18,8 @@
     hours: 503
   vhf: "10"
   category: navigation
+  origin: auto
+  id: 2fe57c02-6543-4bdb-a2b2-7cca19824df2
 - datetime: 2023-03-01T10:01:12.000Z
   text: Anchor up, motoring
   author: ""
@@ -38,6 +40,8 @@
     hours: 503.1
   vhf: "10"
   category: navigation
+  origin: auto
+  id: 8bc2c2e6-cd7d-48b0-b650-25ad43ca4e2e
 - datetime: 2023-03-01T10:10:39.001Z
   text: Autopilot activated
   author: ""
@@ -58,6 +62,8 @@
     hours: 503.2
   vhf: "10"
   category: navigation
+  origin: auto
+  id: d7aafd50-a1a9-43c0-902b-98abce64e554
 - datetime: 2023-03-01T10:39:32.000Z
   text: Autopilot deactivated
   author: ""
@@ -78,6 +84,8 @@
     hours: 503.7
   vhf: "10"
   category: navigation
+  origin: auto
+  id: a1de399f-afcc-4270-bf3e-90046ba1802b
 - datetime: 2023-03-01T10:56:52.000Z
   text: Stopped main engine
   author: ""
@@ -98,6 +106,8 @@
     hours: 504
   vhf: "10"
   category: navigation
+  origin: auto
+  id: fc7c1ccf-8d09-4cb7-86bd-d88bf5088410
 - datetime: 2023-03-01T10:56:52.998Z
   text: Stopped
   author: ""
@@ -119,3 +129,5 @@
   vhf: "10"
   end: true
   category: navigation
+  origin: auto
+  id: d46fd2cc-2f8c-4602-82cd-bfac581a872f

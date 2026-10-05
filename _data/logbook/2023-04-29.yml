@@ -25,6 +25,8 @@
   observations:
     seaState: 2
     cloudCoverage: 2
+  origin: manual
+  id: becf6a50-92d4-4aad-a433-c89c12e0da00
 - datetime: 2023-04-29T01:00:33.900Z
   text: ""
   author: ""
@@ -52,6 +54,8 @@
     - bergie
     - ihmis-suski
   category: navigation
+  origin: auto
+  id: 51c7db16-25ca-4849-82a6-5a83553fd581
 - datetime: 2023-04-29T02:00:17.200Z
   text: ""
   author: ""
@@ -79,6 +83,8 @@
     - bergie
     - ihmis-suski
   category: navigation
+  origin: auto
+  id: 0ccbe831-2811-4e21-97bb-61bff2663ab9
 - datetime: 2023-04-29T03:00:01.200Z
   text: The wind should turn more south says forecast, but right now that's not
     what is happening.
@@ -110,6 +116,8 @@
   observations:
     cloudCoverage: 3
     seaState: 2
+  origin: manual
+  id: f4ec1242-09b7-424f-ac56-3443a0aa75e3
 - datetime: 2023-04-29T04:00:45.200Z
   text: ""
   author: bergie
@@ -141,6 +149,8 @@
     cloudCoverage: 4
     seaState: 2
     visibility: 7
+  origin: manual
+  id: 39fdd3fc-72fb-4454-9a44-e1085bdd679a
 - datetime: 2023-04-29T05:00:30.200Z
   text: ""
   author: bergie
@@ -171,6 +181,8 @@
   observations:
     seaState: 3
     cloudCoverage: 6
+  origin: manual
+  id: 8b6d7fa1-dbae-4807-8867-a8762b12b2f5
 - datetime: 2023-04-29T06:00:18.200Z
   text: ""
   author: ""
@@ -198,6 +210,8 @@
     - bergie
     - ihmis-suski
   category: navigation
+  origin: auto
+  id: bcff0882-ebc4-458a-bdba-bdf5a607e323
 - datetime: 2023-04-29T06:14:14.200Z
   text: "Bergie out, Suski in. "
   author: ihmis-suski
@@ -229,6 +243,8 @@
     seaState: 2
     cloudCoverage: 6
     visibility: 8
+  origin: manual
+  id: 6a1fe7fa-0534-4de0-a8f7-a53ca1abbfb5
 - datetime: 2023-04-29T07:00:03.100Z
   text: ""
   author: ""
@@ -256,6 +272,8 @@
     - bergie
     - ihmis-suski
   category: navigation
+  origin: auto
+  id: 31bc4a7b-df37-479b-a0dd-68c41412c577
 - datetime: 2023-04-29T07:20:11.100Z
   text: Autopilot activated. Starbuck can't keep up with this little wind without
     the tail.
@@ -284,6 +302,8 @@
     - bergie
     - ihmis-suski
   category: navigation
+  origin: manual
+  id: e147c1ee-462c-499c-9387-62a8b5908e84
 - datetime: 2023-04-29T07:34:21.100Z
   text: Genoa down, motor sailing with full main.
   author: ihmis-suski
@@ -311,6 +331,8 @@
     - bergie
     - ihmis-suski
   category: navigation
+  origin: manual
+  id: 63c33b23-6d30-4c43-99dc-2fa6e0b52828
 - datetime: 2023-04-29T08:00:46.099Z
   text: ""
   author: ""
@@ -338,6 +360,8 @@
     - bergie
     - ihmis-suski
   category: navigation
+  origin: auto
+  id: 132de2aa-30fb-4731-809c-56eb3e681348
 - datetime: 2023-04-29T08:34:37.100Z
   text: Seal!
   author: ihmis-suski
@@ -369,6 +393,8 @@
     seaState: 2
     cloudCoverage: 4
     visibility: 8
+  origin: manual
+  id: 526c1e83-2bc3-45a3-85e6-ec8c0bf7e3fc
 - datetime: 2023-04-29T09:00:29.100Z
   text: ""
   author: ""
@@ -396,6 +422,8 @@
     - bergie
     - ihmis-suski
   category: navigation
+  origin: auto
+  id: 2aec7be0-aceb-487e-856c-6ccd6188c36b
 - datetime: 2023-04-29T09:25:23.100Z
   text: Bergie on watch. Kalmar bridge in the horizon
   author: bergie
@@ -427,6 +455,8 @@
     seaState: 2
     cloudCoverage: 6
     visibility: 8
+  origin: manual
+  id: 9cbee1b0-d507-4d19-84a6-fd83dba9b2e4
 - datetime: 2023-04-29T10:00:14.099Z
   text: ""
   author: ""
@@ -454,6 +484,8 @@
     - bergie
     - ihmis-suski
   category: navigation
+  origin: auto
+  id: 6f404995-290d-4da1-946f-6a052d968606
 - datetime: 2023-04-29T10:03:25.100Z
   text: Motor stopped, sailing with Main
   author: ""
@@ -481,6 +513,8 @@
     - bergie
     - ihmis-suski
   category: navigation
+  origin: auto
+  id: 615451cd-ab7f-4cd5-ae39-c785ddc76b84
 - datetime: 2023-04-29T10:16:53.100Z
   text: "Sails set: Main, Genoa 1 (30% furled). Poled out wing on wing. Wish we
     had a longer whisker pole "
@@ -513,6 +547,8 @@
     cloudCoverage: 2
     seaState: 2
     visibility: 8
+  origin: manual
+  id: 4e5548be-dad9-4294-83f5-f88edbc35dc1
 - datetime: 2023-04-29T11:00:58.099Z
   text: ""
   author: ""
@@ -540,6 +576,8 @@
     - bergie
     - ihmis-suski
   category: navigation
+  origin: auto
+  id: 686ccf2c-fe35-407d-88c7-7e58a7e582f7
 - datetime: 2023-04-29T11:17:46.099Z
   text: "Sails set: Main, Genoa 1. Removed the pole "
   author: bergie
@@ -567,6 +605,8 @@
   observations:
     cloudCoverage: 3
     seaState: 2
+  origin: manual
+  id: fdb11b9b-0664-44d4-9d21-c09e37df5902
 - datetime: 2023-04-29T12:00:47.100Z
   text: ""
   author: ""
@@ -591,6 +631,8 @@
     - bergie
     - ihmis-suski
   category: navigation
+  origin: auto
+  id: 25f7515a-4e58-40f4-9d5f-30ba452d8cc0
 - datetime: 2023-04-29T12:57:35.500Z
   text: Under the Kalmar bridge
   author: bergie
@@ -618,6 +660,8 @@
   observations:
     cloudCoverage: 2
     seaState: 2
+  origin: manual
+  id: d363a924-a9a7-4194-a226-f3f1674b52e1
 - datetime: 2023-04-29T13:00:35.500Z
   text: ""
   author: ""
@@ -642,6 +686,8 @@
     - bergie
     - ihmis-suski
   category: navigation
+  origin: auto
+  id: 19c32d4b-b95e-4b81-aa3a-a400be74bebc
 - datetime: 2023-04-29T13:33:49.500Z
   text: Autopilot deactivated, back to windvane
   author: bergie
@@ -666,6 +712,8 @@
     - bergie
     - ihmis-suski
   category: navigation
+  origin: manual
+  id: 16ba8797-58ab-4a51-ab10-e11d83443fe6
 - datetime: 2023-04-29T14:00:21.500Z
   text: Suski on watch
   author: bergie
@@ -693,6 +741,8 @@
     - bergie
     - ihmis-suski
   category: navigation
+  origin: manual
+  id: f4399257-6ee6-486f-ad5d-dcb4f15b3638
 - datetime: 2023-04-29T14:40:53.500Z
   text: "Sails set: Main (1st reef), Staysail"
   author: ""
@@ -720,6 +770,8 @@
     - bergie
     - ihmis-suski
   category: navigation
+  origin: auto
+  id: f64eda07-c073-4fb0-bb6c-1cfa1c9a6597
 - datetime: 2023-04-29T15:00:09.497Z
   text: ""
   author: ""
@@ -747,6 +799,8 @@
     - bergie
     - ihmis-suski
   category: navigation
+  origin: auto
+  id: 10964171-2789-4bb1-b84a-ae01b1a31e5e
 - datetime: 2023-04-29T15:14:30.502Z
   text: Sails down, motoring
   author: ""
@@ -774,6 +828,8 @@
     - bergie
     - ihmis-suski
   category: navigation
+  origin: auto
+  id: 5dac2e96-e1b0-4336-bbcf-cf326e6e4777
 - datetime: 2023-04-29T16:00:56.499Z
   text: ""
   author: ""
@@ -801,6 +857,8 @@
     - bergie
     - ihmis-suski
   category: navigation
+  origin: auto
+  id: 319498e3-65bb-4a1a-a318-1114890eb279
 - datetime: 2023-04-29T16:22:03.500Z
   text: Stopped at Pataholm SXK buoy
   author: bergie
@@ -829,3 +887,5 @@
     - ihmis-suski
   end: true
   category: navigation
+  origin: manual
+  id: 811a430b-8c1f-4e1c-85ec-7db901f3a504

@@ -23,6 +23,8 @@
   crewNames:
     - bergie
   category: navigation
+  origin: auto
+  id: 8d92d1b0-bfa4-4148-8e3e-2aef18d542eb
 - datetime: 2023-04-24T10:28:04.899Z
   text: Started main engine
   author: ""
@@ -50,6 +52,8 @@
     - bergie
     - ihmis-suski
   category: navigation
+  origin: auto
+  id: 1de805ad-1c54-4cc9-bf46-a6cac46669ee
 - datetime: 2023-04-24T10:34:32.899Z
   text: Motoring
   author: bergie
@@ -77,6 +81,8 @@
     - bergie
     - ihmis-suski
   category: navigation
+  origin: manual
+  id: bd11dd37-038a-4834-9f52-28f57b5c5072
 - datetime: 2023-04-24T10:39:19.900Z
   text: Motor stopped, sailing with Main
   author: bergie
@@ -104,6 +110,8 @@
     - bergie
     - ihmis-suski
   category: navigation
+  origin: manual
+  id: c3dd2d74-f271-42b9-92a3-36156fb76535
 - datetime: 2023-04-24T10:51:48.899Z
   text: Autopilot activated
   author: ""
@@ -131,6 +139,8 @@
     - bergie
     - ihmis-suski
   category: navigation
+  origin: auto
+  id: 2f55b2e5-9a0e-4d7e-b0ce-5b3bcefa65e5
 - datetime: 2023-04-24T10:52:56.899Z
   text: "Sails set: Main, Staysail. Base wind would be fine with Genoa, but the
     gusts are somewhat vicious"
@@ -162,6 +172,8 @@
   observations:
     seaState: 2
     cloudCoverage: 4
+  origin: manual
+  id: 7b77905d-8a6a-4f6f-807a-1fcb9c5c205e
 - datetime: 2023-04-24T11:00:25.900Z
   text: ""
   author: ""
@@ -189,6 +201,8 @@
     - bergie
     - ihmis-suski
   category: navigation
+  origin: auto
+  id: 08163aa0-3772-4b38-be4b-95274fa40989
 - datetime: 2023-04-24T11:33:43.900Z
   text: Autopilot deactivated
   author: ""
@@ -216,6 +230,8 @@
     - bergie
     - ihmis-suski
   category: navigation
+  origin: auto
+  id: f29eaff5-b848-4522-8b42-2ef0d4b4bfff
 - datetime: 2023-04-24T12:00:11.900Z
   text: ""
   author: ""
@@ -243,6 +259,8 @@
     - bergie
     - ihmis-suski
   category: navigation
+  origin: auto
+  id: 4e008945-d9a4-4803-8cf5-56908a3fdffd
 - datetime: 2023-04-24T12:38:20.899Z
   text: "Sails set: Main, Genoa 1, Staysail"
   author: ""
@@ -270,6 +288,8 @@
     - bergie
     - ihmis-suski
   category: navigation
+  origin: auto
+  id: f2b82310-81b5-4abf-a3ae-37587e7ff7e7
 - datetime: 2023-04-24T12:48:09.900Z
   text: "Sails set: Main, Genoa 1"
   author: bergie
@@ -300,6 +320,8 @@
   observations:
     seaState: 2
     cloudCoverage: 4
+  origin: manual
+  id: ad96a627-4a9c-46b7-a5fa-28421824a513
 - datetime: 2023-04-24T13:00:01.900Z
   text: ""
   author: ""
@@ -327,6 +349,8 @@
     - bergie
     - ihmis-suski
   category: navigation
+  origin: auto
+  id: 893842f2-71b0-468e-b270-55e329231398
 - datetime: 2023-04-24T13:05:01.900Z
   text: Autopilot activated
   author: ""
@@ -354,6 +378,8 @@
     - bergie
     - ihmis-suski
   category: navigation
+  origin: auto
+  id: c75ee86e-9da2-4788-b84a-3c63cc4cb53c
 - datetime: 2023-04-24T13:54:08.899Z
   text: Autopilot deactivated
   author: ""
@@ -381,6 +407,8 @@
     - bergie
     - ihmis-suski
   category: navigation
+  origin: auto
+  id: a341b635-995b-4227-ab8c-318eadaae41e
 - datetime: 2023-04-24T14:00:49.900Z
   text: ""
   author: ""
@@ -408,6 +436,8 @@
     - bergie
     - ihmis-suski
   category: navigation
+  origin: auto
+  id: 52e47bad-3f50-49ab-846e-6e65a22ed78e
 - datetime: 2023-04-24T14:05:44.899Z
   text: Autopilot activated. Suski on watch.
   author: bergie
@@ -438,6 +468,8 @@
   observations:
     seaState: 2
     cloudCoverage: 8
+  origin: manual
+  id: 04b817fe-c559-4a3d-818b-071ff4e4618e
 - datetime: 2023-04-24T14:17:45.900Z
   text: Autopilot deactivated, steering on windvane. Rain started
   author: bergie
@@ -465,6 +497,8 @@
     - bergie
     - ihmis-suski
   category: navigation
+  origin: manual
+  id: 018e0b50-58d4-4832-8b42-8bc80189c44f
 - datetime: 2023-04-24T15:00:36.300Z
   text: ""
   author: ""
@@ -492,6 +526,8 @@
     - bergie
     - ihmis-suski
   category: navigation
+  origin: auto
+  id: 1c5e686e-d52a-4182-9680-f25abba24d7b
 - datetime: 2023-04-24T15:32:29.299Z
   text: Rain stopped
   author: ihmis-suski
@@ -520,6 +556,8 @@
     seaState: 2
     cloudCoverage: 7
     visibility: 6
+  origin: manual
+  id: 5db14a20-8bc1-4dea-881c-1ddac88d609a
 - datetime: 2023-04-24T16:02:22.297Z
   text: "Windstill. Got some false entries from automation. "
   author: ihmis-suski
@@ -548,6 +586,8 @@
     cloudCoverage: 7
     seaState: 2
     visibility: 6
+  origin: manual
+  id: 10a9cc8b-79b8-4ce7-9001-abe893fc7c99
 - datetime: 2023-04-24T16:19:32.300Z
   text: Sails down, motoring
   author: ""
@@ -572,6 +612,8 @@
     - bergie
     - ihmis-suski
   category: navigation
+  origin: auto
+  id: 50f6bc01-33d9-401e-958b-d4cad2ab6d99
 - datetime: 2023-04-24T16:20:34.297Z
   text: Autopilot activated
   author: ""
@@ -596,6 +638,8 @@
     - bergie
     - ihmis-suski
   category: navigation
+  origin: auto
+  id: f4eb2c93-19e9-4770-8b46-eff24a0a943f
 - datetime: 2023-04-24T17:00:10.297Z
   text: ""
   author: ""
@@ -620,6 +664,8 @@
     - bergie
     - ihmis-suski
   category: navigation
+  origin: auto
+  id: 2ed3a03c-6655-4d07-bab4-e7587cce3783
 - datetime: 2023-04-24T17:18:05.299Z
   text: Sailing again! Genoa rolled out
   author: ihmis-suski
@@ -644,6 +690,8 @@
     - bergie
     - ihmis-suski
   category: navigation
+  origin: manual
+  id: ff187e35-eb9c-42b1-b563-b52034b3bbc8
 - datetime: 2023-04-24T17:18:39.302Z
   text: Motor stopped, sailing with Main, Genoa 1
   author: ""
@@ -668,6 +716,8 @@
     - bergie
     - ihmis-suski
   category: navigation
+  origin: auto
+  id: 48837b59-3270-4ebf-9242-50b4ccc45849
 - datetime: 2023-04-24T17:22:43.302Z
   text: Autopilot deactivated. Windvane on
   author: ihmis-suski
@@ -692,6 +742,8 @@
     - bergie
     - ihmis-suski
   category: navigation
+  origin: manual
+  id: b4eb964c-aa8b-4ecd-94f6-e9d56f1b25b3
 - datetime: 2023-04-24T17:55:28.300Z
   text: Autopilot activated. Wind changes constantly. More than 40 degree changes
     in few minutes, it is better to Nipa this.
@@ -717,6 +769,8 @@
     - bergie
     - ihmis-suski
   category: navigation
+  origin: manual
+  id: 3ef9b0e6-9cca-4fe7-8ab9-e2f20ab66255
 - datetime: 2023-04-24T18:00:55.302Z
   text: ""
   author: ""
@@ -744,6 +798,8 @@
     - bergie
     - ihmis-suski
   category: navigation
+  origin: auto
+  id: cda8af52-fc1e-43a3-87bd-c7b89667b464
 - datetime: 2023-04-24T18:01:38.297Z
   text: Autopilot deactivated
   author: ""
@@ -771,6 +827,8 @@
     - bergie
     - ihmis-suski
   category: navigation
+  origin: auto
+  id: ece8626e-4cf7-4510-849e-7e5714e994ff
 - datetime: 2023-04-24T18:03:14.297Z
   text: "Sails set: Main"
   author: ""
@@ -798,6 +856,8 @@
     - bergie
     - ihmis-suski
   category: navigation
+  origin: auto
+  id: 47d16dbd-9496-4793-a908-7bfb8cc05aa9
 - datetime: 2023-04-24T18:32:52.300Z
   text: Motoring
   author: ""
@@ -825,6 +885,8 @@
     - bergie
     - ihmis-suski
   category: navigation
+  origin: auto
+  id: 387fd05f-263c-4e53-a74d-cf22d535c666
 - datetime: 2023-04-24T19:00:51.302Z
   text: ""
   author: ""
@@ -852,6 +914,8 @@
     - bergie
     - ihmis-suski
   category: navigation
+  origin: auto
+  id: 02e229f7-43f8-475d-859d-92614dace7c3
 - datetime: 2023-04-24T19:28:45.196Z
   text: "Bergie on watch. Still waiting for the wind to materialize "
   author: bergie
@@ -882,6 +946,8 @@
   observations:
     seaState: 2
     cloudCoverage: 8
+  origin: manual
+  id: 9420eb7a-da5a-439b-8734-4edf529b3c00
 - datetime: 2023-04-24T20:00:35.200Z
   text: ""
   author: ""
@@ -909,6 +975,8 @@
     - bergie
     - ihmis-suski
   category: navigation
+  origin: auto
+  id: d94eb926-990f-47f6-991e-f323f6e69c7f
 - datetime: 2023-04-24T20:03:29.203Z
   text: Motor stopped, sailing with Main
   author: ""
@@ -936,6 +1004,8 @@
     - bergie
     - ihmis-suski
   category: navigation
+  origin: auto
+  id: 84f06eea-66ba-4aba-97ee-3e6fe494f7b4
 - datetime: 2023-04-24T20:13:02.201Z
   text: "Sails set: Main, Genoa 1 (30% furled). Poled out wing on wing"
   author: bergie
@@ -963,6 +1033,8 @@
     - bergie
     - ihmis-suski
   category: navigation
+  origin: manual
+  id: 9f7da5a8-7e9d-4bd9-b350-27aa9295339a
 - datetime: 2023-04-24T20:18:57.203Z
   text: Autopilot deactivated, back to windvane
   author: bergie
@@ -990,6 +1062,8 @@
     - bergie
     - ihmis-suski
   category: navigation
+  origin: manual
+  id: 74279e0b-b34a-4b3e-b0ce-0d4c1d4e1c1a
 - datetime: 2023-04-24T21:00:28.198Z
   text: ""
   author: ""
@@ -1017,6 +1091,8 @@
     - bergie
     - ihmis-suski
   category: navigation
+  origin: auto
+  id: 18f59d54-baba-4ff3-a9d9-803521535125
 - datetime: 2023-04-24T22:00:28.198Z
   text: Past the primary traffic lanes from Kiel canal. Cranberry tea.
   author: bergie
@@ -1047,6 +1123,8 @@
   observations:
     seaState: 3
     cloudCoverage: 4
+  origin: manual
+  id: f4bcbd83-05ab-4aad-9911-19e64d5b1d6a
 - datetime: 2023-04-24T23:00:29.196Z
   text: ""
   author: bergie
@@ -1077,6 +1155,8 @@
   observations:
     cloudCoverage: 2
     seaState: 3
+  origin: manual
+  id: ae8e532d-9b59-4531-9c56-1b52c8afadc5
 - datetime: 2023-04-24T23:43:29.203Z
   text: "Hydrogenerator had slipped and was touching the servo pendulum. Hoisted it "
   author: bergie
@@ -1104,3 +1184,5 @@
     - bergie
     - ihmis-suski
   category: navigation
+  origin: manual
+  id: 7440ed2f-f0fd-428b-9f67-13545d5fdca0

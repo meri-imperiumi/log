@@ -18,6 +18,8 @@
     - ihmis-suski
     - bergie
   category: navigation
+  origin: auto
+  id: 4a51bdfc-fbc0-483d-99dd-060b51a083bf
 - datetime: 2023-04-10T06:34:17.200Z
   text: Stopped at AZS mast crane
   author: bergie
@@ -38,6 +40,8 @@
     - ihmis-suski
     - bergie
   category: navigation
+  origin: manual
+  id: 3b7f7175-968e-49f1-9505-dbd8c66f69e9
 - datetime: 2023-04-10T07:10:41.200Z
   text: Started main engine
   author: ""
@@ -58,6 +62,8 @@
     - ihmis-suski
     - bergie
   category: navigation
+  origin: auto
+  id: a9d20e49-3750-4f0e-a881-b63625a0fb03
 - datetime: 2023-04-10T07:15:48.200Z
   text: Stopped main engine
   author: ""
@@ -78,6 +84,8 @@
     - ihmis-suski
     - bergie
   category: navigation
+  origin: auto
+  id: 116394e1-5d6d-43c7-ac1a-de4e17c7f452
 - datetime: 2023-04-10T07:18:42.200Z
   text: "Stopped. Med mooring so we can install the windvane "
   author: bergie
@@ -101,6 +109,8 @@
   category: navigation
   observations:
     cloudCoverage: 0
+  origin: manual
+  id: 029313d7-db36-4869-8268-4c10cf34bc36
 - datetime: 2023-04-10T14:15:09.200Z
   text: Installed windvane and the hydrogenerator. Both still need some line work,
     and we will need to install the hydrogenerator charge controller
@@ -125,3 +135,5 @@
     - ihmis-suski
     - bergie
   category: maintenance
+  origin: manual
+  id: 690bb388-0e12-4b0c-a438-a4e95ef75371

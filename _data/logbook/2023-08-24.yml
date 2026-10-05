@@ -21,6 +21,8 @@
     - bergie
     - ihmis-suski
   category: navigation
+  origin: manual
+  id: 4a53042d-04b9-47ad-b1e1-61909b1a2b94
 - datetime: 2023-08-24T09:00:55.100Z
   text: ""
   author: ""
@@ -44,6 +46,8 @@
     - bergie
     - ihmis-suski
   category: navigation
+  origin: auto
+  id: d22350e1-8a80-4230-a38c-0bf7f4460204
 - datetime: 2023-08-24T09:05:54.099Z
   text: Stopped
   author: ""
@@ -68,6 +72,8 @@
     - ihmis-suski
   end: true
   category: navigation
+  origin: auto
+  id: dac81bda-1f01-4a51-af68-7c7dc22e2b73
 - datetime: 2023-08-24T11:16:19.600Z
   text: "Pickled the watermaker with 2l membrane preservative solution "
   author: bergie
@@ -91,3 +97,5 @@
     - bergie
     - ihmis-suski
   category: maintenance
+  origin: manual
+  id: 07b0044b-55ce-4180-ba09-c0fa8ecfb086

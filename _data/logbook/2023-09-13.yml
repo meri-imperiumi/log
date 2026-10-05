@@ -22,6 +22,8 @@
     - bergie
     - ihmis-suski
   category: navigation
+  origin: auto
+  id: f5a58139-aaa0-4a6e-bfed-1efadd9663d0
 - datetime: 2023-09-13T00:00:26.600Z
   text: ""
   author: ""
@@ -46,6 +48,8 @@
     - bergie
     - ihmis-suski
   category: navigation
+  origin: auto
+  id: a566460a-99d5-4ae6-a71e-e3c3076f3893
 - datetime: 2023-09-13T00:05:26.600Z
   text: Well. At least the rain stopped. Motoring again to not be in the middle of
     the shipping lane.
@@ -71,6 +75,8 @@
     - bergie
     - ihmis-suski
   category: navigation
+  origin: manual
+  id: ecd3d3f3-a9f8-4ab2-bcc8-dadf80859d91
 - datetime: 2023-09-13T01:00:25.600Z
   text: ""
   author: ""
@@ -95,6 +101,8 @@
     - bergie
     - ihmis-suski
   category: navigation
+  origin: auto
+  id: 7ab2486f-91f7-469d-bc43-98ffc36352ce
 - datetime: 2023-09-13T01:05:25.600Z
   text: Green completely out. Waves hit both lamps periodically.
   author: ihmis-suski
@@ -119,6 +127,8 @@
     - bergie
     - ihmis-suski
   category: maintenance
+  origin: manual
+  id: e0ec938f-85ca-4df6-a0bd-50f3f1bbde1c
 - datetime: 2023-09-13T02:00:23.600Z
   text: Bergie on watch, Suski to bed. Stars ahead are disappearing slowly.
     Another front?
@@ -144,6 +154,8 @@
     - bergie
     - ihmis-suski
   category: navigation
+  origin: manual
+  id: 6c8b9718-63c2-4799-9265-3b11760e4420
 - datetime: 2023-09-13T02:23:16.600Z
   text: Motor stopped, sailing with Main, Genoa 1
   author: ""
@@ -168,6 +180,8 @@
     - bergie
     - ihmis-suski
   category: navigation
+  origin: auto
+  id: 59a0f253-eb7a-45e6-9f7b-d55df0f82269
 - datetime: 2023-09-13T02:39:22.600Z
   text: "Mostly out of the main traffic lanes "
   author: bergie
@@ -196,6 +210,8 @@
     seaState: 2
     cloudCoverage: 2
     visibility: 5
+  origin: manual
+  id: f4562238-ca1a-45bc-9b96-524057c98738
 - datetime: 2023-09-13T02:58:41.600Z
   text: Sails down, motoring
   author: ""
@@ -220,6 +236,8 @@
     - bergie
     - ihmis-suski
   category: navigation
+  origin: auto
+  id: c36bbabc-4e57-4fe0-907c-09f8a615f12c
 - datetime: 2023-09-13T03:00:21.600Z
   text: ""
   author: ""
@@ -244,6 +262,8 @@
     - bergie
     - ihmis-suski
   category: navigation
+  origin: auto
+  id: c02d244f-692a-41f6-a564-de3ea8884a1e
 - datetime: 2023-09-13T04:00:20.600Z
   text: Enveloped by the fog bank. Also 180° wind shift
   author: bergie
@@ -272,6 +292,8 @@
     seaState: 2
     cloudCoverage: 8
     visibility: 1
+  origin: manual
+  id: a13968b7-9279-4586-bc9b-f13d05e970ee
 - datetime: 2023-09-13T04:12:20.600Z
   text: "Visibility maybe four boat lengths, running the fog horn routine. Without
     AIS this would be quite exciting "
@@ -301,6 +323,8 @@
     seaState: 2
     cloudCoverage: 8
     visibility: 0
+  origin: manual
+  id: 57430b95-bcee-44f5-836a-6a0e04f04908
 - datetime: 2023-09-13T04:46:17.600Z
   text: Motor stopped, sailing with Main, Genoa 1
   author: ""
@@ -325,6 +349,8 @@
     - bergie
     - ihmis-suski
   category: navigation
+  origin: auto
+  id: e69cf5d0-60c2-4cbb-9e95-1f67040b2d3e
 - datetime: 2023-09-13T05:00:18.600Z
   text: ""
   author: bergie
@@ -351,6 +377,8 @@
   category: navigation
   observations:
     visibility: 1
+  origin: manual
+  id: e460c175-5051-4570-8640-7fa8f2dfd9ce
 - datetime: 2023-09-13T05:01:24.600Z
   text: Sails down, motoring. With this wind and swell combo we need >6kt to keep
     sails filled
@@ -376,6 +404,8 @@
     - bergie
     - ihmis-suski
   category: navigation
+  origin: manual
+  id: fb9409c3-e64c-45b3-81b4-0ef76df2cf15
 - datetime: 2023-09-13T05:31:17.699Z
   text: The boat is covered with tiny flies. Where do these things come from?
     We're well offshore in international waters
@@ -401,6 +431,8 @@
     - bergie
     - ihmis-suski
   category: navigation
+  origin: manual
+  id: 05bd766b-5d5e-4975-be66-5fd348b387c9
 - datetime: 2023-09-13T06:00:16.700Z
   text: ""
   author: ""
@@ -425,6 +457,8 @@
     - bergie
     - ihmis-suski
   category: navigation
+  origin: auto
+  id: 8a63f71d-e0b9-4636-af65-698b253f74fd
 - datetime: 2023-09-13T06:20:24.700Z
   text: Motor stopped, sailing with Main, Genoa 1
   author: bergie
@@ -452,6 +486,8 @@
   observations:
     cloudCoverage: 8
     visibility: 3
+  origin: manual
+  id: fba2c73c-21e9-4228-be3e-8df4a4482402
 - datetime: 2023-09-13T06:29:16.700Z
   text: "Heard a rumble of thunder in the distance "
   author: bergie
@@ -476,6 +512,8 @@
     - bergie
     - ihmis-suski
   category: navigation
+  origin: manual
+  id: 3d9f7105-841b-4707-acd1-522841b231fd
 - datetime: 2023-09-13T06:50:47.699Z
   text: "Sails set: Main, Genoa 1 (20% furled). Poled out wing on wing "
   author: bergie
@@ -500,6 +538,8 @@
     - bergie
     - ihmis-suski
   category: navigation
+  origin: manual
+  id: 9568ab7e-cbe3-4ea1-a2c6-6aaed39128bb
 - datetime: 2023-09-13T07:00:15.699Z
   text: Sea state quieted enough that we can sail with lower winds again
   author: bergie
@@ -528,6 +568,8 @@
     cloudCoverage: 8
     visibility: 3
     seaState: 1
+  origin: manual
+  id: ff3ee553-a8d2-4ba8-ab89-2682acbf314d
 - datetime: 2023-09-13T07:15:14.700Z
   text: Rain started. No thunder in a while
   author: bergie
@@ -552,6 +594,8 @@
     - bergie
     - ihmis-suski
   category: navigation
+  origin: manual
+  id: 6024d237-d65a-4eba-8ddd-e53583d1abbb
 - datetime: 2023-09-13T07:26:14.700Z
   text: A hawk was circling the boat. Tried to land first on the windvane and then
     on spreaders before thinking better of it
@@ -577,6 +621,8 @@
     - bergie
     - ihmis-suski
   category: navigation
+  origin: manual
+  id: c159164b-5f41-426e-86a8-bf8e87a1a2a5
 - datetime: 2023-09-13T08:00:12.700Z
   text: "Suski on watch. A big flock of birds landed on the boat "
   author: bergie
@@ -601,6 +647,8 @@
     - bergie
     - ihmis-suski
   category: navigation
+  origin: manual
+  id: 628d5a4e-314a-446d-bf7b-4cf675db0856
 - datetime: 2023-09-13T09:00:11.699Z
   text: ""
   author: ""
@@ -625,6 +673,8 @@
     - bergie
     - ihmis-suski
   category: navigation
+  origin: auto
+  id: 44c166b0-568b-4354-bb93-d86ee1fdd236
 - datetime: 2023-09-13T09:13:11.699Z
   text: Slow sailing in rain.
   author: ihmis-suski
@@ -653,6 +703,8 @@
     seaState: 1
     cloudCoverage: 8
     visibility: 6
+  origin: manual
+  id: 52353120-a553-462c-8055-33960732335f
 - datetime: 2023-09-13T09:47:16.700Z
   text: Autopilot deactivated
   author: ""
@@ -677,6 +729,8 @@
     - bergie
     - ihmis-suski
   category: navigation
+  origin: auto
+  id: 9f9cffe3-eefe-4f03-8eea-fb5752a646e2
 - datetime: 2023-09-13T09:48:09.699Z
   text: Speed 0 , wind 1.5 kn. Autopilot on standby with rudder in middle. Waiting
     for wind with all sails up. Flat calm waters. Wind turning towards west
@@ -707,6 +761,8 @@
     seaState: 1
     cloudCoverage: 8
     visibility: 6
+  origin: manual
+  id: e8974522-1d8d-47cf-a572-653617511134
 - datetime: 2023-09-13T10:00:10.700Z
   text: ""
   author: ""
@@ -731,6 +787,8 @@
     - bergie
     - ihmis-suski
   category: navigation
+  origin: auto
+  id: 3f1a33db-f689-4cc8-962e-fc898c48011f
 - datetime: 2023-09-13T10:01:14.700Z
   text: Autopilot activated
   author: ""
@@ -755,6 +813,8 @@
     - bergie
     - ihmis-suski
   category: navigation
+  origin: auto
+  id: 325f13d0-5131-4d06-a4b2-a6ff502e7e55
 - datetime: 2023-09-13T10:45:10.700Z
   text: Hawk having a lunch at the end of the boom. Mainsail has some feather
     spray as lunch started at saaling.
@@ -780,6 +840,8 @@
     - bergie
     - ihmis-suski
   category: navigation
+  origin: manual
+  id: fd49f02d-3440-4f0c-8c70-222d820062eb
 - datetime: 2023-09-13T11:00:10.700Z
   text: ""
   author: ""
@@ -804,6 +866,8 @@
     - bergie
     - ihmis-suski
   category: navigation
+  origin: auto
+  id: 536d1eea-1ef7-451f-a0c2-0a340488fc05
 - datetime: 2023-09-13T12:00:07.699Z
   text: ""
   author: ""
@@ -828,6 +892,8 @@
     - bergie
     - ihmis-suski
   category: navigation
+  origin: auto
+  id: 79d7559c-225c-4488-9fea-7779c789b271
 - datetime: 2023-09-13T12:59:59.699Z
   text: ""
   author: ""
@@ -852,6 +918,8 @@
     - bergie
     - ihmis-suski
   category: navigation
+  origin: auto
+  id: db76f012-69a8-4791-9dcb-d45be812e301
 - datetime: 2023-09-13T13:29:04.700Z
   text: Autopilot deactivated
   author: ""
@@ -876,6 +944,8 @@
     - bergie
     - ihmis-suski
   category: navigation
+  origin: auto
+  id: ff8132f9-d97b-47fb-afb2-07bb0f12058b
 - datetime: 2023-09-13T13:30:11.699Z
   text: Autopilot activated
   author: ""
@@ -900,6 +970,8 @@
     - bergie
     - ihmis-suski
   category: navigation
+  origin: auto
+  id: b9766fe9-215e-4bb6-8775-11bce6338a9a
 - datetime: 2023-09-13T13:30:53.699Z
   text: Furled Genoa 20%
   author: ihmis-suski
@@ -924,6 +996,8 @@
     - bergie
     - ihmis-suski
   category: navigation
+  origin: manual
+  id: ce1ef928-f835-4593-9fc4-fb448db6a719
 - datetime: 2023-09-13T13:42:13.699Z
   text: "Autopilot deactivated, windvane steering "
   author: bergie
@@ -948,6 +1022,8 @@
     - bergie
     - ihmis-suski
   category: navigation
+  origin: manual
+  id: b1d3ca40-c7ed-45e3-8adf-529319e64b7f
 - datetime: 2023-09-13T13:50:47.699Z
   text: Bergie on watch
   author: bergie
@@ -976,6 +1052,8 @@
     seaState: 3
     cloudCoverage: 8
     visibility: 7
+  origin: manual
+  id: 6a494308-df92-461d-be2f-e182334b17cc
 - datetime: 2023-09-13T14:00:45.699Z
   text: ""
   author: ""
@@ -1000,6 +1078,8 @@
     - bergie
     - ihmis-suski
   category: navigation
+  origin: auto
+  id: 114e30dc-1136-4b3d-af10-ebc8599f38d0
 - datetime: 2023-09-13T15:00:29.702Z
   text: ""
   author: ""
@@ -1024,6 +1104,8 @@
     - bergie
     - ihmis-suski
   category: navigation
+  origin: auto
+  id: fd091f6c-2416-4cf0-b4ff-fd479fae1bdb
 - datetime: 2023-09-13T15:14:07.097Z
   text: "Sails set: Main, Genoa 1"
   author: ""
@@ -1048,6 +1130,8 @@
     - bergie
     - ihmis-suski
   category: navigation
+  origin: auto
+  id: 75d434c5-5eac-4bc0-8494-27b91059fc2d
 - datetime: 2023-09-13T16:00:15.097Z
   text: ""
   author: ""
@@ -1072,6 +1156,8 @@
     - bergie
     - ihmis-suski
   category: navigation
+  origin: auto
+  id: 4179ecb2-cbb0-4097-8182-0e9a486a1bda
 - datetime: 2023-09-13T16:24:45.100Z
   text: "Sails set: Main, Genoa 1 (20% furled)"
   author: ""
@@ -1096,6 +1182,8 @@
     - bergie
     - ihmis-suski
   category: navigation
+  origin: auto
+  id: 3032d895-c5f4-4d4c-958f-36f7f0e20c27
 - datetime: 2023-09-13T17:00:02.099Z
   text: ""
   author: ""
@@ -1120,6 +1208,8 @@
     - bergie
     - ihmis-suski
   category: navigation
+  origin: auto
+  id: d97b7181-51e4-42a3-a23d-0a2810e03cc8
 - datetime: 2023-09-13T17:39:59.097Z
   text: Out of Danish waters. Big rain cloud ahead
   author: bergie
@@ -1148,6 +1238,8 @@
     seaState: 3
     cloudCoverage: 7
     visibility: 7
+  origin: manual
+  id: 8c4289e5-3c28-4ffe-933f-9295c172f87b
 - datetime: 2023-09-13T18:02:59.097Z
   text: "Rain started. Another surprise visitor: bird landed on the tiller and now
     rests under the lifesling"
@@ -1173,6 +1265,8 @@
     - bergie
     - ihmis-suski
   category: navigation
+  origin: manual
+  id: 969876fc-6886-4ec9-8a50-3206a0f17c90
 - datetime: 2023-09-13T18:29:20.102Z
   text: "Sails set: Main, Genoa 1. Looks like the worst of this raincloud went
     past us"
@@ -1202,6 +1296,8 @@
     seaState: 3
     cloudCoverage: 6
     visibility: 7
+  origin: manual
+  id: 4a86b637-8f56-474e-9d4e-34c5b63345e5
 - datetime: 2023-09-13T18:58:59.097Z
   text: Overflight by what must be a very tightly packed Starlink train
   author: bergie
@@ -1230,6 +1326,8 @@
     seaState: 3
     cloudCoverage: 2
     visibility: 7
+  origin: manual
+  id: 470abefd-5614-4065-9486-fa52cd287b2b
 - datetime: 2023-09-13T19:00:00.102Z
   text: Seeing a light beam in the clouds from a lighthouse that is likely
     Greifswalder Oie
@@ -1255,6 +1353,8 @@
     - bergie
     - ihmis-suski
   category: navigation
+  origin: manual
+  id: 42c12749-7a58-48c3-bf24-057f4bb13ffb
 - datetime: 2023-09-13T19:59:59.097Z
   text: Suski on watch
   author: bergie
@@ -1279,6 +1379,8 @@
     - bergie
     - ihmis-suski
   category: navigation
+  origin: manual
+  id: e10f1743-081e-4d50-93ad-612e1b3cf0d1
 - datetime: 2023-09-13T21:00:00.102Z
   text: ""
   author: ""
@@ -1303,6 +1405,8 @@
     - bergie
     - ihmis-suski
   category: navigation
+  origin: auto
+  id: c85a895a-bf93-4937-a65b-bbb8a4dba08b
 - datetime: 2023-09-13T22:00:01.100Z
   text: ""
   author: ""
@@ -1327,6 +1431,8 @@
     - bergie
     - ihmis-suski
   category: navigation
+  origin: auto
+  id: 676c560e-19b5-4c27-b03e-1118787468f6
 - datetime: 2023-09-13T22:24:01.100Z
   text: There is bioluminescence thingies in the water! Did not know we had some
     in the Baltic.
@@ -1356,6 +1462,8 @@
     seaState: 3
     cloudCoverage: 2
     visibility: 7
+  origin: manual
+  id: 8eabd4af-729d-49d0-ad57-142721e1a2df
 - datetime: 2023-09-13T22:57:34.099Z
   text: "Sails set: Main, Genoa 1 (20% furled)"
   author: ""
@@ -1380,6 +1488,8 @@
     - bergie
     - ihmis-suski
   category: navigation
+  origin: auto
+  id: 69598f06-b358-48c9-adfa-860197e7b8b7
 - datetime: 2023-09-13T23:00:02.099Z
   text: Bergie on watch
   author: bergie
@@ -1404,3 +1514,5 @@
     - bergie
     - ihmis-suski
   category: navigation
+  origin: manual
+  id: 1b03cde9-93e3-4d00-ae0f-113a1d26ffd6

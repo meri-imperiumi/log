@@ -23,6 +23,8 @@
     - ihmis-suski
     - skoll
   category: navigation
+  origin: auto
+  id: a05e11df-4490-42dc-8ea5-84e9ff008532
 - datetime: 2023-06-23T07:28:42.700Z
   text: Anchor up, motoring
   author: ""
@@ -48,6 +50,8 @@
     - ihmis-suski
     - skoll
   category: navigation
+  origin: auto
+  id: c9dc1248-a2d7-4705-8656-e0e01868e9d9
 - datetime: 2023-06-23T07:42:22.700Z
   text: Motor stopped, sailing with Main, Genoa 1
   author: ""
@@ -73,6 +77,8 @@
     - ihmis-suski
     - skoll
   category: navigation
+  origin: auto
+  id: 6cc0cb12-0b2b-4156-a23e-0034bac68806
 - datetime: 2023-06-23T08:00:02.700Z
   text: ""
   author: ""
@@ -98,6 +104,8 @@
     - ihmis-suski
     - skoll
   category: navigation
+  origin: auto
+  id: 800b9dc1-05c6-45a9-8315-2d302b4dfe1f
 - datetime: 2023-06-23T08:43:55.100Z
   text: "Deployed hydrogenerator "
   author: bergie
@@ -123,6 +131,8 @@
     - ihmis-suski
     - skoll
   category: navigation
+  origin: manual
+  id: 81de6977-b472-4ed3-9ddb-cfbf372de5c4
 - datetime: 2023-06-23T09:00:51.100Z
   text: ""
   author: ""
@@ -148,6 +158,8 @@
     - ihmis-suski
     - skoll
   category: navigation
+  origin: auto
+  id: 58c8dd3e-ebaf-4540-a56f-06db17b7b749
 - datetime: 2023-06-23T10:00:38.099Z
   text: ""
   author: ""
@@ -173,6 +185,8 @@
     - ihmis-suski
     - skoll
   category: navigation
+  origin: auto
+  id: d3d405ee-1589-43ca-99c9-598bf3a41bae
 - datetime: 2023-06-23T10:06:49.100Z
   text: Sails down, motoring
   author: ""
@@ -198,6 +212,8 @@
     - ihmis-suski
     - skoll
   category: navigation
+  origin: auto
+  id: ba579dd9-cdc8-4557-8809-13732c1aa296
 - datetime: 2023-06-23T10:14:11.100Z
   text: Stopped
   author: ""
@@ -224,6 +240,8 @@
     - skoll
   end: true
   category: navigation
+  origin: auto
+  id: 44b9b6f9-0831-437e-ab95-c7fb1ff742f2
 - datetime: 2023-06-23T10:29:44.099Z
   text: Started main engine
   author: ""
@@ -249,6 +267,8 @@
     - ihmis-suski
     - skoll
   category: navigation
+  origin: auto
+  id: 6acf03d3-4a31-40e4-a77f-83246f2a17b9
 - datetime: 2023-06-23T10:32:30.099Z
   text: Motoring
   author: ""
@@ -274,6 +294,8 @@
     - ihmis-suski
     - skoll
   category: navigation
+  origin: auto
+  id: d1a8f514-c504-49cb-bcfa-e5db42befb8e
 - datetime: 2023-06-23T10:33:44.099Z
   text: Motor stopped, sailing with Main, Genoa 1
   author: ""
@@ -299,6 +321,8 @@
     - ihmis-suski
     - skoll
   category: navigation
+  origin: auto
+  id: 60371591-d773-4d4c-ad86-50639e407053
 - datetime: 2023-06-23T11:00:22.099Z
   text: ""
   author: ""
@@ -324,6 +348,8 @@
     - ihmis-suski
     - skoll
   category: navigation
+  origin: auto
+  id: 6101072d-cf6d-4667-9293-786acc70e8ba
 - datetime: 2023-06-23T11:46:10.099Z
   text: "Autopilot activated "
   author: bergie
@@ -349,6 +375,8 @@
     - ihmis-suski
     - skoll
   category: navigation
+  origin: manual
+  id: 13531ca0-8abd-4f0f-b1cb-7fc5c3438169
 - datetime: 2023-06-23T12:00:06.099Z
   text: ""
   author: ""
@@ -374,6 +402,8 @@
     - ihmis-suski
     - skoll
   category: navigation
+  origin: auto
+  id: 6cba803f-d891-4277-a0c7-71a57852db2e
 - datetime: 2023-06-23T13:00:49.100Z
   text: ""
   author: ""
@@ -399,6 +429,8 @@
     - ihmis-suski
     - skoll
   category: navigation
+  origin: auto
+  id: 7bdd126e-54c3-492d-9be1-6074c7bdd4ca
 - datetime: 2023-06-23T13:19:43.200Z
   text: "Stowed hydrogenerator, autopilot deactivated "
   author: bergie
@@ -424,6 +456,8 @@
     - ihmis-suski
     - skoll
   category: navigation
+  origin: manual
+  id: e7ea9370-1980-4508-87af-751939e4d3c9
 - datetime: 2023-06-23T13:52:40.198Z
   text: Sails down, motoring
   author: ""
@@ -449,6 +483,8 @@
     - ihmis-suski
     - skoll
   category: navigation
+  origin: auto
+  id: 85587d84-187d-419b-accd-37973661150e
 - datetime: 2023-06-23T14:00:33.200Z
   text: ""
   author: ""
@@ -474,6 +510,8 @@
     - ihmis-suski
     - skoll
   category: navigation
+  origin: auto
+  id: d8647035-8f57-4711-8714-7bbdb4682711
 - datetime: 2023-06-23T14:15:28.198Z
   text: Stopped
   author: ""
@@ -500,3 +538,5 @@
     - skoll
   end: true
   category: navigation
+  origin: auto
+  id: fe96eb88-bbb6-47fc-8bd7-63f0c0cc41fb

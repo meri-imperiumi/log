@@ -21,6 +21,8 @@
     - bergie
     - ihmis-suski
   category: maintenance
+  origin: manual
+  id: ee0c32ad-63dc-49f3-b3f9-76209f094f60
 - datetime: 2023-08-16T11:12:54.598Z
   text: Started main engine
   author: ""
@@ -45,6 +47,8 @@
     - bergie
     - ihmis-suski
   category: navigation
+  origin: auto
+  id: 37cc5701-e6da-4090-91e8-838073243b22
 - datetime: 2023-08-16T11:17:17.600Z
   text: Motoring
   author: ""
@@ -69,6 +73,8 @@
     - bergie
     - ihmis-suski
   category: navigation
+  origin: auto
+  id: 9978a21a-21c2-4b64-8206-55719c6f8a9e
 - datetime: 2023-08-16T11:46:09.600Z
   text: Anchored
   author: ""
@@ -94,6 +100,8 @@
     - ihmis-suski
   end: true
   category: navigation
+  origin: auto
+  id: b2a6eb42-d798-45d3-8271-f71f12384628
 - datetime: 2023-08-16T11:46:49.600Z
   text: Stopped main engine
   author: ""
@@ -118,6 +126,8 @@
     - bergie
     - ihmis-suski
   category: navigation
+  origin: auto
+  id: dcbb82e5-958c-4f0d-af34-9b11a0119005
 - datetime: 2023-08-16T16:52:52.998Z
   text: Drilled and epoxied new dyneema holders for the spinnaker sheet blocks
   author: bergie
@@ -141,3 +151,5 @@
     - bergie
     - ihmis-suski
   category: maintenance
+  origin: manual
+  id: a055572b-218b-4684-b607-d406f1cea8f3

@@ -1,18 +1,24 @@
 - datetime: 2021-08-30T09:03:00.000Z
   text: Motoring out of the harbour
   category: navigation
+  origin: auto
+  id: 2dbbe3fb-717e-47fc-b163-3681bff40ede
 - datetime: 2021-08-30T09:15:00.000Z
   text: Sails up in front of the Navy Museum, reef 1 wind 15kt
   category: navigation
   wind:
     speed: 15
   course: 183
+  origin: auto
+  id: f6b6e82c-96d3-4d06-9b9b-c914ccec3ce4
 - datetime: 2021-08-30T10:08:00.000Z
   text: Assistant Nissinen on duty, exiting Karlskrona fairway
   category: navigation
   wind:
     speed: 15.6
   course: 173
+  origin: auto
+  id: f5c1cfaf-89c6-48b0-8a60-a24facbfd234
 - datetime: 2021-08-30T10:25:00.000Z
   text: ""
   category: navigation
@@ -24,12 +30,16 @@
     visibility: 8
   barometer: 1024
   course: 138
+  origin: auto
+  id: 30595557-b938-4bc9-9810-e8db4744668b
 - datetime: 2021-08-30T11:10:00.000Z
   text: Reef 2 at gusts 30kt
   category: navigation
   wind:
     speed: 25.7
   course: 131
+  origin: auto
+  id: f562a44a-4c19-4d8f-9515-1d147fbb506b
 - datetime: 2021-08-30T11:38:00.000Z
   text: Autopilot off
   category: navigation
@@ -40,8 +50,12 @@
     seaState: 4
     visibility: 8
   course: 134
+  origin: auto
+  id: d62ec8a3-f2dc-4cbf-b00b-7e03a69c7e71
 - datetime: 2021-08-30T12:00:00.000Z
   text: Tied up at Utklippan. One Swiss boat, everything closed
   category: navigation
   engine:
     hours: 236.5
+  origin: auto
+  id: f291fb7a-3fb8-4aa8-a811-04a9a31a8b86

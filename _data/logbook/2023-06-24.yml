@@ -23,6 +23,8 @@
     - ihmis-suski
     - skoll
   category: navigation
+  origin: auto
+  id: 6e8c1fb6-8e11-4446-a572-790a64c7302e
 - datetime: 2023-06-24T06:16:11.000Z
   text: Motoring
   author: ""
@@ -48,6 +50,8 @@
     - ihmis-suski
     - skoll
   category: navigation
+  origin: auto
+  id: 88be5cc3-b06e-41fe-bbaf-62247a772803
 - datetime: 2023-06-24T06:35:21.000Z
   text: Motor stopped, sailing with Main, Genoa 1
   author: ""
@@ -73,6 +77,8 @@
     - ihmis-suski
     - skoll
   category: navigation
+  origin: auto
+  id: f15093e3-a72a-472f-b165-7734b14da592
 - datetime: 2023-06-24T07:00:56.000Z
   text: "Poled out wing on wing "
   author: bergie
@@ -98,6 +104,8 @@
     - ihmis-suski
     - skoll
   category: navigation
+  origin: manual
+  id: 8e696735-8011-4041-bf78-5bb5f74418f1
 - datetime: 2023-06-24T07:03:27.000Z
   text: "Sails set: Main, Genoa 1 (20% furled)"
   author: ""
@@ -123,6 +131,8 @@
     - ihmis-suski
     - skoll
   category: navigation
+  origin: auto
+  id: 4edeb794-d0c2-4566-99bb-b90a3fbc5477
 - datetime: 2023-06-24T07:05:54.099Z
   text: "Deployed hydrogenerator "
   author: bergie
@@ -148,6 +158,8 @@
     - ihmis-suski
     - skoll
   category: navigation
+  origin: manual
+  id: c2aa19d7-8806-43b8-a211-f9754086cfce
 - datetime: 2023-06-24T08:00:42.099Z
   text: ""
   author: ""
@@ -173,6 +185,8 @@
     - ihmis-suski
     - skoll
   category: navigation
+  origin: auto
+  id: 53f4b8ca-0971-4c49-8b0d-98d4c548b11c
 - datetime: 2023-06-24T08:57:31.100Z
   text: "Stowed hydrogenerator "
   author: bergie
@@ -198,6 +212,8 @@
     - ihmis-suski
     - skoll
   category: navigation
+  origin: manual
+  id: d7b5cdfe-a88b-4ada-9089-8a1a2b8e505a
 - datetime: 2023-06-24T09:00:30.099Z
   text: ""
   author: ""
@@ -223,6 +239,8 @@
     - ihmis-suski
     - skoll
   category: navigation
+  origin: auto
+  id: 4b96d039-659b-48e7-b6db-03ee744233f0
 - datetime: 2023-06-24T09:13:21.100Z
   text: Sails down, motoring
   author: ""
@@ -248,6 +266,8 @@
     - ihmis-suski
     - skoll
   category: navigation
+  origin: auto
+  id: 1afa96fb-b2fd-4021-a335-a0ced842a9be
 - datetime: 2023-06-24T09:23:37.100Z
   text: Stopped, Hanko fuel dock
   author: bergie
@@ -274,6 +294,8 @@
     - skoll
   end: true
   category: navigation
+  origin: manual
+  id: f0f81ea8-d02b-4f2f-b5e5-75b20edb7c77
 - datetime: 2023-06-24T09:28:25.100Z
   text: Filled up 40l diesel
   author: bergie
@@ -299,6 +321,8 @@
     - ihmis-suski
     - skoll
   category: engine
+  origin: manual
+  id: 8fb4a7b1-a898-4139-82a5-e7f9543ee6bb
 - datetime: 2023-06-24T09:29:12.099Z
   text: ihmis-suski left the crew
   author: ""
@@ -324,6 +348,8 @@
     - ihmis-suski
     - skoll
   category: navigation
+  origin: auto
+  id: bed070c0-d468-4538-889c-cdbafddbdad1
 - datetime: 2023-06-24T09:30:37.100Z
   text: Started main engine
   author: ""
@@ -348,6 +374,8 @@
     - bergie
     - skoll
   category: navigation
+  origin: auto
+  id: f0e124b4-1d5f-4e5b-b48b-bf7971ace003
 - datetime: 2023-06-24T09:32:26.099Z
   text: Motoring
   author: ""
@@ -372,6 +400,8 @@
     - bergie
     - skoll
   category: navigation
+  origin: auto
+  id: 2e05720a-61c8-4da5-be6a-7c16675917fd
 - datetime: 2023-06-24T09:40:06.099Z
   text: Motor stopped, sailing with Main, Genoa 1 (20% furled)
   author: ""
@@ -396,6 +426,8 @@
     - bergie
     - skoll
   category: navigation
+  origin: auto
+  id: fbbff822-d1fe-4a28-8612-32326d454b8d
 - datetime: 2023-06-24T10:00:18.099Z
   text: ""
   author: ""
@@ -420,6 +452,8 @@
     - bergie
     - skoll
   category: navigation
+  origin: auto
+  id: a0143df7-74fd-4246-b763-036e82d154eb
 - datetime: 2023-06-24T11:00:06.099Z
   text: ""
   author: ""
@@ -444,6 +478,8 @@
     - bergie
     - skoll
   category: navigation
+  origin: auto
+  id: 7f2d3870-d3b2-48c1-a38d-70d14e6188e9
 - datetime: 2023-06-24T11:58:06.099Z
   text: Sails down, motoring
   author: ""
@@ -468,6 +504,8 @@
     - bergie
     - skoll
   category: navigation
+  origin: auto
+  id: f22ea4df-8fdd-491b-9356-65e563eebeb7
 - datetime: 2023-06-24T12:00:51.100Z
   text: ""
   author: ""
@@ -492,6 +530,8 @@
     - bergie
     - skoll
   category: navigation
+  origin: auto
+  id: 37b1a1bc-e067-4fcc-abc1-b50e02d65308
 - datetime: 2023-06-24T12:13:25.100Z
   text: Stopped
   author: ""
@@ -517,6 +557,8 @@
     - skoll
   end: true
   category: navigation
+  origin: auto
+  id: 798c5802-0973-4b78-a47d-94f2a35d960a
 - datetime: 2023-06-24T13:18:45.100Z
   text: Replaced a broken mainsail track car and reattached the Rodkicker after a
     failed splint
@@ -541,3 +583,5 @@
     - bergie
     - skoll
   category: maintenance
+  origin: manual
+  id: d02db310-4768-42d2-aada-f4ecfb6359a7

@@ -21,6 +21,8 @@
     - bergie
     - ihmis-suski
   category: maintenance
+  origin: manual
+  id: e918429e-a13e-42fe-a1d6-84247484914e
 - datetime: 2023-05-04T13:37:55.299Z
   text: Stopped watermaker, another full jug. 21ppm.
   author: bergie
@@ -44,6 +46,8 @@
     - bergie
     - ihmis-suski
   category: maintenance
+  origin: manual
+  id: f02ae7d0-9556-4033-b90b-ba132a55fa90
 - datetime: 2023-05-04T14:35:19.299Z
   text: Started main engine
   author: ""
@@ -67,6 +71,8 @@
     - bergie
     - ihmis-suski
   category: navigation
+  origin: auto
+  id: 925337cf-1ed5-4285-8290-ba6836ed897e
 - datetime: 2023-05-04T14:41:39.299Z
   text: Anchor up, motoring
   author: ""
@@ -90,6 +96,8 @@
     - bergie
     - ihmis-suski
   category: navigation
+  origin: auto
+  id: a7e775ba-c0d9-4307-a39a-c8bdbf1a1c5d
 - datetime: 2023-05-04T14:58:24.300Z
   text: Motor stopped, sailing with Main, Genoa 1
   author: ""
@@ -116,6 +124,8 @@
     - bergie
     - ihmis-suski
   category: navigation
+  origin: auto
+  id: 5554c874-cc19-41f9-9d2a-1d61eeea346b
 - datetime: 2023-05-04T15:00:33.299Z
   text: ""
   author: bergie
@@ -146,6 +156,8 @@
     seaState: 1
     cloudCoverage: 2
     visibility: 8
+  origin: manual
+  id: 8b979f5e-f274-4195-89fe-c03de20c87d3
 - datetime: 2023-05-04T16:00:17.299Z
   text: ""
   author: ""
@@ -173,6 +185,8 @@
     - bergie
     - ihmis-suski
   category: navigation
+  origin: auto
+  id: 06a85115-46f6-401f-969f-5a76ddd862b8
 - datetime: 2023-05-04T17:00:02.297Z
   text: ""
   author: ""
@@ -200,6 +214,8 @@
     - bergie
     - ihmis-suski
   category: navigation
+  origin: auto
+  id: a567b566-7cae-4693-84c6-d1b1d8758ccb
 - datetime: 2023-05-04T17:37:58.297Z
   text: Sails down, motoring
   author: ""
@@ -227,6 +243,8 @@
     - bergie
     - ihmis-suski
   category: navigation
+  origin: auto
+  id: 2779fb50-0666-4e0e-ba2a-1cb29da6f8fc
 - datetime: 2023-05-04T17:46:43.302Z
   text: Motor stopped
   author: bergie
@@ -254,6 +272,8 @@
     - bergie
     - ihmis-suski
   category: navigation
+  origin: manual
+  id: 72b128a7-fda5-403d-bdf8-e84386e72aba
 - datetime: 2023-05-04T17:53:50.297Z
   text: "Stopped at Arkösund SXK buoy "
   author: bergie
@@ -282,3 +302,5 @@
     - ihmis-suski
   end: true
   category: navigation
+  origin: manual
+  id: 5b3add54-0483-4a85-90ab-781da3a99c26

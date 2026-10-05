@@ -21,6 +21,8 @@
     - bergie
     - ihmis-suski
   category: navigation
+  origin: auto
+  id: 1ffe88fb-168a-4b81-ac08-8dd899b9fa1b
 - datetime: 2023-09-20T08:56:10.899Z
   text: Anchor up, motoring
   author: ""
@@ -44,6 +46,8 @@
     - bergie
     - ihmis-suski
   category: navigation
+  origin: auto
+  id: 61b2db17-0134-449e-bd3e-4798ebd43b91
 - datetime: 2023-09-20T09:44:52.899Z
   text: Stopped, Spandau locks sport boat waiting area
   author: bergie
@@ -68,6 +72,8 @@
     - ihmis-suski
   end: true
   category: navigation
+  origin: manual
+  id: 4d3bc780-a6fa-44d6-bec6-b49a12efd17b
 - datetime: 2023-09-20T10:13:02.899Z
   text: Started main engine
   author: ""
@@ -92,6 +98,8 @@
     - bergie
     - ihmis-suski
   category: navigation
+  origin: auto
+  id: 6994a224-fd06-4656-8c44-480db5d7aa18
 - datetime: 2023-09-20T10:15:23.900Z
   text: Motoring
   author: ""
@@ -116,6 +124,8 @@
     - bergie
     - ihmis-suski
   category: navigation
+  origin: auto
+  id: 5882e063-7bc7-45cb-aa83-54a24f31aba3
 - datetime: 2023-09-20T10:16:24.899Z
   text: Stopped
   author: ""
@@ -141,6 +151,8 @@
     - ihmis-suski
   end: true
   category: navigation
+  origin: auto
+  id: efb786f3-aad4-4ca3-8715-0117778cf3b3
 - datetime: 2023-09-20T10:28:34.899Z
   text: Started main engine
   author: ""
@@ -165,6 +177,8 @@
     - bergie
     - ihmis-suski
   category: navigation
+  origin: auto
+  id: d8392f4d-893c-4221-be81-4624c49b49c8
 - datetime: 2023-09-20T10:31:20.899Z
   text: Motoring
   author: ""
@@ -189,6 +203,8 @@
     - bergie
     - ihmis-suski
   category: navigation
+  origin: auto
+  id: 0f3d9886-ccfa-4e51-b5e3-4ba1fa2ae59d
 - datetime: 2023-09-20T11:00:12.899Z
   text: ""
   author: ""
@@ -213,6 +229,8 @@
     - bergie
     - ihmis-suski
   category: navigation
+  origin: auto
+  id: 80b28d10-3cba-438e-9eda-7cc392192887
 - datetime: 2023-09-20T11:13:59.900Z
   text: Stopped at Gothia
   author: bergie
@@ -238,3 +256,5 @@
     - ihmis-suski
   end: true
   category: navigation
+  origin: manual
+  id: ccc01cef-2700-4406-ae8a-c9b8b0a91c81

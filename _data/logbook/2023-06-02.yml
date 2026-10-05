@@ -22,6 +22,8 @@
     - bergie
     - ihmis-suski
   category: navigation
+  origin: auto
+  id: d97a58de-b4ad-4e9b-8600-21c99be2833f
 - datetime: 2023-06-02T10:52:09.299Z
   text: Motoring
   author: ""
@@ -46,6 +48,8 @@
     - bergie
     - ihmis-suski
   category: navigation
+  origin: auto
+  id: 053d9c00-de75-4ac2-8000-5a1631f17b7d
 - datetime: 2023-06-02T11:00:05.299Z
   text: ""
   author: ""
@@ -70,6 +74,8 @@
     - bergie
     - ihmis-suski
   category: navigation
+  origin: auto
+  id: 6a2d423b-e5f4-4198-bdbd-10f49df7ad45
 - datetime: 2023-06-02T11:02:12.300Z
   text: Motor stopped, sailing with Main (1st reef)
   author: bergie
@@ -94,6 +100,8 @@
     - bergie
     - ihmis-suski
   category: navigation
+  origin: manual
+  id: 5cb7820a-f602-4563-bdb4-e9a3974335b0
 - datetime: 2023-06-02T11:20:00.300Z
   text: "Deployed hydrogenerator "
   author: bergie
@@ -122,6 +130,8 @@
     seaState: 2
     cloudCoverage: 6
     visibility: 8
+  origin: manual
+  id: a0742b60-7896-4071-81e2-9ab6883700ab
 - datetime: 2023-06-02T11:24:04.300Z
   text: "Sails set: Main (1st reef), Genoa 1 (40% furled)"
   author: ""
@@ -146,6 +156,8 @@
     - bergie
     - ihmis-suski
   category: navigation
+  origin: auto
+  id: 81608e81-1427-42a5-937c-1bbd445ed556
 - datetime: 2023-06-02T11:39:23.299Z
   text: "Sails set: Main (1st reef)"
   author: ""
@@ -170,6 +182,8 @@
     - bergie
     - ihmis-suski
   category: navigation
+  origin: auto
+  id: 1e0cc200-7c60-4c75-bf4a-68bcf8ae1d99
 - datetime: 2023-06-02T12:00:50.300Z
   text: ""
   author: ""
@@ -194,6 +208,8 @@
     - bergie
     - ihmis-suski
   category: navigation
+  origin: auto
+  id: 2ae61f62-630a-4d17-bd83-7c19ef1b08d9
 - datetime: 2023-06-02T12:42:39.299Z
   text: "Stowed hydrogenerator "
   author: bergie
@@ -218,6 +234,8 @@
     - bergie
     - ihmis-suski
   category: navigation
+  origin: manual
+  id: 2f02b5ae-bfe3-48be-bb40-d1bbe83c5a32
 - datetime: 2023-06-02T12:59:41.299Z
   text: Sails down, motoring
   author: ""
@@ -242,6 +260,8 @@
     - bergie
     - ihmis-suski
   category: navigation
+  origin: auto
+  id: 9774f540-94ca-4e75-84dd-9e2f0e88eeac
 - datetime: 2023-06-02T13:00:34.300Z
   text: ""
   author: ""
@@ -266,6 +286,8 @@
     - bergie
     - ihmis-suski
   category: navigation
+  origin: auto
+  id: 69255258-f119-4ceb-a2aa-f3b42e434d9a
 - datetime: 2023-06-02T13:11:38.300Z
   text: Stopped
   author: ""
@@ -291,6 +313,8 @@
     - ihmis-suski
   end: true
   category: navigation
+  origin: auto
+  id: 4dc444c3-b532-4dd6-918b-562798259712
 - datetime: 2023-06-02T13:30:39.299Z
   text: Started main engine
   author: ""
@@ -315,6 +339,8 @@
     - bergie
     - ihmis-suski
   category: navigation
+  origin: auto
+  id: d2acea17-c146-4dcd-8180-49eb66223988
 - datetime: 2023-06-02T13:35:29.299Z
   text: Motoring
   author: ""
@@ -339,6 +365,8 @@
     - bergie
     - ihmis-suski
   category: navigation
+  origin: auto
+  id: 3288ffee-1454-4e9f-aa54-74f84b53bd9d
 - datetime: 2023-06-02T13:36:17.299Z
   text: Stopped
   author: ""
@@ -364,3 +392,5 @@
     - ihmis-suski
   end: true
   category: navigation
+  origin: auto
+  id: 91db086f-ba21-4f17-ac04-49f83f5eb296

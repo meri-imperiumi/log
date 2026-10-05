@@ -22,6 +22,8 @@
     - bergie
     - bernhard
   category: navigation
+  origin: auto
+  id: 60a83336-0d8e-4a3a-89c9-0e38514813e4
 - datetime: 2023-06-17T00:35:45.400Z
   text: Gybed the Parasailor to starboard side
   author: bergie
@@ -46,6 +48,8 @@
     - bergie
     - bernhard
   category: navigation
+  origin: manual
+  id: 1d5da430-886e-4662-8c36-c4010033ffa0
 - datetime: 2023-06-17T00:40:44.400Z
   text: Gybed the Parasailor back to port. Quite some wind shifts
   author: bergie
@@ -70,6 +74,8 @@
     - bergie
     - bernhard
   category: navigation
+  origin: manual
+  id: c2979541-6de4-4088-a24a-acfaaa7bd9ca
 - datetime: 2023-06-17T00:52:45.400Z
   text: Gybed the Parasailor again to starboard. Sun is rising
   author: bergie
@@ -94,6 +100,8 @@
     - bergie
     - bernhard
   category: navigation
+  origin: manual
+  id: 522f4e25-b104-449f-a83f-ac3bf932b4d3
 - datetime: 2023-06-17T01:00:44.400Z
   text: ""
   author: ""
@@ -118,6 +126,8 @@
     - bergie
     - bernhard
   category: navigation
+  origin: auto
+  id: a86ee27d-5f88-4707-ac39-32f36fbc373d
 - datetime: 2023-06-17T01:10:29.400Z
   text: Sails down, motoring
   author: ""
@@ -142,6 +152,8 @@
     - bergie
     - bernhard
   category: navigation
+  origin: auto
+  id: 49f630d9-9bf6-4261-b910-39a93631a3f8
 - datetime: 2023-06-17T02:00:36.400Z
   text: Bernhard on watch, Bergie to bed
   author: bergie
@@ -166,6 +178,8 @@
     - bergie
     - bernhard
   category: navigation
+  origin: manual
+  id: 17d0b31b-bb2d-4f6b-8f9d-d8d26b3876a2
 - datetime: 2023-06-17T03:00:24.400Z
   text: ""
   author: ""
@@ -190,6 +204,8 @@
     - bergie
     - bernhard
   category: navigation
+  origin: auto
+  id: 0dc9fc78-19e0-4927-9352-f62389aba879
 - datetime: 2023-06-17T04:00:12.400Z
   text: ""
   author: ""
@@ -214,6 +230,8 @@
     - bergie
     - bernhard
   category: navigation
+  origin: auto
+  id: 5272260c-aed2-49be-b535-b75da4df8e5c
 - datetime: 2023-06-17T04:08:17.400Z
   text: Motor stopped, sailing with Parasailor
   author: ""
@@ -238,6 +256,8 @@
     - bergie
     - bernhard
   category: navigation
+  origin: auto
+  id: add3abd6-db2e-413b-87e3-34c0ceb14052
 - datetime: 2023-06-17T04:22:10.400Z
   text: Sails down, motoring
   author: ""
@@ -262,6 +282,8 @@
     - bergie
     - bernhard
   category: navigation
+  origin: auto
+  id: a95b1342-2ee4-43ad-bd29-f04abc6eca75
 - datetime: 2023-06-17T05:00:00.400Z
   text: "Out of night watch schedule "
   author: bergie
@@ -290,6 +312,8 @@
     seaState: 2
     cloudCoverage: 3
     visibility: 7
+  origin: manual
+  id: 3461e5f5-f286-4a74-ad87-21f94e98fc82
 - datetime: 2023-06-17T06:00:48.400Z
   text: ""
   author: ""
@@ -314,6 +338,8 @@
     - bergie
     - bernhard
   category: navigation
+  origin: auto
+  id: d5d0d1ca-5bad-4b1f-bf45-9369d7f19e6e
 - datetime: 2023-06-17T06:22:13.400Z
   text: Autopilot deactivated
   author: ""
@@ -338,6 +364,8 @@
     - bergie
     - bernhard
   category: navigation
+  origin: auto
+  id: 119ec480-644e-4121-b0a9-26d89d0d6d6d
 - datetime: 2023-06-17T07:00:35.400Z
   text: ""
   author: ""
@@ -362,6 +390,8 @@
     - bergie
     - bernhard
   category: navigation
+  origin: auto
+  id: 3078f0a0-17a8-443a-baa6-2803c329c087
 - datetime: 2023-06-17T08:00:42.400Z
   text: Stopped
   author: ""
@@ -387,6 +417,8 @@
     - bernhard
   end: true
   category: navigation
+  origin: auto
+  id: d8860517-85ef-4e12-a9c4-b3c3e76471f2
 - datetime: 2023-06-17T15:54:38.700Z
   text: ihmis-suski joined the crew
   author: ""
@@ -410,3 +442,5 @@
     - bergie
     - bernhard
   category: navigation
+  origin: auto
+  id: 410a787e-17bc-4aaa-a50d-dd4d2a902044

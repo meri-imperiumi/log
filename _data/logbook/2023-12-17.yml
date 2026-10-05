@@ -21,6 +21,8 @@
     - ihmis-suski
     - bergie
   category: engine
+  origin: manual
+  id: 397a0562-3674-4e88-9a5f-0ddbe2f12084
 - datetime: 2023-12-17T10:11:56.601Z
   text: Started main engine
   author: ""
@@ -45,6 +47,8 @@
     - ihmis-suski
     - bergie
   category: navigation
+  origin: auto
+  id: 13b3d78a-bc20-4804-9cca-1c1f1b20207e
 - datetime: 2023-12-17T10:18:48.601Z
   text: Stopped main engine
   author: ""
@@ -69,6 +73,8 @@
     - ihmis-suski
     - bergie
   category: navigation
+  origin: auto
+  id: 34d98af1-bdb8-497d-af5a-2ca6d12af405
 - datetime: 2023-12-17T10:19:32.601Z
   text: Sailing with Main, Staysail
   author: ""
@@ -93,6 +99,8 @@
     - ihmis-suski
     - bergie
   category: navigation
+  origin: auto
+  id: 78005050-90c8-4e27-a6be-6b85cf608726
 - datetime: 2023-12-17T11:00:21.600Z
   text: ""
   author: ""
@@ -117,6 +125,8 @@
     - ihmis-suski
     - bergie
   category: navigation
+  origin: auto
+  id: 9cd17447-3162-4fa6-8cc3-a41f3ff0274a
 - datetime: 2023-12-17T11:01:20.601Z
   text: Passing two swimming boars off Lieper Bucht
   author: bergie
@@ -141,6 +151,8 @@
     - ihmis-suski
     - bergie
   category: navigation
+  origin: manual
+  id: 26c9701e-fd8f-4201-bdd4-c96d8c45141c
 - datetime: 2023-12-17T11:58:01.600Z
   text: "Sails set: Main, Genoa 1"
   author: ""
@@ -165,6 +177,8 @@
     - ihmis-suski
     - bergie
   category: navigation
+  origin: auto
+  id: 40c000be-4b20-4683-9bae-72090403eb13
 - datetime: 2023-12-17T12:00:05.600Z
   text: ""
   author: ""
@@ -189,6 +203,8 @@
     - ihmis-suski
     - bergie
   category: navigation
+  origin: auto
+  id: 5cae6701-2409-47eb-ac51-2cde9c98cb80
 - datetime: 2023-12-17T12:26:32.601Z
   text: Sails down, motoring
   author: ""
@@ -213,6 +229,8 @@
     - ihmis-suski
     - bergie
   category: navigation
+  origin: auto
+  id: 21007948-b047-457a-9ae9-224b30bb980e
 - datetime: 2023-12-17T12:35:48.601Z
   text: Stopped
   author: ""
@@ -238,6 +256,8 @@
     - bergie
   end: true
   category: navigation
+  origin: auto
+  id: 7a2d9db7-7613-4ced-b476-5938b5e7dbff
 - datetime: 2023-12-17T12:36:56.601Z
   text: Bilge alarm triggered with water. Pumped it dry. This time Cerbo recovered
     on its own (maybe because we didn't silence the alarm)
@@ -263,3 +283,5 @@
     - ihmis-suski
     - bergie
   category: maintenance
+  origin: manual
+  id: 5816fbb2-d63c-4740-a330-394e04182bdf

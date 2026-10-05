@@ -21,6 +21,8 @@
     - bergie
     - ihmis-suski
   category: navigation
+  origin: auto
+  id: e06d5ace-c568-46b5-8411-4f4f47e8a1ac
 - datetime: 2023-09-16T05:22:18.200Z
   text: Stopped main engine
   author: ""
@@ -44,6 +46,8 @@
     - bergie
     - ihmis-suski
   category: navigation
+  origin: auto
+  id: 3a20b531-b027-4cd3-bd6b-e42618d23237
 - datetime: 2023-09-16T06:30:44.200Z
   text: Started main engine
   author: ""
@@ -67,6 +71,8 @@
     - bergie
     - ihmis-suski
   category: navigation
+  origin: auto
+  id: 52755e85-a2c3-4fea-bd53-e178c956179f
 - datetime: 2023-09-16T06:39:33.200Z
   text: Stopped main engine
   author: ""
@@ -90,6 +96,8 @@
     - bergie
     - ihmis-suski
   category: navigation
+  origin: auto
+  id: 45f5b2d4-3419-46d2-9c40-07be8b29ca3b
 - datetime: 2023-09-16T16:07:41.401Z
   text: Checked engine oil levels, still within bounds. Lots of water in the bilge
   author: bergie
@@ -113,3 +121,5 @@
     - bergie
     - ihmis-suski
   category: engine
+  origin: manual
+  id: e8a44bcd-b3b0-44c4-9930-0b72e5a90449

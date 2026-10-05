@@ -21,6 +21,8 @@
     - ihmis-suski
     - bergie
   category: navigation
+  origin: auto
+  id: 4d63de9f-0540-4b70-9b66-54854b1c67e9
 - datetime: 2023-04-16T09:32:20.601Z
   text: Anchor up, motoring
   author: ""
@@ -48,6 +50,8 @@
     - ihmis-suski
     - bergie
   category: navigation
+  origin: auto
+  id: 4abf63a7-afd4-4c98-b0e6-7e8d2ba73883
 - datetime: 2023-04-16T09:42:25.600Z
   text: Motor stopped, sailing with Main, Genoa 1 (10% furled)
   author: ihmis-suski
@@ -75,6 +79,8 @@
     - ihmis-suski
     - bergie
   category: navigation
+  origin: manual
+  id: 7fcd568c-f13a-42d9-bc1e-09922c853fc2
 - datetime: 2023-04-16T10:00:26.598Z
   text: ""
   author: ""
@@ -102,6 +108,8 @@
     - ihmis-suski
     - bergie
   category: navigation
+  origin: auto
+  id: 6968d6fc-77b0-4258-be11-e51581bcbe2d
 - datetime: 2023-04-16T10:17:23.600Z
   text: Poled out to schmetti
   author: ihmis-suski
@@ -133,6 +141,8 @@
     seaState: 2
     cloudCoverage: 7
     visibility: 6
+  origin: manual
+  id: 243e697e-b046-4f61-baef-5d3f50b6d0b2
 - datetime: 2023-04-16T11:00:13.600Z
   text: ""
   author: ""
@@ -160,6 +170,8 @@
     - ihmis-suski
     - bergie
   category: navigation
+  origin: auto
+  id: 08eb73a7-38a2-4da4-9411-e587d8852eab
 - datetime: 2023-04-16T12:00:02.598Z
   text: ""
   author: ""
@@ -187,6 +199,8 @@
     - ihmis-suski
     - bergie
   category: navigation
+  origin: auto
+  id: 0a57c13a-2940-4074-a665-bede73a27fed
 - datetime: 2023-04-16T12:24:52.601Z
   text: "Sails set: Main, Genoa 1. No need to have the reef half wind"
   author: bergie
@@ -214,6 +228,8 @@
     - ihmis-suski
     - bergie
   category: navigation
+  origin: manual
+  id: 1dda513e-ea52-42aa-9c98-27661454491a
 - datetime: 2023-04-16T12:38:28.601Z
   text: Sails down, motoring
   author: ""
@@ -241,6 +257,8 @@
     - ihmis-suski
     - bergie
   category: navigation
+  origin: auto
+  id: f2d21a30-8655-4614-af33-a7f58a286296
 - datetime: 2023-04-16T13:00:50.598Z
   text: ""
   author: ""
@@ -268,6 +286,8 @@
     - ihmis-suski
     - bergie
   category: navigation
+  origin: auto
+  id: 250aac73-e7d8-4eda-8a38-2ddc04bc3f68
 - datetime: 2023-04-16T13:22:15.900Z
   text: Anchored, Glewitzer Wiek
   author: bergie
@@ -296,6 +316,8 @@
   observations:
     seaState: 2
     cloudCoverage: 4
+  origin: manual
+  id: 3cb8abd5-3169-45a2-b39c-2df60e229cb9
 - datetime: 2023-04-16T13:24:24.899Z
   text: Stopped main engine
   author: ""
@@ -320,3 +342,5 @@
     - ihmis-suski
     - bergie
   category: navigation
+  origin: auto
+  id: e855573a-1632-49c7-aa80-2cf3f25cc112

@@ -21,6 +21,8 @@
     - bergie
     - ihmis-suski
   category: navigation
+  origin: auto
+  id: 201b91a1-4009-4e5e-ba59-8ecfcdc122d5
 - datetime: 2023-11-14T17:37:47.500Z
   text: Anchor up, motoring
   author: bergie
@@ -44,6 +46,8 @@
     - bergie
     - ihmis-suski
   category: navigation
+  origin: manual
+  id: dafc594e-c58e-4766-aede-92c5f170a2b0
 - datetime: 2023-11-14T17:41:32.499Z
   text: Anchored on the north end of the bay for the anticipated wind shift
   author: bergie
@@ -68,6 +72,8 @@
     - ihmis-suski
   end: true
   category: navigation
+  origin: manual
+  id: 953634c5-127f-4f1d-a8eb-8add8387de39
 - datetime: 2023-11-14T17:45:14.502Z
   text: Stopped main engine
   author: ""
@@ -91,3 +97,5 @@
     - bergie
     - ihmis-suski
   category: navigation
+  origin: auto
+  id: 95088aaa-33b6-4ba9-abd4-f886621a7c2f

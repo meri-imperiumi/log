@@ -22,6 +22,8 @@
     - bergie
     - ihmis-suski
   category: navigation
+  origin: auto
+  id: e9753d35-0fc9-4962-839f-a1f1d65a4658
 - datetime: 2023-08-03T06:57:18.300Z
   text: Motoring
   author: ""
@@ -46,6 +48,8 @@
     - bergie
     - ihmis-suski
   category: navigation
+  origin: auto
+  id: 1b3249fd-048f-496d-b997-252053b3becc
 - datetime: 2023-08-03T07:00:15.299Z
   text: ""
   author: ""
@@ -70,6 +74,8 @@
     - bergie
     - ihmis-suski
   category: navigation
+  origin: auto
+  id: 46ce4acb-7527-4ba5-88fc-2a3e4efe10c2
 - datetime: 2023-08-03T07:03:06.300Z
   text: Motor stopped, sailing with Main
   author: bergie
@@ -94,6 +100,8 @@
     - bergie
     - ihmis-suski
   category: navigation
+  origin: manual
+  id: 1d24d002-7fe1-4135-9b0a-6ae0882a75c9
 - datetime: 2023-08-03T07:40:31.299Z
   text: "Sails set: Main, Staysail"
   author: ""
@@ -118,6 +126,8 @@
     - bergie
     - ihmis-suski
   category: navigation
+  origin: auto
+  id: 72aee1dc-78fe-4d70-8c25-3ed5d2a9d621
 - datetime: 2023-08-03T07:42:07.299Z
   text: Wing onnwing
   author: ihmis-suski
@@ -146,6 +156,8 @@
     seaState: 2
     cloudCoverage: 8
     visibility: 8
+  origin: manual
+  id: d4e0089d-c2b4-445c-9bd9-17f69e357754
 - datetime: 2023-08-03T07:44:06.300Z
   text: Autopilot activated
   author: ""
@@ -170,6 +182,8 @@
     - bergie
     - ihmis-suski
   category: navigation
+  origin: auto
+  id: 444aa138-ac76-47e5-8a41-a9447a80f421
 - datetime: 2023-08-03T07:46:06.300Z
   text: "Deployed hydrogenerator "
   author: bergie
@@ -194,6 +208,8 @@
     - bergie
     - ihmis-suski
   category: navigation
+  origin: manual
+  id: d74c0c0c-9a55-45d7-9dae-bc94431d9862
 - datetime: 2023-08-03T08:00:02.598Z
   text: ""
   author: ""
@@ -218,6 +234,8 @@
     - bergie
     - ihmis-suski
   category: navigation
+  origin: auto
+  id: f3300455-8099-4d12-8a7d-7186cc613f12
 - datetime: 2023-08-03T08:23:55.600Z
   text: Stowed hydrogenerator, looks like sun is coming out
   author: bergie
@@ -242,6 +260,8 @@
     - bergie
     - ihmis-suski
   category: navigation
+  origin: manual
+  id: c1797e70-e5f6-4f54-af82-a6472a628600
 - datetime: 2023-08-03T08:32:38.598Z
   text: Autopilot deactivated
   author: ""
@@ -266,6 +286,8 @@
     - bergie
     - ihmis-suski
   category: navigation
+  origin: auto
+  id: 1d9a20bb-6652-41f5-8412-5a32747a7cc7
 - datetime: 2023-08-03T08:34:16.601Z
   text: Autopilot activated
   author: ""
@@ -290,6 +312,8 @@
     - bergie
     - ihmis-suski
   category: navigation
+  origin: auto
+  id: 5c9729f2-1fe6-4368-a629-d046d58148df
 - datetime: 2023-08-03T09:00:46.598Z
   text: ""
   author: ""
@@ -314,6 +338,8 @@
     - bergie
     - ihmis-suski
   category: navigation
+  origin: auto
+  id: fc6fd5b7-ec8e-4c54-a09d-37785c05ca55
 - datetime: 2023-08-03T09:14:42.598Z
   text: Watermaker on, 24ppm
   author: ihmis-suski
@@ -338,6 +364,8 @@
     - bergie
     - ihmis-suski
   category: maintenance
+  origin: manual
+  id: f11694e1-4d00-4d98-ad99-1c88cca71838
 - datetime: 2023-08-03T09:20:14.598Z
   text: Autopilot deactivated
   author: ""
@@ -362,6 +390,8 @@
     - bergie
     - ihmis-suski
   category: navigation
+  origin: auto
+  id: 399622e5-219e-4bf9-8485-15fb41fb1a23
 - datetime: 2023-08-03T09:20:57.600Z
   text: Autopilot activated
   author: ""
@@ -386,6 +416,8 @@
     - bergie
     - ihmis-suski
   category: navigation
+  origin: auto
+  id: 5f96e197-53ec-459d-9d97-e6c0bb3c32e8
 - datetime: 2023-08-03T09:32:41.600Z
   text: Autopilot deactivated
   author: ""
@@ -410,6 +442,8 @@
     - bergie
     - ihmis-suski
   category: navigation
+  origin: auto
+  id: 3f6e5a29-392a-41ec-8e25-4d72d0bf0092
 - datetime: 2023-08-03T09:36:36.601Z
   text: "Deployed hydrogenerator "
   author: bergie
@@ -434,6 +468,8 @@
     - bergie
     - ihmis-suski
   category: navigation
+  origin: manual
+  id: 4efb454e-63a8-4f7e-a4eb-b7044a0ce0a9
 - datetime: 2023-08-03T09:47:34.598Z
   text: Autopilot activated
   author: ""
@@ -458,6 +494,8 @@
     - bergie
     - ihmis-suski
   category: navigation
+  origin: auto
+  id: d99f5457-afbd-4ee5-b330-12717a5d7ec1
 - datetime: 2023-08-03T09:56:15.600Z
   text: Autopilot deactivated
   author: ""
@@ -482,6 +520,8 @@
     - bergie
     - ihmis-suski
   category: navigation
+  origin: auto
+  id: c78daa7f-ae41-4fc4-b7f0-98e6cbfb5c66
 - datetime: 2023-08-03T10:00:30.598Z
   text: ""
   author: ""
@@ -506,6 +546,8 @@
     - bergie
     - ihmis-suski
   category: navigation
+  origin: auto
+  id: 318077ec-ca1c-4f53-9b8a-0e9b4d4b1729
 - datetime: 2023-08-03T10:18:41.699Z
   text: "Sails set: Main (1st reef), Staysail. Gusts up to 27kt"
   author: bergie
@@ -530,6 +572,8 @@
     - bergie
     - ihmis-suski
   category: navigation
+  origin: manual
+  id: f3ec16ed-a182-49d2-97f5-9cd5d65e3b04
 - datetime: 2023-08-03T11:00:19.600Z
   text: ""
   author: ""
@@ -554,6 +598,8 @@
     - bergie
     - ihmis-suski
   category: navigation
+  origin: auto
+  id: 17aca9a9-b9c0-4780-a762-8eb4901adf01
 - datetime: 2023-08-03T11:26:16.700Z
   text: Watermaker off, 25 units, canister full.
   author: ihmis-suski
@@ -578,6 +624,8 @@
     - bergie
     - ihmis-suski
   category: maintenance
+  origin: manual
+  id: 3ac730e0-e651-43a0-909d-d48709e26e56
 - datetime: 2023-08-03T11:35:14.700Z
   text: "Stowed hydrogenerator "
   author: bergie
@@ -602,6 +650,8 @@
     - bergie
     - ihmis-suski
   category: navigation
+  origin: manual
+  id: c177b670-951d-4001-ba7d-9cc569150f78
 - datetime: 2023-08-03T11:51:39.699Z
   text: Sails down, motoring
   author: ""
@@ -626,6 +676,8 @@
     - bergie
     - ihmis-suski
   category: navigation
+  origin: auto
+  id: 7aca15cb-09fb-481b-acc8-9f60bdd674a0
 - datetime: 2023-08-03T12:00:10.700Z
   text: ""
   author: ""
@@ -650,6 +702,8 @@
     - bergie
     - ihmis-suski
   category: navigation
+  origin: auto
+  id: 10121a5f-c6bd-44dd-9c6b-776575788558
 - datetime: 2023-08-03T12:04:06.700Z
   text: Stopped
   author: ""
@@ -675,3 +729,5 @@
     - ihmis-suski
   end: true
   category: navigation
+  origin: auto
+  id: 60911a02-f3ef-447b-9b07-9ca01e9c0d41

@@ -21,6 +21,8 @@
     - bergie
     - ihmis-suski
   category: navigation
+  origin: auto
+  id: acf9259a-4807-404f-8e2c-b011862c8679
 - datetime: 2023-07-31T07:40:18.800Z
   text: Motoring
   author: ""
@@ -44,6 +46,8 @@
     - bergie
     - ihmis-suski
   category: navigation
+  origin: auto
+  id: 0ce96ada-c5bd-47ab-9398-b6cae0c53bec
 - datetime: 2023-07-31T08:00:13.798Z
   text: ""
   author: ""
@@ -67,6 +71,8 @@
     - bergie
     - ihmis-suski
   category: navigation
+  origin: auto
+  id: af8fef92-bc2e-4adc-9197-694d7985f84f
 - datetime: 2023-07-31T08:26:48.800Z
   text: Stopped
   author: ""
@@ -91,6 +97,8 @@
     - ihmis-suski
   end: true
   category: navigation
+  origin: auto
+  id: fc491572-28d6-4b30-801c-6e9f1ff3e501
 - datetime: 2023-07-31T12:43:00.198Z
   text: Started watermaker, 24ppm
   author: bergie
@@ -114,6 +122,8 @@
     - bergie
     - ihmis-suski
   category: maintenance
+  origin: manual
+  id: c8b97403-3d13-45dd-90f5-d0b398ea4303
 - datetime: 2023-07-31T14:56:25.203Z
   text: Stopped watermaker, 22ppm, jug full
   author: bergie
@@ -137,6 +147,8 @@
     - bergie
     - ihmis-suski
   category: maintenance
+  origin: manual
+  id: 0e554556-8001-478f-85a9-2ec6e61ef893
 - datetime: 2023-07-31T20:55:41.196Z
   text: Ran diesel heater to dry the air a bit
   author: bergie
@@ -160,3 +172,5 @@
     - bergie
     - ihmis-suski
   category: maintenance
+  origin: manual
+  id: fa6888f6-34b1-46f4-a8dd-080a81ddd0c1

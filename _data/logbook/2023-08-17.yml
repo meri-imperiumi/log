@@ -22,6 +22,8 @@
     - bergie
     - ihmis-suski
   category: navigation
+  origin: auto
+  id: 11f3cdc8-54c9-444e-a1d0-77eeb77c5219
 - datetime: 2023-08-17T03:08:43.400Z
   text: Anchor up, motoring
   author: bergie
@@ -46,6 +48,8 @@
     - bergie
     - ihmis-suski
   category: navigation
+  origin: manual
+  id: 1091006c-482e-4189-8ac9-c637a6d8332c
 - datetime: 2023-08-17T03:09:21.400Z
   text: Autopilot activated
   author: ""
@@ -70,6 +74,8 @@
     - bergie
     - ihmis-suski
   category: navigation
+  origin: auto
+  id: 2a8a850f-166a-4886-b4cd-29a739b2beed
 - datetime: 2023-08-17T03:17:45.400Z
   text: Motor stopped, sailing with Main, Genoa 1
   author: ""
@@ -94,6 +100,8 @@
     - bergie
     - ihmis-suski
   category: navigation
+  origin: auto
+  id: 298f82f4-c3fb-43f4-afa1-2df41af52163
 - datetime: 2023-08-17T03:39:35.400Z
   text: Suski on watch, Bergie back to bed
   author: bergie
@@ -118,6 +126,8 @@
     - bergie
     - ihmis-suski
   category: navigation
+  origin: manual
+  id: 0e0b2268-c983-4ac5-bb5e-f8d2a2a0f7f7
 - datetime: 2023-08-17T04:00:29.400Z
   text: ""
   author: ""
@@ -142,6 +152,8 @@
     - bergie
     - ihmis-suski
   category: navigation
+  origin: auto
+  id: 6b8a5671-30d1-48af-9b6f-25520e75e132
 - datetime: 2023-08-17T05:00:13.400Z
   text: ""
   author: ""
@@ -166,6 +178,8 @@
     - bergie
     - ihmis-suski
   category: navigation
+  origin: auto
+  id: 3084f55f-e011-4d6b-8582-5f3a4aa50f86
 - datetime: 2023-08-17T05:41:03.400Z
   text: Wind finally filling in after clearing the islands.
   author: ihmis-suski
@@ -194,6 +208,8 @@
     seaState: 2
     visibility: 8
     cloudCoverage: 0
+  origin: manual
+  id: 98f946e7-ab1b-4875-81a5-31c5a2f0a18b
 - datetime: 2023-08-17T06:00:57.400Z
   text: ""
   author: ""
@@ -218,6 +234,8 @@
     - bergie
     - ihmis-suski
   category: navigation
+  origin: auto
+  id: d877ca5b-f62a-4ef1-8c9e-53edcf322b76
 - datetime: 2023-08-17T06:59:43.400Z
   text: "Sailing smoothly "
   author: ihmis-suski
@@ -246,6 +264,8 @@
     seaState: 2
     cloudCoverage: 1
     visibility: 8
+  origin: manual
+  id: 989dae93-3fae-44d2-a6fd-cff26697e1ac
 - datetime: 2023-08-17T07:00:43.400Z
   text: ""
   author: ""
@@ -270,6 +290,8 @@
     - bergie
     - ihmis-suski
   category: navigation
+  origin: auto
+  id: 8ddea624-39e5-4dc6-a92f-c1f64e1cf162
 - datetime: 2023-08-17T08:00:28.499Z
   text: ""
   author: ""
@@ -294,6 +316,8 @@
     - bergie
     - ihmis-suski
   category: navigation
+  origin: auto
+  id: b76321ba-1ed3-413f-8ab0-6e080874e60d
 - datetime: 2023-08-17T08:00:28.499Z
   text: Hydro on
   author: ihmis-suski
@@ -318,6 +342,8 @@
     - bergie
     - ihmis-suski
   category: maintenance
+  origin: manual
+  id: dfa74449-9f9c-4d62-bd11-4e83928e2f62
 - datetime: 2023-08-17T08:58:55.500Z
   text: "Autopilot deactivated, windvane steering "
   author: bergie
@@ -342,6 +368,8 @@
     - bergie
     - ihmis-suski
   category: navigation
+  origin: manual
+  id: ea8fe258-7511-4b4f-9bb9-535522247d21
 - datetime: 2023-08-17T09:00:25.500Z
   text: Bergie on watch
   author: bergie
@@ -370,6 +398,8 @@
     cloudCoverage: 2
     seaState: 3
     visibility: 8
+  origin: manual
+  id: 45bb0dfe-14d2-4dac-a93f-1c7da70c011e
 - datetime: 2023-08-17T09:19:25.500Z
   text: "Entered Sweden "
   author: bergie
@@ -394,6 +424,8 @@
     - bergie
     - ihmis-suski
   category: navigation
+  origin: manual
+  id: fb2e9040-1979-45f2-b2b2-f3be427c28dd
 - datetime: 2023-08-17T09:28:25.500Z
   text: Out of the main traffic lanes
   author: bergie
@@ -418,6 +450,8 @@
     - bergie
     - ihmis-suski
   category: navigation
+  origin: manual
+  id: e7f88c15-4001-445f-89a2-69f514147e1b
 - datetime: 2023-08-17T10:00:25.500Z
   text: ""
   author: ""
@@ -442,6 +476,8 @@
     - bergie
     - ihmis-suski
   category: navigation
+  origin: auto
+  id: 83e2ad43-b125-4737-87c3-56042c3d9811
 - datetime: 2023-08-17T11:00:26.499Z
   text: ""
   author: bergie
@@ -470,6 +506,8 @@
     seaState: 2
     cloudCoverage: 1
     visibility: 8
+  origin: manual
+  id: ded70f55-4ede-4f03-b2fc-6ce31a8b0a78
 - datetime: 2023-08-17T11:43:18.800Z
   text: "Wing on wing, wind is dropping "
   author: bergie
@@ -494,6 +532,8 @@
     - bergie
     - ihmis-suski
   category: navigation
+  origin: manual
+  id: a1c2bfd2-bb52-4410-b382-a732336a9dde
 - datetime: 2023-08-17T12:00:13.798Z
   text: ""
   author: ""
@@ -518,6 +558,8 @@
     - bergie
     - ihmis-suski
   category: navigation
+  origin: auto
+  id: 128cdb38-e071-48d8-a4e0-12ede80f7570
 - datetime: 2023-08-17T12:12:09.798Z
   text: "Passing the Svenska Högarna lighthouse "
   author: bergie
@@ -546,6 +588,8 @@
     seaState: 2
     cloudCoverage: 1
     visibility: 8
+  origin: manual
+  id: 99eab5d1-c3e9-4b4a-a003-b2507445f229
 - datetime: 2023-08-17T13:00:58.800Z
   text: ""
   author: bergie
@@ -574,6 +618,8 @@
     cloudCoverage: 3
     seaState: 2
     visibility: 8
+  origin: manual
+  id: 167961cb-767c-47dc-b53c-045ad273ac4f
 - datetime: 2023-08-17T14:00:48.899Z
   text: ""
   author: ""
@@ -598,6 +644,8 @@
     - bergie
     - ihmis-suski
   category: navigation
+  origin: auto
+  id: 35ce6ada-f361-4ed0-a045-4943d81a4675
 - datetime: 2023-08-17T15:00:37.900Z
   text: Suski on watch
   author: bergie
@@ -622,6 +670,8 @@
     - bergie
     - ihmis-suski
   category: navigation
+  origin: manual
+  id: 82b2886c-8c77-4b6a-8552-b3d90cb04c95
 - datetime: 2023-08-17T16:00:34.899Z
   text: ""
   author: ""
@@ -646,6 +696,8 @@
     - bergie
     - ihmis-suski
   category: navigation
+  origin: auto
+  id: b9bcc2b1-a836-4088-a62f-a0fd61668c4c
 - datetime: 2023-08-17T17:00:28.902Z
   text: ""
   author: ""
@@ -670,6 +722,8 @@
     - bergie
     - ihmis-suski
   category: navigation
+  origin: auto
+  id: 2c400515-e5c2-409f-b58a-6e7081b2f864
 - datetime: 2023-08-17T17:07:31.897Z
   text: "Sails set: Main, Genoa 1 (20% furled). Sails flapping in under 10 kt
     winds, trying more furling in wing on wing."
@@ -695,6 +749,8 @@
     - bergie
     - ihmis-suski
   category: navigation
+  origin: manual
+  id: e24ae6db-4cbf-4a61-9d13-03db1aea9018
 - datetime: 2023-08-17T18:00:20.902Z
   text: ""
   author: ""
@@ -719,6 +775,8 @@
     - bergie
     - ihmis-suski
   category: navigation
+  origin: auto
+  id: 00218b3a-3ef6-49b1-81c4-ab610238913d
 - datetime: 2023-08-17T18:37:36.902Z
   text: Autopilot activated
   author: ""
@@ -743,6 +801,8 @@
     - bergie
     - ihmis-suski
   category: navigation
+  origin: auto
+  id: 66cb7a07-57c0-4b5b-9ee1-17a6d32cf93d
 - datetime: 2023-08-17T19:00:13.900Z
   text: ""
   author: ""
@@ -767,6 +827,8 @@
     - bergie
     - ihmis-suski
   category: navigation
+  origin: auto
+  id: e41aa050-8fd8-4124-8cc8-6f3623c1b78f
 - datetime: 2023-08-17T19:53:34.899Z
   text: Autopilot deactivated. Windvane steering.
   author: ihmis-suski
@@ -791,6 +853,8 @@
     - bergie
     - ihmis-suski
   category: navigation
+  origin: manual
+  id: a8bd482c-f40e-46f3-a51e-7dd9d6a0e4f8
 - datetime: 2023-08-17T20:00:08.902Z
   text: ""
   author: ""
@@ -815,6 +879,8 @@
     - bergie
     - ihmis-suski
   category: navigation
+  origin: auto
+  id: e838e398-98ee-4d33-9950-c385f25e6ce9
 - datetime: 2023-08-17T21:00:09.900Z
   text: "Bergie on watch, Suski to bed "
   author: bergie
@@ -839,6 +905,8 @@
     - bergie
     - ihmis-suski
   category: navigation
+  origin: manual
+  id: de196d1d-a042-4240-bc84-3452e64792bf
 - datetime: 2023-08-17T22:00:10.201Z
   text: ""
   author: ""
@@ -863,6 +931,8 @@
     - bergie
     - ihmis-suski
   category: navigation
+  origin: auto
+  id: 2c7b7d0f-d675-4719-b556-8b67dac0ee4a
 - datetime: 2023-08-17T22:39:11.200Z
   text: Some flashes in the sky in the east, but very far away. No sound
   author: bergie
@@ -887,6 +957,8 @@
     - bergie
     - ihmis-suski
   category: navigation
+  origin: manual
+  id: 61a7d767-f9dc-405e-ad99-81cd844a6231
 - datetime: 2023-08-17T23:00:11.200Z
   text: ""
   author: ""
@@ -910,3 +982,6 @@
   crewNames:
     - bergie
     - ihmis-suski
+  category: navigation
+  origin: auto
+  id: cb186053-7d45-42be-8376-448753225ee7

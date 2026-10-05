@@ -19,6 +19,8 @@
     - ihmis-suski
     - bergie
   category: navigation
+  origin: auto
+  id: 485a9e6a-f517-4a9a-bade-3c9c5c84aea5
 - datetime: 2024-04-06T07:01:32.600Z
   text: Motoring
   author: ""
@@ -40,6 +42,8 @@
     - ihmis-suski
     - bergie
   category: navigation
+  origin: auto
+  id: 1ef8d1c5-f038-438b-b2a5-7c1957f40ac3
 - datetime: 2024-04-06T07:44:41.500Z
   text: Stopped, Schleuse Spandau wartestelle
   author: bergie
@@ -66,6 +70,8 @@
     cloudCoverage: 2
     seaState: 1
     visibility: 8
+  origin: manual
+  id: 2321f8f7-4308-4da1-ab1e-05df92080499
 - datetime: 2024-04-06T08:03:10.499Z
   text: Started main engine
   author: ""
@@ -87,6 +93,8 @@
     - ihmis-suski
     - bergie
   category: navigation
+  origin: auto
+  id: c0e6668d-2ac9-41cf-9d00-c2ae8ed30154
 - datetime: 2024-04-06T08:05:22.499Z
   text: Motoring
   author: ""
@@ -108,6 +116,8 @@
     - ihmis-suski
     - bergie
   category: navigation
+  origin: auto
+  id: fabae1bc-1ff3-44e5-8ffe-dfc0a1a62844
 - datetime: 2024-04-06T08:06:44.499Z
   text: Stopped, inside Schleuse Spandau
   author: bergie
@@ -130,6 +140,8 @@
     - bergie
   end: true
   category: navigation
+  origin: manual
+  id: 7c26af59-c042-4b95-8c08-1adcee1fe8d2
 - datetime: 2024-04-06T08:06:54.499Z
   text: Started main engine, minor repositioning at the request of the lock keeper
   author: bergie
@@ -151,6 +163,8 @@
     - ihmis-suski
     - bergie
   category: navigation
+  origin: manual
+  id: 08eae7c1-79ac-445f-aa74-1dbbd9fbe90a
 - datetime: 2024-04-06T08:09:16.499Z
   text: Stopped main engine
   author: ""
@@ -172,6 +186,8 @@
     - ihmis-suski
     - bergie
   category: navigation
+  origin: auto
+  id: b4f7925d-a471-4dbb-857c-b1a90ea57e28
 - datetime: 2024-04-06T08:16:42.499Z
   text: Started main engine
   author: ""
@@ -193,6 +209,8 @@
     - ihmis-suski
     - bergie
   category: navigation
+  origin: auto
+  id: ccdb097c-548c-4655-8aa0-1d3967ebeff1
 - datetime: 2024-04-06T08:20:22.499Z
   text: Motoring, out of Schleuse Spandau
   author: bergie
@@ -214,6 +232,8 @@
     - ihmis-suski
     - bergie
   category: navigation
+  origin: manual
+  id: 1d494861-abcb-46ca-a8a4-299bd8a8fd9f
 - datetime: 2024-04-06T08:49:23.500Z
   text: Pumped bilge. Seems we have some milk there
   author: bergie
@@ -235,6 +255,8 @@
     - ihmis-suski
     - bergie
   category: navigation
+  origin: manual
+  id: b89eea3c-0a89-441a-9790-0b1998d62e45
 - datetime: 2024-04-06T09:00:22.598Z
   text: ""
   author: ""
@@ -256,6 +278,8 @@
     - ihmis-suski
     - bergie
   category: navigation
+  origin: auto
+  id: 90c8aec7-b601-4023-ac49-2d654136f545
 - datetime: 2024-04-06T09:38:13.600Z
   text: Passed Dalbe 16
   author: bergie
@@ -279,6 +303,8 @@
   category: navigation
   observations:
     cloudCoverage: 3
+  origin: manual
+  id: d16b3f02-70ef-4b6d-a82c-806631ae7a08
 - datetime: 2024-04-06T10:00:10.598Z
   text: ""
   author: ""
@@ -300,6 +326,8 @@
     - ihmis-suski
     - bergie
   category: navigation
+  origin: auto
+  id: 300b5111-5bb4-4930-b09f-cdbb8c155b20
 - datetime: 2024-04-06T11:00:50.598Z
   text: ""
   author: ""
@@ -321,6 +349,8 @@
     - ihmis-suski
     - bergie
   category: navigation
+  origin: auto
+  id: a9b49aa6-152e-4997-a1d8-df035285e229
 - datetime: 2024-04-06T11:23:43.600Z
   text: Stopped. Schleuse Lehnitz warteplaz. Karin is here with a package!
   author: bergie
@@ -343,6 +373,8 @@
     - bergie
   end: true
   category: navigation
+  origin: manual
+  id: 39906d7f-afd8-4c33-a2dc-5a58a7dd8c40
 - datetime: 2024-04-06T12:03:26.598Z
   text: Started main engine
   author: ""
@@ -364,6 +396,8 @@
     - ihmis-suski
     - bergie
   category: navigation
+  origin: auto
+  id: 6d784334-1ef6-4b2c-b167-f5d1ee1ec200
 - datetime: 2024-04-06T12:06:02.598Z
   text: Motoring
   author: ""
@@ -385,6 +419,8 @@
     - ihmis-suski
     - bergie
   category: navigation
+  origin: auto
+  id: f8542bdf-da11-4a94-b2db-2e4ca55eb767
 - datetime: 2024-04-06T12:07:10.598Z
   text: Stopped inside Schleuse Lehnitz
   author: bergie
@@ -407,6 +443,8 @@
     - bergie
   end: true
   category: navigation
+  origin: manual
+  id: b70844c3-2beb-4d66-9ea9-8db01bf79a8a
 - datetime: 2024-04-06T12:22:42.598Z
   text: Started main engine
   author: ""
@@ -428,6 +466,8 @@
     - ihmis-suski
     - bergie
   category: navigation
+  origin: auto
+  id: c11f40fa-7389-4934-8d17-5844d4feb4c4
 - datetime: 2024-04-06T12:23:57.600Z
   text: Motoring
   author: ""
@@ -449,6 +489,8 @@
     - ihmis-suski
     - bergie
   category: navigation
+  origin: auto
+  id: 68e70e9f-5c4d-472c-9549-073c92cd1a00
 - datetime: 2024-04-06T13:00:39.600Z
   text: ""
   author: ""
@@ -470,6 +512,8 @@
     - ihmis-suski
     - bergie
   category: navigation
+  origin: auto
+  id: 1ebba7ea-846c-41a3-8736-b27aeb5c8d33
 - datetime: 2024-04-06T14:00:24.000Z
   text: ""
   author: ""
@@ -491,6 +535,8 @@
     - ihmis-suski
     - bergie
   category: navigation
+  origin: auto
+  id: d9e01063-164c-4dc5-ab50-f0560ed89fc7
 - datetime: 2024-04-06T15:00:07.001Z
   text: ""
   author: ""
@@ -512,6 +558,8 @@
     - ihmis-suski
     - bergie
   category: navigation
+  origin: auto
+  id: 6fbb45a0-348c-402d-b641-08dbf474918f
 - datetime: 2024-04-06T15:53:50.003Z
   text: The upper B&G Triton2 just rebooted for some reason
   author: bergie
@@ -533,6 +581,8 @@
     - ihmis-suski
     - bergie
   category: maintenance
+  origin: manual
+  id: ca2c574f-e8cd-44c6-9284-4fa1004c5431
 - datetime: 2024-04-06T16:00:48.000Z
   text: ""
   author: ""
@@ -554,6 +604,8 @@
     - ihmis-suski
     - bergie
   category: navigation
+  origin: auto
+  id: 16b58386-9fb4-4a71-8903-05113f4a78dd
 - datetime: 2024-04-06T17:00:33.100Z
   text: ""
   author: ""
@@ -575,6 +627,8 @@
     - ihmis-suski
     - bergie
   category: navigation
+  origin: auto
+  id: 5fd4efe5-35fb-46c4-bfd8-5a81fb495003
 - datetime: 2024-04-06T17:29:23.097Z
   text: Stopped, Hebewerk Nord wartestelle
   author: bergie
@@ -597,6 +651,8 @@
     - bergie
   end: true
   category: navigation
+  origin: manual
+  id: be30c4ab-01a6-40ac-a807-32f95cb7925d
 - datetime: 2024-04-06T17:58:17.100Z
   text: Started main engine
   author: ""
@@ -618,6 +674,8 @@
     - ihmis-suski
     - bergie
   category: navigation
+  origin: auto
+  id: 08d92d6f-8126-4cd7-8646-a41892c9925f
 - datetime: 2024-04-06T18:01:28.102Z
   text: Motoring
   author: ""
@@ -639,6 +697,8 @@
     - ihmis-suski
     - bergie
   category: navigation
+  origin: auto
+  id: b853cde9-5388-4ed8-a809-19d01c55b75a
 - datetime: 2024-04-06T18:06:44.102Z
   text: Stopped inside Niederfinow Nord
   author: bergie
@@ -661,6 +721,8 @@
     - bergie
   end: true
   category: navigation
+  origin: manual
+  id: 6a014ae6-e3c1-4d84-9b77-8d2fb0261fea
 - datetime: 2024-04-06T18:26:42.099Z
   text: Started main engine
   author: ""
@@ -682,6 +744,8 @@
     - ihmis-suski
     - bergie
   category: navigation
+  origin: auto
+  id: 7fad6ce8-8177-4a65-bcd6-7fec4762aba7
 - datetime: 2024-04-06T18:29:21.100Z
   text: Motoring
   author: ""
@@ -703,6 +767,8 @@
     - ihmis-suski
     - bergie
   category: navigation
+  origin: auto
+  id: f958bd99-e373-4986-9d4a-3169b7a4e9fe
 - datetime: 2024-04-06T18:36:53.100Z
   text: Stopped, Niederfinow Nord lower warteplatz
   author: bergie
@@ -724,3 +790,5 @@
     - bergie
   end: true
   category: navigation
+  origin: manual
+  id: 1bc20b95-db93-4268-8350-08d71398808f

@@ -1,14 +1,20 @@
 - datetime: 2022-05-14T06:29:00.000Z
   text: Motor on, to fuel dock
   category: navigation
+  origin: auto
+  id: 30630950-0567-45f2-8db0-6daeeaab3d22
 - datetime: 2022-05-14T06:45:00.000Z
   text: Filled up 55l
   category: engine
   engine:
     hours: 350.1
+  origin: auto
+  id: db45f556-7c5f-4a13-a208-15701af35b72
 - datetime: 2022-05-14T06:55:00.000Z
   text: Sails up, towards the bridge
   category: navigation
+  origin: auto
+  id: 39b6a5f7-2195-4c3d-be9d-1c5fc4969705
 - datetime: 2022-05-14T08:22:00.000Z
   text: Gusts up to 35kt, first reef. Boat speed >6kt
   category: navigation
@@ -25,6 +31,8 @@
     longitude: 16.493333
     latitude: 56.771667
     source: GPS
+  origin: auto
+  id: 9de5da47-1b71-4967-ba94-e781fc0a2e61
 - datetime: 2022-05-14T11:02:00.000Z
   text: Suski on duty, Flammkuchen almost ready
   category: navigation
@@ -39,6 +47,8 @@
     longitude: 16.623333
     latitude: 57.023333
     source: GPS
+  origin: auto
+  id: e4fade3d-0a1d-4d30-b953-cb2d6f112095
 - datetime: 2022-05-14T13:45:00.000Z
   text: Sails down, motor on
   category: navigation
@@ -49,6 +59,8 @@
     longitude: 16.493333
     latitude: 57.2
     source: GPS
+  origin: auto
+  id: 1b03d82c-24be-4d82-895e-845675b13e88
 - datetime: 2022-05-14T14:07:00.000Z
   text: Aft anchor, bow to the trees. Nature harbour for ourselves
   category: navigation
@@ -56,3 +68,5 @@
     longitude: 16.468333
     latitude: 57.198333
     source: GPS
+  origin: auto
+  id: 0502c9ed-4e90-49f4-a250-1c3f680dbe33

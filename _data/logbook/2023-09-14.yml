@@ -22,6 +22,8 @@
     - bergie
     - ihmis-suski
   category: navigation
+  origin: auto
+  id: 63d71540-366c-4d02-993a-751d4e49d910
 - datetime: 2023-09-14T00:38:03.100Z
   text: Entered Polish waters
   author: bergie
@@ -46,6 +48,8 @@
     - bergie
     - ihmis-suski
   category: navigation
+  origin: manual
+  id: 428f97bf-ef4a-4f2b-ac59-5155bc838211
 - datetime: 2023-09-14T01:00:03.100Z
   text: ""
   author: ""
@@ -70,6 +74,8 @@
     - bergie
     - ihmis-suski
   category: navigation
+  origin: auto
+  id: bc36e5f5-69ed-449a-b235-4fb87348f8f3
 - datetime: 2023-09-14T01:22:04.100Z
   text: "Battery is 5% up overnight with the hydro "
   author: bergie
@@ -94,6 +100,8 @@
     - bergie
     - ihmis-suski
   category: navigation
+  origin: manual
+  id: 8aca8c43-faaa-4992-bf56-92e37a7fe15d
 - datetime: 2023-09-14T02:00:04.500Z
   text: ""
   author: ""
@@ -118,6 +126,8 @@
     - bergie
     - ihmis-suski
   category: navigation
+  origin: auto
+  id: 4be4785a-6a13-43ee-9561-9aabec9fb6ac
 - datetime: 2023-09-14T02:09:04.500Z
   text: "Stowed hydrogenerator "
   author: bergie
@@ -142,6 +152,8 @@
     - bergie
     - ihmis-suski
   category: navigation
+  origin: manual
+  id: 9bd64d84-3b82-4eab-a65f-a20c180b0575
 - datetime: 2023-09-14T02:17:25.500Z
   text: Autopilot activated
   author: ""
@@ -166,6 +178,8 @@
     - bergie
     - ihmis-suski
   category: navigation
+  origin: auto
+  id: 42be58b5-f2b0-417d-af7d-7f11b0f6bbf2
 - datetime: 2023-09-14T02:22:33.500Z
   text: Autopilot deactivated
   author: ""
@@ -190,6 +204,8 @@
     - bergie
     - ihmis-suski
   category: navigation
+  origin: auto
+  id: 59774642-bf00-4b38-b985-5a2705fc5c8e
 - datetime: 2023-09-14T02:51:11.500Z
   text: Sails down, motoring
   author: ""
@@ -214,6 +230,8 @@
     - bergie
     - ihmis-suski
   category: navigation
+  origin: auto
+  id: 438bae56-a427-48f5-9b17-dd2992c25b4f
 - datetime: 2023-09-14T03:00:05.500Z
   text: ""
   author: ""
@@ -238,6 +256,8 @@
     - bergie
     - ihmis-suski
   category: navigation
+  origin: auto
+  id: f0cefb8c-c960-4b6c-b448-e7735c7935a7
 - datetime: 2023-09-14T03:16:48.500Z
   text: Stopped
   author: ""
@@ -263,3 +283,5 @@
     - ihmis-suski
   end: true
   category: navigation
+  origin: auto
+  id: 596d980b-e0f0-43dd-81c3-43339c8b88ec

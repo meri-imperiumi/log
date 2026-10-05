@@ -23,6 +23,8 @@
     - bergie
     - ihmis-suski
   category: navigation
+  origin: manual
+  id: 16f1bec1-7904-46a4-a8c6-ff704e6e5149
 - datetime: 2023-06-30T14:31:21.100Z
   text: Stopped main engine, waiting in front of the turn bridge. Was advised on
     another 20min wait
@@ -48,6 +50,8 @@
     - bergie
     - ihmis-suski
   category: navigation
+  origin: manual
+  id: 6bfcaf98-0f76-4943-98e5-73249468fdaa
 - datetime: 2023-06-30T15:03:30.099Z
   text: "Started main engine, bridge is finally opening "
   author: bergie
@@ -72,6 +76,8 @@
     - bergie
     - ihmis-suski
   category: navigation
+  origin: manual
+  id: b2726c61-687f-423c-8a0f-67cbcd5f9b34
 - datetime: 2023-06-30T15:07:45.100Z
   text: Motoring
   author: ""
@@ -96,6 +102,8 @@
     - bergie
     - ihmis-suski
   category: navigation
+  origin: auto
+  id: b9385dba-5213-4659-8cee-1fe31e8c68f8
 - datetime: 2023-06-30T15:19:10.099Z
   text: Motor stopped, sailing with Main, Genoa 1
   author: bergie
@@ -120,6 +128,8 @@
     - bergie
     - ihmis-suski
   category: navigation
+  origin: manual
+  id: 4d412856-1f5d-4e3f-b942-002dfcbe766a
 - datetime: 2023-06-30T15:20:46.099Z
   text: Autopilot activated
   author: ""
@@ -144,6 +154,8 @@
     - bergie
     - ihmis-suski
   category: navigation
+  origin: auto
+  id: 649badea-e5db-46f8-978c-377fd2a36e52
 - datetime: 2023-06-30T15:38:37.100Z
   text: Bergie on watch, Suski to bed
   author: bergie
@@ -172,6 +184,8 @@
     cloudCoverage: 2
     seaState: 2
     visibility: 8
+  origin: manual
+  id: a0f5420b-bdb3-4cef-844f-16752a63b039
 - datetime: 2023-06-30T15:52:34.201Z
   text: "Deployed hydrogenerator "
   author: bergie
@@ -196,6 +210,8 @@
     - bergie
     - ihmis-suski
   category: navigation
+  origin: manual
+  id: 75733584-7059-40cf-91fc-30836765287c
 - datetime: 2023-06-30T15:59:22.201Z
   text: "Autopilot deactivated, windvane steering "
   author: bergie
@@ -220,6 +236,8 @@
     - bergie
     - ihmis-suski
   category: navigation
+  origin: manual
+  id: 7dd93f84-0788-4e32-a5ec-581397b1313c
 - datetime: 2023-06-30T16:00:33.203Z
   text: ""
   author: ""
@@ -244,6 +262,8 @@
     - bergie
     - ihmis-suski
   category: navigation
+  origin: auto
+  id: c0ce804a-a856-4db0-bd93-fe724b07b881
 - datetime: 2023-06-30T17:00:21.196Z
   text: ""
   author: bergie
@@ -272,6 +292,8 @@
     seaState: 2
     cloudCoverage: 2
     visibility: 8
+  origin: manual
+  id: 8f322628-6f38-44ce-984c-22ebd1359071
 - datetime: 2023-06-30T17:29:15.200Z
   text: Out of Tallinn fairway
   author: bergie
@@ -300,6 +322,8 @@
     seaState: 3
     cloudCoverage: 2
     visibility: 8
+  origin: manual
+  id: d6862c4b-71e1-4a0e-974f-0c2fafad1ef6
 - datetime: 2023-06-30T17:33:15.200Z
   text: Started watermaker, 18ppm after 10min
   author: bergie
@@ -324,6 +348,8 @@
     - bergie
     - ihmis-suski
   category: maintenance
+  origin: manual
+  id: 99d8615c-bb47-4e24-9280-5a8a084dd4cb
 - datetime: 2023-06-30T18:00:09.203Z
   text: ""
   author: ""
@@ -348,6 +374,8 @@
     - bergie
     - ihmis-suski
   category: navigation
+  origin: auto
+  id: 4642fbf5-c17e-4ea3-8d7f-7f6674eb0df5
 - datetime: 2023-06-30T18:37:45.203Z
   text: "Sails set: Main, Genoa 1 (30% furled). Wing on wing"
   author: bergie
@@ -372,6 +400,8 @@
     - bergie
     - ihmis-suski
   category: navigation
+  origin: manual
+  id: fe5ca263-bd78-40a8-a22b-7b28afeabc52
 - datetime: 2023-06-30T18:56:57.203Z
   text: Stopped watermaker, 16ppm
   author: bergie
@@ -396,6 +426,8 @@
     - bergie
     - ihmis-suski
   category: maintenance
+  origin: manual
+  id: 2480ff4c-6e25-4bb8-b208-74c755e0bec5
 - datetime: 2023-06-30T19:00:56.198Z
   text: ""
   author: ""
@@ -420,6 +452,8 @@
     - bergie
     - ihmis-suski
   category: navigation
+  origin: auto
+  id: 1f55fbaf-b109-4d7e-ab53-4fa2a94cfff9
 - datetime: 2023-06-30T19:03:56.198Z
   text: Lots of seemingly drunken chatter on 16. "Mario!" "Marco!"
   author: bergie
@@ -444,6 +478,8 @@
     - bergie
     - ihmis-suski
   category: radio
+  origin: manual
+  id: 3dbfa468-63ad-46c2-9072-4331ebf686f3
 - datetime: 2023-06-30T19:08:54.201Z
   text: "Too little wind for the waves to make wing on wing comfortable "
   author: bergie
@@ -468,6 +504,8 @@
     - bergie
     - ihmis-suski
   category: navigation
+  origin: manual
+  id: 42ebd175-c123-4e72-96dd-acac2eb711d7
 - datetime: 2023-06-30T19:16:16.198Z
   text: "Sails set: Main, Genoa 1"
   author: ""
@@ -492,6 +530,8 @@
     - bergie
     - ihmis-suski
   category: navigation
+  origin: auto
+  id: 521ebdb9-e681-4d88-8a2e-159542d9f382
 - datetime: 2023-06-30T20:00:52.198Z
   text: ""
   author: ""
@@ -516,6 +556,8 @@
     - bergie
     - ihmis-suski
   category: navigation
+  origin: auto
+  id: 7564d26e-c7cd-4b4a-9120-cd05c6516afa
 - datetime: 2023-06-30T21:00:52.198Z
   text: Suski on watch, Bergie to bed
   author: bergie
@@ -540,6 +582,8 @@
     - bergie
     - ihmis-suski
   category: navigation
+  origin: manual
+  id: dcf328da-7b73-4f45-84bf-d9c30fcffa7c
 - datetime: 2023-06-30T21:02:53.196Z
   text: Switched to Finnish courtesy flag
   author: bergie
@@ -564,6 +608,8 @@
     - bergie
     - ihmis-suski
   category: navigation
+  origin: manual
+  id: 20afa0b6-5b7b-43d8-a4cd-dbacf1de9a58
 - datetime: 2023-06-30T22:00:53.196Z
   text: ""
   author: ""
@@ -588,6 +634,8 @@
     - bergie
     - ihmis-suski
   category: navigation
+  origin: auto
+  id: b50faf52-7696-4410-8c2d-b99a82cec765
 - datetime: 2023-06-30T22:00:53.196Z
   text: "Hand steering "
   author: ihmis-suski
@@ -612,6 +660,8 @@
     - bergie
     - ihmis-suski
   category: navigation
+  origin: manual
+  id: bd0ab83f-532a-4b99-807b-81fc32134099
 - datetime: 2023-06-30T23:00:53.196Z
   text: ""
   author: ""
@@ -636,3 +686,5 @@
     - bergie
     - ihmis-suski
   category: navigation
+  origin: auto
+  id: 80fa8dac-0ab3-4cf9-bff9-168f54875537

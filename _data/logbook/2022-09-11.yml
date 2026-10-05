@@ -1,11 +1,15 @@
 - datetime: 2022-09-11T01:20:00.000Z
   text: Wing on wing
   category: navigation
+  origin: auto
+  id: 3a25f4ea-127c-442b-a5c0-2423afff25b2
 - datetime: 2022-09-11T01:40:00.000Z
   text: 1st ref 9kn wind
   category: navigation
   wind:
     speed: 9
+  origin: auto
+  id: 218499e5-c386-4198-9499-6b1c6bf6e168
 - datetime: 2022-09-11T04:55:00.000Z
   text: Suski on sleep duty Bergie sailing
   category: navigation
@@ -20,6 +24,8 @@
     longitude: 15.348333
     latitude: 55.241667
     source: GPS
+  origin: auto
+  id: 5c80e295-6b57-4b11-bec0-f4559ab68fb0
 - datetime: 2022-09-11T11:09:00.000Z
   text: Shook out reef, Suski back on watch
   category: navigation
@@ -34,6 +40,8 @@
     longitude: 15.005
     latitude: 54.78
     source: GPS
+  origin: auto
+  id: 6022e29b-ef35-414b-a1c1-081497a5b2c3
 - datetime: 2022-09-11T12:30:00.000Z
   text: Two mainsail cars broke, by cannibalizing got to 2nd reef
   category: navigation
@@ -48,6 +56,8 @@
     longitude: 14.921667
     latitude: 54.701667
     source: GPS
+  origin: auto
+  id: 9246906a-ba77-430e-9c38-9d26e9425fc2
 - datetime: 2022-09-11T13:23:00.000Z
   text: Parasailor up
   category: navigation
@@ -62,6 +72,8 @@
     longitude: 14.868333
     latitude: 54.675
     source: GPS
+  origin: auto
+  id: 04241d90-42be-4fd7-bd7a-b1e90168bb8e
 - datetime: 2022-09-11T14:20:00.000Z
   text: Parasailor down, not enough wind to fill it w/waves. Motoring
   category: navigation
@@ -76,9 +88,13 @@
     longitude: 14.815
     latitude: 54.633333
     source: GPS
+  origin: auto
+  id: fe7d3106-78c0-41f2-99e4-3729c92b5dbf
 - datetime: 2022-09-11T18:08:00.000Z
   text: 2nd ref on motorsailing
   category: navigation
+  origin: auto
+  id: b44f4ade-0fca-452c-8ac0-b549c63b0821
 - datetime: 2022-09-11T19:13:00.000Z
   text: Motorsailing still. Bergie on duty, Suski eating night snack!
   category: navigation
@@ -93,6 +109,10 @@
     longitude: 14.495
     latitude: 54.24
     source: GPS
+  origin: auto
+  id: 09312e4a-ad85-404d-837b-8b9a4e69ce09
 - datetime: 2022-09-11T23:29:00.000Z
   text: Arrival
   category: navigation
+  origin: auto
+  id: aa2ebf7b-bb12-4e64-b3f4-8b41b164847e

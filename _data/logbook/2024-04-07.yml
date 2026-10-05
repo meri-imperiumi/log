@@ -19,6 +19,8 @@
     - ihmis-suski
     - bergie
   category: navigation
+  origin: auto
+  id: 20055cb1-6e43-4411-91e2-2284bf55bbd1
 - datetime: 2024-04-07T04:26:46.099Z
   text: Motoring at sunrise
   author: bergie
@@ -44,6 +46,8 @@
     cloudCoverage: 2
     visibility: 6
     seaState: 0
+  origin: manual
+  id: 37454e71-98af-46b4-8ecf-79c5686de2fd
 - datetime: 2024-04-07T04:43:34.099Z
   text: The upper B&G Triton2 rebooted itself again
   author: bergie
@@ -65,6 +69,8 @@
     - ihmis-suski
     - bergie
   category: maintenance
+  origin: manual
+  id: 26285b6f-1575-485b-bcdb-0541046564d9
 - datetime: 2024-04-07T05:00:29.000Z
   text: ""
   author: ""
@@ -86,6 +92,8 @@
     - ihmis-suski
     - bergie
   category: navigation
+  origin: auto
+  id: d6d72c87-8a9f-4e7a-a385-29d53f08db66
 - datetime: 2024-04-07T05:50:01.000Z
   text: Stopped, Hohensaaten West wartestelle
   author: bergie
@@ -108,6 +116,8 @@
     - bergie
   end: true
   category: navigation
+  origin: manual
+  id: 3c41492f-4fff-4f7c-b0da-b8552d8fb5b7
 - datetime: 2024-04-07T06:05:03.000Z
   text: Started main engine
   author: ""
@@ -129,6 +139,8 @@
     - ihmis-suski
     - bergie
   category: navigation
+  origin: auto
+  id: 69ef833a-7711-47e4-8336-b03a8e6a11be
 - datetime: 2024-04-07T06:10:16.000Z
   text: Motoring
   author: ""
@@ -150,6 +162,8 @@
     - ihmis-suski
     - bergie
   category: navigation
+  origin: auto
+  id: 44cd11a2-9f96-4fac-977e-f43662335104
 - datetime: 2024-04-07T06:11:40.099Z
   text: Stopped, inside Schleuse Hohensaaten West. Trying locks hook from midship
     instead of two lines
@@ -173,6 +187,8 @@
     - bergie
   end: true
   category: navigation
+  origin: manual
+  id: 4b8070d2-1936-4020-a6df-5d7aea1d19de
 - datetime: 2024-04-07T06:19:17.100Z
   text: Started main engine
   author: ""
@@ -194,6 +210,8 @@
     - ihmis-suski
     - bergie
   category: navigation
+  origin: auto
+  id: 01f8994e-18ea-4d74-891d-b33d7aace83d
 - datetime: 2024-04-07T06:21:14.099Z
   text: Motoring
   author: ""
@@ -215,6 +233,8 @@
     - ihmis-suski
     - bergie
   category: navigation
+  origin: auto
+  id: e2a84967-3e8e-4edd-aacf-8fa9cab1b972
 - datetime: 2024-04-07T06:59:59.100Z
   text: ""
   author: ""
@@ -236,6 +256,8 @@
     - ihmis-suski
     - bergie
   category: navigation
+  origin: auto
+  id: 24cd8c92-021c-4d93-abcb-96b46f863c6a
 - datetime: 2024-04-07T07:00:59.100Z
   text: ""
   author: ""
@@ -257,6 +279,8 @@
     - ihmis-suski
     - bergie
   category: navigation
+  origin: auto
+  id: 89e25f91-a096-4aaf-a748-f8794be9d1d9
 - datetime: 2024-04-07T08:00:44.099Z
   text: ""
   author: ""
@@ -278,6 +302,8 @@
     - ihmis-suski
     - bergie
   category: navigation
+  origin: auto
+  id: 0264acf5-5ee4-4b6f-bc98-e39d80a5e7a4
 - datetime: 2024-04-07T09:00:30.099Z
   text: ""
   author: ""
@@ -299,6 +325,8 @@
     - ihmis-suski
     - bergie
   category: navigation
+  origin: auto
+  id: 03f991f1-b745-49e5-a5c2-c2462ae4ca99
 - datetime: 2024-04-07T10:00:13.500Z
   text: Suski on watch
   author: bergie
@@ -320,6 +348,8 @@
     - ihmis-suski
     - bergie
   category: navigation
+  origin: manual
+  id: 576e052e-d033-4af6-9312-30f964685c71
 - datetime: 2024-04-07T10:32:02.499Z
   text: "Courtesy flag of Poland up. "
   author: ihmis-suski
@@ -345,6 +375,8 @@
     seaState: 1
     cloudCoverage: 8
     visibility: 7
+  origin: manual
+  id: 3bcc0ea2-d6fe-4cfd-bda4-44afdd9f89ac
 - datetime: 2024-04-07T11:00:57.500Z
   text: ""
   author: ""
@@ -366,6 +398,8 @@
     - ihmis-suski
     - bergie
   category: navigation
+  origin: auto
+  id: cc8e5704-05a6-47fb-a5d6-bf6342721056
 - datetime: 2024-04-07T12:00:41.500Z
   text: ""
   author: ""
@@ -387,6 +421,8 @@
     - ihmis-suski
     - bergie
   category: navigation
+  origin: auto
+  id: 42b31139-b3c3-4ed8-8107-d12572233780
 - datetime: 2024-04-07T13:00:24.499Z
   text: ""
   author: ""
@@ -408,6 +444,8 @@
     - ihmis-suski
     - bergie
   category: navigation
+  origin: auto
+  id: 20b15db0-0c66-4d6c-b94e-1cce8b51ca06
 - datetime: 2024-04-07T14:00:05.500Z
   text: ""
   author: ""
@@ -429,6 +467,8 @@
     - ihmis-suski
     - bergie
   category: navigation
+  origin: auto
+  id: fbe23df3-4bf6-4d56-9045-16a47ae9ef59
 - datetime: 2024-04-07T14:05:15.500Z
   text: Stopped at AZS marina
   author: bergie
@@ -451,6 +491,8 @@
     - bergie
   end: true
   category: navigation
+  origin: manual
+  id: 49f0d141-6d52-452e-81e9-0760654a6936
 - datetime: 2024-04-07T17:25:06.598Z
   text: Filled up 30l diesel + 2 caps biocide
   author: bergie
@@ -471,3 +513,5 @@
     - ihmis-suski
     - bergie
   category: engine
+  origin: manual
+  id: a523179a-d765-42fd-88fd-70ebb887ec2a

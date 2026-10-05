@@ -21,6 +21,8 @@
     - ihmis-suski
     - bergie
   category: navigation
+  origin: auto
+  id: ab05c71c-53b8-4286-bc16-8905c609af41
 - datetime: 2023-12-15T08:09:48.000Z
   text: Anchor up, motoring
   author: ""
@@ -44,6 +46,8 @@
     - ihmis-suski
     - bergie
   category: navigation
+  origin: auto
+  id: 5fddb3af-5ff3-4bda-9c31-f5684bb465fb
 - datetime: 2023-12-15T08:25:47.001Z
   text: Motor stopped, sailing with Main, Genoa 1
   author: ""
@@ -67,6 +71,8 @@
     - ihmis-suski
     - bergie
   category: navigation
+  origin: auto
+  id: 0089f5d7-4e6c-40fa-acd3-3536740dcf33
 - datetime: 2023-12-15T09:00:28.998Z
   text: Testing the new spinnaker pole
   author: bergie
@@ -90,6 +96,8 @@
     - ihmis-suski
     - bergie
   category: navigation
+  origin: manual
+  id: b277ef9a-cac7-4afe-895a-eb0806d27a0c
 - datetime: 2023-12-15T09:22:03.001Z
   text: Sails down, motoring
   author: ""
@@ -113,6 +121,8 @@
     - ihmis-suski
     - bergie
   category: navigation
+  origin: auto
+  id: 12071966-4c33-471e-b480-8e5113cdcd05
 - datetime: 2023-12-15T09:32:24.000Z
   text: Stopped
   author: ""
@@ -137,3 +147,5 @@
     - bergie
   end: true
   category: navigation
+  origin: auto
+  id: 02892898-bf65-49c1-a072-b4d80ae3484f

@@ -29,6 +29,8 @@
     seaState: 2
     cloudCoverage: 1
     visibility: 7
+  origin: manual
+  id: 01eeb885-e3cb-42bf-99f6-16a789b1f92e
 - datetime: 2023-05-20T01:00:21.600Z
   text: ""
   author: ""
@@ -56,6 +58,8 @@
     - bergie
     - ihmis-suski
   category: navigation
+  origin: auto
+  id: 4bbf9a53-39c8-4997-b5d2-745e21b039f0
 - datetime: 2023-05-20T02:00:10.600Z
   text: ""
   author: ""
@@ -83,6 +87,8 @@
     - bergie
     - ihmis-suski
   category: navigation
+  origin: auto
+  id: 49e6e275-86ec-4abc-8cff-a79cac161cb6
 - datetime: 2023-05-20T02:09:08.600Z
   text: Moved boom preventer to outside genoa sheets to prevent chafe
   author: bergie
@@ -114,6 +120,8 @@
     seaState: 3
     cloudCoverage: 0
     visibility: 7
+  origin: manual
+  id: 86ae810b-e222-4346-9043-8b93f0bf04aa
 - datetime: 2023-05-20T03:00:55.600Z
   text: ""
   author: ""
@@ -141,6 +149,8 @@
     - bergie
     - ihmis-suski
   category: navigation
+  origin: auto
+  id: e71df886-5abf-4e74-aa4d-c3b07f97d90a
 - datetime: 2023-05-20T04:00:39.600Z
   text: ""
   author: ""
@@ -168,6 +178,8 @@
     - bergie
     - ihmis-suski
   category: navigation
+  origin: auto
+  id: 2c8d2b34-2128-4a1f-919c-daaf481a5e51
 - datetime: 2023-05-20T05:00:28.600Z
   text: ""
   author: ""
@@ -195,6 +207,8 @@
     - bergie
     - ihmis-suski
   category: navigation
+  origin: auto
+  id: 1e6f7613-1c9b-4199-b62b-091d4e74dac4
 - datetime: 2023-05-20T05:24:22.600Z
   text: "Stowed hydrogenerator "
   author: bergie
@@ -226,6 +240,8 @@
     seaState: 2
     cloudCoverage: 0
     visibility: 8
+  origin: manual
+  id: acdb2982-5807-4dee-874e-7ecab42e4590
 - datetime: 2023-05-20T05:34:20.600Z
   text: Wind started shifting and dropping, went wing on wing
   author: bergie
@@ -253,6 +269,8 @@
     - bergie
     - ihmis-suski
   category: navigation
+  origin: manual
+  id: 6623d952-dff2-4273-9349-10dec56ff709
 - datetime: 2023-05-20T05:41:31.600Z
   text: Autopilot activated
   author: ""
@@ -280,6 +298,8 @@
     - bergie
     - ihmis-suski
   category: navigation
+  origin: auto
+  id: ee898461-7765-4eee-aff7-7e571f416ba3
 - datetime: 2023-05-20T06:00:15.600Z
   text: Bergie sleeping duty,  Suski on sea watch.
   author: ihmis-suski
@@ -307,6 +327,8 @@
     - bergie
     - ihmis-suski
   category: navigation
+  origin: manual
+  id: 298e9909-9130-492a-b547-7e37fa0efb85
 - datetime: 2023-05-20T06:59:59.900Z
   text: ""
   author: ""
@@ -334,6 +356,8 @@
     - bergie
     - ihmis-suski
   category: navigation
+  origin: auto
+  id: b42d3e98-7bc8-425f-8804-4e32dcfea81c
 - datetime: 2023-05-20T07:20:06.899Z
   text: Autopilot deactivated
   author: ""
@@ -361,6 +385,8 @@
     - bergie
     - ihmis-suski
   category: navigation
+  origin: auto
+  id: 5241a347-0480-4228-955f-1ec0c7fcc50c
 - datetime: 2023-05-20T07:31:15.900Z
   text: Autopilot activated
   author: ""
@@ -388,6 +414,8 @@
     - bergie
     - ihmis-suski
   category: navigation
+  origin: auto
+  id: b81fdaa6-7b63-492f-8cef-d3038d47853b
 - datetime: 2023-05-20T07:46:45.900Z
   text: Total wind shadow, 360 windshift, genoa tangled in inner forestay kind of
     a situation. 🙄
@@ -420,6 +448,8 @@
     seaState: 0
     cloudCoverage: 0
     visibility: 7
+  origin: manual
+  id: 44b2e8ca-2eac-43e6-b0a9-385829638a54
 - datetime: 2023-05-20T07:50:28.899Z
   text: Autopilot deactivated
   author: ""
@@ -447,6 +477,8 @@
     - bergie
     - ihmis-suski
   category: navigation
+  origin: auto
+  id: 9e47d996-74b6-40eb-b888-6c769905a9a3
 - datetime: 2023-05-20T07:58:38.899Z
   text: Autopilot activated
   author: ""
@@ -474,6 +506,8 @@
     - bergie
     - ihmis-suski
   category: navigation
+  origin: auto
+  id: 9899b2d7-89b6-47c7-9ad2-4a61514b9578
 - datetime: 2023-05-20T08:00:40.899Z
   text: ""
   author: ""
@@ -501,6 +535,8 @@
     - bergie
     - ihmis-suski
   category: navigation
+  origin: auto
+  id: a2b2bfa5-0631-48d1-b33c-3fb38d0bf3e6
 - datetime: 2023-05-20T09:00:23.900Z
   text: ""
   author: ""
@@ -528,6 +564,8 @@
     - bergie
     - ihmis-suski
   category: navigation
+  origin: auto
+  id: fa2b998f-a870-4727-a0d4-c7ab9a6f58db
 - datetime: 2023-05-20T09:12:20.899Z
   text: Hylkeitä! Iso lauma hylkeitä!
   author: ihmis-suski
@@ -559,6 +597,8 @@
     seaState: 1
     cloudCoverage: 0
     visibility: 8
+  origin: manual
+  id: 6ecca56c-ca58-4dcc-a462-c3dd40e9c262
 - datetime: 2023-05-20T10:00:06.899Z
   text: ""
   author: ""
@@ -586,6 +626,8 @@
     - bergie
     - ihmis-suski
   category: navigation
+  origin: auto
+  id: b959a317-1e43-413d-a854-e785f75326b7
 - datetime: 2023-05-20T10:14:38.899Z
   text: Autopilot deactivated
   author: ""
@@ -613,6 +655,8 @@
     - bergie
     - ihmis-suski
   category: navigation
+  origin: auto
+  id: 9ce64497-6843-448e-8de4-83bc268ad187
 - datetime: 2023-05-20T10:26:04.899Z
   text: Sails down, motoring
   author: ""
@@ -640,6 +684,8 @@
     - bergie
     - ihmis-suski
   category: navigation
+  origin: auto
+  id: ecf961e1-a1fd-48bd-9c17-e547946f1858
 - datetime: 2023-05-20T10:33:26.899Z
   text: Motor stopped
   author: bergie
@@ -664,6 +710,8 @@
     - bergie
     - ihmis-suski
   category: navigation
+  origin: manual
+  id: 21c54b4f-a2a1-42e7-ad79-bc620d10b82b
 - datetime: 2023-05-20T10:36:13.900Z
   text: "Moored, SXK Juniskär "
   author: bergie
@@ -693,3 +741,5 @@
     seaState: 1
     cloudCoverage: 4
     visibility: 8
+  origin: manual
+  id: b46e5336-9f8b-4592-afa1-94409eb547ba

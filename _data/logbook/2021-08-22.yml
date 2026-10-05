@@ -1,34 +1,52 @@
 - datetime: 2021-08-22T07:35:00.000Z
   text: Leaving harbour
   category: navigation
+  origin: auto
+  id: e124b9ef-c5b8-4a8f-8b47-061e95d2d947
 - datetime: 2021-08-22T08:10:00.000Z
   text: Sails up - WE ARE A SAILBOAT!
   category: navigation
+  origin: auto
+  id: c142da60-e566-4989-b118-3f1408aaa978
 - datetime: 2021-08-22T09:53:00.000Z
   text: Passed yellow ODAS buoys
   category: navigation
   course: 325
+  origin: auto
+  id: 4b45f890-453a-4005-a405-68d5512365a2
 - datetime: 2021-08-22T12:20:00.000Z
   text: Passed Greifswalder Oie, autopilot steering
   category: navigation
   course: 330
+  origin: auto
+  id: 3898849a-0baa-4fdf-99a2-cec1b8ff48bb
 - datetime: 2021-08-22T12:45:00.000Z
   text: Received Mayday, answered by MRCC Bremen
   category: radio
   vhf: "16"
+  origin: auto
+  id: 10154b60-5095-43d7-a94c-39258871cdfa
 - datetime: 2021-08-22T13:25:00.000Z
   text: Setting course for Sassnitz
   category: navigation
   course: 315
+  origin: auto
+  id: 89dfad6e-fc4e-429a-b092-0c5275741261
 - datetime: 2021-08-22T13:55:00.000Z
   text: Mayday solved by MRCC Bremen
   category: radio
   vhf: "16"
+  origin: auto
+  id: 6af71881-b7d1-4f72-86b3-47000e716628
 - datetime: 2021-08-22T15:18:00.000Z
   text: Sails down, roller coaster waves
   category: navigation
+  origin: auto
+  id: 1728861a-dd1a-4674-8175-0009295360ae
 - datetime: 2021-08-22T15:40:00.000Z
   text: Tied up in a box, 17kt inside harbour made challenging arrival
   category: navigation
   engine:
     hours: 229.5
+  origin: auto
+  id: 825d8764-93d5-446f-8aab-9155890fad72

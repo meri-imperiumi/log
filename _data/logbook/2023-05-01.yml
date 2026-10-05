@@ -25,6 +25,8 @@
     - bergie
     - ihmis-suski
   category: engine
+  origin: manual
+  id: e3e35c2b-747a-4661-aacf-5f6f982f3efa
 - datetime: 2023-05-01T08:13:03.500Z
   text: Started main engine
   author: ""
@@ -52,6 +54,8 @@
     - bergie
     - ihmis-suski
   category: navigation
+  origin: auto
+  id: 857b325c-68ed-436e-ad6c-f9f621b85b78
 - datetime: 2023-05-01T08:22:18.499Z
   text: Stopped main engine
   author: ""
@@ -79,6 +83,8 @@
     - bergie
     - ihmis-suski
   category: navigation
+  origin: auto
+  id: 7317f497-182e-4d96-9978-455eec68a068
 - datetime: 2023-05-01T08:24:10.499Z
   text: Sailing with Main, Genoa 1
   author: ""
@@ -106,6 +112,8 @@
     - bergie
     - ihmis-suski
   category: navigation
+  origin: auto
+  id: 3bd24b2b-ef1b-42b5-87aa-d2835d41a281
 - datetime: 2023-05-01T08:28:09.500Z
   text: Autopilot activated
   author: ""
@@ -133,6 +141,8 @@
     - bergie
     - ihmis-suski
   category: navigation
+  origin: auto
+  id: 1fa095e0-e211-4e93-9f92-ae3b21728a9c
 - datetime: 2023-05-01T09:00:53.500Z
   text: ""
   author: ""
@@ -157,6 +167,8 @@
     - bergie
     - ihmis-suski
   category: navigation
+  origin: auto
+  id: 010cc642-9cec-4d7e-85b3-9daca9667d90
 - datetime: 2023-05-01T09:40:43.500Z
   text: "Deployed hydrogenerator "
   author: bergie
@@ -185,6 +197,8 @@
     seaState: 2
     cloudCoverage: 8
     visibility: 7
+  origin: manual
+  id: 36898bbe-6fc0-41b5-b3e7-60db1ea3ee6c
 - datetime: 2023-05-01T09:43:43.500Z
   text: The moment when you hear on channel 16 "many enemies in the area" with a
     thick American accent
@@ -210,6 +224,8 @@
     - bergie
     - ihmis-suski
   category: radio
+  origin: manual
+  id: cbfc3a4d-e6b0-416f-90ba-66e6a4ff4a41
 - datetime: 2023-05-01T10:00:38.499Z
   text: ""
   author: ""
@@ -234,6 +250,8 @@
     - bergie
     - ihmis-suski
   category: navigation
+  origin: auto
+  id: 0fca15ce-b62f-48aa-b28c-7adcd6fd1364
 - datetime: 2023-05-01T11:00:23.500Z
   text: ""
   author: ""
@@ -258,6 +276,8 @@
     - bergie
     - ihmis-suski
   category: navigation
+  origin: auto
+  id: 926f9e01-ed3e-4afa-9ef6-e7bf22df0cf8
 - datetime: 2023-05-01T11:19:38.499Z
   text: "Sails set: Main, Staysail"
   author: bergie
@@ -285,6 +305,8 @@
   observations:
     seaState: 3
     cloudCoverage: 5
+  origin: manual
+  id: 44dd852d-6b1a-4c79-a7d0-3536fc1d8f47
 - datetime: 2023-05-01T12:00:09.500Z
   text: ""
   author: ""
@@ -309,6 +331,8 @@
     - bergie
     - ihmis-suski
   category: navigation
+  origin: auto
+  id: e9b0e3d6-0871-48db-99f8-8290c92a4f3f
 - datetime: 2023-05-01T13:00:34.499Z
   text: Autopilot deactivated
   author: ""
@@ -333,6 +357,8 @@
     - bergie
     - ihmis-suski
   category: navigation
+  origin: auto
+  id: 5a84682b-aa4d-4fa6-834b-a30460ab7fe3
 - datetime: 2023-05-01T13:00:55.500Z
   text: ""
   author: ""
@@ -357,6 +383,8 @@
     - bergie
     - ihmis-suski
   category: navigation
+  origin: auto
+  id: cb01db2b-9d0e-4c39-8410-ee0bff410ec4
 - datetime: 2023-05-01T13:16:55.500Z
   text: Autopilot activated
   author: ""
@@ -384,6 +412,8 @@
     - bergie
     - ihmis-suski
   category: navigation
+  origin: auto
+  id: 4a717af6-e8c2-404f-a795-45da688ffaf0
 - datetime: 2023-05-01T14:00:38.400Z
   text: ""
   author: ""
@@ -411,6 +441,8 @@
     - bergie
     - ihmis-suski
   category: navigation
+  origin: auto
+  id: 174fcbad-53e8-4610-a6bf-52affe843972
 - datetime: 2023-05-01T15:00:19.398Z
   text: ""
   author: ""
@@ -438,6 +470,8 @@
     - bergie
     - ihmis-suski
   category: navigation
+  origin: auto
+  id: 76fa5240-c365-4257-afc7-ad10cb4e37bb
 - datetime: 2023-05-01T15:06:26.400Z
   text: "Sails set: Main. So many gybes ahead that too much hassle to move the
     pole all the time"
@@ -469,6 +503,8 @@
   observations:
     seaState: 3
     cloudCoverage: 8
+  origin: manual
+  id: 5d1fd45c-8036-4156-b0d1-caccffc259c8
 - datetime: 2023-05-01T15:30:16.396Z
   text: Autopilot deactivated
   author: ""
@@ -493,6 +529,8 @@
     - bergie
     - ihmis-suski
   category: navigation
+  origin: auto
+  id: 44ee6b68-7b5f-409b-8e6b-b37d69082f5b
 - datetime: 2023-05-01T15:53:43.398Z
   text: Sails down, motoring
   author: ""
@@ -517,6 +555,8 @@
     - bergie
     - ihmis-suski
   category: navigation
+  origin: auto
+  id: f1d74733-4c48-4250-be48-780e3b706a07
 - datetime: 2023-05-01T16:00:01.401Z
   text: ""
   author: ""
@@ -541,6 +581,8 @@
     - bergie
     - ihmis-suski
   category: navigation
+  origin: auto
+  id: f6c92b22-b205-4624-a2ee-550fd685ccd7
 - datetime: 2023-05-01T16:06:27.398Z
   text: Stopped
   author: ""
@@ -566,3 +608,5 @@
     - ihmis-suski
   end: true
   category: navigation
+  origin: auto
+  id: 7c5da6b5-b6a4-46b5-a0cf-4202f2fbf523

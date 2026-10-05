@@ -18,6 +18,8 @@
     - ihmis-suski
     - bergie
   category: navigation
+  origin: auto
+  id: 470aba5d-85a9-4bfa-9364-5df76f4094ce
 - datetime: 2024-04-05T09:23:33.798Z
   text: Motoring
   author: ""
@@ -38,6 +40,8 @@
     - ihmis-suski
     - bergie
   category: navigation
+  origin: auto
+  id: 37f9a9da-287e-4c4c-9615-c685df7bac98
 - datetime: 2024-04-05T09:33:24.899Z
   text: Stopped
   author: ""
@@ -59,6 +63,8 @@
     - bergie
   end: true
   category: navigation
+  origin: auto
+  id: 7cf2cca9-558e-4f1f-896d-fac84061d250
 - datetime: 2024-04-05T09:38:31.801Z
   text: Filled up 56l diesel
   author: bergie
@@ -79,6 +85,8 @@
     - ihmis-suski
     - bergie
   category: engine
+  origin: manual
+  id: 0ef74f8e-d4c1-48d2-aa40-ef63e9e9d550
 - datetime: 2024-04-05T09:39:29.798Z
   text: Started main engine
   author: ""
@@ -99,6 +107,8 @@
     - ihmis-suski
     - bergie
   category: navigation
+  origin: auto
+  id: edc8206a-c929-4544-a72c-e29e06e9229c
 - datetime: 2024-04-05T09:41:31.900Z
   text: Motoring
   author: ""
@@ -119,6 +129,8 @@
     - ihmis-suski
     - bergie
   category: navigation
+  origin: auto
+  id: 24c2b7b2-6681-4b1c-a432-d7c24ad02ebf
 - datetime: 2024-04-05T10:00:24.800Z
   text: Anchored
   author: ""
@@ -140,6 +152,8 @@
     - bergie
   end: true
   category: navigation
+  origin: auto
+  id: 8abecd2a-03c9-4b2f-954c-250c9fbb5768
 - datetime: 2024-04-05T10:10:44.800Z
   text: Started main engine
   author: ""
@@ -160,6 +174,8 @@
     - ihmis-suski
     - bergie
   category: navigation
+  origin: auto
+  id: b17e1a1c-8ed0-4133-90fe-a821244bf2f2
 - datetime: 2024-04-05T10:11:17.798Z
   text: Anchor up, motoring
   author: ""
@@ -180,6 +196,8 @@
     - ihmis-suski
     - bergie
   category: navigation
+  origin: auto
+  id: f965df32-ae7f-4e84-8105-ecee360cd032
 - datetime: 2024-04-05T10:21:55.900Z
   text: Stopped
   author: ""
@@ -201,3 +219,5 @@
     - bergie
   end: true
   category: navigation
+  origin: auto
+  id: 238f4ace-8f11-491c-8401-0ff81b314416

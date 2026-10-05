@@ -21,6 +21,8 @@
     - ihmis-suski
     - bergie
   category: engine
+  origin: manual
+  id: ee029f21-1093-43d5-8b20-ea1b78528345
 - datetime: 2023-12-02T09:25:08.700Z
   text: Started main engine
   author: ""
@@ -45,6 +47,8 @@
     - ihmis-suski
     - bergie
   category: navigation
+  origin: auto
+  id: c8d366af-2dc3-4913-92d9-24ff591501e3
 - datetime: 2023-12-02T09:25:27.699Z
   text: Stopped main engine
   author: ""
@@ -69,6 +73,8 @@
     - ihmis-suski
     - bergie
   category: navigation
+  origin: auto
+  id: 1af46b08-b941-4261-b702-130fea84f3f0
 - datetime: 2023-12-02T09:25:54.700Z
   text: Started main engine
   author: ""
@@ -93,6 +99,8 @@
     - ihmis-suski
     - bergie
   category: navigation
+  origin: auto
+  id: 3babe15b-3c55-40e1-a6db-128a966144d6
 - datetime: 2023-12-02T09:42:06.700Z
   text: Stopped main engine
   author: ""
@@ -117,6 +125,8 @@
     - ihmis-suski
     - bergie
   category: navigation
+  origin: auto
+  id: f9272101-fc2a-47a0-af81-08ecdba0f983
 - datetime: 2023-12-02T09:42:21.699Z
   text: Sailing with Main, Genoa 1
   author: ""
@@ -141,6 +151,8 @@
     - ihmis-suski
     - bergie
   category: navigation
+  origin: auto
+  id: 6655e641-4071-4aa4-aff6-84be7e97f20d
 - datetime: 2023-12-02T10:00:16.700Z
   text: ""
   author: ""
@@ -165,6 +177,8 @@
     - ihmis-suski
     - bergie
   category: navigation
+  origin: auto
+  id: 3046eaa4-5765-4c84-a516-1e9a649ab907
 - datetime: 2023-12-02T10:42:12.700Z
   text: Sails down, motoring. Genoa roller frozen stuck
   author: bergie
@@ -189,6 +203,8 @@
     - ihmis-suski
     - bergie
   category: navigation
+  origin: manual
+  id: a4e183a9-a379-4fe3-915b-0b65038162f0
 - datetime: 2023-12-02T11:00:02.700Z
   text: ""
   author: ""
@@ -213,6 +229,8 @@
     - ihmis-suski
     - bergie
   category: navigation
+  origin: auto
+  id: 004d01c5-2bd4-4438-a22b-234e2fc729db
 - datetime: 2023-12-02T11:15:36.700Z
   text: Stopped
   author: ""
@@ -238,3 +256,5 @@
     - bergie
   end: true
   category: navigation
+  origin: auto
+  id: 40ea95b7-2640-47c7-9427-59846f5960f1

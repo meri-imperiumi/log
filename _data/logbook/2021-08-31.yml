@@ -1,27 +1,39 @@
 - datetime: 2021-08-31T07:10:00.000Z
   text: Left Utklippan
   category: navigation
+  origin: auto
+  id: 4058a985-52ac-481e-9e06-23e7aa6ab3ad
 - datetime: 2021-08-31T07:15:00.000Z
   text: Motor off, sails up. 2nd reef, preventer
   category: navigation
   course: 220
+  origin: auto
+  id: fd7cd864-43fa-432e-9753-c36f7a968d65
 - datetime: 2021-08-31T08:00:00.000Z
   text: Dirk tangled in radar reflector, Suski's red cap went overboard
   category: navigation
+  origin: auto
+  id: 8622534e-e42a-4e25-8a1d-20947206ff58
 - datetime: 2021-08-31T08:40:00.000Z
   text: Dirk cleared. Flyover by two Gripens. Nissinen steering
   category: navigation
   course: 200
+  origin: auto
+  id: ce86f08b-4aab-449a-bac7-0642958ce117
 - datetime: 2021-08-31T09:10:00.000Z
   text: Gybed to cross the main shipping lane in about 90° angle
   category: navigation
   course: 120
+  origin: auto
+  id: fda7dccd-9c78-42c9-8686-5872e23af985
 - datetime: 2021-08-31T09:50:00.000Z
   text: Motorsailing with 1st reef as wind died to <10kt
   category: navigation
   course: 125
   wind:
     speed: 10
+  origin: auto
+  id: 31d7e3df-d76c-4828-b5aa-3783a5784797
 - datetime: 2021-08-31T11:30:00.000Z
   text: Back to sailing, course to Christiansø. Past main shipping
   category: navigation
@@ -30,19 +42,27 @@
     speed: 15.8
   observations:
     seaState: 4
+  origin: auto
+  id: 01a68836-8538-4071-8bf8-3b6bdfac35f3
 - datetime: 2021-08-31T12:10:00.000Z
   text: Danish courtesy flag up. One of the oncoming ships is going to Leningrad
   category: navigation
   course: 213
   wind:
     speed: 14
+  origin: auto
+  id: 8c69dacb-3ee8-40fc-ad46-7562894955bc
 - datetime: 2021-08-31T14:52:00.000Z
   text: Motor on, sails down
   category: navigation
   wind:
     speed: 5
+  origin: auto
+  id: ade45ceb-909f-488c-9221-d7a2300cfe06
 - datetime: 2021-08-31T17:50:00.000Z
   text: Tied up in Christiansø
   category: navigation
   engine:
     hours: 240.8
+  origin: auto
+  id: d9e06700-dbf5-4dbb-bdda-a387042d4fb1

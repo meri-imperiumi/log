@@ -18,6 +18,8 @@
     hours: 501.6
   vhf: "10"
   category: navigation
+  origin: manual
+  id: cc7bda5e-ac22-48f1-9725-449156d8c8ba
 - datetime: 2023-02-16T11:26:07.500Z
   text: Anchor up, motoring
   author: ""
@@ -38,6 +40,8 @@
     hours: 501.7
   vhf: "10"
   category: navigation
+  origin: auto
+  id: fa5ab1b4-5ce3-41bd-bcd9-f4117673c665
 - datetime: 2023-02-16T11:31:17.500Z
   text: Autopilot activated. Testing the Signal K autopilot remote web app by
     steering while cleaning the anchor chain!
@@ -59,6 +63,8 @@
     hours: 501.8
   vhf: "10"
   category: navigation
+  origin: manual
+  id: 1cbc844a-93ed-4db6-83c8-32829d55d19c
 - datetime: 2023-02-16T12:00:38.499Z
   text: Switched to Orca Core as the main compass source.
   author: bergie
@@ -79,6 +85,8 @@
     hours: 502.2
   vhf: "10"
   category: navigation
+  origin: manual
+  id: 75925e14-6dc5-4467-9247-b0c2c0bc3c8f
 - datetime: 2023-02-16T12:01:24.499Z
   text: Autopilot deactivated
   author: ""
@@ -99,6 +107,8 @@
     hours: 502.3
   vhf: "10"
   category: navigation
+  origin: auto
+  id: 35f71ad1-2f93-4745-8121-6c1e566b8a2d
 - datetime: 2023-02-16T12:13:19.500Z
   text: Stopped main engine
   author: bergie
@@ -119,6 +129,8 @@
     hours: 502.5
   vhf: "10"
   category: navigation
+  origin: manual
+  id: d7a33c3a-5a3c-4bd3-a6a5-3b098e5ae4e3
 - datetime: 2023-02-16T12:20:35.398Z
   text: Stopped
   author: ""
@@ -140,3 +152,5 @@
   vhf: "10"
   end: true
   category: navigation
+  origin: auto
+  id: 393a7bfb-ba95-4850-a304-4a37c6e1a91a

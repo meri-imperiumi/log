@@ -22,6 +22,8 @@
     - bergie
     - ihmis-suski
   category: navigation
+  origin: auto
+  id: c17a106f-293a-49b7-bae7-4f8ba632b8e6
 - datetime: 2023-07-01T00:22:53.600Z
   text: Starbuck back on, windvane steering. Preparing for the turn at the buoy in
     about  30 min
@@ -51,6 +53,8 @@
     seaState: 3
     cloudCoverage: 7
     visibility: 8
+  origin: manual
+  id: 7a34cbd2-fba0-4d80-b8b5-0d3fd888b772
 - datetime: 2023-07-01T01:00:53.600Z
   text: Bergie on watch, Suski to bed
   author: bergie
@@ -75,6 +79,8 @@
     - bergie
     - ihmis-suski
   category: navigation
+  origin: manual
+  id: 886c61fd-1115-408c-960d-e608e8ce31c8
 - datetime: 2023-07-01T02:00:54.600Z
   text: ""
   author: ""
@@ -99,6 +105,8 @@
     - bergie
     - ihmis-suski
   category: navigation
+  origin: auto
+  id: 2ca60573-c1b1-45d2-ac03-d817ff1941d9
 - datetime: 2023-07-01T02:40:51.600Z
   text: "Stowed hydrogenerator "
   author: bergie
@@ -127,6 +135,8 @@
     seaState: 3
     cloudCoverage: 3
     visibility: 8
+  origin: manual
+  id: 32ada0a1-1618-4f26-b35f-32a04f0fa959
 - datetime: 2023-07-01T02:42:32.600Z
   text: Autopilot activated
   author: ""
@@ -151,6 +161,8 @@
     - bergie
     - ihmis-suski
   category: navigation
+  origin: auto
+  id: e7b55206-0d81-47d1-8061-c1d90806639a
 - datetime: 2023-07-01T03:00:50.600Z
   text: ""
   author: ""
@@ -175,6 +187,8 @@
     - bergie
     - ihmis-suski
   category: navigation
+  origin: auto
+  id: e2b33d3a-acfb-40c9-abf8-81a7978e67dc
 - datetime: 2023-07-01T04:00:36.700Z
   text: ""
   author: bergie
@@ -203,6 +217,8 @@
     seaState: 3
     cloudCoverage: 6
     visibility: 8
+  origin: manual
+  id: c8c5d438-5a7f-4210-a7d8-6b72dbd873e0
 - datetime: 2023-07-01T04:13:20.700Z
   text: Sails down, motoring
   author: ""
@@ -227,6 +243,8 @@
     - bergie
     - ihmis-suski
   category: navigation
+  origin: auto
+  id: be8861e9-3833-4568-b871-eda6d48d082b
 - datetime: 2023-07-01T04:22:31.699Z
   text: Suski on watch, Bergie to bed
   author: bergie
@@ -251,6 +269,8 @@
     - bergie
     - ihmis-suski
   category: navigation
+  origin: manual
+  id: 919e8d3a-427c-4d5f-a4d2-56eab2b0e820
 - datetime: 2023-07-01T05:00:25.699Z
   text: ""
   author: ""
@@ -275,6 +295,8 @@
     - bergie
     - ihmis-suski
   category: navigation
+  origin: auto
+  id: a8d0f067-215f-4524-b1c4-f0a533f2ce71
 - datetime: 2023-07-01T05:41:18.700Z
   text: Autopilot deactivated
   author: ""
@@ -299,6 +321,8 @@
     - bergie
     - ihmis-suski
   category: navigation
+  origin: auto
+  id: 3c993acc-8a81-4386-91f2-d208fdbc6183
 - datetime: 2023-07-01T06:00:14.700Z
   text: ""
   author: ""
@@ -323,6 +347,8 @@
     - bergie
     - ihmis-suski
   category: navigation
+  origin: auto
+  id: 30106b65-9cf8-4cd0-aeb8-f96d4bf09da6
 - datetime: 2023-07-01T06:05:23.699Z
   text: Stopped
   author: ""
@@ -348,3 +374,5 @@
     - ihmis-suski
   end: true
   category: navigation
+  origin: auto
+  id: fbb18705-d97f-4d33-ba99-868ce285b4a0

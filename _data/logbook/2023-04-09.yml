@@ -19,6 +19,8 @@
     - ihmis-suski
     - bergie
   category: navigation
+  origin: auto
+  id: 43512773-cfd1-4329-9644-aa6c7aeb054d
 - datetime: 2023-04-09T04:12:41.100Z
   text: "Motoring. Suski on duty "
   author: bergie
@@ -43,6 +45,8 @@
   observations:
     cloudCoverage: 8
     visibility: 2
+  origin: manual
+  id: 9bc298f6-f325-48fe-9289-1fef76ddbf47
 - datetime: 2023-04-09T05:00:31.100Z
   text: ""
   author: ""
@@ -67,6 +71,8 @@
     - ihmis-suski
     - bergie
   category: navigation
+  origin: auto
+  id: 8c4717ba-f710-4394-85ff-b5fbcf87c521
 - datetime: 2023-04-09T05:39:54.099Z
   text: "Stopped Hohensaaten West waiting area "
   author: bergie
@@ -92,6 +98,8 @@
     - bergie
   end: true
   category: navigation
+  origin: manual
+  id: ce063e37-769a-44f4-bab4-406e304ae0b2
 - datetime: 2023-04-09T05:47:17.100Z
   text: Started main engine
   author: ""
@@ -116,6 +124,8 @@
     - ihmis-suski
     - bergie
   category: navigation
+  origin: auto
+  id: acc5ca21-4681-4e58-994d-549f2d602d32
 - datetime: 2023-04-09T05:48:23.100Z
   text: Motoring
   author: ""
@@ -137,6 +147,8 @@
     - ihmis-suski
     - bergie
   category: navigation
+  origin: auto
+  id: c1f21b1b-cefb-4380-8a43-85c54208b12d
 - datetime: 2023-04-09T05:51:40.099Z
   text: Stopped inside Hohensaaten West locks
   author: bergie
@@ -159,6 +171,8 @@
     - bergie
   end: true
   category: navigation
+  origin: manual
+  id: 7fe22e64-d17e-40d8-abe0-96b2e56654be
 - datetime: 2023-04-09T05:56:09.100Z
   text: Started main engine
   author: ""
@@ -180,6 +194,8 @@
     - ihmis-suski
     - bergie
   category: navigation
+  origin: auto
+  id: ffe4d42b-e60f-4a5a-91b8-940b3b51aef5
 - datetime: 2023-04-09T06:06:20.099Z
   text: Motoring. Bergie on duty
   author: bergie
@@ -204,6 +220,8 @@
   observations:
     cloudCoverage: 8
     visibility: 3
+  origin: manual
+  id: 3ffcff42-faa6-40c3-ba79-0fec1506b2e7
 - datetime: 2023-04-09T07:00:05.000Z
   text: ""
   author: bergie
@@ -230,6 +248,8 @@
   category: navigation
   observations:
     cloudCoverage: 8
+  origin: manual
+  id: 33cdcf15-2de2-48cb-a727-78be6af9e9fe
 - datetime: 2023-04-09T08:00:51.001Z
   text: Suski on duty. Fog has lifted a bit
   author: bergie
@@ -257,6 +277,8 @@
   observations:
     cloudCoverage: 8
     visibility: 4
+  origin: manual
+  id: cae6a8bc-4a41-45fc-8578-bf8d4d3c6151
 - datetime: 2023-04-09T09:00:39.001Z
   text: ""
   author: ""
@@ -281,6 +303,8 @@
     - ihmis-suski
     - bergie
   category: navigation
+  origin: auto
+  id: 8c4cb1d9-ab8d-4765-a7c5-76474de50507
 - datetime: 2023-04-09T10:00:26.000Z
   text: ""
   author: ""
@@ -305,6 +329,8 @@
     - ihmis-suski
     - bergie
   category: navigation
+  origin: auto
+  id: b48d32c8-4a2b-450f-ab61-8d50d41dccdc
 - datetime: 2023-04-09T11:00:12.998Z
   text: ""
   author: ""
@@ -329,6 +355,8 @@
     - ihmis-suski
     - bergie
   category: navigation
+  origin: auto
+  id: 31410951-2719-4f02-a1aa-5c3ebb883c4b
 - datetime: 2023-04-09T11:27:07.001Z
   text: Crossed the border to Poland. Nice 0.6kt current helping us along
   author: bergie
@@ -356,6 +384,8 @@
   observations:
     cloudCoverage: 8
     visibility: 5
+  origin: manual
+  id: b556fb9e-0a44-43ac-8a82-bc634a6cdd9c
 - datetime: 2023-04-09T12:00:00.300Z
   text: Suski on duty. Clouds are starting to lift a bit.
   author: bergie
@@ -382,6 +412,8 @@
   category: navigation
   observations:
     cloudCoverage: 8
+  origin: manual
+  id: af35592c-fc83-4064-9a3c-09065d371719
 - datetime: 2023-04-09T13:00:44.300Z
   text: ""
   author: ""
@@ -406,6 +438,8 @@
     - ihmis-suski
     - bergie
   category: navigation
+  origin: auto
+  id: b7f3d0e8-1391-447c-b7ca-d188ae748064
 - datetime: 2023-04-09T13:05:42.300Z
   text: The low railroad bridge is gone
   author: bergie
@@ -432,6 +466,8 @@
   category: navigation
   observations:
     cloudCoverage: 7
+  origin: manual
+  id: 26ec7365-f47d-42cd-bdfb-5ad375e7012a
 - datetime: 2023-04-09T13:40:03.299Z
   text: "Stopped at AZS Szczecin. Mast crane booked for 10am tomorrow "
   author: bergie
@@ -457,3 +493,5 @@
   observations:
     cloudCoverage: 1
     visibility: 6
+  origin: manual
+  id: 46caccd7-1e04-4724-91c9-99badb181567

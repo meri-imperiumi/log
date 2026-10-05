@@ -24,6 +24,8 @@
     - bergie
     - ihmis-suski
   category: navigation
+  origin: auto
+  id: 6a979a8c-029b-4d7b-b110-cdd82f375f09
 - datetime: 2023-05-22T12:47:52.198Z
   text: Motoring
   author: ""
@@ -50,6 +52,8 @@
     - bergie
     - ihmis-suski
   category: navigation
+  origin: auto
+  id: 4547db86-811b-40dd-b18a-4db18dec8d12
 - datetime: 2023-05-22T12:50:26.201Z
   text: Autopilot activated
   author: ""
@@ -76,6 +80,8 @@
     - bergie
     - ihmis-suski
   category: navigation
+  origin: auto
+  id: f8ae34dd-f167-45f8-a2bb-2c944279b2ab
 - datetime: 2023-05-22T12:54:33.200Z
   text: Motor stopped, sailing with Main, Genoa 1
   author: ""
@@ -102,6 +108,8 @@
     - bergie
     - ihmis-suski
   category: navigation
+  origin: auto
+  id: 302430ac-cd09-4260-ae91-9c0f6177b17d
 - datetime: 2023-05-22T13:00:47.200Z
   text: ""
   author: ""
@@ -128,6 +136,8 @@
     - bergie
     - ihmis-suski
   category: navigation
+  origin: auto
+  id: 7e92ecc9-332e-4bde-b860-2eadfdf1ca15
 - datetime: 2023-05-22T13:08:26.201Z
   text: "Motoring to give a slight extra boost to bypass the cable ferry "
   author: bergie
@@ -158,6 +168,8 @@
     seaState: 2
     cloudCoverage: 2
     visibility: 8
+  origin: manual
+  id: 26ea8901-369f-4e4d-8078-0ea6fbdf1023
 - datetime: 2023-05-22T13:09:44.198Z
   text: Motor stopped, sailing with Main, Genoa 1
   author: ""
@@ -184,6 +196,8 @@
     - bergie
     - ihmis-suski
   category: navigation
+  origin: auto
+  id: e61d9382-186e-4729-82ac-4338eac67945
 - datetime: 2023-05-22T13:43:35.200Z
   text: "Started watermaker "
   author: bergie
@@ -210,6 +224,8 @@
     - bergie
     - ihmis-suski
   category: maintenance
+  origin: manual
+  id: e3195fab-cf8c-4619-b3ef-8d8e7ea8d851
 - datetime: 2023-05-22T14:00:31.200Z
   text: ""
   author: ""
@@ -236,6 +252,8 @@
     - bergie
     - ihmis-suski
   category: navigation
+  origin: auto
+  id: 129498cd-4102-4730-8f02-e331064d6ab2
 - datetime: 2023-05-22T14:19:00.198Z
   text: Autopilot deactivated
   author: ""
@@ -262,6 +280,8 @@
     - bergie
     - ihmis-suski
   category: navigation
+  origin: auto
+  id: 2d356758-b5b7-4231-a986-3a3509e42d79
 - datetime: 2023-05-22T15:00:15.200Z
   text: ""
   author: ""
@@ -288,6 +308,8 @@
     - bergie
     - ihmis-suski
   category: navigation
+  origin: auto
+  id: 52e65232-5ac4-42d8-bb6e-256380f79b96
 - datetime: 2023-05-22T16:00:01.203Z
   text: ""
   author: ""
@@ -314,6 +336,8 @@
     - bergie
     - ihmis-suski
   category: navigation
+  origin: auto
+  id: 58594d4c-68c5-4004-a968-ab40ade4dec5
 - datetime: 2023-05-22T16:08:58.201Z
   text: Stopped watermaker. 7ppm
   author: bergie
@@ -340,6 +364,8 @@
     - bergie
     - ihmis-suski
   category: maintenance
+  origin: manual
+  id: 65f60989-7e26-4a26-b1ba-a344807ed468
 - datetime: 2023-05-22T16:38:56.300Z
   text: Sails down, motoring
   author: ""
@@ -366,6 +392,8 @@
     - bergie
     - ihmis-suski
   category: navigation
+  origin: auto
+  id: 6ab63b7a-efb1-417f-a82d-5d7c75972f2a
 - datetime: 2023-05-22T16:57:38.201Z
   text: Moored, SXK Storön
   author: bergie
@@ -390,6 +418,8 @@
     - ihmis-suski
   end: true
   category: navigation
+  origin: manual
+  id: b0c7e148-ecf3-4991-af8c-bfa4649b0edd
 - datetime: 2023-05-22T16:58:10.201Z
   text: Stopped main engine
   author: ""
@@ -413,3 +443,5 @@
     - bergie
     - ihmis-suski
   category: navigation
+  origin: auto
+  id: 626a4a09-83ca-4235-892b-2fae0d97dd13

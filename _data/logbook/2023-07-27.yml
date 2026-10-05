@@ -22,6 +22,8 @@
     - bergie
     - ihmis-suski
   category: navigation
+  origin: auto
+  id: ac01c54c-330f-4602-b5f3-7502a1f22978
 - datetime: 2023-07-27T07:05:27.200Z
   text: Sailing on Main, Genoa 1
   author: bergie
@@ -46,6 +48,8 @@
     - bergie
     - ihmis-suski
   category: navigation
+  origin: manual
+  id: 2c49fb2f-5422-48e5-9023-2f84a0dd80eb
 - datetime: 2023-07-27T07:13:26.700Z
   text: "Autopilot activated "
   author: bergie
@@ -70,6 +74,8 @@
     - bergie
     - ihmis-suski
   category: navigation
+  origin: manual
+  id: 656b29fd-d2d3-4553-97c4-603dd3dfc2a9
 - datetime: 2023-07-27T08:46:05.699Z
   text: ""
   author: bergie
@@ -94,6 +100,8 @@
     - bergie
     - ihmis-suski
   category: navigation
+  origin: manual
+  id: 32c5f216-6d1a-4107-b0d8-31363faf169b
 - datetime: 2023-07-27T09:00:55.699Z
   text: ""
   author: bergie
@@ -122,6 +130,8 @@
     seaState: 2
     cloudCoverage: 6
     visibility: 8
+  origin: manual
+  id: 340713b3-3738-47cb-8212-f2cc0abdd18e
 - datetime: 2023-07-27T10:00:39.699Z
   text: ""
   author: ""
@@ -146,6 +156,8 @@
     - bergie
     - ihmis-suski
   category: navigation
+  origin: auto
+  id: ae1a186f-f50b-4f93-a400-746dd7782ffb
 - datetime: 2023-07-27T10:27:36.700Z
   text: Autopilot deactivated, short tacking
   author: bergie
@@ -170,6 +182,8 @@
     - bergie
     - ihmis-suski
   category: navigation
+  origin: manual
+  id: 40821311-b932-41bd-800a-1bd9efaadaff
 - datetime: 2023-07-27T11:00:24.700Z
   text: ""
   author: ""
@@ -194,6 +208,8 @@
     - bergie
     - ihmis-suski
   category: navigation
+  origin: auto
+  id: 74ca9ded-d82a-4055-a5cc-9fba716d6328
 - datetime: 2023-07-27T11:22:15.699Z
   text: Autopilot activated
   author: ""
@@ -218,6 +234,8 @@
     - bergie
     - ihmis-suski
   category: navigation
+  origin: auto
+  id: 143813ae-052a-4420-9574-5d5b70869ed5
 - datetime: 2023-07-27T11:34:43.699Z
   text: Autopilot deactivated
   author: ""
@@ -242,6 +260,8 @@
     - bergie
     - ihmis-suski
   category: navigation
+  origin: auto
+  id: 05c25fa1-dd31-450a-84ca-4f10acd5ca41
 - datetime: 2023-07-27T11:50:28.700Z
   text: Autopilot activated
   author: ""
@@ -266,6 +286,8 @@
     - bergie
     - ihmis-suski
   category: navigation
+  origin: auto
+  id: 1c8270ee-30f7-4b46-9366-d634d6a862d0
 - datetime: 2023-07-27T12:00:08.700Z
   text: ""
   author: bergie
@@ -294,6 +316,8 @@
     seaState: 3
     cloudCoverage: 6
     visibility: 8
+  origin: manual
+  id: d932df37-4759-41c9-8de4-18e4e14eb7ea
 - datetime: 2023-07-27T12:03:07.699Z
   text: Started watermaker, 24ppm
   author: bergie
@@ -318,6 +342,8 @@
     - bergie
     - ihmis-suski
   category: maintenance
+  origin: manual
+  id: 15a98a2c-afbc-4608-8080-dea758164991
 - datetime: 2023-07-27T13:00:53.699Z
   text: ""
   author: ""
@@ -342,6 +368,8 @@
     - bergie
     - ihmis-suski
   category: navigation
+  origin: auto
+  id: 18d718b6-12e0-4fd3-9fc6-0804eaa5ef7b
 - datetime: 2023-07-27T13:35:44.700Z
   text: Stopped watermaker, 24ppm
   author: bergie
@@ -366,6 +394,8 @@
     - bergie
     - ihmis-suski
   category: maintenance
+  origin: manual
+  id: 87f99b43-6601-4a04-bef3-4dffa6e1fe61
 - datetime: 2023-07-27T14:00:37.699Z
   text: ""
   author: ""
@@ -390,6 +420,8 @@
     - bergie
     - ihmis-suski
   category: navigation
+  origin: auto
+  id: 4f58da03-e9a1-4b25-87cd-d62fa4ce06b3
 - datetime: 2023-07-27T14:25:37.699Z
   text: Autopilot deactivated
   author: ""
@@ -414,6 +446,8 @@
     - bergie
     - ihmis-suski
   category: navigation
+  origin: auto
+  id: 481386f1-4a51-41a8-a2e3-7d8a549a9775
 - datetime: 2023-07-27T14:48:35.699Z
   text: Sails down, motoring
   author: ""
@@ -438,6 +472,8 @@
     - bergie
     - ihmis-suski
   category: navigation
+  origin: auto
+  id: fd17bf85-0eb1-4aaf-bc56-36bddc6ca3ff
 - datetime: 2023-07-27T15:00:20.697Z
   text: ""
   author: ""
@@ -462,6 +498,8 @@
     - bergie
     - ihmis-suski
   category: navigation
+  origin: auto
+  id: a2cc3439-12ec-4289-9161-7a02c04944f2
 - datetime: 2023-07-27T15:05:54.700Z
   text: Stopped
   author: ""
@@ -487,3 +525,5 @@
     - ihmis-suski
   end: true
   category: navigation
+  origin: auto
+  id: 89f2892e-5a17-4986-b534-f8806280c378

@@ -23,6 +23,8 @@
     - ihmis-suski
     - bergie
   category: navigation
+  origin: auto
+  id: b118ae33-3aca-4fe9-a715-8284827712f0
 - datetime: 2023-04-12T06:48:59.900Z
   text: Motoring. Left AZS Szczecin, Bergie on watch
   author: bergie
@@ -52,6 +54,8 @@
   category: navigation
   observations:
     cloudCoverage: 3
+  origin: manual
+  id: 7fd73e8f-3afe-4e54-a40a-420d8123bf5f
 - datetime: 2023-04-12T07:00:55.900Z
   text: ""
   author: ""
@@ -79,6 +83,8 @@
     - ihmis-suski
     - bergie
   category: navigation
+  origin: auto
+  id: cb81390d-439a-4cbd-9e2b-ecd7c37fbb8f
 - datetime: 2023-04-12T07:09:46.899Z
   text: Autopilot activated
   author: ""
@@ -106,6 +112,8 @@
     - ihmis-suski
     - bergie
   category: navigation
+  origin: auto
+  id: 033867cd-e7de-48b8-90c3-a52ec8a561ff
 - datetime: 2023-04-12T08:00:41.900Z
   text: ""
   author: bergie
@@ -136,6 +144,8 @@
   observations:
     cloudCoverage: 5
     seaState: 1
+  origin: manual
+  id: b467b2db-59a8-41af-ba8f-9db747945928
 - datetime: 2023-04-12T08:38:09.900Z
   text: Autopilot deactivated
   author: ""
@@ -163,6 +173,8 @@
     - ihmis-suski
     - bergie
   category: navigation
+  origin: auto
+  id: 11482bb0-e570-4ada-b4fd-e70a45e41971
 - datetime: 2023-04-12T08:38:57.900Z
   text: Autopilot activated. Hoisting sails.
   author: bergie
@@ -190,6 +202,8 @@
     - ihmis-suski
     - bergie
   category: navigation
+  origin: manual
+  id: babc28dd-4412-4f8c-acbd-ae1b7224d861
 - datetime: 2023-04-12T08:40:53.900Z
   text: Autopilot deactivated
   author: ""
@@ -217,6 +231,8 @@
     - ihmis-suski
     - bergie
   category: navigation
+  origin: auto
+  id: 80d9ba75-ee67-47ce-9968-d7799f63dabc
 - datetime: 2023-04-12T08:42:01.900Z
   text: Autopilot activated
   author: ""
@@ -244,6 +260,8 @@
     - ihmis-suski
     - bergie
   category: navigation
+  origin: auto
+  id: bdfa0095-88b4-4f68-9078-0f8d688659f4
 - datetime: 2023-04-12T08:44:14.899Z
   text: Motor stopped, sailing with Main, Genoa 1
   author: ""
@@ -271,6 +289,8 @@
     - ihmis-suski
     - bergie
   category: navigation
+  origin: auto
+  id: 22833267-9d42-4d89-b2bf-466ae9900ddf
 - datetime: 2023-04-12T09:00:27.900Z
   text: "Deployed hydrogenerator "
   author: bergie
@@ -301,6 +321,8 @@
   observations:
     cloudCoverage: 4
     seaState: 1
+  origin: manual
+  id: 5d59a9d0-a192-4689-96c8-d76d4632f6f3
 - datetime: 2023-04-12T10:00:14.899Z
   text: ""
   author: bergie
@@ -331,6 +353,8 @@
   observations:
     seaState: 2
     cloudCoverage: 4
+  origin: manual
+  id: e6c27f55-dce2-488f-9a35-9cd7e0a970c8
 - datetime: 2023-04-12T11:00:00.300Z
   text: ""
   author: bergie
@@ -361,6 +385,8 @@
   observations:
     seaState: 2
     cloudCoverage: 3
+  origin: manual
+  id: 8ae23326-6f2c-4f70-8c84-a94e646ab2ea
 - datetime: 2023-04-12T12:00:55.299Z
   text: ""
   author: bergie
@@ -391,6 +417,8 @@
   observations:
     seaState: 3
     cloudCoverage: 2
+  origin: manual
+  id: a37aae32-2bf5-4685-809d-f7d8f1b7ebff
 - datetime: 2023-04-12T12:37:25.299Z
   text: Sails down, motoring. Stowed hydrogenerator.
   author: bergie
@@ -421,6 +449,8 @@
   observations:
     seaState: 3
     cloudCoverage: 2
+  origin: manual
+  id: ab048c0d-985c-45d0-a8a7-c911e06502f4
 - datetime: 2023-04-12T12:42:56.300Z
   text: "Autopilot deactivated. Sails stowed "
   author: bergie
@@ -448,6 +478,8 @@
     - ihmis-suski
     - bergie
   category: navigation
+  origin: manual
+  id: 18a209df-e040-4a8e-8aed-3145b6b34b52
 - datetime: 2023-04-12T12:43:47.299Z
   text: Autopilot activated
   author: ""
@@ -475,6 +507,8 @@
     - ihmis-suski
     - bergie
   category: navigation
+  origin: auto
+  id: 7dcb210a-ed03-47b3-8771-580fde42fc03
 - datetime: 2023-04-12T13:00:47.299Z
   text: "Motoring inside the canal "
   author: bergie
@@ -505,6 +539,8 @@
   observations:
     cloudCoverage: 1
     seaState: 2
+  origin: manual
+  id: 83807972-75cd-4eac-8c2d-53d74864ce82
 - datetime: 2023-04-12T13:21:43.299Z
   text: Autopilot deactivated
   author: ""
@@ -532,6 +568,8 @@
     - ihmis-suski
     - bergie
   category: navigation
+  origin: auto
+  id: c9e94494-6b93-4330-8f26-d2f4794706d2
 - datetime: 2023-04-12T14:00:36.300Z
   text: ""
   author: ""
@@ -559,6 +597,8 @@
     - ihmis-suski
     - bergie
   category: navigation
+  origin: auto
+  id: 00dd7f65-5dc7-4ce4-baf2-881aa66d6efd
 - datetime: 2023-04-12T14:10:54.300Z
   text: Stopped. Box 6.4 at Swinoujscie marina. Having the easy-catch ready
     would've made docking easier.
@@ -590,3 +630,5 @@
   category: navigation
   observations:
     cloudCoverage: 6
+  origin: manual
+  id: 91808647-d894-4119-8b63-2b030dcd8e66

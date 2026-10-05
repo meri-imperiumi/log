@@ -19,6 +19,8 @@
     - ihmis-suski
     - bergie
   category: navigation
+  origin: auto
+  id: c37c8f2a-233e-48d6-bb22-7d904070f383
 - datetime: 2023-04-08T08:02:49.798Z
   text: Motoring. Left Gothia with the traditional horn blasts.
   author: bergie
@@ -40,6 +42,8 @@
     - ihmis-suski
     - bergie
   category: navigation
+  origin: manual
+  id: d3c62ac6-9156-46d3-a7eb-425f1477bc25
 - datetime: 2023-04-08T08:46:39.801Z
   text: Stopped Spandau locks waiting area.
   author: bergie
@@ -62,6 +66,8 @@
     - bergie
   end: true
   category: navigation
+  origin: manual
+  id: 8210b392-6b0a-49f0-848e-8d19a9f8e6a4
 - datetime: 2023-04-08T08:47:34.800Z
   text: Started main engine
   author: ""
@@ -83,6 +89,8 @@
     - ihmis-suski
     - bergie
   category: navigation
+  origin: auto
+  id: dc141e6c-01ca-46d5-bcb7-fb77a96dceb3
 - datetime: 2023-04-08T08:48:39.801Z
   text: Motoring
   author: ""
@@ -104,6 +112,8 @@
     - ihmis-suski
     - bergie
   category: navigation
+  origin: auto
+  id: cb06c78b-5051-487e-a185-be349a0f638a
 - datetime: 2023-04-08T08:51:48.800Z
   text: Stopped inside Schleuse Spandau
   author: bergie
@@ -128,6 +138,8 @@
   category: navigation
   observations:
     cloudCoverage: 8
+  origin: manual
+  id: b865af41-7775-4989-b6a6-2b4b89906c9d
 - datetime: 2023-04-08T09:00:37.798Z
   text: Started main engine
   author: ""
@@ -149,6 +161,8 @@
     - ihmis-suski
     - bergie
   category: navigation
+  origin: auto
+  id: 509fe0f8-b182-43a9-b43c-e504bacd74b5
 - datetime: 2023-04-08T09:02:36.800Z
   text: Motoring
   author: ""
@@ -170,6 +184,8 @@
     - ihmis-suski
     - bergie
   category: navigation
+  origin: auto
+  id: 4dfe4808-fccc-490e-83c8-d4aa38312846
 - datetime: 2023-04-08T10:00:23.801Z
   text: ""
   author: ""
@@ -191,6 +207,8 @@
     - ihmis-suski
     - bergie
   category: navigation
+  origin: auto
+  id: 4c6e9558-0a83-4ee0-a00a-ec2a60365d25
 - datetime: 2023-04-08T11:00:12.800Z
   text: ""
   author: ""
@@ -212,6 +230,8 @@
     - ihmis-suski
     - bergie
   category: navigation
+  origin: auto
+  id: f1fea2f7-269e-4e7c-8978-bc7068948bd5
 - datetime: 2023-04-08T11:59:20.800Z
   text: Stopped, Schleuse Lehnitz sport boat waiting pier. Lock keeper isn't
     answering the phone
@@ -237,6 +257,8 @@
   category: navigation
   observations:
     cloudCoverage: 6
+  origin: manual
+  id: 0018fe67-d0a0-46c4-a75b-9b93e565b9ab
 - datetime: 2023-04-08T12:23:49.798Z
   text: Started main engine
   author: ""
@@ -258,6 +280,8 @@
     - ihmis-suski
     - bergie
   category: navigation
+  origin: auto
+  id: 44f5cbf0-4cfa-4cf8-bb6f-24c3b9bcb640
 - datetime: 2023-04-08T12:26:02.800Z
   text: Motoring
   author: ""
@@ -279,6 +303,8 @@
     - ihmis-suski
     - bergie
   category: navigation
+  origin: auto
+  id: 79124ce9-bf8f-4cc5-8011-315f182a448a
 - datetime: 2023-04-08T12:27:42.800Z
   text: "Stopped inside the locks. "
   author: ihmis-suski
@@ -303,6 +329,8 @@
   category: navigation
   observations:
     cloudCoverage: 4
+  origin: manual
+  id: 42073f3d-41c9-427a-abbd-d2730299b905
 - datetime: 2023-04-08T12:44:54.800Z
   text: Started main engine
   author: ""
@@ -324,6 +352,8 @@
     - ihmis-suski
     - bergie
   category: navigation
+  origin: auto
+  id: ab72d9c2-d976-48d1-a6ef-c991d4194dae
 - datetime: 2023-04-08T12:47:58.800Z
   text: Motoring
   author: ""
@@ -345,6 +375,8 @@
     - ihmis-suski
     - bergie
   category: navigation
+  origin: auto
+  id: 33f460c9-7993-4e7d-8371-2eae3dfdf158
 - datetime: 2023-04-08T13:00:55.801Z
   text: ""
   author: ""
@@ -366,6 +398,8 @@
     - ihmis-suski
     - bergie
   category: navigation
+  origin: auto
+  id: f04f272f-5a90-40ac-841e-39b4927c63f2
 - datetime: 2023-04-08T14:00:50.800Z
   text: ""
   author: ""
@@ -387,6 +421,8 @@
     - ihmis-suski
     - bergie
   category: navigation
+  origin: auto
+  id: d521ecac-dba7-41ca-ab72-f05569cc0e29
 - datetime: 2023-04-08T15:00:38.796Z
   text: ""
   author: ""
@@ -408,6 +444,8 @@
     - ihmis-suski
     - bergie
   category: navigation
+  origin: auto
+  id: 6ad6dbaa-af7f-419d-8de2-c867ffd3bd7c
 - datetime: 2023-04-08T16:00:26.803Z
   text: ""
   author: bergie
@@ -431,6 +469,8 @@
   category: navigation
   observations:
     cloudCoverage: 1
+  origin: manual
+  id: 82cb746c-ed9e-4996-a5dc-52d36b192f62
 - datetime: 2023-04-08T17:00:14.796Z
   text: ""
   author: ""
@@ -452,6 +492,8 @@
     - ihmis-suski
     - bergie
   category: navigation
+  origin: auto
+  id: d6804576-fa98-4928-9244-813e4853bd52
 - datetime: 2023-04-08T18:00:02.099Z
   text: ""
   author: ""
@@ -473,6 +515,8 @@
     - ihmis-suski
     - bergie
   category: navigation
+  origin: auto
+  id: 92982189-758a-44f6-ab71-6d435b1f3635
 - datetime: 2023-04-08T18:01:47.097Z
   text: Stopped at old Hebewerk sport waiting area
   author: bergie
@@ -495,6 +539,8 @@
     - bergie
   end: true
   category: navigation
+  origin: manual
+  id: bf2c5ef7-1887-4612-92d1-f7c4935ae7ac
 - datetime: 2023-04-08T18:13:39.097Z
   text: Started main engine
   author: ""
@@ -516,6 +562,8 @@
     - ihmis-suski
     - bergie
   category: navigation
+  origin: auto
+  id: 739da86b-9a59-40a4-97af-890511032035
 - datetime: 2023-04-08T18:15:59.097Z
   text: Motoring
   author: ""
@@ -537,6 +585,8 @@
     - ihmis-suski
     - bergie
   category: navigation
+  origin: auto
+  id: 335843ab-bfd0-4b0a-9dc9-863099d14ca9
 - datetime: 2023-04-08T18:21:48.102Z
   text: Stopped new Hebewerk sport waiting area. We will go in the new one after a
     tug.
@@ -560,6 +610,8 @@
     - bergie
   end: true
   category: navigation
+  origin: manual
+  id: f587ca6a-c68a-49dc-b470-e6bad6b6b419
 - datetime: 2023-04-08T18:32:23.097Z
   text: Started main engine
   author: ""
@@ -581,6 +633,8 @@
     - ihmis-suski
     - bergie
   category: navigation
+  origin: auto
+  id: d3c93492-8c5b-4597-9d9e-88c965aa400d
 - datetime: 2023-04-08T18:33:54.099Z
   text: Motoring
   author: ""
@@ -602,6 +656,8 @@
     - ihmis-suski
     - bergie
   category: navigation
+  origin: auto
+  id: 0571eaf6-77af-42f3-9514-0c676233e0ca
 - datetime: 2023-04-08T18:40:07.097Z
   text: "Stopped inside the new ship elevator "
   author: bergie
@@ -624,6 +680,8 @@
     - bergie
   end: true
   category: navigation
+  origin: manual
+  id: 6291ff6f-c59e-463a-83df-71d9fa44c792
 - datetime: 2023-04-08T18:59:53.100Z
   text: Started main engine
   author: ""
@@ -645,6 +703,8 @@
     - ihmis-suski
     - bergie
   category: navigation
+  origin: auto
+  id: 532003bd-61e4-4757-a0b2-a1c799399902
 - datetime: 2023-04-08T19:01:47.097Z
   text: Motoring
   author: ""
@@ -666,6 +726,8 @@
     - ihmis-suski
     - bergie
   category: navigation
+  origin: auto
+  id: 3abd2066-f987-4ae7-bea1-aea79aedd75c
 - datetime: 2023-04-08T19:10:04.102Z
   text: Stopped for the night at the lower sport boat waiting area
   author: bergie
@@ -688,3 +750,5 @@
     - bergie
   end: true
   category: navigation
+  origin: manual
+  id: 1d7e8896-01b9-4f5d-ab5d-a2dfd81d720d

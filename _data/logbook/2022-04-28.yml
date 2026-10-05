@@ -10,6 +10,8 @@
     cloudCoverage: 1
     seaState: 2
   barometer: 1029
+  origin: auto
+  id: 2b6c1cb4-6871-4118-81e0-80a1f7c1b345
 - datetime: 2022-04-28T18:04:00.000Z
   text: Sails up, motorsailing at 5.2kt
   category: navigation
@@ -26,6 +28,8 @@
     longitude: 14.321667
     latitude: 53.985
     source: GPS
+  origin: auto
+  id: 237b852b-d7a8-45c6-9d27-cdd8d36d617c
 - datetime: 2022-04-28T19:00:00.000Z
   text: Watch change Bergie in Suski out 5.4kn
   category: navigation
@@ -42,6 +46,8 @@
     longitude: 14.390278
     latitude: 54.055
     source: GPS
+  origin: auto
+  id: 0d63c796-931d-461d-9be5-1e0cde3cabbf
 - datetime: 2022-04-28T19:10:00.000Z
   text: Motor out. Navi lights on. Suski brushed her teeth
   category: navigation
@@ -56,6 +62,8 @@
     longitude: 14.405
     latitude: 54.068333
     source: GPS
+  origin: auto
+  id: 766a2e42-3f30-4e56-a2df-b612d12a2235
 - datetime: 2022-04-28T22:56:00.000Z
   text: Suski on duty, Bergie to bed. 2.9kt
   category: navigation
@@ -71,3 +79,5 @@
     longitude: 14.495
     latitude: 54.171667
     source: GPS
+  origin: auto
+  id: 8eb5b70d-3e0c-412c-b2bb-6cfdeff1acf4

@@ -21,6 +21,8 @@
     - ihmis-suski
     - bergie
   category: navigation
+  origin: auto
+  id: 117a004e-afeb-4562-bfc8-e2f9725ccee8
 - datetime: 2023-12-27T09:30:56.499Z
   text: Anchor up, motoring
   author: ""
@@ -45,6 +47,8 @@
     - ihmis-suski
     - bergie
   category: navigation
+  origin: auto
+  id: 5f5fb506-2ed5-4498-b418-f55134a9a56b
 - datetime: 2023-12-27T09:48:05.500Z
   text: Motor stopped, sailing with Main, Genoa 1
   author: ""
@@ -69,6 +73,8 @@
     - ihmis-suski
     - bergie
   category: navigation
+  origin: auto
+  id: 66eb684d-40df-4a74-a1a2-d2e90da50f65
 - datetime: 2023-12-27T10:00:24.499Z
   text: ""
   author: ""
@@ -93,6 +99,8 @@
     - ihmis-suski
     - bergie
   category: navigation
+  origin: auto
+  id: c4ba6d4c-d3cb-4637-967c-909bde2e938e
 - datetime: 2023-12-27T11:00:11.500Z
   text: ""
   author: ""
@@ -117,6 +125,8 @@
     - ihmis-suski
     - bergie
   category: navigation
+  origin: auto
+  id: 2a109a63-f0cb-44cc-8ea8-51ef6055b473
 - datetime: 2023-12-27T11:51:46.400Z
   text: Sails down, motoring
   author: ""
@@ -141,6 +151,8 @@
     - ihmis-suski
     - bergie
   category: navigation
+  origin: auto
+  id: 9dcc08b2-4b5d-4e5e-bb85-90d7c71253f5
 - datetime: 2023-12-27T12:00:56.400Z
   text: ""
   author: ""
@@ -165,6 +177,8 @@
     - ihmis-suski
     - bergie
   category: navigation
+  origin: auto
+  id: ae283ac1-6a4e-4771-86c4-40c92584c40b
 - datetime: 2023-12-27T12:02:48.400Z
   text: Stopped
   author: ""
@@ -190,6 +204,8 @@
     - bergie
   end: true
   category: navigation
+  origin: auto
+  id: 012c7a49-7b10-4d48-b5ac-a90150c7deba
 - datetime: 2023-12-27T12:50:42.400Z
   text: "Filled up 40l diesel "
   author: bergie
@@ -213,3 +229,5 @@
     - ihmis-suski
     - bergie
   category: engine
+  origin: manual
+  id: a85f0300-8835-42f5-896b-7c4c172825ae

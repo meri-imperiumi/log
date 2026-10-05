@@ -25,6 +25,8 @@
     - ihmis-suski
     - bergie
   category: navigation
+  origin: auto
+  id: 92d0c5bf-28a4-49ef-9df2-008e9143c0d0
 - datetime: 2023-04-17T11:02:09.600Z
   text: Anchor up, motoring
   author: ""
@@ -52,6 +54,8 @@
     - ihmis-suski
     - bergie
   category: navigation
+  origin: auto
+  id: 6692eba8-6fae-4934-bdf7-834bbff611c8
 - datetime: 2023-04-17T11:18:14.598Z
   text: Motor stopped, sailing with Main, Genoa 1
   author: bergie
@@ -82,6 +86,8 @@
   observations:
     seaState: 2
     cloudCoverage: 8
+  origin: manual
+  id: 255a2bff-3e86-4ca6-b5eb-ebe098c731b2
 - datetime: 2023-04-17T11:18:38.598Z
   text: Autopilot activated
   author: ""
@@ -109,6 +115,8 @@
     - ihmis-suski
     - bergie
   category: navigation
+  origin: auto
+  id: deb3d886-edd8-4e5d-8cd4-c6f38549de8f
 - datetime: 2023-04-17T11:36:38.598Z
   text: "Too light winds for hydrogenerator usage if we want to make it to the
     bridge opening "
@@ -137,6 +145,8 @@
     - ihmis-suski
     - bergie
   category: navigation
+  origin: manual
+  id: 98172fec-0b8b-4ac2-8240-c489ad244637
 - datetime: 2023-04-17T12:00:33.600Z
   text: ""
   author: ""
@@ -164,6 +174,8 @@
     - ihmis-suski
     - bergie
   category: navigation
+  origin: auto
+  id: b91d30bb-5214-4cda-92f2-11eb0c2955f0
 - datetime: 2023-04-17T12:20:39.600Z
   text: "Sails set: Main. Slowing down a bit for the bridge opening "
   author: bergie
@@ -194,6 +206,8 @@
   observations:
     cloudCoverage: 8
     seaState: 2
+  origin: manual
+  id: afa97464-1978-469f-820b-83e8cba1c112
 - datetime: 2023-04-17T12:46:59.600Z
   text: Sails down, motoring
   author: ""
@@ -221,6 +235,8 @@
     - ihmis-suski
     - bergie
   category: navigation
+  origin: auto
+  id: d068c3cd-f419-41e9-8919-19d5dce1a171
 - datetime: 2023-04-17T12:51:41.600Z
   text: Autopilot deactivated
   author: ""
@@ -248,6 +264,8 @@
     - ihmis-suski
     - bergie
   category: navigation
+  origin: auto
+  id: d357668e-8a39-48c9-a2e9-7a1342ba4eb3
 - datetime: 2023-04-17T13:00:19.500Z
   text: ""
   author: ""
@@ -275,6 +293,8 @@
     - ihmis-suski
     - bergie
   category: navigation
+  origin: auto
+  id: e69d09b4-21bf-469c-b630-45febbbbc033
 - datetime: 2023-04-17T13:25:20.499Z
   text: Motoring under the Rügendamm bridge
   author: bergie
@@ -299,6 +319,8 @@
     - ihmis-suski
     - bergie
   category: navigation
+  origin: manual
+  id: c61fa166-132e-494f-b09c-b3857c5d55fb
 - datetime: 2023-04-17T13:39:32.499Z
   text: Stopped, Dänholm Nord
   author: bergie
@@ -324,3 +346,5 @@
     - bergie
   end: true
   category: navigation
+  origin: manual
+  id: 38e99de5-73ab-4580-8b96-f869e15dc05d

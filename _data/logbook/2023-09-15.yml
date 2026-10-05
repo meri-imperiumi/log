@@ -22,6 +22,8 @@
     - bergie
     - ihmis-suski
   category: navigation
+  origin: auto
+  id: 3ad5e255-99cd-4d8a-8292-bdec1cf92eed
 - datetime: 2023-09-15T07:21:21.299Z
   text: Motoring
   author: ""
@@ -46,6 +48,8 @@
     - bergie
     - ihmis-suski
   category: navigation
+  origin: auto
+  id: c3dbd1d4-7b9e-4e1d-a146-1701855720a7
 - datetime: 2023-09-15T07:22:57.299Z
   text: Stopped
   author: ""
@@ -71,6 +75,8 @@
     - ihmis-suski
   end: true
   category: navigation
+  origin: auto
+  id: 8ee859ce-c41b-42ab-8715-08902a9f2331
 - datetime: 2023-09-15T07:29:17.299Z
   text: Filled up 27l, 7.99 PLN/l
   author: bergie
@@ -95,6 +101,8 @@
     - bergie
     - ihmis-suski
   category: engine
+  origin: manual
+  id: 17e46780-45f9-46a5-810c-4fef80ed6cd8
 - datetime: 2023-09-15T07:30:58.300Z
   text: Started main engine
   author: ""
@@ -119,6 +127,8 @@
     - bergie
     - ihmis-suski
   category: navigation
+  origin: auto
+  id: 1ecc96f7-2c19-4cde-ad04-9e32d7f9c1bc
 - datetime: 2023-09-15T08:00:08.300Z
   text: ""
   author: ""
@@ -143,6 +153,8 @@
     - bergie
     - ihmis-suski
   category: navigation
+  origin: auto
+  id: 5b37444a-b9b2-4dbe-a9c9-ed44a971ebe6
 - datetime: 2023-09-15T08:39:04.300Z
   text: "Autopilot activated, Suski on watch "
   author: bergie
@@ -167,6 +179,8 @@
     - bergie
     - ihmis-suski
   category: navigation
+  origin: manual
+  id: 4a0de2b4-f531-4993-b36c-bc82e01b4f88
 - datetime: 2023-09-15T09:00:53.401Z
   text: ""
   author: ""
@@ -191,6 +205,8 @@
     - bergie
     - ihmis-suski
   category: navigation
+  origin: auto
+  id: 0995f615-7296-4fc7-9d39-c5167c5fb404
 - datetime: 2023-09-15T10:00:47.699Z
   text: ""
   author: ""
@@ -215,6 +231,8 @@
     - bergie
     - ihmis-suski
   category: navigation
+  origin: auto
+  id: 2ad07284-18d1-405d-bc33-8b895b4caac5
 - datetime: 2023-09-15T11:00:30.700Z
   text: ""
   author: ""
@@ -239,6 +257,8 @@
     - bergie
     - ihmis-suski
   category: navigation
+  origin: auto
+  id: f53d16de-d109-4d3c-8d37-9bc0c17976a1
 - datetime: 2023-09-15T11:24:37.699Z
   text: Autopilot deactivated
   author: ""
@@ -263,6 +283,8 @@
     - bergie
     - ihmis-suski
   category: navigation
+  origin: auto
+  id: 12a51a69-ee6c-4f89-b009-0a8a519400aa
 - datetime: 2023-09-15T12:00:14.800Z
   text: ""
   author: ""
@@ -287,6 +309,8 @@
     - bergie
     - ihmis-suski
   category: navigation
+  origin: auto
+  id: 8688decb-9ea5-490c-8244-063b7ca034ad
 - datetime: 2023-09-15T12:25:09.798Z
   text: Bergie on watch
   author: bergie
@@ -315,6 +339,8 @@
     cloudCoverage: 2
     seaState: 1
     visibility: 8
+  origin: manual
+  id: 9a3b9036-cc7a-4309-b29d-ec957f3fd10b
 - datetime: 2023-09-15T12:43:05.798Z
   text: "Sea eagle circling above "
   author: bergie
@@ -339,6 +365,8 @@
     - bergie
     - ihmis-suski
   category: navigation
+  origin: manual
+  id: a3d23eeb-a9c9-4571-8412-b550fe924fbc
 - datetime: 2023-09-15T13:00:01.798Z
   text: ""
   author: ""
@@ -363,6 +391,8 @@
     - bergie
     - ihmis-suski
   category: navigation
+  origin: auto
+  id: f180d201-f0a5-4f20-8bd2-4c29a33edb91
 - datetime: 2023-09-15T14:00:51.801Z
   text: ""
   author: ""
@@ -387,6 +417,8 @@
     - bergie
     - ihmis-suski
   category: navigation
+  origin: auto
+  id: 4dd9ab0e-1ca8-4c15-8bc9-cac75b6ad6f6
 - datetime: 2023-09-15T15:00:35.801Z
   text: ""
   author: ""
@@ -411,6 +443,8 @@
     - bergie
     - ihmis-suski
   category: navigation
+  origin: auto
+  id: 15119985-ea54-4544-b539-1655b3fe0e3c
 - datetime: 2023-09-15T16:00:20.800Z
   text: ""
   author: ""
@@ -435,6 +469,8 @@
     - bergie
     - ihmis-suski
   category: navigation
+  origin: auto
+  id: 67c5fa27-fe07-4da2-a3d1-d761ad727ed1
 - datetime: 2023-09-15T16:04:49.798Z
   text: Stopped
   author: ""
@@ -460,3 +496,5 @@
     - ihmis-suski
   end: true
   category: navigation
+  origin: auto
+  id: 64c748b7-30b8-4478-86f9-ff0822444b65

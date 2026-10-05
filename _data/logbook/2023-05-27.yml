@@ -25,6 +25,8 @@
     - bergie
     - ihmis-suski
   category: navigation
+  origin: auto
+  id: fd570858-b0fe-4636-946e-eb2fdfb636a3
 - datetime: 2023-05-27T00:29:21.100Z
   text: "Sails set: Main (1st reef), Staysail"
   author: ""
@@ -52,6 +54,8 @@
     - bergie
     - ihmis-suski
   category: navigation
+  origin: auto
+  id: 7e8e6de9-69b6-44e9-b5a9-32ba76e97e60
 - datetime: 2023-05-27T01:00:25.100Z
   text: ""
   author: ""
@@ -79,6 +83,8 @@
     - bergie
     - ihmis-suski
   category: navigation
+  origin: auto
+  id: 25797da4-9413-433e-96ef-db992b941659
 - datetime: 2023-05-27T01:47:13.100Z
   text: Autopilot activated
   author: ""
@@ -106,6 +112,8 @@
     - bergie
     - ihmis-suski
   category: navigation
+  origin: auto
+  id: 85344192-d261-4aa3-969d-c87cdfb7c3d2
 - datetime: 2023-05-27T02:00:16.100Z
   text: Bergie on watch, Suski to bed
   author: bergie
@@ -137,6 +145,8 @@
     seaState: 3
     cloudCoverage: 0
     visibility: 7
+  origin: manual
+  id: 2774a5f3-e555-4c06-8543-bca8ca81a8e7
 - datetime: 2023-05-27T03:00:04.000Z
   text: ""
   author: ""
@@ -164,6 +174,8 @@
     - bergie
     - ihmis-suski
   category: navigation
+  origin: auto
+  id: 998e7499-0637-4d46-bf9c-6f3566b98b1c
 - datetime: 2023-05-27T03:13:01.000Z
   text: "In the fairway. Stowed hydrogenerator "
   author: bergie
@@ -191,6 +203,8 @@
     - bergie
     - ihmis-suski
   category: navigation
+  origin: manual
+  id: 3951edd5-b1c3-4cd5-b324-6bd0c608e0f6
 - datetime: 2023-05-27T03:47:42.000Z
   text: Autopilot deactivated
   author: ""
@@ -218,6 +232,8 @@
     - bergie
     - ihmis-suski
   category: navigation
+  origin: auto
+  id: 46a3540b-9fa1-4d93-8eb7-3c1ebbfe5e2b
 - datetime: 2023-05-27T04:00:51.000Z
   text: ""
   author: ""
@@ -245,6 +261,8 @@
     - bergie
     - ihmis-suski
   category: navigation
+  origin: auto
+  id: 3dacdc66-8ae7-4a1b-8a12-d648f14cbbbd
 - datetime: 2023-05-27T04:05:10.000Z
   text: Sails down, motoring
   author: ""
@@ -272,6 +290,8 @@
     - bergie
     - ihmis-suski
   category: navigation
+  origin: auto
+  id: df9098f4-d70c-424d-95e7-39293a1f5e02
 - datetime: 2023-05-27T04:28:10.000Z
   text: Stopped, Junkön guest pier
   author: bergie
@@ -297,3 +317,5 @@
     - ihmis-suski
   end: true
   category: navigation
+  origin: manual
+  id: a68b49c5-d31f-4ed3-b4e3-5ee309828fc2

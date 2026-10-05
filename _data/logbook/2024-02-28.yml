@@ -21,6 +21,8 @@
     - ihmis-suski
     - bergie
   category: navigation
+  origin: auto
+  id: db9db252-e474-4a58-8b2e-de6997d64121
 - datetime: 2024-02-28T10:12:41.900Z
   text: Motoring
   author: ""
@@ -44,6 +46,8 @@
     - ihmis-suski
     - bergie
   category: navigation
+  origin: auto
+  id: d401b38c-b6f3-4086-b1c2-c1dea55c565b
 - datetime: 2024-02-28T10:14:30.899Z
   text: Stopped
   author: ""
@@ -68,6 +72,8 @@
     - bergie
   end: true
   category: navigation
+  origin: auto
+  id: e5620162-3a91-4cc9-86c8-82ceb0de0e6c
 - datetime: 2024-02-28T11:36:02.899Z
   text: Started main engine
   author: ""
@@ -91,6 +97,8 @@
     - ihmis-suski
     - bergie
   category: navigation
+  origin: auto
+  id: 4a6bfde0-258b-404d-a9a7-3a042d18fc60
 - datetime: 2024-02-28T11:39:18.899Z
   text: Motoring
   author: ""
@@ -114,6 +122,8 @@
     - ihmis-suski
     - bergie
   category: navigation
+  origin: auto
+  id: 600e4fee-dd50-481a-95b1-24cae5cdf786
 - datetime: 2024-02-28T11:45:32.899Z
   text: Stopped
   author: ""
@@ -138,6 +148,8 @@
     - bergie
   end: true
   category: navigation
+  origin: auto
+  id: f6f2c7a1-1656-44a6-afa1-39379f3eb174
 - datetime: 2024-02-28T18:14:43.302Z
   text: "Mast is up and tensioned with new standing rigging "
   author: bergie
@@ -161,3 +173,5 @@
     - ihmis-suski
     - bergie
   category: maintenance
+  origin: manual
+  id: 9da09928-8186-4006-8d2d-562c342f459a

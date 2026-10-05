@@ -22,6 +22,8 @@
     - bergie
     - ihmis-suski
   category: navigation
+  origin: auto
+  id: 5d8b4542-3c81-4a0a-ad27-bd24d036df3a
 - datetime: 2023-08-22T04:39:50.000Z
   text: Motoring
   author: ""
@@ -46,6 +48,8 @@
     - bergie
     - ihmis-suski
   category: navigation
+  origin: auto
+  id: 8ee9a1d0-5fdd-4f51-96e9-59c6e5bc328d
 - datetime: 2023-08-22T04:43:59.000Z
   text: Autopilot activated
   author: ""
@@ -70,6 +74,8 @@
     - bergie
     - ihmis-suski
   category: navigation
+  origin: auto
+  id: 59382149-a348-4400-95d3-19591d9f8c92
 - datetime: 2023-08-22T04:52:54.000Z
   text: "Motor stopped, sailing with Main, Genoa 1. Bergie on watch "
   author: bergie
@@ -94,6 +100,8 @@
     - bergie
     - ihmis-suski
   category: navigation
+  origin: manual
+  id: a179758d-4391-44bf-8d76-f9049019006d
 - datetime: 2023-08-22T05:00:44.000Z
   text: ""
   author: ""
@@ -118,6 +126,8 @@
     - bergie
     - ihmis-suski
   category: navigation
+  origin: auto
+  id: 9ba6b65e-a7fc-45d0-a7b6-789d0545a5fa
 - datetime: 2023-08-22T05:01:44.000Z
   text: We were stuck aground while trying to leave. The water level had dropped
     by 20 or so cm and we did not take it into account. We tried to reverse over
@@ -150,6 +160,8 @@
     - bergie
     - ihmis-suski
   category: navigation
+  origin: manual
+  id: 0dae2a6d-0b2f-4eac-8ed1-178e083b5bd5
 - datetime: 2023-08-22T05:18:39.000Z
   text: "Deployed hydrogenerator "
   author: bergie
@@ -174,6 +186,8 @@
     - bergie
     - ihmis-suski
   category: navigation
+  origin: manual
+  id: e639c8e8-238f-4101-9a37-8c326bd6d8f1
 - datetime: 2023-08-22T06:00:29.400Z
   text: ""
   author: bergie
@@ -202,6 +216,8 @@
     seaState: 2
     cloudCoverage: 5
     visibility: 8
+  origin: manual
+  id: 8d2072d9-2eb9-4d01-9a03-8da420f8a148
 - datetime: 2023-08-22T06:30:23.400Z
   text: Sighted Blå Jungfrun, 18NM ahead
   author: bergie
@@ -226,6 +242,8 @@
     - bergie
     - ihmis-suski
   category: navigation
+  origin: manual
+  id: c661eb71-d995-400b-9b45-b8c9ae96b96d
 - datetime: 2023-08-22T07:00:17.400Z
   text: ""
   author: bergie
@@ -254,6 +272,8 @@
     seaState: 3
     cloudCoverage: 3
     visibility: 8
+  origin: manual
+  id: 39e69e1b-dc61-436e-b015-5812d30f6836
 - datetime: 2023-08-22T07:17:29.400Z
   text: "Autopilot deactivated, windvane steering "
   author: bergie
@@ -278,6 +298,8 @@
     - bergie
     - ihmis-suski
   category: navigation
+  origin: manual
+  id: 9df6fcef-fd9d-4c47-8652-b87077b6be67
 - datetime: 2023-08-22T08:00:05.401Z
   text: ""
   author: ""
@@ -302,6 +324,8 @@
     - bergie
     - ihmis-suski
   category: navigation
+  origin: auto
+  id: ea02253a-48de-4458-b57a-3fffadbb6771
 - datetime: 2023-08-22T08:12:03.398Z
   text: Autopilot activated, not enough wind. Really unfortunate wave period
     causing hobbyhorsing
@@ -327,6 +351,8 @@
     - bergie
     - ihmis-suski
   category: navigation
+  origin: manual
+  id: e93e0c5c-4b24-45f4-98b3-60e9edd384d6
 - datetime: 2023-08-22T08:27:02.400Z
   text: Port upper shroud was missing a split ring. Good that spotted it on time
     when I went forward to stow the inner forestay
@@ -352,6 +378,8 @@
     - bergie
     - ihmis-suski
   category: navigation
+  origin: manual
+  id: 4d540386-d156-4fdc-8aa3-eb91dad30626
 - datetime: 2023-08-22T09:00:55.398Z
   text: ""
   author: ""
@@ -376,6 +404,8 @@
     - bergie
     - ihmis-suski
   category: navigation
+  origin: auto
+  id: ae6c6c81-e666-438a-bdcd-4ce36f6a3fd0
 - datetime: 2023-08-22T09:04:54.400Z
   text: Autopilot set to wind mode
   author: ""
@@ -400,6 +430,8 @@
     - bergie
     - ihmis-suski
   category: navigation
+  origin: auto
+  id: 91bff2ce-d9ac-4d9f-b86e-13d578b872ba
 - datetime: 2023-08-22T09:41:03.398Z
   text: "Autopilot deactivated, windvane steering "
   author: bergie
@@ -428,6 +460,8 @@
     cloudCoverage: 2
     seaState: 2
     visibility: 8
+  origin: manual
+  id: 2959a65e-2ed2-439a-9ac7-b1ab4fc09878
 - datetime: 2023-08-22T10:00:43.398Z
   text: "Suski on watch "
   author: bergie
@@ -452,6 +486,8 @@
     - bergie
     - ihmis-suski
   category: navigation
+  origin: manual
+  id: 0fafc788-cce3-4a5e-ad70-9c03713b37ae
 - datetime: 2023-08-22T11:00:29.401Z
   text: ""
   author: ""
@@ -476,6 +512,8 @@
     - bergie
     - ihmis-suski
   category: navigation
+  origin: auto
+  id: 6e65deca-dc3c-4c76-be76-ef7720b37e88
 - datetime: 2023-08-22T11:49:25.401Z
   text: Autopilot activated
   author: ""
@@ -500,6 +538,8 @@
     - bergie
     - ihmis-suski
   category: navigation
+  origin: auto
+  id: 6c8f75fc-3e71-43fa-ac75-5a407e1f6fb2
 - datetime: 2023-08-22T12:00:15.398Z
   text: ""
   author: ""
@@ -524,6 +564,8 @@
     - bergie
     - ihmis-suski
   category: navigation
+  origin: auto
+  id: ebdb3b9a-5dd5-4f46-a08c-23b3a5996e77
 - datetime: 2023-08-22T12:59:59.398Z
   text: ""
   author: ""
@@ -548,6 +590,8 @@
     - bergie
     - ihmis-suski
   category: navigation
+  origin: auto
+  id: 0b18a656-2d12-4679-ab46-6ec1022065e6
 - datetime: 2023-08-22T13:09:14.400Z
   text: Autopilot deactivated. We’ve now had a couple of instances of tiller pilot
     stopping in hard to starboard with error “NO DRIVE”
@@ -573,6 +617,8 @@
     - bergie
     - ihmis-suski
   category: navigation
+  origin: manual
+  id: dd0fb175-c937-45d3-af25-6ab057022c3b
 - datetime: 2023-08-22T13:11:48.400Z
   text: Autopilot activated
   author: ""
@@ -597,6 +643,8 @@
     - bergie
     - ihmis-suski
   category: navigation
+  origin: auto
+  id: ce077e08-439d-4615-8265-08eb966d44f4
 - datetime: 2023-08-22T13:17:55.398Z
   text: Autopilot deactivated. Starbuck on. Windvane steering.
   author: ihmis-suski
@@ -621,6 +669,8 @@
     - bergie
     - ihmis-suski
   category: navigation
+  origin: manual
+  id: 3e488684-9967-470d-9911-566adfa8032e
 - datetime: 2023-08-22T14:00:43.398Z
   text: ""
   author: ""
@@ -645,6 +695,8 @@
     - bergie
     - ihmis-suski
   category: navigation
+  origin: auto
+  id: 99e6cb09-816d-4081-9118-20ae621d3913
 - datetime: 2023-08-22T15:00:27.398Z
   text: ""
   author: ""
@@ -669,6 +721,8 @@
     - bergie
     - ihmis-suski
   category: navigation
+  origin: auto
+  id: 78fcc5b4-fe0b-4bc2-9af7-e1da4a590da4
 - datetime: 2023-08-22T16:00:11.398Z
   text: "Bergie on watch "
   author: bergie
@@ -697,6 +751,8 @@
     cloudCoverage: 1
     seaState: 2
     visibility: 8
+  origin: manual
+  id: f740fc7a-e523-4eb0-8028-4c537d8b24b3
 - datetime: 2023-08-22T17:00:57.798Z
   text: ""
   author: ""
@@ -721,6 +777,8 @@
     - bergie
     - ihmis-suski
   category: navigation
+  origin: auto
+  id: ab0278be-4a1a-440a-b48e-0469fd7b9ce4
 - datetime: 2023-08-22T17:34:48.800Z
   text: "Stowed hydrogenerator "
   author: bergie
@@ -745,6 +803,8 @@
     - bergie
     - ihmis-suski
   category: navigation
+  origin: manual
+  id: f21f9716-ddfc-4746-9211-6173cc1aa25e
 - datetime: 2023-08-22T18:00:42.803Z
   text: Nice sunset view of the Borgholm Castle
   author: bergie
@@ -769,6 +829,8 @@
     - bergie
     - ihmis-suski
   category: navigation
+  origin: manual
+  id: 27721c32-57ce-43df-a52d-51c93b694eda
 - datetime: 2023-08-22T19:00:29.798Z
   text: ""
   author: ""
@@ -793,6 +855,8 @@
     - bergie
     - ihmis-suski
   category: navigation
+  origin: auto
+  id: d7da40ec-4430-47d0-a6a8-ac2beee2d9ef
 - datetime: 2023-08-22T19:03:19.801Z
   text: Autopilot activated
   author: ""
@@ -817,6 +881,8 @@
     - bergie
     - ihmis-suski
   category: navigation
+  origin: auto
+  id: 6140d5ab-4806-45fe-adc2-0223bca3278a
 - datetime: 2023-08-22T20:00:13.798Z
   text: ""
   author: ""
@@ -841,6 +907,8 @@
     - bergie
     - ihmis-suski
   category: navigation
+  origin: auto
+  id: e05adc9e-e3db-4337-813c-4ddbd73533b7
 - datetime: 2023-08-22T21:00:57.798Z
   text: ""
   author: ""
@@ -865,6 +933,8 @@
     - bergie
     - ihmis-suski
   category: navigation
+  origin: auto
+  id: d0eb4f2c-cbc8-4681-b483-4d3b4f3aee51
 - datetime: 2023-08-22T21:31:50.796Z
   text: Autopilot deactivated
   author: ""
@@ -889,6 +959,8 @@
     - bergie
     - ihmis-suski
   category: navigation
+  origin: auto
+  id: c4ec24d8-e120-4784-9af8-8fac13b80ed0
 - datetime: 2023-08-22T21:45:59.801Z
   text: Sails down, motoring
   author: ""
@@ -913,6 +985,8 @@
     - bergie
     - ihmis-suski
   category: navigation
+  origin: auto
+  id: 47c304a6-4c46-4469-af8c-9626e5b84278
 - datetime: 2023-08-22T22:00:42.803Z
   text: ""
   author: ""
@@ -937,6 +1011,8 @@
     - bergie
     - ihmis-suski
   category: navigation
+  origin: auto
+  id: 9c78c704-8528-4afb-8664-56344afa8120
 - datetime: 2023-08-22T22:16:57.798Z
   text: Stopped
   author: ""
@@ -962,3 +1038,5 @@
     - ihmis-suski
   end: true
   category: navigation
+  origin: auto
+  id: dfa5a775-c0f4-446f-a8de-48432a339020

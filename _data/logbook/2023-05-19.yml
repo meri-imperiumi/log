@@ -29,6 +29,8 @@
     seaState: 2
     cloudCoverage: 0
     visibility: 7
+  origin: manual
+  id: fdafe9ad-bd1f-4f39-a92c-3360046ad5f8
 - datetime: 2023-05-19T00:26:31.200Z
   text: "Autopilot deactivated, steering on windvane "
   author: bergie
@@ -56,6 +58,8 @@
     - bergie
     - ihmis-suski
   category: navigation
+  origin: manual
+  id: 09802fbc-090f-4956-80c7-6df0168c540b
 - datetime: 2023-05-19T01:00:23.200Z
   text: ""
   author: ""
@@ -83,6 +87,8 @@
     - bergie
     - ihmis-suski
   category: navigation
+  origin: auto
+  id: 5918f085-6334-4fba-8848-d7fb34514fbe
 - datetime: 2023-05-19T02:00:10.200Z
   text: ""
   author: ""
@@ -110,6 +116,8 @@
     - bergie
     - ihmis-suski
   category: navigation
+  origin: auto
+  id: e27cc47b-fee1-4bf0-b44b-a3c5570cd5da
 - datetime: 2023-05-19T03:00:58.200Z
   text: ""
   author: ""
@@ -137,6 +145,8 @@
     - bergie
     - ihmis-suski
   category: navigation
+  origin: auto
+  id: 90b424ed-8b7a-4b73-9a3c-be5e744c4b6a
 - datetime: 2023-05-19T04:00:42.099Z
   text: ""
   author: ""
@@ -164,6 +174,8 @@
     - bergie
     - ihmis-suski
   category: navigation
+  origin: auto
+  id: 265425e8-ee1b-4481-bc7d-0a68a8c82640
 - datetime: 2023-05-19T05:00:27.100Z
   text: ""
   author: ""
@@ -191,6 +203,8 @@
     - bergie
     - ihmis-suski
   category: navigation
+  origin: auto
+  id: aa69eb24-e15b-49ce-80fc-3a91d199a08b
 - datetime: 2023-05-19T06:00:12.099Z
   text: ""
   author: ""
@@ -218,6 +232,8 @@
     - bergie
     - ihmis-suski
   category: navigation
+  origin: auto
+  id: ef9525c2-a096-488c-9645-415e612a3ecc
 - datetime: 2023-05-19T06:19:07.100Z
   text: Bergie to bed, suski on sea watch drinking coffee
   author: ihmis-suski
@@ -249,6 +265,8 @@
     seaState: 2
     cloudCoverage: 0
     visibility: 8
+  origin: manual
+  id: 39a25b4b-9f19-4719-a0f1-431c3cca97c6
 - datetime: 2023-05-19T07:00:58.099Z
   text: ""
   author: ""
@@ -276,6 +294,8 @@
     - bergie
     - ihmis-suski
   category: navigation
+  origin: auto
+  id: bdf1fcd0-55fc-4618-a069-e2eda9564e00
 - datetime: 2023-05-19T07:02:58.099Z
   text: Can't get Starbuck to behave, let's try smetti.
   author: ihmis-suski
@@ -307,6 +327,8 @@
     seaState: 2
     cloudCoverage: 0
     visibility: 8
+  origin: manual
+  id: d8848044-4fa1-4b41-82d4-91063ecafd83
 - datetime: 2023-05-19T08:00:45.100Z
   text: ""
   author: ""
@@ -334,6 +356,8 @@
     - bergie
     - ihmis-suski
   category: navigation
+  origin: auto
+  id: 482694a8-a24a-4e02-a00e-66ae264c0331
 - datetime: 2023-05-19T08:10:42.099Z
   text: Schmetti with Starbuck. Slow going but that is what the wind gives us
     right now.
@@ -366,6 +390,8 @@
     seaState: 2
     cloudCoverage: 0
     visibility: 8
+  origin: manual
+  id: 920ddd35-6f78-4e1a-a613-635744af7108
 - datetime: 2023-05-19T09:00:32.099Z
   text: ""
   author: ""
@@ -393,6 +419,8 @@
     - bergie
     - ihmis-suski
   category: navigation
+  origin: auto
+  id: 1242921e-66c5-40b7-be3c-e88fbc3b753e
 - datetime: 2023-05-19T09:49:27.500Z
   text: Eli. Kokeillaan uudestaan. Miksi Starbuck sekoaa aina välillä? Sama
     tuulensuunta, tuulen voimakkuus, vittu kaikki. Ja silti Starbuck antaa vetää
@@ -422,6 +450,8 @@
     - bergie
     - ihmis-suski
   category: navigation
+  origin: manual
+  id: 4146b6fc-6f75-4037-a422-857954fce7ef
 - datetime: 2023-05-19T09:55:27.398Z
   text: Spinnun puomin paikallaanpitoköysi oli lähtenyt keulaknaapista irti, liian
     vähän häntää kunnon knaapisolmuun.
@@ -450,6 +480,8 @@
     - bergie
     - ihmis-suski
   category: navigation
+  origin: manual
+  id: 2d15fdb6-fe09-4f74-90cb-7369aeed9c1d
 - datetime: 2023-05-19T10:00:27.500Z
   text: ""
   author: ""
@@ -477,6 +509,8 @@
     - bergie
     - ihmis-suski
   category: navigation
+  origin: auto
+  id: dd14307f-8f3e-44a9-893b-49e37da1612c
 - datetime: 2023-05-19T11:00:28.499Z
   text: ""
   author: ""
@@ -504,6 +538,8 @@
     - bergie
     - ihmis-suski
   category: navigation
+  origin: auto
+  id: f2dbc897-f86a-4c4f-8dd6-0d23ab968d1a
 - datetime: 2023-05-19T11:02:28.499Z
   text: "Sextant position: 60°46'4\"N 018°55'7\"E. 7.4NM off GPS"
   author: ihmis-suski
@@ -535,6 +571,8 @@
     seaState: 2
     cloudCoverage: 0
     visibility: 8
+  origin: manual
+  id: bc69d209-c0e3-41c0-85d0-b6e5403fa08d
 - datetime: 2023-05-19T11:43:46.400Z
   text: Autopilot activated
   author: ""
@@ -562,6 +600,8 @@
     - bergie
     - ihmis-suski
   category: navigation
+  origin: auto
+  id: 1e83f2e8-bdda-4ad5-9837-b90401761b0e
 - datetime: 2023-05-19T12:00:28.499Z
   text: Lunch. Bergie to watch, Suski to bed
   author: bergie
@@ -593,6 +633,8 @@
     seaState: 2
     cloudCoverage: 0
     visibility: 8
+  origin: manual
+  id: a134985f-0279-475a-ae71-23396e19585e
 - datetime: 2023-05-19T12:23:54.499Z
   text: Autopilot deactivated. Back to windvane steering
   author: bergie
@@ -620,6 +662,8 @@
     - bergie
     - ihmis-suski
   category: navigation
+  origin: manual
+  id: b285225c-173a-4e8c-9129-599829b9e598
 - datetime: 2023-05-19T13:00:29.500Z
   text: ""
   author: ""
@@ -647,6 +691,8 @@
     - bergie
     - ihmis-suski
   category: navigation
+  origin: auto
+  id: 76beb4f8-0ac0-49b7-932f-26102f94226c
 - datetime: 2023-05-19T14:00:30.499Z
   text: ""
   author: ""
@@ -674,6 +720,8 @@
     - bergie
     - ihmis-suski
   category: navigation
+  origin: auto
+  id: c26c62ee-81e1-425a-80af-b3905125f51a
 - datetime: 2023-05-19T14:15:30.499Z
   text: Started watermaker
   author: bergie
@@ -701,6 +749,8 @@
     - bergie
     - ihmis-suski
   category: maintenance
+  origin: manual
+  id: 00713c2f-256d-4ecb-a3a7-53cc94db9757
 - datetime: 2023-05-19T15:00:30.502Z
   text: ""
   author: bergie
@@ -732,6 +782,8 @@
     seaState: 2
     cloudCoverage: 0
     visibility: 7
+  origin: manual
+  id: 387b51ae-d0d3-4237-b9a1-039bf1b95778
 - datetime: 2023-05-19T16:00:31.398Z
   text: ""
   author: bergie
@@ -763,6 +815,8 @@
     seaState: 3
     cloudCoverage: 0
     visibility: 7
+  origin: manual
+  id: 9343f1cc-3a85-4d51-b3e3-baca0d3fef55
 - datetime: 2023-05-19T17:00:31.398Z
   text: Had to tighten spinnaker boom topping lift as the boom was squeaking in
     the waves
@@ -791,6 +845,8 @@
     - bergie
     - ihmis-suski
   category: navigation
+  origin: manual
+  id: 48b39299-dc9f-4926-a64c-7c36e4305f17
 - datetime: 2023-05-19T17:11:32.403Z
   text: Stopped watermaker. 35ppm. Low output, likely air entering the system
   author: bergie
@@ -818,6 +874,8 @@
     - bergie
     - ihmis-suski
   category: maintenance
+  origin: manual
+  id: 5967aefd-c0ff-4af4-8ca1-1907b2a59d15
 - datetime: 2023-05-19T18:00:32.396Z
   text: ""
   author: ""
@@ -845,6 +903,8 @@
     - bergie
     - ihmis-suski
   category: navigation
+  origin: auto
+  id: 04e4d068-83c8-4aa5-ac19-faa0daa1a844
 - datetime: 2023-05-19T18:10:32.396Z
   text: Bergie to sleeping, Suski to sea watch.
   author: ihmis-suski
@@ -876,6 +936,8 @@
     seaState: 3
     cloudCoverage: 0
     visibility: 7
+  origin: manual
+  id: 6689f333-d327-483b-b33c-a6e487a8b17b
 - datetime: 2023-05-19T19:00:33.401Z
   text: ""
   author: ""
@@ -903,6 +965,8 @@
     - bergie
     - ihmis-suski
   category: navigation
+  origin: auto
+  id: 1252d918-c8cf-4397-aa01-76b5d0e53a44
 - datetime: 2023-05-19T20:00:32.697Z
   text: ""
   author: ""
@@ -930,6 +994,8 @@
     - bergie
     - ihmis-suski
   category: navigation
+  origin: auto
+  id: b5058754-b95a-40d7-a2bf-55bc6409a76e
 - datetime: 2023-05-19T21:00:34.700Z
   text: ""
   author: ""
@@ -957,6 +1023,8 @@
     - bergie
     - ihmis-suski
   category: navigation
+  origin: auto
+  id: df251988-c979-4d0f-aa90-33378cb5eafa
 - datetime: 2023-05-19T22:00:34.700Z
   text: ""
   author: ""
@@ -984,6 +1052,8 @@
     - bergie
     - ihmis-suski
   category: navigation
+  origin: auto
+  id: 4bbc00a8-20c2-4c83-b66f-444354bb4785
 - datetime: 2023-05-19T23:00:34.700Z
   text: ""
   author: ""
@@ -1011,3 +1081,5 @@
     - bergie
     - ihmis-suski
   category: navigation
+  origin: auto
+  id: 0f5c725b-32b5-48c4-9a21-c75280f8e3f2

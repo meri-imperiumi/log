@@ -22,6 +22,8 @@
     - bergie
     - bernhard
   category: navigation
+  origin: auto
+  id: 65671f1c-2cc4-4cc0-b756-ac96b77eca14
 - datetime: 2023-06-13T08:58:04.601Z
   text: Motoring
   author: ""
@@ -46,6 +48,8 @@
     - bergie
     - bernhard
   category: navigation
+  origin: auto
+  id: 3ae522ea-098e-49d8-b361-f93a8363acc9
 - datetime: 2023-06-13T09:00:03.600Z
   text: ""
   author: ""
@@ -70,6 +74,8 @@
     - bergie
     - bernhard
   category: navigation
+  origin: auto
+  id: f92d16a4-5b10-409d-ad5b-4ca57fbeeb70
 - datetime: 2023-06-13T09:01:10.598Z
   text: Autopilot activated
   author: ""
@@ -94,6 +100,8 @@
     - bergie
     - bernhard
   category: navigation
+  origin: auto
+  id: 01a19868-a342-4a61-b357-dbdbfa530c4f
 - datetime: 2023-06-13T09:09:05.600Z
   text: Motor stopped, sailing with Main, Genoa 1
   author: ""
@@ -118,6 +126,8 @@
     - bergie
     - bernhard
   category: navigation
+  origin: auto
+  id: 490194b3-abf2-4af6-b444-c92b0fa32762
 - datetime: 2023-06-13T09:14:17.600Z
   text: "Autopilot deactivated, windvane steering "
   author: bergie
@@ -146,6 +156,8 @@
     seaState: 2
     cloudCoverage: 3
     visibility: 8
+  origin: manual
+  id: f92c2051-aa8e-4617-ac1d-f6edcd35c125
 - datetime: 2023-06-13T10:00:53.600Z
   text: ""
   author: ""
@@ -170,6 +182,8 @@
     - bergie
     - bernhard
   category: navigation
+  origin: auto
+  id: eeaf6404-a5a1-4a7a-b308-c316adb962b3
 - datetime: 2023-06-13T11:00:42.000Z
   text: ""
   author: ""
@@ -194,6 +208,8 @@
     - bergie
     - bernhard
   category: navigation
+  origin: auto
+  id: 5bf74917-7ad4-4323-ac7b-f3d809b2b70d
 - datetime: 2023-06-13T12:00:26.899Z
   text: ""
   author: ""
@@ -218,6 +234,8 @@
     - bergie
     - bernhard
   category: navigation
+  origin: auto
+  id: 292547fc-3473-43ea-83b7-d95f8d4c2ec9
 - datetime: 2023-06-13T13:00:19.001Z
   text: ""
   author: ""
@@ -242,6 +260,8 @@
     - bergie
     - bernhard
   category: navigation
+  origin: auto
+  id: 3db0f688-e248-408d-810f-5d88375a0276
 - datetime: 2023-06-13T14:00:10.000Z
   text: ""
   author: ""
@@ -266,6 +286,8 @@
     - bergie
     - bernhard
   category: navigation
+  origin: auto
+  id: 64c1c3e7-3ee5-4323-ad4d-4b1d2cc2e9c8
 - datetime: 2023-06-13T15:00:00.000Z
   text: ""
   author: bergie
@@ -292,6 +314,8 @@
   category: navigation
   observations:
     seaState: 3
+  origin: manual
+  id: a99d576d-3d98-4c46-9747-a46c1ab7f2f0
 - datetime: 2023-06-13T16:00:46.899Z
   text: ""
   author: ""
@@ -316,6 +340,8 @@
     - bergie
     - bernhard
   category: navigation
+  origin: auto
+  id: 544d4e14-a81d-45fd-a4b3-5e557ef304ca
 - datetime: 2023-06-13T17:00:30.899Z
   text: ""
   author: ""
@@ -340,6 +366,8 @@
     - bergie
     - bernhard
   category: navigation
+  origin: auto
+  id: f8272b42-16d4-4ebb-a6ba-8887fd1d4dfd
 - datetime: 2023-06-13T18:00:21.900Z
   text: ""
   author: ""
@@ -364,6 +392,8 @@
     - bergie
     - bernhard
   category: navigation
+  origin: auto
+  id: 7b534796-7d16-40d8-a94b-8808d386662b
 - datetime: 2023-06-13T18:03:34.899Z
   text: Autopilot activated
   author: ""
@@ -388,6 +418,8 @@
     - bergie
     - bernhard
   category: navigation
+  origin: auto
+  id: 2baddb07-b370-4ae5-9665-ace967c85a0b
 - datetime: 2023-06-13T18:26:50.899Z
   text: Autopilot deactivated
   author: ""
@@ -412,6 +444,8 @@
     - bergie
     - bernhard
   category: navigation
+  origin: auto
+  id: 80bfd8ea-2f68-4efc-8bcc-92b4358c0c70
 - datetime: 2023-06-13T18:27:40.902Z
   text: Sails down, motoring
   author: ""
@@ -436,6 +470,8 @@
     - bergie
     - bernhard
   category: navigation
+  origin: auto
+  id: d647f870-4b93-4c95-90aa-5f6ea2671faa
 - datetime: 2023-06-13T19:00:16.902Z
   text: ""
   author: ""
@@ -460,6 +496,8 @@
     - bergie
     - bernhard
   category: navigation
+  origin: auto
+  id: 053dbdcc-4ade-467f-8d3e-21e25a9c650d
 - datetime: 2023-06-13T19:12:40.902Z
   text: Stopped
   author: ""
@@ -485,3 +523,5 @@
     - bernhard
   end: true
   category: navigation
+  origin: auto
+  id: 3108a30e-c4ae-468e-a1bb-155da164e805

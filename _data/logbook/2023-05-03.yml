@@ -27,6 +27,8 @@
   observations:
     seaState: 1
     cloudCoverage: 1
+  origin: manual
+  id: 2c848f3e-7a8d-417e-9400-c4cc661ac9a3
 - datetime: 2023-05-03T10:09:06.700Z
   text: Stopped watermaker. First jug full.
   author: bergie
@@ -53,6 +55,8 @@
     - bergie
     - ihmis-suski
   category: maintenance
+  origin: manual
+  id: 4dbec9a5-4f3b-498b-8f23-d67b809be631
 - datetime: 2023-05-03T11:43:47.699Z
   text: Started main engine
   author: ""
@@ -80,6 +84,8 @@
     - bergie
     - ihmis-suski
   category: navigation
+  origin: auto
+  id: 241c56f7-2af0-474b-a288-0db6baf9193e
 - datetime: 2023-05-03T11:51:45.699Z
   text: Motoring
   author: ""
@@ -107,6 +113,8 @@
     - bergie
     - ihmis-suski
   category: navigation
+  origin: auto
+  id: 3b51a427-1f3f-4639-aeca-bdcdfc961c64
 - datetime: 2023-05-03T11:53:35.699Z
   text: Autopilot activated
   author: ""
@@ -134,6 +142,8 @@
     - bergie
     - ihmis-suski
   category: navigation
+  origin: auto
+  id: 14ced9ce-abe9-44f3-83d6-e99e264926ef
 - datetime: 2023-05-03T11:58:31.699Z
   text: Motor stopped, sailing with Main
   author: ""
@@ -161,6 +171,8 @@
     - bergie
     - ihmis-suski
   category: navigation
+  origin: auto
+  id: 55c8175b-949e-414f-8c9c-87f554c20f07
 - datetime: 2023-05-03T12:00:37.699Z
   text: ""
   author: ""
@@ -188,6 +200,8 @@
     - bergie
     - ihmis-suski
   category: navigation
+  origin: auto
+  id: 8929f7d6-caa3-46df-9328-d66302e79d6e
 - datetime: 2023-05-03T12:12:25.699Z
   text: "Sails set: Main, Genoa 1"
   author: ""
@@ -215,6 +229,8 @@
     - bergie
     - ihmis-suski
   category: navigation
+  origin: auto
+  id: 50d740d1-af0c-469b-b56e-0c8b9eaa3f4f
 - datetime: 2023-05-03T12:16:31.699Z
   text: "Autopilot deactivated. Ridiculously narrow fairway "
   author: bergie
@@ -242,6 +258,8 @@
     - bergie
     - ihmis-suski
   category: navigation
+  origin: manual
+  id: b5b72d7a-db03-47a8-abe4-9f55edd87601
 - datetime: 2023-05-03T12:34:29.699Z
   text: Autopilot activated
   author: ""
@@ -266,6 +284,8 @@
     - bergie
     - ihmis-suski
   category: navigation
+  origin: auto
+  id: fcc07740-1097-4029-8d23-bfac0471f104
 - datetime: 2023-05-03T13:00:21.699Z
   text: ""
   author: bergie
@@ -294,6 +314,8 @@
     seaState: 2
     cloudCoverage: 6
     visibility: 8
+  origin: manual
+  id: 689b9fc2-8086-475f-83c8-4377662d21f4
 - datetime: 2023-05-03T14:00:05.699Z
   text: ""
   author: ""
@@ -318,6 +340,8 @@
     - bergie
     - ihmis-suski
   category: navigation
+  origin: auto
+  id: d86d70c8-ab18-44a1-8b29-8c89257ed86a
 - datetime: 2023-05-03T15:00:48.697Z
   text: ""
   author: ""
@@ -342,6 +366,8 @@
     - bergie
     - ihmis-suski
   category: navigation
+  origin: auto
+  id: 3d5a2318-1fe5-4bca-8e04-f42cb49ac45d
 - datetime: 2023-05-03T15:52:46.700Z
   text: Autopilot deactivated
   author: ""
@@ -369,6 +395,8 @@
     - bergie
     - ihmis-suski
   category: navigation
+  origin: auto
+  id: 175908c8-94ad-4b14-a656-4aade83fcc4b
 - datetime: 2023-05-03T16:00:33.702Z
   text: ""
   author: ""
@@ -396,6 +424,8 @@
     - bergie
     - ihmis-suski
   category: navigation
+  origin: auto
+  id: 2fcd0c11-83f0-41ee-8ab7-daa9d115df08
 - datetime: 2023-05-03T16:12:11.699Z
   text: Sails down, motoring
   author: ""
@@ -423,6 +453,8 @@
     - bergie
     - ihmis-suski
   category: navigation
+  origin: auto
+  id: 13d8d28b-afef-4d28-ae1a-fc660c8b1abd
 - datetime: 2023-05-03T16:26:45.702Z
   text: Anchored
   author: ""
@@ -451,6 +483,8 @@
     - ihmis-suski
   end: true
   category: navigation
+  origin: auto
+  id: ca06da90-592a-4d3a-b815-9843a68b17c6
 - datetime: 2023-05-03T16:27:11.699Z
   text: Stopped main engine
   author: ""
@@ -478,3 +512,5 @@
     - bergie
     - ihmis-suski
   category: navigation
+  origin: auto
+  id: d7e059c0-a9a9-4287-b529-0069da818770

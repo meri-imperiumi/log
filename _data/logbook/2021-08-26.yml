@@ -1,28 +1,43 @@
 - datetime: 2021-08-26T06:05:00.000Z
   text: Left the harbour
   category: navigation
+  origin: auto
+  id: 1fdcf393-e220-4a21-bea4-561db803700e
 - datetime: 2021-08-26T06:15:00.000Z
   text: Sails up
   category: navigation
   course: 30
+  origin: auto
+  id: c0a356cb-a5b5-40f8-9a20-b295dfb4499c
 - datetime: 2021-08-26T07:38:00.000Z
   text: Out of the shooting range
   category: navigation
   course: 35
+  origin: auto
+  id: d19333ce-03e5-45a0-ad8e-edbdd9676a3a
 - datetime: 2021-08-26T09:22:00.000Z
   text: Shook out reef, wind 9.7kt 330°
   category: navigation
   course: 8
+  origin: auto
+  id: fd905614-663a-4f88-b75a-523296f8e605
 - datetime: 2021-08-26T10:35:00.000Z
   text: Wind down to 4kt, motorsailing, pea soup ready
   category: navigation
   course: 27
+  origin: auto
+  id: d13bc637-fda0-45e4-8631-9e2f1e848ff9
 - datetime: 2021-08-26T12:37:00.000Z
   text: Tied up at pier in Tarnö
   category: navigation
   course: 60
   engine:
     hours: 234.2
+  origin: auto
+  id: 6a5aef01-af1c-4249-8d03-0c2d333e6b06
 - datetime: 2021-08-26T16:00:00.000Z
-  text: Emptied bilge, 15l of water. The bilge pump (manual) is shot. Used a beer can and a wooden foldable measuring stick
+  text: Emptied bilge, 15l of water. The bilge pump (manual) is shot. Used a beer
+    can and a wooden foldable measuring stick
   category: maintenance
+  origin: auto
+  id: 2243a3bd-9c6d-40d9-bbda-b36ded474525

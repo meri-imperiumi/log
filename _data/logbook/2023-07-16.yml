@@ -21,6 +21,8 @@
     - bergie
     - ihmis-suski
   category: navigation
+  origin: auto
+  id: c0770806-7150-4a32-beaf-0bd5226291f4
 - datetime: 2023-07-16T08:12:36.800Z
   text: Motoring
   author: ""
@@ -45,6 +47,8 @@
     - bergie
     - ihmis-suski
   category: navigation
+  origin: auto
+  id: 8927de40-2e2e-4e60-a50a-0ad85e3b7eb2
 - datetime: 2023-07-16T08:16:00.800Z
   text: Motor stopped, sailing with Main, Genoa 1
   author: ""
@@ -69,6 +73,8 @@
     - bergie
     - ihmis-suski
   category: navigation
+  origin: auto
+  id: 7d16107f-7993-49f2-a8c3-9e8a3b8871d6
 - datetime: 2023-07-16T09:00:00.800Z
   text: ""
   author: ""
@@ -93,6 +99,8 @@
     - bergie
     - ihmis-suski
   category: navigation
+  origin: auto
+  id: 241de796-8794-45cb-b5e0-a231f754b05b
 - datetime: 2023-07-16T09:17:23.801Z
   text: "Motoring to pass the Suni strait ferry "
   author: bergie
@@ -117,6 +125,8 @@
     - bergie
     - ihmis-suski
   category: navigation
+  origin: manual
+  id: 2a71b927-1306-407f-8797-ffbeaa5686b7
 - datetime: 2023-07-16T09:18:16.800Z
   text: Motor stopped, sailing with Main, Genoa 1
   author: ""
@@ -141,6 +151,8 @@
     - bergie
     - ihmis-suski
   category: navigation
+  origin: auto
+  id: b2b76ed6-470a-4178-9b3f-4fef3e5a708c
 - datetime: 2023-07-16T09:43:11.801Z
   text: Autopilot activated
   author: ""
@@ -165,6 +177,8 @@
     - bergie
     - ihmis-suski
   category: navigation
+  origin: auto
+  id: bd6ce38e-7ec6-4786-bbbb-ba4cde33040d
 - datetime: 2023-07-16T10:00:44.800Z
   text: ""
   author: ""
@@ -189,6 +203,8 @@
     - bergie
     - ihmis-suski
   category: navigation
+  origin: auto
+  id: 06c04293-852d-43e0-aa54-0e7d2f87894d
 - datetime: 2023-07-16T10:16:45.798Z
   text: Autopilot deactivated
   author: ""
@@ -213,6 +229,8 @@
     - bergie
     - ihmis-suski
   category: navigation
+  origin: auto
+  id: 6aeee22f-7015-4a8b-8d01-4ffba3d5d0ae
 - datetime: 2023-07-16T10:19:58.800Z
   text: Autopilot activated
   author: ""
@@ -237,6 +255,8 @@
     - bergie
     - ihmis-suski
   category: navigation
+  origin: auto
+  id: ab71d252-9e1b-4414-a021-b730f51c0b4f
 - datetime: 2023-07-16T11:00:29.798Z
   text: ""
   author: ""
@@ -261,6 +281,8 @@
     - bergie
     - ihmis-suski
   category: navigation
+  origin: auto
+  id: 3a3a93bf-786a-4671-829a-1efa2e35b0b5
 - datetime: 2023-07-16T11:17:24.800Z
   text: Watermarker on.
   author: ihmis-suski
@@ -285,6 +307,8 @@
     - bergie
     - ihmis-suski
   category: maintenance
+  origin: manual
+  id: 7b4b9627-93e2-4b6e-b18a-b5250ed5c443
 - datetime: 2023-07-16T11:28:21.798Z
   text: Watermarker water tested, 20ppm after 10 minutes. Running to canister.
   author: ihmis-suski
@@ -309,6 +333,8 @@
     - bergie
     - ihmis-suski
   category: maintenance
+  origin: manual
+  id: 6029b727-7bb9-4c0f-b6c5-9d54342218a1
 - datetime: 2023-07-16T12:00:11.801Z
   text: ""
   author: ""
@@ -333,6 +359,8 @@
     - bergie
     - ihmis-suski
   category: navigation
+  origin: auto
+  id: 0ca776c9-39ad-4348-adbf-0f0f0dbf67dc
 - datetime: 2023-07-16T12:54:40.899Z
   text: "Sails set: Main. Will be a short downwind leg"
   author: bergie
@@ -361,6 +389,8 @@
     seaState: 3
     cloudCoverage: 6
     visibility: 8
+  origin: manual
+  id: f6e01338-d6b1-4fa6-b02b-3c80f4f4f632
 - datetime: 2023-07-16T13:00:56.800Z
   text: ""
   author: ""
@@ -385,6 +415,8 @@
     - bergie
     - ihmis-suski
   category: navigation
+  origin: auto
+  id: b03a8319-a372-430a-ba1b-bb4a6004f2c3
 - datetime: 2023-07-16T13:04:55.801Z
   text: Stopped watermaker, 19ppm. Made about 10l
   author: bergie
@@ -409,6 +441,8 @@
     - bergie
     - ihmis-suski
   category: maintenance
+  origin: manual
+  id: 75e18a74-8b3c-4d09-bfe3-30ee009410be
 - datetime: 2023-07-16T13:22:35.801Z
   text: "Sails set: Main, Genoa 1"
   author: ""
@@ -433,6 +467,8 @@
     - bergie
     - ihmis-suski
   category: navigation
+  origin: auto
+  id: 673bf2bd-28ba-4a1c-bf1a-9ba969adba76
 - datetime: 2023-07-16T13:57:45.900Z
   text: Pumped the bilge
   author: bergie
@@ -457,6 +493,8 @@
     - bergie
     - ihmis-suski
   category: maintenance
+  origin: manual
+  id: 2f0a0e75-1b03-401b-b5ed-2cdd7058ea0b
 - datetime: 2023-07-16T14:00:45.900Z
   text: ""
   author: ""
@@ -481,6 +519,8 @@
     - bergie
     - ihmis-suski
   category: navigation
+  origin: auto
+  id: ccacdbc9-f046-4ce9-b708-e9da47baba18
 - datetime: 2023-07-16T14:14:41.900Z
   text: Autopilot deactivated
   author: ""
@@ -505,6 +545,8 @@
     - bergie
     - ihmis-suski
   category: navigation
+  origin: auto
+  id: 86ebacdc-bc9c-4587-9b9d-dbf3bca77c7b
 - datetime: 2023-07-16T15:00:33.900Z
   text: ""
   author: ""
@@ -529,6 +571,8 @@
     - bergie
     - ihmis-suski
   category: navigation
+  origin: auto
+  id: 0849dd65-1f82-47a9-929c-335d270e775a
 - datetime: 2023-07-16T15:37:06.899Z
   text: Sails down, motoring
   author: ""
@@ -553,6 +597,8 @@
     - bergie
     - ihmis-suski
   category: navigation
+  origin: auto
+  id: 450d7ca5-7a81-40ad-9497-cfb5fe75c094
 - datetime: 2023-07-16T15:47:52.902Z
   text: Stopped
   author: ""
@@ -578,3 +624,5 @@
     - ihmis-suski
   end: true
   category: navigation
+  origin: auto
+  id: 253f0a1f-054e-40fc-84c3-1de0cf48ad16

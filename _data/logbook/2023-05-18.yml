@@ -25,6 +25,8 @@
     - bergie
     - ihmis-suski
   category: navigation
+  origin: auto
+  id: 4b128e6e-8abd-421c-bab5-1f0410825620
 - datetime: 2023-05-18T08:14:16.601Z
   text: Motoring
   author: ""
@@ -52,6 +54,8 @@
     - bergie
     - ihmis-suski
   category: navigation
+  origin: auto
+  id: 5e32ca9b-543b-4f0e-9763-e2d78beefe86
 - datetime: 2023-05-18T08:16:14.598Z
   text: Motor stopped, sailing with Main, Genoa 1
   author: ""
@@ -79,6 +83,8 @@
     - bergie
     - ihmis-suski
   category: navigation
+  origin: auto
+  id: e4c5e739-aa01-467f-b1c3-2298f63e00b1
 - datetime: 2023-05-18T08:19:14.598Z
   text: "Deployed hydrogenerator "
   author: bergie
@@ -106,6 +112,8 @@
     - bergie
     - ihmis-suski
   category: navigation
+  origin: manual
+  id: a4983f9e-cd40-49b9-a48a-c57e80300fb2
 - datetime: 2023-05-18T08:36:57.600Z
   text: Autopilot activated
   author: ""
@@ -133,6 +141,8 @@
     - bergie
     - ihmis-suski
   category: navigation
+  origin: auto
+  id: d0e90e5c-01db-451d-a205-37fe1e9670a3
 - datetime: 2023-05-18T09:00:04.601Z
   text: ""
   author: ""
@@ -160,6 +170,8 @@
     - bergie
     - ihmis-suski
   category: navigation
+  origin: auto
+  id: 72343926-3dda-4b01-8ec1-cf5ad233e425
 - datetime: 2023-05-18T10:00:49.600Z
   text: ""
   author: bergie
@@ -191,6 +203,8 @@
     seaState: 1
     cloudCoverage: 0
     visibility: 8
+  origin: manual
+  id: 08342374-38e5-4280-a39b-5d6930a1f295
 - datetime: 2023-05-18T10:33:40.601Z
   text: Heard first Securité from Turku Radio. Möja channel
   author: bergie
@@ -218,6 +232,8 @@
     - bergie
     - ihmis-suski
   category: radio
+  origin: manual
+  id: 165dbc3c-0d8f-419a-a316-ceb8fca14fb5
 - datetime: 2023-05-18T11:00:33.600Z
   text: ""
   author: ""
@@ -245,6 +261,8 @@
     - bergie
     - ihmis-suski
   category: navigation
+  origin: auto
+  id: bf113757-7f3a-4b1f-a3b4-0bd4df6264cf
 - datetime: 2023-05-18T12:00:19.001Z
   text: Bergie on watch
   author: bergie
@@ -276,6 +294,8 @@
     seaState: 1
     cloudCoverage: 0
     visibility: 8
+  origin: manual
+  id: fbb73d5d-41a6-4df7-a940-6b458a89fba3
 - datetime: 2023-05-18T12:40:11.001Z
   text: Wind again!
   author: bergie
@@ -307,6 +327,8 @@
     seaState: 2
     cloudCoverage: 0
     visibility: 8
+  origin: manual
+  id: ccc919a2-5c29-46bb-9bab-31f1ad608a61
 - datetime: 2023-05-18T13:00:06.000Z
   text: ""
   author: ""
@@ -334,6 +356,8 @@
     - bergie
     - ihmis-suski
   category: navigation
+  origin: auto
+  id: 0e67f0cb-87b3-4558-8f13-44ceff6ecf02
 - datetime: 2023-05-18T14:00:54.000Z
   text: ""
   author: bergie
@@ -365,6 +389,8 @@
     seaState: 3
     cloudCoverage: 0
     visibility: 8
+  origin: manual
+  id: d94274db-bb0c-4969-90c1-d80f15c1c852
 - datetime: 2023-05-18T15:00:40.998Z
   text: ""
   author: ""
@@ -392,6 +418,8 @@
     - bergie
     - ihmis-suski
   category: navigation
+  origin: auto
+  id: b0648985-ad1d-4263-8505-a3520bc42fa1
 - datetime: 2023-05-18T15:55:29.996Z
   text: Entered the main Stockholm shipping channel
   author: bergie
@@ -423,6 +451,8 @@
     seaState: 2
     cloudCoverage: 0
     visibility: 8
+  origin: manual
+  id: facf1bb6-97c4-4ae0-abc2-0356527132d5
 - datetime: 2023-05-18T16:00:28.998Z
   text: ""
   author: ""
@@ -450,6 +480,8 @@
     - bergie
     - ihmis-suski
   category: navigation
+  origin: auto
+  id: a91f7d0c-1f4e-4a71-85bf-6ade6c537d60
 - datetime: 2023-05-18T17:00:08.000Z
   text: Autopilot deactivated. Windvane Starbuck steering.
   author: ihmis-suski
@@ -477,6 +509,8 @@
     - bergie
     - ihmis-suski
   category: navigation
+  origin: manual
+  id: d55e01b8-1402-4b34-8b15-76afc633bf87
 - datetime: 2023-05-18T17:00:17.996Z
   text: ""
   author: ""
@@ -504,6 +538,8 @@
     - bergie
     - ihmis-suski
   category: navigation
+  origin: auto
+  id: 525aa312-c2b1-4be7-b3b3-86ace89f5642
 - datetime: 2023-05-18T17:45:43.001Z
   text: Autopilot activated, not enough wind
   author: bergie
@@ -535,6 +571,8 @@
     seaState: 2
     cloudCoverage: 0
     visibility: 7
+  origin: manual
+  id: 6ba1dcef-2728-41f4-b9c5-b59b7f149828
 - datetime: 2023-05-18T18:00:07.001Z
   text: ""
   author: ""
@@ -562,6 +600,8 @@
     - bergie
     - ihmis-suski
   category: navigation
+  origin: auto
+  id: 88a01ac1-cb2f-4f08-8e89-b503f8895c86
 - datetime: 2023-05-18T18:06:04.998Z
   text: "Bergie sleep, Suski sailing. "
   author: ihmis-suski
@@ -592,6 +632,8 @@
   observations:
     seaState: 2
     visibility: 7
+  origin: manual
+  id: 0913ff7b-d8d2-4540-a45f-c1d60a57a1ba
 - datetime: 2023-05-18T19:00:50.899Z
   text: ""
   author: ""
@@ -619,6 +661,8 @@
     - bergie
     - ihmis-suski
   category: navigation
+  origin: auto
+  id: 8dbd69a9-0b53-4984-900a-3eceb2cf66e7
 - datetime: 2023-05-18T19:02:50.899Z
   text: Sailing
   author: ihmis-suski
@@ -649,6 +693,8 @@
   observations:
     seaState: 2
     visibility: 7
+  origin: manual
+  id: 90a99daf-ad9d-42d2-9e5e-aca384fe05e9
 - datetime: 2023-05-18T20:00:34.899Z
   text: ""
   author: ""
@@ -676,6 +722,8 @@
     - bergie
     - ihmis-suski
   category: navigation
+  origin: auto
+  id: 663d3bf5-49ed-41d8-b822-2f38715c613b
 - datetime: 2023-05-18T21:00:20.902Z
   text: ""
   author: ""
@@ -703,6 +751,8 @@
     - bergie
     - ihmis-suski
   category: navigation
+  origin: auto
+  id: dff036d3-f436-469e-8d21-2db026b24d40
 - datetime: 2023-05-18T21:02:20.902Z
   text: Sailing in the calm winds.
   author: ihmis-suski
@@ -734,6 +784,8 @@
     seaState: 2
     cloudCoverage: 1
     visibility: 7
+  origin: manual
+  id: bdd5f7f2-1b88-4a92-b60f-5073c7d44d22
 - datetime: 2023-05-18T22:00:07.897Z
   text: ""
   author: ""
@@ -761,6 +813,8 @@
     - bergie
     - ihmis-suski
   category: navigation
+  origin: auto
+  id: 17bb4605-92b4-4ee9-884e-ae0b1473d46d
 - datetime: 2023-05-18T22:47:56.198Z
   text: Not properly dark. The sun is hiding just below the horizon providing a
     little bit of light.
@@ -793,6 +847,8 @@
     seaState: 2
     cloudCoverage: 0
     visibility: 7
+  origin: manual
+  id: 9eeb2dda-1284-4d3b-9d44-74c4aba00ee6
 - datetime: 2023-05-18T23:00:53.196Z
   text: ""
   author: ""
@@ -819,3 +875,6 @@
   crewNames:
     - bergie
     - ihmis-suski
+  category: navigation
+  origin: auto
+  id: fa0fd1b6-86f3-46e1-89fc-2091cc700a3b

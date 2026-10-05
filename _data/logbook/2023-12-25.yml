@@ -22,6 +22,8 @@
     - ihmis-suski
     - bergie
   category: navigation
+  origin: auto
+  id: 610021a0-791d-4f3c-8af4-3d32fe153e8b
 - datetime: 2023-12-25T11:49:37.798Z
   text: Motoring
   author: ""
@@ -46,6 +48,8 @@
     - ihmis-suski
     - bergie
   category: navigation
+  origin: auto
+  id: 0966be70-5bfb-4f03-a852-1aac5ea86f67
 - datetime: 2023-12-25T11:50:24.800Z
   text: Motor stopped, sailing with Main (1st reef), Staysail
   author: ""
@@ -70,6 +74,8 @@
     - ihmis-suski
     - bergie
   category: navigation
+  origin: auto
+  id: 690b6e61-8330-44b4-a382-3a83605044b5
 - datetime: 2023-12-25T11:57:35.900Z
   text: Deployed hydrogenerator
   author: bergie
@@ -94,6 +100,8 @@
     - ihmis-suski
     - bergie
   category: navigation
+  origin: manual
+  id: f8e56590-07fa-41cb-9481-4b57c88e72f4
 - datetime: 2023-12-25T12:00:35.900Z
   text: ""
   author: ""
@@ -118,6 +126,8 @@
     - ihmis-suski
     - bergie
   category: navigation
+  origin: auto
+  id: ac30cc4c-0062-4d83-a475-6cc2afd11ad7
 - datetime: 2023-12-25T13:00:21.200Z
   text: ""
   author: ""
@@ -142,6 +152,8 @@
     - ihmis-suski
     - bergie
   category: navigation
+  origin: auto
+  id: 6e016c0c-1516-4d46-9bd8-0324f91334a5
 - datetime: 2023-12-25T13:04:20.198Z
   text: Stowed hydrogenerator
   author: bergie
@@ -166,6 +178,8 @@
     - ihmis-suski
     - bergie
   category: navigation
+  origin: manual
+  id: 69690aa9-84c7-405a-9fce-082e9455153b
 - datetime: 2023-12-25T13:06:03.200Z
   text: Sails down, motoring
   author: ""
@@ -190,6 +204,8 @@
     - ihmis-suski
     - bergie
   category: navigation
+  origin: auto
+  id: 68fdc2bd-c9d6-400c-b7cf-2ca40c8a6774
 - datetime: 2023-12-25T13:13:13.200Z
   text: Anchored
   author: ""
@@ -215,6 +231,8 @@
     - bergie
   end: true
   category: navigation
+  origin: auto
+  id: 9f703652-6c16-4f2c-9c1d-427a9590dd5f
 - datetime: 2023-12-25T13:17:08.198Z
   text: Stopped main engine
   author: ""
@@ -239,6 +257,8 @@
     - ihmis-suski
     - bergie
   category: navigation
+  origin: auto
+  id: a2118d74-b7d4-44d2-8bf4-12c4267f54e6
 - datetime: 2023-12-25T17:19:23.200Z
   text: "Pumped bilge, was close to alarm level "
   author: bergie
@@ -262,3 +282,5 @@
     - ihmis-suski
     - bergie
   category: maintenance
+  origin: manual
+  id: 87647258-4230-4ff0-b23c-e2a6a00bb966

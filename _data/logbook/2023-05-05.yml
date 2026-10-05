@@ -25,6 +25,8 @@
     - bergie
     - ihmis-suski
   category: navigation
+  origin: auto
+  id: f75c9085-0b96-43fd-b439-d7f1b3eb9b38
 - datetime: 2023-05-05T09:18:01.798Z
   text: Motoring
   author: ""
@@ -52,6 +54,8 @@
     - bergie
     - ihmis-suski
   category: navigation
+  origin: auto
+  id: 423ef0c0-7b81-4bab-b778-a80a6fefacb6
 - datetime: 2023-05-05T09:34:06.800Z
   text: Autopilot activated
   author: ""
@@ -79,6 +83,8 @@
     - bergie
     - ihmis-suski
   category: navigation
+  origin: auto
+  id: 11462236-97e5-49ba-98f6-5b414f75cac9
 - datetime: 2023-05-05T09:35:45.798Z
   text: Motor stopped, sailing with Main, Genoa 1
   author: ""
@@ -106,6 +112,8 @@
     - bergie
     - ihmis-suski
   category: navigation
+  origin: auto
+  id: 1b3d6b8a-f897-46cc-8701-6bc6beeefc19
 - datetime: 2023-05-05T10:00:49.798Z
   text: ""
   author: bergie
@@ -137,6 +145,8 @@
     cloudCoverage: 2
     visibility: 8
     seaState: 2
+  origin: manual
+  id: a2b88384-d0b0-4bdd-8c2b-3cf4dc43d289
 - datetime: 2023-05-05T10:21:53.798Z
   text: Autopilot deactivated
   author: ""
@@ -164,6 +174,8 @@
     - bergie
     - ihmis-suski
   category: navigation
+  origin: auto
+  id: 8345e3f7-9eaf-4477-8cd7-d2ccda85271a
 - datetime: 2023-05-05T10:23:43.801Z
   text: "Starbuck windvane steering "
   author: ihmis-suski
@@ -195,6 +207,8 @@
     seaState: 2
     cloudCoverage: 3
     visibility: 8
+  origin: manual
+  id: 9d3b6f6e-da01-4ff2-817c-08d1633cd05c
 - datetime: 2023-05-05T11:00:35.801Z
   text: ""
   author: ""
@@ -222,6 +236,8 @@
     - bergie
     - ihmis-suski
   category: navigation
+  origin: auto
+  id: 3084df9c-2f91-4d20-8c4a-d8cd306bb668
 - datetime: 2023-05-05T11:55:22.800Z
   text: Watermaker on
   author: ihmis-suski
@@ -249,6 +265,8 @@
     - bergie
     - ihmis-suski
   category: maintenance
+  origin: manual
+  id: 8afac4bc-1f15-4aeb-8381-02a74a5cbe5c
 - datetime: 2023-05-05T12:00:20.800Z
   text: ""
   author: ""
@@ -276,6 +294,8 @@
     - bergie
     - ihmis-suski
   category: navigation
+  origin: auto
+  id: 7a65fb73-117c-4814-adfd-4a2f3d5a3dbb
 - datetime: 2023-05-05T13:00:08.800Z
   text: ""
   author: ""
@@ -303,6 +323,8 @@
     - bergie
     - ihmis-suski
   category: navigation
+  origin: auto
+  id: bba853a9-df60-432e-9d2c-cdb0997ef8a3
 - datetime: 2023-05-05T13:08:03.801Z
   text: "Sails set: Main. Hand steering"
   author: bergie
@@ -330,6 +352,8 @@
     - bergie
     - ihmis-suski
   category: navigation
+  origin: manual
+  id: 157400e4-269a-44c0-a861-418b39bb1fa6
 - datetime: 2023-05-05T13:21:03.801Z
   text: Stop water maker
   author: ihmis-suski
@@ -357,6 +381,8 @@
     - bergie
     - ihmis-suski
   category: maintenance
+  origin: manual
+  id: c893638e-4267-4241-8f79-8974073e7c85
 - datetime: 2023-05-05T13:37:43.801Z
   text: Sails down, motoring
   author: ""
@@ -384,6 +410,8 @@
     - bergie
     - ihmis-suski
   category: navigation
+  origin: auto
+  id: eb4ad5dc-2f0d-46f2-a330-a9f66cd2e84d
 - datetime: 2023-05-05T13:48:35.801Z
   text: Stopped, SXK Äspskärsfladan
   author: bergie
@@ -409,6 +437,8 @@
     - ihmis-suski
   end: true
   category: navigation
+  origin: manual
+  id: 1a3dfc2e-4a5a-4f1d-b2fb-67859d9e1833
 - datetime: 2023-05-05T13:49:57.798Z
   text: "Started watermaker "
   author: bergie
@@ -433,6 +463,8 @@
     - bergie
     - ihmis-suski
   category: maintenance
+  origin: manual
+  id: 06ec3c5c-27a6-452c-b2d5-74fe58323c7c
 - datetime: 2023-05-05T14:51:57.798Z
   text: "Stopped watermaker "
   author: bergie
@@ -457,3 +489,5 @@
     - bergie
     - ihmis-suski
   category: maintenance
+  origin: manual
+  id: 40fbdace-662b-44e6-87bf-3460013f5eac

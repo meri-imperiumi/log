@@ -21,6 +21,8 @@
     - bergie
     - ihmis-suski
   category: engine
+  origin: manual
+  id: e5e7e5f8-ebee-4d66-a319-6c31058aba58
 - datetime: 2023-06-22T11:53:56.099Z
   text: Started main engine
   author: ""
@@ -45,6 +47,8 @@
     - bergie
     - ihmis-suski
   category: navigation
+  origin: auto
+  id: 2a13539b-6c05-4298-8412-135b5b8fee23
 - datetime: 2023-06-22T11:54:12.099Z
   text: skoll joined the crew
   author: ""
@@ -69,6 +73,8 @@
     - bergie
     - ihmis-suski
   category: navigation
+  origin: auto
+  id: 838e7315-4b3a-44d1-b172-675e3a2ff64e
 - datetime: 2023-06-22T12:00:32.099Z
   text: Motoring
   author: ""
@@ -94,6 +100,8 @@
     - ihmis-suski
     - skoll
   category: navigation
+  origin: auto
+  id: 384d49c4-a335-4a7c-b91e-de478beafaa0
 - datetime: 2023-06-22T12:56:54.099Z
   text: Motor stopped, sailing with Main, Genoa 1
   author: bergie
@@ -119,6 +127,8 @@
     - ihmis-suski
     - skoll
   category: navigation
+  origin: manual
+  id: 81f8369c-2251-4b7c-bdf0-06b0a788e31c
 - datetime: 2023-06-22T13:00:16.099Z
   text: ""
   author: ""
@@ -144,6 +154,8 @@
     - ihmis-suski
     - skoll
   category: navigation
+  origin: auto
+  id: 008461d3-2504-4361-afc9-03d799dbfcf0
 - datetime: 2023-06-22T13:45:03.100Z
   text: Started watermaker after washing the prefilter
   author: bergie
@@ -169,6 +181,8 @@
     - ihmis-suski
     - skoll
   category: maintenance
+  origin: manual
+  id: a2a2eb7a-5557-4832-bb9a-27f59923c6d9
 - datetime: 2023-06-22T14:00:00.099Z
   text: ""
   author: ""
@@ -194,6 +208,8 @@
     - ihmis-suski
     - skoll
   category: navigation
+  origin: auto
+  id: 61799570-7513-4b8e-87c9-62b0049ba765
 - datetime: 2023-06-22T14:09:57.100Z
   text: Suski managed to get the air out of watermaker. Output suddenly 5x what it
     was, but the breaker keeps popping. Switched to newer 8A breaker
@@ -220,6 +236,8 @@
     - ihmis-suski
     - skoll
   category: maintenance
+  origin: manual
+  id: 0b169cff-980c-4e6d-9353-dc251360eeb3
 - datetime: 2023-06-22T15:00:44.102Z
   text: ""
   author: ""
@@ -245,6 +263,8 @@
     - ihmis-suski
     - skoll
   category: navigation
+  origin: auto
+  id: 225412d3-f8d0-4a00-9be1-4a7638ac4ecb
 - datetime: 2023-06-22T16:00:25.203Z
   text: Stopped watermaker, 20ppm
   author: bergie
@@ -270,6 +290,8 @@
     - ihmis-suski
     - skoll
   category: maintenance
+  origin: manual
+  id: ea405c0c-4f75-4229-b11b-5657db3c63d3
 - datetime: 2023-06-22T16:31:24.198Z
   text: Sails down, motoring
   author: ""
@@ -295,6 +317,8 @@
     - ihmis-suski
     - skoll
   category: navigation
+  origin: auto
+  id: 64c3d6a3-966f-42f3-95ff-3510c05800d8
 - datetime: 2023-06-22T16:42:35.200Z
   text: Anchored
   author: ""
@@ -321,6 +345,8 @@
     - skoll
   end: true
   category: navigation
+  origin: auto
+  id: 7361d83c-1b2c-4456-80d4-653ba5c6e428
 - datetime: 2023-06-22T16:44:52.198Z
   text: Stopped main engine
   author: ""
@@ -346,3 +372,5 @@
     - ihmis-suski
     - skoll
   category: navigation
+  origin: auto
+  id: f130810d-0614-4405-b7dd-616354005be2

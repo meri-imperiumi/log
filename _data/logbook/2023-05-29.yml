@@ -25,6 +25,8 @@
     - bergie
     - ihmis-suski
   category: navigation
+  origin: auto
+  id: 05f443ea-ba36-43d0-b3a0-c57e99a3290a
 - datetime: 2023-05-29T10:20:23.500Z
   text: Motoring
   author: ""
@@ -52,6 +54,8 @@
     - bergie
     - ihmis-suski
   category: navigation
+  origin: auto
+  id: 0323f601-3838-4223-bef4-282e4c0f90e9
 - datetime: 2023-05-29T10:22:15.500Z
   text: Motor stopped, sailing with Main
   author: ""
@@ -79,6 +83,8 @@
     - bergie
     - ihmis-suski
   category: navigation
+  origin: auto
+  id: c6e21bed-6f3c-4afd-aead-3bfb5b571e41
 - datetime: 2023-05-29T10:23:07.500Z
   text: Autopilot activated
   author: ""
@@ -106,6 +112,8 @@
     - bergie
     - ihmis-suski
   category: navigation
+  origin: auto
+  id: 794c1b7a-8d5d-4aa6-9e6b-de3f665d5056
 - datetime: 2023-05-29T10:51:19.500Z
   text: "Sails set: Main, Genoa 1 (20% furled)"
   author: ""
@@ -133,6 +141,8 @@
     - bergie
     - ihmis-suski
   category: navigation
+  origin: auto
+  id: a8f4f1eb-20e2-476d-a42d-ba6f99682f71
 - datetime: 2023-05-29T10:57:28.899Z
   text: Autopilot deactivated, narrow spot
   author: bergie
@@ -160,6 +170,8 @@
     - bergie
     - ihmis-suski
   category: navigation
+  origin: manual
+  id: 063a200a-d8e4-4289-b3d8-1fc02d54284a
 - datetime: 2023-05-29T11:00:02.899Z
   text: ""
   author: ""
@@ -187,6 +199,8 @@
     - bergie
     - ihmis-suski
   category: navigation
+  origin: auto
+  id: ee38aeee-156e-4266-9d6b-8808e2f5ce09
 - datetime: 2023-05-29T11:20:12.899Z
   text: Autopilot activated
   author: ""
@@ -211,6 +225,8 @@
     - bergie
     - ihmis-suski
   category: navigation
+  origin: auto
+  id: c43ae023-a501-46af-8e70-1c849850ab6d
 - datetime: 2023-05-29T12:00:48.899Z
   text: ""
   author: ""
@@ -235,6 +251,8 @@
     - bergie
     - ihmis-suski
   category: navigation
+  origin: auto
+  id: ab539b42-4164-48a1-99a7-ad674fda438b
 - datetime: 2023-05-29T12:45:21.900Z
   text: "Sails set: Main, Genoa 1"
   author: ""
@@ -259,6 +277,8 @@
     - bergie
     - ihmis-suski
   category: navigation
+  origin: auto
+  id: 3584b306-5102-4811-9119-5ffe0a2fb8b8
 - datetime: 2023-05-29T13:00:34.899Z
   text: ""
   author: ""
@@ -283,6 +303,8 @@
     - bergie
     - ihmis-suski
   category: navigation
+  origin: auto
+  id: 3bb59756-48c4-45cc-9c52-664f23383294
 - datetime: 2023-05-29T14:00:20.899Z
   text: ""
   author: ""
@@ -307,6 +329,8 @@
     - bergie
     - ihmis-suski
   category: navigation
+  origin: auto
+  id: 2eff3913-77a8-4195-b6aa-5de230619ecd
 - datetime: 2023-05-29T14:50:30.899Z
   text: "Sails set: Main, Genoa 1 (20% furled)"
   author: ""
@@ -331,6 +355,8 @@
     - bergie
     - ihmis-suski
   category: navigation
+  origin: auto
+  id: 4914c17b-2089-46f9-9980-e5afa547a88b
 - datetime: 2023-05-29T14:57:10.899Z
   text: "Sails set: Main (1st reef), Genoa 1 (20% furled)"
   author: ""
@@ -355,6 +381,8 @@
     - bergie
     - ihmis-suski
   category: navigation
+  origin: auto
+  id: f0015084-572a-4c24-a926-658903e79c31
 - datetime: 2023-05-29T15:00:07.897Z
   text: ""
   author: bergie
@@ -383,6 +411,8 @@
     seaState: 3
     cloudCoverage: 7
     visibility: 8
+  origin: manual
+  id: da02a94b-8359-4971-aa02-9acdbc78bf26
 - datetime: 2023-05-29T15:20:02.803Z
   text: "Deployed hydrogenerator "
   author: bergie
@@ -410,6 +440,8 @@
     - bergie
     - ihmis-suski
   category: navigation
+  origin: manual
+  id: 4e411909-5e06-459f-acfe-5d6510c59e6c
 - datetime: 2023-05-29T15:52:53.798Z
   text: "Wing on wing towards Haaparanta "
   author: bergie
@@ -437,6 +469,8 @@
     - bergie
     - ihmis-suski
   category: navigation
+  origin: manual
+  id: ecd99234-07be-46cd-ac8a-8351141a734f
 - datetime: 2023-05-29T16:00:50.803Z
   text: ""
   author: ""
@@ -464,6 +498,8 @@
     - bergie
     - ihmis-suski
   category: navigation
+  origin: auto
+  id: 5ca0be6d-73e4-4587-bc75-b9c6a2b48116
 - datetime: 2023-05-29T16:47:39.801Z
   text: "Sails set: Main (1st reef)"
   author: ""
@@ -491,6 +527,8 @@
     - bergie
     - ihmis-suski
   category: navigation
+  origin: auto
+  id: a5b6459c-969e-4a64-84a1-e981236f2b59
 - datetime: 2023-05-29T16:57:34.796Z
   text: "Stowed hydrogenerator "
   author: bergie
@@ -522,6 +560,8 @@
     seaState: 2
     cloudCoverage: 5
     visibility: 8
+  origin: manual
+  id: 0d3de14b-5301-4d8f-b04c-06c670d62422
 - datetime: 2023-05-29T17:00:34.803Z
   text: ""
   author: ""
@@ -549,6 +589,8 @@
     - bergie
     - ihmis-suski
   category: navigation
+  origin: auto
+  id: 65ad8354-9aa3-4646-ad3b-7ae3a0afc17f
 - datetime: 2023-05-29T17:09:41.798Z
   text: "Sails set: Main (1st reef), Genoa 1"
   author: ""
@@ -576,6 +618,8 @@
     - bergie
     - ihmis-suski
   category: navigation
+  origin: auto
+  id: 3c1889f3-ba8a-4b1b-b6fa-66b8743ac2d1
 - datetime: 2023-05-29T17:11:00.800Z
   text: Autopilot deactivated
   author: ""
@@ -603,6 +647,8 @@
     - bergie
     - ihmis-suski
   category: navigation
+  origin: auto
+  id: d72b5037-6715-4415-aed3-549d205360bd
 - datetime: 2023-05-29T17:59:15.801Z
   text: Sails down, motoring
   author: ""
@@ -630,6 +676,8 @@
     - bergie
     - ihmis-suski
   category: navigation
+  origin: auto
+  id: 124e90ff-d5a5-4c59-9280-65ee79b9e191
 - datetime: 2023-05-29T18:11:41.798Z
   text: Stopped, Haparandahamn
   author: bergie
@@ -658,3 +706,5 @@
     - ihmis-suski
   end: true
   category: navigation
+  origin: manual
+  id: cbb2e4b9-89d8-4bd6-9b6c-28414566b19b

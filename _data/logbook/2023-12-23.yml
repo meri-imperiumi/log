@@ -21,6 +21,8 @@
     - ihmis-suski
     - bergie
   category: navigation
+  origin: auto
+  id: e3d34246-9a24-49b5-abdb-6e0efd04c7a0
 - datetime: 2023-12-23T11:04:15.100Z
   text: Motoring
   author: ""
@@ -45,6 +47,8 @@
     - ihmis-suski
     - bergie
   category: navigation
+  origin: auto
+  id: 0126acf8-bfaa-45a0-b20c-7ff42799e575
 - datetime: 2023-12-23T11:09:13.100Z
   text: "Calibrated the Orca compass "
   author: bergie
@@ -69,6 +73,8 @@
     - ihmis-suski
     - bergie
   category: maintenance
+  origin: manual
+  id: 53f37fd7-6999-498e-9f2c-2c9e22a068a2
 - datetime: 2023-12-23T11:14:09.100Z
   text: Motor stopped, sailing with Main, Staysail
   author: ""
@@ -93,6 +99,8 @@
     - ihmis-suski
     - bergie
   category: navigation
+  origin: auto
+  id: 0447a75a-bcbe-4cc7-a8c5-107958f6941d
 - datetime: 2023-12-23T11:59:59.100Z
   text: ""
   author: ""
@@ -117,6 +125,8 @@
     - ihmis-suski
     - bergie
   category: navigation
+  origin: auto
+  id: ec335cec-7c5b-43c0-9507-84fe6aec538b
 - datetime: 2023-12-23T12:21:21.100Z
   text: Sails down, motoring
   author: ""
@@ -141,6 +151,8 @@
     - ihmis-suski
     - bergie
   category: navigation
+  origin: auto
+  id: 1a44e5fa-9310-4502-8569-29152a0c68d7
 - datetime: 2023-12-23T12:38:22.099Z
   text: Stopped
   author: ""
@@ -166,3 +178,5 @@
     - bergie
   end: true
   category: navigation
+  origin: auto
+  id: 52ecb6e7-af62-4a1a-ab8a-b5e528e60444

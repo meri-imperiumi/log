@@ -18,6 +18,8 @@
     hours: 502.5
   vhf: "10"
   category: navigation
+  origin: auto
+  id: ed37d50a-c35d-4ed4-b5b3-a3f7fa85d693
 - datetime: 2023-02-27T13:12:29.900Z
   text: Stopped main engine
   author: ""
@@ -38,6 +40,8 @@
     hours: 502.6
   vhf: "10"
   category: navigation
+  origin: auto
+  id: a560ddaa-12b8-4556-adfe-2488404171ee
 - datetime: 2023-02-27T13:12:37.900Z
   text: Started main engine
   author: ""
@@ -58,6 +62,8 @@
     hours: 502.6
   vhf: "10"
   category: navigation
+  origin: auto
+  id: 3217ed29-54a2-4c52-bfe0-9323d8e57468
 - datetime: 2023-02-27T13:12:39.900Z
   text: Stopped main engine
   author: ""
@@ -78,6 +84,8 @@
     hours: 502.6
   vhf: "10"
   category: navigation
+  origin: auto
+  id: 43d3d52b-9b6e-4401-93c9-ddcfbb80d950
 - datetime: 2023-02-27T13:12:53.900Z
   text: Started main engine
   author: ""
@@ -98,6 +106,8 @@
     hours: 502.6
   vhf: "10"
   category: navigation
+  origin: auto
+  id: a9b5fd1c-8e04-47f2-b030-c2128451c73f
 - datetime: 2023-02-27T13:13:01.900Z
   text: Stopped main engine
   author: ""
@@ -118,6 +128,8 @@
     hours: 502.6
   vhf: "10"
   category: navigation
+  origin: auto
+  id: b37ffa06-c88f-4be4-aa88-fe8634a46d3e
 - datetime: 2023-02-27T13:13:05.900Z
   text: Started main engine
   author: ""
@@ -138,6 +150,8 @@
     hours: 502.6
   vhf: "10"
   category: navigation
+  origin: auto
+  id: 9668edf1-c9ff-4b48-bff3-fe3a5e2be459
 - datetime: 2023-02-27T13:13:29.900Z
   text: Stopped main engine
   author: ""
@@ -158,6 +172,8 @@
     hours: 502.6
   vhf: "10"
   category: navigation
+  origin: auto
+  id: 4d9e744b-6587-424d-a216-092d20354ad3
 - datetime: 2023-02-27T13:15:29.900Z
   text: Sailing
   author: ""
@@ -178,6 +194,8 @@
     hours: 502.6
   vhf: "10"
   category: navigation
+  origin: auto
+  id: 082e85dd-1cf8-4b4b-b8c4-b1502c25e593
 - datetime: 2023-02-27T13:15:30.899Z
   text: Started main engine
   author: ""
@@ -198,6 +216,8 @@
     hours: 502.7
   vhf: "10"
   category: navigation
+  origin: auto
+  id: f001d178-5791-4887-b37c-b2bbe064edb8
 - datetime: 2023-02-27T13:15:36.899Z
   text: Sails down, motoring
   author: ""
@@ -218,6 +238,8 @@
     hours: 502.7
   vhf: "10"
   category: navigation
+  origin: auto
+  id: 78c680df-5a06-4950-98a7-1d105baf121d
 - datetime: 2023-02-27T13:20:45.900Z
   text: Stopped main engine
   author: ""
@@ -238,6 +260,8 @@
     hours: 502.7
   vhf: "10"
   category: navigation
+  origin: auto
+  id: 64f94f3a-fbff-44ff-a434-fbd1c34a1fa6
 - datetime: 2023-02-27T13:20:50.899Z
   text: Motor stopped, sailing
   author: ""
@@ -258,6 +282,8 @@
     hours: 502.7
   vhf: "10"
   category: navigation
+  origin: auto
+  id: cdf729a3-c20e-4c06-b689-48bfdf1a7a4b
 - datetime: 2023-02-27T13:45:22.899Z
   text: Autopilot activated
   author: ""
@@ -278,6 +304,8 @@
     hours: 502.7
   vhf: "10"
   category: navigation
+  origin: auto
+  id: 772d9056-a64a-4fab-bb13-eccb81cffc36
 - datetime: 2023-02-27T14:00:12.899Z
   text: ""
   author: ""
@@ -298,26 +326,8 @@
     hours: 502.7
   vhf: "10"
   category: navigation
-- datetime: 2023-02-27T14:03:06.899Z
-  text: Started main engine
-  author: ""
-  position:
-    longitude: 13.189235003789266
-    latitude: 52.471590995788574
-    source: GPS
-  heading: 153
-  speed:
-    stw: 1
-    sog: 1
-  log: 2.4
-  barometer: 1027.27
-  wind:
-    speed: 4.8
-    direction: 108
-  engine:
-    hours: 502.7
-  vhf: "10"
-  category: navigation
+  origin: auto
+  id: 3f13e1d1-18ae-4d02-b1c5-3e0662e8a79b
 - datetime: 2023-02-27T14:03:06.899Z
   text: Sails down, motoring
   author: ""
@@ -338,6 +348,30 @@
     hours: 502.7
   vhf: "10"
   category: navigation
+  origin: auto
+  id: 35129fb9-3834-486c-bd24-b942412504a4
+- datetime: 2023-02-27T14:03:06.899Z
+  text: Started main engine
+  author: ""
+  position:
+    longitude: 13.189235003789266
+    latitude: 52.471590995788574
+    source: GPS
+  heading: 153
+  speed:
+    stw: 1
+    sog: 1
+  log: 2.4
+  barometer: 1027.27
+  wind:
+    speed: 4.8
+    direction: 108
+  engine:
+    hours: 502.7
+  vhf: "10"
+  category: navigation
+  origin: auto
+  id: 783bf595-d645-4ce9-9b09-7fe087f8f210
 - datetime: 2023-02-27T14:05:14.899Z
   text: Autopilot deactivated
   author: ""
@@ -358,6 +392,8 @@
     hours: 502.8
   vhf: "10"
   category: navigation
+  origin: auto
+  id: 19396f2c-8381-4357-8154-d385267233ed
 - datetime: 2023-02-27T14:18:15.900Z
   text: Anchored
   author: ""
@@ -379,3 +415,5 @@
   vhf: "10"
   category: navigation
   end: true
+  origin: auto
+  id: 994025b8-6984-4f5d-9ad0-398d609b26dd

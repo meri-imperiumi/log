@@ -21,6 +21,8 @@
     - ihmis-suski
     - bergie
   category: navigation
+  origin: auto
+  id: 86242606-9108-4ed8-bce9-b4e0e90a3c9c
 - datetime: 2024-02-15T11:30:29.900Z
   text: Stopped main engine
   author: ""
@@ -44,6 +46,8 @@
     - ihmis-suski
     - bergie
   category: navigation
+  origin: auto
+  id: d71eb02a-33c5-493b-8b8a-54d02ef4b68f
 - datetime: 2024-02-15T13:11:49.900Z
   text: Started main engine
   author: ""
@@ -67,6 +71,8 @@
     - ihmis-suski
     - bergie
   category: navigation
+  origin: auto
+  id: 289d747a-04fa-48b4-853f-5a2c123ebe67
 - datetime: 2024-02-15T13:25:29.900Z
   text: Stopped main engine
   author: ""
@@ -90,6 +96,8 @@
     - ihmis-suski
     - bergie
   category: navigation
+  origin: auto
+  id: 8f0ad245-3637-4331-89e3-327609eae525
 - datetime: 2024-02-15T17:41:55.897Z
   text: Started main engine
   author: ""
@@ -113,6 +121,8 @@
     - ihmis-suski
     - bergie
   category: navigation
+  origin: auto
+  id: 60157a31-26ac-41bc-a45b-2bacecc1ec86
 - datetime: 2024-02-15T17:42:39.897Z
   text: Stopped main engine
   author: ""
@@ -136,6 +146,8 @@
     - ihmis-suski
     - bergie
   category: navigation
+  origin: auto
+  id: 4d80a0a9-6fa0-49af-b50f-d1bffac202d7
 - datetime: 2024-02-15T18:10:45.900Z
   text: Started main engine
   author: ""
@@ -159,6 +171,8 @@
     - ihmis-suski
     - bergie
   category: navigation
+  origin: auto
+  id: ec2c13c2-3f2d-4e13-9305-7fff78c485b1
 - datetime: 2024-02-15T18:17:19.897Z
   text: Stopped main engine
   author: ""
@@ -182,6 +196,8 @@
     - ihmis-suski
     - bergie
   category: navigation
+  origin: auto
+  id: d9db85b3-9596-4773-95f1-b8917500c36b
 - datetime: 2024-02-15T18:22:48.902Z
   text: Started main engine
   author: ""
@@ -205,6 +221,8 @@
     - ihmis-suski
     - bergie
   category: navigation
+  origin: auto
+  id: ad2c668e-f2f7-4ba2-8345-2b2135c534a6
 - datetime: 2024-02-15T18:24:07.897Z
   text: Stopped main engine
   author: ""
@@ -228,6 +246,8 @@
     - ihmis-suski
     - bergie
   category: navigation
+  origin: auto
+  id: 409c4011-7a8d-4f32-882f-5c09ca69ce6d
 - datetime: 2024-02-15T19:45:09.900Z
   text: Started main engine
   author: ""
@@ -251,6 +271,8 @@
     - ihmis-suski
     - bergie
   category: navigation
+  origin: auto
+  id: 45656135-750a-4562-b313-bdae3ae40e08
 - datetime: 2024-02-15T19:57:38.899Z
   text: Stopped main engine
   author: ""
@@ -274,6 +296,8 @@
     - ihmis-suski
     - bergie
   category: navigation
+  origin: auto
+  id: 4328c4f9-7218-4064-84d3-81bb5e9a6de0
 - datetime: 2024-02-15T20:38:52.902Z
   text: >-
     Lubricated shaft seal grease part.
@@ -286,7 +310,9 @@
 
     Added new oil.
 
-    Changed primary and secondary fuel filters. Fucked up the o-ring setup on primary filter. Got it fixed and could run the engine on second try afterwards.
+    Changed primary and secondary fuel filters. Fucked up the o-ring setup on
+    primary filter. Got it fixed and could run the engine on second try
+    afterwards.
   author: ihmis-suski
   position:
     longitude: 13.1936926
@@ -308,3 +334,5 @@
     - ihmis-suski
     - bergie
   category: engine
+  origin: manual
+  id: ba0981b2-7a2e-475e-9d94-f55ed63b623c

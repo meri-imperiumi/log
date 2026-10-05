@@ -21,6 +21,8 @@
     - bergie
     - ihmis-suski
   category: navigation
+  origin: auto
+  id: acb62fe5-36e6-4e9a-8a13-72c45970fc80
 - datetime: 2023-06-10T14:19:38.201Z
   text: bernhard joined the crew
   author: ""
@@ -43,6 +45,8 @@
   crewNames:
     - bergie
   category: navigation
+  origin: auto
+  id: 873b4f9e-d176-41e4-bd5e-0127fc71f9c4
 - datetime: 2023-06-10T14:41:22.201Z
   text: Motoring
   author: bergie
@@ -67,6 +71,8 @@
     - bergie
     - bernhard
   category: navigation
+  origin: manual
+  id: 1fa1410f-e6a4-4c41-9d25-d70e691c904d
 - datetime: 2023-06-10T15:00:54.201Z
   text: ""
   author: ""
@@ -91,6 +97,8 @@
     - bergie
     - bernhard
   category: navigation
+  origin: auto
+  id: 5ebe7939-b72f-473e-b56b-ac01b0aed39a
 - datetime: 2023-06-10T15:20:54.201Z
   text: Motor stopped, sailing with Main
   author: ""
@@ -115,6 +123,8 @@
     - bergie
     - bernhard
   category: navigation
+  origin: auto
+  id: 9e9d2b00-8b7e-40c2-8a59-d275eacd3880
 - datetime: 2023-06-10T15:31:52.198Z
   text: "Sails set: Main, Genoa 1"
   author: ""
@@ -139,6 +149,8 @@
     - bergie
     - bernhard
   category: navigation
+  origin: auto
+  id: f3a888d2-fd09-411c-ae26-03daeaaeaa81
 - datetime: 2023-06-10T16:00:39.200Z
   text: ""
   author: ""
@@ -163,6 +175,8 @@
     - bergie
     - bernhard
   category: navigation
+  origin: auto
+  id: ebbd0cdf-36a6-4735-b4b4-a8458db13a73
 - datetime: 2023-06-10T16:41:54.201Z
   text: Sails down, motoring
   author: ""
@@ -187,6 +201,8 @@
     - bergie
     - bernhard
   category: navigation
+  origin: auto
+  id: 052300fa-1b25-4a65-af2a-abe6b872224b
 - datetime: 2023-06-10T17:00:23.200Z
   text: ""
   author: ""
@@ -211,6 +227,8 @@
     - bergie
     - bernhard
   category: navigation
+  origin: auto
+  id: ccdc2cad-8a89-4c0f-aa40-c39cf7f27b67
 - datetime: 2023-06-10T17:03:54.201Z
   text: Stopped, Tankar guest pier
   author: bergie
@@ -236,3 +254,5 @@
     - bernhard
   end: true
   category: navigation
+  origin: manual
+  id: 96e735bc-b93b-4d15-ab9f-effc556d9f25

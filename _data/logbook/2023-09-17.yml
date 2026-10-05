@@ -22,6 +22,8 @@
     - bergie
     - ihmis-suski
   category: navigation
+  origin: auto
+  id: b09171f5-d39b-409e-aa8f-609c546d04a2
 - datetime: 2023-09-17T07:07:14.400Z
   text: Motoring
   author: ""
@@ -46,6 +48,8 @@
     - bergie
     - ihmis-suski
   category: navigation
+  origin: auto
+  id: bfcd0f1b-45dd-4df1-a2cb-1fa6fb9932e9
 - datetime: 2023-09-17T08:00:57.401Z
   text: ""
   author: ""
@@ -70,6 +74,8 @@
     - bergie
     - ihmis-suski
   category: navigation
+  origin: auto
+  id: fb7c3931-f2a0-4105-ab84-c493c28ab543
 - datetime: 2023-09-17T09:00:46.499Z
   text: ""
   author: ""
@@ -94,6 +100,8 @@
     - bergie
     - ihmis-suski
   category: navigation
+  origin: auto
+  id: 338a74bc-08d8-4ce1-b3be-de66802cdbd2
 - datetime: 2023-09-17T09:33:39.500Z
   text: Entered Germany
   author: bergie
@@ -118,6 +126,8 @@
     - bergie
     - ihmis-suski
   category: navigation
+  origin: manual
+  id: 1341201e-4ddc-40d5-80d4-a8d8ee355d2f
 - datetime: 2023-09-17T10:00:33.500Z
   text: ""
   author: ""
@@ -142,6 +152,8 @@
     - bergie
     - ihmis-suski
   category: navigation
+  origin: auto
+  id: fed9749f-b8d8-424a-88ef-9fc91258098e
 - datetime: 2023-09-17T11:00:19.500Z
   text: "Waiting at a no crossing zone for two oncoming AIS targets "
   author: bergie
@@ -166,6 +178,8 @@
     - bergie
     - ihmis-suski
   category: navigation
+  origin: manual
+  id: 40d58cc5-ef94-4139-904c-38f3ea2e5cfa
 - datetime: 2023-09-17T12:00:10.598Z
   text: ""
   author: ""
@@ -190,6 +204,8 @@
     - bergie
     - ihmis-suski
   category: navigation
+  origin: auto
+  id: efdc1ab1-742d-4302-9ee6-a7c6d69b6151
 - datetime: 2023-09-17T12:20:09.600Z
   text: Checked the bilge. No new water since the last pumping out, despite
     motoring all day
@@ -215,6 +231,8 @@
     - bergie
     - ihmis-suski
   category: maintenance
+  origin: manual
+  id: 8be01025-0a46-4617-bbea-41500f72711e
 - datetime: 2023-09-17T12:46:58.598Z
   text: Stopped
   author: ""
@@ -240,6 +258,8 @@
     - ihmis-suski
   end: true
   category: navigation
+  origin: auto
+  id: 674e24af-c0f0-464f-a5f1-eadbe1d2d95b
 - datetime: 2023-09-17T15:23:19.001Z
   text: Wind sensor cable managed to fall out of the mainsail track. Managed to
     push it back in with a batten car and q-tip. Let's hope it stays in now.
@@ -264,3 +284,5 @@
     - bergie
     - ihmis-suski
   category: maintenance
+  origin: manual
+  id: fe7b6d81-013d-4146-b992-e49bd8d1bc21

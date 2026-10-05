@@ -22,6 +22,8 @@
     - bergie
     - ihmis-suski
   category: navigation
+  origin: auto
+  id: fbb88a29-c03e-479d-bb73-632337f90d43
 - datetime: 2023-06-06T07:18:11.200Z
   text: Motoring
   author: ""
@@ -46,6 +48,8 @@
     - bergie
     - ihmis-suski
   category: navigation
+  origin: auto
+  id: 6914db3e-a6f4-496b-9074-8e45efc9d6aa
 - datetime: 2023-06-06T07:33:48.198Z
   text: Motor stopped, sailing with Main, Genoa 1
   author: ""
@@ -70,6 +74,8 @@
     - bergie
     - ihmis-suski
   category: navigation
+  origin: auto
+  id: 766a2197-a119-41ae-bdbb-c64ae33b9127
 - datetime: 2023-06-06T07:34:55.200Z
   text: Autopilot activated
   author: bergie
@@ -98,6 +104,8 @@
     seaState: 3
     cloudCoverage: 2
     visibility: 8
+  origin: manual
+  id: d806c63a-b508-45ff-bfad-65932dc2d184
 - datetime: 2023-06-06T08:00:58.201Z
   text: ""
   author: ""
@@ -122,6 +130,8 @@
     - bergie
     - ihmis-suski
   category: navigation
+  origin: auto
+  id: 2424e57e-4ece-47ec-b689-7644fb6d70be
 - datetime: 2023-06-06T09:00:51.299Z
   text: ""
   author: ""
@@ -146,6 +156,8 @@
     - bergie
     - ihmis-suski
   category: navigation
+  origin: auto
+  id: 0c75533f-2010-46b3-bb71-2dba51cc9952
 - datetime: 2023-06-06T10:00:51.200Z
   text: ""
   author: ""
@@ -170,6 +182,8 @@
     - bergie
     - ihmis-suski
   category: navigation
+  origin: auto
+  id: 7d0885f0-8645-40c2-8201-c4ab351d2586
 - datetime: 2023-06-06T10:29:51.600Z
   text: We have a Arctic Tern (sterna paradisea) on the solar panel!
   author: ihmis-suski
@@ -198,6 +212,8 @@
     seaState: 2
     cloudCoverage: 7
     visibility: 8
+  origin: manual
+  id: 0e2b0b00-8401-4dfb-ad91-f19aae1b4f7c
 - datetime: 2023-06-06T11:00:51.600Z
   text: ""
   author: ""
@@ -222,6 +238,8 @@
     - bergie
     - ihmis-suski
   category: navigation
+  origin: auto
+  id: 362f04c5-3d27-4830-b370-1eb04f18f582
 - datetime: 2023-06-06T12:00:51.600Z
   text: ""
   author: ""
@@ -246,6 +264,8 @@
     - bergie
     - ihmis-suski
   category: navigation
+  origin: auto
+  id: 3426b3e6-1a95-4bbe-a94e-e8c5ad0cdd44
 - datetime: 2023-06-06T12:53:50.598Z
   text: Autopilot deactivated
   author: ""
@@ -270,6 +290,8 @@
     - bergie
     - ihmis-suski
   category: navigation
+  origin: auto
+  id: d6861392-e081-4f32-857c-8573cd304e30
 - datetime: 2023-06-06T13:00:51.600Z
   text: ""
   author: ""
@@ -294,6 +316,8 @@
     - bergie
     - ihmis-suski
   category: navigation
+  origin: auto
+  id: ff1578b6-67c1-48ca-bf36-28fb97c0ce50
 - datetime: 2023-06-06T13:21:53.600Z
   text: Sails down, motoring
   author: ""
@@ -318,6 +342,8 @@
     - bergie
     - ihmis-suski
   category: navigation
+  origin: auto
+  id: 74902569-549f-444d-8ab3-4874631216f4
 - datetime: 2023-06-06T13:37:04.601Z
   text: Stopped, sketchy stern buoy setup at Iso-Kraaseli
   author: bergie
@@ -343,3 +369,5 @@
     - ihmis-suski
   end: true
   category: navigation
+  origin: manual
+  id: 28af544a-77da-4398-9258-b22208e45623

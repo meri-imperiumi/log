@@ -7,6 +7,8 @@
   observations:
     seaState: 3
     cloudCoverage: 1
+  origin: auto
+  id: cc39573b-5053-4b0b-b016-094711bdd9db
 - datetime: 2021-09-04T07:00:00.000Z
   text: Shift change. Breakfast porridge with blueberry soup.
   category: navigation
@@ -16,6 +18,8 @@
   observations:
     seaState: 2
     cloudCoverage: 7
+  origin: auto
+  id: cc78dfb8-f28f-4b35-9906-7dc6c0e57b5f
 - datetime: 2021-09-04T08:16:00.000Z
   text: Engine on, sails down
   category: navigation
@@ -25,8 +29,12 @@
   observations:
     seaState: 2
     cloudCoverage: 8
+  origin: auto
+  id: 054d3971-dd92-45ff-97c4-9de4337b863b
 - datetime: 2021-09-04T11:20:00.000Z
   text: Tied up in box 10.5
   category: navigation
   engine:
     hours: 245.3
+  origin: auto
+  id: 45c23539-6181-4ac3-aa95-a92b3e2bcb59

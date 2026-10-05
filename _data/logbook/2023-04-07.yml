@@ -18,6 +18,8 @@
     - ihmis-suski
     - bergie
   category: navigation
+  origin: auto
+  id: 6aa8a62e-f35c-4e9e-a8fa-25fe3913482c
 - datetime: 2023-04-07T07:03:50.000Z
   text: Anchor up, motoring
   author: ""
@@ -38,6 +40,8 @@
     - ihmis-suski
     - bergie
   category: navigation
+  origin: auto
+  id: 9a0597a7-cd23-46a6-853c-77f69bf245f4
 - datetime: 2023-04-07T07:08:30.000Z
   text: Motoring
   author: ""
@@ -58,6 +62,8 @@
     - ihmis-suski
     - bergie
   category: navigation
+  origin: auto
+  id: 4212d733-2513-4e12-a617-ee1644fee122
 - datetime: 2023-04-07T07:11:57.000Z
   text: Stopped
   author: ""
@@ -79,6 +85,8 @@
     - bergie
   end: true
   category: navigation
+  origin: auto
+  id: db804388-5394-440c-827e-3abec232bf31
 - datetime: 2023-04-07T07:49:19.001Z
   text: Filled up 73l diesel
   author: bergie
@@ -99,3 +107,5 @@
     - ihmis-suski
     - bergie
   category: engine
+  origin: manual
+  id: 9225c3d4-0256-47ee-ba8e-75415a711173

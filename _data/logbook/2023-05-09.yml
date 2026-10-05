@@ -24,6 +24,8 @@
     - bergie
     - ihmis-suski
   category: maintenance
+  origin: manual
+  id: e34f1b62-6157-4afd-8c8b-09d2080739ed
 - datetime: 2023-05-09T05:51:49.500Z
   text: "Stopped watermaker. Took 20min to get to water quality "
   author: bergie
@@ -51,6 +53,8 @@
     - bergie
     - ihmis-suski
   category: maintenance
+  origin: manual
+  id: 18e31db5-4b3c-40ac-be17-02a793062ea0
 - datetime: 2023-05-09T05:54:56.499Z
   text: Started main engine
   author: ""
@@ -78,6 +82,8 @@
     - bergie
     - ihmis-suski
   category: navigation
+  origin: auto
+  id: c4c2f781-2760-43e5-a883-94b8c77c3402
 - datetime: 2023-05-09T05:58:33.400Z
   text: Stopped main engine
   author: ""
@@ -105,6 +111,8 @@
     - bergie
     - ihmis-suski
   category: navigation
+  origin: auto
+  id: e736a302-60d3-464f-ad8d-350a718fd85f
 - datetime: 2023-05-09T05:58:49.500Z
   text: Sailing with Main, Genoa 1
   author: ""
@@ -132,6 +140,8 @@
     - bergie
     - ihmis-suski
   category: navigation
+  origin: auto
+  id: 37b10580-e035-4ca1-bf71-fb8814617794
 - datetime: 2023-05-09T06:00:46.499Z
   text: ""
   author: ""
@@ -159,6 +169,8 @@
     - bergie
     - ihmis-suski
   category: navigation
+  origin: auto
+  id: 5efe5119-bab9-4c4d-9ef7-04ad3c91818e
 - datetime: 2023-05-09T06:12:26.400Z
   text: Autopilot activated
   author: ""
@@ -186,6 +198,8 @@
     - bergie
     - ihmis-suski
   category: navigation
+  origin: auto
+  id: 170a63f2-1c5e-42db-8700-1ca2f056a435
 - datetime: 2023-05-09T07:00:30.400Z
   text: ""
   author: ""
@@ -213,6 +227,8 @@
     - bergie
     - ihmis-suski
   category: navigation
+  origin: auto
+  id: 69b8d8dc-3261-4cc2-84c8-00bafec14840
 - datetime: 2023-05-09T07:38:38.400Z
   text: Autopilot deactivated
   author: ""
@@ -240,6 +256,8 @@
     - bergie
     - ihmis-suski
   category: navigation
+  origin: auto
+  id: 753b54e1-6542-4f55-9b00-7d954b6b8e38
 - datetime: 2023-05-09T07:39:02.400Z
   text: Sails down, motoring
   author: ""
@@ -267,6 +285,8 @@
     - bergie
     - ihmis-suski
   category: navigation
+  origin: auto
+  id: 4be15655-9200-4436-af8c-88464b80732b
 - datetime: 2023-05-09T07:55:23.398Z
   text: Stopped, Nynäshamn gästhamn
   author: bergie
@@ -292,3 +312,5 @@
     - ihmis-suski
   end: true
   category: navigation
+  origin: manual
+  id: 1cb44706-5a10-4913-952d-9c454a8cc91e
