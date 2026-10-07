@@ -1,35 +1,5 @@
 - category: maintenance
   text: Watermaker started 294ppm.
-  datetime: 2026-10-06T21:52:08.283Z
-  origin: manual
-  id: 3e86804e-6d6a-4d0b-aa1c-b0fa4b2ae937
-  timestamp: 2026-10-06T21:52:11.288Z
-  author: ""
-  heading: 91.99983316415627
-  course: 107.4696936326885
-  position:
-    latitude: -18.6582386
-    longitude: -173.9820175
-    source: GPS
-  speed:
-    sog: 0
-  waypoint:
-    latitude: -23.655453
-    longitude: -178.915014
-  wind:
-    speed: 2.293736501079913
-    direction: 144.0587784297429
-  barometer: 1018.1599731445312
-  log: 635.5428725701944
-  crewNames:
-    - bergie
-    - ihmis-suski
-  engine:
-    engines:
-      main:
-        hours: 1191.0111111111112
-- category: maintenance
-  text: Watermaker started 294ppm.
   datetime: 2026-10-06T21:52:13.064Z
   origin: manual
   id: 2be95d01-ac99-4a40-bec5-37ebc1210f5c
@@ -51,36 +21,6 @@
     direction: 144.0587784297429
   barometer: 1018.1599731445312
   log: 635.5428725701944
-  crewNames:
-    - bergie
-    - ihmis-suski
-  engine:
-    engines:
-      main:
-        hours: 1191.0111111111112
-- category: maintenance
-  text: Watermaker 185ppm
-  datetime: 2026-10-06T23:30:59.680Z
-  origin: manual
-  id: a478a67b-2f62-4a19-b1c5-0a196ab010c0
-  timestamp: 2026-10-06T23:30:58.467Z
-  author: ""
-  heading: 157.9988415852758
-  course: 284.7600241800191
-  position:
-    latitude: -18.65818347930908
-    longitude: -173.98195501963298
-    source: GPS
-  speed:
-    sog: 0
-  waypoint:
-    latitude: -23.655453
-    longitude: -178.915014
-  wind:
-    speed: 6.375809935205183
-    direction: 90.66484150150147
-  barometer: 1017.4600219726562
-  log: 635.5623110151188
   crewNames:
     - bergie
     - ihmis-suski
