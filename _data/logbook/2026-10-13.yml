@@ -1,0 +1,91 @@
+- datetime: 2026-10-13T03:18:03.700Z
+  text: Started main engine
+  author: ""
+  origin: auto
+  position:
+    latitude: -18.6582045
+    longitude: -173.9819286
+    source: GPS
+  heading: 181
+  course: 203
+  speed:
+    sog: 0
+  log: 636.2
+  waypoint:
+    latitude: -23.655453
+    longitude: -178.915014
+  barometer: 1016.18
+  wind:
+    speed: 7.9
+    direction: 143
+  engine:
+    engines:
+      main:
+        hours: 1191
+    hours: 1191
+  crewNames:
+    - bergie
+    - ihmis-suski
+  category: navigation
+  id: ab9598d6-73b7-4861-992d-e877854b4423
+- datetime: 2026-10-13T03:18:11.700Z
+  text: Stopped main engine
+  author: ""
+  origin: auto
+  position:
+    latitude: -18.6582046
+    longitude: -173.9819281
+    source: GPS
+  heading: 189
+  course: 203
+  speed:
+    sog: 0
+  log: 636.2
+  waypoint:
+    latitude: -23.655453
+    longitude: -178.915014
+  barometer: 1016.18
+  wind:
+    speed: 10.2
+    direction: 144
+  engine:
+    engines:
+      main:
+        hours: 1191
+    hours: 1191
+  crewNames:
+    - bergie
+    - ihmis-suski
+  category: navigation
+  id: f3f4f648-bd65-4448-bf66-d06e678213d2
+- category: engine
+  text: Changed lubrication oil pipe and the fuel lift pump, changed primary fuel
+    filter.
+  datetime: 2026-10-13T03:27:52.168Z
+  origin: manual
+  author: bergie
+  id: c8039393-2e72-47a8-8982-07d0531e77bc
+  timestamp: 2026-10-13T03:28:09.773Z
+  heading: 92.99677972768391
+  course: 110.55220657049234
+  position:
+    latitude: -18.6582721
+    longitude: -173.9820063
+    source: GPS
+  speed:
+    sog: 0
+  waypoint:
+    latitude: -23.655453
+    longitude: -178.915014
+  wind:
+    speed: 8.74730021598272
+    direction: 100.66868460448563
+  barometer: 1016.1599731445312
+  log: 636.1551835853131
+  crewNames:
+    - bergie
+    - ihmis-suski
+  engine:
+    engines:
+      main:
+        hours: 1191.0144444444445
