@@ -1,0 +1,30 @@
+- category: engine
+  text: Topped up engine oil with 2-3dl
+  datetime: 2026-10-14T21:11:04.594Z
+  origin: manual
+  author: bergie
+  id: 13715692-81db-48a2-9d80-4c990f964208
+  timestamp: 2026-10-14T21:11:04.903Z
+  heading: 90.99715702267734
+  course: 82.58040701220555
+  position:
+    latitude: -18.6582418
+    longitude: -173.9819803
+    source: GPS
+  speed:
+    sog: 0
+  waypoint:
+    latitude: -23.655453
+    longitude: -178.915014
+  wind:
+    speed: 4.315334773218143
+    direction: 106.30658930857294
+  barometer: 1016.030029296875
+  log: 636.2248380129589
+  crewNames:
+    - bergie
+    - ihmis-suski
+  engine:
+    engines:
+      main:
+        hours: 1191.0311111111112
