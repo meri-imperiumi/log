@@ -1,30 +1,90 @@
 - category: engine
-  text: Topped up engine oil with 2-3dl
+  text: Topped up engine oil with 2-3dl and tightened impeller belt
   datetime: 2026-10-14T21:11:04.594Z
   origin: manual
   author: bergie
   id: 13715692-81db-48a2-9d80-4c990f964208
-  timestamp: 2026-10-14T21:11:04.903Z
-  heading: 90.99715702267734
-  course: 82.58040701220555
+  timestamp: 2026-10-14T21:16:14.960Z
   position:
     latitude: -18.6582418
     longitude: -173.9819803
     source: GPS
-  speed:
-    sog: 0
   waypoint:
     latitude: -23.655453
     longitude: -178.915014
-  wind:
-    speed: 4.315334773218143
-    direction: 106.30658930857294
-  barometer: 1016.030029296875
-  log: 636.2248380129589
   crewNames:
     - bergie
     - ihmis-suski
+  heading: 90.99715702267734
+  course: 82.58040701220555
+  speed:
+    sog: 0
+  log: 636.2248380129589
+  barometer: 1016.030029296875
+  wind:
+    speed: 4.315334773218143
+    direction: 106.30658930857294
   engine:
     engines:
       main:
         hours: 1191.0311111111112
+- datetime: 2026-10-14T21:16:57.203Z
+  text: Started main engine
+  author: ""
+  origin: auto
+  position:
+    latitude: -18.6582146
+    longitude: -173.9820071
+    source: GPS
+  heading: 148
+  course: 251
+  speed:
+    sog: 0
+  log: 636.2
+  waypoint:
+    latitude: -23.655453
+    longitude: -178.915014
+  barometer: 1016.02
+  wind:
+    speed: 4
+    direction: 155
+  engine:
+    engines:
+      main:
+        hours: 1191
+    hours: 1191
+  crewNames:
+    - bergie
+    - ihmis-suski
+  category: navigation
+  id: f3f12855-e1d0-4908-9f47-093b24c43e38
+- datetime: 2026-10-14T21:20:18.201Z
+  text: Stopped main engine
+  author: ""
+  origin: auto
+  position:
+    latitude: -18.658202171325684
+    longitude: -173.9820136388143
+    source: GPS
+  heading: 117
+  course: 142
+  speed:
+    sog: 0
+  log: 636.2
+  waypoint:
+    latitude: -23.655453
+    longitude: -178.915014
+  barometer: 1016.01
+  wind:
+    speed: 7.5
+    direction: 110
+  engine:
+    engines:
+      main:
+        hours: 1191.1
+    hours: 1191.1
+  crewNames:
+    - bergie
+    - ihmis-suski
+  category: navigation
+  id: 82aeac33-2bc4-4b1d-9fc7-99fbe1429152
