@@ -1,0 +1,30 @@
+- category: maintenance
+  text: Watermaker started 295ppm.
+  datetime: 2026-10-15T00:54:50.223Z
+  origin: manual
+  author: ihmis-suski
+  id: c9f0dcfc-c5cc-43f3-a62c-467aed88c8ce
+  timestamp: 2026-10-15T00:54:52.853Z
+  heading: 143.9957530722785
+  course: 158.4915852890883
+  position:
+    latitude: -18.6582105
+    longitude: -173.9820091
+    source: GPS
+  speed:
+    sog: 0
+  waypoint:
+    latitude: -23.655453
+    longitude: -178.915014
+  wind:
+    speed: 6.220302375809935
+    direction: 129.43689549800428
+  barometer: 1014.1900024414062
+  log: 636.2248380129589
+  crewNames:
+    - bergie
+    - ihmis-suski
+  engine:
+    engines:
+      main:
+        hours: 1191.2994444444444
