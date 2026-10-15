@@ -118,3 +118,33 @@
     engines:
       main:
         hours: 1191.2994444444444
+- category: maintenance
+  text: Wayermaker 200ppm.
+  datetime: 2026-10-15T21:40:18.356Z
+  origin: manual
+  author: ihmis-suski
+  id: 66831e50-16bf-4ee7-a0a2-86e2f2a64bb8
+  timestamp: 2026-10-15T21:40:18.994Z
+  heading: 96.99602513769707
+  course: 64.34888997114275
+  position:
+    latitude: -18.6582288
+    longitude: -173.9820151
+    source: GPS
+  speed:
+    sog: 0
+  waypoint:
+    latitude: -23.655453
+    longitude: -178.915014
+  wind:
+    speed: 6.064794816414687
+    direction: 130.938044921247
+  barometer: 1014.280029296875
+  log: 636.2248380129589
+  crewNames:
+    - bergie
+    - ihmis-suski
+  engine:
+    engines:
+      main:
+        hours: 1191.2994444444444
