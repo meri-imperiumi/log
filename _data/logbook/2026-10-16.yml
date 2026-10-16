@@ -91,3 +91,100 @@
     - ihmis-suski
   category: navigation
   id: 2d253064-913e-435d-8dfa-6e048738217d
+- datetime: 2026-10-16T22:25:55.106Z
+  text: "Cleared after 23 min: Tropical cyclone: Orange notification for tropical
+    cyclone ONE-26. Population affected by Category 1 (120 km/h) wind speeds or
+    higher is 3815 . — 708.3 nm from the vessel, 22 transitions"
+  author: ""
+  origin: auto
+  position:
+    latitude: -18.6582195
+    longitude: -173.9819971
+    source: GPS
+  heading: 101
+  course: 300
+  speed:
+    sog: 0
+  log: 636.2
+  waypoint:
+    latitude: -23.655453
+    longitude: -178.915014
+  barometer: 1013.42
+  wind:
+    speed: 3
+    direction: 155
+  engine:
+    engines:
+      main:
+        hours: 1191.3
+    hours: 1191.3
+  crewNames:
+    - bergie
+    - ihmis-suski
+  category: navigation
+  id: 55b0154f-f651-4dfb-80b7-77caeeeefa93
+- datetime: 2026-10-16T22:31:56.998Z
+  text: "Emergency: Tropical cyclone: Orange notification for tropical cyclone
+    ONE-26. Population affected by Category 1 (120 km/h) wind speeds or higher
+    is 3815 . — 708.3 nm from the vessel
+    (navigation.briefing.hazards.gdacs-TC1001339)"
+  author: ""
+  origin: auto
+  position:
+    latitude: -18.6582181
+    longitude: -173.9819956
+    source: GPS
+  heading: 102
+  course: 294
+  speed:
+    sog: 0
+  log: 636.2
+  waypoint:
+    latitude: -23.655453
+    longitude: -178.915014
+  barometer: 1013.43
+  wind:
+    speed: 3.2
+    direction: 147
+  engine:
+    engines:
+      main:
+        hours: 1191.3
+    hours: 1191.3
+  crewNames:
+    - bergie
+    - ihmis-suski
+  category: navigation
+  id: f6e80d95-b5d6-41d2-980d-535893334cb7
+- datetime: 2026-10-16T22:35:56.069Z
+  text: "Cleared after 4 min: Tropical cyclone: Orange notification for tropical
+    cyclone ONE-26. Population affected by Category 1 (120 km/h) wind speeds or
+    higher is 3815 . — 708.3 nm from the vessel, 4 transitions"
+  author: ""
+  origin: auto
+  position:
+    latitude: -18.6582601
+    longitude: -173.9820286
+    source: GPS
+  heading: 123
+  course: 199
+  speed:
+    sog: 0
+  log: 636.2
+  waypoint:
+    latitude: -23.655453
+    longitude: -178.915014
+  barometer: 1013.32
+  wind:
+    speed: 3.6
+    direction: 96
+  engine:
+    engines:
+      main:
+        hours: 1191.3
+    hours: 1191.3
+  crewNames:
+    - bergie
+    - ihmis-suski
+  category: navigation
+  id: d9d4a1b4-1c6e-4077-8435-f05b41091e75
