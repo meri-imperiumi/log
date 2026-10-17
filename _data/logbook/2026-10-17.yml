@@ -31,3 +31,36 @@
     - ihmis-suski
   category: navigation
   id: 510ecc30-4c46-418f-910f-d0415b9891bc
+- datetime: 2026-10-17T02:27:00.500Z
+  text: "Emergency: Tropical cyclone: Orange notification for tropical cyclone
+    ONE-26. Population affected by Category 1 (120 km/h) wind speeds or higher
+    is 3815 . — 708.3 nm from the vessel
+    (navigation.briefing.hazards.gdacs-TC1001339)"
+  author: ""
+  origin: auto
+  position:
+    latitude: -18.6581973
+    longitude: -173.981962
+    source: GPS
+  heading: 147
+  course: 95
+  speed:
+    sog: 0
+  log: 636.2
+  waypoint:
+    latitude: -23.655453
+    longitude: -178.915014
+  barometer: 1011.1
+  wind:
+    speed: 5.5
+    direction: 117
+  engine:
+    engines:
+      main:
+        hours: 1191.3
+    hours: 1191.3
+  crewNames:
+    - bergie
+    - ihmis-suski
+  category: navigation
+  id: f123ce4e-69c5-4d66-920b-4b832df6a379
