@@ -126,6 +126,32 @@
     - ihmis-suski
   category: maintenance
   id: 8e08e699-761d-4dc4-bce5-d70d78782f7f
+- datetime: 2026-09-13T02:36:24.000Z
+  text: Vessel MATILDA bearing 206°T
+  category: navigation
+  origin: auto
+  author: bergie
+  position:
+    latitude: -18.62742232851033
+    longitude: -171.8660686170903
+    source: DR
+  id: 172f2f78-131f-4005-98aa-93bae6aba869
+  timestamp: 2026-10-19T03:01:20.155Z
+- datetime: 2026-09-13T02:36:59.000Z
+  text: GPS fix, 7.2 NM at 277°T from DR
+  category: navigation
+  origin: auto
+  position:
+    latitude: -18.613694444444445
+    longitude: -171.99283333333332
+    source: GPS
+  author: bergie
+  log: 0
+  heading: 261
+  speed:
+    stw: 4.6
+  id: 80f90c7f-54a1-43ad-8645-0765219743bb
+  timestamp: 2026-10-19T03:01:20.169Z
 - datetime: 2026-09-13T02:38:52.200Z
   text: Halfway point, 128NM behind, 128NM to go. Bearing to SV Matilda 102°M
   author: bergie
@@ -1047,6 +1073,23 @@
     - ihmis-suski
   category: navigation
   id: de8b260a-a7cd-4769-8216-72d0dbdcf62c
+- datetime: 2026-09-13T23:14:46.000Z
+  text: GPS fix, 34.7 NM at 275°T from DR
+  category: navigation
+  origin: auto
+  position:
+    latitude: -18.69302777777778
+    longitude: -173.6027222222222
+    source: GPS
+  author: bergie
+  log: 0
+  heading: 288
+  speed:
+    stw: 4.7
+  observations:
+    seaState: 4
+  id: 2d30c47d-9e44-4838-adad-f0478e6ef388
+  timestamp: 2026-10-19T03:01:20.180Z
 - datetime: 2026-09-13T23:59:46.400Z
   text: ""
   author: ""

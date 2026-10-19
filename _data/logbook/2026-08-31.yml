@@ -748,6 +748,54 @@
     - ihmis-suski
   category: navigation
   id: b2dc279c-cf2b-47de-b9a6-2b7f4e50a949
+- datetime: 2026-08-31T17:52:33.000Z
+  text: Sun sight, Zn 0.0°, intercept 0.00 NM toward
+  category: navigation
+  origin: auto
+  author: bergie
+  position:
+    latitude: -18.403011506676304
+    longitude: -161.59784746062456
+    source: Celestial
+  observations:
+    seaState: 4
+  id: 20978dc1-b173-49ef-8700-e8355f12599b
+  timestamp: 2026-10-19T03:01:19.978Z
+- datetime: 2026-08-31T17:53:49.266Z
+  text: "Manual fix from Sun sight (running fix, advanced from fix #4), residual
+    3058.4 NM, 3058.3 NM at 180°T from DR"
+  category: navigation
+  origin: auto
+  position:
+    latitude: -69.34099895707047
+    longitude: -161.59718964760873
+    source: DR
+  author: bergie
+  log: 0
+  heading: 282
+  speed:
+    stw: 4
+  observations:
+    seaState: 4
+  id: c0f11e19-dbfe-4ef4-916e-826e392ffc59
+  timestamp: 2026-10-19T03:01:19.991Z
+- datetime: 2026-08-31T17:56:17.000Z
+  text: GPS fix, 3052.4 NM at 000°T from DR
+  category: navigation
+  origin: auto
+  position:
+    latitude: -18.502027777777776
+    longitude: -161.69041666666666
+    source: GPS
+  author: bergie
+  log: 0
+  heading: 286
+  speed:
+    stw: 4.3
+  observations:
+    seaState: 4
+  id: a1e49a03-e26e-4ac3-aa7e-380ffe6f48a0
+  timestamp: 2026-10-19T03:01:20.007Z
 - datetime: 2026-08-31T17:59:23.001Z
   text: ""
   author: ""
@@ -844,6 +892,19 @@
     - ihmis-suski
   category: navigation
   id: 9ad10e0c-cd1f-40fe-8135-57f68c856510
+- datetime: 2026-08-31T20:45:27.000Z
+  text: Sun sight, Zn 0.0°, intercept 0.00 NM toward
+  category: navigation
+  origin: auto
+  author: bergie
+  position:
+    latitude: -18.434721069825766
+    longitude: -161.88556448443217
+    source: Celestial
+  observations:
+    seaState: 4
+  id: b16077da-4449-43c9-93d9-7bfe6e158e9c
+  timestamp: 2026-10-19T03:01:20.024Z
 - datetime: 2026-08-31T20:59:45.100Z
   text: Autopilot activated
   author: ""

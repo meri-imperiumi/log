@@ -160,6 +160,21 @@
   observations:
     cloudCoverage: 8
   id: d587d51d-d269-4c96-9c9e-0b7ace82cd35
+- datetime: 2026-08-30T19:12:05.000Z
+  text: GPS fix, 0.4 NM at 312°T from DR
+  category: navigation
+  origin: auto
+  position:
+    latitude: -18.83872222222222
+    longitude: -159.83861111111113
+    source: GPS
+  author: bergie
+  log: 0
+  heading: 280
+  speed:
+    stw: 5.3
+  id: c4ba0c4d-2f82-4f21-9e11-d8db72f47085
+  timestamp: 2026-10-19T03:01:19.903Z
 - datetime: 2026-08-30T19:28:16.102Z
   text: bergie on watch
   author: bergie
@@ -228,6 +243,36 @@
     - ihmis-suski
   category: maintenance
   id: 3fa232e1-0cd8-4e53-b7f8-94fcc04f748b
+- datetime: 2026-08-30T19:54:02.000Z
+  text: GPS fix, 0.4 NM at 300°T from DR
+  category: navigation
+  origin: auto
+  position:
+    latitude: -18.822777777777777
+    longitude: -159.89741666666666
+    source: GPS
+  author: bergie
+  log: 0
+  heading: 283
+  speed:
+    stw: 5
+  id: 54d69199-2cb3-487c-b45d-39e3eeeb1dbc
+  timestamp: 2026-10-19T03:01:19.950Z
+- datetime: 2026-08-30T19:58:42.000Z
+  text: GPS fix, 0.0 NM at 342°T from DR
+  category: navigation
+  origin: auto
+  position:
+    latitude: -18.820444444444444
+    longitude: -159.9036111111111
+    source: GPS
+  author: bergie
+  log: 0
+  heading: 293
+  speed:
+    stw: 4.9
+  id: eded2260-73a7-4ed7-a64c-9f3ba892addb
+  timestamp: 2026-10-19T03:01:19.963Z
 - datetime: 2026-08-30T19:59:31.097Z
   text: ""
   author: ""

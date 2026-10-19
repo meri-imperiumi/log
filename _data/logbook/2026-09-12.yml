@@ -64,6 +64,21 @@
     - ihmis-suski
   category: navigation
   id: 0aec45ca-f57f-4498-9d26-b544a149b161
+- datetime: 2026-09-12T01:33:18.000Z
+  text: GPS fix, 9.8 NM at 276°T from DR
+  category: navigation
+  origin: auto
+  position:
+    latitude: -19.101944444444445
+    longitude: -170.3645
+    source: GPS
+  author: bergie
+  log: 0
+  heading: 284
+  speed:
+    stw: 2.4
+  id: 69aa0fed-fb17-4ffb-8a4c-45c90e9c7d60
+  timestamp: 2026-10-19T03:01:20.104Z
 - datetime: 2026-09-12T01:59:43.300Z
   text: ""
   author: ""
@@ -644,6 +659,21 @@
     - ihmis-suski
   category: navigation
   id: 05336543-eeeb-4c62-8bb2-1a373f824a19
+- datetime: 2026-09-12T11:32:28.000Z
+  text: GPS fix, 19.2 NM at 295°T from DR
+  category: navigation
+  origin: auto
+  position:
+    latitude: -18.883277777777778
+    longitude: -170.96499999999997
+    source: GPS
+  author: bergie
+  log: 0
+  heading: 273
+  speed:
+    stw: 3.6
+  id: 3bbc25fd-0ea5-449b-a429-e0519a3b7610
+  timestamp: 2026-10-19T03:01:20.119Z
 - datetime: 2026-09-12T11:59:39.500Z
   text: ""
   author: ""
@@ -998,6 +1028,21 @@
     - ihmis-suski
   category: navigation
   id: 33910be9-5409-4cf3-888f-8905f5ab819a
+- datetime: 2026-09-12T22:20:15.000Z
+  text: GPS fix, 18.1 NM at 302°T from DR
+  category: navigation
+  origin: auto
+  position:
+    latitude: -18.60077777777778
+    longitude: -171.6766111111111
+    source: GPS
+  author: bergie
+  log: 0
+  heading: 273
+  speed:
+    stw: 3.4
+  id: 10df21b8-20ae-47bd-a58d-b5c317901780
+  timestamp: 2026-10-19T03:01:20.143Z
 - datetime: 2026-09-12T22:50:51.097Z
   text: "Started watermaker "
   author: bergie

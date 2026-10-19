@@ -511,6 +511,23 @@
     - ihmis-suski
   category: navigation
   id: 9d0a8afc-f345-4779-bafd-86216bcf35ee
+- datetime: 2026-09-03T09:18:00.000Z
+  text: GPS fix, 32.3 NM at 295°T from DR
+  category: navigation
+  origin: auto
+  position:
+    latitude: -18.569222222222223
+    longitude: -166.3258888888889
+    source: GPS
+  author: bergie
+  log: 0
+  heading: 277
+  speed:
+    stw: 6.7
+  observations:
+    seaState: 3
+  id: 7385f7c9-4804-41de-be7d-19d2bba9bcc5
+  timestamp: 2026-10-19T03:01:20.053Z
 - datetime: 2026-09-03T09:59:36.998Z
   text: ""
   author: ""
