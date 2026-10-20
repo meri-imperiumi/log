@@ -29,3 +29,34 @@
     engines:
       main:
         hours: 1191.2994444444444
+- text: Watermaker 286ppm
+  origin: manual
+  category: maintenance
+  author: bgie
+  id: a34989f7-0bfa-4200-a536-edeeaaa1ec03
+  datetime: 2026-10-20T23:03:27.851Z
+  timestamp: 2026-10-20T23:03:27.851Z
+  heading: 141.99613036727192
+  course: 152.88805805270889
+  position:
+    latitude: -18.6582013
+    longitude: -173.9819691
+    source: GPS
+  speed:
+    sog: 0
+    stw: 0
+  waypoint:
+    latitude: -18.655813
+    longitude: -174.092804
+  wind:
+    speed: 7.075593952483801
+    direction: 105.24088780962961
+  barometer: 1018.1199951171875
+  log: 636.3663066954643
+  crewNames:
+    - bergie
+    - ihmis-suski
+  engine:
+    engines:
+      main:
+        hours: 1191.2994444444444
