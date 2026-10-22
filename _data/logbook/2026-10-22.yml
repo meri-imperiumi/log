@@ -62,3 +62,36 @@
     - ihmis-suski
   category: navigation
   id: e632bf68-4427-4c6a-a8c3-78aa24bcffe9
+- datetime: 2026-10-22T21:57:18.502Z
+  text: Stopped
+  author: ""
+  origin: auto
+  position:
+    latitude: -18.6526089
+    longitude: -173.9850744
+    source: GPS
+  heading: 97
+  course: 14
+  speed:
+    stw: 0
+    sog: 0
+  log: 636.9
+  waypoint:
+    latitude: -18.655813
+    longitude: -174.092804
+  barometer: 1017.87
+  wind:
+    speed: 9.9
+    direction: 92
+  engine:
+    engines:
+      main:
+        hours: 1191.6
+    hours: 1191.6
+  vhf: "9"
+  crewNames:
+    - bergie
+    - ihmis-suski
+  end: true
+  category: navigation
+  id: e9fab2db-88c4-4838-b251-5ab8863464dc
