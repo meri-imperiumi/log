@@ -95,3 +95,35 @@
   end: true
   category: navigation
   id: e9fab2db-88c4-4838-b251-5ab8863464dc
+- datetime: 2026-10-22T22:27:22.502Z
+  text: Started main engine
+  author: ""
+  origin: auto
+  position:
+    latitude: -18.6526083
+    longitude: -173.9851039
+    source: GPS
+  heading: 101
+  course: 112
+  speed:
+    stw: 0
+    sog: 0
+  log: 636.9
+  waypoint:
+    latitude: -18.655813
+    longitude: -174.092804
+  barometer: 1017.71
+  wind:
+    speed: 8.3
+    direction: 101
+  engine:
+    engines:
+      main:
+        hours: 1191.6
+    hours: 1191.6
+  vhf: "9"
+  crewNames:
+    - bergie
+    - ihmis-suski
+  category: navigation
+  id: b59c5d56-547f-46b8-9010-60c08ef9d5bc
