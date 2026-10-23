@@ -97,3 +97,40 @@
     - bergie
     - ihmis-suski
   id: c73a48cf-89e2-4927-adaa-468aaa2c7cb5
+  category: navigation
+- datetime: 2026-10-23T02:23:24.600Z
+  text: "Sails set: Main (2nd reef), Staysail. Gusting to 25kn"
+  author: bergie
+  origin: auto
+  category: navigation
+  id: 6008d287-88f1-4f09-8ec6-04e48569fcd5
+  position:
+    latitude: -18.7835154
+    longitude: -174.2337604
+    source: GPS
+  waypoint:
+    latitude: -18.655813
+    longitude: -174.092804
+  vhf: "16"
+  crewNames:
+    - bergie
+    - ihmis-suski
+  observations:
+    seaState: 4
+    cloudCoverage: 6
+    visibility: 7
+  timestamp: 2026-10-23T02:25:54.706Z
+  heading: 230
+  course: 239
+  speed:
+    sog: 5.9
+    stw: 5
+  log: 656.8
+  barometer: 1015.45
+  wind:
+    speed: 16.1
+    direction: 93
+  engine:
+    engines:
+      main:
+        hours: 1191.8
