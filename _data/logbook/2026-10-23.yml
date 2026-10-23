@@ -559,22 +559,32 @@
   id: 6fcf917a-0a5f-4e96-a324-c7cca3984e98
   category: navigation
 - datetime: 2026-10-23T13:59:26.201Z
-  text: ""
-  author: ""
+  text: Seas are a bit easier in the lee of the Ha'apai Group
+  author: bergie
   origin: auto
+  id: 50fcf4f0-b53f-4497-be8a-fc1c9b1f5cce
+  category: navigation
   position:
     latitude: -19.4752383
     longitude: -175.1208108
     source: GPS
-  heading: 234
-  course: 234
-  speed:
-    stw: 4.7
-    sog: 5.8
-  log: 725.3
   waypoint:
     latitude: -18.655813
     longitude: -174.092804
+  vhf: "16"
+  crewNames:
+    - bergie
+    - ihmis-suski
+  observations:
+    seaState: 4
+    cloudCoverage: 3
+  timestamp: 2026-10-23T14:20:55.630Z
+  heading: 234
+  course: 234
+  speed:
+    sog: 5.8
+    stw: 4.7
+  log: 725.3
   barometer: 1018.05
   wind:
     speed: 18.3
@@ -583,9 +593,3 @@
     engines:
       main:
         hours: 1191.8
-    hours: 1191.8
-  vhf: "16"
-  crewNames:
-    - bergie
-    - ihmis-suski
-  id: 50fcf4f0-b53f-4497-be8a-fc1c9b1f5cce
