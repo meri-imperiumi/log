@@ -949,3 +949,37 @@
     engines:
       main:
         hours: 1191.8
+- category: maintenance
+  text: The Triton²s just went dark for a moment. Apparently otherwise N2K kept
+    running, as Orca Core kept its route. GPS may have booted because we visited
+    Null Island
+  datetime: 2026-10-23T22:44:38.229Z
+  origin: manual
+  author: bergie
+  id: 4293bbff-c511-4157-bbfd-71f16861677c
+  timestamp: 2026-10-23T22:44:36.898Z
+  position:
+    latitude: -20.1588931
+    longitude: -175.8256298
+    source: GPS
+  waypoint:
+    latitude: -19.64225
+    longitude: -175.309704
+  vhf: "16"
+  crewNames:
+    - bergie
+    - ihmis-suski
+  heading: 243.9998066344124
+  course: 249.2595591937133
+  speed:
+    sog: 6.861771058315334
+    stw: 6.432769099402278
+  log: 58269.12386609072
+  barometer: 1020.9400024414062
+  wind:
+    speed: 25.269978401727855
+    direction: 130.5770815103146
+  engine:
+    engines:
+      main:
+        hours: 1191.7805555555556
