@@ -361,3 +361,68 @@
     - bergie
     - ihmis-suski
   id: e041c665-a97e-46e3-9092-a4443ab77a1a
+  category: navigation
+- datetime: 2026-10-23T08:59:21.699Z
+  text: ""
+  author: ""
+  origin: auto
+  position:
+    latitude: -19.1845223
+    longitude: -174.7173108
+    source: GPS
+  heading: 223
+  course: 250
+  speed:
+    stw: 6.2
+    sog: 6.8
+  log: 695
+  waypoint:
+    latitude: -18.655813
+    longitude: -174.092804
+  barometer: 1019.59
+  wind:
+    speed: 26.8
+    direction: 119
+  engine:
+    engines:
+      main:
+        hours: 1191.8
+    hours: 1191.8
+  vhf: "16"
+  crewNames:
+    - bergie
+    - ihmis-suski
+  id: 837e2b6e-ecaa-4b12-8b67-0b40129cfd8d
+  category: navigation
+- category: navigation
+  text: Closed the back wall, too many waves crashing in.
+  datetime: 2026-10-23T09:03:04.286Z
+  origin: manual
+  author: ihmis-suski
+  id: b6127f2b-93f4-4f60-b61e-f2e0242c1b8c
+  timestamp: 2026-10-23T09:03:02.667Z
+  heading: 206.99819222486383
+  course: 228.3637884052922
+  position:
+    latitude: -19.187022
+    longitude: -174.7213578
+    source: GPS
+  speed:
+    sog: 5.11231101511879
+    stw: 6.283590336028929
+  waypoint:
+    latitude: -18.655813
+    longitude: -174.092804
+  wind:
+    speed: 25.386609071274297
+    direction: 122.62442731389879
+  barometer: 1019.5399780273438
+  log: 695.2944924406047
+  vhf: "16"
+  crewNames:
+    - bergie
+    - ihmis-suski
+  engine:
+    engines:
+      main:
+        hours: 1191.7805555555556
