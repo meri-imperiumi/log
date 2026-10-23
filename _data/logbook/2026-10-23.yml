@@ -293,3 +293,40 @@
     - bergie
     - ihmis-suski
   id: 2d54352b-e04c-4219-98b6-530a74a1489b
+  category: navigation
+- category: navigation
+  text: Gusting around 30kn. Seas very lumpy
+  observations:
+    cloudCoverage: 6
+    visibility: 7
+    seaState: 5
+  datetime: 2026-10-23T07:55:23.706Z
+  origin: manual
+  author: ihmis-suski
+  id: 1788661f-946a-4c90-9359-1302fecb65e7
+  timestamp: 2026-10-23T07:55:22.080Z
+  heading: 200.00237754631647
+  course: 218.56048053060383
+  position:
+    latitude: -19.1243411
+    longitude: -174.6394283
+    source: GPS
+  speed:
+    sog: 4.704103671706263
+    stw: 5.829273193028277
+  waypoint:
+    latitude: -18.655813
+    longitude: -174.092804
+  wind:
+    speed: 25.01727861771058
+    direction: 114.44258999943064
+  barometer: 1018.9099731445312
+  log: 689.0002159827213
+  vhf: "16"
+  crewNames:
+    - bergie
+    - ihmis-suski
+  engine:
+    engines:
+      main:
+        hours: 1191.7805555555556
