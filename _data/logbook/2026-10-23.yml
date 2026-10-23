@@ -753,3 +753,67 @@
     - ihmis-suski
   category: engine
   id: 905c6cfc-65a7-4c6c-b091-7f7d33448226
+- datetime: 2026-10-23T17:57:54.954Z
+  text: "Cleared after 6 s: Water in the bilge, 2 transitions"
+  author: ""
+  origin: auto
+  position:
+    latitude: -19.7941064
+    longitude: -175.4400201
+    source: GPS
+  heading: 218
+  course: 225
+  speed:
+    stw: 5.9
+    sog: 9.3
+  log: 19933.8
+  waypoint:
+    latitude: -19.64225
+    longitude: -175.309704
+  barometer: 1019.79
+  wind:
+    speed: 24
+    direction: 118
+  engine:
+    engines:
+      main:
+        hours: 1191.8
+    hours: 1191.8
+  vhf: "16"
+  crewNames:
+    - bergie
+    - ihmis-suski
+  category: engine
+  id: 414e3e65-cec2-4445-8fbb-d1d3a8757703
+- datetime: 2026-10-23T17:59:22.201Z
+  text: ""
+  author: ""
+  origin: auto
+  position:
+    latitude: -19.7882093
+    longitude: -175.434204
+    source: GPS
+  heading: 210
+  course: 227
+  speed:
+    stw: 6.4
+    sog: 9.5
+  log: 19933.3
+  waypoint:
+    latitude: -19.64225
+    longitude: -175.309704
+  barometer: 1019.72
+  wind:
+    speed: 25.8
+    direction: 118
+  engine:
+    engines:
+      main:
+        hours: 1191.8
+    hours: 1191.8
+  vhf: "16"
+  crewNames:
+    - bergie
+    - ihmis-suski
+  id: 988fef20-f491-4f9c-a493-d19727d6bdc6
+  category: navigation
