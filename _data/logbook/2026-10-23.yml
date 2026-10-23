@@ -1,0 +1,36 @@
+- category: navigation
+  text: Staysail went up only now. Whoops. Windvane steering.
+  datetime: 2026-10-23T00:38:34.029Z
+  origin: manual
+  author: ihmis-suski
+  id: 4b663f34-1d05-4671-b927-9cbb4c1edb15
+  timestamp: 2026-10-23T00:44:46.375Z
+  position:
+    latitude: -18.6530501
+    longitude: -174.1239626
+    source: GPS
+  waypoint:
+    latitude: -18.655813
+    longitude: -174.092804
+  observations:
+    seaState: 3
+    cloudCoverage: 6
+    visibility: 7
+  vhf: "9"
+  crewNames:
+    - bergie
+    - ihmis-suski
+  heading: 202.99894681485068
+  course: 221.98103856753482
+  speed:
+    sog: 5.773218142548596
+    stw: 4.879953789743331
+  log: 646.2097192224621
+  barometer: 1015.8499755859375
+  wind:
+    speed: 15.920086393088551
+    direction: 97.64919702414618
+  engine:
+    engines:
+      main:
+        hours: 1191.7805555555556
