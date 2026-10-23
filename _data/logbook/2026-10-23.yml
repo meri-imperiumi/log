@@ -197,3 +197,36 @@
     - bergie
     - ihmis-suski
   id: 98136970-4ed4-4ee4-831b-6ca3296e253b
+  category: navigation
+- datetime: 2026-10-23T05:00:22.700Z
+  text: ihmis-suski on watch
+  author: ""
+  origin: auto
+  position:
+    latitude: -18.9550236
+    longitude: -174.427893
+    source: GPS
+  heading: 199
+  course: 235
+  speed:
+    stw: 5.8
+    sog: 6.5
+  log: 672.4
+  waypoint:
+    latitude: -18.655813
+    longitude: -174.092804
+  barometer: 1016.59
+  wind:
+    speed: 22
+    direction: 100
+  engine:
+    engines:
+      main:
+        hours: 1191.8
+    hours: 1191.8
+  vhf: "16"
+  crewNames:
+    - bergie
+    - ihmis-suski
+  category: navigation
+  id: 8360f999-eaa6-4d45-82b1-b4952d83dd42
