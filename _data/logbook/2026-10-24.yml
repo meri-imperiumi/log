@@ -125,3 +125,36 @@
     - bergie
     - ihmis-suski
   id: 0cae079e-1b8d-4765-ba5e-877777f23c29
+  category: navigation
+- datetime: 2026-10-24T04:51:06.499Z
+  text: Changed ship's time to UTC+12
+  author: ""
+  origin: auto
+  position:
+    latitude: -20.608905
+    longitude: -176.2574635
+    source: GPS
+  heading: 211
+  course: 207
+  speed:
+    stw: 5.7
+    sog: 5.9
+  log: 115740.6
+  waypoint:
+    latitude: -19.64225
+    longitude: -175.309704
+  barometer: 1020
+  wind:
+    speed: 21.1
+    direction: 93
+  engine:
+    engines:
+      main:
+        hours: 1191.8
+    hours: 1191.8
+  vhf: "16"
+  crewNames:
+    - bergie
+    - ihmis-suski
+  category: navigation
+  id: 1fe1c644-12b4-474f-94ff-f5ae1c084683
