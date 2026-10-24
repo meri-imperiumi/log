@@ -803,3 +803,36 @@
     - bergie
     - ihmis-suski
   id: 87c4bf37-7f44-40fb-a98f-34fc0aa8ff2d
+  category: navigation
+- category: maintenance
+  text: "Started watermaker "
+  datetime: 2026-10-24T23:00:10.717Z
+  origin: manual
+  author: bergie
+  id: 30045ade-64ac-4957-b3ea-f64476161bfc
+  timestamp: 2026-10-24T23:00:10.010Z
+  heading: 240.0005612243992
+  course: 236.71178348034832
+  position:
+    latitude: -21.8261274
+    longitude: -177.3638594
+    source: GPS
+  speed:
+    sog: 5.734341252699784
+    stw: 5.829273193028277
+  waypoint:
+    latitude: -19.64225
+    longitude: -175.309704
+  wind:
+    speed: 22.93723395888989
+    direction: 101.52967974933784
+  barometer: 1022.5599975585938
+  log: 134938.20917926566
+  vhf: "16"
+  crewNames:
+    - bergie
+    - ihmis-suski
+  engine:
+    engines:
+      main:
+        hours: 1191.7805555555556
