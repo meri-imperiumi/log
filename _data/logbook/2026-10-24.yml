@@ -836,3 +836,71 @@
     engines:
       main:
         hours: 1191.7805555555556
+- datetime: 2026-10-24T23:00:17.702Z
+  text: bergie on watch
+  author: bergie
+  origin: auto
+  category: navigation
+  id: ee3fdd27-2e32-4d5e-829a-eb85e4fb26bc
+  position:
+    latitude: -21.8269079
+    longitude: -177.3651976
+    source: GPS
+  waypoint:
+    latitude: -19.64225
+    longitude: -175.309704
+  vhf: "16"
+  crewNames:
+    - bergie
+    - ihmis-suski
+  observations:
+    seaState: 4
+    cloudCoverage: 3
+    visibility: 7
+  timestamp: 2026-10-24T23:00:41.333Z
+  heading: 238
+  course: 229
+  speed:
+    sog: 5.8
+    stw: 6.2
+  log: 134938.3
+  barometer: 1022.54
+  wind:
+    speed: 24.5
+    direction: 102
+  engine:
+    engines:
+      main:
+        hours: 1191.8
+- datetime: 2026-10-24T23:01:02.000Z
+  text: GPS fix, 14.7 NM at 164°T from DR
+  category: navigation
+  origin: agent
+  author: bergie
+  id: f93f16bc-4251-455b-b507-7f90b22b358f
+  timestamp: 2026-10-24T23:01:02.882Z
+  position:
+    latitude: -21.827527777777778
+    longitude: -177.36638888888888
+    source: GPS
+  log: 0
+  heading: 251.00135089091103
+  speed:
+    stw: 5.415641167311265
+    sog: 5.94816414686825
+  course: 227.04598547649127
+  waypoint:
+    latitude: -19.64225
+    longitude: -175.309704
+  wind:
+    speed: 22.20182861154197
+    direction: 105.44710644395896
+  barometer: 1022.5499877929688
+  vhf: "16"
+  crewNames:
+    - bergie
+    - ihmis-suski
+  engine:
+    engines:
+      main:
+        hours: 1191.7805555555556
