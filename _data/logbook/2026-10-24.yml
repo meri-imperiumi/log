@@ -872,30 +872,62 @@
     engines:
       main:
         hours: 1191.8
-- datetime: 2026-10-24T23:01:02.000Z
-  text: GPS fix, 14.7 NM at 164°T from DR
-  category: navigation
-  origin: agent
+- category: maintenance
+  text: Watermaker 365ppm
+  datetime: 2026-10-24T23:17:44.161Z
+  origin: manual
   author: bergie
-  id: f93f16bc-4251-455b-b507-7f90b22b358f
-  timestamp: 2026-10-24T23:01:02.882Z
+  id: a294742b-bd04-4d67-aa79-d5805ea4a841
+  timestamp: 2026-10-24T23:17:43.362Z
+  heading: 221.00128073786115
+  course: 216.34886344139883
   position:
-    latitude: -21.827527777777778
-    longitude: -177.36638888888888
+    latitude: -21.8458546
+    longitude: -177.3877305
     source: GPS
-  log: 0
-  heading: 251.00135089091103
   speed:
-    stw: 5.415641167311265
-    sog: 5.94816414686825
-  course: 227.04598547649127
+    sog: 5.870410367170626
+    stw: 6.297152041790143
   waypoint:
     latitude: -19.64225
     longitude: -175.309704
   wind:
-    speed: 22.20182861154197
-    direction: 105.44710644395896
-  barometer: 1022.5499877929688
+    speed: 23.181099017370855
+    direction: 94.07425733495515
+  barometer: 1022.4500122070312
+  log: 134940.0147948164
+  vhf: "16"
+  crewNames:
+    - bergie
+    - ihmis-suski
+  engine:
+    engines:
+      main:
+        hours: 1191.7805555555556
+- category: navigation
+  text: We're now starting to exit the area where Fiji Met had rough seas warning
+  datetime: 2026-10-24T23:21:26.704Z
+  origin: manual
+  author: bergie
+  id: 424a641b-9e22-4acd-8f51-69a13c10698a
+  timestamp: 2026-10-24T23:21:25.909Z
+  heading: 227.00014885288084
+  course: 229.99098854346374
+  position:
+    latitude: -21.8497038
+    longitude: -177.3913706
+    source: GPS
+  speed:
+    sog: 5.676025917926565
+    stw: 5.747902958460996
+  waypoint:
+    latitude: -19.64225
+    longitude: -175.309704
+  wind:
+    speed: 21.58566393497056
+    direction: 96.45268968570925
+  barometer: 1022.47998046875
+  log: 134940.3252699784
   vhf: "16"
   crewNames:
     - bergie
