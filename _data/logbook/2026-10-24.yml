@@ -126,38 +126,6 @@
     - ihmis-suski
   id: 0cae079e-1b8d-4765-ba5e-877777f23c29
   category: navigation
-- datetime: 2026-10-24T04:51:06.499Z
-  text: Changed ship's time to UTC+12
-  author: ""
-  origin: auto
-  position:
-    latitude: -20.608905
-    longitude: -176.2574635
-    source: GPS
-  heading: 211
-  course: 207
-  speed:
-    stw: 5.7
-    sog: 5.9
-  log: 115740.6
-  waypoint:
-    latitude: -19.64225
-    longitude: -175.309704
-  barometer: 1020
-  wind:
-    speed: 21.1
-    direction: 93
-  engine:
-    engines:
-      main:
-        hours: 1191.8
-    hours: 1191.8
-  vhf: "16"
-  crewNames:
-    - bergie
-    - ihmis-suski
-  category: navigation
-  id: 1fe1c644-12b4-474f-94ff-f5ae1c084683
 - datetime: 2026-10-24T05:00:18.499Z
   text: ihmis-suski on watch
   author: ""
@@ -190,38 +158,6 @@
     - ihmis-suski
   category: navigation
   id: 5a5a1e13-8a6d-447a-bc3d-a97da12a1215
-- datetime: 2026-10-24T05:11:06.499Z
-  text: Changed ship's time to UTC+13
-  author: ""
-  origin: auto
-  position:
-    latitude: -20.6347826
-    longitude: -176.276703
-    source: GPS
-  heading: 222
-  course: 224
-  speed:
-    stw: 5.3
-    sog: 4.9
-  log: 115742.5
-  waypoint:
-    latitude: -19.64225
-    longitude: -175.309704
-  barometer: 1020.2
-  wind:
-    speed: 20.6
-    direction: 96
-  engine:
-    engines:
-      main:
-        hours: 1191.8
-    hours: 1191.8
-  vhf: "16"
-  crewNames:
-    - bergie
-    - ihmis-suski
-  category: navigation
-  id: ae2c3ccc-0de3-4e75-a5e6-656dd66a0360
 - datetime: 2026-10-24T05:59:25.500Z
   text: ""
   author: ""
@@ -318,3 +254,67 @@
     - ihmis-suski
   category: engine
   id: 381115ef-366f-4416-b2e5-4e83828f6251
+- datetime: 2026-10-24T06:59:28.499Z
+  text: ""
+  author: ""
+  origin: auto
+  position:
+    latitude: -20.7643236
+    longitude: -176.3842526
+    source: GPS
+  heading: 214
+  course: 208
+  speed:
+    stw: 5.7
+    sog: 4.6
+  log: 134847.5
+  waypoint:
+    latitude: -19.64225
+    longitude: -175.309704
+  barometer: 1021.3
+  wind:
+    speed: 18.1
+    direction: 96
+  engine:
+    engines:
+      main:
+        hours: 1191.8
+    hours: 1191.8
+  vhf: "16"
+  crewNames:
+    - bergie
+    - ihmis-suski
+  id: b829affa-2215-44bd-a4cf-c63316acdbf4
+  category: navigation
+- category: navigation
+  text: Port hard dodger nav light went dark. Turned on bow red nav light instead
+  datetime: 2026-10-24T07:04:12.700Z
+  origin: manual
+  author: ihmis-suski
+  id: 305bc05b-9c9b-47f5-b365-a9d28e383d45
+  timestamp: 2026-10-24T07:06:29.357Z
+  position:
+    latitude: -20.7694484
+    longitude: -176.3879403
+    source: GPS
+  waypoint:
+    latitude: -19.64225
+    longitude: -175.309704
+  vhf: "16"
+  crewNames:
+    - bergie
+    - ihmis-suski
+  heading: 208.99781492987037
+  course: 204.9641920521494
+  speed:
+    sog: 5.753779697624189
+    stw: 5.707217841177355
+  log: 134847.8544276458
+  barometer: 1021.219970703125
+  wind:
+    speed: 21.72140775244636
+    direction: 89.04100311543559
+  engine:
+    engines:
+      main:
+        hours: 1191.7805555555556
