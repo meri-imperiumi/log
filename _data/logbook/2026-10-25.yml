@@ -542,3 +542,36 @@
     - bergie
     - ihmis-suski
   id: 6a64cf2f-8f52-4fdb-b96e-bcfb158452be
+  category: navigation
+- category: navigation
+  text: Rain. Wind fluctuating between 22kn and 8kn
+  datetime: 2026-10-25T13:25:22.250Z
+  origin: manual
+  author: bergie
+  id: edf61397-ca53-4ac4-b816-1cb3cd900df8
+  timestamp: 2026-10-25T13:25:22.417Z
+  heading: 193.00083328981782
+  course: 203.153645419536
+  position:
+    latitude: -22.8737183
+    longitude: -178.2739491
+    source: GPS
+  speed:
+    sog: 5.267818574514038
+    stw: 4.79858355517605
+  waypoint:
+    latitude: -19.64225
+    longitude: -175.309704
+  wind:
+    speed: 12.851289375909646
+    direction: 67.23743909520094
+  barometer: 1021.6099853515625
+  log: 135022.47375809937
+  vhf: "16"
+  crewNames:
+    - bergie
+    - ihmis-suski
+  engine:
+    engines:
+      main:
+        hours: 1191.7805555555556
