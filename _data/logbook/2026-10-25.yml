@@ -1,0 +1,32 @@
+- category: navigation
+  text: Lots of sargassum in the water. Wrong ocean!
+  datetime: 2026-10-25T00:51:50.685Z
+  origin: manual
+  author: bergie
+  id: 0407bbd8-04c6-4ea9-b1e8-49cb8ffa6271
+  timestamp: 2026-10-25T00:51:49.888Z
+  heading: 204.99856951985726
+  course: 218.13076218425567
+  position:
+    latitude: -21.9583718
+    longitude: -177.4966884
+    source: GPS
+  speed:
+    sog: 6.278617710583153
+    stw: 5.442764578833692
+  waypoint:
+    latitude: -19.64225
+    longitude: -175.309704
+  wind:
+    speed: 19.94103323834162
+    direction: 94.03467517346958
+  barometer: 1021.7000122070312
+  log: 134949.47267818576
+  vhf: "16"
+  crewNames:
+    - bergie
+    - ihmis-suski
+  engine:
+    engines:
+      main:
+        hours: 1191.7805555555556
