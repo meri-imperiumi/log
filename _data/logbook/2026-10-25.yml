@@ -898,3 +898,41 @@
     - bergie
     - ihmis-suski
   id: 4e3e8611-f2fe-4530-a737-048108de8319
+  category: navigation
+- category: navigation
+  text: We are out of the tropics! And first ais targets inside north Minerva reef
+    are visible!
+  observations:
+    seaState: 4
+    cloudCoverage: 5
+    visibility: 7
+  datetime: 2026-10-25T21:58:01.113Z
+  origin: manual
+  author: ihmis-suski
+  id: 1ebd90f7-d519-47e7-9ac1-1f53bdd0a0f0
+  timestamp: 2026-10-25T21:57:59.542Z
+  heading: 223.99785000639534
+  course: 228.9195574665691
+  position:
+    latitude: -23.495855
+    longitude: -178.803333
+    source: GPS
+  speed:
+    sog: 6.33693304535637
+    stw: 5.3342709327439835
+  waypoint:
+    latitude: -19.64225
+    longitude: -175.309704
+  wind:
+    speed: 16.751991018387546
+    direction: 72.76152465226927
+  barometer: 1023.1699829101562
+  log: 135072.72483801297
+  vhf: "16"
+  crewNames:
+    - bergie
+    - ihmis-suski
+  engine:
+    engines:
+      main:
+        hours: 1191.7805555555556
