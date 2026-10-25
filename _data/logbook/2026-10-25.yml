@@ -349,3 +349,37 @@
     - bergie
     - ihmis-suski
   id: 4fb1f363-f828-4f46-8146-f6ddeab1670f
+  category: navigation
+- category: navigation
+  text: Serendipity and Pleiterik on our port side. Mathilda passed us some hours
+    ago. Minerva reef is going too be full!
+  datetime: 2026-10-25T09:43:27.493Z
+  origin: manual
+  author: ihmis-suski
+  id: a587ccfa-7d9a-4bd6-be4c-a005b071fc03
+  timestamp: 2026-10-25T09:43:23.853Z
+  heading: 200.9993241098441
+  course: 216.5493986696946
+  position:
+    latitude: -22.6364189
+    longitude: -178.0665188
+    source: GPS
+  speed:
+    sog: 5.676025917926565
+    stw: 5.076598523280927
+  waypoint:
+    latitude: -19.64225
+    longitude: -175.309704
+  wind:
+    speed: 20.154594971289303
+    direction: 75.65254601680584
+  barometer: 1023.0499877929688
+  log: 135003.25831533477
+  vhf: "16"
+  crewNames:
+    - bergie
+    - ihmis-suski
+  engine:
+    engines:
+      main:
+        hours: 1191.7805555555556
