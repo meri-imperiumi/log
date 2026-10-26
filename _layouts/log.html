@@ -20,9 +20,7 @@ layout: default
 
 {% if page.content contains "Distance today" %}
   {% include logbook.html %}
-  {% if log_entries %}
-    {% if log_entries.size > 0 %}
+  {% if matched and matched != "" %}
   {% include nextprev.html %}
-    {% endif %}
   {% endif %}
 {% endif %}

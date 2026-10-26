@@ -1,6 +1,5 @@
 {% include read_log_entries.html %}
-{% if log_entries %}
-  {% if log_entries.size > 0 %}
+{% if matched and matched != "" %}
   {% assign log_entries = log_entries | sort: 'datetime' %}
   <hr>
   <h2>From the logbook</h2>
@@ -15,6 +14,7 @@
       <th>Remarks</th>
     </tr>
     {% for entry in log_entries %}
+    {% if matched contains entry.datetime %}
     <tr>
       <td class="datetime">{{ entry.datetime | date: "%d.%m. %k:%M Z" }}</td>
       {% if entry.position.latitude %}
@@ -86,7 +86,7 @@
         {% endif %}
       </td>
     </tr>
+    {% endif %}
     {% endfor %}
   </table>
-  {% endif %}
 {% endif %}

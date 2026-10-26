@@ -1,4 +1,15 @@
-{% assign first_day = "2021-08-12" %}
+{% comment %}
+  Select logbook entries for this post using the same time window as the
+  track production in .github/updatetracks.mjs: from the previous post's
+  created timestamp (exclusive) until this post's created timestamp
+  (inclusive). For the first post we start from the same initial timestamp
+  the track script uses.
+
+  log_entries lists the candidate entries from the days overlapping the
+  window, and `matched` holds the datetimes actually inside the window
+  (Liquid 4 has no per-element array push, hence the delimited string).
+{% endcomment %}
+{% assign first_log = "2021-08-12T18:48:08+02:00" %}
 {% if page.collection %}
     {% assign links = site[page.collection]  %}
 {% endif %}
@@ -14,16 +25,30 @@
   {% endif %}
   {% assign tmpprev = link %}
 {% endfor %}
-{% assign this_day = page.created | date: "%Y-%m-%d" %}
-{% assign previous_day = prev.created | date: "%Y-%m-%d" %}
-{% assign next_day = page.created | date: "%s" | plus: 86400 | date: "%Y-%m-%d" %}
-{% if previous_day >= first_day %}
-  {% assign log_entries = "" | split: "," %}
+{% assign this_time = page.created | date: "%s" | plus: 0 %}
+{% if prev %}
+  {% assign from_time = prev.created | date: "%s" | plus: 0 %}
+{% else %}
+  {% assign from_time = first_log | date: "%s" | plus: 0 %}
+{% endif %}
+{% assign log_entries = "" | split: "," %}
+{% assign matched = "" %}
+{% if from_time < this_time %}
+  {% comment %}
+    Prefilter logbook days by date key, padded by one day on each side to
+    cover timezone differences between post timestamps (UTC keys) and builds.
+  {% endcomment %}
+  {% assign scan_start = from_time | minus: 86400 | date: "%Y-%m-%d" %}
+  {% assign scan_end = this_time | plus: 86400 | date: "%Y-%m-%d" %}
   {% for day in site.data.logbook %}
-    {% if day[0] > previous_day %}
-      {% if day[0] <= this_day %}
-        {% assign log_entries = log_entries | concat: day[1] %}
-      {% endif %}
+    {% if day[0] >= scan_start and day[0] <= scan_end %}
+      {% assign log_entries = log_entries | concat: day[1] %}
+      {% for entry in day[1] %}
+        {% assign entry_time = entry.datetime | date: "%s" | plus: 0 %}
+        {% if entry_time > from_time and entry_time <= this_time %}
+          {% assign matched = matched | append: entry.datetime | append: "|" %}
+        {% endif %}
+      {% endfor %}
     {% endif %}
   {% endfor %}
 {% endif %}
