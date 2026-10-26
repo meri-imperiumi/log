@@ -71,6 +71,11 @@ function ensurePositionMeta(entry, trackName) {
   }
   return readFile(resolve(trackDir, trackName), 'utf-8')
     .then((trackData) => JSON.parse(trackData))
+    .catch((e) => {
+      // Missing or corrupt track file, nothing to update
+      console.error(`Cannot read track ${trackName}: ${e.message}`);
+      return Promise.resolve();
+    })
     .then((track) => {
       if (!track || !track.coordinates) {
         // No track for this entry
@@ -130,14 +135,20 @@ function ensureTrack(entry, tracks) {
     // Here we don't look for "intermission" posts since they're not in SK history
     return Promise.resolve();
   }
-  const timespan = parseInt((entry.to - entry.from) / 1000 / 60);
-  const offset = parseInt((new Date() - entry.to) / 1000 / 60);
-  const url = `http://192.168.2.105/signalk/v1/api/self/track?timespan=${timespan}m&resolution=3m&timespanOffset=${offset}m`;
+  // Ask for the exact window instead of a lookback from "now" so the
+  // result does not depend on when the backup happens to run.
+  // NB: tracks plugin 3.x hardwires timespanOffset to hours and rejects
+  // unit-suffixed values, so explicit from/to is the robust choice.
+  const url = `http://192.168.2.105/signalk/v1/api/self/track?from=${entry.from.toISOString()}&to=${entry.to.toISOString()}&resolution=3m`;
   return fetch(url)
     .then((r) => r.json())
     .then((geoJson) => {
+      if (!geoJson || !geoJson.coordinates) {
+        console.error(`No track data returned for ${trackName}, not writing: ${JSON.stringify(geoJson).substring(0, 200)}`);
+        return null;
+      }
       // Clean up the track to remove 'anchor sway' etc
-      if (!geoJson.coordinates || !geoJson.coordinates[0]) {
+      if (!geoJson.coordinates[0]) {
         return geoJson;
       }
       const newData = {...geoJson};
@@ -169,10 +180,15 @@ function ensureTrack(entry, tracks) {
       return newData;
     })
     .then((geoJson) => {
-      return writeFile(resolve(trackDir, trackName), JSON.stringify(geoJson, null, 2));
-    })
-    .then(() => {
-      return ensurePositionMeta(entry, trackName);
+      if (!geoJson) {
+        // API returned no usable data; leave the track absent so it is
+        // retried on the next run
+        return Promise.resolve();
+      }
+      return writeFile(resolve(trackDir, trackName), JSON.stringify(geoJson, null, 2))
+        .then(() => {
+          return ensurePositionMeta(entry, trackName);
+        });
     });
 }
 
@@ -211,6 +227,7 @@ readdir(logDir)
               from: entries[entries.length - 1].to,
               to: new Date(),
               trackname: 'current.json',
+              trip: true,
             }, tracks);
           });
       })
@@ -239,8 +256,16 @@ readdir(logDir)
                 }
                 return readFile(resolve(trackDir, current), 'utf-8')
                   .then((data) => JSON.parse(data))
+                  .catch((e) => {
+                    console.error(`Skipping unreadable track ${current}: ${e.message}`);
+                    return null;
+                  })
                   .then((geoJSON) => {
                     // TODO: Separate intermissions?
+                    if (!geoJSON || !geoJSON.coordinates || !geoJSON.coordinates[0]) {
+                      // Not usable track data
+                      return years;
+                    }
                     years[year] = years[year].concat(geoJSON.coordinates[0]);
                     return years;
                   });
