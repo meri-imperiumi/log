@@ -37,29 +37,29 @@
       {% endif %}
       <td>
         {% if entry.course %}
-        {{ entry.course }}&deg;
+        {{ entry.course | round }}&deg;
         {% elsif entry.heading %}
-        {{ entry.heading }}&deg;
+        {{ entry.heading | round }}&deg;
         {% endif %}
       </td>
       <td>
         {% if entry.speed %}
-        {{ entry.speed.sog }}kt
+        {{ entry.speed.sog | round: 1 }}kt
         {% endif %}
       </td>
       <td>
         {% if entry.log %}
-        {{ entry.log }}NM
+        {{ entry.log | round: 1 }}NM
         {% endif %}
       </td>
       <td>
         {% if entry.wind %}
         <span>wind
           {% if entry.wind.speed %}
-          {{ entry.wind.speed }}kt
+          {{ entry.wind.speed | round: 1 }}kt
           {% endif %}
           {% if entry.wind.direction %}
-          {{ entry.wind.direction }}&deg;
+          {{ entry.wind.direction | round }}&deg;
           {% endif %}
         </span>
         {% endif %}
