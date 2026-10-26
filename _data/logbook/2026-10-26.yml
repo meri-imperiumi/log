@@ -1,0 +1,97 @@
+- datetime: 2026-10-26T00:45:42.600Z
+  text: Watch schedule stopped
+  author: ""
+  origin: auto
+  position:
+    latitude: -23.6467486
+    longitude: -178.891551
+    source: GPS
+  heading: 337
+  course: 294
+  speed:
+    stw: 0
+    sog: 0.4
+  log: 135087.2
+  waypoint:
+    latitude: -19.64225
+    longitude: -175.309704
+  barometer: 1021.87
+  wind:
+    speed: 19.3
+    direction: 87
+  engine:
+    engines:
+      main:
+        hours: 1192.8
+    hours: 1192.8
+  vhf: "16"
+  crewNames:
+    - bergie
+    - ihmis-suski
+  category: navigation
+  id: e06a9202-84af-427f-bfce-ddb178ff8fdd
+- datetime: 2026-10-26T00:45:43.600Z
+  text: Anchored
+  author: ""
+  origin: auto
+  position:
+    latitude: -23.6467481
+    longitude: -178.8915516
+    source: GPS
+  heading: 331
+  course: 342
+  speed:
+    stw: 0
+    sog: 0.4
+  log: 135087.2
+  waypoint:
+    latitude: -19.64225
+    longitude: -175.309704
+  barometer: 1021.87
+  wind:
+    speed: 19.3
+    direction: 84
+  engine:
+    engines:
+      main:
+        hours: 1192.8
+    hours: 1192.8
+  vhf: "16"
+  crewNames:
+    - bergie
+    - ihmis-suski
+  end: true
+  category: navigation
+  id: 670cacbd-4888-4ef5-9ae5-7bbaccd63aae
+- datetime: 2026-10-26T00:49:00.600Z
+  text: Stopped main engine
+  author: ""
+  origin: auto
+  position:
+    latitude: -23.6467163
+    longitude: -178.8919314
+    source: GPS
+  heading: 69
+  course: 67
+  speed:
+    stw: 0
+    sog: 0
+  log: 135087.2
+  waypoint:
+    latitude: -19.64225
+    longitude: -175.309704
+  barometer: 1021.91
+  wind:
+    speed: 15.4
+    direction: 85
+  engine:
+    engines:
+      main:
+        hours: 1192.8
+    hours: 1192.8
+  vhf: "16"
+  crewNames:
+    - bergie
+    - ihmis-suski
+  category: navigation
+  id: 57d9720f-2ab7-4534-8814-974676ada951
