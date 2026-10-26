@@ -82,7 +82,7 @@ function ensurePositionMeta(entry, trackName) {
       }
       const [lon, lat] = lastSegment[lastSegment.length - 1];
       if (entry.position
-        && (entry.position.lat === lat || entry.position.lon === lon)) {
+        && entry.position.lat === lat && entry.position.lon === lon) {
         // Unchanged last position
         return Promise.resolve();
       }
@@ -132,7 +132,7 @@ function ensureTrack(entry, tracks) {
   }
   const timespan = parseInt((entry.to - entry.from) / 1000 / 60);
   const offset = parseInt((new Date() - entry.to) / 1000 / 60);
-  const url = `http://192.168.2.105/signalk/v1/api/self/track?timespan=${timespan}m&resolution=3m&timespanOffset=${offset}`;
+  const url = `http://192.168.2.105/signalk/v1/api/self/track?timespan=${timespan}m&resolution=3m&timespanOffset=${offset}m`;
   return fetch(url)
     .then((r) => r.json())
     .then((geoJson) => {
