@@ -253,3 +253,36 @@
     - bergie
     - ihmis-suski
   id: 8958b4a2-72ef-43dc-ba0c-3f11f110f776
+  category: navigation
+- datetime: 2026-10-30T21:32:01.401Z
+  text: "Sails set: Main (1st reef), Staysail"
+  author: ""
+  origin: auto
+  position:
+    latitude: -23.7232163
+    longitude: -179.1688844
+    source: GPS
+  heading: 239
+  course: 242
+  speed:
+    stw: 0
+    sog: 4.2
+  log: 1080.6
+  waypoint:
+    latitude: -23.613853
+    longitude: -178.954865
+  barometer: 1019.3
+  wind:
+    speed: 10.6
+    direction: 162
+  engine:
+    engines:
+      main:
+        hours: 1194.5
+    hours: 1194.5
+  vhf: "16"
+  crewNames:
+    - bergie
+    - ihmis-suski
+  category: navigation
+  id: f8a624b6-402d-4fc9-968b-bddd9f6ec57e
