@@ -61,3 +61,41 @@
     - bergie
     - ihmis-suski
   id: c308ef6a-a08d-42f1-b3ba-d4e8fba53015
+  category: navigation
+- category: navigation
+  text: Starboard main sheet had a metal fatigue related break, I could bypass it
+    with a soft schakle.
+  observations:
+    seaState: 4
+    cloudCoverage: 7
+    visibility: 7
+  datetime: 2026-10-31T02:24:44.612Z
+  origin: manual
+  author: ihmis-suski
+  id: 58b526ad-d114-4fed-975a-fe5c375db606
+  timestamp: 2026-10-31T02:24:42.873Z
+  heading: 202.00200025132298
+  course: 179.1639025374084
+  position:
+    latitude: -23.9711431
+    longitude: -179.4992268
+    source: GPS
+  speed:
+    sog: 6.006479481641468
+    stw: 0
+  waypoint:
+    latitude: -23.613853
+    longitude: -178.954865
+  wind:
+    speed: 19.696939516620223
+    direction: 122.99196213938137
+  barometer: 1018.0700073242188
+  log: 1104.973758099352
+  vhf: "16"
+  crewNames:
+    - bergie
+    - ihmis-suski
+  engine:
+    engines:
+      main:
+        hours: 1194.4872222222223
