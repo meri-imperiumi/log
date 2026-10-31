@@ -677,3 +677,68 @@
     - bergie
     - ihmis-suski
   id: a2ac3564-d506-4081-a30a-2a59a8c97520
+  category: navigation
+- datetime: 2026-10-31T15:34:50.700Z
+  text: "Alarm: Water in the bilge (electrical.venus-input.1.stateNumber)"
+  author: ""
+  origin: auto
+  position:
+    latitude: -24.7359865
+    longitude: 179.5489428
+    source: GPS
+  heading: 205
+  course: 205
+  speed:
+    stw: 5.5
+    sog: 5.9
+  log: 19898.8
+  waypoint:
+    latitude: -23.613853
+    longitude: -178.954865
+  barometer: 1021.86
+  wind:
+    speed: 17
+    direction: 106
+  engine:
+    engines:
+      main:
+        hours: 1194.5
+    hours: 1194.5
+  vhf: "16"
+  crewNames:
+    - bergie
+    - ihmis-suski
+  category: engine
+  id: fe79ff20-28ee-4eda-871c-b011975dc3a6
+- datetime: 2026-10-31T15:34:52.172Z
+  text: "Cleared after 1 s: Water in the bilge"
+  author: ""
+  origin: auto
+  position:
+    latitude: -24.7425808
+    longitude: 179.5433518
+    source: GPS
+  heading: 208
+  course: 232
+  speed:
+    stw: 5.4
+    sog: 6.6
+  log: 19899.3
+  waypoint:
+    latitude: -23.613853
+    longitude: -178.954865
+  barometer: 1021.93
+  wind:
+    speed: 18.4
+    direction: 110
+  engine:
+    engines:
+      main:
+        hours: 1194.5
+    hours: 1194.5
+  vhf: "16"
+  crewNames:
+    - bergie
+    - ihmis-suski
+  category: engine
+  id: 675c0cec-103d-4339-a064-a38aeb23640d
