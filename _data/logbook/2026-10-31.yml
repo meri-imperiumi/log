@@ -905,3 +905,36 @@
     - bergie
     - ihmis-suski
   id: 5ded7a25-0b4a-4895-9ab1-7340a2453aef
+  category: navigation
+- category: maintenance
+  text: One screw was gone from solar arch brackets, put a new one on
+  datetime: 2026-10-31T20:21:07.153Z
+  origin: manual
+  author: bergie
+  id: 003a7c53-fda5-4aef-adf0-c98ed2fd9f98
+  timestamp: 2026-10-31T20:21:06.283Z
+  heading: 210.99743763487695
+  course: 226.65637417580237
+  position:
+    latitude: -25.0961111
+    longitude: 179.2465376
+    source: GPS
+  speed:
+    sog: 5.462203023758099
+    stw: 5.442764578833692
+  waypoint:
+    latitude: -23.629311
+    longitude: -179.02446
+  wind:
+    speed: 17.48351181171937
+    direction: 107.03858098916479
+  barometer: 1024.169921875
+  log: 19926.597408207344
+  vhf: "16"
+  crewNames:
+    - bergie
+    - ihmis-suski
+  engine:
+    engines:
+      main:
+        hours: 1194.4872222222223
