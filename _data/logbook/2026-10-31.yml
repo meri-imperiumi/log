@@ -843,37 +843,37 @@
   id: 502d3699-0d5e-48c0-954f-98e8ce9cd29f
   category: navigation
 - datetime: 2026-10-31T18:59:54.700Z
-  text: ""
-  author: ""
+  text: Almost out of Fiji "Islands" Met Area, next up NZ "Subtropics"
+  author: bergie
   origin: auto
+  id: f0d9840f-0c34-4821-83a1-379c3bb8acd4
+  category: navigation
   position:
     latitude: -24.9901406
     longitude: 179.3239418
     source: GPS
-  heading: 220
-  course: 209
-  speed:
-    stw: 5.5
-    sog: 4.7
-  log: 19918.7
   waypoint:
     latitude: -23.629311
     longitude: -179.02446
-  barometer: 1023.33
-  wind:
-    speed: 18.8
-    direction: 125
-  engine:
-    engines:
-      main:
-        hours: 1194.5
-    hours: 1194.5
   vhf: "16"
   crewNames:
     - bergie
     - ihmis-suski
-  id: f0d9840f-0c34-4821-83a1-379c3bb8acd4
-  category: navigation
+  timestamp: 2026-10-31T22:08:07.954Z
+  heading: 220
+  course: 209
+  speed:
+    sog: 4.7
+    stw: 5.5
+  log: 19918.7
+  barometer: 1023.33
+  wind:
+    speed: 18.8
+    direction: 125.00000000000001
+  engine:
+    engines:
+      main:
+        hours: 1194.5
 - datetime: 2026-10-31T19:59:59.801Z
   text: ""
   author: ""
@@ -969,3 +969,101 @@
     - bergie
     - ihmis-suski
   id: fcaea160-2ec8-4a53-9b6f-190ba0eccd95
+  category: navigation
+- datetime: 2026-10-31T21:59:54.803Z
+  text: ""
+  author: ""
+  origin: auto
+  position:
+    latitude: -25.233383496602375
+    longitude: 179.1691339969635
+    source: GPS
+  heading: 186
+  course: 205
+  speed:
+    stw: 5.8
+    sog: 5.8
+  log: 19936.3
+  waypoint:
+    latitude: -23.629311
+    longitude: -179.02446
+  barometer: 1023.78
+  wind:
+    speed: 20.5
+    direction: 102
+  engine:
+    engines:
+      main:
+        hours: 1194.5
+    hours: 1194.5
+  vhf: "16"
+  crewNames:
+    - bergie
+    - ihmis-suski
+  id: 6e3b7a59-4844-4aa7-a035-0c4c8f7cf353
+  category: navigation
+- datetime: 2026-10-31T22:03:37.000Z
+  text: Sun sight, Zn 70.7°, intercept 3.28 NM toward
+  category: navigation
+  origin: agent
+  author: bergie
+  id: 6e87fbfb-46ef-45b9-9355-f8f266e28cb5
+  timestamp: 2026-10-31T22:04:41.322Z
+  position:
+    latitude: -25.222592081846592
+    longitude: 179.2117572995198
+    source: Celestial
+  heading: 189.00158787980467
+  course: 208.52225995991182
+  speed:
+    sog: 5.8120950323974085
+    stw: 5.619066753729468
+  waypoint:
+    latitude: -23.629311
+    longitude: -179.02446
+  wind:
+    speed: 19.204571720898564
+    direction: 101.37371563015931
+  barometer: 1023.8400268554688
+  log: 19936.637904967603
+  vhf: "16"
+  crewNames:
+    - bergie
+    - ihmis-suski
+  engine:
+    engines:
+      main:
+        hours: 1194.4872222222223
+- datetime: 2026-10-31T22:04:54.430Z
+  text: "Manual fix from Sun sight (running fix, advanced from fix #27), residual
+    0.4 NM, 4.9 NM at 023°T from DR"
+  category: navigation
+  origin: agent
+  author: bergie
+  id: 9b666d27-55de-40f7-934e-9c74f39093b3
+  timestamp: 2026-10-31T22:04:54.434Z
+  position:
+    latitude: -25.148005130191358
+    longitude: 179.24676267580716
+    source: DR
+  log: 0
+  heading: 161.00114043176134
+  speed:
+    stw: 5.503792254759152
+    sog: 6.239740820734343
+  course: 184.48668045417378
+  waypoint:
+    latitude: -23.629311
+    longitude: -179.02446
+  wind:
+    speed: 21.858276048297107
+    direction: 100.33148134195729
+  barometer: 1023.8200073242188
+  vhf: "16"
+  crewNames:
+    - bergie
+    - ihmis-suski
+  engine:
+    engines:
+      main:
+        hours: 1194.4872222222223
