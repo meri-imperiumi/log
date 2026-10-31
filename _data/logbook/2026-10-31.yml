@@ -454,3 +454,35 @@
     engines:
       main:
         hours: 1194.4872222222223
+- datetime: 2026-10-31T09:25:09.000Z
+  text: GPS fix, 5.0 NM at 026°T from DR
+  category: navigation
+  origin: agent
+  author: bergie
+  id: 4ec81716-525b-4b2b-b077-d833876c8e0e
+  timestamp: 2026-10-31T09:25:10.590Z
+  position:
+    latitude: -24.327944444444444
+    longitude: 179.97338888888888
+    source: GPS
+  log: 0
+  heading: 240.99750778792685
+  speed:
+    stw: 0
+    sog: 4.7429805615550755
+  course: 240.62508522109184
+  waypoint:
+    latitude: -23.613853
+    longitude: -178.954865
+  wind:
+    speed: 16.821378532569362
+    direction: 142.30956237945844
+  barometer: 1022.1699829101562
+  vhf: "16"
+  crewNames:
+    - bergie
+    - ihmis-suski
+  engine:
+    engines:
+      main:
+        hours: 1194.4872222222223
