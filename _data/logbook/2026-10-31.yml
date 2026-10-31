@@ -389,3 +389,68 @@
     - bergie
     - ihmis-suski
   id: b8b09c57-50f5-49c4-b0d2-a13aa6a88e35
+  category: navigation
+- datetime: 2026-10-31T08:59:04.601Z
+  text: ""
+  author: ""
+  origin: auto
+  position:
+    latitude: -24.3063573
+    longitude: -179.9907363
+    source: GPS
+  heading: 223
+  course: 254
+  speed:
+    stw: 0
+    sog: 6.8
+  log: 19861.8
+  waypoint:
+    latitude: -23.613853
+    longitude: -178.954865
+  barometer: 1022.12
+  wind:
+    speed: 20
+    direction: 127
+  engine:
+    engines:
+      main:
+        hours: 1194.5
+    hours: 1194.5
+  vhf: "16"
+  crewNames:
+    - bergie
+    - ihmis-suski
+  id: 97eea8a3-67c9-4847-8b02-16d4cee1773c
+  category: navigation
+- category: navigation
+  text: We have sailed so far west that we're in the east now
+  datetime: 2026-10-31T09:08:17.739Z
+  origin: manual
+  author: bergie
+  id: dbcac75e-0d0b-41d8-b907-653443c650ea
+  timestamp: 2026-10-31T09:08:16.921Z
+  heading: 232.00207040437294
+  course: 225.7740191713009
+  position:
+    latitude: -24.3144701
+    longitude: 179.9970408
+    source: GPS
+  speed:
+    sog: 6.259179265658747
+    stw: 0
+  waypoint:
+    latitude: -23.613853
+    longitude: -178.954865
+  wind:
+    speed: 21.399841438275992
+    direction: 136.3183581012719
+  barometer: 1022.1699829101562
+  log: 19862.640064794814
+  vhf: "16"
+  crewNames:
+    - bergie
+    - ihmis-suski
+  engine:
+    engines:
+      main:
+        hours: 1194.4872222222223
