@@ -322,3 +322,39 @@
     - bergie
     - ihmis-suski
   id: 899eedd0-beaf-426d-ac6c-9544348fdab7
+  category: navigation
+- category: navigation
+  text: Light rain
+  observations:
+    seaState: 4
+    cloudCoverage: 8
+  datetime: 2026-10-31T07:55:36.748Z
+  origin: manual
+  author: bergie
+  id: c7809af3-8575-4ace-a304-c4c0d73f9b39
+  timestamp: 2026-10-31T07:55:35.960Z
+  heading: 204.99856951985726
+  course: 236.73470179215354
+  position:
+    latitude: -24.2511241
+    longitude: -179.907249
+    source: GPS
+  speed:
+    sog: 5.01511879049676
+    stw: 0
+  waypoint:
+    latitude: -23.613853
+    longitude: -178.954865
+  wind:
+    speed: 20.245631272437485
+    direction: 110.98915041095059
+  barometer: 1021.280029296875
+  log: 19856.068250539956
+  vhf: "16"
+  crewNames:
+    - bergie
+    - ihmis-suski
+  engine:
+    engines:
+      main:
+        hours: 1194.4872222222223
