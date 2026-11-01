@@ -645,3 +645,68 @@
     - bergie
     - ihmis-suski
   id: c732db70-88dd-4107-b109-d51e2c18c99d
+  category: navigation
+- datetime: 2026-11-01T18:59:00.102Z
+  text: ""
+  author: ""
+  origin: auto
+  position:
+    latitude: -26.997643661499023
+    longitude: 177.90045166015625
+    source: GPS
+  heading: 188
+  course: 188
+  speed:
+    stw: 6.3
+    sog: 4.8
+  log: 20069
+  waypoint:
+    latitude: -25.781231
+    longitude: 178.818685
+  barometer: 1025.35
+  wind:
+    speed: 28.5
+    direction: 55
+  engine:
+    engines:
+      main:
+        hours: 1194.5
+    hours: 1194.5
+  vhf: "16"
+  crewNames:
+    - bergie
+    - ihmis-suski
+  id: 2546b947-8df6-42da-9c55-ee2575bebc4b
+  category: navigation
+- category: navigation
+  text: Gusting 35kn
+  datetime: 2026-11-01T19:09:27.776Z
+  origin: manual
+  author: bergie
+  id: cdf85938-c088-4a31-9106-a300d1b2ed21
+  timestamp: 2026-11-01T19:11:50.496Z
+  position:
+    latitude: -27.0141751
+    longitude: 177.8946131
+    source: GPS
+  waypoint:
+    latitude: -25.781231
+    longitude: 178.818685
+  vhf: "16"
+  crewNames:
+    - bergie
+    - ihmis-suski
+  heading: 157.0018950217482
+  course: 164.1294899931756
+  speed:
+    sog: 6.570194384449246
+    stw: 6.527701039730773
+  log: 20070.091468682505
+  barometer: 1024.8900146484375
+  wind:
+    speed: 31.509380895237374
+    direction: 55.360024002138985
+  engine:
+    engines:
+      main:
+        hours: 1194.4872222222223
