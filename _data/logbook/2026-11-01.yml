@@ -811,21 +811,32 @@
   category: navigation
 - datetime: 2026-11-01T23:00:20.102Z
   text: ihmis-suski on watch
-  author: ""
+  author: ihmis-suski
   origin: auto
+  category: navigation
+  id: 561e41c4-ada7-49d1-9b4d-e15c38620aaf
   position:
     latitude: -27.3556394
     longitude: 177.6963428
     source: GPS
-  heading: 186
-  course: 209
-  speed:
-    stw: 5.8
-    sog: 4.4
-  log: 20093.9
   waypoint:
     latitude: -27.251668
     longitude: 177.753929
+  vhf: "16"
+  crewNames:
+    - bergie
+    - ihmis-suski
+  observations:
+    seaState: 5
+    cloudCoverage: 4
+    visibility: 7
+  timestamp: 2026-11-01T23:26:34.606Z
+  heading: 186
+  course: 209
+  speed:
+    sog: 4.4
+    stw: 5.8
+  log: 20093.9
   barometer: 1025.78
   wind:
     speed: 24.6
@@ -834,10 +845,3 @@
     engines:
       main:
         hours: 1194.5
-    hours: 1194.5
-  vhf: "16"
-  crewNames:
-    - bergie
-    - ihmis-suski
-  category: navigation
-  id: 561e41c4-ada7-49d1-9b4d-e15c38620aaf
