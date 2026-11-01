@@ -162,3 +162,35 @@
     engines:
       main:
         hours: 1194.5
+- category: navigation
+  text: Light rain
+  datetime: 2026-11-01T05:29:28.535Z
+  origin: manual
+  author: bergie
+  id: b1c94525-cde5-4d55-bd65-08075fefdde4
+  timestamp: 2026-11-01T05:29:27.565Z
+  heading: 198.9997014048375
+  course: 211.50164049459207
+  position:
+    latitude: -25.8694958
+    longitude: 178.7187551
+    source: GPS
+  speed:
+    sog: 6.161987041036717
+    stw: 5.924205133356772
+  waypoint:
+    latitude: -25.781231
+    longitude: 178.818685
+  wind:
+    speed: 23.886428023772027
+    direction: 89.90937904852763
+  barometer: 1022.9600219726562
+  log: 19984.249136069113
+  vhf: "16"
+  crewNames:
+    - bergie
+    - ihmis-suski
+  engine:
+    engines:
+      main:
+        hours: 1194.4872222222223
