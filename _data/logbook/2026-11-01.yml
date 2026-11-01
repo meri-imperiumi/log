@@ -289,3 +289,36 @@
     - bergie
     - ihmis-suski
   id: 70bbb019-c603-4755-8f39-486a1510fe75
+  category: navigation
+- category: navigation
+  text: Going a bit more downwind to avoid slamming waves
+  datetime: 2026-11-01T08:42:52.962Z
+  origin: manual
+  author: bergie
+  id: 4a9eb8d9-a6fc-462b-a948-ad2edeb8f3ce
+  timestamp: 2026-11-01T08:42:52.962Z
+  heading: 230.0024476993664
+  course: 206.86641193198372
+  position:
+    latitude: -26.160880994796752
+    longitude: 178.53100798924763
+    source: GPS
+  speed:
+    sog: 7.153347732181426
+    stw: 6.853181977999897
+  waypoint:
+    latitude: -25.781231
+    longitude: 178.818685
+  wind:
+    speed: 28.30552404943544
+    direction: 88.00689447383527
+  barometer: 1025.080078125
+  log: 20005.519654427644
+  vhf: "16"
+  crewNames:
+    - bergie
+    - ihmis-suski
+  engine:
+    engines:
+      main:
+        hours: 1194.4872222222223
