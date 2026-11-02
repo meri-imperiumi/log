@@ -651,3 +651,36 @@
     - bergie
     - ihmis-suski
   id: 8a33bbe6-832f-4af4-ab29-824376a2cd59
+  category: navigation
+- category: navigation
+  text: Poled out
+  datetime: 2026-11-02T18:25:06.564Z
+  origin: manual
+  author: bergie
+  id: fff24690-8b05-4e34-9025-bfca3c1b4cd7
+  timestamp: 2026-11-02T18:25:05.931Z
+  heading: 168.00268468826
+  course: 186.8816440378206
+  position:
+    latitude: -29.16643433570862
+    longitude: 176.92579797108968
+    source: GPS
+  speed:
+    sog: 7.717062634989201
+    stw: 6.086945602491333
+  waypoint:
+    latitude: -28.936934
+    longitude: 176.97658
+  wind:
+    speed: 23.58112084153299
+    direction: 27.451993911158986
+  barometer: 1024.280029296875
+  log: 20214.613606911447
+  vhf: "16"
+  crewNames:
+    - bergie
+    - ihmis-suski
+  engine:
+    engines:
+      main:
+        hours: 1194.4872222222223
