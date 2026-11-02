@@ -586,3 +586,37 @@
     engines:
       main:
         hours: 1194.5
+- category: navigation
+  text: "Rain. Sails slatting "
+  datetime: 2026-11-02T17:42:43.768Z
+  origin: manual
+  author: bergie
+  id: 4100cbef-7813-4556-915c-b424f1102859
+  timestamp: 2026-11-02T17:43:48.476Z
+  position:
+    latitude: -29.1004996
+    longitude: 176.9297086
+    source: GPS
+  waypoint:
+    latitude: -28.936934
+    longitude: 176.97658
+  observations:
+    visibility: 5
+  vhf: "16"
+  crewNames:
+    - bergie
+    - ihmis-suski
+  heading: 165.9973324053021
+  course: 203.841194773693
+  speed:
+    sog: 5.637149028077753
+    stw: 3.8552915766738662
+  log: 20210.563390928724
+  barometer: 1024.239990234375
+  wind:
+    speed: 12.517995810573511
+    direction: 10.793079152354627
+  engine:
+    engines:
+      main:
+        hours: 1194.4872222222223
