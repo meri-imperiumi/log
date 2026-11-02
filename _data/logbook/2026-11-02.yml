@@ -1,0 +1,36 @@
+- category: navigation
+  text: Wind against current does not make a happy sailor.
+  observations:
+    seaState: 5
+    cloudCoverage: 1
+    visibility: 7
+  datetime: 2026-11-02T00:32:12.082Z
+  origin: manual
+  author: ihmis-suski
+  id: c97cb185-62a2-466a-9ac4-5065f3ace124
+  timestamp: 2026-11-02T00:32:09.064Z
+  heading: 238.99788508292028
+  course: 205.47985406776715
+  position:
+    latitude: -27.4747209
+    longitude: 177.6068719
+    source: GPS
+  speed:
+    sog: 3.790496760259179
+    stw: 6.141192425536188
+  waypoint:
+    latitude: -27.251668
+    longitude: 177.753929
+  wind:
+    speed: 20.77557698421199
+    direction: 79.38414435197437
+  barometer: 1024.75
+  log: 20102.94514038877
+  vhf: "16"
+  crewNames:
+    - bergie
+    - ihmis-suski
+  engine:
+    engines:
+      main:
+        hours: 1194.4872222222223
