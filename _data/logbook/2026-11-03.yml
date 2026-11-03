@@ -779,3 +779,36 @@
     - bergie
     - ihmis-suski
   id: c422e413-1160-4885-990c-226d0ae857f6
+  category: navigation
+- datetime: 2026-11-03T19:42:53.000Z
+  text: "Sails set: Main (2nd reef), Staysail. Wing on wing"
+  author: bergie
+  origin: auto
+  category: navigation
+  id: 2dd9315a-5910-471f-bf0c-7a11754f6df6
+  position:
+    latitude: -31.282548904418945
+    longitude: 176.0789031982422
+    source: Combined GPS/GLONASS
+  waypoint:
+    latitude: -30.791176
+    longitude: 176.138509
+  vhf: "16"
+  crewNames:
+    - bergie
+    - ihmis-suski
+  timestamp: 2026-11-03T19:44:08.686Z
+  heading: 226
+  course: 247
+  speed:
+    sog: 2.4
+    stw: 3
+  log: 20357.1
+  barometer: 1022.34
+  wind:
+    speed: 9.1
+    direction: 23
+  engine:
+    engines:
+      main:
+        hours: 1194.5
