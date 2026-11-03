@@ -357,3 +357,67 @@
     engines:
       main:
         hours: 1194.4872222222223
+- datetime: 2026-11-03T09:59:44.000Z
+  text: ""
+  author: ""
+  origin: auto
+  position:
+    latitude: -30.502527
+    longitude: 176.151492
+    source: GPS
+  heading: 201
+  course: 190
+  speed:
+    stw: 5.7
+    sog: 6.2
+  log: 20307.3
+  waypoint:
+    latitude: -30.344556
+    longitude: 176.205377
+  barometer: 1021.36
+  wind:
+    speed: 33.4
+    direction: 41
+  engine:
+    engines:
+      main:
+        hours: 1194.5
+    hours: 1194.5
+  vhf: "16"
+  crewNames:
+    - bergie
+    - ihmis-suski
+  id: b1656ca1-ee84-465c-b2e8-c91d523c3a41
+  category: navigation
+- datetime: 2026-11-03T10:07:40.998Z
+  text: "Sails set: Staysail"
+  author: ""
+  origin: auto
+  position:
+    latitude: -30.5170108
+    longitude: 176.1480746
+    source: GPS
+  heading: 215
+  course: 202
+  speed:
+    stw: 6.7
+    sog: 7.2
+  log: 20308.2
+  waypoint:
+    latitude: -30.344556
+    longitude: 176.205377
+  barometer: 1021.35
+  wind:
+    speed: 37.1
+    direction: 51
+  engine:
+    engines:
+      main:
+        hours: 1194.5
+    hours: 1194.5
+  vhf: "16"
+  crewNames:
+    - bergie
+    - ihmis-suski
+  category: navigation
+  id: 8e7a6720-b921-4b3e-977b-7986eb179d5e
