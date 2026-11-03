@@ -291,3 +291,37 @@
     - bergie
     - ihmis-suski
   id: f1673928-80c7-4321-be7c-d108989fd4b3
+  category: navigation
+- datetime: 2026-11-03T08:59:51.900Z
+  text: Rain, rain, rain. At least some of our salt encrustation is getting rinsed
+    off
+  author: bergie
+  origin: auto
+  id: 43a04238-b2b9-4b7d-9ee8-890d28304f20
+  category: navigation
+  position:
+    latitude: -30.3914826
+    longitude: 176.1858273
+    source: GPS
+  waypoint:
+    latitude: -30.344556
+    longitude: 176.205377
+  vhf: "16"
+  crewNames:
+    - bergie
+    - ihmis-suski
+  timestamp: 2026-11-03T09:04:01.519Z
+  heading: 207
+  course: 193
+  speed:
+    sog: 6.2
+    stw: 6.499999999999999
+  log: 20300.1
+  barometer: 1023.96
+  wind:
+    speed: 26.2
+    direction: 53
+  engine:
+    engines:
+      main:
+        hours: 1194.5
