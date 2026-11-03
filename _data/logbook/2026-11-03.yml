@@ -680,3 +680,39 @@
     - ihmis-suski
   category: navigation
   id: 75ec5df1-e278-4d16-b81c-455238e65a24
+- category: navigation
+  text: Gybed to starboard tack, which should carry us the rest of the way
+  observations:
+    seaState: 4
+    cloudCoverage: 7
+    visibility: 7
+  datetime: 2026-11-03T17:10:59.355Z
+  origin: manual
+  author: bergie
+  id: f530dcfe-22a4-44ee-9718-a7e89fa1dc0d
+  timestamp: 2026-11-03T17:10:59.458Z
+  heading: 214.99668304489012
+  course: 183.72464658664978
+  position:
+    latitude: -31.158607498804727
+    longitude: 176.14492950439453
+    source: GPS
+  speed:
+    sog: 4.004319654427645
+    stw: 4.260259179265659
+  waypoint:
+    latitude: -30.791176
+    longitude: 176.138509
+  wind:
+    speed: 18.75652889382827
+    direction: 359.23880796907486
+  barometer: 1021.3499755859375
+  log: 20348.461879049675
+  vhf: "16"
+  crewNames:
+    - bergie
+    - ihmis-suski
+  engine:
+    engines:
+      main:
+        hours: 1194.4872222222223
