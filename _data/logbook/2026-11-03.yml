@@ -197,33 +197,33 @@
       main:
         hours: 1194.5
 - category: navigation
-  text: Thunder
+  text: Thunder in the distance
   datetime: 2026-11-03T06:32:25.049Z
   origin: manual
   author: bergie
   id: 73beb6d1-95ce-4a07-b00c-de97cbe80c92
-  timestamp: 2026-11-03T06:32:25.095Z
-  heading: 217.00203532784798
-  course: 199.1314816977176
+  timestamp: 2026-11-03T06:46:07.597Z
   position:
     latitude: -30.1964385
     longitude: 176.280515
     source: GPS
-  speed:
-    sog: 4.004319654427645
-    stw: 5.266462403937916
   waypoint:
     latitude: -29.965813
     longitude: 176.441969
-  wind:
-    speed: 18.216462785753293
-    direction: 56.99295371826183
-  barometer: 1022.9099731445312
-  log: 20286.98617710583
   vhf: "16"
   crewNames:
     - bergie
     - ihmis-suski
+  heading: 217.00203532784798
+  course: 199.1314816977176
+  speed:
+    sog: 4.004319654427645
+    stw: 5.266462403937916
+  log: 20286.98617710583
+  barometer: 1022.9099731445312
+  wind:
+    speed: 18.216462785753293
+    direction: 56.99295371826183
   engine:
     engines:
       main:
