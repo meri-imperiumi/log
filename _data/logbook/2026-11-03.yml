@@ -325,3 +325,35 @@
     engines:
       main:
         hours: 1194.5
+- category: navigation
+  text: Gusting to 35kn
+  datetime: 2026-11-03T09:35:22.853Z
+  origin: manual
+  author: bergie
+  id: de3d0e4a-c65c-4351-9a82-8775663225c5
+  timestamp: 2026-11-03T09:35:21.499Z
+  heading: 207.99513878839144
+  course: 197.45271535798432
+  position:
+    latitude: -30.4554121
+    longitude: 176.1662221
+    source: GPS
+  speed:
+    sog: 7.4838012958963285
+    stw: 7.300718268119944
+  waypoint:
+    latitude: -30.344556
+    longitude: 176.205377
+  wind:
+    speed: 32.29943007576034
+    direction: 48.16648595860305
+  barometer: 1021.9600219726562
+  log: 20304.08930885529
+  vhf: "16"
+  crewNames:
+    - bergie
+    - ihmis-suski
+  engine:
+    engines:
+      main:
+        hours: 1194.4872222222223
