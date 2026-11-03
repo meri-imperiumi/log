@@ -487,3 +487,36 @@
     - bergie
     - ihmis-suski
   id: 13e7f0de-c341-46f2-a78d-967bed17febc
+  category: navigation
+- category: navigation
+  text: We are far enough south that barometer starts being a tool again
+  datetime: 2026-11-03T12:39:38.580Z
+  origin: manual
+  author: ihmis-suski
+  id: 16adaf9d-87d9-48ac-8126-80f59e402057
+  timestamp: 2026-11-03T12:39:34.311Z
+  heading: 180.99736748182704
+  course: 174.6375359558749
+  position:
+    latitude: -30.7797374
+    longitude: 176.1401391
+    source: GPS
+  speed:
+    sog: 6.317494600431964
+    stw: 5.00878999447486
+  waypoint:
+    latitude: -30.755574
+    longitude: 176.142022
+  wind:
+    speed: 25.913697928473763
+    direction: 28.86032394125922
+  barometer: 1021.1400146484375
+  log: 20324.570950323974
+  vhf: "16"
+  crewNames:
+    - bergie
+    - ihmis-suski
+  engine:
+    engines:
+      main:
+        hours: 1194.4872222222223
