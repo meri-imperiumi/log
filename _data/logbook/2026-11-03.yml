@@ -127,22 +127,33 @@
   id: 1868beff-9a77-414d-bda2-e669cb776671
   category: navigation
 - datetime: 2026-11-03T05:00:14.899Z
-  text: bergie on watch
-  author: ""
+  text: bergie on watch. Rain
+  author: bergie
   origin: auto
+  category: navigation
+  id: da0a8beb-e8af-40f8-81df-11d10860f2e3
   position:
     latitude: -30.077741
     longitude: 176.36971
     source: GPS
-  heading: 215
-  course: 226
-  speed:
-    stw: 5.5
-    sog: 5.8
-  log: 20278.2
   waypoint:
     latitude: -29.965813
     longitude: 176.441969
+  vhf: "16"
+  crewNames:
+    - bergie
+    - ihmis-suski
+  observations:
+    seaState: 4
+    cloudCoverage: 8
+    visibility: 6
+  timestamp: 2026-11-03T05:01:40.698Z
+  heading: 215
+  course: 226
+  speed:
+    sog: 5.8
+    stw: 5.5
+  log: 20278.2
   barometer: 1021.88
   wind:
     speed: 17.1
@@ -151,10 +162,3 @@
     engines:
       main:
         hours: 1194.5
-    hours: 1194.5
-  vhf: "16"
-  crewNames:
-    - bergie
-    - ihmis-suski
-  category: navigation
-  id: da0a8beb-e8af-40f8-81df-11d10860f2e3
