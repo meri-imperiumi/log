@@ -908,3 +908,35 @@
     engines:
       main:
         hours: 1194.4872222222223
+- category: navigation
+  text: Rain gave way to torrential rain
+  datetime: 2026-11-03T20:51:13.906Z
+  origin: manual
+  author: bergie
+  id: 5dc7a8af-3d5e-4226-934a-cb787ee13b69
+  timestamp: 2026-11-03T20:51:13.106Z
+  heading: 181.99431404535468
+  course: 168.36937767714372
+  position:
+    latitude: -31.3201743
+    longitude: 176.0427191
+    source: GPS
+  speed:
+    sog: 5.481641468682505
+    stw: 4.791802702295444
+  waypoint:
+    latitude: -30.791176
+    longitude: 176.138509
+  wind:
+    speed: 16.34198626044407
+    direction: 57.811080686634874
+  barometer: 1022.0700073242188
+  log: 20360.49211663067
+  vhf: "16"
+  crewNames:
+    - bergie
+    - ihmis-suski
+  engine:
+    engines:
+      main:
+        hours: 1194.4872222222223
