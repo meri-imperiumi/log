@@ -904,3 +904,35 @@
     - ihmis-suski
   category: navigation
   id: 45ff5103-6a9b-41f2-bad0-5df688422ccd
+- category: navigation
+  text: We just sailed past a plastic bottle, so land must be coming nearer
+  datetime: 2026-11-04T19:31:15.049Z
+  origin: manual
+  author: bergie
+  id: dd9f17c6-5c19-4542-aca6-ee094fec85d0
+  timestamp: 2026-11-04T19:31:14.686Z
+  heading: 189.9985344433323
+  course: 198.25485627116745
+  position:
+    latitude: -32.7930234
+    longitude: 175.4052254
+    source: GPS
+  speed:
+    sog: 5.792656587473002
+    stw: 6.175096689939221
+  waypoint:
+    latitude: -32.670653
+    longitude: 175.538086
+  wind:
+    speed: 14.749683861717353
+    direction: 312.75030455459074
+  barometer: 1019.4500122070312
+  log: 20460.491036717063
+  vhf: "16"
+  crewNames:
+    - bergie
+    - ihmis-suski
+  engine:
+    engines:
+      main:
+        hours: 1194.4872222222223
