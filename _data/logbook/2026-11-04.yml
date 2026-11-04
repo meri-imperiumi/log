@@ -936,3 +936,35 @@
     engines:
       main:
         hours: 1194.4872222222223
+- datetime: 2026-11-04T19:48:20.998Z
+  text: "Sails set: Main, Genoa 1"
+  author: ""
+  origin: auto
+  position:
+    latitude: -32.812815
+    longitude: 175.4037648
+    source: GPS
+  heading: 200
+  course: 203
+  speed:
+    stw: 4.1
+    sog: 3.9
+  log: 20461.8
+  waypoint:
+    latitude: -32.670653
+    longitude: 175.538086
+  barometer: 1019.43
+  wind:
+    speed: 6.5
+    direction: 314
+  engine:
+    engines:
+      main:
+        hours: 1194.5
+    hours: 1194.5
+  vhf: "16"
+  crewNames:
+    - bergie
+    - ihmis-suski
+  category: navigation
+  id: e8683aed-e978-4007-9c47-6330ffad0bcf
