@@ -93,3 +93,36 @@
     - bergie
     - ihmis-suski
   id: c3fe6cf7-610b-4e9d-a37e-31981c0573a3
+  category: navigation
+- category: navigation
+  text: Gybed
+  datetime: 2026-11-04T02:15:57.668Z
+  origin: manual
+  author: ihmis-suski
+  id: 41207f1e-db13-4844-9976-5f1c50c939ae
+  timestamp: 2026-11-04T02:15:52.734Z
+  heading: 238.99788508292028
+  course: 213.16321810047148
+  position:
+    latitude: -31.7128603
+    longitude: 176.0131251
+    source: GPS
+  speed:
+    sog: 3.615550755939526
+    stw: 3.952483801295896
+  waypoint:
+    latitude: -31.690844
+    longitude: 176.016514
+  wind:
+    speed: 13.663152298559122
+    direction: 16.382052029966598
+  barometer: 1019.6699829101562
+  log: 20385.380345572354
+  vhf: "16"
+  crewNames:
+    - bergie
+    - ihmis-suski
+  engine:
+    engines:
+      main:
+        hours: 1194.4872222222223
