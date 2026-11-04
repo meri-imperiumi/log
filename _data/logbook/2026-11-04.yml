@@ -970,21 +970,30 @@
   id: e8683aed-e978-4007-9c47-6330ffad0bcf
 - datetime: 2026-11-04T19:59:47.001Z
   text: ""
-  author: ""
+  author: bergie
   origin: auto
+  id: 280f10e2-30f6-40c4-976a-2c522ef87550
+  category: navigation
   position:
     latitude: -32.8259759
     longitude: 175.3919789
     source: GPS
-  heading: 213
-  course: 217
-  speed:
-    stw: 5.1
-    sog: 5.2
-  log: 20462.8
   waypoint:
     latitude: -32.670653
     longitude: 175.538086
+  vhf: "16"
+  crewNames:
+    - bergie
+    - ihmis-suski
+  observations:
+    cloudCoverage: 6
+  timestamp: 2026-11-04T20:22:26.135Z
+  heading: 213
+  course: 217
+  speed:
+    sog: 5.2
+    stw: 5.1
+  log: 20462.8
   barometer: 1019.46
   wind:
     speed: 10.3
@@ -993,9 +1002,3 @@
     engines:
       main:
         hours: 1194.5
-    hours: 1194.5
-  vhf: "16"
-  crewNames:
-    - bergie
-    - ihmis-suski
-  id: 280f10e2-30f6-40c4-976a-2c522ef87550
