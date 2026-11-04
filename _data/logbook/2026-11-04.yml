@@ -1,0 +1,32 @@
+- category: maintenance
+  text: Watermaker stopped 226ppm
+  datetime: 2026-11-04T00:31:50.491Z
+  origin: manual
+  author: ihmis-suski
+  id: 7330193e-ded8-4d02-89a7-4803cb1edb07
+  timestamp: 2026-11-04T00:31:45.652Z
+  heading: 208.99781492987037
+  course: 188.36560472720944
+  position:
+    latitude: -31.6003703
+    longitude: 176.0271474
+    source: GPS
+  speed:
+    sog: 4.431965442764578
+    stw: 3.952483801295896
+  waypoint:
+    latitude: -31.503191
+    longitude: 176.05524
+  wind:
+    speed: 13.631049344542582
+    direction: 65.36122094491459
+  barometer: 1021.0999755859375
+  log: 20378.016954643626
+  vhf: "16"
+  crewNames:
+    - bergie
+    - ihmis-suski
+  engine:
+    engines:
+      main:
+        hours: 1194.4872222222223
