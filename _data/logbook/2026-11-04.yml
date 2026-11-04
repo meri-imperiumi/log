@@ -803,3 +803,40 @@
     - bergie
     - ihmis-suski
   id: 9d4529ec-67f3-4b79-b8f0-80d09e09908f
+  category: navigation
+- category: navigation
+  text: Drizzle
+  observations:
+    seaState: 4
+    cloudCoverage: 8
+    visibility: 5
+  datetime: 2026-11-04T18:50:59.899Z
+  origin: manual
+  author: bergie
+  id: 8fd2b42d-8d10-458f-846a-88ec48802039
+  timestamp: 2026-11-04T18:51:00.801Z
+  heading: 204.99856951985726
+  course: 219.0818721241729
+  position:
+    latitude: -32.7465623219808
+    longitude: 175.4419368426005
+    source: GPS
+  speed:
+    sog: 5.1317494600431965
+    stw: 3.677105831533477
+  waypoint:
+    latitude: -32.670653
+    longitude: 175.538086
+  wind:
+    speed: 9.810663696617025
+    direction: 340.19658951646824
+  barometer: 1019.3900146484375
+  log: 20457.07311015119
+  vhf: "16"
+  crewNames:
+    - bergie
+    - ihmis-suski
+  engine:
+    engines:
+      main:
+        hours: 1194.4872222222223
