@@ -445,3 +445,38 @@
     - bergie
     - ihmis-suski
   id: 2d81d32a-9df3-4984-9b00-3e203313e6b1
+  category: navigation
+- category: navigation
+  text: Fog
+  observations:
+    visibility: 3
+  datetime: 2026-11-04T10:29:32.843Z
+  origin: manual
+  author: bergie
+  id: ffdb7c0f-8a75-4df9-bc1c-6503582443cf
+  timestamp: 2026-11-04T10:29:32.595Z
+  heading: 193.99777985334543
+  course: 224.64529231489317
+  position:
+    latitude: -32.26912749608358
+    longitude: 175.70873730977377
+    source: GPS
+  speed:
+    sog: 4.665226781857451
+    stw: 3.434771718648211
+  waypoint:
+    latitude: -31.741685
+    longitude: 175.993027
+  wind:
+    speed: 10.900054717231598
+    direction: 339.16619779578525
+  barometer: 1020.530029296875
+  log: 20423.29557235421
+  vhf: "16"
+  crewNames:
+    - bergie
+    - ihmis-suski
+  engine:
+    engines:
+      main:
+        hours: 1194.4872222222223
