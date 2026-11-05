@@ -946,3 +946,35 @@
     engines:
       main:
         hours: 1194.4872222222223
+- category: navigation
+  text: "Wind shift, so wing on wing again "
+  datetime: 2026-11-05T21:43:17.750Z
+  origin: manual
+  author: bergie
+  id: dc0d22b3-f2cb-4089-82f1-2dcd436b92c7
+  timestamp: 2026-11-05T21:43:30.480Z
+  heading: 204.99856951985726
+  course: 194.4389573555962
+  position:
+    latitude: -34.3339161
+    longitude: 174.5268938
+    source: GPS
+  speed:
+    sog: 5.1317494600431965
+    stw: 5.7207795469385685
+  waypoint:
+    latitude: -33.93357
+    longitude: 174.663287
+  wind:
+    speed: 14.929626764246233
+    direction: 350.79913964679787
+  barometer: 1018.489990234375
+  log: 20572.960259179265
+  vhf: "16"
+  crewNames:
+    - bergie
+    - ihmis-suski
+  engine:
+    engines:
+      main:
+        hours: 1194.4872222222223
