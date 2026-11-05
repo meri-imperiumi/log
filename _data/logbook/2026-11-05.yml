@@ -521,3 +521,36 @@
     - bergie
     - ihmis-suski
   id: 6d991b42-7521-4a1d-8a90-70c5c67b5b75
+  category: navigation
+- category: navigation
+  text: 99 mlles to Opua customs dock!
+  datetime: 2026-11-05T13:45:03.639Z
+  origin: manual
+  author: ihmis-suski
+  id: ceddc860-1285-4c9e-9688-96656c9a6fca
+  timestamp: 2026-11-05T13:45:02.844Z
+  heading: 172.99887666180078
+  course: 196.3984730149436
+  position:
+    latitude: -33.7791851
+    longitude: 174.6675931
+    source: GPS
+  speed:
+    sog: 5.753779697624189
+    stw: 5.605505047968254
+  waypoint:
+    latitude: -33.689331
+    longitude: 174.675637
+  wind:
+    speed: 14.293751891910112
+    direction: 331.3470997273079
+  barometer: 1017.3699951171875
+  log: 20536.789632829372
+  vhf: "16"
+  crewNames:
+    - bergie
+    - ihmis-suski
+  engine:
+    engines:
+      main:
+        hours: 1194.4872222222223
