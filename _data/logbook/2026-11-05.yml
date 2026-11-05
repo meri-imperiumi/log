@@ -753,3 +753,36 @@
     - bergie
     - ihmis-suski
   id: 8a5f1df2-91b0-466f-aa5c-874522772498
+  category: navigation
+- category: navigation
+  text: Back to wing on wing
+  datetime: 2026-11-05T18:21:46.567Z
+  origin: manual
+  author: bergie
+  id: ab6a7146-1de4-46d2-b977-ae0478d7d3c7
+  timestamp: 2026-11-05T18:21:46.542Z
+  heading: 183.99966632831254
+  course: 202.65517213777218
+  position:
+    latitude: -34.0915376
+    longitude: 174.5880318
+    source: GPS
+  speed:
+    sog: 3.2656587473002157
+    stw: 3.7499999999999996
+  waypoint:
+    latitude: -33.93357
+    longitude: 174.663287
+  wind:
+    speed: 12.918224903256782
+    direction: 330.7112393495112
+  barometer: 1017.52001953125
+  log: 20557.171382289416
+  vhf: "16"
+  crewNames:
+    - bergie
+    - ihmis-suski
+  engine:
+    engines:
+      main:
+        hours: 1194.4872222222223
