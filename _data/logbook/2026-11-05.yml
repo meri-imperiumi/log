@@ -649,3 +649,40 @@
     - bergie
     - ihmis-suski
   id: 0ee9afac-79fa-4192-98c1-bcb223100481
+  category: navigation
+- category: navigation
+  text: Took sail to port side, not enough wind for wing on wing
+  observations:
+    seaState: 4
+    cloudCoverage: 6
+    visibility: 7
+  datetime: 2026-11-05T16:36:23.547Z
+  origin: manual
+  author: ihmis-suski
+  id: 1599453e-e319-4ca3-8dd5-4f777d8e6376
+  timestamp: 2026-11-05T16:36:22.661Z
+  heading: 200.00237754631647
+  course: 213.61585475862483
+  position:
+    latitude: -33.969532
+    longitude: 174.6488641
+    source: GPS
+  speed:
+    sog: 3.790496760259179
+    stw: 3.8633909287257033
+  waypoint:
+    latitude: -33.93357
+    longitude: 174.663287
+  wind:
+    speed: 10.573744850786802
+    direction: 337.27283940947405
+  barometer: 1016.7100219726562
+  log: 20548.802591792657
+  vhf: "16"
+  crewNames:
+    - bergie
+    - ihmis-suski
+  engine:
+    engines:
+      main:
+        hours: 1194.4872222222223
