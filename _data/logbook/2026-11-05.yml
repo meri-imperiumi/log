@@ -817,3 +817,36 @@
     - bergie
     - ihmis-suski
   id: b0ea91e8-8485-41c6-a7bf-e2aad6813679
+  category: navigation
+- category: navigation
+  text: Back to starboard tack on the genoa
+  datetime: 2026-11-05T19:56:41.105Z
+  origin: manual
+  author: bergie
+  id: d2e325a6-e236-445d-921f-4fd08d7bd356
+  timestamp: 2026-11-05T19:56:40.158Z
+  heading: 213.99973648136248
+  course: 225.6365093004695
+  position:
+    latitude: -34.2048503
+    longitude: 174.5924004
+    source: GPS
+  speed:
+    sog: 4.412526997840173
+    stw: 5.578381636445827
+  waypoint:
+    latitude: -33.93357
+    longitude: 174.663287
+  wind:
+    speed: 14.48249803189811
+    direction: 333.33665656899575
+  barometer: 1018.3599853515625
+  log: 20564.313390928724
+  vhf: "16"
+  crewNames:
+    - bergie
+    - ihmis-suski
+  engine:
+    engines:
+      main:
+        hours: 1194.4872222222223
