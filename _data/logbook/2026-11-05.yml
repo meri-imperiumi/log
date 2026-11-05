@@ -881,3 +881,68 @@
     - bergie
     - ihmis-suski
   id: 487daf28-693c-4963-9275-ac5f51753997
+  category: navigation
+- datetime: 2026-11-05T20:59:38.502Z
+  text: ""
+  author: ""
+  origin: auto
+  position:
+    latitude: -34.2830933
+    longitude: 174.5526374
+    source: GPS
+  heading: 213
+  course: 201
+  speed:
+    stw: 5.9
+    sog: 4.1
+  log: 20569.6
+  waypoint:
+    latitude: -33.93357
+    longitude: 174.663287
+  barometer: 1018.55
+  wind:
+    speed: 17.2
+    direction: 343
+  engine:
+    engines:
+      main:
+        hours: 1194.5
+    hours: 1194.5
+  vhf: "16"
+  crewNames:
+    - bergie
+    - ihmis-suski
+  id: fee45b0b-a8d5-4575-b57a-e4c53470a15e
+  category: navigation
+- category: navigation
+  text: The bird that flew past might have been an albatross. Big.
+  datetime: 2026-11-05T21:13:35.211Z
+  origin: manual
+  author: bergie
+  id: b7e72f9a-7a7c-4c50-bb04-271ad8033aef
+  timestamp: 2026-11-05T21:13:35.259Z
+  heading: 195.00045599482436
+  course: 203.1593749974873
+  position:
+    latitude: -34.2991041
+    longitude: 174.5457834
+    source: GPS
+  speed:
+    sog: 5.4427645788336925
+    stw: 5.5309156662815795
+  waypoint:
+    latitude: -33.93357
+    longitude: 174.663287
+  wind:
+    speed: 16.60244080407202
+    direction: 340.378193089203
+  barometer: 1018.3599853515625
+  log: 20570.62062634989
+  vhf: "16"
+  crewNames:
+    - bergie
+    - ihmis-suski
+  engine:
+    engines:
+      main:
+        hours: 1194.4872222222223
