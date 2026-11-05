@@ -1009,3 +1009,36 @@
     - bergie
     - ihmis-suski
   id: 2de8524e-cfa2-4cca-980e-11fab5201e7e
+  category: navigation
+- category: navigation
+  text: Orca came to check us out
+  datetime: 2026-11-05T22:41:20.624Z
+  origin: manual
+  author: bergie
+  id: 901c9c9f-0185-48c1-9366-2acd89c34dee
+  timestamp: 2026-11-05T22:41:19.697Z
+  heading: 170.9992539567942
+  course: 159.6718783470578
+  position:
+    latitude: -34.3999869
+    longitude: 174.5015249
+    source: GPS
+  speed:
+    sog: 4.3542116630669545
+    stw: 5.02913255311668
+  waypoint:
+    latitude: -34.339474
+    longitude: 174.527244
+  wind:
+    speed: 10.557051171070865
+    direction: 338.46184005193743
+  barometer: 1017.780029296875
+  log: 20577.356587473
+  vhf: "16"
+  crewNames:
+    - bergie
+    - ihmis-suski
+  engine:
+    engines:
+      main:
+        hours: 1194.4872222222223
