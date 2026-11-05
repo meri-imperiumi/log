@@ -364,7 +364,7 @@
   origin: manual
   author: bergie
   id: 6d0fea28-69e7-4afd-9541-04d1b3b39da4
-  timestamp: 2026-11-05T09:09:13.946Z
+  timestamp: 2026-11-05T09:39:42.020Z
   position:
     latitude: -33.467743
     longitude: 174.7120283
@@ -372,11 +372,14 @@
   waypoint:
     latitude: -33.29317
     longitude: 174.937374
-  observations: {}
   vhf: "16"
   crewNames:
     - bergie
     - ihmis-suski
+  observations:
+    cloudCoverage: 1
+    seaState: 4
+    visibility: 7
   heading: 161.00114043176134
   course: 177.7486967834353
   speed:
