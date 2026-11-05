@@ -261,3 +261,36 @@
     - bergie
     - ihmis-suski
   id: 9e1fd09a-e1c6-4a4d-a9b9-0d65baff2790
+  category: navigation
+- category: navigation
+  text: Cargo ship Epic C passing behind at 7NM. Lights visible
+  datetime: 2026-11-05T07:55:09.563Z
+  origin: manual
+  author: bergie
+  id: 7178dd0e-afa0-43f5-a250-da99a3002f21
+  timestamp: 2026-11-05T07:55:09.076Z
+  heading: 200.00237754631647
+  course: 224.4676753984026
+  position:
+    latitude: -33.3993005
+    longitude: 174.7763179
+    source: GPS
+  speed:
+    sog: 5.092872570194384
+    stw: 4.3917323823396455
+  waypoint:
+    latitude: -33.29317
+    longitude: 174.937374
+  wind:
+    speed: 10.269535593569813
+    direction: 317.71350931056685
+  barometer: 1018.5
+  log: 20511.70809935205
+  vhf: "16"
+  crewNames:
+    - bergie
+    - ihmis-suski
+  engine:
+    engines:
+      main:
+        hours: 1194.4872222222223
