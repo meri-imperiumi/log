@@ -354,3 +354,36 @@
     - bergie
     - ihmis-suski
   id: 0d035286-4d52-43cd-8c6c-9af7d41cdc84
+  category: navigation
+- category: navigation
+  text: Maersk Rio Blanco crossing our stern at 6NM, lights visible
+  datetime: 2026-11-06T08:36:47.731Z
+  origin: manual
+  author: bergie
+  id: 19a4d0f3-8ddc-4289-8e99-7d42b3e08472
+  timestamp: 2026-11-06T08:36:47.802Z
+  heading: 206.00124566133618
+  course: 191.20747539105832
+  position:
+    latitude: -35.0862436
+    longitude: 174.2095448
+    source: GPS
+  speed:
+    sog: 4.548596112311015
+    stw: 3.84719222462203
+  waypoint:
+    latitude: -34.963751
+    longitude: 174.241414
+  wind:
+    speed: 12.714710408002386
+    direction: 346.3357984227288
+  barometer: 1015.0399780273438
+  log: 20622.966198704104
+  vhf: "16"
+  crewNames:
+    - bergie
+    - ihmis-suski
+  engine:
+    engines:
+      main:
+        hours: 1194.4872222222223
