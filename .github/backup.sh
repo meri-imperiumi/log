@@ -77,8 +77,10 @@ if [ -n "$UNIQUE_IMAGES" ]; then
             target_dir=$(dirname "$img_path")
 
             echo "Converting image: $filename -> ${basename_noext}.webp"
-            # Use 'convert' instead of 'magick' for ImageMagick v6 compatibility
-            convert "$img_path" -resize "1024x1024>" -quality 80 "$target_dir/${basename_noext}.webp"
+            # Use 'convert' instead of 'magick' for ImageMagick v6 compatibility.
+            # -auto-orient bakes in the EXIF rotation, otherwise portrait
+            # shots come out sideways since WebP keeps no orientation tag.
+            convert "$img_path" -auto-orient -resize "1024x1024>" -quality 80 "$target_dir/${basename_noext}.webp"
 
             # Update markdown references across VALID_MDS
             for md in "${VALID_MDS[@]}"; do
