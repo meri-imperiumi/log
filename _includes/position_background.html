@@ -21,9 +21,11 @@
       // instead and re-place on resize (orientation changes).
       function placeBoat() {
         const container = document.getElementById('map');
-        const target = [container.clientWidth * 0.3, container.clientHeight * 0.75];
-        const atTarget = map.unproject(target);
-        map.setCenter(centerForBoatAt(position, [atTarget.lng, atTarget.lat]));
+        const center = boatCenter(position, map.getZoom(), [
+          container.clientWidth * 0.3 - container.clientWidth / 2,
+          container.clientHeight * 0.75 - container.clientHeight / 2,
+        ]);
+        map.setCenter(center);
       }
       placeBoat();
       window.addEventListener('resize', placeBoat);

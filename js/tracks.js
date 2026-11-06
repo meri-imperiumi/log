@@ -5,15 +5,20 @@
 // MapLibre draws as a line wrapping around the globe. Shifting the
 // longitudes beyond ±180° instead lets the map place the line on the
 // adjacent world copy, so it stays continuous.
-// Computes the map center that places the vessel at a chosen screen
-// position: the boat renders at the screen point whose geographic
-// location is geoAtTarget, so mirror it around the vessel position.
-// Mercator is linear in longitude; the latitude part is exact enough at
-// the small offsets used here.
-function centerForBoatAt(position, geoAtTarget) {
+// Computes the map center that places the vessel at a given screen
+// position, expressed as pixel offset from the map's center point. At
+// zoom z the whole world is 512*2^z pixels wide. The mercator latitude
+// helper here grows northwards, so a pixel delta pointing down the
+// screen (positive dY) moves the center north. Purely absolute: the
+// result depends only on the vessel position, zoom and pixel delta, so
+// it stays correct when re-applied after resizes.
+function boatCenter(position, zoom, pixelDelta) {
+  const worldSize = 512 * Math.pow(2, zoom);
+  const mercY = (lat) => Math.log(Math.tan(Math.PI / 4 + (lat * Math.PI / 180) / 2));
+  const unmercY = (m) => (2 * Math.atan(Math.exp(m)) - Math.PI / 2) * 180 / Math.PI;
   return [
-    position[0] + (position[0] - geoAtTarget[0]),
-    position[1] + (position[1] - geoAtTarget[1]),
+    position[0] - pixelDelta[0] * 360 / worldSize,
+    unmercY(mercY(position[1]) + pixelDelta[1] * 2 * Math.PI / worldSize),
   ];
 }
 
