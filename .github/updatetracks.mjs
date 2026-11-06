@@ -117,6 +117,41 @@ function ensurePositionMeta(entry, trackName) {
     });
 }
 
+const signalKUrl = 'http://192.168.2.105';
+const historyResolutionSeconds = 180;
+
+// Reads the vessel track for an exact time window from the Signal K
+// History API (no auth needed) and shapes it like the old tracks plugin
+// response, so the cleanup and position update steps work the same as
+// before. Sampled per resolution tick to keep responses sane; the
+// distance filter below then removes anchor sway and jumps.
+function fetchHistoryTrack(from, to) {
+  const url = `${signalKUrl}/signalk/v2/api/history/values?paths=navigation.position&from=${from.toISOString()}&to=${to.toISOString()}&resolution=${historyResolutionSeconds}`;
+  return fetch(url)
+    .then((r) => {
+      if (!r.ok) {
+        throw new Error(`${r.status} ${r.statusText}`);
+      }
+      return r.json();
+    })
+    .then((history) => {
+      const points = (history.data || [])
+        .map((row) => row[1])
+        .filter((point) => Array.isArray(point)
+          && Number.isFinite(point[0])
+          && Number.isFinite(point[1]));
+      if (points.length === 0) {
+        console.error('History API returned no position samples');
+        return null;
+      }
+      console.log(`History API gave ${points.length} position samples`);
+      return {
+        type: 'MultiLineString',
+        coordinates: [points],
+      };
+    });
+}
+
 function ensureTrack(entry, tracks) {
   const trackName = entry.trackname;
   if (tracks.indexOf(trackName) !== -1) {
@@ -135,16 +170,14 @@ function ensureTrack(entry, tracks) {
     // Here we don't look for "intermission" posts since they're not in SK history
     return Promise.resolve();
   }
-  // Ask for the exact window instead of a lookback from "now" so the
-  // result does not depend on when the backup happens to run.
-  // NB: tracks plugin 3.x hardwires timespanOffset to hours and rejects
-  // unit-suffixed values, so explicit from/to is the robust choice.
-  const url = `http://192.168.2.105/signalk/v1/api/self/track?from=${entry.from.toISOString()}&to=${entry.to.toISOString()}&resolution=3m`;
-  return fetch(url)
-    .then((r) => r.json())
+  return fetchHistoryTrack(entry.from, entry.to)
+    .catch((e) => {
+      console.error(`History API fetch failed: ${e.message}`);
+      return null;
+    })
     .then((geoJson) => {
       if (!geoJson || !geoJson.coordinates) {
-        console.error(`No track data returned for ${trackName}, not writing: ${JSON.stringify(geoJson).substring(0, 200)}`);
+        console.error(`No track data returned for ${trackName}, not writing`);
         return null;
       }
       // Clean up the track to remove 'anchor sway' etc
@@ -180,9 +213,9 @@ function ensureTrack(entry, tracks) {
       return newData;
     })
     .then((geoJson) => {
-      if (!geoJson) {
-        // API returned no usable data; leave the track absent so it is
-        // retried on the next run
+      if (!geoJson || !geoJson.coordinates[0] || geoJson.coordinates[0].length === 0) {
+        // No usable data; leave the track absent so it is retried on
+        // the next run
         return Promise.resolve();
       }
       return writeFile(resolve(trackDir, trackName), JSON.stringify(geoJson, null, 2))
@@ -192,7 +225,8 @@ function ensureTrack(entry, tracks) {
     });
 }
 
-readdir(logDir)
+function main() {
+  return readdir(logDir)
   .then((names) => {
     // For each [b]log entry we need to find out:
     // - Is it an entry with distance (aka. a trip blog)
@@ -222,13 +256,15 @@ readdir(logDir)
           });
         }, Promise.resolve())
           .then(() => {
-            // Produce also a "current" for tracks since latest blog post
+            // Produce also a "current" for tracks since latest blog post.
+            // Take current.json off the "already have it" list so it is
+            // re-fetched and overwritten on every run.
             return ensureTrack({
               from: entries[entries.length - 1].to,
               to: new Date(),
               trackname: 'current.json',
               trip: true,
-            }, tracks);
+            }, tracks.filter((name) => name !== 'current.json'));
           });
       })
       .then(() => {
@@ -287,3 +323,10 @@ readdir(logDir)
           });
       });
   });
+}
+
+if (process.argv[1] && import.meta.url === new URL(`file://${process.argv[1]}`).href) {
+  main();
+}
+
+export { fetchHistoryTrack };
