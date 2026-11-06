@@ -4,22 +4,34 @@
   <script defer src="https://unpkg.com/maplibre-gl@5.24.0/dist/maplibre-gl.js"></script>
   <script>
     window.addEventListener('DOMContentLoaded', function() {
+      const position = [{{ site.data.position.longitude }}, {{ site.data.position.latitude }}];
       const map = new maplibregl.Map({
         container: 'map',
         style: '{{ site.map_style }}',
-        {% if site.ocean_mode %}
-        center: [{{ site.data.position.longitude | plus: 0.2 }}, {{ site.data.position.latitude | plus: 6.5 }}],
-        zoom: 3,
-        {% else %}
-        center: [{{ site.data.position.longitude | plus: 0.2 }}, {{ site.data.position.latitude | plus: 0.8 }}],
-        zoom: 7,
-        {% endif %}
+        center: position,
+        zoom: {% if site.ocean_mode %}3{% else %}7{% endif %},
+        scrollZoom: false,
       });
+
+      // Keep the boat in the clear bottom-left area of the map: the
+      // intro copy covers the middle, the position chip sits
+      // bottom-right and the support banner hangs top-right. A fixed
+      // geographic offset puts the boat under the banners in some
+      // viewport orientations, so place it at a fixed screen position
+      // instead and re-place on resize (orientation changes).
+      function placeBoat() {
+        const container = document.getElementById('map');
+        const target = [container.clientWidth * 0.3, container.clientHeight * 0.75];
+        const atTarget = map.unproject(target);
+        map.setCenter(centerForBoatAt(position, [atTarget.lng, atTarget.lat]));
+      }
+      placeBoat();
+      window.addEventListener('resize', placeBoat);
 
       const marker = new maplibregl.Marker({
           element: document.getElementById('boatmarker'),
         })
-        .setLngLat([{{ site.data.position.longitude }}, {{ site.data.position.latitude }}])
+        .setLngLat(position)
         .addTo(map);
     });
   </script>
