@@ -194,3 +194,67 @@
     engines:
       main:
         hours: 1194.5
+- datetime: 2026-11-06T05:59:24.099Z
+  text: ""
+  author: ""
+  origin: auto
+  position:
+    latitude: -34.9311958
+    longitude: 174.24765
+    source: GPS
+  heading: 209
+  course: 187
+  speed:
+    stw: 5.5
+    sog: 5.6
+  log: 20613.1
+  waypoint:
+    latitude: -34.51319
+    longitude: 174.483462
+  barometer: 1014.07
+  wind:
+    speed: 16
+    direction: 356
+  engine:
+    engines:
+      main:
+        hours: 1194.5
+    hours: 1194.5
+  vhf: "16"
+  crewNames:
+    - bergie
+    - ihmis-suski
+  id: 269199c7-b941-4250-9c4f-704d0750664c
+- category: radio
+  text: Contacted Taupo Maritime Radio on 6215 kHz (and follow-up VHF 67),
+    received "Welcome to New Zealand"
+  datetime: 2026-11-06T06:01:16.667Z
+  origin: manual
+  author: bergie
+  id: 848087d3-aa4e-4bfd-a488-154b044833e0
+  timestamp: 2026-11-06T06:01:18.626Z
+  heading: 217.00203532784798
+  course: 202.09940307649526
+  position:
+    latitude: -34.9321886
+    longitude: 174.2470414
+    source: GPS
+  speed:
+    sog: 3.615550755939526
+    stw: 5.313928374102164
+  waypoint:
+    latitude: -34.51319
+    longitude: 174.483462
+  wind:
+    speed: 15.47008227562394
+    direction: 4.153006857563569
+  barometer: 1014.0900268554688
+  log: 20613.149244060474
+  vhf: "16"
+  crewNames:
+    - bergie
+    - ihmis-suski
+  engine:
+    engines:
+      main:
+        hours: 1194.4872222222223
