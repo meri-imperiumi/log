@@ -418,3 +418,100 @@
     - bergie
     - ihmis-suski
   id: f35ac8e5-c3d5-41cb-b0b8-2c247b657403
+  category: navigation
+- datetime: 2026-11-06T09:47:22.099Z
+  text: Sails down, motoring
+  author: ""
+  origin: auto
+  position:
+    latitude: -35.1526549
+    longitude: 174.1786378
+    source: GPS
+  heading: 191
+  course: 193
+  speed:
+    stw: 2.7
+    sog: 3
+  log: 20627.6
+  waypoint:
+    latitude: -34.963751
+    longitude: 174.241414
+  barometer: 1015.05
+  wind:
+    speed: 8.9
+    direction: 341
+  engine:
+    engines:
+      main:
+        hours: 1194.5
+    hours: 1194.5
+  vhf: "16"
+  crewNames:
+    - bergie
+    - ihmis-suski
+  category: navigation
+  id: 6043af50-1b08-40d3-b711-af48051c14e3
+- datetime: 2026-11-06T09:48:21.100Z
+  text: Motor stopped, sailing with Main (2nd reef), Staysail
+  author: ""
+  origin: auto
+  position:
+    latitude: -35.1533954
+    longitude: 174.1785335
+    source: GPS
+  heading: 173
+  course: 179
+  speed:
+    stw: 2.6
+    sog: 2.6
+  log: 20627.6
+  waypoint:
+    latitude: -34.963751
+    longitude: 174.241414
+  barometer: 1015.01
+  wind:
+    speed: 8.5
+    direction: 352
+  engine:
+    engines:
+      main:
+        hours: 1194.5
+    hours: 1194.5
+  vhf: "16"
+  crewNames:
+    - bergie
+    - ihmis-suski
+  category: navigation
+  id: 5b96e438-4e63-44a4-9b58-942ea8f506f0
+- datetime: 2026-11-06T09:50:03.100Z
+  text: Sails down, motoring
+  author: ""
+  origin: auto
+  position:
+    latitude: -35.1545876
+    longitude: 174.1781268
+    source: GPS
+  heading: 173
+  course: 203
+  speed:
+    stw: 2.7
+    sog: 2.7
+  log: 20627.7
+  waypoint:
+    latitude: -34.963751
+    longitude: 174.241414
+  barometer: 1015.02
+  wind:
+    speed: 10.5
+    direction: 348
+  engine:
+    engines:
+      main:
+        hours: 1194.5
+    hours: 1194.5
+  vhf: "16"
+  crewNames:
+    - bergie
+    - ihmis-suski
+  category: navigation
+  id: f6476142-07a1-4be8-b2be-5ec12a80d390
