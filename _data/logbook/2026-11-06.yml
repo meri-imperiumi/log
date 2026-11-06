@@ -644,3 +644,67 @@
   end: true
   category: navigation
   id: 8d509152-bd20-4b30-a5e4-1b0082788270
+- datetime: 2026-11-06T22:50:16.601Z
+  text: Started main engine
+  author: ""
+  origin: auto
+  position:
+    latitude: -35.3136188
+    longitude: 174.1225623
+    source: GPS
+  heading: 204
+  course: 310
+  speed:
+    stw: 0
+    sog: 0
+  log: 1898.3
+  waypoint:
+    latitude: -35.31321
+    longitude: 174.122333
+  barometer: 1013.19
+  wind:
+    speed: 12.3
+    direction: 40
+  engine:
+    engines:
+      main:
+        hours: 1196.8
+    hours: 1196.8
+  vhf: "73"
+  crewNames:
+    - bergie
+    - ihmis-suski
+  category: navigation
+  id: 08d3adf9-9d0f-4451-bbcf-c864ece936b5
+- datetime: 2026-11-06T22:57:23.596Z
+  text: Motoring
+  author: ""
+  origin: auto
+  position:
+    latitude: -35.314638
+    longitude: 174.1226615
+    source: GPS
+  heading: 177
+  course: 176
+  speed:
+    stw: 2.1
+    sog: 1.8
+  log: 1898.3
+  waypoint:
+    latitude: -35.31321
+    longitude: 174.122333
+  barometer: 1013.22
+  wind:
+    speed: 13
+    direction: 2
+  engine:
+    engines:
+      main:
+        hours: 1196.9
+    hours: 1196.9
+  vhf: "73"
+  crewNames:
+    - bergie
+    - ihmis-suski
+  category: navigation
+  id: a747dd9b-eba5-4379-94b8-538f1f474b96
