@@ -29,3 +29,36 @@
     - bergie
     - ihmis-suski
   id: 07cd4783-ca41-47bd-b2c4-92cb1dc0e8b1
+  category: navigation
+- datetime: 2026-11-06T01:37:57.600Z
+  text: "Sails set: Main (2nd reef), Staysail. Thunder coming closer"
+  author: bergie
+  origin: auto
+  category: navigation
+  id: 38c93ca6-3218-491e-b268-535bba60f40a
+  position:
+    latitude: -34.6369933
+    longitude: 174.4353281
+    source: GPS
+  waypoint:
+    latitude: -34.51319
+    longitude: 174.483462
+  vhf: "16"
+  crewNames:
+    - bergie
+    - ihmis-suski
+  timestamp: 2026-11-06T01:38:08.695Z
+  heading: 210.00000000000003
+  course: 206
+  speed:
+    sog: 5.4
+    stw: 4.9
+  log: 20592.3
+  barometer: 1016.52
+  wind:
+    speed: 16.8
+    direction: 350
+  engine:
+    engines:
+      main:
+        hours: 1194.5
