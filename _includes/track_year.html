@@ -5,6 +5,7 @@
   <div class="map" id="map_{{ current_year }}"></div>
   <link href="https://unpkg.com/maplibre-gl@5.24.0/dist/maplibre-gl.css" rel="stylesheet" />
   <script src="https://unpkg.com/maplibre-gl@5.24.0/dist/maplibre-gl.js"></script>
+  <script src="/js/tracks.js"></script>
   <script>
     const map{{ current_year }} = new maplibregl.Map({
       container: 'map_{{ current_year}}',
@@ -21,6 +22,9 @@
             ...geoJson,
             coordinates: geoJson.coordinates ? [geoJson.coordinates[0].filter((c) => Array.isArray(c))] : [],
           };
+          if (cleanedJson.coordinates[0]) {
+            cleanedJson.coordinates = [unwrapLongitudes(cleanedJson.coordinates[0])];
+          }
           map{{current_year}}.touchZoomRotate.disableRotation();
           map{{ current_year }}.addSource('{{ track_name }}', {
             type: 'geojson',
