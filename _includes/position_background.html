@@ -23,4 +23,12 @@
         .addTo(map);
     });
   </script>
-  <p id="updated" class="meta">Position updated {{ site.data.position.time | date: "%A, %B %-d, %Y %H:%M UTC" }} via {{ site.data.position.source }}</p>
+  {% assign lat_deg = site.data.position.latitude | abs %}
+  {% assign lat_deg_f = lat_deg | floor %}
+  {% assign lat_min = lat_deg | minus: lat_deg_f | times: 60 %}
+  {% assign lat_min_f = lat_min | floor %}
+  {% assign lon_deg = site.data.position.longitude | abs %}
+  {% assign lon_deg_f = lon_deg | floor %}
+  {% assign lon_min = lon_deg | minus: lon_deg_f | times: 60 %}
+  {% assign lon_min_f = lon_min | floor %}
+  <p id="updated" class="meta">Position <span class="geo"><abbr class="latitude" title="{{ site.data.position.latitude }}">{{ lat_deg_f }}&deg;{{ lat_min_f }}'{% if site.data.position.latitude >= 0 %}N{% else %}S{% endif %}</abbr> <abbr class="longitude" title="{{ site.data.position.longitude }}">{{ lon_deg_f }}&deg;{{ lon_min_f }}'{% if site.data.position.longitude >= 0 %}E{% else %}W{% endif %}</abbr></span> on {{ site.data.position.time | date: "%b %-d %H:%M UTC" }} via {{ site.data.position.source }}</p>
