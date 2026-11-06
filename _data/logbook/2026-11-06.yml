@@ -225,6 +225,7 @@
     - bergie
     - ihmis-suski
   id: 269199c7-b941-4250-9c4f-704d0750664c
+  category: navigation
 - category: radio
   text: Contacted Taupo Maritime Radio on 6215 kHz (and follow-up VHF 67),
     received "Welcome to New Zealand"
@@ -250,6 +251,38 @@
     direction: 4.153006857563569
   barometer: 1014.0900268554688
   log: 20613.149244060474
+  vhf: "16"
+  crewNames:
+    - bergie
+    - ihmis-suski
+  engine:
+    engines:
+      main:
+        hours: 1194.4872222222223
+- category: navigation
+  text: New Zealand territorial waters
+  datetime: 2026-11-06T06:23:34.430Z
+  origin: manual
+  author: bergie
+  id: a9a1da15-50c1-4372-984b-5e6d55c6194d
+  timestamp: 2026-11-06T06:23:34.772Z
+  heading: 185.0023424697915
+  course: 181.3067646911977
+  position:
+    latitude: -34.9567614
+    longitude: 174.2424729
+    source: GPS
+  speed:
+    sog: 4.198704103671706
+    stw: 4.459540911145712
+  waypoint:
+    latitude: -34.51319
+    longitude: 174.483462
+  wind:
+    speed: 13.767120030232853
+    direction: 345.1497757868079
+  barometer: 1014.4000244140625
+  log: 20614.78639308855
   vhf: "16"
   crewNames:
     - bergie
