@@ -120,6 +120,14 @@ function ensurePositionMeta(entry, trackName) {
 const signalKUrl = 'http://192.168.2.105';
 const historyResolutionSeconds = 180;
 
+// The live track gets re-fetched on every backup run, most of them with
+// the boat at anchor. Rewriting it for a few dozen meters of GPS jitter
+// would produce a pointless commit each time, so rewrites are gated on
+// the vessel having moved at least this far (NM) from the last recorded
+// track end. A "from" window marker keeps the track rebased to the
+// latest blog entry even while stationary.
+const minimumMovementNm = 0.05;
+
 // Reads the vessel track for an exact time window from the Signal K
 // History API (no auth needed) and shapes it like the old tracks plugin
 // response, so the cleanup and position update steps work the same as
@@ -149,6 +157,53 @@ function fetchHistoryTrack(from, to) {
         type: 'MultiLineString',
         coordinates: [points],
       };
+    });
+}
+
+function lastTrackPoint(track) {
+  if (!track || !track.coordinates || !track.coordinates.length) {
+    return null;
+  }
+  const lastSegment = track.coordinates[track.coordinates.length - 1];
+  if (!lastSegment || !lastSegment.length) {
+    return null;
+  }
+  const [lon, lat] = lastSegment[lastSegment.length - 1];
+  return new Point(lat, lon);
+}
+
+// Pure decision for the live track gate: given the track currently on
+// disk and the freshly fetched one, should we rewrite the file?
+function shouldRewriteCurrentTrack(existing, geoJson) {
+  if (!existing || existing.from !== geoJson.from) {
+    // No usable existing track, or the track window changed (new blog
+    // post): rebase even without movement
+    return true;
+  }
+  const previous = lastTrackPoint(existing);
+  const latest = lastTrackPoint(geoJson);
+  if (!previous || !latest) {
+    return true;
+  }
+  const distance = previous.distanceTo(latest);
+  if (distance < minimumMovementNm) {
+    console.log(`current.json: vessel moved ${(distance * 1852).toFixed(0)} m since last update, below the ${(minimumMovementNm * 1852).toFixed(0)} m threshold, keeping existing track`);
+    return false;
+  }
+  console.log(`current.json: vessel moved ${(distance * 1852).toFixed(0)} m since last update, rewriting track`);
+  return true;
+}
+
+// Reads the existing live track and returns the track to write, or null
+// when the movement gate says to keep what is on disk
+function gateCurrentTrack(trackName, geoJson) {
+  return readFile(resolve(trackDir, trackName), 'utf-8')
+    .then((content) => JSON.parse(content))
+    .then((existing) => (shouldRewriteCurrentTrack(existing, geoJson) ? geoJson : null))
+    .catch((e) => {
+      // Missing or corrupt existing track, always write
+      console.log(`current.json: no usable existing track (${e.message}), writing`);
+      return geoJson;
     });
 }
 
@@ -218,9 +273,27 @@ function ensureTrack(entry, tracks) {
         // the next run
         return Promise.resolve();
       }
-      return writeFile(resolve(trackDir, trackName), JSON.stringify(geoJson, null, 2))
-        .then(() => {
-          return ensurePositionMeta(entry, trackName);
+      if (trackName !== 'current.json') {
+        return writeFile(resolve(trackDir, trackName), JSON.stringify(geoJson, null, 2))
+          .then(() => {
+            return ensurePositionMeta(entry, trackName);
+          });
+      }
+      // The live track is overwritten on every run, so gate rewrites
+      // on real movement to keep GPS jitter out of the commit history
+      const payload = {
+        ...geoJson,
+        from: entry.from.toISOString(),
+      };
+      return gateCurrentTrack(trackName, payload)
+        .then((update) => {
+          if (!update) {
+            return Promise.resolve();
+          }
+          return writeFile(resolve(trackDir, trackName), JSON.stringify(update, null, 2))
+            .then(() => {
+              return ensurePositionMeta(entry, trackName);
+            });
         });
     });
 }
@@ -258,7 +331,8 @@ function main() {
           .then(() => {
             // Produce also a "current" for tracks since latest blog post.
             // Take current.json off the "already have it" list so it is
-            // re-fetched and overwritten on every run.
+            // re-fetched on every run; its rewrites are gated on minimum
+            // movement to avoid GPS jitter commits.
             return ensureTrack({
               from: entries[entries.length - 1].to,
               to: new Date(),
@@ -329,4 +403,4 @@ if (process.argv[1] && import.meta.url === new URL(`file://${process.argv[1]}`).
   main();
 }
 
-export { fetchHistoryTrack };
+export { fetchHistoryTrack, gateCurrentTrack, shouldRewriteCurrentTrack };
