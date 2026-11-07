@@ -5,6 +5,7 @@ import {
 } from 'fs/promises';
 import { resolve, dirname, basename, extname } from 'path';
 import { parse, stringify } from 'yaml';
+import { FIRST_AUTOMATED_YEAR, solarDate, localDays } from './stormdays.mjs';
 
 const blogDir = '_logs';
 const logDir = '_data/logbook';
@@ -47,7 +48,7 @@ function getLogMeta(name, previous) {
 
 readdir(logDir)
   .then((files) => {
-    const logs = files.filter((f) => f.match(/^\d{4}-\d{2}-\d{2}\.yml$/));
+    const logs = files.filter((f) => f.match(/^\d{4}-\d{2}-\d{2}\.yml$/)).sort();
     return logs.reduce((prev, logFile) => {
       return prev.then((content) => {
         return readFile(resolve(logDir, logFile), 'utf-8')
@@ -60,6 +61,38 @@ readdir(logDir)
   })
   .then((logEntries) => {
     // Here we have an array of all log entries since the beginning of time
+    // Days are local solar days at the boat's position (UTC offset =
+    // longitude / 15), so carry the longitude forward and stamp every
+    // entry with the local date it was experienced on
+    const lonDates = [];
+    const lonValues = [];
+    logEntries.slice().sort((a, b) => new Date(a.datetime) - new Date(b.datetime)).forEach((entry) => {
+      const p = entry.position;
+      const lon = p && (Number.isFinite(p.longitude) ? p.longitude : p.lon);
+      if (!Number.isFinite(lon)) {
+        return;
+      }
+      if (lonValues.length && lonValues[lonValues.length - 1] === lon) {
+        return;
+      }
+      lonDates.push(new Date(entry.datetime).getTime());
+      lonValues.push(lon);
+    });
+    const longitudeAt = (instant) => {
+      const t = new Date(instant).getTime();
+      let lon = 0;
+      for (let i = 0; i < lonDates.length; i += 1) {
+        if (lonDates[i] <= t) {
+          lon = lonValues[i];
+        } else {
+          break;
+        }
+      }
+      return lon;
+    };
+    logEntries.forEach((entry) => {
+      entry.localDate = solarDate(entry.datetime, longitudeAt(entry.datetime));
+    });
     return readdir(blogDir)
       .then((files) => {
         const entries = [];
@@ -119,28 +152,32 @@ readdir(logDir)
             }
             return true;
           });
-        // Start iterating through the days of this trip
+        // Start iterating through the days of this trip. Days are
+        // local solar days at the boat's position.
         Object
           .keys(journeys)
           .forEach((year) => {
             const journey = journeys[year];
-            let day = new Date(journey.start.toISOString());
-            while (day < journey.end) {
-              const dayString = day.toISOString().substr(0, 10);
+            localDays(journey.start, journey.end, longitudeAt).forEach((dayString) => {
               journey.total_days += 1;
-              // Filter log entries to just this day
+              // Filter log entries to just this local day
               const dayEntries = tripEntries
-                .filter((entry) => {
-                  const entryDayString = entry.datetime.substr(0, 10);
-                  if (entryDayString !== dayString) {
-                    return false;
-                  }
-                  return true;
-                });
+                .filter((entry) => entry.localDate === dayString)
+                .sort((a, b) => new Date(a.datetime) - new Date(b.datetime));
+              // Distance covered during the local day, from log reading
+              // deltas (club rule: a Reisetag requires leaving the
+              // harbour and covering at least 5 nm)
+              let dayDistance = 0;
+              for (let i = 1; i < dayEntries.length; i += 1) {
+                const distance = dayEntries[i].log - dayEntries[i - 1].log;
+                if (distance > 0 && !Number.isNaN(distance)) {
+                  dayDistance += distance;
+                }
+              }
               // Now we can use the entries to figure out if this was a sailing day
               const navEntries = dayEntries
                 .filter((e) => e.category === 'navigation');
-              if (navEntries.length > 0) {
+              if (navEntries.length > 0 && dayDistance >= 5) {
                 journey.travel_days += 1;
               } else {
                 // For the legacy trips pre-2023, we should also check if there is a trip log entry for the day as the logbook data is not 100%
@@ -160,19 +197,25 @@ readdir(logDir)
                   journey.harbour_days += 1;
                 }
               }
-
-              // Go to next day
-              day.setDate(day.getDate() + 1);
-            }
+            });
           });
         return journeys;
       });
   })
   .then((journeys) => {
-    return readFile('_data/year_stats.yml', 'utf-8')
-      .then((c) => parse(c));
-  })
-      .then((storedYearStats) => {
+  return Promise.all([
+    readFile('_data/year_stats.yml', 'utf-8'),
+    readFile('_data/storm_days.yml', 'utf-8').catch((err) => {
+      if (err.code !== 'ENOENT') {
+        throw err;
+      }
+      return '';
+    }),
+  ]);
+})
+    .then(([yearStatsContent, stormDaysContent]) => {
+      const storedYearStats = parse(yearStatsContent);
+      const automatedStormDays = parse(stormDaysContent) || {};
         Object
           .keys(journeys)
           .forEach((year) => {
@@ -183,8 +226,14 @@ readdir(logDir)
               .keys(journeys[year])
               .forEach((key) => {
                 if (key === 'storm_days') {
-                  // These are entered manually
-                  storedYearStats[year][key] = storedYearStats[year][key] || 0;
+                  // From FIRST_AUTOMATED_YEAR onwards the storm days
+                  // are counted automatically from _data/storm_days.yml,
+                  // before that they were entered manually
+                  if (year >= FIRST_AUTOMATED_YEAR) {
+                    storedYearStats[year][key] = (automatedStormDays[year] || []).length;
+                  } else {
+                    storedYearStats[year][key] = storedYearStats[year][key] || 0;
+                  }
                   return;
                 }
                 storedYearStats[year][key] = journeys[year][key];
