@@ -541,3 +541,36 @@
     - bergie
     - ihmis-suski
   id: 66df0539-0639-46ef-9dea-33d80d2b7be6
+  category: navigation
+- datetime: 2026-11-16T22:58:07.302Z
+  text: "Sails set: Main (1st reef), Staysail. Gybed"
+  author: bergie
+  origin: auto
+  category: navigation
+  id: 0b4c0c64-eb45-48c0-800d-521882af876a
+  position:
+    latitude: -35.4512356
+    longitude: 174.4677118
+    source: GPS
+  waypoint:
+    latitude: -35.234328
+    longitude: 174.169414
+  vhf: "16"
+  crewNames:
+    - bergie
+    - ihmis-suski
+  timestamp: 2026-11-16T22:58:14.810Z
+  heading: 130
+  course: 142
+  speed:
+    sog: 5.4
+    stw: 5
+  log: 1935.7
+  barometer: 1017.89
+  wind:
+    speed: 20.4
+    direction: 337
+  engine:
+    engines:
+      main:
+        hours: 1202.2
