@@ -381,3 +381,36 @@
     - bergie
     - ihmis-suski
   id: 41c7e665-bce7-4144-abfa-fdabc4c442ac
+  category: navigation
+- datetime: 2026-11-16T19:16:15.000Z
+  text: Cape Brett bearing 124°T
+  category: navigation
+  origin: agent
+  author: bergie
+  id: e22759eb-be23-4016-9d83-6eeeb441d945
+  timestamp: 2026-11-16T19:20:39.358Z
+  position:
+    latitude: -35.16574823288877
+    longitude: 174.29247938832813
+    source: DR
+  waypoint:
+    latitude: -35.234328
+    longitude: 174.169414
+  vhf: "16"
+  crewNames:
+    - bergie
+    - ihmis-suski
+  heading: 47.99667449810906
+  course: 63.56393779181352
+  speed:
+    sog: 5.073434125269978
+    stw: 5.0494751117585
+  log: 1915.9958963282936
+  barometer: 1018.22998046875
+  wind:
+    speed: 4.302745933514247
+    direction: 269.5310260221495
+  engine:
+    engines:
+      main:
+        hours: 1201.0055555555555
