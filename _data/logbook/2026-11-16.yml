@@ -413,3 +413,68 @@
     - bergie
     - ihmis-suski
   id: b5c38a4d-bf90-45b1-b2dd-cafe05037ed2
+  category: navigation
+- datetime: 2026-11-16T20:25:00.300Z
+  text: Motor stopped, sailing with Main (1st reef), Genoa 1 (10% furled), Staysail
+  author: ""
+  origin: auto
+  position:
+    latitude: -35.2421543
+    longitude: 174.3780956
+    source: GPS
+  heading: 145
+  course: 146
+  speed:
+    stw: 4
+    sog: 4
+  log: 1922.1
+  waypoint:
+    latitude: -35.234328
+    longitude: 174.169414
+  barometer: 1018.54
+  wind:
+    speed: 10.5
+    direction: 304
+  engine:
+    engines:
+      main:
+        hours: 1202.1
+    hours: 1202.1
+  vhf: "16"
+  crewNames:
+    - bergie
+    - ihmis-suski
+  category: navigation
+  id: 0ae52025-30d7-495c-ba83-b876e48f697a
+- category: navigation
+  text: Windvane steering
+  datetime: 2026-11-16T20:28:19.627Z
+  origin: manual
+  author: bergie
+  id: 21a2f5ef-ef91-402b-81e4-d243c7d0a7cd
+  timestamp: 2026-11-16T20:28:19.959Z
+  heading: 164.99465626382317
+  course: 168.375107255095
+  position:
+    latitude: -35.2454795
+    longitude: 174.3800216
+    source: GPS
+  speed:
+    sog: 4.956803455723541
+    stw: 4.846049525340297
+  waypoint:
+    latitude: -35.234328
+    longitude: 174.169414
+  wind:
+    speed: 12.079983214916243
+    direction: 312.86254630804297
+  barometer: 1018.5499877929688
+  log: 1922.3533477321814
+  vhf: "16"
+  crewNames:
+    - bergie
+    - ihmis-suski
+  engine:
+    engines:
+      main:
+        hours: 1202.1538888888888
