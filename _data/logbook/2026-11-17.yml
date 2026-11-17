@@ -126,3 +126,36 @@
     - bergie
     - ihmis-suski
   id: 1fa9d5df-affc-435e-9658-17ba60c41d16
+  category: navigation
+- datetime: 2026-11-17T03:50:44.704Z
+  text: GPS fix, 1.9 NM at 174°T from DR
+  category: navigation
+  origin: agent
+  author: bergie
+  id: 6e342db5-3963-4726-80ba-0da65d5e3a67
+  timestamp: 2026-11-17T03:50:44.711Z
+  position:
+    latitude: -35.8425121
+    longitude: 174.6069199
+    source: GPS
+  log: 0
+  heading: 206.99819222486383
+  speed:
+    stw: 4.635843086041489
+    sog: 5.170626349892008
+  course: 198.74187039702866
+  waypoint:
+    latitude: -35.525693
+    longitude: 174.553104
+  wind:
+    speed: 13.072745911465297
+    direction: 9.097057427962701
+  barometer: 1015.3499755859375
+  vhf: "16"
+  crewNames:
+    - bergie
+    - ihmis-suski
+  engine:
+    engines:
+      main:
+        hours: 1202.1538888888888
