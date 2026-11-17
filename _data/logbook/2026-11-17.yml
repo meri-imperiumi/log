@@ -1,0 +1,33 @@
+- datetime: 2026-11-17T00:55:52.300Z
+  text: "Sails set: Main (1st reef), Genoa 1 (10% furled), Staysail. Gybed to wing
+    on wing"
+  author: bergie
+  origin: auto
+  category: navigation
+  id: 47b2af2b-d880-4ee9-96d0-f6bfde3ef1a5
+  position:
+    latitude: -35.580219
+    longitude: 174.5933398
+    source: GPS
+  waypoint:
+    latitude: -35.525693
+    longitude: 174.553104
+  vhf: "16"
+  crewNames:
+    - bergie
+    - ihmis-suski
+  timestamp: 2026-11-17T00:56:09.208Z
+  heading: 186
+  course: 169
+  speed:
+    sog: 6.499999999999999
+    stw: 6
+  log: 1945.7
+  barometer: 1017.07
+  wind:
+    speed: 16.9
+    direction: 354
+  engine:
+    engines:
+      main:
+        hours: 1202.2
