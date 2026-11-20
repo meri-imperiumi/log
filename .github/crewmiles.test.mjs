@@ -87,3 +87,101 @@ test('crew attribution (autopilot/windvane, crew rename) is unchanged', () => {
   assert.strictEqual(crewMiles.nissinen, 20);
   assert.strictEqual(crewMiles.starbuck, 10);
 });
+
+// Sail miles: intervals are credited to the sail set carried INTO them,
+// mirroring the motoring bucketing, and only while sailing.
+test('sail miles start at the motor-stop entry, not before it', () => {
+  const { sailMiles } = milesFromEntries([
+    entry('2026-06-01T08:00:00Z', 'Anchor up, motoring', 0),
+    entry('2026-06-01T09:00:00Z', '', 10),
+    entry('2026-06-01T10:00:00Z', 'Motor stopped, sailing with Main, Genoa 1', 20),
+    entry('2026-06-01T11:00:00Z', '', 30),
+  ]);
+  assert.deepStrictEqual(sailMiles.sails, {
+    Main: { miles: 10, hours: 1 },
+    'Genoa 1': { miles: 10, hours: 1 },
+  });
+  assert.deepStrictEqual(sailMiles.years['2026'], {
+    Main: { miles: 10, hours: 1 },
+    'Genoa 1': { miles: 10, hours: 1 },
+  });
+});
+
+test('"Sails set:" switches the credited set mid-passage', () => {
+  const { sailMiles } = milesFromEntries([
+    entry('2026-06-01T08:00:00Z', 'Motor stopped, sailing with Main, Genoa 1', 0),
+    entry('2026-06-01T10:00:00Z', 'Sails set: Main (1st reef)', 20),
+    entry('2026-06-01T11:00:00Z', '', 30),
+  ]);
+  // First interval (2h, 20NM) sailed with Main + Genoa 1; after
+  // re-reefing only Main stays credited (1h, 10NM)
+  assert.strictEqual(sailMiles.sails.Main.miles, 30);
+  assert.strictEqual(sailMiles.sails.Main.hours, 3);
+  assert.strictEqual(sailMiles.sails['Genoa 1'].miles, 20);
+  assert.strictEqual(sailMiles.sails['Genoa 1'].hours, 2);
+});
+
+test('"Sails down, motoring" ends sail attribution', () => {
+  const { sailMiles } = milesFromEntries([
+    entry('2026-06-01T08:00:00Z', 'Motor stopped, sailing with Staysail', 0),
+    entry('2026-06-01T09:00:00Z', 'Sails down, motoring', 10),
+    entry('2026-06-01T10:00:00Z', '', 20),
+  ]);
+  assert.strictEqual(sailMiles.sails.Staysail.miles, 10);
+  assert.strictEqual(sailMiles.sails.Staysail.hours, 1);
+});
+
+test('motorsailing miles are credited to the known set, cone means main up', () => {
+  const { sailMiles } = milesFromEntries([
+    entry('2026-06-01T08:00:00Z', 'Anchor up, motoring', 0),
+    entry('2026-06-01T09:00:00Z', 'Motorsailing with the cone', 10),
+    entry('2026-06-01T10:00:00Z', 'Motor stopped, sailing', 20),
+    entry('2026-06-01T11:00:00Z', '', 30),
+  ]);
+  // The first motoring interval had no known set; from the cone entry
+  // on the mainsail is up, motorsailing miles included
+  assert.deepStrictEqual(sailMiles.sails, {
+    Main: { miles: 20, hours: 2 },
+  });
+});
+
+test('cone day marker under plain motoring still sets the mainsail', () => {
+  const { sailMiles } = milesFromEntries([
+    entry('2026-06-01T08:00:00Z', 'Motor stopped, sailing with Genoa 1', 0),
+    entry('2026-06-01T09:00:00Z', 'Sails down, motoring', 10),
+    entry('2026-06-01T10:00:00Z', 'Motoring with the cone up, Gulf of Finland TSS', 20),
+    entry('2026-06-01T11:00:00Z', '', 30),
+  ]);
+  // Genoa came down at the sails-down entry; the cone then means the
+  // main went up and it takes the motoring miles from there
+  assert.deepStrictEqual(sailMiles.sails, {
+    'Genoa 1': { miles: 10, hours: 1 },
+    Main: { miles: 10, hours: 1 },
+  });
+});
+
+test('hand-edited lists: prose suffixes, multiline text, reef annotations', () => {
+  const { sailMiles } = milesFromEntries([
+    entry('2026-06-01T08:00:00Z', 'Motor stopped, sailing with Staysail, Genoa 1 (10% furled). Main was slatting too much', 0),
+    entry('2026-06-01T10:00:00Z', 'Sails set: Main (1st reef)\nWindvane steering. Suski on watch', 20),
+    entry('2026-06-01T11:00:00Z', '', 30),
+  ]);
+  // First two hours: Staysail + Genoa 1 (Main mentioned only in prose)
+  assert.strictEqual(sailMiles.sails.Staysail.miles, 20);
+  assert.strictEqual(sailMiles.sails['Genoa 1'].miles, 20);
+  assert.strictEqual(sailMiles.sails.Main.miles, 10);
+  assert.strictEqual(sailMiles.sails.Main.hours, 1);
+});
+
+test('trip end clears the sail set', () => {
+  const { sailMiles } = milesFromEntries([
+    entry('2026-06-01T08:00:00Z', 'Motor stopped, sailing with Main', 0),
+    entry('2026-06-01T09:00:00Z', 'Anchored', 10, { end: true }),
+    entry('2026-06-01T10:00:00Z', '', 20),
+  ]);
+  // The interval into the anchoring entry was still sailed with Main;
+  // everything after the trip end is unattributed
+  assert.deepStrictEqual(sailMiles.sails, {
+    Main: { miles: 10, hours: 1 },
+  });
+});

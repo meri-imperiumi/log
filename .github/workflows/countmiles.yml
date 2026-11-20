@@ -23,6 +23,7 @@ jobs:
         git config --local user.name "github-actions[bot]"
         git add _data/crew_miles.yml
         git add _data/year_miles.yml
+        git add _data/sail_miles.yml
         git add _data/year_stats.yml
         git commit -m "Recalculated crew miles" -a
     - name: Push changes
