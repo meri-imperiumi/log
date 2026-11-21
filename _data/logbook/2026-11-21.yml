@@ -1,0 +1,33 @@
+- datetime: 2026-11-21T00:29:27.500Z
+  text: Stopped
+  author: ""
+  origin: auto
+  position:
+    latitude: -35.7370703
+    longitude: 174.3333118
+    source: GPS
+  heading: 350
+  course: 323
+  speed:
+    stw: 0
+    sog: 0
+  log: 1981.9
+  waypoint:
+    latitude: -35.837755
+    longitude: 174.468833
+  barometer: 1024.34
+  wind:
+    speed: 4.7
+    direction: 179
+  engine:
+    engines:
+      main:
+        hours: 1206.3
+    hours: 1206.3
+  vhf: "16"
+  crewNames:
+    - bergie
+    - ihmis-suski
+  end: true
+  category: navigation
+  id: e09a5f89-57db-4ee5-9dc5-9f474caed1e8
