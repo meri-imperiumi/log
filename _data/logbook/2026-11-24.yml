@@ -1,0 +1,28 @@
+- datetime: 2026-11-24T08:15:34.766Z
+  text: GPS fix, 2.7 NM at 288°T from DR
+  category: navigation
+  origin: agent
+  author: bergie
+  id: d1cfbaec-82b9-46be-89fb-72e93e063092
+  timestamp: 2026-11-24T08:15:34.779Z
+  position:
+    latitude: -35.73702140651159
+    longitude: 174.33332197287496
+    source: GPS
+  log: 0
+  heading: 348.99432259213575
+  speed:
+    stw: 0
+    sog: 0
+  course: 195.57000732421875
+  wind:
+    speed: 2.1965442764578826
+    direction: 329.6750275769232
+  barometer: 1027.949951171875
+  crewNames:
+    - bergie
+    - ihmis-suski
+  engine:
+    engines:
+      main:
+        hours: 1206.2791666666667
