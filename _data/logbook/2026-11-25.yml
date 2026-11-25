@@ -56,3 +56,91 @@
     - ihmis-suski
   category: navigation
   id: b72d4ab2-617b-4424-b4de-493f78dec1a8
+- datetime: 2026-11-25T19:59:23.500Z
+  text: ""
+  author: ""
+  origin: auto
+  position:
+    latitude: -35.73558420651159
+    longitude: 174.33540497303966
+    source: GPS
+  heading: 349
+  course: 357
+  speed:
+    stw: 0
+    sog: 0
+  log: 1982
+  barometer: 1027.96
+  wind:
+    speed: 1.2
+    direction: 152
+  engine:
+    engines:
+      main:
+        hours: 1206.5
+    hours: 1206.5
+  vhf: "10"
+  crewNames:
+    - bergie
+    - ihmis-suski
+  id: 672268b5-984e-4cf1-89ed-e78441caa883
+  category: navigation
+- datetime: 2026-11-25T20:02:25.497Z
+  text: Stopped
+  author: ""
+  origin: auto
+  position:
+    latitude: -35.73557750651159
+    longitude: 174.33541067304043
+    source: GPS
+  heading: 349
+  course: 357
+  speed:
+    stw: 0
+    sog: 0
+  log: 1982
+  barometer: 1027.92
+  wind:
+    speed: 3.2
+    direction: 128
+  engine:
+    engines:
+      main:
+        hours: 1206.6
+    hours: 1206.6
+  vhf: "10"
+  crewNames:
+    - bergie
+    - ihmis-suski
+  end: true
+  category: navigation
+  id: 0aa957bd-4ee4-4d0a-af34-89e7abba2815
+- datetime: 2026-11-25T20:08:18.502Z
+  text: Motoring
+  author: ""
+  origin: auto
+  position:
+    latitude: -35.73310464588818
+    longitude: 174.33480683259518
+    source: GPS
+  heading: 346
+  course: 351
+  speed:
+    stw: 3.3
+    sog: 4.2
+  log: 1982
+  barometer: 1027.91
+  wind:
+    speed: 3.7
+    direction: 168
+  engine:
+    engines:
+      main:
+        hours: 1206.7
+    hours: 1206.7
+  vhf: "10"
+  crewNames:
+    - bergie
+    - ihmis-suski
+  category: navigation
+  id: eecfcf8b-d83d-426e-a4de-20c978932cf8
