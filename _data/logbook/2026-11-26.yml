@@ -1241,3 +1241,25 @@
   end: true
   category: navigation
   id: 95f4cfd8-9bd9-4c0a-887f-52fb96f25872
+- datetime: 2026-11-26T22:12:31.730Z
+  text: Sailing
+  author: ""
+  origin: auto
+  position:
+    latitude: -35.7273063659668
+    longitude: 174.3338165283203
+  course: 120
+  speed:
+    sog: 0.6
+  log: 1988.7
+  barometer: 1028.46
+  engine:
+    engines:
+      main:
+        hours: 1206.8
+    hours: 1206.8
+  crewNames:
+    - bergie
+    - ihmis-suski
+  category: navigation
+  id: c04f5f9d-dd57-468c-80ec-884217346787
