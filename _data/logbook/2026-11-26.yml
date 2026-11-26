@@ -61,6 +61,34 @@
   author: ""
   origin: auto
   position:
+    latitude: -35.72711257606776
+    longitude: 174.3334733693399
+    source: GPS
+  heading: 336
+  course: 346
+  speed:
+    stw: 1.9
+    sog: 0.4
+  log: 1985.3
+  barometer: 1028.81
+  wind:
+    speed: 7.7
+    direction: 239
+  engine:
+    engines:
+      main:
+        hours: 1206.8
+    hours: 1206.8
+  crewNames:
+    - bergie
+    - ihmis-suski
+  category: navigation
+  id: 18d5b9db-5674-4abd-ae20-ad03305bdf58
+- datetime: 2026-11-26T00:13:14.600Z
+  text: Sailing
+  author: ""
+  origin: auto
+  position:
     latitude: -35.72744445472987
     longitude: 174.33361069834677
     source: GPS
@@ -170,6 +198,34 @@
   category: navigation
   id: 3095e78e-2fca-4c31-93fb-7648a66a5c5f
 - datetime: 2026-11-26T00:13:14.600Z
+  text: Sailing
+  author: ""
+  origin: auto
+  position:
+    latitude: -35.72757796913417
+    longitude: 174.33333604010556
+    source: GPS
+  heading: 336
+  course: 221
+  speed:
+    stw: 1.9
+    sog: 0.5
+  log: 1985.4
+  barometer: 1028.83
+  wind:
+    speed: 7.7
+    direction: 240
+  engine:
+    engines:
+      main:
+        hours: 1206.8
+    hours: 1206.8
+  crewNames:
+    - bergie
+    - ihmis-suski
+  category: navigation
+  id: 42356afe-2959-43f4-82de-81bd95a6cd08
+- datetime: 2026-11-26T00:13:14.600Z
   text: Stopped
   author: ""
   origin: auto
@@ -226,6 +282,35 @@
     - ihmis-suski
   category: navigation
   id: 5ce9bc59-c0a8-4766-bdc8-7fdedf1099e6
+- datetime: 2026-11-26T00:13:14.600Z
+  text: Stopped
+  author: ""
+  origin: auto
+  position:
+    latitude: -35.72733764320643
+    longitude: 174.33353440443193
+    source: GPS
+  heading: 336
+  course: 346
+  speed:
+    stw: 1.9
+    sog: 0.5
+  log: 1985.4
+  barometer: 1028.8
+  wind:
+    speed: 7.7
+    direction: 240
+  engine:
+    engines:
+      main:
+        hours: 1206.8
+    hours: 1206.8
+  crewNames:
+    - bergie
+    - ihmis-suski
+  end: true
+  category: navigation
+  id: 6cc245d1-b3ab-4ade-b02a-f4a23edfe1ec
 - datetime: 2026-11-26T00:13:14.600Z
   text: Sailing
   author: ""
