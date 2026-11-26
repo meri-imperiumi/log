@@ -1168,34 +1168,53 @@
       main:
         hours: 1206.8
 - category: engine
-  text: Filled up 20l diesel
+  text: Filled up 45l diesel
   datetime: 2026-11-26T20:53:49.953Z
   origin: manual
   author: bergie
   id: 513b78a5-c747-4eca-bd3b-cccbc03c0acd
-  timestamp: 2026-11-26T20:53:50.551Z
-  heading: 335.5155453560904
-  course: 55.0099983215332
+  timestamp: 2026-11-26T21:24:06.123Z
   position:
     latitude: -35.72741012245448
     longitude: 174.33353440441124
     altitude: 4.099999904632568
     source: GPS
-  speed:
-    sog: 0.17299999042412115
-    stw: 1.936000044865948
-  wind:
-    speed: 7.705598669434184
-    direction: 242.2308695567971
-  barometer: 1028.659912109375
-  log: 1988.1103671706262
   crewNames:
     - bergie
     - ihmis-suski
+  heading: 335.5155453560904
+  course: 55.0099983215332
+  speed:
+    sog: 0.17299999042412115
+    stw: 1.936000044865948
+  log: 1988.1103671706262
+  barometer: 1028.659912109375
+  wind:
+    speed: 7.705598669434184
+    direction: 242.2308695567971
   engine:
     engines:
       main:
         hours: 1206.7844444444445
-  telemetry:
-    - path: communication.vhf.channel
-      value: ""
+- datetime: 2026-11-26T21:25:13.142Z
+  text: Sailing
+  author: ""
+  origin: auto
+  position:
+    latitude: -35.72775650024414
+    longitude: 174.33493041992188
+  course: 120
+  speed:
+    sog: 8.3
+  log: 1988.1
+  barometer: 1028.63
+  engine:
+    engines:
+      main:
+        hours: 1206.8
+    hours: 1206.8
+  crewNames:
+    - bergie
+    - ihmis-suski
+  category: navigation
+  id: 6f6eed91-330b-4cf1-a457-d900f8b21be5
