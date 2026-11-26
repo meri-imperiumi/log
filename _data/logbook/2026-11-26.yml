@@ -659,6 +659,34 @@
   author: ""
   origin: auto
   position:
+    latitude: -35.72749023109706
+    longitude: 174.3335344043885
+    source: GPS
+  heading: 336
+  course: 223
+  speed:
+    stw: 1.9
+    sog: 0.6
+  log: 1986.5
+  barometer: 1028.28
+  wind:
+    speed: 7.7
+    direction: 239
+  engine:
+    engines:
+      main:
+        hours: 1206.8
+    hours: 1206.8
+  crewNames:
+    - bergie
+    - ihmis-suski
+  category: navigation
+  id: a9f2d4ea-ca80-4a80-85a3-9684d49c08fa
+- datetime: 2026-11-26T00:13:14.600Z
+  text: Sailing
+  author: ""
+  origin: auto
+  position:
     latitude: -35.72727279335292
     longitude: 174.3336412159739
     source: GPS
@@ -768,3 +796,32 @@
   end: true
   category: navigation
   id: f88bd7e7-a1b1-4189-8446-8f4aecbeb949
+- datetime: 2026-11-26T00:13:14.600Z
+  text: Stopped
+  author: ""
+  origin: auto
+  position:
+    latitude: -35.72740249305995
+    longitude: 174.3335038868354
+    source: GPS
+  heading: 336
+  course: 15
+  speed:
+    stw: 1.9
+    sog: 0.7
+  log: 1986.6
+  barometer: 1028.24
+  wind:
+    speed: 7.7
+    direction: 239
+  engine:
+    engines:
+      main:
+        hours: 1206.8
+    hours: 1206.8
+  crewNames:
+    - bergie
+    - ihmis-suski
+  end: true
+  category: navigation
+  id: f91d004a-de85-4fc2-82a8-22b6647aee64
