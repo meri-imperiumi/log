@@ -358,3 +358,70 @@
   end: true
   category: navigation
   id: 77610d41-60b3-454e-b200-fd222c9f2dab
+- datetime: 2026-11-27T05:03:40.171Z
+  text: Sailing
+  author: ""
+  origin: auto
+  position:
+    latitude: -35.7273063659668
+    longitude: 174.33355712890625
+  course: 296
+  speed:
+    sog: 1.6
+  log: 1990.6
+  barometer: 1025.95
+  engine:
+    engines:
+      main:
+        hours: 1206.8
+    hours: 1206.8
+  crewNames:
+    - bergie
+    - ihmis-suski
+  category: navigation
+  id: d69083e9-2c21-4a3d-a8b6-61cf49076dff
+- datetime: 2026-11-27T05:09:33.011Z
+  text: Stopped
+  author: ""
+  origin: auto
+  position:
+    latitude: -35.72734832763672
+    longitude: 174.33352661132812
+  course: 296
+  speed:
+    sog: 0.5
+  log: 1990.6
+  barometer: 1025.93
+  engine:
+    engines:
+      main:
+        hours: 1206.8
+    hours: 1206.8
+  crewNames:
+    - bergie
+    - ihmis-suski
+  end: true
+  category: navigation
+  id: 2b0adadd-4432-4a66-a99e-f858f52bde7f
+- datetime: 2026-11-27T05:14:32.230Z
+  text: Sailing
+  author: ""
+  origin: auto
+  position:
+    latitude: -35.72748565673828
+    longitude: 174.333984375
+  course: 15
+  speed:
+    sog: 1.8
+  log: 1990.6
+  barometer: 1026.02
+  engine:
+    engines:
+      main:
+        hours: 1206.8
+    hours: 1206.8
+  crewNames:
+    - bergie
+    - ihmis-suski
+  category: navigation
+  id: e57715b9-26d2-41fd-ace6-cb33be37e8ee
