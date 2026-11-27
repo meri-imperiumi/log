@@ -673,3 +673,25 @@
   end: true
   category: navigation
   id: c0e2bf90-be44-4ad0-86e1-87dec3df5121
+- datetime: 2026-11-27T10:14:31.566Z
+  text: Sailing
+  author: ""
+  origin: auto
+  position:
+    latitude: -35.72724533081055
+    longitude: 174.33384704589844
+  course: 44
+  speed:
+    sog: 1.5
+  log: 1992
+  barometer: 1027.87
+  engine:
+    engines:
+      main:
+        hours: 1206.8
+    hours: 1206.8
+  crewNames:
+    - bergie
+    - ihmis-suski
+  category: navigation
+  id: cab8a5ef-e74a-4488-8b01-e9052fc707b6
