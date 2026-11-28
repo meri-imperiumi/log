@@ -446,6 +446,9 @@ h2.meta {
 .meta .geo {
   margin-left: 0.7em;
 }
+.intro .meta .geo {
+  margin-left: 0;
+}
 .geo abbr {
   text-decoration: none;
 }
