@@ -34,7 +34,7 @@ readdir('_data/logbook')
       .then((c) => JSON.parse(c))
       .then((data) => {
         const aisDate = new Date(data.timestamp);
-        if (aisDate > logPosition.time) {
+        if (!logPosition || aisDate > logPosition.time) {
           // AIS is newer, use that. We're likely offshore and without internet
           return {
             time: aisDate,
@@ -52,7 +52,7 @@ readdir('_data/logbook')
       .then((c) => JSON.parse(c))
       .then((data) => {
         const inreachDate = new Date(data.timestamp);
-        if (inreachDate > logPosition.time) {
+        if (!logPosition || inreachDate > logPosition.time) {
           // InReach is newer, use that. We're likely far offshore and without internet
           return {
             time: inreachDate,
@@ -70,7 +70,7 @@ readdir('_data/logbook')
       .then((c) => JSON.parse(c))
       .then((data) => {
         const winlinkDate = new Date(data.timestamp);
-        if (winlinkDate > logPosition.time) {
+        if (!logPosition || winlinkDate > logPosition.time) {
           // Winlink is newer, use that. We're likely far offshore and without internet
           return {
             time: winlinkDate,
